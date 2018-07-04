@@ -8,7 +8,6 @@
   <string name="ad_download">Baixada</string>
   <string name="ad_downloading">Un moment…</string>
   <string name="ad_txt">广告</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Amaga els fitxers ara</string>
   <string name="add_private_files">Afegeix fitxers</string>
   <string name="album_creator">Creat per %s</string>
@@ -169,7 +168,6 @@
   <string name="dialog_type_image">Imatges</string>
   <string name="dialog_type_text">Documents</string>
   <string name="dialog_type_video">Vídeos</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">Disponible:</string>
   <string name="disk_total">Total:</string>
   <string name="dislike_toast">"Aquests vídeos no són recomanables per a vostè."</string>
@@ -225,7 +223,6 @@
   <string name="favorite_ringtone">Tons de trucada</string>
   <string name="favorite_screen_cap">Captures de pantalla</string>
   <string name="female">Dona</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Lectura:</string>
   <string name="file_info_canwrite">Escriptura:</string>
   <string name="file_info_ishidden">Ocult:</string>
@@ -350,11 +347,9 @@
   <string name="message_comment_prefix">"Comentari: "</string>
   <string name="message_my_received_notification">Missatge nou</string>
   <string name="message_my_received_praise">Els meus M\'agrada</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" m'agrada aquest comentari"</string>
   <string name="message_praise_video">" m'ha agradat aquest vídeo"</string>
   <string name="message_reply_prefix">Respondre</string>
-  <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Router</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
   <string name="midrop_msg_2">Quan Mi Drop estigui actiu, podeu cercar dispositius propers i enviar fitxers</string>
@@ -451,7 +446,6 @@
   <string name="operation_share">Compartir</string>
   <string name="operation_show_sys">Mostra fitxers ocults</string>
   <string name="operation_unfavorite">Treu dels destacats</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Pugeu regularment vídeos originals per obtindre l\'estat de Creador</string>
   <string name="original_user_qq_group">Uniu-vos al grup de l\'equip de talent QQ</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s\'ha unit a la comunitat</string>
@@ -530,7 +524,6 @@
   <string name="recommend_popup_title">Recomanacions</string>
   <string name="recommend_topic">Temes recomanades</string>
   <string name="recommend_user">Perfils recomanades</string>
-  <string name="recommend_users">%1$s+</string>
   <string name="remote_video_report_success">"Gràcies pel vostre informe! Li donarem un cop d'ull tan aviat com sigui possible."</string>
   <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, pot ser que no ho aconsegueixis obrir."</string>
   <string name="rename_alert2">El fitxer s\'ocultarà.</string>
@@ -586,8 +579,6 @@
   <string name="search_result_more">Més</string>
   <string name="search_statistic_appname">source</string>
   <string name="search_statistic_keyword">keyin</string>
-  <string name="search_statistic_match_invalid">0</string>
-  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Cerca</string>
   <string name="search_title_hint">Cerca</string>
@@ -693,7 +684,6 @@
   <string name="top_videos">Comparteix el rànquing</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
-  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_title">Temes</string>
   <string name="transfer_done">Fitxers moguts correctament.</string>
   <string name="transfer_private_data">Movent carpetes ocultes de la targeta SD&#8230;</string>
@@ -825,14 +815,11 @@
   <string name="video_retry_btn">点击重试</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
-  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Personalitza el tema</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Seleccionar tòpic</string>
   <string name="video_topic_hint">Cerca</string>
   <string name="video_upload_btn">Següent</string>
   <string name="video_upload_btn_hint">Els vídeos MP$ hauran de tenir de 3s~10min de durada</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Pugeu vídeos a KuaiShou per aconseguir més admiradors.</string>
   <string name="video_upload_retry_confirm">Torna-ho a provar</string>
   <string name="video_upload_retry_message">"No s'ha pogut pujar, intentar de nou?"</string>

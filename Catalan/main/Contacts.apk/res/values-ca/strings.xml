@@ -100,7 +100,6 @@
   <string name="call_sim_menu_title_suffix">(Primària)</string>
   <string name="call_telex">Trucada tèlex</string>
   <string name="call_tty_tdd">Trucada TTY/TDD</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">USD</string>
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
@@ -198,8 +197,6 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"></string>
   <string name="config_export_file_suffix"></string>
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_delete_contact_all_call_logs">"Esborrar registre de trucades?"</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
@@ -488,7 +485,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="force_touch_new_contact">Contacte nou</string>
   <string name="foundTooManyContacts">Més de %d trobats.</string>
   <string name="frequentList">Freqüents</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Nom</string>
   <string name="gallery">Galeria</string>
   <string name="generic_no_account_prompt">Mantenir els contactes segurs fins i tot si perds el teu telèfon: sincronitzar amb un servei en línia. </string>
@@ -570,7 +566,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="keep_local">"Mantenir local"</string>
   <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del telèfon"</string>
   <string name="label_custom_type">Personalitzat</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">No s\'han trobat duplicats</string>
   <string name="label_notes">Notes</string>
   <string name="label_sip_address">Trucada internet</string>
@@ -677,7 +672,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="miprofile_contact_header">Contactes amb targeta de contacte</string>
   <string name="miprofile_contact_meaasge">Contactes locals</string>
   <string name="miprofile_contact_verifying">Verificant</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Edita perfil</string>
   <string name="miprofile_error_accept_self">"No pots intercanviar la teva pròpia targeta de contacte"</string>
   <string name="miprofile_error_no_miaccount">Inicia la sessió amb el teu compte Mi</string>
@@ -833,10 +827,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="path_wipe_data">Aplicacions del sistema/Contactes/Organitza els contactes/Esborra dades</string>
   <string name="payphone">Telèfon públic</string>
   <string name="people">Contactes</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telèfon</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Número massa llarg</string>
   <string name="phone_primary">Primària</string>
   <string name="photoPickerNotFoundText">No hi ha imatges disponibles al telèfon.</string>
@@ -1083,7 +1074,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="sim_unloaded">"La targeta SIM no està posada"</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No hi ha membres en el grup</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Per l\'empresa</string>
   <string name="smart_group_company_unavailable">Cap empresa</string>
   <string name="smart_group_frequency_1">Durant el passat mes</string>
@@ -1128,7 +1118,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="starred_contacts">Favorits</string>
   <string name="status_available">Disponible</string>
   <string name="status_away">Lluny</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_busy">Ocupat</string>
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>
@@ -1218,7 +1207,6 @@ Trieu una de les següents opcions: "</string>
   <string name="voip_audio_description">Trucada VoIP</string>
   <string name="voip_video_description">Videotrucada VoIP</string>
   <string name="websiteLabelsGroup">Pàgina web</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Esborrar dades</string>
   <string name="yellowPageNavigationIconLabel">Pàgines grogues</string>
   <string name="yellowPageNavigationLabel">Pàgines grogues</string>

@@ -15,7 +15,6 @@
   <string name="btn_stop">Atura</string>
   <string name="btn_yes">Sí</string>
   <string name="check_new_version">Comprova</string>
-  <string name="chengelog">%1$s</string>
   <string name="dialog_3g_desc">Tingueu en compte que l\'ús de dades mòbils per baixar ROM pot tenir una quota important del vostre paquet.</string>
   <string name="dialog_3g_title">Avís!</string>
   <string name="dialog_btn_3g">Continua de totes maneres</string>
@@ -33,7 +32,6 @@ Les dades no s\'esborraran.\"</string>
   <string name="menu_title_current_version_log">Novetats</string>
   <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
   <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
-  <string name="message">%1$s</string>
   <string name="message_checkbox">Oculta els missatges futurs de l\'equip de Xioami.eu</string>
   <string name="message_title">NOTA!</string>
   <string name="new_version">S\' ha trobat una nova versió!</string>
@@ -56,7 +54,6 @@ Les dades no s\'esborraran.\"</string>
   <string name="server_error">El servidor no respon, pot ser que l\'aplicació no funcioni correctament!</string>
   <string name="share_title">Comparteix amb</string>
   <string name="stable">estable</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="version">Instal·lat actualment:</string>
   <string name="weekly">setmanal</string>
   <string name="wifi_recommended">No hi ha connexió Wi-Fi per començar a baixar de manera segura!</string>

@@ -109,7 +109,6 @@
   <string name="menu_title_select_folder">Seleccionar carpeta</string>
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Alliberar</string>
-  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ara no</string>
   <string name="note_alert_expired">Caducat</string>
   <string name="note_description_content">L\'aplicació Notes és una gran eina per a registrar les vostres idees. Inclou recordatoris i sincronitza els elements amb el Mi Cloud perquè pugueu accedir-hi en qualsevol lloc i en qualsevol moment. Assegureu-vos que podeu prescindir d\'aquestes funcions abans d\'eliminar l\'aplicació.</string>
@@ -155,7 +154,6 @@
   <string name="search_label">S\'està cercant…</string>
   <string name="search_path_notes">Aplicacions del sistema/Notes</string>
   <string name="search_setting_description">Escrigui les seves notes</string>
-  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Sincronitzar notes</string>
   <string name="set_alarm_description">Estableix alarma</string>
   <string name="snippet_audio_stub">Voice Note</string>
@@ -228,5 +226,4 @@ http://www.miui.com/forum.php?lang=1
 "</string>
   <string name="widget_content_loading">Un moment…</string>
   <string name="widget_havenot_content">No s\'ha trobat nota associada. Toqui per crear una nota associada. Per redimensionar premi i arrossegui a una vora.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

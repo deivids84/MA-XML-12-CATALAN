@@ -37,11 +37,7 @@
   <string name="already_download_btn">S\'està baixant&#8230;</string>
   <string name="already_favorited">Ja està als preferits</string>
   <string name="always_use_metered">Always use mobile data</string>
-  <string name="api">0.45</string>
-  <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
   <string name="app_label">Baixades</string>
-  <string name="app_name">ACTIVITY_ENTRY_NAME</string>
-  <string name="app_type">CMSDK</string>
   <string name="artist">Artistes</string>
   <string name="artist_album">Àlbums</string>
   <string name="artist_area_all">Tots</string>
@@ -93,8 +89,6 @@
   <string name="button_sort_by_date">Ordena per data</string>
   <string name="button_sort_by_size">Ordena per mida</string>
   <string name="button_wait_for_wifi">Espera</string>
-  <string name="campaign_refresh_period">600000</string>
-  <string name="campaign_server_refresh_period">600000</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_running_download">Cancel·la</string>
   <string name="change_download_quality">Canvia la qualitat de baixada</string>
@@ -117,7 +111,6 @@
   <string name="cloud_state_storage_full">No hi ha prou espai al telèfon, s\'ha pausat la còpia de seguretat</string>
   <string name="cloud_welcome_message">Còpia de seguretat de les cançons</string>
   <string name="cloud_welcome_summary">Feu una còpia de seguretat de les cançons al Mi Cloud i escolteu-les en altres dispositius</string>
-  <string name="com.crashlytics.android.build_id">7a8d86aa-7de1-4d7a-8019-9eb8a8b75234</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Activa</string>
   <string name="common_google_play_services_enable_text">"%1$s no funcionarà si no activeu els serveis de Google Play."</string>
@@ -140,12 +133,10 @@
   <string name="confirm">D\'acord</string>
   <string name="confirm_exit">Your changes have not been saved. Do you want to save changes?</string>
   <string name="connecting_apk">S\'està connectant…</string>
-  <string name="connection_timeout">30000</string>
   <string name="continue_backup">Continua</string>
   <string name="count_format">%2$1.1f K</string>
   <string name="cp_info_first">«El servei de retransmissió de música
 és principalment proveït per Ultimate Inc.»</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"No s'ha pogut crear l'ordre, torneu-ho a provar."</string>
   <string name="create_playlist">Crea una llista de reproducció</string>
   <string name="create_playlist_failure">"No s'ha pogut crear la llista de reproducció "</string>
@@ -157,7 +148,6 @@
   <string name="date_format_str">dd-MM-yyyy</string>
   <string name="default_cmsdk_sender_id">XXXXX</string>
   <string name="default_placement_display_num">5</string>
-  <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
   <string name="delete">Elimina</string>
   <string name="delete_download">Elimina</string>
   <string name="delete_file_as_well">Esborra permanentment aquesta cançó</string>
@@ -244,7 +234,6 @@
   <string name="download_method">Baixa</string>
   <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
   <string name="download_paused_in_power_save_mode">Les baixades es posaran en pausa quan s\'activi l\'estalvi de bateria</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_processing">S\'està baixant&#8230;</string>
   <string name="download_quality">Qualitat de la baixada</string>
   <string name="download_quality_summary">Configuració addicional per la baixada de cançons</string>
@@ -280,9 +269,6 @@
   <string name="downloading_apk">S\'està baixant… Vegeu el progrés al panell de notificació.</string>
   <string name="downloading_empty">Buit</string>
   <string name="downloading_pause_apk">S\'ha pausat. Reprèn la baixada al panell de notificació.</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_playlist_info">Edit playlist info</string>
   <string name="empty_page_no_album">No hi ha àlbums.</string>
   <string name="empty_page_no_artist">No hi ha artistes.</string>
@@ -316,11 +302,7 @@
   <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
   <string name="error_title">"No es pot sincronitzar amb el Compte Mi"</string>
   <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'inicis de sessió.</string>
-  <string name="event_delivery_attempts_on_500">5</string>
-  <string name="event_flush_batch_size">5</string>
-  <string name="event_serialized_max_number">5</string>
   <string name="expired">Ha vençut</string>
-  <string name="facebook_app_id">1310336955745219</string>
   <string name="facebook_not_installed">Install Facebook first.</string>
   <string name="fail_to_fetch_payment_page_url">"No s'ha pogut obtenir la informació de pagament"</string>
   <string name="fail_to_play">"No es pot reproduir la cançó"</string>
@@ -346,17 +328,13 @@
   <string name="filter_by_size_prefix">"Amaga fitxers més petits que "</string>
   <string name="filter_by_size_summary">Amaga fitxers d\'àudio petits</string>
   <string name="filter_size_unit">%dKB</string>
-  <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
-  <string name="flush_period">120000</string>
   <string name="follow">Segueix</string>
   <string name="followed">Seguint</string>
   <string name="font_family">miui</string>
-  <string name="format">3.1</string>
   <string name="format_not_support">"Aquest format no és compatible."</string>
   <string name="format_unsupported_or_corrupted">"El format no està suportat o el fitxer està corrupte"</string>
   <string name="fragment_title_artist_album">Àlbums</string>
   <string name="garbage_cleanup">Netejador</string>
-  <string name="gcm_defaultSenderId">948829309969</string>
   <string name="global_search_app_name">Música</string>
   <string name="global_search_description_entry">Gaudiu de la música</string>
   <string name="global_search_description_hot">Actualització setmanal</string>
@@ -386,10 +364,6 @@
   <string name="global_search_title_prenatal">Música prenatal</string>
   <string name="global_search_title_radar">Reconeixement musical</string>
   <string name="go_to_settings">Vés a la configuració</string>
-  <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-  <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
-  <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-  <string name="google_storage_bucket">mi-music-global.appspot.com</string>
   <string name="handle_later">Ara no</string>
   <string name="hide_album">Oculta la portada de l\'àlbum</string>
   <string name="hide_lyric">Oculta la lletra</string>
@@ -413,8 +387,6 @@
   <string name="impunity_declaration_summary">Mostra les condicions del servei cada vegada que s\'obre l\'aplicació Música</string>
   <string name="impunity_declaration_title">Termes d\'ús</string>
   <string name="in_searching_please_wait">S\'està cercant&#8230;</string>
-  <string name="inbox_keep_in_heap_limit">10</string>
-  <string name="inbox_request_limit">3</string>
   <string name="individuation_recommend_message">Activeu les recomanacions per rebre suggeriments personalitzats segons les vostres preferències.</string>
   <string name="individuation_recommend_switch_message">En desactivar aquesta característica, es veuran afectats els serveis personalitzats de Música Mi. Voleu desactivar-la de totes maneres?</string>
   <string name="individuation_recommend_title">Recomanacions</string>
@@ -448,7 +420,6 @@
   <string name="local_page_custom_title">Per a vós</string>
   <string name="local_page_playlist">Llistes de reproducció</string>
   <string name="local_page_song_download_history">Baixades</string>
-  <string name="location_fetching_on">true</string>
   <string name="long_press_to_select_lyric">Press &amp; hold to select local lyrics file</string>
   <string name="lrc_search_failed">"No s'han pogut trobar les lletres"</string>
   <string name="lrc_searching">S\'està cercant&#8230;</string>
@@ -520,7 +491,6 @@
   <string name="no_album_info">No hi ha informació de l\'àlbum</string>
   <string name="no_artist_info">No hi ha informació de l\'artista</string>
   <string name="no_downloads">Sense baixades</string>
-  <string name="no_duration">--:--</string>
   <string name="no_favorites_songs">Buit</string>
   <string name="no_file_picker_find">"L'explorador de fitxers no està instal·lat en aquest dispositiu"</string>
   <string name="no_local_songs">Buit</string>
@@ -555,7 +525,6 @@
   <string name="nowplaying_circle_style_wave">Onades</string>
   <string name="nowplaying_dialog_title_delete_tracks">Voleu eliminar-la de la llista de reproducció?</string>
   <string name="nowplaying_menu_item_delete">Esborra</string>
-  <string name="ntp_host_address">pool.ntp.org</string>
   <string name="ok">D\'acord</string>
   <string name="online_list_delete_message">Totes les cançons baixades d\'aquesta llista de reproducció seran eliminades de la memòria interna.</string>
   <string name="online_recommend">Llista de reproducció</string>
@@ -569,7 +538,6 @@
   <string name="optimize_all_until_optimized">S\'està aplicant una nova portada i lletres…</string>
   <string name="optimize_all_until_scanned">Espereu fins que Música finalitzi la comprovació de l\'emmagatzematge de les cançons.</string>
   <string name="other_song_in_album">Altres cançons d\'aquest àlbum</string>
-  <string name="partner_id">3041</string>
   <string name="paused_by_app">Pausat</string>
   <string name="paused_in_power_save_mode">Pausa quan s\'iniciï l\'estalvi de bateria</string>
   <string name="paused_insufficient_space">S\'està esperant</string>
@@ -580,7 +548,6 @@
   <string name="pay_now">Servei actual</string>
   <string name="payment_success_message">Thank you! Your payment was processed successfully. Enjoy PRO services.</string>
   <string name="payment_success_title">Congrats!</string>
-  <string name="pdf_image_url_workaround">http://dl-spa.catchmedia.com/repository/pdf2html.php?url=</string>
   <string name="pending_apk">Pendent…</string>
   <string name="permission_declaration_message">Permeteu l\'accés a l\'emmagatzematge a Seguretat &gt; Permisos &gt; Permisos &gt; Emmagatzematge &gt; Música disponible per utilitzar normalment.</string>
   <string name="permission_declaration_negative_text">Més tard</string>
@@ -606,8 +573,6 @@
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Llistes de reproducció</string>
   <string name="playlist_type_recommend">Llistes de reproducció destacades</string>
-  <string name="playlists_max_content_number">1000</string>
-  <string name="playlists_max_number">1000</string>
   <string name="please_download_first">Cal baixar la cançó abans de poder-la establir com a to de trucada</string>
   <string name="please_select_song">Seleccioneu una cançó primer</string>
   <string name="power_save_mode_dialog_msg">S\'ha activat l\'estalvi de bateria. Voleu iniciar la baixada?</string>
@@ -615,9 +580,7 @@
   <string name="priority_storage">Utilitza la targeta SD externa</string>
   <string name="priority_storage_summary">Baixa automàticament a la targeta SD externa si està disponible</string>
   <string name="privacy_policy">Política de privadesa</string>
-  <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
   <string name="project_device">Telèfon Mi</string>
-  <string name="project_id">mi-music-global</string>
   <string name="prompt_grant_write_settings_permission">Sol·licitud de permís de configuració</string>
   <string name="pulluprefreshrecyclerview_loading_error">"No s'ha pogut carregar"</string>
   <string name="pulluprefreshrecyclerview_loading_finished">S\'ha carregat amb èxit</string>
@@ -651,7 +614,6 @@
   <string name="recognized_alert_title">S\'ha trobat la portada de l\'àlbum i lletra</string>
   <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
   <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la vostre connexió de dades mòbils per baixar aquest fitxer?</string>
-  <string name="recordForReadIntervalDelaySeconds">60</string>
   <string name="remove">Esborra</string>
   <string name="remove_download">Esborra</string>
   <string name="repeat_all_notif">S\'estan repetint totes les cançons.</string>
@@ -672,7 +634,6 @@
   <string name="s6">Voleu que l\'anunci creï un esdeveniment de calendari?</string>
   <string name="s7">Anunci de prova</string>
   <string name="save_changes">Save changes</string>
-  <string name="sdk_ver">1.0.7.4</string>
   <string name="search_album_and_lyric">Cerca la portada dels àlbums i lletres</string>
   <string name="search_empty">"No s'ha pogut trobar resultats"</string>
   <string name="search_for_album">Àlbum</string>
@@ -691,7 +652,6 @@
   <string name="select_none">Desselecciona-ho tot</string>
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
   <string name="send_to_title">Envia a (%1$s)</string>
-  <string name="sender_id">XXXXX</string>
   <string name="server_connection_failed">Sorry, you must be online to use this function</string>
   <string name="server_error">S\'ha produït un error, espereu un minut o dos i torneu-ho a provar.</string>
   <string name="service_and_settings">Servei i configuració</string>
@@ -748,7 +708,6 @@
   <string name="start_shuffle">Inicia la reproducció aleatòria…</string>
   <string name="start_to_download">S\'està baixant&#8230;</string>
   <string name="start_to_play">Reprodueix</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop">Atura</string>
   <string name="stop_backup">Atura</string>
   <string name="storage_internal">Emmagatzematge intern</string>
@@ -801,14 +760,12 @@
   <string name="toast_uhd_songs_for_download">S\'ha establert la qualitat de baixada a alta</string>
   <string name="toast_uhd_songs_for_stream">S\'ha establert la qualitat de transmissió a alta</string>
   <string name="ultra_high_quality">La més alta</string>
-  <string name="uninterruptedPlayIntervalSeconds">300</string>
   <string name="unknown_album_name">Àlbum desconegut</string>
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="update_now">Actualitza ara</string>
   <string name="upgrade_music">Actualitza Música</string>
   <string name="upgrade_music_message">Les actualitzacions estan a punt. Reinicieu per actualitzar.</string>
   <string name="user_agreement">Acord d\'usuari</string>
-  <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
   <string name="version_info">Versió</string>
   <string name="vip_after_tomorrow_auto_renew_message">La vostra subscripció de Música es renovarà automàticament la nit del dia després de demà. Assegureu-vos de tenir suficients Crèdits Mi en el vostre compte per completar aquest pagament.</string>
   <string name="vip_after_tomorrow_renew_message">"No podreu escoltar música en transmissió d'alta qualitat, però algunes cançons estaran disponibles en qualitat normal."</string>
@@ -820,11 +777,8 @@
   <string name="vip_required_with_song">Obteniu el paquet de cançons prèmium per reproduir «%s». L\'hem omès per vós.</string>
   <string name="vip_tomorrow_auto_renew_message">La vostra subscripció de Música serà renovada automàticament demà a la tarda. Assegureu-vos de tenir suficients Crèdits Mi al vostre compte per completar el pagament.</string>
   <string name="vip_tomorrow_renew_message">"No podreu escoltar música en transmissió d'alta qualitat, però algunes cançons estaran disponibles en qualitat normal."</string>
-  <string name="web_service_url">pa-spa.catchmedia.com</string>
-  <string name="web_service_url_version">v47</string>
   <string name="wifi_required_body" formatted="false">"Connecteu-vos a la Wi-Fi per completar aquesta baixada %s.
 
 Premeu %s per iniciar aquesta baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
   <string name="wifi_required_title">Heu de connectar-vos a Wi-Fi per baixar aquest fitxer</string>
-  <string name="ws_ver">4.4</string>
 </resources>

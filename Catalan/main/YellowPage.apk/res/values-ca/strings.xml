@@ -224,7 +224,6 @@
   <string name="nearby_average_price">Mitjana de %d iuans</string>
   <string name="nearby_no_yellow_page">No hi ha resultats a prop</string>
   <string name="nearby_yellow_page_title">A prop</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">S\'ha denegat l\'accés a la xarxa</string>
   <string name="network_load_fail">数据加载失败</string>
   <string name="network_unavailable">请确保你的手机已经联网</string>
@@ -243,7 +242,6 @@
   <string name="order_id_label">ID de la comanda: %1$s</string>
   <string name="order_info">Informació de la comanda</string>
   <string name="order_merchant_title">Les meves comandes</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">No hi ha cap comanda</string>
   <string name="order_price_label">Preu de la comanda: %1$s</string>
   <string name="order_product_name_label">Nom del producte: %1$s</string>
@@ -265,7 +263,6 @@
   <string name="payment_unknown_status_title">"No s'ha pogut confirmar l'estat del pagament"</string>
   <string name="phone_event_setting_notice_text">"En utilitzar aquesta característica, accepteu les nostres %1$s i %2$s."</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">"En utilitzar aquesta característica, accepteu les nostres %1$s i %2$s. Cal accedir als vostres contactes."</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d en total</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
   <string name="pull_to_refresh_refreshing_label">Un moment…</string>
@@ -294,7 +291,6 @@
   <string name="recharge_payment_result_ok_title">S\'han afegit %s iuans</string>
   <string name="recharge_payment_result_progress_summary">S\'està comprovant el resultat del pagament&#8230;</string>
   <string name="recharge_phone">Numero a recarregar:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">"Cal introduir un número de telèfon"</string>
   <string name="recharge_phone_number_error">El número de telèfon introduït no és vàlid</string>
   <string name="recharge_select_money_title">Seleccioneu la quantitat a recarregar</string>
@@ -325,7 +321,6 @@ Total: %3$s iuans"</string>
   <string name="service_unavailiable">Servei no disponible</string>
   <string name="setting_yp_cta">设置权限开关</string>
   <string name="share">Comparteix</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">"Ha fallat l'enviament"</string>
@@ -335,7 +330,6 @@ Total: %3$s iuans"</string>
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: restaureu-lo</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: restaureu-lo</string>
   <string name="smart_antispam">Identitat de trucada</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="tag_follow_status">tag_follow_status</string>
   <string name="tag_follow_yp_id">tag_follow_yp_id</string>
   <string name="toast_finish_delete_call_log">S\'ha eliminat el registre de trucades</string>

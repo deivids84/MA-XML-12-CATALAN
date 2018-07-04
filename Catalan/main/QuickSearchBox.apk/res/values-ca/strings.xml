@@ -98,7 +98,6 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="search_sources">Elements que es poden cercar</string>
   <string name="search_sources_summary">Trieu què cercar al telèfon</string>
   <string name="search_suggestion">Consells</string>
-  <string name="search_title_quicksearchbox">@string/app_name</string>
   <string name="search_videos">Cerca vídeos</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Cerca</string>

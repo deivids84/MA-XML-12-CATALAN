@@ -515,7 +515,6 @@
   <string name="card_main_private_space_summary">Utilitzar el Segon espai és com tenir 2 dispositius</string>
   <string name="card_main_private_space_title">Segon espai</string>
   <string name="card_main_sectool_title">Eines</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_xspace_action">Crea</string>
   <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
@@ -573,13 +572,6 @@
   <string name="cpu_usage_process_run_time_little_time">Menys d\'un minut</string>
   <string name="cpu_usage_view_action_btn_text">Toqueu per mostrar-ho</string>
   <string name="create_shortcut">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
-  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
-  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
-  <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
-  <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
-  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
-  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="cta_dialog_msg">El centre de seguretat pot connectar a Internet per obtenir actualitzacions.</string>
   <string name="cta_dialog_title">Termes i condicions.</string>
   <string name="cta_settings">Permet la connexió a internet</string>
@@ -718,7 +710,6 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="downloading">S\'està baixant</string>
   <string name="dual_setting_simcard1">SIM 1 </string>
   <string name="dual_setting_simcard2">SIM 2 </string>
-  <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
   <string name="email">Correu electrònic</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">No hi ha aplicacions</string>
@@ -1210,7 +1201,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Ús de dades</string>
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1382,7 +1372,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="om_media_scan_timeout_proc_detail">El servidor multimèdia treballa en segon pla. Podeu restringir-ne l\'activitat.</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimèdia</string>
   <string name="om_memory_clean_cleaning_text">S\'està accelerant…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Per accelerar la velocitat restringiu l\'activitat en segon pla</string>
   <string name="om_notify_cpu_load_too_high_title">L\'ús de CPU de %s és massa alt</string>
   <string name="om_notify_need_clean_memory_summary">Esborreu la memòria cau per augmentar la velocitat</string>
@@ -1634,7 +1623,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_normal_traffic_limit">Quan el pla de dades s\'esgoti</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
   <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Quan reviseu el pla de dades</string>
   <string name="pref_package_traffic_settings">Pla de dades</string>
   <string name="pref_pkg_begin_date">Restablir la data d\'ús</string>
@@ -1655,7 +1643,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Excepcions d\'itinerància de dades</string>
-  <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
@@ -1673,8 +1660,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_information_setting_close">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
@@ -1704,7 +1689,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="privacy_prompt_tc_sms_report_message">"El seu número de telèfon i detalls de l'operador s'han d'encriptar i pujaran als servidors de Xiaomi per tal d'actualitzar la informació de la seva utilització de les dades."</string>
   <string name="privacy_prompt_traffic_adjust_message">Aquesta característica ha de xifrar i enviar el IMEI del dispositiu, número de telèfon i informació de l\'operador als servidors Mi amb la finalitat d\'obtenir estadístiques d\'ús de les dades del seu operador.</string>
   <string name="privacy_prompt_upload">Pujar</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Servidor de mitjans</string>
   <string name="promotion">Anunci</string>
   <string name="prompt_all">Demana-ho tot</string>
@@ -1932,20 +1916,15 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_antispam_des_uesless">Desactivat</string>
   <string name="st_antispam_mode_add_new">Afegeix regles</string>
   <string name="st_antispam_mode_blacklist">Números blocats</string>
-  <string name="st_antispam_mode_blacklist_state">11112121</string>
   <string name="st_antispam_mode_blacklist_sum">"Bloca trucades i SMS dels números que heu afegit manualment a la llista de blocatge"</string>
   <string name="st_antispam_mode_denyownself_sum">Criteris personalitzats</string>
   <string name="st_antispam_mode_only_all_deny">Bloca-ho tot</string>
-  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
   <string name="st_antispam_mode_only_all_deny_sum">Bloqueja tots els missatges i trucades</string>
   <string name="st_antispam_mode_only_contacts">Només permet els contactes</string>
-  <string name="st_antispam_mode_only_contacts_state">11110000</string>
   <string name="st_antispam_mode_only_contacts_sum">Permet trucades i missatges només de contactes</string>
   <string name="st_antispam_mode_only_whitelist">Només permetre excepcions</string>
-  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Permet trucades i missatges només de números a la llista d\'excepcions</string>
   <string name="st_antispam_mode_smart">Números notificats</string>
-  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">"Bloca els números que heu afegit manualment i els que s'han reportat per altres usuaris"</string>
   <string name="st_antispam_title_anoy_incoming">Trucades de desconeguts</string>
   <string name="st_antispam_title_anoy_sms">Missatges de desconeguts</string>

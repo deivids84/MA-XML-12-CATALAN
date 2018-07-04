@@ -631,7 +631,6 @@ Darrera execució el %2$s"</string>
   <string name="battery_stats_duration">%1$s des de que s\'ha desendollat</string>
   <string name="battery_stats_flashlight_on_label">Flaix engegat</string>
   <string name="battery_stats_gps_on_label">S\'ha activat el GPS</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">Bateria per %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de la xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla engegada</string>
@@ -943,7 +942,6 @@ Taxa de mostreig"</string>
   <string name="bootloader_status_unlocked">Desbloquejat</string>
   <string name="bootloader_status_unlocked_info">Aquest dispositiu està desbloquejat</string>
   <string name="bootloader_summary">Flasheja el dispositiu mitjançant USB</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Color del LED</string>
   <string name="breathing_light_color_summary">Color del LED per a notificacions noves</string>
   <string name="breathing_light_freq_summary">Pampalluga quan hi ha notificacions noves</string>
@@ -988,7 +986,6 @@ Taxa de mostreig"</string>
   <string name="calendar_sound_title">So del calendari</string>
   <string name="call_manager_enable_summary">Permet que aquest servei administri com es fan les trucades.</string>
   <string name="call_manager_enable_title">Habilita l\'administrador de trucades</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Administrador de trucades</string>
   <string name="call_settings_primary_user_only">Canvia la configuració de trucades en el primer espai</string>
   <string name="call_settings_summary">Configura la bústia de veu, devolució de trucada, trucada en espera, identificador de trucada</string>
@@ -1040,10 +1037,6 @@ Taxa de mostreig"</string>
   <string name="carrier_enabled">Activa/Desactiva APN</string>
   <string name="carrier_enabled_summaryOff">S\'ha desactivat l\'APN</string>
   <string name="carrier_enabled_summaryOn">S\'ha activat l\'APN</string>
-  <string name="category_key_device">com.android.settings.category.device</string>
-  <string name="category_key_personal">com.android.settings.category.personal</string>
-  <string name="category_key_system">com.android.settings.category.system</string>
-  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="cdma_security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de credencials</string>
@@ -1054,7 +1047,6 @@ Taxa de mostreig"</string>
   <string name="cellular_data_summary">Permet l\'accés de dades a través de la xarxa mòbil</string>
   <string name="cellular_data_title">Dades mòbils</string>
   <string name="cellular_data_usage">Ús de dades mòbils</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Canvia</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
   <string name="change_security_lock">Prova altres formes de desbloqueig</string>
@@ -1593,7 +1585,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="dndm_auto_button_title">Torna al mode No molesteu</string>
   <string name="dndm_auto_setting_group">Programat</string>
   <string name="dndm_auto_time_setting">Estableix hora</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Fins</string>
   <string name="dndm_auto_time_turn_off_title">Desactiva automàticament el mode No molesteu</string>
   <string name="dndm_auto_time_turn_on">Des de</string>
@@ -2058,7 +2049,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gadget_picker_title">Trieu un giny</string>
   <string name="gadget_state_off">apagat</string>
   <string name="gadget_state_on">engegat</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">s\'està apagant</string>
   <string name="gadget_state_turning_on">s\'està engegant</string>
   <string name="gadget_sync">Sincronitza</string>
@@ -2410,7 +2400,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lift_to_wake_title">Aixeca\'l per reactivar-lo</string>
   <string name="line_breaking_summary">Optimitza els salts de línia del paràgraf</string>
   <string name="line_breaking_title">Optimitza el text</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Velocitat de l\'enllaç:</string>
   <string name="list_bg_header_text">"Si restringiu la connexió de fons, les noves aplicacions no podran connectar-se a Internet en segon pla després d'instal·lar-les. És possible que no puguin rebre missatges o baixar contingut després d'això."</string>
   <string name="list_empty_text">Buida</string>
@@ -2773,7 +2762,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Ús de la memòria</string>
   <string name="memory_usage_apps">Memòria utilitzada per les aplicacions</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s mitjana de memòria utilitzada en les 3 últimes hores</string>
   <string name="menu_cancel">Descarta</string>
   <string name="menu_check">Experiència</string>
@@ -3022,7 +3010,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_how_it_works_got_it">D\'acord</string>
   <string name="nfc_how_it_works_title">S\'està pagant des del terminal</string>
   <string name="nfc_more_title">Més...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Aplicació per defecte per als pagaments</string>
   <string name="nfc_payment_default_not_set">No s\'ha configurat</string>
   <string name="nfc_payment_favor_default">Utilitza sempre l\'aplicació per defecte</string>
@@ -3109,7 +3096,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_channels_other">Altres</string>
   <string name="notification_content_block_summary">No mostris mai notificacions al panell o en dispositius perifèrics</string>
   <string name="notification_content_block_title">Mostra les notificacions</string>
-  <string name="notification_header_divider_symbol_with_spaces">" • "</string>
   <string name="notification_importance_blocked">No mostris mai les notificacions d\'aquesta aplicació</string>
   <string name="notification_importance_default">Sense interrupció de la pantalla completa ni previsualització.</string>
   <string name="notification_importance_default_title">Alta</string>
@@ -3235,7 +3221,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="overlay_settings">Dibuixa a sobre d\'aplicacions</string>
   <string name="owner_info_settings_edit_text_hint">Exemple: Android d\'en Jordi</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Cap</string>
   <string name="owner_info_settings_title">Signatura de la pantalla de bloqueig</string>
   <string name="owner_space">Primer espai</string>
@@ -3335,7 +3320,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
   <string name="phone_language_summary"></string>
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Teclat físic</string>
   <string name="pick_up_gesture_wakeup_title">Aixeca per despertar</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
@@ -3365,9 +3349,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center">Energia</string>
   <string name="power_charge_remaining">%1$s per a carregar</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins a plena</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_checker">Comprovador d\'energia</string>
   <string name="power_discharge_remaining">%1$d restants</string>
   <string name="power_discharging_duration">%1$s - aprox. queda %2$s</string>
@@ -3554,8 +3536,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="private_sms_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
   <string name="private_sms_reset_by_account">Per restablir la contrasenya, inicieu la sessió en el compte Mi</string>
   <string name="process_dex2oat_label">Optimització de l\'aplicació</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Servidor multimèdia</string>
   <string name="process_provider_in_use_description">S\'està utilitzant el proveïdor %1$s.</string>
   <string name="process_service_in_use_description">Servei %1$s s\'està utilitzant.</string>
@@ -3595,15 +3575,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="proxy_error_invalid_exclusion_list">La llista d\'exclusió que heu introduït no té el format adequat. Introduïu una llista separada per comes dels dominis exclosos.</string>
   <string name="proxy_error_invalid_host">El nom d\'amfitrió que heu introduït no és vàlid.</string>
   <string name="proxy_error_invalid_port">El port que heu introduït no és vàlid.</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_exclusionlist_label">Deriva cap a</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Nom de l\'amfitrió</string>
-  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port</string>
   <string name="proxy_settings_label">Configuració del proxy</string>
   <string name="proxy_settings_title">Servidor intermediari</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="proxy_url_title">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">El navegador utilitza el servidor intermediari HTTP però és possible que altres aplicacions no l\'utilitzin.</string>
   <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
@@ -4186,7 +4162,6 @@ Per fer-ho:
   <string name="security_encryption_attention_3">"Cal una nova contrasenya pel bloqueig de pantalla."</string>
   <string name="security_encryption_attention_4">"Assegureu-vos de recordar la contrasenya de bloqueig de pantalla, sinó haureu de realitzar una reinicialització de fàbrica i es suprimiran totes les dades del dispositiu."</string>
   <string name="security_encryption_attention_info">Podeu xifrar els comptes, la configuració, les aplicacions baixades, les dades, els fitxers multimèdia i tots els altres fitxers.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Important</string>
   <string name="security_encryption_close_dialog_info">Si no xifreu el dispositiu amb la contrasenya de bloqueig de pantalla pot ser que alguns serveis de Google no estiguin disponibles.</string>
   <string name="security_encryption_close_dialog_title">Torna a la protecció amb la contrasenya per defecte</string>
@@ -4271,11 +4246,9 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="selinux_status_enforcing">S\'està forçant</string>
   <string name="selinux_status_permissive">Permissiu</string>
   <string name="service_background_processes">%1$s lliures</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s usats</string>
   <string name="service_manage">Configuració</string>
   <string name="service_manage_description">%1$s: Actualment en ús. Ajusteu-ho des de Configuració.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">S\'està reiniciant</string>
   <string name="service_started_by_app">Iniciat per l\'aplicació.</string>
   <string name="service_stop">Atura</string>
@@ -4299,7 +4272,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
   <string name="settings_notify_need_backup">Feu una còpia de seguretat de la configuració al Mi Cloud per accedir-hi després d\'haver canviat els telèfons.</string>
   <string name="settings_notify_phone_recycled">El vostre número de telèfon ha estat reciclat. Toqueu per afegir un número de telèfon diferent.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">S\'està carregant…</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
   <string name="settings_safetylegal_activity_unreachable">No hi ha connexió de dades. Per veure la informació, aneu a %s des de qualsevol ordinador connectat a Internet.</string>
@@ -4437,7 +4409,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sim_reenter_new">Torneu a introduir el PIN nou</string>
   <string name="sim_select_card">Selecciona una targeta SIM</string>
   <string name="sim_selection_required_pref">Cal seleccionar una preferència</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">Targetes SIM</string>
   <string name="sim_setup_wizard_title">Targetes SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4451,7 +4422,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Omet de totes maneres</string>
   <string name="skip_label">Omet</string>
@@ -4517,7 +4487,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_carrier_settings_no_sim_card">No SIM card</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons de la pantalla</string>
   <string name="status_bar_screen_button_key_force_immersive">Amaga els botons de la pantalla</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
@@ -4529,7 +4498,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings_all_app_display_loading">Un moment…</string>
   <string name="status_bar_settings_app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="status_bar_settings_basic_settings">Configuració bàsica</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
   <string name="status_bar_settings_custom_wifi_name">Edita el nom del Wi-Fi</string>
   <string name="status_bar_settings_enable_notification">Mostra les notificacions</string>
@@ -4762,9 +4730,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_empty"></string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_placeholder"> </string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="summary_two_lines_placeholder">" 
  "</string>
@@ -4826,7 +4792,6 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">S\'està sincronitzant…</string>
   <string name="sync_is_failing">Hi ha problemes amb la sincronització. Aviat tornarà a estar disponible.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel·la la sincronització</string>
   <string name="sync_menu_sync_now">Sincronitza\'l ara</string>
   <string name="sync_now">Sincronitza</string>
@@ -5792,11 +5757,9 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</strin
   <string name="wifi_security_eap">802.1 x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1 x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

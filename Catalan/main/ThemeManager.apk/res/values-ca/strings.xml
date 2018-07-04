@@ -62,7 +62,6 @@
   <string name="find_more_theme">Troba\'n més</string>
   <string name="find_more_wallpapers">Troba\'n més</string>
   <string name="gift_anonymous">Anònim</string>
-  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel·la</string>
   <string name="gift_operation_fail_dlg_retry">Torna-ho a provar</string>
   <string name="gift_operation_waiting">Un moment…</string>
@@ -437,7 +436,6 @@
   <string name="theme_is_external_priority_storage">Desa a la targeta SD</string>
   <string name="theme_is_external_priority_storage_summary">L\'aplicació Temes es reiniciarà immediatament per aplicar els canvis</string>
   <string name="theme_multiple_button_title_customize">Personalitza</string>
-  <string name="theme_name">%1$s</string>
   <string name="theme_no">No</string>
   <string name="theme_precast_create_notification_content">Toqueu per veure nous temes.</string>
   <string name="theme_precast_create_notification_title"> Actualitzats a MIUI 7</string>

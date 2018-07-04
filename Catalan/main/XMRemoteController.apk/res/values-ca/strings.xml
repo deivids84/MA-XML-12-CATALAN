@@ -120,7 +120,6 @@
   <string name="app_uninstall">Desinstal·la</string>
   <string name="app_update">Actualiza</string>
   <string name="app_version">Versió %1$s</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="append_ok_key_after_num">Premeu el botó de confirmació després d\'un número</string>
   <string name="application">Aplicacions</string>
   <string name="auto_tune">Sintonia automàtica</string>
@@ -136,8 +135,6 @@
   <string name="bind_stb_dlg">Emparella el descodificador per canviar els canals</string>
   <string name="bind_stb_dlg_2">Afegiu primer el descodificador</string>
   <string name="bind_stb_dlg_agree">Emparella</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Seleccioneu fabricant</string>
   <string name="brand_title_all">Totes</string>
   <string name="brand_title_hot">Popular</string>
@@ -191,7 +188,6 @@ Proveu el següent per solucionar el problema:
   <string name="channel_list">Llista de canals</string>
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s tret de preferits</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Cerca actualitzacions</string>
   <string name="choose_ac">Seleccioneu un control remot</string>
   <string name="choose_address_title">Selecciona ubicació</string>
@@ -439,7 +435,6 @@ Proveu el següent per solucionar el problema:
   <string name="hot_videos">Recomanades</string>
   <string name="hour">h</string>
   <string name="humidity">Humitat:</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Incrementa</string>
   <string name="input_complete">D\'acord</string>
   <string name="input_dialogue_cancel_button">Cancel·la</string>
@@ -516,7 +511,6 @@ Proveu el següent per solucionar el problema:
   <string name="local_video">Local videos</string>
   <string name="locate_current_place">Cercant la ubicació actual</string>
   <string name="location_select">Canvia el nom del dispositiu</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Inicia la sessió</string>
   <string name="login_directly">Inicia la sessió</string>
   <string name="login_done">S\'ha iniciat la sessió</string>
@@ -545,7 +539,6 @@ Proveu el següent per solucionar el problema:
   <string name="match_data">Informació de vinculació</string>
   <string name="match_data_error_tips">"No s\'ha pogut obtenir informació
 Retrocediu per continuar"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Funcionen els botons de direcció?</string>
   <string name="match_dvd_intro_pause">Allibereu quan es quedi en pausa la reproducció del DVD</string>
   <string name="match_dvd_intro_play">Allibereu quan el DVD comenci a reproduir</string>
@@ -984,10 +977,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
   <string name="password_toggle_content_description">Canvia la visibilitat de la contrasenya</string>
-  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="place_frame">"Ubicació: "</string>
   <string name="play_in_phone">Mira al telèfon</string>
   <string name="play_mi_video">Reprodueix al dispositiu mòbil</string>
@@ -1082,8 +1071,6 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="scaning">Cercant&#8230;</string>
   <string name="scanning_milink">S\'està cercant dispositius&#8230;</string>
   <string name="scene_default">Per defecte</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">截取电视屏幕</string>
   <string name="screen_shot_delete">删除</string>
   <string name="screen_shot_delete_warning">Esteu segur que voleu suprimir la captura de pantalla?</string>
@@ -1234,9 +1221,7 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="start_auto_tune">开始自动换台</string>
   <string name="start_diagnosis">Prova</string>
   <string name="start_match">Emparella</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Descodificador</string>
-  <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">Engega/atura receptor</string>
   <string name="steps">Intent #%d</string>
   <string name="stop_auto_tune">停止自动换台</string>
@@ -1264,7 +1249,6 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="third_app_launch_failed">应用启动失败</string>
   <string name="third_party_video">Altres vídeos</string>
   <string name="time_error">Sembla que l\'hora no és correcte</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Temporitzador</string>
   <string name="timer_turn_off">Programa l\'hora d\'aturada</string>
   <string name="timer_turn_on">Programa l\'hora d\'encesa</string>
@@ -1393,7 +1377,6 @@ Per canviar, manteniu premut el botó d\'engegada del TV"</string>
   <string name="wind_sweep">Rotació</string>
   <string name="wx_not_installed">Instal·leu primer WeChat</string>
   <string name="xiaomi_vip">VIP Mi</string>
-  <string name="year_format">%1$d</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>

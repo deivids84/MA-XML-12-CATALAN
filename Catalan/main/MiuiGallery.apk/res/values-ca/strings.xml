@@ -195,7 +195,6 @@
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Cal fer una còpia de seguretat de les fotos de la càmera</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Voleu restablir el fons de pantalla de bloqueig per defecte?</string>
   <string name="cancel_download_btn_text">Atura</string>
@@ -844,7 +843,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="face_name_edit">Edita</string>
   <string name="face_name_input">Introduïu el nom</string>
   <string name="face_recommend">Recomanacions</string>
-  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">"No s'ha pogut completar l'operació"</string>
   <string name="fail_to_pick_email">L\'adreça de correu electrònica no és vàlida</string>
   <string name="fail_to_sync_album">"No s'ha pogut sincronitzar l'àlbum. Comproveu la connexió de dades i torneu a intentar-ho."</string>
@@ -853,7 +851,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="fast_share_auto_render">Embelleix</string>
   <string name="fast_share_auto_render_finish">Embellit</string>
   <string name="feature_guidance_photo_effects">Photo effects</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter_bi_memory">Memòria</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Rosa</string>
@@ -922,7 +919,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Defineix</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">La Galeria necessita accés a %s per funcionar normalment, premeu Estableix per anar als Permisos.</string>
   <string name="grant_permission_title">Permet l\'accés</string>
   <string name="grant_permission_unlock_and_set">Desbloqueja i configura</string>
@@ -1116,7 +1112,6 @@ per personalitzar la galeria"</string>
   <string name="people_mark_mode_title_no_mark_name">Selecciona una persona</string>
   <string name="people_page_label">Persones</string>
   <string name="people_page_unname">Sense nom</string>
-  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">Fotos de mascotes</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Fotos</string>
@@ -1184,8 +1179,6 @@ per personalitzar la galeria"</string>
   <string name="photo_editor_talkback_redo">Redo</string>
   <string name="photo_editor_talkback_undo">Undo</string>
   <string name="photo_editor_text">Text</string>
-  <string name="photo_editor_transition_image_view">photo_view</string>
-  <string name="photo_editor_transition_menu_view">menu_view</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
@@ -1249,7 +1242,6 @@ per personalitzar la galeria"</string>
   <string name="projection_stop">Atura l\'emissió</string>
   <string name="projection_switch_title">Canvia a</string>
   <string name="projection_video_quit">Premeu per sortir</string>
-  <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
   <string name="public_url_descript">Qualsevol pot veure el vostre àlbum utilitzant aquesta URL</string>
   <string name="publish_failed">"No s'ha pogut publicar"</string>
   <string name="publish_succeeded">Àlbum publicat</string>
@@ -1360,9 +1352,6 @@ per personalitzar la galeria"</string>
   <string name="search_title_recommend">Recomanat</string>
   <string name="search_title_suggestion">Suggeriments</string>
   <string name="search_title_tag">Objectes</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
-  <string name="search_transition_element_voice">search_voice</string>
   <string name="searching_cast_devices">S\'està cercant el projector…</string>
   <string name="secret_album_card_description">El millor lloc per a tots els petits secrets</string>
   <string name="secret_album_card_title">Proveu els àlbums privats</string>
@@ -1631,7 +1620,6 @@ per personalitzar la galeria"</string>
   <string name="view_more_face_desc">View more people</string>
   <string name="view_queuing_status">Comprova l\'estat</string>
   <string name="voice_assistant">Voice input</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="who_is_this">Qui és?</string>

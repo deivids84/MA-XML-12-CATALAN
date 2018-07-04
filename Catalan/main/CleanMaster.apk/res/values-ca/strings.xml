@@ -192,7 +192,6 @@
   <string name="dialog_title_uninstall_apps">Desinstal·la</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
-  <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Buit</string>
   <string name="empty_content_no_privacy">Buit</string>
   <string name="empty_content_no_similar_image">No hi ha fotos</string>
@@ -246,7 +245,6 @@
   <string name="hints_garbage_cleanup_result_safe">Tot sembla correcte</string>
   <string name="hints_garbage_handle_item_content">%1$d elements, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Buit</string>
-  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">Poc usada</string>
   <string name="hints_installed_app_near">Utilitzada recentment</string>
   <string name="hints_installed_app_never">No s\'ha utilitzat mai</string>
@@ -450,8 +448,6 @@
   <string name="pref_title_open_optimizer_cloud_scan">Pujar noms de fitxers</string>
   <string name="pref_title_open_optimizer_memory_scan">Escaneja la memòria d\'aplicacions</string>
   <string name="preference_category_auto_clean_up">key_category_auto_clean_up</string>
-  <string name="preference_category_information_setting">category_information_setting</string>
-  <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_key_auto_clean_operation">key_auto_clean_operation</string>
   <string name="preference_key_auto_clean_trigger">key_auto_clean_trigger</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
@@ -461,8 +457,6 @@
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
   <string name="preference_key_information_auto_clean_switch">key_information_auto_clean_switch</string>
-  <string name="preference_key_information_setting_close">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
   <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>

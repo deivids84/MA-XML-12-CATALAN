@@ -23,7 +23,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s baixades</string>
   <string name="app_label">Baixades</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Compte Xunlei</string>
   <string name="auth_fail">"No s'ha pogut obtenir l'autorització"</string>
   <string name="bind_xunlei_account">S\'ha afegit el compte %1$s de Xunlei</string>
@@ -49,7 +48,6 @@
   <string name="copy_info">S\'ha copiat al porta-retalls. Podeu compartir-lo amb els amics!</string>
   <string name="creat_task_success">Afegit a cua de baixades</string>
   <string name="create_task">Crear tasca</string>
-  <string name="default_web_client_id">923211599680-381p8rl6vludtbls72uunluha4jt735f.apps.googleusercontent.com</string>
   <string name="delete">Elimina</string>
   <string name="delete_download">Elimina</string>
   <string name="delete_downloads_records">Elimina les baixades</string>
@@ -108,7 +106,6 @@
   <string name="download_list_title_browser">Baixades</string>
   <string name="download_no_application">Cap aplicació suporta aquest format</string>
   <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
-  <string name="download_num_size">%1$s | %2$s</string>
   <string name="download_paused">Baixada en pausa</string>
   <string name="download_pending">Baixada pendent</string>
   <string name="download_queued">En cua</string>
@@ -157,18 +154,12 @@
   <string name="file_exist_hint">Aquest fitxer ja existeix</string>
   <string name="file_picker">Escull una ubicació</string>
   <string name="file_size">Mida:</string>
-  <string name="firebase_database_url">https://miui-data-statistics.firebaseio.com</string>
   <string name="free_high_speed_channel">Accelerador Xunlei (gratuït)</string>
   <string name="free_speedup_exp">Proveu de franc l\'accelerador de baixades Xunlei</string>
-  <string name="gcm_defaultSenderId">923211599680</string>
   <string name="get_account_dialog_msg">Obtenir informació del compte&#8230;</string>
   <string name="get_data_failed">"No s'ha pogut obtenir la informació, torneu-ho a provar més tard"</string>
   <string name="get_order_dialog_msg">Obtenir informació de la comanda&#8230;</string>
   <string name="get_order_fail_msg">"No s'ha pogut crear la comanda"</string>
-  <string name="google_api_key">AIzaSyDyUxqoPkEH-Tg_dYdQKXbYGkZtHRnNzGw</string>
-  <string name="google_app_id">1:923211599680:android:cdafbff100f2659e</string>
-  <string name="google_crash_reporting_api_key">AIzaSyDyUxqoPkEH-Tg_dYdQKXbYGkZtHRnNzGw</string>
-  <string name="google_storage_bucket">miui-data-statistics.appspot.com</string>
   <string name="goto_global_search">S\'està cercant «%1$s» al web</string>
   <string name="guess_like">També li podria agradar</string>
   <string name="high_speed_channel">Accelerador Xunlei (de pagament):&#160;</string>
@@ -449,7 +440,6 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="xl_vip_semiannual">Semestral: %1$s Crèdits Mi × 6</string>
   <string name="xunlei_account_has_unbind_message">Compte Xunlei treta</string>
   <string name="xunlei_brand">Desenvolupat per Xunlei</string>
-  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Activar</string>
   <string name="xunlei_close_tips_content">Accelerador de baixades Xunlei.</string>
   <string name="xunlei_close_tips_title">Accelera les baixades</string>

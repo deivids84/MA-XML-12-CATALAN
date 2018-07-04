@@ -135,13 +135,9 @@
   <string name="remind_ringtone">So</string>
   <string name="reset">Restableix</string>
   <string name="revert">Anul·la</string>
-  <string name="search_alarm_clock">@string/alarm_list_title</string>
   <string name="search_alarm_clock_keywords">Alarma; Despertador;</string>
-  <string name="search_stopwatch">@string/stopwatch_title</string>
   <string name="search_stopwatch_keywords">Cronòmetre</string>
-  <string name="search_timer">@string/timer_title</string>
   <string name="search_timer_keywords">Temporitzador</string>
-  <string name="search_worldclock">@string/worldclock_title</string>
   <string name="search_worldclock_keywords">Hora;Rellotge mundial;Rellotge</string>
   <string name="set_alarm">Estableix l\'alarma</string>
   <string name="set_alarm_done">Done</string>
@@ -153,7 +149,6 @@
   <string name="shutdown_alarm_enable_summary">L\'alarma sonarà amb el dispositiu apagat</string>
   <string name="shutdown_alarm_title">Atura l\'alarma</string>
   <string name="silent_alarm_summary">Silenciosa</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Aturar una vegada el %s</string>
   <string name="slider_text">Feu lliscar amunt per tancar</string>
   <string name="snooze_confirm_cancel">Cancel·la l\'alarma</string>
@@ -169,7 +164,6 @@
   <string name="stat_repeat_weekends">Cap de setmana</string>
   <string name="stopwatch_lap_empty_text">Sense voltes</string>
   <string name="stopwatch_title">Cronòmetre</string>
-  <string name="symbol_colon">:</string>
   <string name="system_time_setting">Configuració</string>
   <string name="system_time_settings_category_title">Configuració de l\'hora</string>
   <string name="temperature_unit">%1$s°</string>

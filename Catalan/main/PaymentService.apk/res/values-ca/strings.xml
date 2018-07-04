@@ -53,7 +53,6 @@
   <string name="mibi_button_cancel">Cancel·la</string>
   <string name="mibi_button_confirm">Confirma</string>
   <string name="mibi_button_count_down_finish">D\'acord(%1$s)</string>
-  <string name="mibi_button_count_down_reget">%1$s</string>
   <string name="mibi_button_custom_service_phone">D\'acord</string>
   <string name="mibi_button_next">Següent</string>
   <string name="mibi_button_pay">Confirma</string>
@@ -64,7 +63,6 @@
   <string name="mibi_change_security_lock">Més bloquejos de pantalla</string>
   <string name="mibi_check_giftcard">Mostra els cupons</string>
   <string name="mibi_click_retry">%1$s, feu clic per tornar-ho a intentar</string>
-  <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Article</string>
   <string name="mibi_deduct_open_prompt">%1$s us podrà carregar automàticament utilitzant %2$s sense verificació. Podeu aturar aquesta funció en %1$s</string>
   <string name="mibi_deduct_order_price">Preu</string>
@@ -108,7 +106,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_common_summary">Error del sistema. Intenteu-ho més tard.</string>
   <string name="mibi_error_deduct">"No es va poder activar el protocol de pagament automàtic"</string>
   <string name="mibi_error_expired_summary">La vostra comanda ha caducat</string>
-  <string name="mibi_error_frozen_service_num">400-100-3399</string>
   <string name="mibi_error_frozen_summary">El vostre compte s\'ha congelat, contacteu amb el nostre centre d\'atenció al client.</string>
   <string name="mibi_error_has_bought_summary">Ja heu comprat aquest producte.</string>
   <string name="mibi_error_illegal_order_summary">Error en la comanda. Torneu-ho a provar més tard</string>
@@ -544,5 +541,4 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït és incorrecte</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

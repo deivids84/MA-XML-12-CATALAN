@@ -10,7 +10,6 @@
   <string name="custom_lock_wallpaper_enter">Entra</string>
   <string name="default_lockscreen_unlock_hint_text">Feu lliscar cap amunt per desbloquejar</string>
   <string name="delete">Elimina</string>
-  <string name="digital_clock_dot">:</string>
   <string name="do_disclosure_generic">Aquest dispositiu el gestiona l\'organització</string>
   <string name="do_disclosure_with_name">Aquest dispositiu està gestionat per %s</string>
   <string name="doze_brightness_sensor_type"></string>
@@ -150,7 +149,6 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
   <string name="reset_device_detail_tip">Col·loqueu correctament el dispositiu al carregador sense fil per assegurar una velocitat de càrrega alta.</string>
   <string name="reset_device_tip">La càrrega és lenta. Torneu a colocar el dispositiu.</string>
-  <string name="symbol_colon">:</string>
   <string name="unlock_camera_steady">Mantingueu-vos quiets</string>
   <string name="unlock_failed">Error intern</string>
   <string name="unlock_failed_face_not_found">S\'està detectant</string>

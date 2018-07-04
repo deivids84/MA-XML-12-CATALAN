@@ -69,7 +69,6 @@
   <string name="accessibility_camera_button">Càmera</string>
   <string name="accessibility_carrier_network_change_mode">Carrier network changing.</string>
   <string name="accessibility_cast_name">Connected to %s.</string>
-  <string name="accessibility_casting">@string/quick_settings_casting</string>
   <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
   <string name="accessibility_cell_data">Mobile Data</string>
   <string name="accessibility_cell_data_off">Mobile Data Off</string>
@@ -429,7 +428,6 @@ Taxa de mostreig"</string>
   <string name="car_lockscreen_disclaimer_title">Drive safely</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change_theme_reboot">Changing the theme requires a restart.</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
@@ -453,8 +451,6 @@ Taxa de mostreig"</string>
   <string name="config_rat_3g">3G</string>
   <string name="config_rat_4g">4G</string>
   <string name="config_rat_unknown"></string>
-  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.StatusBar</string>
-  <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
   <string name="confirm">Got it</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
@@ -659,7 +655,6 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="fingerprint_not_recognized">Not recognized</string>
   <string name="fingerprint_try_again_msg">"Couldn't verify fingerprint, try again."</string>
   <string name="fingerprint_try_again_text">Try again</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Missatge</string>
   <string name="force_allow_on_external">Força a les aplicacions escriure en un emmagatzematge extern</string>
@@ -821,10 +816,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_charged">Charged</string>
   <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
   <string name="keyguard_charging_info_click_to_detail">View details</string>
-  <string name="keyguard_charging_info_data_c">%s℃</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
   <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Today %s</string>
@@ -836,7 +827,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
   <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
-  <string name="keyguard_fancy_colon"></string>
   <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
   <string name="keyguard_indication_charging_time_fast">Charging rapidly (%s until full)</string>
   <string name="keyguard_indication_charging_time_slowly">Charging slowly (%s until full)</string>
@@ -852,7 +842,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
   <string name="keyguard_missing_sim_message">No SIM card in phone.</string>
   <string name="keyguard_missing_sim_message_short">No SIM card</string>
-  <string name="keyguard_more_overflow_text">+%d</string>
   <string name="keyguard_network_locked_message">Network locked</string>
   <string name="keyguard_password_enter_password_code">Type password to unlock</string>
   <string name="keyguard_password_enter_pin_code">Type PIN code</string>
@@ -945,12 +934,6 @@ Try again in %2$d seconds."</string>
   <string name="lb_guidedactions_item_enabled_chevron_alpha">1.0</string>
   <string name="lb_guidedactions_item_unselected_description_text_alpha">0.5</string>
   <string name="lb_guidedactions_item_unselected_text_alpha">1.0</string>
-  <string name="lb_guidedactions_width_weight">0.71428573</string>
-  <string name="lb_guidedactions_width_weight_two_panels">1.1917808</string>
-  <string name="lb_guidedbuttonactions_width_weight">0.45</string>
-  <string name="lb_guidedstep_height_weight">2.0</string>
-  <string name="lb_guidedstep_height_weight_translucent">1.0</string>
-  <string name="lb_guidedstep_keyline">40.0</string>
   <string name="lb_media_player_error">MediaPlayer error code %1$d extra %2$d</string>
   <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
   <string name="lb_onboarding_accessibility_next">Next</string>
@@ -990,7 +973,6 @@ Try again in %2$d seconds."</string>
   <string name="left_keycode">Left keycode</string>
   <string name="left_nav_bar_button_type">Extra left button type</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya per a còpies d\'ordinador</string>
@@ -1075,14 +1057,12 @@ You\'re also connected to %3$s, which can monitor your personal network activity
 
 For more information, contact your admin."</string>
   <string name="monitoring_description_ca_cert_settings">Open trusted credentials</string>
-  <string name="monitoring_description_ca_cert_settings_separator">" "</string>
   <string name="monitoring_description_ca_certificate">S\'ha instal·lat una autoritat de certificació en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_do_body">"Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information."</string>
   <string name="monitoring_description_do_body_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
   <string name="monitoring_description_do_header_generic">Your device is managed by %1$s.</string>
   <string name="monitoring_description_do_header_with_name">%1$s uses %2$s to manage your device.</string>
   <string name="monitoring_description_do_learn_more">Learn more</string>
-  <string name="monitoring_description_do_learn_more_separator">" "</string>
   <string name="monitoring_description_managed_profile_ca_certificate">La vostra organització ha instal·lat una autoritat certificadora al vostre perfil de treball. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_named_vpn">El vostre perfil de treball està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
   <string name="monitoring_description_management">"El vostre dispositiu el gestiona l\'organització.
@@ -1114,7 +1094,6 @@ For more information, contact your admin.
 
 You\'re also connected to a VPN, which can monitor your network activity."</string>
   <string name="monitoring_description_vpn_settings">Obre la configuració de la VPN</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">Certificats CA</string>
   <string name="monitoring_subtitle_network_logging">Registre de xarxa</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1151,7 +1130,6 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="nav_guide_message">Utilitzeu gestos per amagar/mostrar els botons de la pantalla.</string>
   <string name="nav_guide_ok">Configuració</string>
   <string name="nav_guide_title">Amaga els botons de la pantalla</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Cap</string>
   <string name="no_multi_window_app">No hi ha aplicacions compatibles amb el mode de pantalla dividida</string>
   <string name="no_notification_tips">Sense notificacions.</string>
@@ -1177,7 +1155,6 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="notification_default_channel_desc">"This app doesn't have notification categories"</string>
   <string name="notification_done">Done</string>
   <string name="notification_group_collapse_button_text">Fold</string>
-  <string name="notification_group_divider_symbol">" • "</string>
   <string name="notification_group_overflow_indicator">+%s</string>
   <string name="notification_header_default_channel">Notifications</string>
   <string name="notification_header_title">Notificacions</string>
@@ -1222,7 +1199,6 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
-  <string name="ok">@android:string/ok</string>
   <string name="oldman_airplane_mode_text">Avió</string>
   <string name="oldman_incall_text">Torna a la trucada</string>
   <string name="open_camera_hint_text">Swipe left to open camera</string>
@@ -1247,7 +1223,6 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_close">Close PIP</string>
   <string name="pip_fullscreen">Full screen</string>
-  <string name="pip_menu_bounds">596 280 1324 690</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
   <string name="pip_notification_message">Si no voleu que %s utilitzi aquesta funció, toqueu per obrir la configuració i desactiveu-la.</string>
   <string name="pip_notification_title">%s està en imatge dins d\'imatge</string>
@@ -1258,16 +1233,13 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="pip_phone_expand">Expandeix</string>
   <string name="pip_phone_minimize">Minimitza</string>
   <string name="pip_play">Reprodueix</string>
-  <string name="pip_settings_bounds">662 756 1142 1026</string>
   <string name="pip_skip_to_next">Salta a la següent</string>
   <string name="pip_skip_to_prev">Salta a l\'anterior</string>
   <string name="please_slide_agian">Feu lliscar de nou</string>
   <string name="plugins">Plugins</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app\'s notifications. 
@@ -1302,16 +1274,11 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="profile_owned_footer">Profile may be monitored</string>
   <string name="prompt_danger">Perill</string>
   <string name="prompt_detecting">S\'està detectant</string>
   <string name="prompt_safe">Segur</string>
   <string name="prompt_unknown">Desconegut</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="qs_customize">Allow long-press customize in Quick Settings</string>
   <string name="qs_customize_info">Info</string>
   <string name="qs_customize_remove">Remove</string>
@@ -1412,10 +1379,6 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="quick_settings_settings_label">Settings</string>
   <string name="quick_settings_sync_label">Sync</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles">default</string>
-  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit</string>
-  <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit,gps,vibrate,hotspot,papermode,sync,quietmode,powermode,screenbutton,batterysaver,midrop</string>
   <string name="quick_settings_time_label">Time</string>
   <string name="quick_settings_user_label">Me</string>
   <string name="quick_settings_user_new_user">New user</string>
@@ -1527,7 +1490,6 @@ You\'re also connected to a VPN, which can monitor your network activity."</stri
   <string name="select_webview_provider_title">Implementació de WebView</string>
   <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
   <string name="settings_custom_notification">Administrar notificacions</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Administrar Commutadors</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra estan actius</string>
   <string name="settings_toggle_position_reset">Restablir commutadors</string>
@@ -1581,7 +1543,6 @@ d MMMM"</string>
   <string name="status_bar_network_flow_limit">"   Límit mensual: %1$s"</string>
   <string name="status_bar_network_flow_purchase">"   Adquirir &gt;"</string>
   <string name="status_bar_network_flow_today">Avui: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">No notifications</string>
   <string name="status_bar_no_recent_apps">No hi ha aplicacions recents</string>
   <string name="status_bar_notification_app_settings_title">%s settings</string>
@@ -1605,7 +1566,6 @@ d MMMM"</string>
   <string name="status_bar_settings_airplane">Mode avió</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
-  <string name="status_bar_settings_battery_meter_format"></string>
   <string name="status_bar_settings_mute_label">MUTE</string>
   <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_settings_settings_button">Settings</string>
@@ -1660,7 +1620,6 @@ d MMMM"</string>
   <string name="switch_bar_off">Off</string>
   <string name="switch_bar_on">On</string>
   <string name="symbol_colon">:</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
   <string name="system_ui_tuner">System UI Tuner</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
   <string name="telephony_monitor_switch">Monitor de telefonia</string>
@@ -1808,7 +1767,6 @@ Any user can update apps for all other users."</string>
   <string name="user_remove_user_title">Remove user?</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
-  <string name="velocity_tracker_impl">platform</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="voice_assist_label">Open Voice assistant</string>
@@ -1839,7 +1797,6 @@ Any user can update apps for all other users."</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Release to view details</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">En activar-se, la connexió canviarà a les dades mòbils de forma més activa quan el senyal Wi-Fi sigui baix.</string>
@@ -1869,11 +1826,9 @@ Any user can update apps for all other users."</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

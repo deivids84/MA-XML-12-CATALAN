@@ -293,13 +293,6 @@
     <item>region</item>
     <item>highlight</item>
   </string-array>
-  <string-array name="simulate_color_space_entries">
-    <item>@string/daltonizer_mode_disabled</item>
-    <item>@string/daltonizer_mode_monochromacy</item>
-    <item>@string/daltonizer_mode_deuteranomaly</item>
-    <item>@string/daltonizer_mode_protanomaly</item>
-    <item>@string/daltonizer_mode_tritanomaly</item>
-  </string-array>
   <string-array name="simulate_color_space_values">
     <item>-1</item>
     <item>0</item>

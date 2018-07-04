@@ -249,8 +249,6 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="common_name_suffixes"></string>
   <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
   <string name="conference_call">Trucada de conferència</string>
-  <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
-  <string name="config_activityRecognitionHardwarePackageName">\@null</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
   <string name="config_appsNotReportingCrashes"></string>
   <string name="config_cameraLaunchGestureSensorStringType"></string>
@@ -289,13 +287,11 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="config_forceVoiceInteractionServicePackage"></string>
   <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
   <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
-  <string name="config_geofenceProviderPackageName">\@null</string>
   <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
   <string name="config_helpIntentExtraKey"></string>
   <string name="config_helpIntentNameKey"></string>
   <string name="config_helpPackageNameKey"></string>
   <string name="config_helpPackageNameValue"></string>
-  <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
   <string name="config_icon_mask">M50,0L100,0 100,100 0,100 0,0z</string>
   <string name="config_ims_package">org.codeaurora.ims</string>
   <string name="config_isoImagePath"></string>
@@ -371,9 +367,6 @@ utilitzat %s"</string>
   <string name="date_time_set">Estableix</string>
   <string name="day">dia</string>
   <string name="days">dies</string>
-  <string name="db_default_journal_mode">TRUNCATE</string>
-  <string name="db_default_sync_mode">FULL</string>
-  <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Rebutja</string>
   <string name="decline_remote_bugreport_action">REBUTJA</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -386,7 +379,6 @@ utilitzat %s"</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="default_notification_channel_label">Sense categoria</string>
   <string name="default_sms_application">com.android.mms</string>
-  <string name="default_wallpaper_component">\@null</string>
   <string name="delete">Suprimeix</string>
   <string name="deleteText">Suprimeix</string>
   <string name="deleted_key">%1$s suprimit</string>
@@ -510,7 +502,6 @@ utilitzat %s"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">S\'ha completat el codi de funció.</string>
   <string name="fcError">Problema de connexió o codi de funció no vàlid.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Cerca</string>
   <string name="find_next">Cerca el següent</string>
   <string name="find_on_page">Cerca a la pàgina</string>
@@ -559,7 +550,6 @@ utilitzat %s"</string>
   <string name="global_action_lock">Bloqueig de pantalla</string>
   <string name="global_action_lockdown">Bloqueja ara</string>
   <string name="global_action_power_off">Apaga</string>
-  <string name="global_action_restart">@string/sim_restart_button</string>
   <string name="global_action_settings">Configuració</string>
   <string name="global_action_silent_mode_off_status">El so està activat</string>
   <string name="global_action_silent_mode_on_status">El so està desactivat</string>
@@ -716,7 +706,6 @@ Visiteu \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_reordering_delete_drop_target_text">Elimina</string>
   <string name="kg_sim_pin_instructions">Introduïu el PIN de la SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM…</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Torneu-ho a provar en %1$d segons.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Heu introduït una contrasenya incorrecta %1$d vegades. 
 
@@ -956,7 +945,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="needPuk2">Escriviu el PUK2 per desbloquejar la targeta SIM.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Inicieu la sessió a la xarxa</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="network_logging_notification_text">L\'organització gestiona aquest dispositiu i pot controlar el trànsit de la xarxa. Toqueu per obtenir més informació.</string>
   <string name="network_logging_notification_title">El dispositiu està gestionat</string>
   <string name="network_switch_metered">Canviat a %1$s</string>
@@ -1005,7 +993,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Detector de notificacions</string>
-  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
   <string name="notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="notification_work_profile_content_description">Perfil de feina</string>
@@ -1521,7 +1508,6 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="status_bar_managed_profile">managed_profile</string>
   <string name="status_bar_mute">mute</string>
   <string name="status_bar_nfc">nfc</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
   <string name="status_bar_phone_signal">phone_signal</string>
   <string name="status_bar_rotate">gira</string>
@@ -1557,7 +1543,6 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="sync_undo_deletes">Desfés les supressions</string>
   <string name="system_error_manufacturer">"S'ha produït un error intern al dispositiu. Contacteu amb el fabricant del dispositiu per obtenir més informació."</string>
   <string name="system_error_wipe_data">"S'ha produït un error intern al dispositiu i és possible que funcioni de manera inestable fins que restableixis les dades de fàbrica."</string>
-  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="taking_remote_bugreport_notification_title">S\'està creant l\'informe d\'errors…</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Toqueu per configurar.</string>
@@ -1738,6 +1723,5 @@ Voleu tancar-la?"</string>
   <string name="zen_mode_feature_name">No molesteu</string>
   <string name="zen_mode_forever">Fins que no ho desactiveu</string>
   <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Fins %1$s</string>
 </resources>

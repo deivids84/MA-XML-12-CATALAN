@@ -97,5 +97,4 @@
   <string name="screen_overlay_button">Obre la configuració</string>
   <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de la pantalla a Configuració &gt; Aplicacions.</string>
   <string name="screen_overlay_title">S\'ha detectat la superposició de pantalla</string>
-  <string name="static_cache_db_md5">65197ff9ad14586a0064c71dec2582d0</string>
 </resources>

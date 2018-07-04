@@ -76,7 +76,6 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
   <string name="skip_underline">Omet aquest pas</string>
   <string name="start_up_slogan">Designed for full screen experience</string>
-  <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
   <string name="summary_not_set">No s\'ha configurat</string>
   <string name="system_navigation_mode">Mode de navegació del sistema</string>
   <string name="terms_of_use">Termes i condicions</string>
@@ -91,5 +90,4 @@ Cal acceptar les nostres condicions de servei i política de privadesa abans de 
   <string name="voice_assist_desp">Digueu «Mi AI» al telèfon. Mi AI reconeixerà la vostra veu i podrà controlar el dispositiu.</string>
   <string name="voice_assist_title">Desperta amb la veu</string>
   <string name="welcome">Benvinguts</string>
-  <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
 </resources>

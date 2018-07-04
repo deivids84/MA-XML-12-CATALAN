@@ -183,7 +183,6 @@
   <string name="guide_install_app_msg">"L'aplicació no està instal·lada al dispositiu. Voleu cercar-la i instal·lar-la?"</string>
   <string name="guide_install_app_title">Voleu trobar i instal·lar l\'aplicació?</string>
   <string name="guide_tips_editing_mode">Manteniu premut per triar un giny</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="home_screen">Pantalla d\'inici</string>
   <string name="icon_reorganize_channel">Arrange icons</string>
   <string name="image_too_small_message">"La imatge original no és prou gran"</string>
@@ -307,7 +306,6 @@
   <string name="sort_by_not_defined">Ordena automàticament</string>
   <string name="start_activity_failed">"No es pot iniciar el llançador"</string>
   <string name="starting_preset_app">S\'està iniciant&#8230;</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_downloaded">Baixat</string>
   <string name="status_downloading">S\'està baixant</string>
   <string name="status_installing">S\'està instal·lant</string>
@@ -342,7 +340,6 @@
   <string name="wallpaper_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="wallpaper_scaling_message">S\'està escalant a la mida fixada</string>
   <string name="wallpaper_scroll_type_tips">Desplaçament del fons</string>
-  <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Fons de pantalla</string>
   <string name="wallpaper_success_message">S\'ha aplicat el fons de pantalla</string>
   <string name="widget_favorite_contacts_edit">Editor</string>

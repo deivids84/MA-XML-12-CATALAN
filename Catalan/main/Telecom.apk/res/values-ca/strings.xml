@@ -132,7 +132,6 @@ Taxa de mostreig"</string>
   <string name="cant_call_due_to_ongoing_unknown_call">La trucada no es pot realitzar a causa d\'una trucada en una altra aplicació.</string>
   <string name="category_personal">Personals</string>
   <string name="category_work">Laboral</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change_default_dialer_dialog_affirmative">Estableix com a aplicació telefònica per defecte</string>
   <string name="change_default_dialer_dialog_negative">Cancel·la</string>
   <string name="change_default_dialer_dialog_title">Voleu establir %s com l\'aplicació telefònica per defecte?</string>
@@ -189,7 +188,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="development_settings_title">Opcions del desenvolupador</string>
   <string name="dial_conference_fail_prompt">"No es pot marcar una conferència directament perquè la xarxa actual no és compatible amb VoLTE."</string>
   <string name="dial_vt_fail_prompt">"La xarxa actual no és compatible amb VoLTE. Voleu canviar a una trucada de veu normal?"</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
   <string name="disable_overlays">Desactiva les superposicions de maquinari</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
@@ -230,7 +228,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="inactive_app_active_summary">Aplicació activa. Premeu per desactivar-la.</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
-  <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
   <string name="incall_error_power_off">Desactiveu el mode avió per fer una trucada.</string>
   <string name="incall_error_supp_service_unknown">"Aquest servei no és compatible."</string>
@@ -280,19 +277,12 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
-  <string name="process_kernel_label">Android OS</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="respond_via_sms_canned_response_1">"Ara no puc parlar. Què passa?"</string>
   <string name="respond_via_sms_canned_response_2">"Et truco de seguida."</string>
@@ -326,7 +316,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="select_webview_provider_dialog_title">Establiu la implementació del WebView</string>
   <string name="select_webview_provider_title">Implementació del WebView</string>
   <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_hw_layers_updates">Mostra les actualitzacions de les capes del maquinari</string>
@@ -395,8 +384,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
-  <string name="ui_default_package">com.android.incallui</string>
-  <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unblock_button">Desbloqueja</string>
   <string name="unblock_dialog_body">Voleu desbloquejar %1$s?</string>
   <string name="unknown">Desconegut</string>
@@ -458,9 +445,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

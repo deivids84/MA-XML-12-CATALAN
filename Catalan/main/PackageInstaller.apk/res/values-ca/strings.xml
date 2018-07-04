@@ -144,7 +144,6 @@ Taxa de mostreig"</string>
   <string name="cancel">Cancel·la</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca les autoritzacions de depuració USB</string>
@@ -324,7 +323,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="lb_search_bar_hint_speech">Parleu per cercar</string>
   <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Parleu per cercar %1$s</string>
-  <string name="lb_time_separator">:</string>
   <string name="loading">S\'està carregant&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
@@ -381,20 +379,13 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="privacyPerms">Privadesa</string>
-  <string name="process_kernel_label">Android OS</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
   <string name="retail_demo_reset_next">Següent</string>
@@ -427,7 +418,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="select_webview_provider_title">Implementació del WebView</string>
   <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
   <string name="settings">Configuració</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_hw_layers_updates">Mostra les actualitzacions de les capes del maquinari</string>
@@ -442,7 +432,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="system_warning">Si denegueu aquest permís, les característiques bàsiques del vostre dispositiu no funcionaran correctament.</string>
@@ -553,9 +542,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>

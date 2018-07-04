@@ -30,13 +30,6 @@
     <item>Z</item>
     <item>\#</item>
   </string-array>
-  <string-array name="aritst_area_filter">
-    <item>@string/artist_area_all</item>
-    <item>@string/artist_area_china</item>
-    <item>@string/artist_area_korea</item>
-    <item>@string/artist_area_japan</item>
-    <item>@string/artist_area_europe_usa</item>
-  </string-array>
   <string-array name="aritst_area_filter_api">
     <item>0</item>
     <item>1</item>
@@ -44,30 +37,11 @@
     <item>3</item>
     <item>4</item>
   </string-array>
-  <string-array name="aritst_gender_filter">
-    <item>@string/artist_gender_all</item>
-    <item>@string/artist_gender_male</item>
-    <item>@string/artist_gender_female</item>
-    <item>@string/artist_gender_group</item>
-  </string-array>
   <string-array name="aritst_gender_filter_api">
     <item>tots</item>
     <item>masculí</item>
     <item>femení</item>
     <item>grup</item>
-  </string-array>
-  <string-array name="dirac_equalizer_preset_names">
-    <item>@string/eq_flat</item>
-    <item>@string/eq_rock</item>
-    <item>@string/eq_jazz</item>
-    <item>@string/eq_pop</item>
-    <item>@string/eq_classical</item>
-    <item>@string/eq_hiphop</item>
-    <item>@string/eq_blues</item>
-    <item>@string/eq_electronic</item>
-    <item>@string/eq_country</item>
-    <item>@string/eq_dance</item>
-    <item>@string/eq_metal</item>
   </string-array>
   <string-array name="dirac_equalizer_preset_values">
     <item>0,0,0,0,0,0,0</item>

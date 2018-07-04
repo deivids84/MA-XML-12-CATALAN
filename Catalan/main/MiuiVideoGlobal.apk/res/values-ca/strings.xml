@@ -25,11 +25,9 @@
   <string name="airkan_playing">S\'està emetent a %s</string>
   <string name="airkan_tips">Toqueu per emetre</string>
   <string name="app_name">Vídeo Mi</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="audio_changed">Nova pista d\'àudio</string>
   <string name="audio_title">Pista d\'àudio</string>
   <string name="audio_track">Pista d\'àudio</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="com_permission_desc">"El Vídeo Mi no pot accedir als vídeos del dispositiu. Permeteu l'accés a la configuració."</string>
   <string name="com_permission_title">Es requereixen permisos</string>
@@ -57,7 +55,6 @@
   <string name="screenrecord_slience">"El vídeo enregistrat està en silenci perquè la versió actual de MIUI no és compatible amb l'enregistrament de pistes d'àudio."</string>
   <string name="screenrecord_success">S\'ha enregistrat correctament. Ja podeu compartir el vídeo.</string>
   <string name="share_tips">S\'ha fet la captura de pantalla amb èxit. Toqueu per compartir.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">Emmagatzematge extern</string>
   <string name="storage_internal_sdcard">Emmagatzematge intern</string>
   <string name="storage_root_dir">"Ja esteu a la carpeta arrel"</string>
@@ -105,10 +102,6 @@
   <string name="t_password_null">"La contrasenya no es pot deixar en blanc"</string>
   <string name="t_password_wrong">La contrasenya no és correcta. Torneu-ho a provar.</string>
   <string name="t_search_null">Introduïu les paraules clau a cercar</string>
-  <string name="tag_index">tag_index</string>
-  <string name="tag_key">tag_key</string>
-  <string name="tag_object">tag_object</string>
-  <string name="theme_id">com_7idear.framework.theme</string>
   <string name="v_agree">D\'acord</string>
   <string name="v_app_check_failed">"No s'ha pogut verificar l'aplicació"</string>
   <string name="v_app_click_to_install">Toqueu per instal·lar.</string>

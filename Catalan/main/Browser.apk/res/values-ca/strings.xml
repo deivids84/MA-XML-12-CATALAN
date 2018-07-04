@@ -353,15 +353,8 @@
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
-  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
   <string name="context_menu_orientation_portrait_swap_id">Pantalla V/H</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
@@ -998,10 +991,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_search_menu_title">Cerca</string>
   <string name="mw_snippets_disabled_generic_prompt">Obtén contingut personalitzat</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Per obtenir contingut personalitzat suggerit per Google, inicieu sessió a Chrome.</string>
-  <string name="mw_status_bar_notification_info_overflow">999+</string>
   <string name="mw_time_picker_dialog_am">AM</string>
-  <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-  <string name="mw_time_picker_dialog_minute_second_separator">:</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Estableix l\'hora</string>
@@ -1092,7 +1082,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_content_night_read_mode">Mode nocturn</string>
   <string name="pref_content_search_engine">Motor de cerca a la barra d\'adreces</string>
   <string name="pref_content_search_engine_summary">Seleccioneu un motor de cerca</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_value_always">ALWAYS</string>
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -1118,13 +1107,11 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_force_userscalable">Força el zoom</string>
   <string name="pref_force_userscalable_summary">"Anul·la la sol·licitud del lloc web per controlar el comportament del zoom"</string>
   <string name="pref_general_title">General</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
   <string name="pref_images_preload_value_always">2</string>
   <string name="pref_images_preload_value_never">0</string>
   <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_key_gesture_title">Botons i gestos</string>
   <string name="pref_label_advert_manager">Gestor d\'anuncis etiquetats</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_value_always">ALWAYS</string>
   <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -1176,7 +1163,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_setting_title">Configuració de pàgina</string>
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_value_always">ALWAYS</string>
   <string name="pref_video_preload_value_never">NEVER</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>

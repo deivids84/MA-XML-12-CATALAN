@@ -124,7 +124,6 @@
   <string name="crop_done_description">Fet</string>
   <string name="crop_title_study">Retalla la foto</string>
   <string name="crop_title_translation">Seleccioneu el text a traduir</string>
-  <string name="default_language">@string/language_value_chinese_cn</string>
   <string name="dialog_dismiss">Descarta</string>
   <string name="dialog_report">Informe</string>
   <string name="document_color_picture">Color</string>
@@ -133,7 +132,6 @@
   <string name="document_grayscale">Escala de grisos</string>
   <string name="document_grayscale_tip_msg">S\'està convertint a escala de grisos&#8230;</string>
   <string name="document_ocr">ROC</string>
-  <string name="document_ocr_language_key">pref_document_ocr_language</string>
   <string name="document_ocr_result_copy">Copia el text</string>
   <string name="document_ocr_result_save">Desa a Notes</string>
   <string name="document_ocr_result_title">Foto del document</string>
@@ -164,7 +162,6 @@
   <string name="feedback_description_camera_access">"L'escàner no pot accedir a la Càmera"</string>
   <string name="feedback_description_save_photo">"No s'ha pogut desar la foto o el vídeo"</string>
   <string name="flash_lable">Flaix</string>
-  <string name="global_default_language">@string/language_value_english</string>
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Importar contacte</string>
   <string name="impunity_declaration_content">Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat.</string>

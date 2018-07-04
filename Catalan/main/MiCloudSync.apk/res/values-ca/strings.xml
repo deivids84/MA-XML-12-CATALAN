@@ -8,5 +8,4 @@
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

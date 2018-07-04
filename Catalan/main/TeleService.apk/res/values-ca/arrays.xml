@@ -368,13 +368,6 @@
     <item>audio_source</item>
     <item>midi</item>
   </string-array>
-  <string-array name="simulate_color_space_entries">
-    <item>@string/daltonizer_mode_disabled</item>
-    <item>@string/daltonizer_mode_monochromacy</item>
-    <item>@string/daltonizer_mode_deuteranomaly</item>
-    <item>@string/daltonizer_mode_protanomaly</item>
-    <item>@string/daltonizer_mode_tritanomaly</item>
-  </string-array>
   <string-array name="simulate_color_space_values">
     <item>-1</item>
     <item>0</item>
@@ -438,22 +431,6 @@
   <string-array name="transport_types">
     <item>UDP</item>
     <item>TCP</item>
-  </string-array>
-  <string-array name="sip_call_options_entries">
-    <item>@string/sip_call_options_entry_1</item>
-    <item>@string/sip_call_options_entry_2</item>
-  </string-array>
-  <string-array name="sip_call_options_wifi_only_entries">
-    <item>@string/sip_call_options_wifi_only_entry_1</item>
-    <item>@string/sip_call_options_entry_2</item>
-  </string-array>
-  <string-array name="sip_call_options_values">
-    <item>@string/sip_always</item>
-    <item>@string/sip_address_only</item>
-  </string-array>
-  <string-array name="sip_send_keepalive_options">
-    <item>@string/sip_system_decide</item>
-    <item>@string/sip_always_send_keepalive</item>
   </string-array>
   <string-array name="preferred_network_mode_choices_world_mode">
     <item>Global</item>
@@ -567,10 +544,6 @@
     <item>58</item>
     <item>59</item>
   </string-array>
-  <string-array name="time_formate_items">
-    <item>@string/time_formate_am</item>
-    <item>@string/time_formate_pm</item>
-  </string-array>
   <array name="config_support_tdscdma_roaming_on_networks"></array>
   <string-array name="clir_display_values">
     <item>Per defecte de la xarxa</item>
@@ -581,31 +554,6 @@
     <item>DEFAULT</item>
     <item>HIDE</item>
     <item>SHOW</item>
-  </string-array>
-  <string-array name="preferred_network_mode_choices">
-    <item>@string/preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_lte_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_wcdma_lte_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_gsm_lte_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_gsm_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_lte_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_wcdma_choice</item>
-    <item>@string/preferred_network_mode_td_scdma_only_choice</item>
-    <item>@string/preferred_network_mode_lte_wcdma_choice</item>
-    <item>@string/preferred_network_mode_lte_choice</item>
-    <item>@string/preferred_network_mode_global_choice</item>
-    <item>@string/preferred_network_mode_gsm_wcdma_lte_choice</item>
-    <item>@string/preferred_network_mode_cdma_lte_evdo_choice</item>
-    <item>@string/preferred_network_mode_cdma_evdo_gsm_wcdma_choice</item>
-    <item>@string/preferred_network_mode_evdo_only_choice</item>
-    <item>@string/preferred_network_mode_cdma_wo_evdo_choice</item>
-    <item>@string/preferred_network_mode_cdma_evdo_auto_choice</item>
-    <item>@string/preferred_network_mode_gsm_wcdma_auto_choice</item>
-    <item>@string/preferred_network_mode_wcdma_only_choice</item>
-    <item>@string/preferred_network_mode_gsm_only_choice</item>
-    <item>@string/preferred_network_mode_gsm_wcdma_preferred_choice</item>
   </string-array>
   <string-array name="preferred_network_mode_values">
     <item>22</item>
@@ -650,52 +598,21 @@
     <item>6</item>
     <item>7</item>
   </string-array>
-  <string-array name="enabled_networks_except_gsm_choices">
-    <item>@string/network_lte</item>
-    <item>@string/network_3G</item>
-  </string-array>
-  <string-array name="enabled_networks_except_gsm_4g_choices">
-    <item>@string/network_4G</item>
-    <item>@string/network_3G</item>
-  </string-array>
   <string-array name="enabled_networks_except_gsm_values">
     <item>9</item>
     <item>0</item>
-  </string-array>
-  <string-array name="enabled_networks_except_lte_choices">
-    <item>@string/network_3G</item>
-    <item>@string/network_2G</item>
   </string-array>
   <string-array name="enabled_networks_except_lte_values">
     <item>0</item>
     <item>1</item>
   </string-array>
-  <string-array name="enabled_networks_except_gsm_lte_choices">
-    <item>@string/network_3G</item>
-  </string-array>
   <string-array name="enabled_networks_except_gsm_lte_values">
     <item>0</item>
-  </string-array>
-  <string-array name="enabled_networks_choices">
-    <item>@string/network_lte</item>
-    <item>@string/network_3G</item>
-    <item>@string/network_2G</item>
-  </string-array>
-  <string-array name="enabled_networks_4g_choices">
-    <item>@string/network_4G</item>
-    <item>@string/network_3G</item>
-    <item>@string/network_2G</item>
   </string-array>
   <string-array name="enabled_networks_values">
     <item>9</item>
     <item>0</item>
     <item>1</item>
-  </string-array>
-  <string-array name="enabled_networks_cdma_choices">
-    <item>@string/network_lte</item>
-    <item>@string/network_3G</item>
-    <item>@string/network_1x</item>
-    <item>@string/network_global</item>
   </string-array>
   <string-array name="enabled_networks_cdma_values">
     <item>8</item>
@@ -703,26 +620,13 @@
     <item>5</item>
     <item>10</item>
   </string-array>
-  <string-array name="enabled_networks_cdma_no_lte_choices">
-    <item>@string/network_3G</item>
-    <item>@string/network_1x</item>
-  </string-array>
   <string-array name="enabled_networks_cdma_no_lte_values">
     <item>4</item>
     <item>5</item>
   </string-array>
-  <string-array name="enabled_networks_cdma_only_lte_choices">
-    <item>@string/network_lte</item>
-    <item>@string/network_global</item>
-  </string-array>
   <string-array name="enabled_networks_cdma_only_lte_values">
     <item>8</item>
     <item>10</item>
-  </string-array>
-  <string-array name="enabled_networks_tdscdma_choices">
-    <item>@string/network_lte</item>
-    <item>@string/network_3G</item>
-    <item>@string/network_2G</item>
   </string-array>
   <string-array name="enabled_networks_tdscdma_values">
     <item>22</item>
@@ -745,49 +649,19 @@
     <item>0</item>
     <item>1</item>
   </string-array>
-  <string-array name="tty_mode_entries">
-    <item>@string/tty_mode_entries_off</item>
-    <item>@string/tty_mode_entries_full</item>
-    <item>@string/tty_mode_entries_hco</item>
-    <item>@string/tty_mode_entries_vco</item>
-  </string-array>
   <string-array name="tty_mode_values">
     <item>0</item>
     <item>1</item>
     <item>2</item>
     <item>3</item>
   </string-array>
-  <string-array name="dtmf_tone_entries">
-    <item>@string/dtmf_tone_entries_normal</item>
-    <item>@string/dtmf_tone_entries_long</item>
-  </string-array>
   <string-array name="dtmf_tone_values">
     <item>0</item>
     <item>1</item>
   </string-array>
-  <string-array name="absent_num">
-    <item>ABSENT NUMBER</item>
-    <item>ABSENTNUMBER</item>
-  </string-array>
-  <string-array name="phone_type_values">
-    <item>@string/pstn_phone</item>
-    <item>@string/internet_phone</item>
-  </string-array>
-  <string-array name="t9_indexing_method_entries">
-    <item>@string/t9_indexing_method_pinyin</item>
-    <item>@string/t9_indexing_method_zhuyin</item>
-  </string-array>
   <string-array name="t9_indexing_method_entry_values">
     <item>0</item>
     <item>1</item>
-  </string-array>
-  <string-array name="missed_call_notify_times_entries">
-    <item>@string/missed_call_notify_none</item>
-    <item>@string/missed_call_notify_once</item>
-    <item>@string/missed_call_notify_twice</item>
-    <item>@string/missed_call_notify_thrice</item>
-    <item>@string/missed_call_notify_five_times</item>
-    <item>@string/missed_call_notify_ten_times</item>
   </string-array>
   <string-array name="missed_call_notify_times_entry_values">
     <item>0</item>
@@ -797,31 +671,15 @@
     <item>5</item>
     <item>10</item>
   </string-array>
-  <string-array name="connect_disconnect_vibrate_entries">
-    <item>@string/connect_disconnect_vibrate_normal</item>
-    <item>@string/connect_disconnect_vibrate_weak</item>
-    <item>@string/connect_disconnect_vibrate_none</item>
-  </string-array>
   <string-array name="connect_disconnect_vibrate_entry_values">
     <item>100</item>
     <item>50</item>
     <item>0</item>
   </string-array>
-  <string-array name="call_waiting_tone_entries">
-    <item>@string/call_waiting_tone_continuously</item>
-    <item>@string/call_waiting_tone_twice_only</item>
-    <item>@string/call_waiting_tone_twice_and_vibrate</item>
-  </string-array>
   <string-array name="call_waiting_tone_entry_values">
     <item>0</item>
     <item>1</item>
     <item>2</item>
-  </string-array>
-  <string-array name="auto_answer_delay_entries">
-    <item>@string/auto_answer_delay_entries_immediately</item>
-    <item>@string/auto_answer_delay_entries_delay_3s</item>
-    <item>@string/auto_answer_delay_entries_delay_5s</item>
-    <item>@string/auto_answer_delay_entries_delay_10s</item>
   </string-array>
   <string-array name="auto_answer_delay_entry_values">
     <item>0</item>
@@ -829,28 +687,9 @@
     <item>5</item>
     <item>10</item>
   </string-array>
-  <string-array name="auto_answer_scenario_entries">
-    <item>@string/auto_answer_scenario_enteries_always</item>
-    <item>@string/auto_answer_scenario_enteries_headset_only</item>
-    <item>@string/auto_answer_scenario_enteries_bluetooth_only</item>
-    <item>@string/auto_answer_scenario_enteries_headset_bluetooth</item>
-  </string-array>
-  <string-array name="clir_choices">
-    <item>@string/clir_choices_network_default</item>
-    <item>@string/clir_choices_hide_number</item>
-    <item>@string/clir_choices_show_number</item>
-  </string-array>
-  <string-array name="cdma_call_waiting_entries">
-    <item>@string/enable</item>
-    <item>@string/disable</item>
-  </string-array>
   <string-array name="cdma_call_waiting_entry_values">
     <item>1</item>
     <item>0</item>
-  </string-array>
-  <string-array name="auto_record_scenario_entries">
-    <item>@string/call_record_auto_always</item>
-    <item>@string/call_record_whitelist_custom</item>
   </string-array>
   <string-array name="uplmn_prefer_network_mode_td_choices">
     <item>GSM</item>
@@ -870,16 +709,6 @@
     <item>2</item>
     <item>3</item>
   </string-array>
-  <string-array name="ivr_type_settings_entries">
-    <item>@string/ivr_type_cm_1</item>
-    <item>@string/ivr_type_cm_2</item>
-    <item>@string/ivr_type_cm_3</item>
-    <item>@string/ivr_type_cu_1</item>
-    <item>@string/ivr_type_cu_2</item>
-    <item>@string/ivr_type_cu_3</item>
-    <item>@string/ivr_type_ct_1</item>
-    <item>@string/ivr_type_ct_2</item>
-  </string-array>
   <string-array name="ivr_type_settings_values">
     <item>cm_1</item>
     <item>cm_2</item>
@@ -889,18 +718,6 @@
     <item>cu_3</item>
     <item>ct_1</item>
     <item>ct_2</item>
-  </string-array>
-  <string-array name="cfnry_setting_time_entries">
-    <item>@string/cfnry_time_five_sec</item>
-    <item>@string/cfnry_time_ten_sec</item>
-    <item>@string/cfnry_time_fifteen_sec</item>
-    <item>@string/cfnry_time_twenty_sec</item>
-    <item>@string/cfnry_time_twenty_five_sec</item>
-    <item>@string/cfnry_time_thirty_sec</item>
-  </string-array>
-  <string-array name="wificall_preferred_entries">
-    <item>@string/wfcmode_mobile_preferred</item>
-    <item>@string/wfcmode_wifi_preferred</item>
   </string-array>
   <string-array name="region_support_volte">
     <item>HK;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,vince,rosy</item>
