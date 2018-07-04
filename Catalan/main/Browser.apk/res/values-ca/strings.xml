@@ -775,7 +775,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_search_menu_title">Cerca</string>
   <string name="mw_snippets_disabled_generic_prompt">Obtén contingut personalitzat</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Per obtenir contingut personalitzat suggerit per Google, inicieu sessió a Chrome.</string>
-  <string name="mw_status_bar_notification_info_overflow">+999</string>
   <string name="mw_time_picker_dialog_title">Estableix l\'hora</string>
   <string name="mw_updating_chrome">S\'està actualitzant Chrome…</string>
   <string name="mw_video_buffering_percent">"S'està omplint la memòria intermèdia "</string>
