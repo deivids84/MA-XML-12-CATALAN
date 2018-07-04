@@ -4808,7 +4808,6 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_off">No</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
-  <string name="system_alert_window_summary">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
