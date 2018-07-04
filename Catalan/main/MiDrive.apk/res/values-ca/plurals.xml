@@ -57,10 +57,6 @@
     <item quantity="other">%1$d segons</item>
     <item quantity="one">%1$d segon</item>
   </plurals>
-  <plurals name="mins">
-    <item quantity="other">%1$d minutes</item>
-    <item quantity="one">%1$d minute</item>
-  </plurals>
   <plurals name="hours">
     <item quantity="other">%1$d hores</item>
     <item quantity="one">%1$d hora</item>

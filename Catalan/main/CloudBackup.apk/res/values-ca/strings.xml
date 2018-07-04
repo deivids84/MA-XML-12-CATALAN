@@ -85,7 +85,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del rellotge</string>
   <string name="desktop_downloading">S\'està baixant</string>
-  <string name="desktop_failed">Error</string>
   <string name="desktop_installing">S\'està instal·lant</string>
   <string name="desktop_wait_wifi">S\'està esperant</string>
   <string name="desktop_waiting">S\'està esperant</string>
@@ -118,7 +117,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="menu_item_sort">Ordena per</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Mida</string>
-  <string name="miui_device_name">Android</string>
   <string name="name_model">"%2$s de %1$s"</string>
   <string name="network_error">Connecteu-vos a la xarxa</string>
   <string name="no_account">No heu iniciat sessió al Compte Mi.</string>
@@ -156,7 +154,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="restore_unfinished">S\'està restaurant, torneu-ho a provar més tard</string>
   <string name="retry">Reintenta</string>
   <string name="self_phone">Aquest telèfon</string>
-  <string name="self_phone_home">This phone: %s</string>
   <string name="settings_backup">Configuració del sistema</string>
   <string name="size_unknown">Mida desconeguda</string>
   <string name="start_backup_to_micloud">Realitzar còpia de seguretat d\'aplicacions al Mi Cloud</string>

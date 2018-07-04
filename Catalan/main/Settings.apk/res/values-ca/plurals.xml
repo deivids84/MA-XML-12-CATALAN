@@ -133,14 +133,6 @@
     <item quantity="other">El PIN ha de tenir %d dígits</item>
     <item quantity="one">El PIN ha de tenir %d dígit</item>
   </plurals>
-  <plurals name="lockpassword_pin_too_long">
-    <item quantity="other">El PIN pot contenir fins a %d dígits</item>
-    <item quantity="one">El PIN pot contenir fins a %d dígit</item>
-  </plurals>
-  <plurals name="lockpassword_pin_too_short">
-    <item quantity="other">El PIN ha de tenir com a mínim %d dígits</item>
-    <item quantity="one">El PIN ha de tenir com a mínim %d dígit</item>
-  </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
     <item quantity="other">Connecteu almenys %d punts. Torneu-ho a provar.</item>
     <item quantity="one">Connecteu almenys %d punt. Torneu-ho a provar.</item>

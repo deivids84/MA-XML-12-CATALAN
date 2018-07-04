@@ -79,7 +79,6 @@
   <string name="close_camera_requesting">S\'està sol·licitant tancar la càmera</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s persones</string>
-  <string name="conference_call_recorder_title">Conference call</string>
   <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
   <string name="conference_caller_info_name">"Trucada de conferència de %1$s"</string>
   <string name="conference_callers_exceeded">"S'ha excedit el número de participants"</string>
@@ -106,29 +105,9 @@
   <string name="description_image_button_tools">Opcions</string>
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_video_answer">Vídeotrucada</string>
-  <string name="description_image_button_zero">zero</string>
   <string name="description_target_answer">Respondre</string>
-  <string name="dialpad_abc">ABC</string>
-  <string name="dialpad_def">DEF</string>
-  <string name="dialpad_eight">8</string>
-  <string name="dialpad_five">5</string>
-  <string name="dialpad_four">4</string>
-  <string name="dialpad_ghi">GHI</string>
-  <string name="dialpad_jkl">JKL</string>
-  <string name="dialpad_mno">MNO</string>
-  <string name="dialpad_nine">9</string>
-  <string name="dialpad_one">1</string>
-  <string name="dialpad_pqrs">PQRS</string>
-  <string name="dialpad_seven">7</string>
-  <string name="dialpad_six">6</string>
-  <string name="dialpad_three">3</string>
-  <string name="dialpad_tuv">TUV</string>
-  <string name="dialpad_two">2</string>
-  <string name="dialpad_wxyz">WXYZ</string>
-  <string name="dialpad_zero">0</string>
   <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
-  <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
   <string name="incall_error_supp_service_conference">"No es poden realitzar trucades de conferència."</string>
   <string name="incall_error_supp_service_hangup">"No es pot alliberar la trucada."</string>
@@ -147,7 +126,6 @@
   <string name="incoming_circle_text_reject">Allibera</string>
   <string name="incoming_circle_text_reject_p">Feu lliscar cap amunt</string>
   <string name="manageConferenceLabel">Gestiona la trucada de conferència</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="notification_action_accept">D\'acord</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Veu</string>
@@ -164,7 +142,6 @@
   <string name="ok">D\'acord</string>
   <string name="onscreenEndCallText">Final</string>
   <string name="onscreen_add_call_text">Afegeix trucada</string>
-  <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Conferència</string>
   <string name="onscreen_audio_mode_handset">Auricular</string>
   <string name="onscreen_audio_mode_headset">Auriculars</string>
@@ -181,7 +158,6 @@
   <string name="onscreen_swap_calls_text">Alterna</string>
   <string name="onscreen_switch_camera">Canvia la càmera</string>
   <string name="package_not_available">"«%s» no està disponible"</string>
-  <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Telèfon públic</string>
   <string name="picking_participant">S\'està obtenint la informació del contacte&#8230;</string>

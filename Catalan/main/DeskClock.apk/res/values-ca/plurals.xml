@@ -5,10 +5,6 @@
     <item quantity="other">Ajornada %d minuts.</item>
     <item quantity="one">Ajornada %d minut.</item>
   </plurals>
-  <plurals name="auto_silence_summary">
-    <item quantity="other">Les alarmes se silenciaran després de %d minuts</item>
-    <item quantity="one">Les alarmes se silenciaran després d\'%d minut</item>
-  </plurals>
   <plurals name="delete_alarm_confirm">
     <item quantity="other">Voleu eliminar les alarmes seleccionades?</item>
     <item quantity="one">Voleu eliminar aquesta alarma?</item>
@@ -17,21 +13,9 @@
     <item quantity="other">Voleu eliminar els fusos horaris seleccionats?</item>
     <item quantity="one">Voleu eliminar aquest fus horari?</item>
   </plurals>
-  <plurals name="second">
-    <item quantity="other">%d seconds</item>
-    <item quantity="one">%d second</item>
-  </plurals>
   <plurals name="snooze_message">
     <item quantity="other">Ajorna %d mins</item>
     <item quantity="one">Ajorna %d min</item>
-  </plurals>
-  <plurals name="timer_item_duration_display_minutes">
-    <item quantity="other">%1$d minuts</item>
-    <item quantity="one">1 minut</item>
-  </plurals>
-  <plurals name="timer_item_duration_display_seconds">
-    <item quantity="other">%1$d segons</item>
-    <item quantity="one">1 segon</item>
   </plurals>
   <plurals name="timer_message_hour">
     <item quantity="other">"%1$d hores "</item>

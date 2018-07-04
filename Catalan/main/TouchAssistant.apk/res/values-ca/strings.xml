@@ -19,7 +19,6 @@
   <string name="motion_behavior">Gest preferit</string>
   <string name="name_alipay_payment_code">Pagament Alipay</string>
   <string name="name_alipay_scan">Escànner Alipay</string>
-  <string name="name_all_mipay_cards">Mi Pay</string>
   <string name="name_handy_mode">Mode fàcil</string>
   <string name="name_long_press_power_key">Mantingueu premut el botó d\'encesa</string>
   <string name="name_memory_clean">Esborra la memòria cau</string>
@@ -49,13 +48,9 @@
   <string name="pref_category_quick_pay">Pagament ràpid</string>
   <string name="pref_category_quick_settings">Configuració ràpida</string>
   <string name="pref_category_system">Configuració del sistema</string>
-  <string name="process_name">com.android.systemui</string>
   <string name="restore_default">Restaura els valors per defecte</string>
   <string name="restore_intro">"Restableix els valors per defecte, incloent les dreceres i el seu ordre. No es veuran afectades les dades de les aplicacions del dispositiu."</string>
   <string name="show_on_keyguard">Mostra-ho a la pantalla de bloqueig</string>
   <string name="theme_manager_not_supported">"El gestor de temes no és compatible."</string>
   <string name="three_seconds_auto_hide">Fixeu-vos a la vora després de 3 segons d\'inactivitat</string>
-  <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
-  <string name="vector_large_crossA">M160,160 L240,240</string>
-  <string name="vector_large_crossB">M240,160 L160,240</string>
 </resources>

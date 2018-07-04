@@ -127,6 +127,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="enable_encrypt_summery2">"Les còpies de seguretat s'encriptaran automàticament. Cal que inicieu la sessió al Compte Mi per accedir a les còpies de seguretat encriptades."</string>
   <string name="enable_encrypt_title">Còpies de seguretat encriptades</string>
   <string name="enable_encrypt_xiaomi_account">Aquesta còpia de seguretat va ser creada per %1$s. Per restaurar-la, elimineu el compte actual i inicieu la sessió com a %2$s.</string>
+  <string name="err_acquire_system_service">"No s'ha pogut iniciar el servei del sistema."</string>
   <string name="err_authentication_failed">"No s'ha pogut autenticar"</string>
   <string name="err_bakfile_broken">"No es pot utilitzar aquesta còpia de seguretat."</string>
   <string name="err_bakfile_not_exist">"No existeix el fitxer de còpia de seguretat."</string>
@@ -156,14 +157,14 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="files_backup_info">Tots els fitxers de la targeta SD (incloent fotos, cançons, vídeos, dades d\'aplicacions, etc.)</string>
   <string name="findlost_contact">Restaura els contactes</string>
   <string name="findlost_contact_online">Restaura els contactes des de Mi Cloud</string>
-  <string name="flash_drive_backup_btn">Back up to USB drive</string>
-  <string name="flash_drive_backup_note">"Back up apps to a USB drive.
-Make sure the USB drive has enough storage space before you start."</string>
-  <string name="flash_drive_backup_restore">USB backups</string>
-  <string name="flash_drive_connection_failed">USB drive disconnected</string>
-  <string name="flash_drive_restore_btn">Restore from USB drive</string>
-  <string name="flash_drive_search_backup_files">"Searching for the USB backup…
-Don\'t change or rename backup files."</string>
+  <string name="flash_drive_backup_btn">Còpia de seguretat per USB</string>
+  <string name="flash_drive_backup_note">"Còpia de seguretat de les aplicacions a una memòria USB. 
+Assegureu-vos que la memòria USB té prou capacitat abans de començar."</string>
+  <string name="flash_drive_backup_restore">Còpies de seguretat USB</string>
+  <string name="flash_drive_connection_failed">Memòria USB desconnectada</string>
+  <string name="flash_drive_restore_btn">Restaura des de la memòria USB</string>
+  <string name="flash_drive_search_backup_files">"S\'està cercant la còpia de seguretat USB…
+No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="guarded_mode_dialog_backup_message">"Les còpies de seguretat no estan permeses al mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Estàs al mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"No es pot utilitzar Mi Mover al mode de Convidat."</string>
@@ -206,8 +207,8 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
   <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
-  <string name="lack_perm_msg">Mi Mover needs the following permissions: &lt;b&gt;%s&lt;/b&gt;.</string>
-  <string name="lack_perm_title">Permissions required</string>
+  <string name="lack_perm_msg">Mi Mover necessita els següents permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Es requereixen permisos</string>
   <string name="list_footer_tip_title">Consells:</string>
   <string name="loading_data">S\'estan carregant dades</string>
   <string name="local_app_name">Còpia de seguretat</string>
@@ -279,7 +280,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="perm_read_contacts">Llegir contactes</string>
   <string name="perm_read_phone_state">"Llegir l'estat del telèfon"</string>
   <string name="perm_read_sms">Llegir SMS</string>
-  <string name="perm_storage">Read and write on external storage</string>
+  <string name="perm_storage">Llegir i escriure en emmagatzematge extern</string>
   <string name="platform_chooser_item_android_mi">Telèfon Mi</string>
   <string name="platform_chooser_item_android_others">Altres marques</string>
   <string name="platform_chooser_item_ios">Importa des d\'un dispositiu iOS</string>
@@ -397,8 +398,8 @@ Allibera %s com a mínim. "</string>
   <string name="trans_button_cancel">Cancel·la</string>
   <string name="trans_calculating">S\'està calculant…</string>
   <string name="trans_calculating_app_sd_description">Dades de la targeta SD</string>
-  <string name="trans_calculating_media_description">Media files</string>
-  <string name="trans_calculating_tip">Calculating %s…</string>
+  <string name="trans_calculating_media_description">Fitxers multimèdia</string>
+  <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
   <string name="trans_connect_failed_device_incompatible">"El dispositiu no és compatible. Cancel·la la transferència i torna-ho a provar."</string>
@@ -436,38 +437,38 @@ Allibera %s com a mínim. "</string>
   <string name="trans_device_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar per continuar.</string>
   <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
   <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
-  <string name="trans_failed_details_page_title">Unsuccessful transfers</string>
+  <string name="trans_failed_details_page_title">Transferències fallides</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
-  <string name="trans_generate_qrcode_failed">"Couldn't generate QR code. Try again."</string>
-  <string name="trans_generating_qrcode">Generating QR code…</string>
-  <string name="trans_install_guide_button_start">Start</string>
-  <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
-  <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
-to download and install Mi Mover."</string>
-  <string name="trans_install_guide_step1_content">Scan the QR code with your old phone to download and install \"Mi Mover\".</string>
-  <string name="trans_install_guide_step1_title">Step 1</string>
-  <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
-  <string name="trans_install_guide_step2_title">Step 2</string>
+  <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Torneu-ho a provar."</string>
+  <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
+  <string name="trans_install_guide_button_start">Inicia</string>
+  <string name="trans_install_guide_page_title">Instal·leu Mi Mover al telèfon antic</string>
+  <string name="trans_install_guide_scan_install_tip">"Escanejeu aquest codi QR amb el telèfon antic
+per baixar i instal·lar Mi Mover."</string>
+  <string name="trans_install_guide_step1_content">Escanejeu el codi QR amb el telèfon antic per baixar i instal·lar «Mi Mover».</string>
+  <string name="trans_install_guide_step1_title">Pas 1</string>
+  <string name="trans_install_guide_step2_content">Un cop finalitzada la instal·lació, toqueu el botó «Inicia».</string>
+  <string name="trans_install_guide_step2_title">Pas 2</string>
   <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa WLAN i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
   <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
   <string name="trans_intro_desc_4">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu seguir utilitzant les dades mòbils. Tanmateix, alguns dispositius més nous (per exemple el Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
-  <string name="trans_intro_desc_4_market">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils."</string>
   <string name="trans_intro_desc_5">L\'espai d\'emmagatzematge en dispositius antics s\'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb - 1 Gb d\'emmagatzematge disponible al vostre telèfon antic abans d\'iniciar una transferència.</string>
   <string name="trans_intro_desc_6">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
   <string name="trans_intro_desc_7">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
   <string name="trans_intro_desc_8">"Les dades de l'aplicació WeChat i l'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d'una transferència amb èxit."</string>
-  <string name="trans_intro_desc_9_method_1_dec">Go to Home screen &gt; Tools &gt; Feedback.</string>
-  <string name="trans_intro_desc_9_method_1_title">1. Share your feedback using the \"Feedback\" app.</string>
-  <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
-  <string name="trans_intro_desc_9_method_2_title">2. Send us an email</string>
-  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
-  <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
+  <string name="trans_intro_desc_9_method_1_dec">Aneu a la pantalla d\'inici &gt; Eines &gt; Comentaris.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Compartiu els vostres comentaris utilitzant l\'aplicació \"Comentaris\".</string>
+  <string name="trans_intro_desc_9_method_2_dec">Envieu els vostres comentaris a miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Envieu-nos un correu</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Grup QQ de Mi Mover: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Informa dels problemes en QQ</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
   <string name="trans_intro_desc_new">"Toqueu «Sóc un destinatari». Es generarà un codi QR."</string>
   <string name="trans_intro_desc_old">"Toqueu «Sóc un remitent». Escanegeu el codi QR en el nou telèfon, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i premeu «Envia»."</string>
-  <string name="trans_intro_desc_old_market">Tap \"Start\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\".</string>
+  <string name="trans_intro_desc_old_market">Toqueu «Inicia». Escanejeu el codi QR al telèfon nou, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i toqueu «Envia».</string>
   <string name="trans_intro_desc_private">"El Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Mi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu iOS?</string>
   <string name="trans_intro_question_2">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu Android?</string>
@@ -478,7 +479,7 @@ to download and install Mi Mover."</string>
   <string name="trans_intro_question_7">"%d. Per què no s'inicien algunes aplicacions en el nou dispositiu?"</string>
   <string name="trans_intro_question_8">"%d. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
   <string name="trans_intro_question_9">"%d. Quins elements no es poden transferir?"</string>
-  <string name="trans_intro_question_9_market">%d. Feedback.</string>
+  <string name="trans_intro_question_9_market">%d. Comentaris.</string>
   <string name="trans_intro_title">PMF</string>
   <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
   <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals:</string>
@@ -490,14 +491,14 @@ to download and install Mi Mover."</string>
   <string name="trans_my_device">El meu dispositiu</string>
   <string name="trans_native_no_space">"No hi ha prou espai al dispositiu.
 Esborreu almenys %s."</string>
-  <string name="trans_old_phone_low_space_msg">"Mi Mover needs some storage space to package the transferred data, but it looks like there isn't enough space available on the old device. Free up space in \"Security\" or transfer only important items."</string>
-  <string name="trans_old_phone_low_space_title">Not enough storage space</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover necessita espai d'emmagatzematge per comprimir les dades a transferir, i sembla que no hi ha prou espai disponible al dispositiu antic. Allibereu espai amb «Seguretat» o transferiu només els elements importants."</string>
+  <string name="trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
-  <string name="trans_open_camera_failed_message">Reboot your device or check whether Mi Mover is allowed to use &lt;b&gt;Camera&lt;/b&gt;.</string>
-  <string name="trans_open_camera_failed_title">"Couldn't connect to Camera"</string>
-  <string name="trans_open_location_button">Turn on</string>
-  <string name="trans_open_location_message">Turn on location services to get the list of available WLAN networks.</string>
-  <string name="trans_open_location_title">Turn on location services</string>
+  <string name="trans_open_camera_failed_message">Reinicieu el dispositiu o comproveu si Mi Mover pot utilitzar &lt;b&gt;la càmera&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_title">"No s'ha pogut accedir a la càmera"</string>
+  <string name="trans_open_location_button">Activa</string>
+  <string name="trans_open_location_message">Activeu els serveis d\'ubicació per obtenir la llista de xarxes Wi-Fi disponibles.</string>
+  <string name="trans_open_location_title">Activa els serveis d\'ubicació</string>
   <string name="trans_operate_func_one">Mètode A</string>
   <string name="trans_operate_func_two">Mètode B</string>
   <string name="trans_operate_new_phone_tips">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover
@@ -510,7 +511,7 @@ Toqueu [Sóc un receptor] per crear el codi QR"</string>
 A continuació, toqueu «Torna a connectar» per crear un codi QR."</string>
   <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «S\'ha interromput la connexió» a l\'antic telèfon.
 A continuació, toqueu «Torna a connectar» per escanejar el codi QR."</string>
-  <string name="trans_operate_tip_for_other_android">Open Mi Mover on your old phone, tap \"Start\" and scan the QR code above.</string>
+  <string name="trans_operate_tip_for_other_android">Obriu Mi Mover al telèfon antic, toqueu «Inicia» i escanegeu el codi QR anterior.</string>
   <string name="trans_pausing">S\'està aturant…</string>
   <string name="trans_please_waiting">Un moment…</string>
   <string name="trans_progress_subdescript_br_receiver">S\'està restaurant %1$s, %2$s completat</string>
@@ -558,9 +559,9 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
   <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, torneu-ho a provar o reinicieu el dispositiu."</string>
   <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
-  <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
-  <string name="trans_success_dialog_market_comment_title">"Your new device feels like home now.
-Did you like Mi Mover?"</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Valora Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">"El vostre nou dispositiu se sent com a casa.
+Us ha agradat el Mi Mover?"</string>
   <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
   <string name="trans_time_spent">\"
@@ -572,18 +573,17 @@ i s\'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
   <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
   <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
-  <string name="unit_byte">B</string>
   <string name="unknown_hint">Desconeguda</string>
-  <string name="usb_backup_select_data_too_large">"Selected files are big. Make sure the USB drive has enough storage space.
-Transfer only important items."</string>
-  <string name="usb_restore_select_data_too_large">"Backup files are big. It might take a while to restore them.
-Restoring only important items will be faster."</string>
-  <string name="usb_trans_native_no_space">"Only %s is available on your device.
-Free up space or make multiple smaller transfers."</string>
-  <string name="usb_trans_old_phone_low_space_msg">"Additional storage is required to package your backups. There's not enough storage space to continue the transfer. You can free up space and delete unnecessary files in Security or try tranfering only important items."</string>
-  <string name="usb_trans_old_phone_low_space_title">Not enough storage space</string>
-  <string name="usb_trans_select_data_no_space">"Only %s is available on your USB drive.
-Free up space or transfer only important items."</string>
+  <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB té prou espai d\'emmagatzematge.
+Transferiu només elements importants."</string>
+  <string name="usb_restore_select_data_too_large">"Els fitxers de còpia de seguretat són grans. Pot trigar un temps en restaurar-se
+Restaureu només elements importants, serà més ràpid."</string>
+  <string name="usb_trans_native_no_space">"Només resten %s al vostre dispositiu.
+Allibereu espai o feu diverses transferències més petites."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Es necessita emmagatzematge addicional per empaquetar les còpies de seguretat. No hi ha prou espai d'emmagatzematge per continuar amb la transferència. Podeu alliberar espai i eliminar fitxers innecessaris a Seguretat o intentar transferir només elements importants."</string>
+  <string name="usb_trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
+  <string name="usb_trans_select_data_no_space">"Només resten %s a la vostra unitat USB.
+Allibereu espai o transferiu només elements importants."</string>
   <string name="user_name">ID d\'Apple o correu</string>
   <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
@@ -591,8 +591,11 @@ Free up space or transfer only important items."</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
+  <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
+  <string name="xiaomi_kilobytes_unit">%1$s kB</string>
+  <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s

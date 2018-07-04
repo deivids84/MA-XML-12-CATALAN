@@ -4,8 +4,6 @@
   <string name="about_hide_mode">Quant a l\'estalvi de bateria</string>
   <string name="app_list_title">Selecciona aplicacions</string>
   <string name="app_name">Bateria i rendiment</string>
-  <string name="app_preload_policies_summary">"Use machine learning to predict the apps you're most likely to use, and load resources in advance."</string>
-  <string name="app_preload_policies_title">AI pre-loading</string>
   <string name="base_info">Informació base</string>
   <string name="cloud_addr_info">Informació del núvol</string>
   <string name="cloud_china_addr">Actualitza les dades del servidor xinès</string>
@@ -32,7 +30,6 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="extreme_power_config_mode_category">Mode extrem</string>
   <string name="extreme_power_config_mode_desc">Canvieu al mode extrem per desactivar la sincronització, Bluetooth, GPS, NFC, doble toc, llums de botons, pantalla de bloqueig per a notificacions i llums de notificació. MIUI se centrarà en estalviar bateria.</string>
   <string name="extreme_power_config_mode_title">Mode extrem</string>
-  <string name="failure">Error</string>
   <string name="hide_mode_desc">Quan una aplicació s\'executa en segon pla, les seves activitats seran supervisades per reduir el consum de bateria. La connexió de xarxa, els serveis d\'ubicació, la ràdio, el rellotge, etc. es poden veure afectats per aquesta funció. Aquesta configuració és adequada per a la majoria de les aplicacions, però si alguna aplicació en particular es comporta de forma incorrecta quan s\'està executant en segon pla, pot personalitzar la configuració per a cada aplicació.</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hints_loading_text">Un moment…</string>
@@ -65,11 +62,9 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_hide_mode_title">Bateria i rendiment</string>
   <string name="power_mode">Configuració d\'energia</string>
   <string name="power_usage">Ús d\'energia</string>
-  <string name="pref_config_title">Performance Optimization</string>
   <string name="scenario_policies_summary">Apliqueu diferents estratègies d\'estalvi d\'energia per a diferents escenes.</string>
   <string name="scenario_policies_title">Escenes intel·ligents</string>
   <string name="scenario_policies_warmcontrol">Control de temperatura</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="sleep_config_enhance_description">"Cada vegada que MIUI detecta que esteu dormint, tancarà aplicacions en segon pla, restringirà l'NFC, Bluetooth, GPS, dades mòbils i ús de Wi-Fi i farà que no s'activi la pantalla per a les notificacions."</string>

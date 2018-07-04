@@ -9,7 +9,6 @@
   <string name="add_short_cut">Afegeix</string>
   <string name="added_successfully">S\'ha afegit amb èxit</string>
   <string name="antispam_sync">Configuració de \"No molestar\"</string>
-  <string name="app_name">Mi Cloud</string>
   <string name="bad_authentication">Contrasenya o nom d\'usuari no vàlids</string>
   <string name="btn_return">Enrere</string>
   <string name="button_cancel">Cancel·la</string>
@@ -54,9 +53,6 @@
   <string name="ks_download_success">S\'ha baixat amb èxit</string>
   <string name="ks_fingerprint_payment">Pagaments amb l\'empremta</string>
   <string name="ks_fingerprint_status">Estat del pagament</string>
-  <string name="ks_name_alipay">IFAA</string>
-  <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Disponible</string>
   <string name="ks_status_unavailable">No disponible</string>
   <string name="ks_update_certificate">Certificat</string>
@@ -105,7 +101,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_finish_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
   <string name="micloud_confusion_finish_message">Assegura\'t que cap dels teus vells o inactius dispositius estan sincronitzant encara amb Mi Cloud.</string>
   <string name="micloud_confusion_finish_title">Compte verificat</string>
-  <string name="micloud_confusion_no">No</string>
   <string name="micloud_confusion_ok">D\'acord</string>
   <string name="micloud_confusion_setting_notify_text">Assegura\'t que cap dels teus vells o inactius dispositius estan sincronitzant encara amb Mi Cloud.</string>
   <string name="micloud_confusion_setting_notify_title">Protegeix el teu compte</string>
@@ -161,7 +156,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut activar troba el dispositiu"</string>
   <string name="micloud_find_device_opened">Troba el dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el vostre dispositiu a %s</string>
-  <string name="micloud_find_device_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate this feature.</string>
   <string name="micloud_find_device_verify_button">Reactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_close">Desactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_fail">"No es pot reactivar troba el dispositiu"</string>
@@ -191,13 +185,11 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
 1. Utilitzar un compte diferent.
 2. Moure els elements al Primer espai."</string>
   <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
-  <string name="micloud_main_network_abnormal">Check your network settings</string>
   <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa "</string>
   <string name="micloud_main_query_again">Envieu una altra sol·licitud</string>
   <string name="micloud_main_query_error_message">"No es pot garantir si la sincronització està acabada"</string>
   <string name="micloud_main_query_error_title">"No es pot obtenir l'estat de sincronització"</string>
   <string name="micloud_main_resume_sync_soon">Reprèn la sincronització aviat</string>
-  <string name="micloud_main_see_unsynced_data">Check the data to be synced</string>
   <string name="micloud_main_set_internet">Xarxa</string>
   <string name="micloud_main_space_full_message">Compreu més espai d\'emmagatzematge al Mi Cloud</string>
   <string name="micloud_main_space_full_title">Emmagatzematge en el núvol complet</string>
@@ -261,7 +253,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_space_applist_detail">Gestiona les aplicacions a la pantalla d\'inici</string>
   <string name="micloud_space_applist_title">Gestiona les aplicacions</string>
   <string name="micloud_space_duokan_detail">Baixeu i gestioneu llibres electrònics amb l\'aplicació Duokan.</string>
-  <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_soundrecorder_detail">Gestiona gravacions emmagatzemades al dispositiu</string>
   <string name="micloud_space_soundrecorder_title">Gravacions</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Ha de renovar la seva subscripció.</string>
@@ -370,8 +361,6 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="trying_to_connect_to_network">S\'està connectant a la xarxa&#8230;</string>
   <string name="user_agreement_content">"En utilitzar aquest servei, esteu d'acord amb %s."</string>
   <string name="user_agreement_link">"Els termes de servei del Mi Cloud"</string>
-  <string name="user_agreement_p5">"
-"</string>
   <string name="user_agreement_title">"Termes de Servei de Mi Cloud"</string>
   <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
   <string name="wipe_data_dialog_msg">"Alguns elements %s no se sincronitzen. Es desaran al dispositiu i no se suprimiran."</string>
@@ -379,7 +368,5 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Els elements no estan sincronitzats"</string>
   <string name="wipe_secret_photo_dialog_title">"Les fotos ocultes no es sincronitzen"</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Tots els elements importants en un sol lloc</string>
-  <string name="xmpp_server_addr"></string>
 </resources>

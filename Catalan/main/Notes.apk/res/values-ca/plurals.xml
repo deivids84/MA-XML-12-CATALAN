@@ -9,16 +9,4 @@
     <item quantity="other">%1$s carpetes</item>
     <item quantity="one">%1$s carpeta</item>
   </plurals>
-  <plurals name="note_terms">
-    <item quantity="other">%1$s notes</item>
-    <item quantity="one">%1$s nota</item>
-  </plurals>
-  <plurals name="record_last_ten_seconds_reminder">
-    <item quantity="other">%d seconds left</item>
-    <item quantity="one">%d second left</item>
-  </plurals>
-  <plurals name="word_count">
-    <item quantity="other">%s Characters</item>
-    <item quantity="one">%s Character</item>
-  </plurals>
 </resources>

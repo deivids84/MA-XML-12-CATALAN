@@ -89,18 +89,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">"%d h "</item>
     <item quantity="one">"%d h "</item>
   </plurals>
-  <plurals name="power_center_battery_minute">
-    <item quantity="other">"%d min "</item>
-    <item quantity="one">"%d min "</item>
-  </plurals>
-  <plurals name="power_center_battery_volume">
-    <item quantity="other">%d mAh</item>
-    <item quantity="one">%d mAh</item>
-  </plurals>
-  <plurals name="power_center_battery_temperature">
-    <item quantity="other">%d ℃</item>
-    <item quantity="one">%d ℃</item>
-  </plurals>
   <plurals name="deep_clean_auto_memory_clean">
     <item quantity="other">En %1$d minuts</item>
     <item quantity="one">En %1$d min</item>
@@ -273,10 +261,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">%d virus suprimits</item>
     <item quantity="one">%d virus suprimit</item>
   </plurals>
-  <plurals name="optimize_result_button_add_score">
-    <item quantity="other">+%d</item>
-    <item quantity="one">+%d</item>
-  </plurals>
   <plurals name="add_game_notification_title">
     <item quantity="other">S\'han afegit %d jocs</item>
     <item quantity="one">S\'ha afegit %d joc</item>
@@ -316,9 +300,5 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <plurals name="net_booster_expire_notification_tip">
     <item quantity="other">Resten %d dies abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
     <item quantity="one">Resta %d dia abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
-  </plurals>
-  <plurals name="gb_signed_days_sum">
-    <item quantity="other">Checked in %d days in a row</item>
-    <item quantity="one">Checked in %d time</item>
   </plurals>
 </resources>

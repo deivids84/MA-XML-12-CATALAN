@@ -11,7 +11,6 @@
   <string name="fastboot_locked_question_3">Conec els riscos, però encara necessito desbloquejar el dispositiu. Què hauria de fer?</string>
   <string name="fastboot_status_locked_info">"Fastboot no està desbloquejat en aquest dispositiu"</string>
   <string name="fastboot_status_locked_summary">"No es pot obtenir l'accés d'administrador"</string>
-  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Ves a la web oficial de MIUI per aconseguir l\'eina de desbloqueig.</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="gb_alipays_can_not_complete">"No es pot completar el pagament. Instal·leu-lo per continuar."</string>
@@ -21,7 +20,6 @@
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Compartició</string>
   <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="ok_button">D\'acord</string>

@@ -3,8 +3,6 @@
 <resources>
   <string name="Parse_error_dlg_text">S\'ha produït un problema en analitzar el paquet.</string>
   <string name="abc_action_bar_home_description">Vés a la pàgina d\'inici</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
@@ -12,18 +10,6 @@
   <string name="abc_activitychooserview_choose_application">Tria una aplicació</string>
   <string name="abc_capital_off">INACTIU</string>
   <string name="abc_capital_on">ACTIU</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Cerca&#8230;</string>
   <string name="abc_searchview_description_clear">Esborra la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -69,7 +55,6 @@
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
   <string name="battery_info_status_unknown">Desconegut</string>
-  <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilitza per a dispositius d\'àudio</string>
   <string name="bluetooth_connected">Connectat</string>
@@ -142,7 +127,6 @@ Taxa de mostreig"</string>
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="cancel">Cancel·la</string>
-  <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
@@ -152,7 +136,6 @@ Taxa de mostreig"</string>
   <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
   <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
-  <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -233,7 +216,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="generic_error_dlg_text">No s\'ha pogut desinstal·lar l\'aplicació.</string>
-  <string name="generic_error_dlg_title">Error</string>
   <string name="grant_confirm_question">Voleu concedir els següents permisos? Obtindrà accés a:</string>
   <string name="grant_dialog_button_allow">Permet</string>
   <string name="grant_dialog_button_deny">Denega</string>
@@ -241,7 +223,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="grant_dialog_button_more_info">Més informació</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
-  <string name="help_app_permissions"></string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
   <string name="home">Pàgina inicial de la configuració</string>
   <string name="ime_security_warning">Aquest mètode d\'entrada pot ser capaç de recopilar tot el text que escriviu, incloses les dades personals com contrasenyes i números de targetes de crèdit. Prové de l\'aplicació %1$s. Voleu utilitzar aquest mètode d\'entrada?</string>
@@ -274,21 +255,9 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
   <string name="lb_control_display_fast_forward_multiplier">%1$dx</string>
   <string name="lb_control_display_rewind_multiplier">%1$dx</string>
-  <string name="lb_date_separator">/</string>
   <string name="lb_guidedaction_continue_title">Continua</string>
   <string name="lb_guidedaction_finish_title">Finalitza</string>
-  <string name="lb_guidedactions_item_disabled_chevron_alpha">0.5</string>
   <string name="lb_guidedactions_item_disabled_description_text_alpha">0,25</string>
-  <string name="lb_guidedactions_item_disabled_text_alpha">0.25</string>
-  <string name="lb_guidedactions_item_enabled_chevron_alpha">1.0</string>
-  <string name="lb_guidedactions_item_unselected_description_text_alpha">0.5</string>
-  <string name="lb_guidedactions_item_unselected_text_alpha">1.0</string>
-  <string name="lb_guidedactions_width_weight">0.71428573</string>
-  <string name="lb_guidedactions_width_weight_two_panels">1.1917808</string>
-  <string name="lb_guidedbuttonactions_width_weight">0.45</string>
-  <string name="lb_guidedstep_height_weight">2.0</string>
-  <string name="lb_guidedstep_height_weight_translucent">1.0</string>
-  <string name="lb_guidedstep_keyline">40.0</string>
   <string name="lb_media_player_error">Codi d\'error del reproductor multimèdia %1$d extra %2$d</string>
   <string name="lb_navigation_menu_contentDescription">Menú de navegació</string>
   <string name="lb_onboarding_accessibility_next">Següent</string>
@@ -318,7 +287,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="lb_playback_controls_thumb_down_outline">Selecciona Dit Avall</string>
   <string name="lb_playback_controls_thumb_up">Desselecciona Dit Amunt</string>
   <string name="lb_playback_controls_thumb_up_outline">Selecciona Dit Amunt</string>
-  <string name="lb_playback_time_separator">/</string>
   <string name="lb_search_bar_hint">Cerca</string>
   <string name="lb_search_bar_hint_speech">Parleu per cercar</string>
   <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
@@ -353,7 +321,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="no_apps">Cap aplicació</string>
   <string name="no_new_perms">Aquesta actualització no demana cap permís nou.</string>
   <string name="no_permissions">Cap permís</string>
-  <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="ok">D\'acord</string>
@@ -443,7 +410,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
-  <string name="time_zone_gmt">GMT</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
@@ -459,7 +425,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració del motor</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
-  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·la dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -516,7 +481,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wear_app_channel">Instal·lació/desinstal·lació d\'aplicacions «wear»</string>
   <string name="wear_not_allowed_dlg_text">Les accions d\'instal·lar o desinstal·lar no s\'admeten a Wear.</string>
-  <string name="wear_not_allowed_dlg_title">Android Wear</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
@@ -529,28 +493,12 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wifi_disabled_wifi_failure">Error de connexió Wi-Fi</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
   <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Cap</string>
-  <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>

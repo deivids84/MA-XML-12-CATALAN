@@ -45,10 +45,6 @@
     <item quantity="other">%s elements seleccionats</item>
     <item quantity="one">%s element seleccionat</item>
   </plurals>
-  <plurals name="shopping_delete_num">
-    <item quantity="other">Delete %s selected items?</item>
-    <item quantity="one">Delete %s selected item?</item>
-  </plurals>
   <plurals name="sms_day_suffix">
     <item quantity="other">En %d dies</item>
     <item quantity="one">En %d dia</item>

@@ -21,8 +21,6 @@
   <string name="account_has_been_set">Modifica</string>
   <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
   <string name="account_mibi_center">Crèdit Mi</string>
-  <string name="account_mibi_charge">Mi Credits Charge</string>
-  <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Cap</string>
   <string name="account_none">Cap</string>
   <string name="account_none_binded_info">Cap</string>
@@ -69,7 +67,6 @@
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar-la més tard</string>
   <string name="authorize_title">Autorització</string>
   <string name="bind_facebook">Vinculeu el vostre compte de Facebook</string>
-  <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar sessió la propera vegada al Compte Mi.</string>
   <string name="bind_settings">Comptes</string>
   <string name="bind_sina_weibo">Vincula amb el compte Sina Weibo</string>
@@ -82,7 +79,6 @@
   <string name="change_email_address">Canvia l\'adreça de correu electrònic</string>
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_phone_number">Canvia el número de telèfon</string>
-  <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Tot fet</string>
   <string name="confirm_activate_email">Verificat</string>
   <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon inclòs</string>
@@ -115,7 +111,6 @@
   <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
   <string name="error_invalid_bind_address">L\'adreça de correu que heu introduït no és vàlida.</string>
   <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre compte Mi.</string>
-  <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
   <string name="find_device_access_denied">"No es pot obtenir l'estat, no es permet l'accés"</string>
   <string name="find_device_account_error">"No es pot obtenir l'estat per un error en el compte"</string>
@@ -186,9 +181,7 @@
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtindrà els permisos següent:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Inici de sessió amb el compte Mi</string>
   <string name="other_devices_title">Altres dispositius</string>
-  <string name="passport_Resend">Resend</string>
   <string name="passport_access_denied">Accés denegat</string>
-  <string name="passport_account_hint_text">Adreça de correu/número de telèfon/ID del Compte Mi</string>
   <string name="passport_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
@@ -206,7 +199,6 @@
   <string name="passport_back">Torna</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
-  <string name="passport_btn_change_account">Change account</string>
   <string name="passport_change_account">Canvia de compte</string>
   <string name="passport_change_phone_number">Bescanvia números</string>
   <string name="passport_checking_account">Comprovant contrasenya&#8230;</string>
@@ -237,7 +229,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_empty_pwd">Introduïu la contrasenya</string>
   <string name="passport_error_empty_username">Introduïu l\'ID del compte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
-  <string name="passport_error_empty_voice_code">Enter captcha</string>
   <string name="passport_error_illegal_pwd">Contrasenya no vàlida</string>
   <string name="passport_error_invalid_dev_id">"L'identificador del vostre dispositiu no és vàlid."</string>
   <string name="passport_error_invalid_phone_num">Número de telèfon no vàlid</string>
@@ -259,7 +250,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_innetdate_agree">Comprova</string>
-  <string name="passport_get_innetdate_disagree">No</string>
   <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Sembla&lt;/font&gt; que l\'operador ha reciclat el número %s. Voleu comprovar quan el número estigui en línia?</string>
   <string name="passport_get_innetdate_title">Comprova quan el número està en línia</string>
   <string name="passport_get_verify_code">Obtén codi</string>
@@ -275,10 +265,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_input_phone_hint">Introduïu el número de telèfon</string>
   <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
   <string name="passport_input_voice_captcha_hint">Introduïu el codi de verificació de veu</string>
-  <string name="passport_input_voice_hint">Enter voice code</string>
   <string name="passport_license_host_unreachable">"No es pot connectar a la xarxa. Podeu veure aquesta pàgina a %s."</string>
-  <string name="passport_license_info_collapse">Collapse</string>
-  <string name="passport_license_info_open">Details</string>
   <string name="passport_loading">Carregant&#8230;</string>
   <string name="passport_login">Inicia la sessió</string>
   <string name="passport_login_failed">"No es pot iniciar sessió"</string>
@@ -286,14 +273,11 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
   <string name="passport_login_other_account">Un altre compte</string>
   <string name="passport_login_prompt">Un compte Mi. Tots els serveis Mi.</string>
-  <string name="passport_login_recycle_account_no">No</string>
   <string name="passport_login_recycle_account_yes">Sí</string>
   <string name="passport_login_title">Inicia una sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
-  <string name="passport_new_user_register">Create an account</string>
   <string name="passport_next">Següent</string>
-  <string name="passport_no">No</string>
   <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="passport_password_phone_login">Inicia sessió amb el Compte Mi</string>
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
@@ -319,7 +303,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_failed">"No es pot configurar el compte"</string>
   <string name="passport_reg_new_account">Crea un compte</string>
   <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
-  <string name="passport_reg_recycle_account_no">No</string>
   <string name="passport_reg_recycle_account_yes">Sí</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">%1$s s\'ha unit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
@@ -335,7 +318,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
   <string name="passport_register_restricted">Massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot fer servir aquest número de telèfon"</string>
-  <string name="passport_register_using_other_ways">Other ways to registered</string>
   <string name="passport_registered_phone_num">Telèfon: %s</string>
   <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
   <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
@@ -370,10 +352,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_sms_verification_code_login">Inicia sessió mitjançant un SMS</string>
   <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
   <string name="passport_sync_account_data_failed_warning">La informació del vostre compte s\'està sincronitzant, podeu iniciar la sessió amb l\'ID del Compte Mi. Si voleu iniciar la sessió amb el telèfon o correu, espereu fins que la informació estigui completament sincronitzada.</string>
-  <string name="passport_talkback_image_captcha">Image verification code</string>
-  <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
-  <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
-  <string name="passport_talkback_voice_captcha">Play voice verification code</string>
   <string name="passport_title_reg">Crea un compte</string>
   <string name="passport_trust_device">Confia en aquest dispositiu</string>
   <string name="passport_trying_read_verify_code_sms">Obtenint el codi de verificació&#8230;</string>
@@ -400,7 +378,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_phone_number_format">El format del número de telèfon que heu introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
-  <string name="passport_wrong_voice">The code you entered is incorrect</string>
   <string name="passport_yes">Sí</string>
   <string name="phone_activated">%s activat</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
@@ -409,7 +386,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
   <string name="push_notify_dialog_message">"S'està utilitzant un dispositiu desconegut per iniciar la sessió al Compte Mi. Introduïu aquest codi de verificació al dispositiu. Si no fos així, canvieu la contrasenya del Compte Mi immediatament. No reveleu el codi de verificació a altres persones."</string>
   <string name="push_notify_dialog_title">Verificació de seguretat de l\'inici de sessió</string>
-  <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Sembla que el vostre número de telèfon ha estat reciclat. Toqueu per actualitzar.</string>
   <string name="recycle_phone_notification_title">Risc de seguretat del Compte Mi</string>
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
@@ -474,5 +450,4 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="verify_phone_title">Verifica el número de telèfon</string>
   <string name="vip_account_settings">Configuració VIP</string>
   <string name="vip_settings_info">Configuració VIP</string>
-  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

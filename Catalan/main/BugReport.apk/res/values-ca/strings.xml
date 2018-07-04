@@ -26,7 +26,6 @@
   <string name="customer_service_apply">Sol·licita atenció al client</string>
   <string name="customer_service_complain">Informa a l\'atenció al client</string>
   <string name="customer_service_station">Ubicacions de servei</string>
-  <string name="default_text_view">TextView</string>
   <string name="description">Descriviu el problema</string>
   <string name="dialog_ask_delete">Elimina</string>
   <string name="dialog_ask_quit">Surt</string>
@@ -37,7 +36,6 @@
   <string name="err_type">Tipus d\'error</string>
   <string name="err_type_app">Aplicacions</string>
   <string name="err_type_appstore">Botiga d\'aplicacions</string>
-  <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Càmera</string>
   <string name="err_type_hardware">Maquinari</string>
   <string name="err_type_hardware_summary">Botons, càrrega, sensors, etc.</string>
@@ -52,7 +50,6 @@
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
   <string name="err_type_wifi">Wi-Fi</string>
-  <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
@@ -73,7 +70,6 @@
   <string name="feedback_empty_report_list">Encara no hi ha informes</string>
   <string name="feedback_guess">La nostra suposició</string>
   <string name="feedback_history_remind_login_desc">"Inicieu sessió amb el vostre Compte Mi per veure els detalls i el progrés de l'informe"</string>
-  <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Clau JIRA: %s</string>
   <string name="feedback_package_log_failed">"No s'han pogut comprimir els registres"</string>
   <string name="feedback_phone_model_label">Model de telèfon</string>
@@ -97,25 +93,25 @@
   <string name="feedback_select_upload_log_select_desc">Heu seleccionat «Afegeix registres»</string>
   <string name="feedback_status_answered">Contestada</string>
   <string name="feedback_status_change_notification_title">"S'ha actualitzat el progrés de l'informe"</string>
-  <string name="feedback_status_collect_log_failed">"Couldn't get logs"</string>
+  <string name="feedback_status_collect_log_failed">"No s'han pogut obtenir els registres"</string>
   <string name="feedback_status_commit_failed_title">"No s'ha pogut enviar l'informe"</string>
   <string name="feedback_status_commit_succ_title">Enviat</string>
   <string name="feedback_status_commit_uploading_title">S\'està enviant…</string>
   <string name="feedback_status_forum_reply">Respon</string>
-  <string name="feedback_status_get_and_save_bbs_info_failed">"Couldn't get attachment URL"</string>
+  <string name="feedback_status_get_and_save_bbs_info_failed">"No s'ha pogut obtenir l'URL del fitxer adjunt"</string>
   <string name="feedback_status_jira_comment">Afegeix un comentari</string>
   <string name="feedback_status_more">Detalls</string>
   <string name="feedback_status_processing">S\'està processant&#8230;</string>
   <string name="feedback_status_recorded">Comentaris rebuts</string>
   <string name="feedback_status_replyed">Respost</string>
   <string name="feedback_status_reresolved">Resolt</string>
-  <string name="feedback_status_save_log_info_failed">"Couldn't change attachment URL"</string>
+  <string name="feedback_status_save_log_info_failed">"No s'ha pogut canviar l'URL del fitxer adjunt"</string>
   <string name="feedback_status_submit_attachment">S\'ha enviat un fitxer adjunt amb èxit</string>
-  <string name="feedback_status_submit_bbs_failed">"Couldn't submit feedback content"</string>
-  <string name="feedback_status_submit_feedback_failed">"Couldn't submit feedback"</string>
+  <string name="feedback_status_submit_bbs_failed">"No s'ha pogut enviar el contingut dels comentaris"</string>
+  <string name="feedback_status_submit_feedback_failed">"No s'han pogut enviar els comentaris"</string>
   <string name="feedback_status_supplement">Descriviu el problema detalladament</string>
   <string name="feedback_status_supplement_more">Afegeix un comentari</string>
-  <string name="feedback_status_upload_log_failed">"Couldn't upload attachments"</string>
+  <string name="feedback_status_upload_log_failed">"No s'han pogut carregar els fitxers adjunts"</string>
   <string name="feedback_submit_failed_notification_desc">Mostra els detalls</string>
   <string name="feedback_submit_failed_notification_retry">Envia de nou</string>
   <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
@@ -134,8 +130,6 @@
   <string name="feedback_tracking">Segueix els problemes</string>
   <string name="feedback_version_label">Versió</string>
   <string name="feesback_list">Informes</string>
-  <string name="first_position">2#</string>
-  <string name="floor">%1$s#</string>
   <string name="from">de %1$s</string>
   <string name="goon_feedback_main">Continua</string>
   <string name="hint_feedback_main">Descriviu el problema</string>
@@ -147,7 +141,6 @@
   <string name="menu_copy">Copia</string>
   <string name="message_label">Missatge</string>
   <string name="michat_app_name">Suport en línia</string>
-  <string name="michat_artificial_customer_phone">4001005678</string>
   <string name="michat_artificial_customer_phone_dial_error">"Si no podeu trucar a la línia 400, marqueu %1$s utilitzant un telèfon diferent"</string>
   <string name="michat_artificial_customer_text">Personal de suport</string>
   <string name="michat_attach_image">Imatge</string>
@@ -254,7 +247,6 @@
   <string name="network_unavailable_dialog_content">S\'enviarà l\'informe quan estigueu connectat.</string>
   <string name="network_unavailable_dialog_title">"No es pot connectar a la xarxa"</string>
   <string name="non_system_app_select">Aplicacions baixades</string>
-  <string name="nothing">--</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
   <string name="permission_granted">%1$s permís concedit</string>
@@ -276,7 +268,6 @@
   <string name="save_pic_fail">"No s'ha pogut desar la imatge, comproveu la targeta SD"</string>
   <string name="save_pic_success">S\'ha desat la imatge a %s</string>
   <string name="screen_lock">Bloqueig de pantalla</string>
-  <string name="second_position">3#</string>
   <string name="section_description">Descripció</string>
   <string name="section_err_type">Tipus d\'error</string>
   <string name="section_screenshot">Captura de pantalla</string>
@@ -310,7 +301,7 @@
   <string name="toast_feedback_submitting">S\'està enviant…</string>
   <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
-  <string name="toast_loading_app_id">Getting info…</string>
+  <string name="toast_loading_app_id">Obtenint informació…</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
   <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
@@ -325,7 +316,6 @@
   <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
-  <string name="topic_author">1#</string>
   <string name="try_again">Torna-ho a provar</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
   <string name="warning_field_empty">Introduïu %1$s</string>

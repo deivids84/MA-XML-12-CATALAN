@@ -8,19 +8,8 @@
     <item>5 cops</item>
     <item>10 cops</item>
   </string-array>
-  <string-array name="prefValues_ringtone_repeat">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="entries_date_type">
     <item>Rebut</item>
     <item>Enviat</item>
-  </string-array>
-  <string-array name="entryvalues_date_type">
-    <item>0</item>
-    <item>1</item>
   </string-array>
 </resources>

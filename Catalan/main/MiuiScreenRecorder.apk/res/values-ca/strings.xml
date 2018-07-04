@@ -14,19 +14,12 @@
   <string name="button_confirm">D\'acord</string>
   <string name="button_goon_recorder">Reprèn</string>
   <string name="cancel_edit">Cancel·la</string>
-  <string name="cannot_change_frames">Frame rate can only be customized for recordings with fixed frame rate.</string>
   <string name="cannot_change_parames">"No es poden canviar els paràmetres mentre s'enregistra"</string>
   <string name="cannot_record">"No s'ha pogut enregistrar, torneu-ho a provar més tard."</string>
-  <string name="close_screen_record">Stopped recording</string>
-  <string name="date_day"></string>
-  <string name="date_month">/</string>
-  <string name="date_year">/</string>
   <string name="description_content">"L'enregistrador de la pantalla ofereix capacitats de gravació a nivell de sistema. Aquesta acció significa que descartareu la funció de gravació de la pantalla. Confirmeu per continuar."</string>
   <string name="description_title">Quant a l\'enregistrament de pantalla</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="error_open_file_failed_no_app_found">"No s'ha pogut trobar una aplicació per obrir aquest fitxer"</string>
-  <string name="fixed_frame_rate">Fixed frame rate</string>
-  <string name="fixed_frame_rate_summary">Recording videos with fixed frame rate enhances playback on social media platforms and reduces battery life.</string>
   <string name="frames">Taxa de fotogrames</string>
   <string name="frames_summary">Les taxes de fotogrames més altes redueixen la difuminació del moviment</string>
   <string name="frequently_click_toast">Un moment…</string>
@@ -38,9 +31,6 @@
   <string name="hint_volume_down">Abaixa el volum</string>
   <string name="hint_volume_up">Apuja el volum</string>
   <string name="home_title_none">Seleccioneu els elements</string>
-  <string name="is_checked">Selected</string>
-  <string name="is_go_home">Go back to Screen recorder</string>
-  <string name="is_go_home_summary">"Open Screen recorder's start page after you stop recording"</string>
   <string name="loopback_sound">So de bucle invertit</string>
   <string name="low_battery">Carregueu el telèfon abans d\'iniciar l\'enregistrament</string>
   <string name="low_battery_title">Bateria baixa</string>
@@ -66,7 +56,6 @@
   <string name="screen_record_option">Opcions d\'enregistrament</string>
   <string name="screen_record_params">Paràmetres d\'enregistrament</string>
   <string name="select_all">Selecciona-ho tot</string>
-  <string name="settings">Settings</string>
   <string name="show_hard_key">Visualitza els botons de navegació</string>
   <string name="show_hard_key_summary">Mostra els missatges en prémer inici, menú i els botons de retrocés</string>
   <string name="show_screen_touch">Mostra els gestos tàctils</string>
@@ -79,8 +68,4 @@
   <string name="stop_record_while_locking">Bloqueja la pantalla per finalitzar</string>
   <string name="stop_record_while_locking_summary">Finalitza l\'enregistrament i desa el vídeo quan la pantalla està bloquejada</string>
   <string name="stop_recording">Atura la gravació</string>
-  <string name="storage_location">Storage</string>
-  <string name="storage_location_summary">Select your preferred storage option</string>
-  <string name="timer_format">%s</string>
-  <string name="unchecked">Not selected</string>
 </resources>

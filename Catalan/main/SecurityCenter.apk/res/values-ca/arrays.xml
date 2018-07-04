@@ -55,11 +55,6 @@
     <item>Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</item>
     <item>Quan el dispositiu està bloquejat o un minut després de sortir de l\'aplicació</item>
   </string-array>
-  <string-array name="lock_mode_value">
-    <item>1</item>
-    <item>0</item>
-    <item>2</item>
-  </string-array>
   <string-array name="sort_type">
     <item>Estat</item>
     <item>Nom de l\'aplicació</item>
@@ -83,11 +78,6 @@
   <string-array name="sms_report_type">
     <item>Ús de dades</item>
     <item>Saldo del telèfon</item>
-  </string-array>
-  <string-array name="luckymoney_sound">
-    <item>静音</item>
-    <item>金币</item>
-    <item>红包来了</item>
   </string-array>
   <string-array name="tether_limit_warn_type">
     <item>Desactiva i notifica</item>

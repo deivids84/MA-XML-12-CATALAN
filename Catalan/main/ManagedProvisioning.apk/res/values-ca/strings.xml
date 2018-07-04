@@ -65,9 +65,7 @@
   <string name="info_anim_title_0">Canvieu la manera de treballar</string>
   <string name="info_anim_title_1">Separeu el treball d\'allò personal</string>
   <string name="info_anim_title_2">"Desactiveu el treball quan hagueu acabat"</string>
-  <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
-  <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
   <string name="launcher_app_cant_be_used_by_work_profile">"Aquesta aplicació de llançador no es pot utilitzar pel vostre perfil de treball"</string>
   <string name="learn_more_label">Botó per saber-ne més</string>

@@ -10,15 +10,6 @@
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
   </string-array>
-  <string-array name="animator_duration_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
     <item>Sense processos en segon pla</item>
@@ -26,19 +17,6 @@
     <item>Com a molt 2 processos</item>
     <item>Com a molt 3 processos</item>
     <item>Com a molt 4 processos</item>
-  </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </string-array>
-  <string-array name="battery_labels">
-    <item>0%</item>
-    <item>50%</item>
-    <item>100%</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
     <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -52,12 +30,6 @@
     <item>24 bits/mostra</item>
     <item>32 bits/mostra</item>
   </string-array>
-  <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>4</item>
-  </string-array>
   <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
     <item>Utilitza la selecció del sistema (per defecte)</item>
     <item>Mono</item>
@@ -67,11 +39,6 @@
     <item>Utilitza la selecció del sistema (per defecte)</item>
     <item>Mono</item>
     <item>Estèreo</item>
-  </string-array>
-  <string-array name="bluetooth_a2dp_codec_channel_mode_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
     <item>Optimitzat per a la qualitat d\'àudio</item>
@@ -84,12 +51,6 @@
     <item>Qualitat d\'àudio i connexió equilibrada (660kbps/606kbps)</item>
     <item>Optimitzat per a la qualitat de la connexió (330kbps/303kbps)</item>
     <item>Millor esforç (velocitat de bits adaptativa)</item>
-  </string-array>
-  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-    <item>1000</item>
-    <item>1001</item>
-    <item>1002</item>
-    <item>1003</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
     <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -104,13 +65,6 @@
     <item>48.0 kHz</item>
     <item>88.2 kHz</item>
     <item>96.0 kHz</item>
-  </string-array>
-  <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>4</item>
-    <item>8</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_summaries">
     <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -132,21 +86,6 @@
     <item>Activa els còdecs opcionals</item>
     <item>Desactiva els còdecs opcionals</item>
   </string-array>
-  <string-array name="bluetooth_a2dp_codec_values">
-    <item>1000000</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-  </string-array>
-  <string-array name="bluetooth_avrcp_version_values">
-    <item>avrcp14</item>
-    <item>avrcp15</item>
-    <item>avrcp16</item>
-  </string-array>
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (per defecte)</item>
     <item>AVRCP 1.5</item>
@@ -167,30 +106,15 @@
     <item>Mostra les àrees sobreposades</item>
     <item>Mostra les àrees de deuteranomia</item>
   </string-array>
-  <string-array name="debug_hw_overdraw_values">
-    <item>false</item>
-    <item>show</item>
-    <item>show_deuteranomaly</item>
-  </string-array>
   <string-array name="debug_hw_renderer_entries">
     <item>OpenGL (per defecte)</item>
     <item>OpenGL (Skia)</item>
-  </string-array>
-  <string-array name="debug_hw_renderer_values">
-    <item>opengl</item>
-    <item>skiagl</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (gràfics)</item>
     <item>Trucades en glGetError</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_values">
-    <item>0</item>
-    <item>1</item>
-    <item>systrace</item>
-    <item>error</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
     <item>No utilitzis mai la comprovació HDCP</item>
@@ -201,11 +125,6 @@
     <item>No ho comprovis mai</item>
     <item>Comprova només contingut DRM</item>
     <item>Comprova-ho sempre</item>
-  </string-array>
-  <string-array name="hdcp_checking_values">
-    <item>never</item>
-    <item>drm-only</item>
-    <item>always</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Cap</item>
@@ -220,20 +139,6 @@
     <item>4K (redimensionat)</item>
     <item>4K (redimensionat, segur)</item>
     <item>720p, 1080p (pantalla dual)</item>
-  </string-array>
-  <string-array name="overlay_display_devices_values">
-    <item></item>
-    <item>720x480/142</item>
-    <item>720x480/142,secure</item>
-    <item>1280x720/213</item>
-    <item>1280x720/213,secure</item>
-    <item>1920x1080/320</item>
-    <item>1920x1080/320,secure</item>
-    <item>3840x2160/320</item>
-    <item>3840x2160/320,secure</item>
-    <item>1920x1080/320|3840x2160/640</item>
-    <item>1920x1080/320|3840x2160/640,secure</item>
-    <item>1280x720/213;1920x1080/320</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
     <item>Desactivat</item>
@@ -257,14 +162,6 @@
     <item>4M</item>
     <item>16M</item>
   </string-array>
-  <string-array name="select_logd_size_values">
-    <item>32768</item>
-    <item>65536</item>
-    <item>262144</item>
-    <item>1048576</item>
-    <item>4194304</item>
-    <item>16777216</item>
-  </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Desactivat</item>
     <item>Totes les memòries intermèdies de registre</item>
@@ -277,38 +174,15 @@
     <item>Tot excepte la ràdio</item>
     <item>només el kernel</item>
   </string-array>
-  <string-array name="select_logpersist_values">
-    <item></item>
-    <item>all</item>
-    <item>default,security,kernel</item>
-    <item>kernel</item>
-  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivat</item>
     <item>Dibuixa en blau les regions no rectangulars del clip</item>
     <item>Ressalta en verd les ordres de dibuixos ja provats</item>
   </string-array>
-  <string-array name="show_non_rect_clip_values">
-    <item>hide</item>
-    <item>region</item>
-    <item>highlight</item>
-  </string-array>
-  <string-array name="simulate_color_space_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-    <item>3</item>
-  </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
     <item>Per pantalla en forma de barres</item>
     <item>Per adb shell dumpsys gfxinfo</item>
-  </string-array>
-  <string-array name="track_frame_time_values">
-    <item>false</item>
-    <item>visual_bars</item>
-    <item>true</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Sense animacions</item>
@@ -318,31 +192,6 @@
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
-  </string-array>
-  <string-array name="transition_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
-  <string-array name="tts_demo_string_langs">
-    <item>eng</item>
-    <item>fra</item>
-    <item>deu</item>
-    <item>ita</item>
-    <item>spa</item>
-    <item>kor</item>
-  </string-array>
-  <string-array name="tts_demo_strings">
-    <item>This is an example of speech synthesis in English.</item>
-    <item>Voici un échantillon de synthèse vocale en français.</item>
-    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-    <item>Questo è un esempio di sintesi vocale in italiano.</item>
-    <item>Este es un ejemplo de síntesis de voz en español.</item>
-    <item>이것은 한국어 음성 합성의 예입니다.</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Molt lent</item>
@@ -355,17 +204,6 @@
     <item>Molt ràpid</item>
     <item>El més ràpid</item>
   </string-array>
-  <string-array name="tts_rate_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
-    <item>250</item>
-    <item>300</item>
-    <item>350</item>
-    <item>400</item>
-  </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
     <item>MTP (Protocol de transferència de multimèdia)</item>
@@ -373,14 +211,6 @@
     <item>RNDIS (Ethernet USB)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
-  </string-array>
-  <string-array name="usb_configuration_values">
-    <item>none</item>
-    <item>mtp</item>
-    <item>ptp</item>
-    <item>rndis</item>
-    <item>audio_source</item>
-    <item>midi</item>
   </string-array>
   <string-array name="wifi_status">
     <item></item>
@@ -418,14 +248,5 @@
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
-  </string-array>
-  <string-array name="window_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1.5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
   </string-array>
 </resources>
