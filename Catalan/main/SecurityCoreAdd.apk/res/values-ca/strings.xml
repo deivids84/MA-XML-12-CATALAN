@@ -356,7 +356,6 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="xspace_default_guide_notification_content">Toqueu per canviar-ho</string>
   <string name="xspace_default_guide_notification_main_title">S\'està utilitzant l\'aplicació per defecte</string>
   <string name="xspace_default_guide_notification_xspace_title">S\'està utilitzant aplicacions duals</string>
-  <string name="xspace_default_setting_dialog_title">Per defecte</string>
   <string name="xspace_default_setting_label">Aplicació per defecte</string>
   <string name="xspace_description">"Les aplicacions duals són còpies d\'aplicacions que es poden utilitzar per separat amb un compte diferent.
 

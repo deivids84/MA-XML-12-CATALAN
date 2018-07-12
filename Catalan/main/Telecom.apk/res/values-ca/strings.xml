@@ -138,7 +138,6 @@ Taxa de mostreig"</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
-  <string name="close">Tanca</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>

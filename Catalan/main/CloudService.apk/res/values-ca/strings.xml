@@ -138,7 +138,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_find_device_guide_alert_negtive">No, gràcies</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">No, gràcies</string>
   <string name="micloud_find_device_guide_alert_positive">D\'acord</string>
-  <string name="micloud_find_device_guide_alert_title">Recorda el meu ID de Compte Mi i la contrasenya</string>
   <string name="micloud_find_device_guide_button">Activar troba el dispositiu</string>
   <string name="micloud_find_device_guide_fail_reopen">Podeu activar troba el dispositiu al Compte Mi - Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>

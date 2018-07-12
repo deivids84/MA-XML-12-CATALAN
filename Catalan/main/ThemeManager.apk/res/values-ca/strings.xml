@@ -52,7 +52,6 @@
   <string name="desktop_wallpaper">Pantalla inicial</string>
   <string name="dev_options">Opcions per a desenvolupadors</string>
   <string name="dev_options_summary">Recursos web</string>
-  <string name="download_failed">Baixada fallida</string>
   <string name="download_preview_failed">"No es pot carregar la vista prèvia"</string>
   <string name="download_success">Baixada finalitzada</string>
   <string name="fail_to_add_account">"No es pot afegir el compte"</string>
@@ -97,7 +96,6 @@
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més elements a mostrar</string>
-  <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 9. Alguns elements es poden mostrar incorrectament.</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
@@ -373,8 +371,6 @@
   <string name="theme_apply_success">S\'ha aplicat la pantalla de bloqueig</string>
   <string name="theme_applying">S\'està aplicant&#8230;</string>
   <string name="theme_batch_update_all">Actualitza-ho tot</string>
-  <string name="theme_batch_update_dlg_content">Voleu actualitzar %1$s i altres %2$d temes ara?</string>
-  <string name="theme_batch_update_dlg_content_single">Voleu actualitzar %1$s ara?</string>
   <string name="theme_batch_update_dlg_title">Actualitza el tema</string>
   <string name="theme_batch_updating_text">S\'està actualitzant (%1$d)</string>
   <string name="theme_bug_report">Comentaris</string>

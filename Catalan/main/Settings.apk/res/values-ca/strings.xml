@@ -3475,7 +3475,6 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_off_apps_title">"No utilitzis mode lectura"</string>
   <string name="screen_paper_mode_range_title">Configuració</string>
   <string name="screen_paper_mode_set_apps_title">Aplicacions en mode lectura</string>
-  <string name="screen_paper_mode_summary">"Redueix l'enlluernament del fons de la pantalla"</string>
   <string name="screen_paper_mode_time_summary">mode de lectura programada amb el vostre temps establert</string>
   <string name="screen_paper_mode_time_title">Programació</string>
   <string name="screen_paper_mode_title">Mode lectura</string>
@@ -4114,7 +4113,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings_show_carrier">Mostra el nom de l\'operador</string>
   <string name="status_bar_settings_show_carrier_summary">El nom de l\'operador se segueix mostrant a la pantalla de bloqueig i a l\'àrea de notificacions quan aquesta funcionalitat està apagada</string>
   <string name="status_bar_settings_show_floating_notification">Notificacions flotants</string>
-  <string name="status_bar_settings_show_floating_notification_summary">"Les notificacions flotants desapareixeran automàticament després de mostrar-se a la part superior de la pantalla"</string>
   <string name="status_bar_settings_show_flow_info">Mostra els detalls de flux</string>
   <string name="status_bar_settings_show_home_message">Insígnia per a la icona de l\'aplicació</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificacions de la pantalla de bloqueig</string>
@@ -4379,7 +4377,6 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_apps_title">Aplicacions</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
-  <string name="system_alert_window_summary">%1$d of %2$d apps allowed to display over other apps</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>

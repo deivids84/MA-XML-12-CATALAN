@@ -371,7 +371,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_vcode_sms_send_prompt">Envia codi de verificació a %s</string>
-  <string name="passport_verification_failed">Ha fallat l\'autenticació</string>
   <string name="passport_verify">Verifica</string>
   <string name="passport_verifying_activator_phone">S\'està verificant la seguretat del telèfon…</string>
   <string name="passport_wait_for_sms_prompt">"Voleu tornar a començar? Els missatges de verificació poden trigar uns 10 minuts en arribar si és que teniu cobertura."</string>
