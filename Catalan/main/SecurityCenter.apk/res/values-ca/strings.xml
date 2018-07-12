@@ -1051,14 +1051,12 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Escaneig de seguretat</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
-  <string name="menu_text_garbage_cleanup_danger">%s sobrepassats</string>
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Ús de dades</string>
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
-  <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="menu_wh_remove">Treure de les excepcions</string>
   <string name="menu_white">Excepte</string>
