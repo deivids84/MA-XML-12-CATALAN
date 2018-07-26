@@ -1101,12 +1101,9 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Escaneig de seguretat</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
-  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Ús de dades</string>
-  <string name="menu_text_networkassistants_2">%s</string>
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1114,7 +1111,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
-  <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Treure de les excepcions</string>
   <string name="menu_white">Excepte</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
@@ -1272,7 +1268,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="om_media_scan_timeout_proc_detail">El servidor multimèdia treballa en segon pla. Podeu restringir-ne l\'activitat.</string>
   <string name="om_media_scan_timeout_proc_name">Servidor multimèdia</string>
   <string name="om_memory_clean_cleaning_text">S\'està accelerant…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Per accelerar la velocitat restringiu l\'activitat en segon pla</string>
   <string name="om_notify_cpu_load_too_high_title">L\'ús de CPU de %s és massa alt</string>
   <string name="om_notify_need_clean_memory_summary">Esborreu la memòria cau per augmentar la velocitat</string>
@@ -1509,7 +1504,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_normal_traffic_limit">Quan el pla de dades s\'esgoti</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
   <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Quan reviseu el pla de dades</string>
   <string name="pref_package_traffic_settings">Pla de dades</string>
   <string name="pref_pkg_begin_date">Restablir la data d\'ús</string>

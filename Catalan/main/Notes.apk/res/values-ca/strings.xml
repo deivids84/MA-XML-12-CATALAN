@@ -103,7 +103,6 @@
   <string name="note_sort_way">Seleccioneu com voleu ordenar les notes</string>
   <string name="notealert_enter">Fer una ullada</string>
   <string name="notealert_ok">Ignorar</string>
-  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Recordatori de nota</string>
   <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
   <string name="permlab_accessNote">Notes d\'accés</string>

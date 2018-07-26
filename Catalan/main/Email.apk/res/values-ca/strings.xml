@@ -6,7 +6,6 @@
   <string name="SMTP_username_text">Nom d\'usuari</string>
   <string name="accessibility_guide_first">A la següent pantalla, seleccioneu «Serveis» per activar la configuració automàtica de la bustia 139</string>
   <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
-  <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_failure">Temps de sessió esgotat</string>
@@ -329,7 +328,6 @@
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
-  <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
   <string name="conversation_detail_hide">Amaga</string>
   <string name="conversation_detail_show">Detalls</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
@@ -567,14 +565,6 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
-  <string name="mailbox_name_server_all_unread">No llegits</string>
-  <string name="mailbox_name_server_drafts">Esborranys</string>
-  <string name="mailbox_name_server_inbox">Safata d\'entrada</string>
-  <string name="mailbox_name_server_junk">Brossa</string>
-  <string name="mailbox_name_server_outbox">Safata de sortida</string>
-  <string name="mailbox_name_server_sent">Enviat</string>
-  <string name="mailbox_name_server_starred">Favorits</string>
-  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>

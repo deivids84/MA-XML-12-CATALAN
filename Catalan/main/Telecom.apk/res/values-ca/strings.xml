@@ -281,7 +281,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="respond_via_sms_canned_response_1">"Ara no puc parlar. Què passa?"</string>
   <string name="respond_via_sms_canned_response_2">"Et truco de seguida."</string>
