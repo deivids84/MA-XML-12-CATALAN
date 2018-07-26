@@ -398,7 +398,6 @@
   <string name="enable_cloud_for_sharing">És necessari activar Mi Cloud per veure les fotos compartides.</string>
   <string name="enable_face_album_summary">Ordena automàticament les fotos per les persones que hi apareixen</string>
   <string name="enable_face_album_title">Ordena per persones</string>
-  <string name="enabling_face_feature">Un moment…</string>
   <string name="enter_email_hint">Introduïu l\'adreça de correu</string>
   <string name="error_album_not_exist">"L'àlbum no existeix"</string>
   <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
@@ -467,7 +466,6 @@
   <string name="exit_share_successfully">Heu sortit de %1$s</string>
   <string name="exit_video_play">Surt</string>
   <string name="expand_people">Mostra més persones</string>
-  <string name="face_album_detecting_tip">Un moment…</string>
   <string name="face_album_empty">"No hi ha prou fotos per reconèixer persones.
 Feu més fotos als vostres amics!"</string>
   <string name="face_album_empty_syncing">S\'estan sincronitzant les dades. Torneu d\'aquí una estona</string>
@@ -475,7 +473,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="face_album_long_tap_tip">Per seleccionar diverses persones o canviar la configuració del grup, toqueu i mantingueu premuda una foto de perfil</string>
   <string name="face_album_new_name_hint">Nom nou</string>
   <string name="face_album_not_named">Sense nom</string>
-  <string name="face_album_pending_enable_tip">S\'ordenaran les fotos quan el dispositiu estigui connectat a la Wi-Fi</string>
   <string name="face_album_rename_hint">Introduïu el nom</string>
   <string name="face_album_title">Fotos amb %s</string>
   <string name="face_album_use_tip">Ordena automàticament les fotos per les persones que hi apareixen.</string>
@@ -920,7 +917,6 @@ per personalitzar la galeria"</string>
   <string name="search_select_network">Seleccioneu una xarxa</string>
   <string name="search_set_network_connection">Configuració de xarxa</string>
   <string name="search_setting_sub_title">Cerca persones, llocs i objectes a les vostres fotos.</string>
-  <string name="search_setting_sub_title_open">S\'ha aplicat. Espereu un temps abans de començar.</string>
   <string name="search_setting_title">Troba fotos a la galeria</string>
   <string name="search_syncing">S\'estan sincronitzant les dades, retornarà en una estona</string>
   <string name="search_title_album">Àlbum</string>
@@ -1144,7 +1140,6 @@ per personalitzar la galeria"</string>
   <string name="video_not_exist">"El vídeo no existeix"</string>
   <string name="view_by_gallery_tip">Galeria de MIUI</string>
   <string name="view_face_album">Veure àlbum</string>
-  <string name="view_queuing_status">Comprova l\'estat</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="who_is_this">Qui és?</string>

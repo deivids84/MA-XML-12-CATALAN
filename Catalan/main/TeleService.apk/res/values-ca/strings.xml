@@ -433,7 +433,6 @@ Taxa de mostreig"</string>
   <string name="card_title_dialing">Marcatge</string>
   <string name="card_title_forwardcheckreceived">Trucada desviada verificada i rebuda</string>
   <string name="card_title_forwarded_MTcall">Trucada entrant reenviada</string>
-  <string name="card_title_hanging_up">Penjar</string>
   <string name="card_title_in_call">Trucada en curs</string>
   <string name="card_title_incoming_barred">Trucades entrants restringides</string>
   <string name="card_title_incoming_call">Trucada entrant</string>

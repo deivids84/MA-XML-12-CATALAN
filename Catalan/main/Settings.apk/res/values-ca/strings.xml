@@ -23,6 +23,7 @@
   <string name="about_phone_enter_xiaomi_net">Aprèn més</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
+  <string name="about_summary">S\'ha actualitzat a Android %1$s</string>
   <string name="ac_enable_summary">Estableix una contrasenya per a aplicacions individuals</string>
   <string name="ac_enable_title">Bloquejador d\'aplicacions</string>
   <string name="ac_privacy_mode_sum">Demana contrasenya per a desactivar el mode Convidat</string>
@@ -46,6 +47,7 @@
   <string name="accessibility_captioning_title">Subtítols</string>
   <string name="accessibility_category_personal">Comptes de perfil personal</string>
   <string name="accessibility_category_work">Compte de perfil laboral - %s</string>
+  <string name="accessibility_close_tab">Tanca la pestanya actual</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta funcionalitat és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
   <string name="accessibility_display_inversion_preference_subtitle">Podria afectar el rendiment</string>
@@ -57,6 +59,7 @@
   <string name="accessibility_lock_screen_progress">S\'han fet servir %1$d de %2$d caràcters</string>
   <string name="accessibility_long_press_timeout_preference_title">Retard en tocar i mantenir premut</string>
   <string name="accessibility_menu_item_settings">Configuració</string>
+  <string name="accessibility_more_settings">Configuració addicional</string>
   <string name="accessibility_no_service_selected">No s\'ha seleccionat cap servei</string>
   <string name="accessibility_no_services_installed">No s\'ha instal·lat cap servei</string>
   <string name="accessibility_no_wifi">S\'ha desconnectat el Wi-Fi.</string>
@@ -110,8 +113,11 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_toggle_master_mono_title">Àudio mono</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualitza el zoom de pantalla en les transicions entre aplicacions</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualitza automàticament el zoom de pantalla</string>
+  <string name="accessibility_vpn_settings_info">Configuració VPN</string>
   <string name="accessibility_wifi_off">Wi-Fi apagat.</string>
   <string name="accessibility_wifi_one_bar">Senyal de Wi-Fi fluix.</string>
+  <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
+  <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
   <string name="accessibility_wifi_signal_full">Senyal de Wi-Fi molt fort.</string>
   <string name="accessibility_wifi_three_bars">Senyal de Wi-Fi fort.</string>
   <string name="accessibility_wifi_two_bars">Senyal de Wi-Fi moderat.</string>
@@ -151,6 +157,8 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_device_admin">Activa aquest administrador de dispositiu</string>
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
   <string name="add_facerecoginition_text">Afegeix dades facials</string>
+  <string name="add_fingerprint_cancel_button_text">Enrere</string>
+  <string name="add_fingerprint_dirty_fingerprint">Assegureu-vos que la superfície de la pantalla està neta. Proveu de tornar a enregistrar la vostra empremta digital.</string>
   <string name="add_fingerprint_done_msg">Ara podeu desbloquejar aquest dispositiu amb l\'empremta.</string>
   <string name="add_fingerprint_done_title">"Ja podeu començar!"</string>
   <string name="add_fingerprint_edge_instruction_msg">Moveu el dit perquè el sensor pugui enregistrar les vores de l\'empremta.</string>
@@ -159,6 +167,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_finished_button_text">Fet</string>
   <string name="add_fingerprint_instruction_msg">El sensor d\'empremtes està integrat al botó Inici del dispositiu.</string>
   <string name="add_fingerprint_instruction_title">Afegiu una empremta</string>
+  <string name="add_fingerprint_move_fast">Mantingueu el dit a la pantalla una mica més</string>
   <string name="add_fingerprint_name_suggest_text">Nom de l\'empremta dactilar</string>
   <string name="add_fingerprint_put_finger_edge_msg">Traieu el dit i torneu-lo a posar a sobre del lector.</string>
   <string name="add_fingerprint_put_finger_msg">Poseu el dit en el lector fins que noteu una vibració.</string>
@@ -235,13 +244,19 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
   <string name="anti_spam">Llista de bloqueig</string>
   <string name="aod_mode_summary">Amb la pantalla apagada mostra sempre l\'hora, data i missatges.</string>
+  <string name="aod_mode_time_summary">Programeu l\'hora quan el dispositiu hauria de canviar al mode Sempre actiu</string>
+  <string name="aod_mode_time_title">Programació</string>
   <string name="aod_mode_title">Sempre engegat</string>
+  <string name="aod_mode_turn_off">Desactivat</string>
+  <string name="aod_mode_turn_on">Activat</string>
   <string name="apn_auth_type">Tipus d\'autenticació</string>
   <string name="apn_auth_type_none">Cap</string>
   <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">沃宽带用户连接互联网</string>
   <string name="apn_chinaunicom_3gwap_general">沃宽带用户手机上网</string>
   <string name="apn_edit">Edita punt d\'accés</string>
+  <string name="apn_general">General</string>
+  <string name="apn_http_port">Port</string>
   <string name="apn_http_proxy">Servidor intermediari</string>
   <string name="apn_mms_port">Port MMS</string>
   <string name="apn_mms_proxy">Servidor intermediari MMS</string>
@@ -255,6 +270,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apn_save">Voleu desar els canvis?</string>
   <string name="apn_save_msg">Voleu desar els canvis de l\'APN?</string>
   <string name="apn_server">Servidor</string>
+  <string name="apn_settings">APN</string>
   <string name="apn_settings_not_available">La configuració de l\'APN no és disponible per a aquest usuari</string>
   <string name="apn_type">Tipus d\'APN</string>
   <string name="apn_user">Nom d\'usuari</string>
@@ -325,6 +341,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_settings_link">Configuració addicional a l\'aplicació</string>
   <string name="app_special_disable_dlg_text">Si la desactiveu es suprimiran les dades i podria ser que altres aplicacions no funcionessin correctament.</string>
   <string name="app_special_disable_dlg_title">Voleu eliminar les dades i desactivar l\'aplicació?</string>
+  <string name="app_switch_key">Recents</string>
   <string name="app_usage_preference">Preferències d\'ús de les aplicacions</string>
   <string name="app_version">Versió</string>
   <string name="app_wifi">Wi-Fi</string>
@@ -503,6 +520,10 @@ Darrera execució el %2$s"</string>
   <string name="battery_detail_since_full_charge">Desglossament des de l\'última càrrega completa</string>
   <string name="battery_details_title">Ús de bateria</string>
   <string name="battery_footer_summary">El temps restant de la bateria és aproximat i pot canviar segons l\'ús</string>
+  <string name="battery_history_hours_no_seconds">%1$d h %2$d m</string>
+  <string name="battery_history_minutes">%1$d m %2$d s</string>
+  <string name="battery_history_minutes_no_seconds">%1$d m</string>
+  <string name="battery_history_seconds">%1$d s</string>
   <string name="battery_indicator_style">Indicador de bateria</string>
   <string name="battery_info_awake_battery">Temps de bateria en ús:</string>
   <string name="battery_info_awake_plugged">Temps de bateria en càrrega:</string>
@@ -534,6 +555,7 @@ Darrera execució el %2$s"</string>
   <string name="battery_info_status_unknown">Desconegut</string>
   <string name="battery_info_technology_label">Tecnologia de la bateria:</string>
   <string name="battery_info_temperature_label">Temperatura de la bateria:</string>
+  <string name="battery_info_temperature_units">°C</string>
   <string name="battery_info_uptime">Temps des de s\'ha engegat:</string>
   <string name="battery_info_voltage_label">Voltatge de la bateria:</string>
   <string name="battery_last_full_charge">Darrera càrrega completa</string>
@@ -843,6 +865,7 @@ Taxa de mostreig"</string>
   <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
   <string name="bootloader_device_bind_no_account">Primer inicia la sessió al Compte Mi</string>
   <string name="bootloader_device_bind_no_network">Connecteu-vos a la xarxa i torneu-ho a provar</string>
+  <string name="bootloader_device_bind_sim_invalid">La targeta SIM no és vàlida. Reemplaceu-la i torneu-ho a provar.</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
   <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
   <string name="bootloader_locked_answer_2">Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l\'eina de desbloqueig i instal·lar-la a l\'ordinador. Aquí està l\'adreça:</string>
@@ -2015,7 +2038,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="instant_app_details_summary">Més informació a %1$s</string>
   <string name="instant_apps_account">Compte d\'aplicacions instantànies</string>
   <string name="instruction_privacy_password">Aquesta contrasenya protegeix els següents elements</string>
-  <string name="instruction_title">Instruccions</string>
   <string name="insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="intent_sender_account_label">Compte:</string>
   <string name="intent_sender_action_label">Acció:</string>

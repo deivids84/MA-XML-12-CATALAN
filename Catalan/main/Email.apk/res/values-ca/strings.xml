@@ -6,6 +6,7 @@
   <string name="SMTP_username_text">Nom d\'usuari</string>
   <string name="accessibility_guide_first">A la següent pantalla, seleccioneu «Serveis» per activar la configuració automàtica de la bustia 139</string>
   <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
+  <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_failure">Temps de sessió esgotat</string>
@@ -46,6 +47,7 @@
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
   <string name="account_settings_mibill_resolve_label">Analitzar declaracions email</string>
   <string name="account_settings_name_label">El seu nom</string>
+  <string name="account_settings_notifications">Notificacions</string>
   <string name="account_settings_notify_label">Notificacions de correu electrònic</string>
   <string name="account_settings_notify_summary">Envia una notificació quan arribi email</string>
   <string name="account_settings_param">Configuració del compte</string>
@@ -89,6 +91,7 @@
   <string name="account_setup_exchange_certificate_title">Certificat de client</string>
   <string name="account_setup_exchange_device_id_label">ID del dispositiu mòbil</string>
   <string name="account_setup_exchange_no_certificate">Cap</string>
+  <string name="account_setup_failed_auth_required">"Els mètodes d'autenticació no són compatibles amb el servidor."</string>
   <string name="account_setup_failed_certificate_inaccessible">El certificat és vàlid o inaccessible.</string>
   <string name="account_setup_failed_certificate_required">Es requereix un certificat de client. Vols connectar amb el servidor amb un certificat de client?</string>
   <string name="account_setup_failed_check_credentials_message">El servidor ha contestat amb un error. Comproveu el nom d\'usuari i la contrasenya i torneu a provar-ho.</string>
@@ -119,6 +122,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefix de la ruta IMAP</string>
   <string name="account_setup_incoming_password_label">Contrasenya</string>
+  <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Tipus de seguretat</string>
   <string name="account_setup_incoming_security_none_label">Cap</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accepta tots els certificats)</string>
@@ -147,6 +151,7 @@
   <string name="account_setup_options_mail_window_label">Període de sincronització</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Mantenir per</string>
   <string name="account_setup_options_title">Configuració del compte</string>
+  <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
   <string name="account_setup_security_policies_required_fmt">Cal que permeteu que el servidor %s controli de manera remota algunes funcions de seguretat del dispositiu Android. Voleu acabar de configurar aquest compte?</string>
@@ -181,11 +186,13 @@
   <string name="att_download_failed_title">"No s'ha pogut baixar l'adjunt"</string>
   <string name="att_file_not_exists">"No s'ha trobat %s"</string>
   <string name="att_mgr_no_attachment">Buit</string>
+  <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Nom</string>
   <string name="att_mgr_title_order_rev_date">Data</string>
   <string name="att_mgr_title_order_sender">Remitent</string>
   <string name="att_mgr_title_order_size">Mida del fitxer</string>
   <string name="attached_message">Missatge adjunt</string>
+  <string name="attachment_application_msword">Document</string>
   <string name="attachment_application_vnd_ms_excel">Full de càlcul</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentació</string>
   <string name="attachment_audio">Àudio</string>
@@ -200,6 +207,7 @@
   <string name="attachment_open_SecurityException_title">"No es pot obrir el fitxer"</string>
   <string name="attachment_size_exceed_limit">"Sembla que la mida va superar el límit del servidor"</string>
   <string name="attachment_stop_all">Aturar</string>
+  <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Per desgràcia, no es pot guardar o obrir aquest tipus de fitxer adjunt."</string>
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
@@ -321,6 +329,7 @@
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
+  <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
   <string name="conversation_detail_hide">Amaga</string>
   <string name="conversation_detail_show">Detalls</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
@@ -344,6 +353,8 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Avui, %1$s</string>
+  <string name="debug_mode_preferencecategory">Configura la sortida del registre</string>
+  <string name="debug_mode_settings">Configuració del mode de depuració</string>
   <string name="default_">PER DEFECTE</string>
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
@@ -437,6 +448,7 @@
   <string name="file_rar_not_support">"No es poden obrir fitxers rar encriptats"</string>
   <string name="file_save_path_dialog_cancel">D\'acord</string>
   <string name="file_save_path_dialog_ok">Canvia-ho ara</string>
+  <string name="file_save_term">Termes d\'emmagatzematge de fitxers</string>
   <string name="filtered_tag">"[%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
   <string name="float_window_content">Detecta que s\'està utilitzant la bústia, feu clic a Confirma per a que s\'ompli automàticament l\'acompte de correu 139 i la contrasenya.</string>
@@ -478,6 +490,7 @@
   <string name="folder_trash_name_en1">Missatges eliminats</string>
   <string name="folder_trash_name_en2">Missatge eliminat</string>
   <string name="folder_trash_name_en3">[Gmail]/Paperera</string>
+  <string name="forever">Sempre</string>
   <string name="forward">Reenvia</string>
   <string name="forward_attachment">Reenvia</string>
   <string name="forward_attribution">---------- Missatge reenviat ----------De: %1$s Data: %2$s Assumpte: %3$s Per: %4$s</string>
@@ -554,6 +567,14 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
+  <string name="mailbox_name_server_all_unread">No llegits</string>
+  <string name="mailbox_name_server_drafts">Esborranys</string>
+  <string name="mailbox_name_server_inbox">Safata d\'entrada</string>
+  <string name="mailbox_name_server_junk">Brossa</string>
+  <string name="mailbox_name_server_outbox">Safata de sortida</string>
+  <string name="mailbox_name_server_sent">Enviat</string>
+  <string name="mailbox_name_server_starred">Favorits</string>
+  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
@@ -604,6 +625,7 @@
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Vist recentment</string>
+  <string name="menu_att_mgr_order_mime">Format</string>
   <string name="menu_att_mgr_order_name">Nom</string>
   <string name="menu_att_mgr_order_rev_date">Data</string>
   <string name="menu_att_mgr_order_size">Ordena per mida</string>
@@ -645,6 +667,7 @@
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
   <string name="navigation_menu">Menú de navegació</string>
+  <string name="need_get_qq_mail">Cal QQ Mail</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_invaild">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
@@ -654,6 +677,7 @@
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
   <string name="new_signature_has_saved">S\'ha desat amb èxit</string>
   <string name="next_action">Següent</string>
+  <string name="no">No</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
   <string name="no_bill_discribe">"No s\'ha pogut trobar cap factura.
@@ -687,10 +711,15 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="oauth_login_usr_proxy">Inicia sessió mitjançant un servidor intermediari</string>
   <string name="ok">D\'acord</string>
   <string name="okay_action">D\'acord</string>
+  <string name="one_day">1 dia</string>
+  <string name="one_month">1 mes</string>
+  <string name="one_week">1 setmana</string>
   <string name="open_calendar_and_contacts_permission">Permeteu que el correu accedeixi als contactes i a la informació del calendari a Configuració</string>
   <string name="open_external_storage_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge i del calendari a la Configuració</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permeteu que el correu accedeixi a la informació d\'emmagatzematge, contactes i calendari a la Configuració</string>
   <string name="open_external_storage_and_contacts_permission">Permeteu que el correu accedeixi a l\'emmagatzematge i als contactes a la Configuració</string>
+  <string name="optimization_suggestion">Suggeriment d\'optimització</string>
+  <string name="others_mail">Altres</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
   <string name="outbox_alert_button_resend">Reenvia</string>
   <string name="outbox_alert_certificate_error">"Excepció de certificat a email, si us plau actualitzi"</string>
@@ -712,6 +741,10 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
+  <string name="output_all_log">Sortida de tots els registres</string>
+  <string name="output_db_summary">Quant a la sortida de la base de dades</string>
+  <string name="output_db_title">Sortida de la base de dades</string>
+  <string name="output_to_disk">Desa els registres en un fitxer</string>
   <string name="over_due">Vençudes</string>
   <string name="overlays_fail_tip">La seva bústia no té una configuració correcta, obriu els permisos flotants de Windows i torneu-ho a provar</string>
   <string name="overlays_ok">Obre els permisos</string>
@@ -807,6 +840,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
+  <string name="qq_authorization_help_get">Ajuda\'m a aconseguir-ho</string>
+  <string name="qq_authorization_know">Compreneu el codi d\'autorització</string>
+  <string name="qq_authorization_tips">Ja no cal</string>
   <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit. Torneu a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
   <string name="qq_auto_login_failed_dialog_message">Copieu el codi de verificació, toqueu «Introdueix el nom d\'usuari i la contrasenya per iniciar la sessió» a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi</string>
@@ -820,6 +856,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_login_webview">S\'està iniciant sessió al client web de QQ, toqueu inicia sessió amb contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
+  <string name="qq_verify_code">(Cal el codi de verificació QQ)</string>
   <string name="qq_webview_loading">Un moment…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Voleu eliminar el compte?</string>
@@ -846,6 +883,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="quote_divider_3">-------- Missatge original --------</string>
   <string name="quote_divider_4">-----Missatge original-----</string>
   <string name="quote_divider_5">-----------S\'utilitza per fer referència a la línia divisòria-------------</string>
+  <string name="quote_divider_6">---Original---</string>
   <string name="quote_divider_7">Missatge original</string>
   <string name="quote_divider_apple"> &gt;</string>
   <string name="quote_divider_huawei_zh">De Huawei</string>
@@ -865,6 +903,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="recognize_hotel_hotel_money">Preu %1$s</string>
   <string name="recognize_hotel_notification_content">Gaudiu de l\'estada!</string>
   <string name="recognize_hotel_notification_title">Vau reservar una habitació a %1$s a partir de %2$s/%3$s. Comproveu la reserva abans d\'arribar-hi.</string>
+  <string name="recognize_hotel_order_money">Total</string>
   <string name="recognize_hotel_other_money">Altres despeses %1$s</string>
   <string name="recognize_hotel_reverse_date">Entrada abans %1$s:%2$s %3$s</string>
   <string name="recognize_hotel_room_type">Habitació</string>
@@ -899,7 +938,12 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="reply_all">Respon a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Pinta bé</string>
+  <string name="report_rendering_improvement_desc">Aquest missatge pinta bé.</string>
+  <string name="report_rendering_problem">Pinta malament</string>
+  <string name="report_rendering_problem_desc">Aquest missatge pinta malament.</string>
   <string name="report_spam">Denunciar spam</string>
+  <string name="request_copy_db_to_disk">El correu sol·licita copiar la vostra base de dades en un fitxer</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
   <string name="respond_inline">"   Respon en línia"</string>
@@ -1008,6 +1052,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="tablet">tauleta tàctil</string>
   <string name="tap_to_configure">Toqui per configurar.</string>
   <string name="tap_to_enable_sync">Toqui per encendre.</string>
+  <string name="three_day">3 dies</string>
+  <string name="title_activity_about">Quant a</string>
   <string name="to">Per</string>
   <string name="to_heading">"Per: "</string>
   <string name="toast_bar_fail_synchronization">"No es pot connectar a la xarxa"</string>
@@ -1058,6 +1104,8 @@ Voleu aturar-ho?"</string>
   <string name="upload_logs">Puja els registres</string>
   <string name="uploading_logs">Un moment…</string>
   <string name="validation_failed_prompt">"Error de validació, si us plau configureu el servidor %s"</string>
+  <string name="verify_code">Verifica el codi</string>
+  <string name="version_string">Versió: %s</string>
   <string name="via_domain">mitjançant %1$s</string>
   <string name="view_more_conversations">Veure més converses</string>
   <string name="wait_for_manual_sync_body">\"Aquest compte no està configurat per sincronitzar automàticament. 

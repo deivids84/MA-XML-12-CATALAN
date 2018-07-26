@@ -26,6 +26,7 @@
   <string name="customer_service_apply">Sol·licita atenció al client</string>
   <string name="customer_service_complain">Informa a l\'atenció al client</string>
   <string name="customer_service_station">Ubicacions de servei</string>
+  <string name="default_text_view">TextView</string>
   <string name="description">Descriviu el problema</string>
   <string name="dialog_ask_delete">Elimina</string>
   <string name="dialog_ask_quit">Surt</string>
@@ -36,6 +37,7 @@
   <string name="err_type">Tipus d\'error</string>
   <string name="err_type_app">Aplicacions</string>
   <string name="err_type_appstore">Botiga d\'aplicacions</string>
+  <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Càmera</string>
   <string name="err_type_hardware">Maquinari</string>
   <string name="err_type_hardware_summary">Botons, càrrega, sensors, etc.</string>
@@ -50,6 +52,7 @@
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
   <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
@@ -251,6 +254,7 @@
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
   <string name="permission_granted">%1$s permís concedit</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
+  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
   <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum"</string>

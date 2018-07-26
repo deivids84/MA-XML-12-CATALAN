@@ -152,6 +152,7 @@ Dos espais. Un dispositiu."</string>
   <string name="lock_screen_open_second_space">Entreu al Segon espai des de la pantalla de bloqueig</string>
   <string name="messageData">Missatges</string>
   <string name="msg_switch_file">Voleu esborrar aquests arxius del Primer espai després que s\'hagin mogut?</string>
+  <string name="msg_switch_file_second">Voleu eliminar aquests fitxers del primer espai després de moure\'ls?</string>
   <string name="msg_switch_photo">Voleu esborrar aquestes fotos del Primer espai després que s\'hagin mogut?</string>
   <string name="needSetKeyguardFirst">Establiu la contrasenya del Primer espai</string>
   <string name="needSetKeyguardFirstDes">Establiu la contrasenya del Primer espai abans de la del Segon espai</string>
@@ -193,16 +194,20 @@ Dos espais. Un dispositiu."</string>
   <string name="private_sms_show_title">Els missatges privats es mostren al Segon espai</string>
   <string name="private_space_setting">Gestionar</string>
   <string name="public_app">Ambdós espais</string>
+  <string name="qq_login">Inicia sessió a QQ</string>
   <string name="qq_send">Envia als amics/dispositius QQ</string>
   <string name="radio_button_icon_switch_title">Utilitzant una drecera</string>
   <string name="radio_button_password_switch_title">Utilitzant una contrasenya</string>
   <string name="removeSuccess">S\'ha eliminat correctament</string>
+  <string name="remove_button">Suprimeix i reinicia</string>
+  <string name="remove_button_time">Suprimeix i reinicia (%d s)</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
   <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
   <string name="removingSpace">S\'està eliminant…</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
+  <string name="reset_password_dialog_positve_btn_title">Canvia</string>
   <string name="restore_normal_show">"No mostrar els missatges privats"</string>
   <string name="restore_show_desc">"No mostrar els missatges privats en el Segon espai. Encara estaran disponibles en el Primer espai."</string>
   <string name="restore_show_toast">No es mostren els missatges privats</string>
@@ -303,6 +308,8 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="start_new_fingerprint">Afegir una nova empremta</string>
   <string name="start_new_fingerprint_tips">Utilitzeu l\'empremta del Segon espai per entrar al Segon espai des de la pantalla de bloqueig</string>
   <string name="start_setting_guide_desc_title">Hi ha algunes coses per configurar</string>
+  <string name="stop_xspace_alert_content">"Heu esborrat totes les aplicacions duals. Voleu esborrar també els comptes de l'aplicació dual i les dades de l'aplicació? Després d'això, haureu de tornar a crear aplicacions duals quan les necessiteu."</string>
+  <string name="stop_xspace_alert_title">Supressió dels comptes d\'aplicacions duals</string>
   <string name="summary_switch_apps_settings">Seleccioneu aplicacions del Segon espai</string>
   <string name="support_desc">Serveis de seguretat proporcionats per Spaces Mobile</string>
   <string name="sure_to_use">Confirmeu</string>
@@ -332,6 +339,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="switching_files">Movent arxius&#8230;</string>
   <string name="switching_photos">Movent fotos&#8230;</string>
   <string name="temporary_no_set">Ara no</string>
+  <string name="this_function_can_not_use_in_second_space">Aquesta funció només es pot utilitzar al primer espai</string>
   <string name="title_choose_app_status">Seleccioneu el tipus d\'aplicació</string>
   <string name="title_switch_file">Voleu eliminar aquests arxius?</string>
   <string name="title_switch_photo">Voleu eliminar aquestes fotos?</string>
@@ -344,6 +352,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="transferImage">Les fotos del Segon espai seran mogudes a l\'àlbum \"Segon espai\" en el Primer espai</string>
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
+  <string name="use_xiaoai_open">Desperta amb l\'assistent de veu</string>
   <string name="wating">Un moment…</string>
   <string name="weibo_send">Envia al Weibo</string>
   <string name="weixin_share_sign">Inicia sessió i comparteix-ho</string>
@@ -364,6 +373,7 @@ Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. E
   <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
   <string name="xspace_header">Aplicacions duals</string>
   <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>
+  <string name="xspace_install_completed_global">Icona afegida al calaix</string>
   <string name="xspace_install_failed">"No s'ha pogut crear"</string>
   <string name="xspace_installing">S\'està instal·lant…</string>
   <string name="xspace_introduce">Recomanat</string>

@@ -140,6 +140,7 @@
   <string name="description_calendar">Aplicacions del sistema/Calendari</string>
   <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
   <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
+  <string name="discard_label">Cancel·la</string>
   <string name="does_not_repeat">Esdeveniment únic</string>
   <string name="done">Retorn</string>
   <string name="download">Baixa</string>
@@ -187,7 +188,7 @@
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">"No es poden crear esdeveniments buits"</string>
-  <string name="english_premium_league">English Premier League</string>
+  <string name="english_premium_league">Premier League</string>
   <string name="event_account">Compte</string>
   <string name="event_action_delete">Elimina</string>
   <string name="event_action_edit">Edita</string>

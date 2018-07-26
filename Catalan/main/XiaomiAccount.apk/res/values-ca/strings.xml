@@ -21,6 +21,7 @@
   <string name="account_has_been_set">Modifica</string>
   <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
   <string name="account_mibi_center">Crèdit Mi</string>
+  <string name="account_mibi_charge">Recàrrega</string>
   <string name="account_no_set">Cap</string>
   <string name="account_none">Cap</string>
   <string name="account_none_binded_info">Cap</string>
@@ -181,7 +182,9 @@
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtindrà els permisos següent:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Inici de sessió amb el compte Mi</string>
   <string name="other_devices_title">Altres dispositius</string>
+  <string name="passport_Resend">Reenvia</string>
   <string name="passport_access_denied">Accés denegat</string>
+  <string name="passport_account_hint_text">Adreça de correu/Número de telèfon/ID del Compte Mi</string>
   <string name="passport_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
@@ -199,6 +202,7 @@
   <string name="passport_back">Torna</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
   <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
+  <string name="passport_btn_change_account">Canvia de compte</string>
   <string name="passport_change_account">Canvia de compte</string>
   <string name="passport_change_phone_number">Bescanvia números</string>
   <string name="passport_checking_account">Comprovant contrasenya&#8230;</string>
@@ -229,6 +233,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_empty_pwd">Introduïu la contrasenya</string>
   <string name="passport_error_empty_username">Introduïu l\'ID del compte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
+  <string name="passport_error_empty_voice_code">Introduïu el captcha</string>
   <string name="passport_error_illegal_pwd">Contrasenya no vàlida</string>
   <string name="passport_error_invalid_dev_id">"L'identificador del vostre dispositiu no és vàlid."</string>
   <string name="passport_error_invalid_phone_num">Número de telèfon no vàlid</string>
@@ -265,7 +270,10 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_input_phone_hint">Introduïu el número de telèfon</string>
   <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
   <string name="passport_input_voice_captcha_hint">Introduïu el codi de verificació de veu</string>
+  <string name="passport_input_voice_hint">Introduïu el codi de veu</string>
   <string name="passport_license_host_unreachable">"No es pot connectar a la xarxa. Podeu veure aquesta pàgina a %s."</string>
+  <string name="passport_license_info_collapse">Replega</string>
+  <string name="passport_license_info_open">Detalls</string>
   <string name="passport_loading">Carregant&#8230;</string>
   <string name="passport_login">Inicia la sessió</string>
   <string name="passport_login_failed">"No es pot iniciar sessió"</string>
@@ -277,6 +285,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_title">Inicia una sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
+  <string name="passport_new_user_register">Crea un compte</string>
   <string name="passport_next">Següent</string>
   <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="passport_password_phone_login">Inicia sessió amb el Compte Mi</string>
@@ -318,6 +327,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
   <string name="passport_register_restricted">Massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot fer servir aquest número de telèfon"</string>
+  <string name="passport_register_using_other_ways">Altres formes de crear un compte</string>
   <string name="passport_registered_phone_num">Telèfon: %s</string>
   <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
   <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
@@ -352,6 +362,10 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_sms_verification_code_login">Inicia sessió mitjançant un SMS</string>
   <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
   <string name="passport_sync_account_data_failed_warning">La informació del vostre compte s\'està sincronitzant, podeu iniciar la sessió amb l\'ID del Compte Mi. Si voleu iniciar la sessió amb el telèfon o correu, espereu fins que la informació estigui completament sincronitzada.</string>
+  <string name="passport_talkback_image_captcha">Codi de verificació de la imatge</string>
+  <string name="passport_talkback_switch_image_captcha">Canvia al codi de verificació de la imatge</string>
+  <string name="passport_talkback_switch_voice_captcha">Canvia al codi de verificació de veu</string>
+  <string name="passport_talkback_voice_captcha">Reprodueix el codi de verificació de veu</string>
   <string name="passport_title_reg">Crea un compte</string>
   <string name="passport_trust_device">Confia en aquest dispositiu</string>
   <string name="passport_trying_read_verify_code_sms">Obtenint el codi de verificació&#8230;</string>
@@ -371,12 +385,14 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_vcode_sms_send_prompt">Envia codi de verificació a %s</string>
+  <string name="passport_verification_failed">"No s'ha pogut verificar el compte"</string>
   <string name="passport_verify">Verifica</string>
   <string name="passport_verifying_activator_phone">S\'està verificant la seguretat del telèfon…</string>
   <string name="passport_wait_for_sms_prompt">"Voleu tornar a començar? Els missatges de verificació poden trigar uns 10 minuts en arribar si és que teniu cobertura."</string>
   <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_phone_number_format">El format del número de telèfon que heu introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
+  <string name="passport_wrong_voice">El codi introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
   <string name="phone_activated">%s activat</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>

@@ -3,7 +3,7 @@
 <resources>
   <string name="activity_title_ad">Publicitat</string>
   <string name="activity_title_apk">Paquets</string>
-  <string name="activity_title_brightness_image">Subexposades i sobreexposades</string>
+  <string name="activity_title_brightness_image">Sub i sobreexposades</string>
   <string name="activity_title_cache">Memòria cau</string>
   <string name="activity_title_cache_data">Dades d\'aplicació</string>
   <string name="activity_title_deep_apk">Elimina APK</string>
@@ -15,7 +15,8 @@
   <string name="activity_title_main">Netejador</string>
   <string name="activity_title_news">Notícies</string>
   <string name="activity_title_privacy_cache">Memòria cau privada</string>
-  <string name="activity_title_scanfinish">S\'ha completat l\'anàlisi</string>
+  <string name="activity_title_residual">Residuals</string>
+  <string name="activity_title_scanfinish">S\'ha completat l\'escaneig</string>
   <string name="activity_title_screenshot">Captures de pantalla</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_similar_image">Fotos duplicades</string>
@@ -199,6 +200,11 @@
   <string name="go_to">Continua</string>
   <string name="goto_set">Aplica</string>
   <string name="grabage_rank_title">Netejat avui</string>
+  <string name="guide_secure_dialog_negative">Cancel·la</string>
+  <string name="guide_secure_dialog_positive">Optimitza</string>
+  <string name="guide_secure_dialog_title">Optimització del rendiment</string>
+  <string name="guide_virus_dialog_negative">Cancel·la</string>
+  <string name="guide_virus_dialog_positive">Escaneja</string>
   <string name="header_optimizer">En utilitzar aquesta funció, vostè està d\'acord amb %s.</string>
   <string name="hint_clean_select_items">S\'estan esborrant les duplicitats&#8230;</string>
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
@@ -242,6 +248,7 @@
   <string name="hints_quick_deep_uninstall">Elimina ara</string>
   <string name="hints_quick_prepare">S\'està preparant&#8230;</string>
   <string name="hints_quick_scanning">S\'està escanejant&#8230;</string>
+  <string name="hints_residual_header_left">Residuals</string>
   <string name="hints_scan_has_finish">Neteja completada</string>
   <string name="hints_scanfinish">No hi ha brossa</string>
   <string name="hints_storage_clean_size">Alliberats %s d\'emmagatzematge intern</string>
@@ -276,12 +283,14 @@
   <string name="low_memory_warning_dialog_ok_button">Esborra</string>
   <string name="low_memory_warning_dialog_title">Disc sense espai</string>
   <string name="main_title_filesize">%1$s brossa</string>
+  <string name="mainbtn_text_no_trash">Omet</string>
   <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
   <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
   <string name="menu_add_to_white_list">Afegeix a excepcions</string>
   <string name="menu_clear">Neteja</string>
   <string name="menu_install">Instal·la aquesta aplicació</string>
+  <string name="menu_open">Obre</string>
   <string name="menu_view">Veure a la carpeta</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">S\'estan cercant actualitzacions&#8230;</string>
@@ -312,6 +321,7 @@
   <string name="output_videos">Exporta vídeos</string>
   <string name="phone_search">Cerca de Google</string>
   <string name="positive_confirm">D\'acord</string>
+  <string name="pref_category_title_auto_clean_config_settings">Neteges automàtiques</string>
   <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
   <string name="pref_category_title_auto_update_cleanup_db">Configuració addicional</string>
   <string name="pref_category_title_cleanup_white_list">Excepcions</string>
@@ -329,7 +339,10 @@
   <string name="pref_summary_garbage_process_mode">Establir notificacions quan s\'executa la neteja</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pujar i comparar noms de fitxers desconeguts amb definicions en línia</string>
   <string name="pref_title_apps_cleanup_size">Quan la mida de la memòria cau ocupi</string>
+  <string name="pref_title_auto_clean">Neteja automàtica</string>
   <string name="pref_title_auto_clean_content_choose">Seleccioneu elements a netejar</string>
+  <string name="pref_title_auto_clean_operation">Mètode de neteja</string>
+  <string name="pref_title_auto_clean_trigger">Neteja l\'emmagatzematge</string>
   <string name="pref_title_auto_update_cleanup_db">Actualitza automàticament</string>
   <string name="pref_title_choose_engine">Definicions</string>
   <string name="pref_title_clean_alert">Neteja automàticament</string>
@@ -398,6 +411,13 @@
   <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile's i requereix la identitat del seu dispositiu."</string>
   <string name="text_optimizer">Pujar noms de carpeta</string>
   <string name="there_is_no">Tot pinta bé, torneu més tard</string>
+  <string name="tips_low_storage_dialog_cancel">Cancel·la</string>
+  <string name="tips_low_storage_dialog_msg_qq">La mida de la memòria cau de QQ ja arriba als 3GB. Us podria alentir el vostre dispositiu. Voleu netejar-la ara?</string>
+  <string name="tips_low_storage_dialog_msg_storage">"Utilitzeu el 90% del vostre espai d'emmagatzematge. Desinstal·leu aplicacions que no utilitzeu."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">La mida de la memòria cau de WeChat ja arriba als 3GB. Us podria alentir el vostre dispositiu. Voleu netejar-la ara?</string>
+  <string name="tips_low_storage_dialog_ok">Neteja</string>
+  <string name="tips_low_storage_dialog_ok_storage">Allibera espai</string>
+  <string name="tips_low_storage_dialog_title">L\'espai d\'emmagatzematge s\'està esgotant</string>
   <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
   <string name="tips_of_auto_launch_manage">Eviteu que les aplicacions que no feu servir gairebé mai s\'iniciïn automàticament</string>
   <string name="tips_of_cloud_service">Inicieu sessió amb el vostre Compte Mi per utilitzar més serveis Mi</string>
@@ -478,8 +498,10 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_msg_time_short">dd-MM</string>
   <string name="wechat_qq_activity_title">Neteja intensiva</string>
   <string name="wechat_qq_celan_tab_file">Fitxers</string>
+  <string name="wechat_qq_celan_tab_image">Imatges</string>
   <string name="wechat_qq_celan_tab_video">Vídeos</string>
   <string name="wechat_qq_celan_tab_voice">Missatges de veu</string>
   <string name="wechat_qq_chat_files">Historial de xat</string>
@@ -489,6 +511,7 @@
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
   <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
+  <string name="white_list_residual_header">Residuals: %d</string>
   <string name="white_list_title">Excepcions</string>
   <string name="wq_deep_clean_filter_all">Tots</string>
   <string name="wq_deep_clean_filter_month_ago">Fa 1 mes</string>

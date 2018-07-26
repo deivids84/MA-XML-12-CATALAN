@@ -183,7 +183,6 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
   <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
-  <string name="portrait_mode_too_far_hint">Col·loqueu l\'objecte a 2,5 metres</string>
   <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
 amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_advance_settings">Configuració addicional</string>

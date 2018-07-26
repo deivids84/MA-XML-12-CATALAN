@@ -133,6 +133,14 @@
     <item quantity="other">El PIN ha de tenir %d dígits</item>
     <item quantity="one">El PIN ha de tenir %d dígit</item>
   </plurals>
+  <plurals name="lockpassword_pin_too_long">
+    <item quantity="other">Podeu introduïr fins a %d dígits</item>
+    <item quantity="one">Podeu introduïr fins a %d dígit</item>
+  </plurals>
+  <plurals name="lockpassword_pin_too_short">
+    <item quantity="other">Introduïu com a mínim %d dígits</item>
+    <item quantity="one">Introduïu com a mínim %d dígit</item>
+  </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
     <item quantity="other">Connecteu almenys %d punts. Torneu-ho a provar.</item>
     <item quantity="one">Connecteu almenys %d punt. Torneu-ho a provar.</item>
@@ -228,6 +236,10 @@
   <plurals name="show_rep_countdown">
     <item quantity="other">"Sou a %1$d passos d'informar d'un error."</item>
     <item quantity="one">"Sou a %1$d pas d'informar d'un error."</item>
+  </plurals>
+  <plurals name="show_reset_countdown">
+    <item quantity="other">Completeu %1$d passos per realitzar un restabliment de fàbrica</item>
+    <item quantity="one">Completeu %1$d pas per realitzar un restabliment de fàbrica</item>
   </plurals>
   <plurals name="special_access_summary">
     <item quantity="other">%d aplicacions poden utilitzar dades no restringides</item>

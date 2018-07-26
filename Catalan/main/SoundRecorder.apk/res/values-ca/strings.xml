@@ -98,6 +98,7 @@
   <string name="record_downloading_notification">S\'està baixant&#8230;</string>
   <string name="record_downloading_notification_complete">Baixada completa</string>
   <string name="record_downloading_notification_count">S\'està baixant %d</string>
+  <string name="record_format_preference_title">Format de gravació</string>
   <string name="record_list">Gravacions</string>
   <string name="record_list_call">Trucades enregistrades</string>
   <string name="record_list_category_title_format">MMMM \'de\' yyyy</string>

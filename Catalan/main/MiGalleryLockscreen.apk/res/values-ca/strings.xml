@@ -3,7 +3,6 @@
 <resources>
   <string name="apply">Aplica</string>
   <string name="at_least_one">Selecciona almenys una categoria</string>
-  <string name="auto_interval">Auto</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_international">Cancel·la</string>
   <string name="cancel_lockscreen">Cancel·la</string>

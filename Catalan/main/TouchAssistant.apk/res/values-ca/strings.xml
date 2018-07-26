@@ -16,6 +16,7 @@
   <string name="hide_touch_assistant_intro">Amaga el menú de dreceres en les aplicacions seleccionades.</string>
   <string name="hide_when_fullscreen">Mou a un costat en pantalla completa</string>
   <string name="hide_when_fullscreen_intro">Mou a un costat en entrar al mode de pantalla completa.</string>
+  <string name="mi_wallet_summary">Targeta de transport/Mi Pay/Targeta clau</string>
   <string name="motion_behavior">Gest preferit</string>
   <string name="name_alipay_payment_code">Pagament Alipay</string>
   <string name="name_alipay_scan">Escànner Alipay</string>

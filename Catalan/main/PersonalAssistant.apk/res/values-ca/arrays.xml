@@ -15,20 +15,6 @@
     <item>Normal</item>
     <item>Gran</item>
   </string-array>
-  <string-array name="express_status_all">
-    <item>De camí</item>
-    <item>En tramitació</item>
-    <item>Entregat</item>
-    <item>Desconegut</item>
-    <item>Rebut</item>
-    <item>Rebutjat</item>
-    <item>En devolució</item>
-    <item>Desconegut</item>
-  </string-array>
-  <string-array name="express_status_detail">
-    <item>De camí</item>
-    <item>En tramitació</item>
-  </string-array>
   <string-array name="stock_color_schema">
     <item>Vermell - amunt, verd - avall</item>
     <item>Verd - amunt, vermell - avall</item>

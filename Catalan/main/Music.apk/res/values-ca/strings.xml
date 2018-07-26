@@ -57,8 +57,6 @@
   <string name="asset_sync_power_alert_message">Connecteu el carregador per realitzar la còpia de seguretat de les cançons.</string>
   <string name="asset_sync_power_alert_title">Bateria baixa</string>
   <string name="audio_picker_title">Trieu una cançó</string>
-  <string name="auto_payment">Renovació automàtica</string>
-  <string name="auto_payment_date">Proper pagament: %s</string>
   <string name="available_playlist_name_format">Nova llista de reproducció %d</string>
   <string name="avoid_to_use_traffic_summary">"No utilitzar dades mòbils per escoltar música per transmissió"</string>
   <string name="avoid_to_use_traffic_title">Utilitza només Wi-Fi per transmissió de música</string>
@@ -67,8 +65,6 @@
   <string name="backup_empty_button">0 cançons seleccionades</string>
   <string name="backup_immediate">Còpia de seguretat</string>
   <string name="backup_song_title">Seleccioneu les cançons per fer la còpia de seguretat</string>
-  <string name="being_disable_auto_payment">S\'està apagant&#8230;</string>
-  <string name="being_enable_auto_payment">S\'està engegant&#8230;</string>
   <string name="bluetooth_device">Dispositiu d\'àudio Bluetooth</string>
   <string name="buffering">S\'està omplint la memòria intermèdia&#8230;</string>
   <string name="button_cancel_download">Cancel·la</string>
@@ -171,10 +167,6 @@
   <string name="dialog_title_not_available">"No s'ha pogut baixar"</string>
   <string name="dialog_title_queued_body">El fitxer encara no està disponible</string>
   <string name="dialog_title_remove_tracks">Elimina</string>
-  <string name="disable_auto_payment_fail">"No s'ha pogut desactivar"</string>
-  <string name="disable_auto_payment_fail_message">"No s'ha pogut desactivar la renovació automàtica"</string>
-  <string name="disable_auto_payment_success">Desactivat</string>
-  <string name="disable_auto_payment_success_message">"Es va desactivar la renovació automàtica. Després que finalitzi la vostra subscripció actual, haureu de tornar-vos a inscriure's per baixar cançons."</string>
   <string name="disallow_add_to_fm">"No es poden afegir cançons a la ràdio FM"</string>
   <string name="disallow_add_to_personal_radio">"No es poden afegir cançons a la ràdio personal"</string>
   <string name="download">Baixa</string>
@@ -247,10 +239,6 @@
   <string name="downloading_pause_apk">S\'ha pausat. Reprèn la baixada al panell de notificació.</string>
   <string name="empty_page_no_album">No hi ha àlbums.</string>
   <string name="empty_page_no_artist">No hi ha artistes.</string>
-  <string name="enable_auto_payment_fail">"No s'ha pogut activar"</string>
-  <string name="enable_auto_payment_fail_message">"No s'ha pogut activar la renovació automàtica"</string>
-  <string name="enable_auto_payment_success">Renovació automàtica</string>
-  <string name="enable_auto_payment_success_message">Renovació automàtica activada. Pròxim pagament: %s.</string>
   <string name="enabled">Activat</string>
   <string name="enter_garbage_clean">Neteja l\'emmagatzematge intern.</string>
   <string name="eq_auto">Personalitzat</string>
@@ -415,7 +403,6 @@
   <string name="more">Més</string>
   <string name="more_add_song_list">Afegeix a la llista de reproducció actual</string>
   <string name="more_settings">Configuració avançada</string>
-  <string name="more_settings_summary">Configuració de baixades, temporitzador, ús de dades mòbils, filtres de fitxers, etc.</string>
   <string name="more_share">Comparteix</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtra els fitxers d\'àudio</string>
@@ -524,7 +511,6 @@
   <string name="radar_searching_state">S\'està cercant&#8230;</string>
   <string name="radar_support_by">Desenvolupat per ACRCloud</string>
   <string name="recently_played">Reproduït recentment</string>
-  <string name="recently_played_songs">Reproduït recentment</string>
   <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
   <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la vostre connexió de dades mòbils per baixar aquest fitxer?</string>
   <string name="remove">Esborra</string>

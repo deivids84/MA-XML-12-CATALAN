@@ -78,11 +78,15 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+  <string name="daily_forecast_add_city_add">Segueix</string>
+  <string name="daily_forecast_add_city_message">Seguiu el temps a %1$s per obtenir una previsió més detallada.</string>
+  <string name="daily_forecast_add_city_title">Seguiu el temps a %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
   <string name="data_provided_by">Dades proporcionades per</string>
   <string name="edit_city">Edita la ciutat</string>
+  <string name="eu_region_version_first_start_network_msg">"En utilitzar aquest producte, accepteu que Xiaomi recopilarà, processarà i utilitzarà informació personal, incloses les coordenades de les ciutats que cerqueu i altres tipus de dades especificades a la nostra política de privadesa. Consulteu la nostra política de privadesa per obtenir informació sobre com recopilem i processem la informació. Si toqueu «D'acord», accepteu la %1$s i %2$s de Xaiomi."</string>
   <string name="feedback_heavy_rain">Pluja forta</string>
   <string name="feedback_heavy_snow">Neu</string>
   <string name="feedback_light_rain">Pluja feble</string>
@@ -132,6 +136,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
   <string name="night_not_disturb_settings_summary">Alertes de silenci entre les 23:00 i les 07:00</string>
   <string name="night_not_disturb_settings_title">"No molestis per la nit"</string>
+  <string name="no_data">Sense dades</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
@@ -140,6 +145,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="other_settings">Altres configuracions</string>
   <string name="other_warning_settings">Altres alertes</string>
   <string name="particulate_matter_exceeded">Alta</string>
+  <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Molt alta</string>
   <string name="policy_settings">Termes i condicions</string>
   <string name="precipitation_degree_five">tempesta</string>

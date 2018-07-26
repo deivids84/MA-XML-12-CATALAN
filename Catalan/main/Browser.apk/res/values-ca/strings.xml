@@ -601,7 +601,10 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_server_error">Hi ha massa dispositius intentant connectar-se</string>
   <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Comproveu la configuració de les aplicacions de servidor intermediari instal·lades al dispositiu.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_connetion">Comproveu la connexió a Internet.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restableix la %s1 configuració de l\'APN %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Comproveu la %s1 configuració del servidor intermediari %s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Esborra la memòria cau (%s1Configuració%s2 - Esborra les dades).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra memòria cau i galetes (%s1Configuració%s2 - Esborra dades, la informació del vostre compte es podria perdre).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Esborreu la memòria cau i les galetes (es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Esborra la memòria cau.</string>
@@ -652,6 +655,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_notification_category_browser">Navegador</string>
   <string name="mw_notification_category_content_suggestions">Suggeriments de contingut</string>
   <string name="mw_notification_category_downloads">Baixades</string>
+  <string name="mw_notification_category_fullscreen_controls">Controls de pantalla completa del lloc</string>
   <string name="mw_notification_category_group_general">General</string>
   <string name="mw_notification_category_incognito">Incògnit</string>
   <string name="mw_notification_category_media">Multimèdia</string>
@@ -1103,6 +1107,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="suggestion_clear_record_message">Confirmeu el registre d\'entrada buit?</string>
   <string name="suggestion_express_button_query_more">MOSTRA\'N MÉS</string>
   <string name="suggestion_express_button_text_query">COMPROVA</string>
   <string name="suggestion_express_exception_net">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>

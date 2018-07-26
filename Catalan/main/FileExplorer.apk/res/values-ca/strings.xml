@@ -15,10 +15,13 @@
   <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
   <string name="apk_installing">S\'està instal·lant...</string>
   <string name="app_name">Explorador Mi</string>
+  <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Càmera</string>
   <string name="app_name_downloadedrom">Paquets</string>
   <string name="app_name_downloads">Baixades</string>
   <string name="app_name_market">Botiga d\'aplicacions</string>
+  <string name="app_name_midrop">Mi Drop</string>
+  <string name="app_name_miui">MIUI</string>
   <string name="app_name_miuimusic">Música</string>
   <string name="app_name_miuiringtone">Tons de trucada</string>
   <string name="app_name_miuiwallpaper">Fons de pantalla</string>
@@ -56,7 +59,10 @@
   <string name="cancel_text">Cancel·la</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
   <string name="cannot_send">"No es poden enviar fitxers des de l'emmagatzematge extern"</string>
+  <string name="category">Categories</string>
   <string name="category_all">Tot</string>
+  <string name="category_apk">APK</string>
+  <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Documents</string>
   <string name="category_download">Baixades</string>
   <string name="category_favorite">Destacats</string>
@@ -70,6 +76,7 @@
   <string name="category_picture">Imatges</string>
   <string name="category_recent">Recents</string>
   <string name="category_theme">Temes</string>
+  <string name="category_type_document">Documents</string>
   <string name="category_type_meida">Multimèdia</string>
   <string name="category_type_other">Altres</string>
   <string name="category_video">Vídeos</string>
@@ -240,6 +247,7 @@
   <string name="group_title_extra_new">Nou</string>
   <string name="handsome_boy">Masculí</string>
   <string name="has_installed">Instal·lat</string>
+  <string name="homepage_tab_category">Categories</string>
   <string name="homepage_tab_file_view_phone">Emmagatzematge</string>
   <string name="homepage_tab_recent">Recents</string>
   <string name="hot_comments">Comentaris populars</string>
@@ -248,6 +256,7 @@
   <string name="hot_video">Vídeos populars</string>
   <string name="hot_video_load_more">Més &gt;</string>
   <string name="hot_video_title">Vídeos populars</string>
+  <string name="hottest_sticker_str">Recomanat</string>
   <string name="if_cancel">Voleu cancel·lar aquesta operació?</string>
   <string name="image_loading_error">"No s'ha pogut carregar la imatge"</string>
   <string name="input_memo_hint">Introduïu comentaris addicionals (opcional)</string>
@@ -289,7 +298,11 @@
   <string name="make_private_msg_2">Voleu amagar aquests fitxers?</string>
   <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
   <string name="male">Home</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Neteja</string>
+  <string name="menu_item_ftp">FTP</string>
+  <string name="menu_item_midrop">Mi Drop</string>
+  <string name="menu_item_router">Encaminador</string>
   <string name="menu_item_search">Cerca</string>
   <string name="menu_item_sort">Ordena per</string>
   <string name="menu_item_sort_add_time">"Creat "</string>
@@ -297,12 +310,14 @@
   <string name="menu_item_sort_date">Data de modificació</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_type">Tipus</string>
+  <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Comentari: "</string>
   <string name="message_my_received_notification">Missatge nou</string>
   <string name="message_my_received_praise">Els meus M\'agrada</string>
   <string name="message_praise_comment">" m'agrada aquest comentari"</string>
   <string name="message_praise_video">" m'ha agradat aquest vídeo"</string>
   <string name="message_reply_prefix">Respondre</string>
+  <string name="mi_router_label">Encaminador</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
   <string name="midrop_msg_2">Quan Mi Drop estigui actiu, podeu cercar dispositius propers i enviar fitxers</string>
   <string name="midrop_send_files">Trieu fitxers a pujar</string>
@@ -415,6 +430,7 @@
   <string name="path_recent_file">Gestiona els fitxers al dispositiu</string>
   <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu a l'Explorador Mi accedir als fitxers des de la configuració."</string>
   <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu a l'Explorador Mi accedir als fitxers des de la configuració"</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
   <string name="phone_bind_tip">Afegir número telefònic per participar en els rànquings i guanyar premis</string>
@@ -460,7 +476,10 @@
   <string name="prize_result_tip">Intercanvia</string>
   <string name="prize_result_tip2">Les gemes van al vostre tresor</string>
   <string name="promot_enctypt_password">Introduïu la contrasenya utilitzada per desblocar el vostre dispositiu</string>
+  <string name="qq_btn_bind">QQ</string>
+  <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">"QQ no està instal·lat"</string>
+  <string name="recent_show">Recent</string>
   <string name="recommend">Recomanat</string>
   <string name="recommend_popup_title">Recomanacions</string>
   <string name="recommend_topic">Temes recomanades</string>
@@ -544,6 +563,7 @@
   <string name="setting_account_bind">Afegeix un compte</string>
   <string name="setting_message_notify">Notificacions</string>
   <string name="setting_shortcut">Afegeix drecera a la pantalla d\'inici</string>
+  <string name="share_from_youliao">(Des de #有料# @有料Vídeo)|</string>
   <string name="share_rank_card_tip">Comparteix el rànquing</string>
   <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
@@ -563,6 +583,7 @@
   <string name="share_topic_title">"Estic veient #%1$s#, feu una ullada!"</string>
   <string name="shared_sticker_network_permission_tip">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
+  <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Adhesiu a %s</string>
   <string name="shared_sticker_use_tip">"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
 (Els GIF es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
@@ -589,17 +610,21 @@
   <string name="swap_tip_1">Llisqueu a l\'esquerra o a la dreta</string>
   <string name="swap_tip_2">per veure altres vídeos</string>
   <string name="sys_size_enable">" disponible"</string>
+  <string name="tab_category">Categories</string>
   <string name="tab_common_app">Aplicacions bàsiques</string>
   <string name="tab_discover">Descobreix</string>
   <string name="tab_explore">Descobreix</string>
   <string name="tab_follow">Seguint</string>
   <string name="tab_homepage">Inici</string>
+  <string name="tab_hottest_video">Popular</string>
+  <string name="tab_local">LOCAL</string>
   <string name="tab_mine">Perfil</string>
   <string name="tab_more">Més</string>
   <string name="tab_msg">Missatges</string>
   <string name="tab_newest_video">Nou</string>
   <string name="tab_ranking_list">Rànquing</string>
   <string name="tab_source">Aplicacions</string>
+  <string name="terabyteShort">TB</string>
   <string name="tip">Atenció</string>
   <string name="title_album">Àlbums</string>
   <string name="title_app_tags">Aplicacions</string>
@@ -610,6 +635,7 @@
   <string name="title_select_volume">Seleccionar volum</string>
   <string name="toast_file_not_can_read">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="tools">EINES</string>
+  <string name="top_mark">SUPERIOR</string>
   <string name="top_videos">Comparteix el rànquing</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
@@ -656,6 +682,7 @@
   <string name="upload_video_success">S\'ha pujat amb èxit</string>
   <string name="upload_video_success_progress">S\'ha pujat amb èxit</string>
   <string name="uploading_video">Pujant vídeo&#8230;</string>
+  <string name="usb_label">USB</string>
   <string name="used">Usat </string>
   <string name="user">Usuaris</string>
   <string name="user_cancel">Cancel·lat</string>
@@ -704,6 +731,7 @@
   <string name="user_topic_text">Els meus temes</string>
   <string name="user_video_text">Els meus vídeos</string>
   <string name="utf8_summary">Codificació per defecte del sistema FTP</string>
+  <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Instal·la</string>
   <string name="video_comment_hint">Seleccionar tema</string>
   <string name="video_comment_limit">%1$s caràcters restants</string>

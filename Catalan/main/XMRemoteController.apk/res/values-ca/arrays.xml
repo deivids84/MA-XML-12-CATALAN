@@ -89,7 +89,7 @@
   <string-array name="epg_program_genre">
     <item></item>
     <item></item>
-    <item>Entertainment</item>
+    <item>Entreteniment</item>
     <item></item>
     <item>Esports</item>
     <item>Per als nens</item>
@@ -99,7 +99,7 @@
   <string-array name="epg_program_tab">
     <item>Popular</item>
     <item>Pel·lícules</item>
-    <item>Entertainment</item>
+    <item>Entreteniment</item>
     <item>Programes de televisió</item>
     <item>Esports</item>
     <item>Per als nens</item>

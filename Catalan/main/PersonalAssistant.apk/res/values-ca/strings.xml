@@ -219,7 +219,6 @@
   <string name="edit_category_dialog_title">Seleccioneu una categoria de pagament</string>
   <string name="edit_comment_hint">Observació</string>
   <string name="edit_delete_dialog_message">Voleu eliminar aquest registre d\'historial?</string>
-  <string name="edit_record_category">"Categoria: "</string>
   <string name="edit_record_label">Detalls</string>
   <string name="empty_card_btn">Obre l\'aplicació</string>
   <string name="empty_card_tip">"Sembla que no heu iniciat sessió o encara no heu configurat aquesta targeta."</string>
@@ -706,13 +705,9 @@ Comproveu el número de seguiment."</string>
   <string name="payment_record_add">Afegeix un pagament</string>
   <string name="payment_record_delete">Elimina dels pagaments</string>
   <string name="payment_record_empty">Encara no hi ha pagaments</string>
-  <string name="payment_record_label">Detalls</string>
   <string name="payment_record_list">Detalls</string>
   <string name="payment_record_menu_delete">Elimina</string>
   <string name="payment_record_menu_select">Seleccioneu</string>
-  <string name="payment_record_new_lable">Afegeix un registre d\'historial</string>
-  <string name="payment_record_recent_title">Últims pagaments</string>
-  <string name="payment_record_show_more">Mostra\'n més</string>
   <string name="payment_report_failed_record_dialog_cancel">Cancel·la</string>
   <string name="payment_setting">configuració</string>
   <string name="payment_total_month_desc">Aquest mes</string>

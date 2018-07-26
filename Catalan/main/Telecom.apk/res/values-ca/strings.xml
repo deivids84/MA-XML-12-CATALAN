@@ -138,6 +138,7 @@ Taxa de mostreig"</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
+  <string name="close">Desactiva</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
@@ -280,6 +281,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
+  <string name="process_kernel_label">SO Android</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="respond_via_sms_canned_response_1">"Ara no puc parlar. Què passa?"</string>
   <string name="respond_via_sms_canned_response_2">"Et truco de seguida."</string>
@@ -359,6 +361,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració de la base</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
+  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·lació de les dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -427,6 +430,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>
+  <string name="wifi_security_wapi_psk_hexadecimal">Hexadecimal</string>
   <string name="wifi_ssid_is_empty">El camp Ssid no es pot deixar en blanc</string>
   <string name="wifi_ssid_length_is_max">El Ssid no pot superar els 32 caràcters</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>

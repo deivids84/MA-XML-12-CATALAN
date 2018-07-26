@@ -13,6 +13,10 @@
     <item quantity="other">Voleu eliminar els fusos horaris seleccionats?</item>
     <item quantity="one">Voleu eliminar aquest fus horari?</item>
   </plurals>
+  <plurals name="second">
+    <item quantity="other">%d segons</item>
+    <item quantity="one">%d segon</item>
+  </plurals>
   <plurals name="snooze_message">
     <item quantity="other">Ajorna %d mins</item>
     <item quantity="one">Ajorna %d min</item>
