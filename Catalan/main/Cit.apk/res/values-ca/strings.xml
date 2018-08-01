@@ -321,6 +321,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool">Eines addicionals</string>
   <string name="cit_tool_bluetooth">Eina de prova de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entra al mode de prova de Bluetooth</string>
+  <string name="cit_tool_bluetooth_le_rx_4x_channel">canal:</string>
+  <string name="cit_tool_bluetooth_le_rx_50_channel">canal:</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Entra al mode de prova del Bluetooth LE 2.440GHz</string>
   <string name="cit_tool_bluetooth_not_on">El Bluetooth NO està activat</string>
   <string name="cit_tool_bluetooth_off">Desactiva el Bluetooth</string>

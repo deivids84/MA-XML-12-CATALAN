@@ -158,7 +158,6 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
   <string name="add_facerecoginition_text">Afegeix dades facials</string>
   <string name="add_fingerprint_cancel_button_text">Enrere</string>
-  <string name="add_fingerprint_dirty_fingerprint">Assegureu-vos que la superfície de la pantalla està neta. Proveu de tornar a enregistrar la vostra empremta digital.</string>
   <string name="add_fingerprint_done_msg">Ara podeu desbloquejar aquest dispositiu amb l\'empremta.</string>
   <string name="add_fingerprint_done_title">"Ja podeu començar!"</string>
   <string name="add_fingerprint_edge_instruction_msg">Moveu el dit perquè el sensor pugui enregistrar les vores de l\'empremta.</string>
@@ -309,7 +308,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_list_memory_use">Ús de les aplicacions</string>
   <string name="app_list_preference_none">Cap</string>
   <string name="app_memory_use">Memoria en ús</string>
-  <string name="app_mobile">Mòbil</string>
   <string name="app_name_label">Aplicació</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
@@ -363,7 +361,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apply_now_button_text">Actualitza</string>
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
-  <string name="approve_title">Verificació</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
   <string name="apps_summary">%1$d aplicacions instal·lades</string>
   <string name="apps_summary_example">24 aplicacions instal·lades</string>
@@ -1414,7 +1411,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
   <string name="dialog_chose_item">Seleccioneu un element per visualitzar-lo</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
-  <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
+  <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
   <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
   <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
@@ -1936,6 +1933,11 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
   <string name="got_it">Entesos</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
+  <string name="gxzw_add_fingerprint_edge_message">Moveu el dit per registrar les vores de l\'empremta</string>
+  <string name="gxzw_add_fingerprint_edge_title">Ajusteu la vostra pressió</string>
+  <string name="gxzw_add_fingerprint_finish">Fet!</string>
+  <string name="gxzw_add_fingerprint_move_title">Moveu una mica el dit</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Premeu la pantalla i aixequeu el dit després de sentir la vibració. Repetiu-ho diverses vegades.</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
   <string name="handy_mode_size">Pantalla</string>
@@ -2310,6 +2312,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_choose_your_pin_header">Estableix el PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">«Configura el PIN 
  pel segon espai»</string>
+  <string name="lockpassword_choose_your_pin_title">Introduïu 4-16 dígits</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
   <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
   <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
@@ -2676,8 +2679,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nature_color">Per defecte</string>
   <string name="navigation_guide_app_summary">Feu lliscar cap a l\'esquerra o cap a la dreta des de la vora de la pantalla a la part superior</string>
   <string name="navigation_guide_app_title">"Activador de l'acció de l'aplicació"</string>
-  <string name="navigation_guide_back_anim_summary">"Gest cap enrere amb animació"</string>
-  <string name="navigation_guide_back_anim_title">Animació del gest cap enrrere</string>
   <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
   <string name="navigation_guide_back_title">Torna a la darrera pàgina</string>
   <string name="navigation_guide_dialog_dont_show_again">"No ho tornis a mostrar"</string>
@@ -3175,7 +3176,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
-  <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privadesa</string>
+  <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privacitat</string>
   <string name="privacy_password_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="privacy_password_fingerprint_confirm_failed">"No s'ha pogut comprovar l'empremta"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Comprovació correcta</string>
@@ -3791,6 +3792,9 @@ Per fer-ho:
   <string name="second_space">Segon espai</string>
   <string name="secondspace_category">Segon espai</string>
   <string name="secondspace_delete_space_title">Esborrar el segon espai</string>
+  <string name="secspace_fod_finger_tips">"No s'ha pogut verificar. Torneu-ho a provar."</string>
+  <string name="secspace_fod_finger_title">Verifica l\'empremta</string>
+  <string name="secspace_fod_use_password">Introduïu la contrasenya</string>
   <string name="secure_keyguard_business_title">Configuració del bloqueig de pantalla</string>
   <string name="secure_lock_encryption_warning">Atès que vau activar un servei de facilitat d\'accés, el dispositiu no utilitzarà el bloqueig de pantalla per millorar el xifrat de les dades.</string>
   <string name="security_dashboard_summary">Bloqueig de pantalla, empremta</string>
@@ -4325,6 +4329,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">"No es pot utilitzar aquesta funció a causa de la bateria baixa"</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Aquestes aplicacions funcionen millor en mode de pantalla completa</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_fingerprint_lock_settings_title">Utilitza l\'empremta</string>
@@ -4472,7 +4477,6 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="title_layout_current2">Mida del text</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
   <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
-  <string name="total_info">Silencia els sons i desactiva la vibració per a tots els elements excepte el despertador</string>
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
   <string name="touch_assistant">Menú de dreceres</string>
@@ -4784,7 +4788,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_dict_settings_add_word_hint">Escriu una paraula</string>
   <string name="user_dict_settings_add_word_option_name">Paraula:</string>
   <string name="user_dict_settings_all_languages">Per a tots els idiomes</string>
-  <string name="user_dict_settings_context_menu_delete_title">Elimina</string>
+  <string name="user_dict_settings_context_menu_delete_title">Suprimeix</string>
   <string name="user_dict_settings_context_menu_edit_title">Edita</string>
   <string name="user_dict_settings_edit_dialog_title">Edita la paraula</string>
   <string name="user_dict_settings_empty_text">«No hi ha cap diccionari
@@ -5013,16 +5017,13 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wallpaper_suggestion_summary">Personalitza la pantalla</string>
   <string name="wallpaper_suggestion_title">Canvia el fons de pantalla</string>
   <string name="wapi_auto_sel_cert">Selecciona automàticament</string>
-  <string name="wapi_auto_sel_cert_fail">No es pot seleccionar el certificat automàticament. Seleccioneu un certificat de la llista i, a continuació, intenteu connectar-vos.</string>
   <string name="wapi_cert_is_not_selected">Seleccioneu primer el certificat</string>
   <string name="wapi_cert_manage_summary">Afegeix o suprimeix el certificat WAPI</string>
   <string name="wapi_cert_manage_title">Gestió de certificats WAPI</string>
   <string name="wapi_cert_select">Certificat WAPI</string>
-  <string name="wapi_no_vaild_cert">No hi ha cap certificat disponible, voleu instal·lar-ne un?</string>
+  <string name="wapi_no_vaild_cert">"No hi ha cap certificat disponible, voleu instal·lar-ne un?"</string>
   <string name="wapi_password_empty">Introduïu la contrasenya</string>
-  <string name="wapi_password_hex_format_invalid">Caràcters hexadecimals no vàlids</string>
   <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
-  <string name="wapi_password_length_invalid">La contrasenya ha de ser de 8 a 64 caràcters</string>
   <string name="wapi_psk_type">Tipus de contrasenya</string>
   <string name="warm_color">Càlid</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>

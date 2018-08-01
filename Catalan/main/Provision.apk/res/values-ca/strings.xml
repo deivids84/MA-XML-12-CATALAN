@@ -15,7 +15,7 @@
   <string name="content_description_complete">Completada</string>
   <string name="content_description_start">Inicia</string>
   <string name="continue_to_enable_accessibility">Mantén premuts els dos dits avall per activar l\'accessibilitat.</string>
-  <string name="desc_fingerprint">Utilitzeu la empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
+  <string name="desc_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
   <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
   <string name="disagree">Cancel·la</string>
   <string name="enable_accessibility_canceled">S\'ha cancel·lat l\'accessibilitat.</string>

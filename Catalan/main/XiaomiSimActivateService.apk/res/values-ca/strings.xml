@@ -38,8 +38,6 @@
   <string name="activate_popup_confirm_failed_server">Torna-ho a provar</string>
   <string name="activate_popup_desc_2_intl_sim_cards">S\'enviaran 2 SMS internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
   <string name="activate_popup_desc_2_sim_cards">S\'enviaran 2 SMS normals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"No es pot trobar el vostre número de telèfon. Assegureu-vos que la vostra targeta SIM esta activada. 
-Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a reactivar %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"No s\'ha pogut enviar el missatge d\'activació. Assegureu-vos que la vostra targeta SIM està activada. 
 Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a reactivar %s"</string>
   <string name="activate_popup_desc_error_device_id">Marqueu *#06# per comprovar l\'IMEI</string>
@@ -87,7 +85,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="activate_status_desc_getting_gateway">S\'està rebent la passarel·la SMS&#8230;</string>
   <string name="activate_status_desc_prepare_sending_sms">Preparant per enviar l\'SMS d\'activació&#8230;</string>
   <string name="activate_status_desc_query_activation_info">Obtenint informació d\'activació&#8230;</string>
-  <string name="activate_status_desc_query_activation_info_downlink_sms_error">El servidor ha fracassat en enviar un SMS d\'activació al vostre telèfon</string>
+  <string name="activate_status_desc_query_activation_info_downlink_sms_error">"El servidor ha fracassat en enviar un SMS d'activació al vostre telèfon"</string>
   <string name="activate_status_desc_query_activation_info_no_info">"No s'ha pogut trobar informació d'activació al servidor"</string>
   <string name="activate_status_desc_query_activation_info_server_error">S\'ha produït un error al servidor rebent informació d\'activació</string>
   <string name="activate_status_desc_registering_sim_account">S\'està registrant la targeta SIM&#8230;</string>

@@ -706,7 +706,7 @@ Comproveu el número de seguiment."</string>
   <string name="payment_record_delete">Elimina dels pagaments</string>
   <string name="payment_record_empty">Encara no hi ha pagaments</string>
   <string name="payment_record_list">Detalls</string>
-  <string name="payment_record_menu_delete">Elimina</string>
+  <string name="payment_record_menu_delete">Suprimeix</string>
   <string name="payment_record_menu_select">Seleccioneu</string>
   <string name="payment_report_failed_record_dialog_cancel">Cancel·la</string>
   <string name="payment_setting">configuració</string>

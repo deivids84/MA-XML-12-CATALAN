@@ -39,6 +39,8 @@
   <string name="ok_international">D\'acord</string>
   <string name="ok_lockscreen">D\'acord</string>
   <string name="ok_network">D\'acord</string>
+  <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
+  <string name="passport_input_phone_hint">Introduïu el número de telèfon</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
   <string name="resource_apply">Aplicar</string>

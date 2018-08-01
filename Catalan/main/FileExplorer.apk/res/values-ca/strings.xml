@@ -442,7 +442,7 @@
   <string name="phone_login_btn_str">Número de telèfon</string>
   <string name="phone_login_title">Telèfon</string>
   <string name="phone_num">Número de telèfon</string>
-  <string name="phone_num_et_hint">Entrar número telefònic</string>
+  <string name="phone_num_et_hint">Introduïu el número de telèfon</string>
   <string name="phone_num_format_tip">Número telefònic invàlid</string>
   <string name="phone_send_code">Obtenir codi</string>
   <string name="phone_send_code_again">Obtenir codi de nou</string>

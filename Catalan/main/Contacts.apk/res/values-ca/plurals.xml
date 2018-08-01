@@ -39,7 +39,7 @@
   </plurals>
   <plurals name="dlg_add_blacklist">
     <item quantity="other">Voleu bloquejar %1$d números?</item>
-    <item quantity="one">Voleu bloquejar %1$d números?</item>
+    <item quantity="one">Voleu bloquejar %1$d número?</item>
   </plurals>
   <plurals name="dlg_remove_blacklist">
     <item quantity="other">Voleu desbloquejar %1$d números?</item>

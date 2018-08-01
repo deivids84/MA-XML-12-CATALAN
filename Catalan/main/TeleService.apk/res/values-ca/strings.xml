@@ -421,7 +421,7 @@ Taxa de mostreig"</string>
   <string name="card_title_call_ended">Trucada finalitzada</string>
   <string name="card_title_callconnectedect">Trucada connectada ECT</string>
   <string name="card_title_callconnectingect">Trucada connectant ECT</string>
-  <string name="card_title_calliswaiting">En espera</string>
+  <string name="card_title_calliswaiting">Trucada en espera</string>
   <string name="card_title_callonhold">Posa en espera</string>
   <string name="card_title_callonhold_released">Trucada alliberada</string>
   <string name="card_title_callretrieved">Trucada recuperada</string>
@@ -1250,7 +1250,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="retry_btn">Torna a intentar-ho</string>
   <string name="reverting_settings">S\'estàn desfent els canvis&#8230;</string>
   <string name="ringtone_silent">Cap</string>
-  <string name="ringtone_unknown">To de trucada desconegut</string>
+  <string name="ringtone_unknown">So de trucada desconegut</string>
   <string name="roaming">Itinerància de dades</string>
   <string name="roaming_alert_title">Voleu permetre la itinerància de dades?</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>

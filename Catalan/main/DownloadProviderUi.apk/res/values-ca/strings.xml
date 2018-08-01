@@ -127,7 +127,7 @@
   <string name="durationSecond">%1$d seg</string>
   <string name="durationSeconds">%1$d segs</string>
   <string name="edit_hint">Introdueix http, torrent, o adreça d\'eMule</string>
-  <string name="editmode_menu_delete">Elimina</string>
+  <string name="editmode_menu_delete">Suprimeix</string>
   <string name="editmode_menu_share">Compartir</string>
   <string name="engine_open">Obre\'l</string>
   <string name="enter_search">Cerca al web</string>

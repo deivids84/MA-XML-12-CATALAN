@@ -21,6 +21,46 @@
     <item quantity="other">%d notificacions no importants</item>
     <item quantity="one">%d notificació no important</item>
   </plurals>
+  <plurals name="incorrect_pincode_remaining_attempts">
+    <item quantity="other">Codi PIN incorrecte, encara queden %d intents</item>
+    <item quantity="one">Codi PIN incorrecte, encara queda %d intent</item>
+  </plurals>
+  <plurals name="incorrect_pukcode_remaining_attempts">
+    <item quantity="other">Codi PUK incorrecte, encara queden %d intents</item>
+    <item quantity="one">Codi PUK incorrecte, encara queden %d intent</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_charging_full_need_time__text">
+    <item quantity="other">Queda prop de %1$d h %2$d m per carregar-se</item>
+    <item quantity="one">Queda prop de %1$d h %2$d m per carregar-se</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_could_use_hour_time_text">
+    <item quantity="other">Queda prop de %d hores</item>
+    <item quantity="one">Queda prop de %d hora</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_could_use_min_time_text">
+    <item quantity="other">Queda prop de %d minuts</item>
+    <item quantity="one">Queda prop de %d minut</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_could_use_time_text">
+    <item quantity="other">Queden prop de %1$d h %2$d m</item>
+    <item quantity="one">Queda prop de %1$d h %2$s m</item>
+  </plurals>
+  <plurals name="keyguard_charging_info_drained_hour_time_format">
+    <item quantity="other">%d hores</item>
+    <item quantity="one">%d hora</item>
+  </plurals>
+  <plurals name="kg_password_default_pin_message">
+    <item quantity="other">Introduïu el PIN de la SIM, us queden %d intents.</item>
+    <item quantity="one">Introduïu el PIN de la SIM, us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>
+  </plurals>
+  <plurals name="kg_password_default_puk_message">
+    <item quantity="other">La SIM ara està deshabilitada. Introduïu el codi PUK per restaurar-la. Us queden %d intents abans que la SIM s\'inutilitzi permanentment. Contacteu amb el vostre operador per a més detalls.</item>
+    <item quantity="one">La SIM ara està deshabilitada. Introduïu el codi PUK per restaurar-la. Us queda %d intent abans que la SIM s\'inutilitzi permanentment. Contacteu amb el vostre operador per a més detalls.</item>
+  </plurals>
+  <plurals name="kg_password_wrong_pin_code">
+    <item quantity="other">El codi PIN de la SIM no és correcte, encara us queden %d intents.</item>
+    <item quantity="one">El codi PIN de la SIM no és correcte, encara us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>
+  </plurals>
   <plurals name="notification_group_overflow_description">
     <item quantity="other">%s notificacions més dins.</item>
     <item quantity="one">%s notificació més dins.</item>

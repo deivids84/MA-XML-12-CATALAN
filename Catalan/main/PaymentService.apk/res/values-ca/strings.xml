@@ -29,7 +29,7 @@
   <string name="mibi_balance_title">Mi Credits disponibles</string>
   <string name="mibi_bill_delete_dialog_title">Suprimeix %1$s</string>
   <string name="mibi_bill_delete_message">Voleu suprimir \"%1$s\"?</string>
-  <string name="mibi_bill_menu_delete_item">Elimina</string>
+  <string name="mibi_bill_menu_delete_item">Suprimeix</string>
   <string name="mibi_bill_record">Transaccions</string>
   <string name="mibi_bill_record_empty">No hi han moviments.</string>
   <string name="mibi_btn_agree">D\'acord</string>
@@ -130,7 +130,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_get_phone_format_error">Verifiqueu el número de telèfon</string>
   <string name="mibi_get_phone_num_prefix">+ 86</string>
   <string name="mibi_get_phone_num_summary">Introduïu el número de telèfon que utilitzeu per als pagaments</string>
-  <string name="mibi_get_phone_num_title">Introduïu un número de telèfon</string>
+  <string name="mibi_get_phone_num_title">Introduïu el número de telèfon</string>
   <string name="mibi_get_phone_sms_prompt">S\'ha enviat el codi de verificació a %1$s</string>
   <string name="mibi_giftcard_acitivity_and_denomination">%2$s-Targeta regal Mi Credit de %1$s</string>
   <string name="mibi_giftcard_available">disponible</string>

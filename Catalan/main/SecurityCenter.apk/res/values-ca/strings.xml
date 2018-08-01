@@ -57,7 +57,7 @@
   <string name="activity_title_virus_settings">Configuració</string>
   <string name="activity_title_white_list">Excepcions</string>
   <string name="ad_btn_default_text">Més informació</string>
-  <string name="ad_update_time">Darrera actualització: %s</string>
+  <string name="ad_update_time">Última actualització: %s</string>
   <string name="ad_update_time_unKnown">Última actualització desconeguda</string>
   <string name="adb_install_no_network">Connecta\'t a la xarxa i torna-ho a provar</string>
   <string name="adb_install_open">S\'està permetent…</string>
@@ -106,7 +106,7 @@
   <string name="antivirus_monitor_risk_advice">"Aquesta aplicació no és segura, suprimiu-la"</string>
   <string name="antivirus_monitor_virus_advice">Aquesta aplicació pot contenir un virus, suprimiu-la</string>
   <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
-  <string name="antivirus_not_wlan">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
+  <string name="antivirus_not_wlan">"No esteu connectats a cap Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar?"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Puja noms i detalls d\'aplicacions</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Puja i escaneja els noms i detalls de les aplicacions mitjançant les definicions de virus en línia.</string>
   <string name="antivirus_privacy_dialog_ok">D\'acord</string>
@@ -117,7 +117,7 @@
   <string name="antivirus_toast_already_update">Actualitzat</string>
   <string name="antivirus_toast_network_unavailable">"No s'ha pogut connectar a la xarxa"</string>
   <string name="antivirus_toast_update_failed">"No s'ha pogut actualitzar"</string>
-  <string name="antivirus_toast_update_success">S\'ha actualitzat correctament</string>
+  <string name="antivirus_toast_update_success">S\'ha actualitzat amb èxit</string>
   <string name="antivirus_toast_updating">S\'està actualitzant…</string>
   <string name="antivirus_update_btn_contiue">Continua</string>
   <string name="antivirus_update_btn_open">Permet</string>
@@ -345,7 +345,7 @@
   <string name="back_modifypassword">Torna enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Activeu les dades mòbils i torneu-ho a provar.</string>
   <string name="back_sound_fail">"No s'ha pogut configurar. S'ha canviat la configuració de l'operador. Establiu la targeta SIM actual com a targeta de dades, connecteu-vos a la xarxa i torneu-ho a provar."</string>
-  <string name="back_sound_success">S\'ha establert amb èxit</string>
+  <string name="back_sound_success">Configurat amb èxit</string>
   <string name="back_sound_support">"La xarxa del vostre operador no és compatible amb aquesta configuració."</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Segon pla %s</string>
@@ -394,7 +394,7 @@
   <string name="bl_no_blacklist">No hi ha números bloquejats.</string>
   <string name="bl_no_block_call">No hi ha trucades bloquejades.</string>
   <string name="bl_no_block_sms">No hi ha missatges bloquejats.</string>
-  <string name="blacklist_prefix_add_hint">Bloqueja tots els números que tinguin aquest prefix</string>
+  <string name="blacklist_prefix_add_hint">Bloqueja tots els números que comencen amb aquest prefix</string>
   <string name="block_message_number">Missatges: <font color="#5fab1b">%d</font></string>
   <string name="block_phone_number">Trucades: <apli color="#5fab1b">%d</apli></string>
   <string name="boost_done">S\'ha accelerat amb èxit</string>
@@ -611,7 +611,7 @@
   <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
   <string name="dlg_add_keyword">Afegeix paraules clau</string>
   <string name="dlg_add_white">"Les trucades i els missatges nous dels números afegits a les excepcions es mostraran a l'historial de trucades i a la safata d'entrada dels missatges. No obstant això, els elements bloquejats anteriorment no apareixeran aquí. Voleu afegir els números seleccionats a les excepcions?"</string>
-  <string name="dlg_antispam_mode_delete_message">"No podeu recuperar les regles després d'haver-les eliminat."</string>
+  <string name="dlg_antispam_mode_delete_message">"No podeu recuperar les regles després d'haver estat suprimides."</string>
   <string name="dlg_antispam_mode_delete_title">Voleu suprimir les regles?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Voleu suprimir les regles que utilitzeu actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Voleu suprimir les regles que utilitzeu actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
@@ -644,11 +644,11 @@
   <string name="dlg_remove_whitelist">Voleu suprimir aquests números d\'excepcions?</string>
   <string name="dlg_remove_whitelist_ing">S\'està suprimint…</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
-  <string name="dlg_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que l'aplicació es connecti a Internet?"</string>
+  <string name="dlg_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que Seguretat es connecti a Internet?"</string>
   <string name="dlg_title_not_open_stranger_identify">Identificador de trucades</string>
   <string name="dlg_update_btn_contiue">Continua</string>
   <string name="dlg_update_btn_open">Permet</string>
-  <string name="dlg_update_data_content">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
+  <string name="dlg_update_data_content">"No esteu connectats a cap Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar?"</string>
   <string name="dlg_update_date_title">Avís</string>
   <string name="dlg_update_updating">S\'està actualitzant…</string>
   <string name="dlg_white_address_antispam_message">Voleu afegir aquesta ubicació a les excepcions?</string>
@@ -1052,7 +1052,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mark_sell_time_setting">Bloqueja els números que hagin estat notificats com a telemàrquetings un determinat nombre de vegades</string>
   <string name="mark_time_setting_dialog_title">Notifica aquest número</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_user">"l'heu marcat com a "</string>
+  <string name="marked_by_user">"L'heu marcat com a "</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Alliberats %s</string>
@@ -1068,7 +1068,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
-  <string name="menu_bl_remove">Desbloqujea</string>
+  <string name="menu_bl_remove">Desbloqueja</string>
   <string name="menu_bl_sms_log">Mostra els SMS bloquejats</string>
   <string name="menu_call">Marcatge</string>
   <string name="menu_charge_bill">Recarrega el saldo</string>
@@ -1112,8 +1112,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
-  <string name="menu_wh_remove">Treure de les excepcions</string>
-  <string name="menu_white">Excepte</string>
+  <string name="menu_wh_remove">Suprimeix de les excepcions</string>
+  <string name="menu_white">Afegeix a excepcions</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
@@ -1576,9 +1576,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="repeated_marked_number_title">"No bloquegis trucades repetides des de números notificats"</string>
   <string name="replace_dns">Substitueix DNS automàticament</string>
   <string name="report">Informa</string>
-  <string name="report_error">"No s'ha pogut notificar el missatge"</string>
-  <string name="report_only">Trieu un missatge per notificar</string>
-  <string name="report_success">Missatge notificat</string>
+  <string name="report_error">"No s'ha pogut informar del missatge"</string>
+  <string name="report_only">Trieu un missatge per informar</string>
+  <string name="report_success">S\'ha informat del missatge</string>
   <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
@@ -1694,8 +1694,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_blacklist">Llista de bloqueig d\'SMS</string>
   <string name="sms_cloud_block">Llista de bloqueig del núvol</string>
   <string name="sms_contact_block">Bloqueja SMS dels contactes</string>
-  <string name="sms_delete_hint">Voleu eliminar tots els missatges bloquejats enviats des d\'aquest número?</string>
-  <string name="sms_delete_title">Elimineu el missatge</string>
+  <string name="sms_delete_hint">Voleu suprimir tots els missatges bloquejats d\'aquest número?</string>
+  <string name="sms_delete_title">Suprimeix els missatges</string>
   <string name="sms_detail_correct_success_text">"A continuació, es mostren les estadístiques d'ús de dades del calibratge anterior (%1$s):"</string>
   <string name="sms_detail_fragment_title_bill">Saldo del telèfon</string>
   <string name="sms_detail_fragment_title_traffic">Dades restants</string>
@@ -1703,7 +1703,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_keywords">Llista de bloqueig de paraules clau</string>
   <string name="sms_malicious_url">Bloqueja SMS amb URL malicioses</string>
   <string name="sms_prefix">Llista de bloqueig de prefixos</string>
-  <string name="sms_service">Bloqueja el servei SMS</string>
+  <string name="sms_service">Bloqueja SMS de servei</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
   <string name="sms_smart_engine_update_now">Actualitza</string>
   <string name="sms_stranger_block">Bloqueja SMS d\'estranys</string>
@@ -1789,7 +1789,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_filter_keywords_setting_summary2">"
-(Utilitzeu una coma per separar múltiples paraules clau)"</string>
+(Utilitzeu una coma per separar diverses paraules clau)"</string>
   <string name="st_filter_keywords_setting_summary3">Es permetrà als missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_group_list_management">Gestiona la llista de bloqueig</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
@@ -1809,7 +1809,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_share_settings">Utilitza la configuració de la SIM 1</string>
   <string name="st_sub_title_customize_mode_name">Nom</string>
   <string name="st_sub_title_whiteblack_list_group">Llista de blocatge</string>
-  <string name="st_sum_call_wait">El missatge d\'absència també es mostrarà com a senyal d\'ocupat per a les trucades entrants.</string>
+  <string name="st_sum_call_wait">El missatge d\'absència també es reproduirà com a senyal ocupat per a les trucades entrants.</string>
   <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges de números específics</string>
   <string name="st_summary_keywords_blacklist">Afegiu paraules clau per bloquejar missatges</string>
@@ -1817,7 +1817,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
   <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números i específics</string>
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
-  <string name="st_title_addblacklist">Establir llista de bloqueig</string>
+  <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
   <string name="st_title_addwhitelist">Afegeix a excepcions</string>
   <string name="st_title_adress">Afegeix ubicacions</string>
   <string name="st_title_adress_num">%d seleccionat(s)</string>
@@ -1917,7 +1917,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
-  <string name="tab_blacklist">Llista negra</string>
+  <string name="tab_blacklist">Llista de bloqueig</string>
   <string name="tab_block_log_unKnowNumber">Número privat</string>
   <string name="tab_call">Trucades</string>
   <string name="tab_gift">Regals</string>
@@ -2097,15 +2097,15 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_lockscreen_glogin_empty_password">Es requereix contrasenya</string>
   <string name="toast_network_eror">"No s'ha pogut connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació pot connectar-se a internet</string>
-  <string name="toast_reject_sms_read_permission_success">S\'ha establert amb èxit</string>
+  <string name="toast_reject_sms_read_permission_success">Configurat amb èxit</string>
   <string name="toast_removed_from_virus_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
   <string name="toast_root_apply_accept">Accés root concedit a %s</string>
   <string name="toast_root_apply_reject">Accés root denegat a %s</string>
   <string name="toast_set_success">Obert amb èxit!</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
   <string name="toast_update_fail">"No s'ha pogut actualitzar"</string>
-  <string name="toast_update_nonetwork">"No és possible connectar-se a la xarxa"</string>
-  <string name="toast_update_notneed">Al dia</string>
+  <string name="toast_update_nonetwork">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="toast_update_notneed">Actualitzat</string>
   <string name="toast_update_success">S\'ha actualitzat amb èxit</string>
   <string name="top_game">Els millors jocs</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
@@ -2200,7 +2200,7 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comproveu la xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
-  <string name="user_define_title">Afegeix criteris</string>
+  <string name="user_define_title">Afegeix regles</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
   <string name="virus_scan_process_pre">%</string>

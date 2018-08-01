@@ -427,7 +427,7 @@
   <string name="priority_high">Alta</string>
   <string name="priority_label">"Prioritat: "</string>
   <string name="priority_low">Baixa</string>
-  <string name="privacy_mode_hint">"No es poden enviar missatges en mode convidat"</string>
+  <string name="privacy_mode_hint">"No podeu enviar missatges en mode convidat"</string>
   <string name="privacy_password_message1">La contrasenya de privacitat funciona per a missatges, fotos, notes i carpetes ocultes.</string>
   <string name="privacy_password_message2">Utilitzeu la contrasenya de privacitat. Funciona per a missatges, fotos, notes i carpetes ocultes.</string>
   <string name="privacy_password_message3">La contrasenya de missatgeria serà reemplaçada per la contrasenya de privacitat que funciona per a missatges, fotos, notes i carpetes ocultes.</string>

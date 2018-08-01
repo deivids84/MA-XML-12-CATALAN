@@ -120,7 +120,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="guide_contact_sub_title_desc">"Els contactes afegits al Segon espai seran privats.
 Els missatges només apareixeran en el Segon espai."</string>
   <string name="guide_contact_suc_sub_title_desc">Només els contactes privats i els missatges es mostraran en el Segon espai</string>
-  <string name="guide_contact_suc_title_desc">S\'ha establert amb èxit</string>
+  <string name="guide_contact_suc_title_desc">Configurat amb èxit</string>
   <string name="guide_contact_title_desc">Mostra els elements privats en el Segon espai?</string>
   <string name="guide_pwd_detail_title">Protegiu les vostres dades. Entreu al Segon espai des de la pantalla de bloqueig</string>
   <string name="guide_setting_guide_title">Gestionar el Segon espai</string>

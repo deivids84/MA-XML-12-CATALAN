@@ -121,7 +121,6 @@
   <string name="deep_clean_completed_tips">S\'ha netejat correctament</string>
   <string name="deep_clean_data_path_clean_title">Neteja l\'emmagatzematge intern</string>
   <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat amb èxit</string>
-  <string name="deepclean_1_k_clean">Neteja amb un botó</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
   <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a eliminar</string>
   <string name="deepclean_apk_version_error">Desconegut</string>
@@ -138,6 +137,7 @@
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniatures</string>
   <string name="deepclean_list_item_from_download">Baixades</string>
   <string name="deepclean_list_item_from_gallery">Galeria</string>
+  <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Targeta SD</string>
   <string name="deepclean_normal_item_desc1">Fitxers brossa</string>
@@ -190,13 +190,16 @@
   <string name="empty_title_photos">No s\'ha trobat cap foto</string>
   <string name="empty_title_residual">No s\'han trobat fitxers residuals</string>
   <string name="empty_title_video">No hi ha vídeos a suprimir</string>
+  <string name="engine_cm">Clean Master</string>
   <string name="engine_init">S\'està inicialitzant...</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Fitxers</string>
   <string name="file_not_found">No s\'ha trobat l\'arxiu</string>
   <string name="flow_rank_title">Ús de dades</string>
   <string name="function_app_lock_title">%d aplicacions contenen riscos de privacitat</string>
   <string name="garbage_clean_detail">Detalls</string>
   <string name="garbage_month">Netejat %s aquest mes</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Continua</string>
   <string name="goto_set">Aplica</string>
   <string name="grabage_rank_title">Netejat avui</string>
@@ -255,7 +258,6 @@
   <string name="hints_storage_free">Disponibles</string>
   <string name="hints_storage_free_size">Total: %1$s, disponible: %2$s</string>
   <string name="hints_storage_news">Novetats de seguretat</string>
-  <string name="hints_title_garbage">brossa</string>
   <string name="hints_video_camera">Vídeos enregistrats</string>
   <string name="hints_video_download">Vídeos baixats</string>
   <string name="hot_today">Popular avui</string>
@@ -267,6 +269,7 @@
   <string name="junk_tag_RF_EmptyFolders">Carpetes buides</string>
   <string name="junk_tag_RF_ImageThumbnails">Miniatures de la Galeria</string>
   <string name="just_now">Ara mateix</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Cap</string>
   <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>
   <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
@@ -286,6 +289,7 @@
   <string name="mainbtn_text_no_trash">Omet</string>
   <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
   <string name="menu_add_to_white_list">Afegeix a excepcions</string>
   <string name="menu_clear">Neteja</string>
@@ -319,6 +323,7 @@
   <string name="optimizecenter_data_support_cm">Desenvolupat per Clean Master</string>
   <string name="optimizecenter_data_support_tc">Desenvolupat per Tencent</string>
   <string name="output_videos">Exporta vídeos</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_search">Cerca de Google</string>
   <string name="positive_confirm">D\'acord</string>
   <string name="pref_category_title_auto_clean_config_settings">Neteges automàtiques</string>
@@ -409,6 +414,7 @@
   <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionats permanentment?</string>
   <string name="summary_delete_video">&gt;Voleu eliminar els vídeos seleccionats de forma permanent?</string>
   <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile's i requereix la identitat del seu dispositiu."</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Pujar noms de carpeta</string>
   <string name="there_is_no">Tot pinta bé, torneu més tard</string>
   <string name="tips_low_storage_dialog_cancel">Cancel·la</string>
@@ -498,6 +504,7 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_msg_time_long">dd-MM-yyyy</string>
   <string name="wechat_msg_time_short">dd-MM</string>
   <string name="wechat_qq_activity_title">Neteja intensiva</string>
   <string name="wechat_qq_celan_tab_file">Fitxers</string>
@@ -507,6 +514,7 @@
   <string name="wechat_qq_chat_files">Historial de xat</string>
   <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
   <string name="wechat_qq_normal_files">Paperera</string>
+  <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>

@@ -75,7 +75,7 @@
   <string name="menu_add_folder">Afegeix a la carpeta</string>
   <string name="menu_add_folder_description">Afegeix carpeta</string>
   <string name="menu_create_folder">Carpeta nova</string>
-  <string name="menu_delete">Elimina</string>
+  <string name="menu_delete">Suprimeix</string>
   <string name="menu_delete_forever">Elimina per sempre</string>
   <string name="menu_folders">Carpetes</string>
   <string name="menu_hide">​​Amaga</string>
@@ -179,14 +179,6 @@
   <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
   <string name="undo">Desfer</string>
   <string name="unknown_source">Font desconeguda</string>
-  <string name="welcome_note_for_cm">"I més característiques!
-  - Sincronitzar amb Mi Cloud
-  - Salvar al sortir
-  - Establir recordatoris
-
-Per obtenir més informació, visiteu
-http://www.miui.com/forum.php?lang=1
-"</string>
   <string name="widget_content_loading">Un moment…</string>
   <string name="widget_havenot_content">No s\'ha trobat nota associada. Toqui per crear una nota associada. Per redimensionar premi i arrossegui a una vora.</string>
 </resources>

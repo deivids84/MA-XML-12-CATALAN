@@ -177,7 +177,6 @@
   <string name="upgrade_vt_prompt">Voleu canviar la trucada a trucada de vídeo?</string>
   <string name="user_locked_prompt">Desbloquegeu el dispositiu per accedir als contactes.</string>
   <string name="video_conference_caller_info_name">"Trucada de videoconferència de %1$s"</string>
-  <string name="video_crbt_title">%s to de trucada de vídeo</string>
   <string name="voicemail">Bústia de veu</string>
   <string name="wait_prompt_str">"Enviar els següents tons?
 "</string>

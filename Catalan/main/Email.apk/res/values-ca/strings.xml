@@ -299,7 +299,7 @@
   <string name="contact_edit_set_black_list_from">Mou tots els emails d\'aquest remitent a les escombraries</string>
   <string name="contact_edit_set_black_list_receive">Moure emails amb aquest destinatari a les escombraries (només nous)</string>
   <string name="contact_edit_set_black_list_receive_summary">Esborrar correus electrònics que incloguin aquest destinatari en els camps Per o Cc</string>
-  <string name="contact_edit_set_black_list_title">Establir llista de bloqueig</string>
+  <string name="contact_edit_set_black_list_title">Afegeix a la llista de bloqueig</string>
   <string name="contact_edit_set_phone_contact">Edita contactes del telèfon</string>
   <string name="contact_edit_title_phone_contact">Llista de contactes del telèfon</string>
   <string name="contact_in_filter_title">Remitent</string>

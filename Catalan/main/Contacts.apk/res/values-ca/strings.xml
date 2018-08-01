@@ -174,7 +174,7 @@
   <string name="cloud_antispam_marked">Marcat</string>
   <string name="cloud_antispam_title">Identificar números desconeguts</string>
   <string name="cloud_recommend_msg">Tocar per sincronitzar contactes amb Mi Cloud.</string>
-  <string name="cloud_state_disabled">Sincronitza contactes amb Mi Cloud</string>
+  <string name="cloud_state_disabled">Sincronitza els contactes amb Mi Cloud</string>
   <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronitzat amb Mi Cloud</string>
@@ -594,7 +594,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_copyContact">Copia als meus contactes</string>
   <string name="menu_create_contact_shortcut">Afegeix a la pantalla d\'inici</string>
   <string name="menu_deleteContact">Suprimeix el contacte</string>
-  <string name="menu_deleteGroup">Elimina</string>
+  <string name="menu_deleteGroup">Suprimeix</string>
   <string name="menu_dial_ip_number">Marca per trucada IP</string>
   <string name="menu_dialpad_text">Teclat</string>
   <string name="menu_discard">Descarta</string>
@@ -691,7 +691,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="more_call_logs">Veure registre detallat de trucades a i.mi.com</string>
   <string name="move_and_resize">Moure i canviar la mida</string>
   <string name="multi_number_menu_call">Trucar</string>
-  <string name="multi_number_menu_delete">Elimina</string>
+  <string name="multi_number_menu_delete">Suprimeix</string>
   <string name="multi_number_menu_group">Nou grup</string>
   <string name="multi_number_menu_message">Missatge</string>
   <string name="multi_number_title">Conferència</string>
