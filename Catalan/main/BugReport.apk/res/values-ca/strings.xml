@@ -208,7 +208,7 @@
   <string name="min_error">%1$s ha de ser més llarg.</string>
   <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Puja</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">La pujada de registres utilitzant la connexió de dades mòbils requerirà %s Mb de dades.</string>
+  <string name="mobile_data_note_dialog_content">"Sembla que esteu connectat a una xarxa de pagament. Si actualitzeu els registres es podrien generar càrrecs addicionals."</string>
   <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
   <string name="modem_tool_log_dumping_desc">Premeu la icona per aturar</string>
   <string name="modem_tool_log_dumping_title">S\'estan capturant els registres del mòdem</string>

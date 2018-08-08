@@ -88,6 +88,7 @@
   <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
   <string name="app_label">Interfície de sistema</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
+  <string name="as_important">Important</string>
   <string name="as_unimportant">No important</string>
   <string name="audio_effect_custom">Configura</string>
   <string name="audio_effect_info">Optimitzar àudio</string>

@@ -470,8 +470,6 @@
   <string name="using_theme_has_update_tips">Hi ha disponible una actualització per a aquest tema.</string>
   <string name="using_theme_next_automatic_update">Actualitzacions automàtiques</string>
   <string name="using_theme_next_automatic_update_summary">Actualitza els temes baixats mitjançant Wi-Fi automàticament quan la pantalla està bloquejada</string>
-  <string name="video_apply_home">Pantalla d\'inici</string>
-  <string name="video_apply_home_lock">Pantalla d\'inici i pantalla de bloqueig</string>
   <string name="video_audio_apply_success">S\'ha configurat correctament el vídeo amb so</string>
   <string name="video_data_tips_message">L\'ús de dades mòbils pot generar despeses addicionals. Vols continuar?</string>
   <string name="video_data_tips_title">Avís d\'ús de dades</string>
@@ -482,7 +480,6 @@
   <string name="wallpaper_detail_load_page_no_network">Connecteu-vos a la xarxa i torneu-ho a provar.</string>
   <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
   <string name="wallpaper_set_as_both">Estableix els dos</string>
-  <string name="wallpaper_set_as_destop">Estableix com a fons de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>
   <string name="wallpaper_settings">Configuració del fons de pantalla</string>
   <string name="wallpaper_settings_loading_text">Un moment…</string>

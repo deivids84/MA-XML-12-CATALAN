@@ -72,12 +72,6 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
   <string name="summary_not_set">No s\'ha configurat</string>
   <string name="system_navigation_mode">Mode de navegació del sistema</string>
   <string name="terms_of_use">Termes i condicions</string>
-  <string name="terms_of_use_label">"La vostra privadesa és cabdal per a nosaltres. Llegiu les condicions del servei i la política de privadesa per entendre quina informació recollim, com la utilitzem i quines opcions podeu utilitzar.
-
-Cal acceptar les nostres condicions del servei i la política de privadesa abans de poder utilitzar MIUI. Serveis Mi, Serveis d\'activació Mi SIM, Mi Cloud, Cerca el dispositiu, Pantalla d\'inici, Centre de jocs, MAB, MIUI Daemon i els components del sistema MSA, aplicacions web, Cofre d\'aplicacions, estadístiques, targetes intel·ligents, Mi Link i components del Compte Mi es connectaran a Internet i adquiriran la vostra ubicació."</string>
-  <string name="terms_of_use_label_gms">"La vostra privadesa és molt important per a nosaltres. Llegiu les nostres condicions de servei i política de privadesa per entendre quina informació recollim, com la utilitzem i quines opcions podeu utilitzar.
-
-Cal acceptar les nostres condicions de servei i política de privadesa abans de poder utilitzar MIUI. Els serveis Mi, serveis d\'activació Mi SIM, dispositius Mi Cloud, Cerca el dispositiu, Pantalla d\'inici, Centre de jocs, MAB, MiuiDaemon i MSA, aplicacions web, targetes ràpides, estadístiques, targetes intel·ligents, Mi Link, Compte Mi i components de serveis de Google Play es connectarà a Internet i adquirirà la vostra ubicació."</string>
   <string name="title_fingerprint">Afegiu l\'empremta</string>
   <string name="user_agreement">Condicions del servei</string>
   <string name="voice_assist_desp">Digueu «Mi AI» al telèfon. Mi AI reconeixerà la vostra veu i podrà controlar el dispositiu.</string>

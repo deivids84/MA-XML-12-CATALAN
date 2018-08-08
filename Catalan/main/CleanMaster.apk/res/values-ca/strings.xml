@@ -121,6 +121,7 @@
   <string name="deep_clean_completed_tips">S\'ha netejat correctament</string>
   <string name="deep_clean_data_path_clean_title">Neteja l\'emmagatzematge intern</string>
   <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat amb èxit</string>
+  <string name="deepclean_1_k_clean">Neteja la memòria</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
   <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a eliminar</string>
   <string name="deepclean_apk_version_error">Desconegut</string>
@@ -260,6 +261,7 @@
   <string name="hints_storage_news">Novetats de seguretat</string>
   <string name="hints_video_camera">Vídeos enregistrats</string>
   <string name="hints_video_download">Vídeos baixats</string>
+  <string name="hot">Popular</string>
   <string name="hot_today">Popular avui</string>
   <string name="information_setting">Configuració del canal d\'informació</string>
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
@@ -515,6 +517,13 @@
   <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
   <string name="wechat_qq_normal_files">Paperera</string>
   <string name="wechat_video_time">%1$s:%2$s</string>
+  <string name="whatsapp_clean_exit_confirm_ok">Atura</string>
+  <string name="whatsapp_clean_exit_confirm_title">Voleu aturar l\'anàlisi?</string>
+  <string name="whatsapp_delete_confirm_cancel">Cancel·la</string>
+  <string name="whatsapp_delete_confirm_message">Suprimeix-ho ara?</string>
+  <string name="whatsapp_delete_confirm_ok">D\'acord</string>
+  <string name="whatsapp_delete_done">Fet</string>
+  <string name="whatsapp_file_show_order">Avui</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>

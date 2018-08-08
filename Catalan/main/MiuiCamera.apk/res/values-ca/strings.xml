@@ -49,8 +49,8 @@
   <string name="accessibility_video_capture_button">Botó de captura de vídeo</string>
   <string name="accessibility_video_pause_button">Botó de pausar vídeo</string>
   <string name="accessibility_zoom_button">Mode zoom</string>
-  <string name="ai_scene_mode_use_hint_text">"La càmera IA detecta escenes automàticament
-i optimitza les fotos segons aquesta informació"</string>
+  <string name="ai_scene_mode_use_hint_text">"La càmera IA detecta composicions automàticament
+i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
   <string name="beauty_fragment_tab_name_beauty">Bellesa</string>
   <string name="beauty_fragment_tab_name_makeup">Avançat</string>

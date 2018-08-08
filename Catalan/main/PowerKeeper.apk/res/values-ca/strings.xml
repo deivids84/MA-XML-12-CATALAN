@@ -18,7 +18,7 @@
   <string name="config_restrict_running_description">Les aplicacions es tancaran per estalviar bateria</string>
   <string name="config_restrict_running_title">Restringeix l\'activitat en segon pla</string>
   <string name="config_restrict_running_warning">Les aplicacions es tancaran en segon pla. Això podria fer que funcionin malament.</string>
-  <string name="config_scenario_policies_title">Escenes</string>
+  <string name="config_scenario_policies_title">Escenaris</string>
   <string name="config_suggest_description">"Identifica les aplicacions i activitats per mantenir els processos importants actius.
 L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
   <string name="config_suggest_suffix_title">Estalvi de bateria (recomanat)</string>
@@ -62,8 +62,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_hide_mode_title">Bateria i rendiment</string>
   <string name="power_mode">Configuració d\'energia</string>
   <string name="power_usage">Ús d\'energia</string>
-  <string name="scenario_policies_summary">Apliqueu diferents estratègies d\'estalvi d\'energia per a diferents escenes.</string>
-  <string name="scenario_policies_title">Escenes intel·ligents</string>
+  <string name="scenario_policies_summary">Aplica diferents estratègies d\'estalvi d\'energia per a diferents escenaris.</string>
+  <string name="scenario_policies_title">Estratègies intel·ligents</string>
   <string name="scenario_policies_warmcontrol">Control de temperatura</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>

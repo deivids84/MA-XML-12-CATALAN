@@ -5,10 +5,6 @@
     <item>Mode de control de temperatura per defecte</item>
     <item>Mode rendiment</item>
   </string-array>
-  <string-array name="thermal_summaries">
-    <item>Mode de control de temperatura actual</item>
-    <item>Mode de rendiment actual</item>
-  </string-array>
   <string-array name="power_mode_entries">
     <item>Rendiment</item>
     <item>Equilibrat</item>

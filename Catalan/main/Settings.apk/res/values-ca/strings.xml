@@ -1892,7 +1892,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="free_xiaomi_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="frequently_fragment_delete">Suprimeix</string>
   <string name="frequently_fragment_tempty">Els elements freqüents es mostraran aquí</string>
-  <string name="fsg_mistake_touch_summary">En algunes escenes, com jocs de i vídeos a pantalla completa, els gestos han de tenir doble toc perquè tinguin efecte</string>
+  <string name="fsg_mistake_touch_summary">En algunes situacions, com en jocs i vídeos a pantalla completa, els gestos han de ser de doble lliscada per funcionar</string>
   <string name="fsg_mistake_touch_title">Doble comprovació per als gestos</string>
   <string name="full_transparent_smarrcover_title">Tapa frontal transparent</string>
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.

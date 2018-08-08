@@ -92,7 +92,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloquejats</string>
   <string name="antispam_notificaiton_type_show_none">Mai</string>
   <string name="antispam_notification_setting_title">Notificacions</string>
-  <string name="antispam_xpace_text">Canvieu al primer espai per establir la llista de bloqueig</string>
+  <string name="antispam_xpace_text">Canvieu al primer espai per establir una llista de bloqueig</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Trieu les definicions</string>
   <string name="antivirus_choose_engine_settings">Configuració de la definició de virus</string>
@@ -702,7 +702,7 @@
   <string name="fingerprint_verify_failed">"No s'ha pogut verificar l'empremta"</string>
   <string name="fingerprint_verify_succeed">S\'ha verificat l\'empremta</string>
   <string name="fingerprint_verify_try_agin">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
-  <string name="firewall_activity_lable">Restringeix l\'ús de dades per l\'aplicació</string>
+  <string name="firewall_activity_lable">Restringeix l\'ús de dades per aplicació</string>
   <string name="firewall_allow_all">Permet que totes les aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_allow_data">Permet l\'ús de dades mòbils</string>
   <string name="firewall_allow_network">Permet</string>
@@ -1193,6 +1193,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="network_speed_for_apps_title">Connexió</string>
   <string name="network_speed_for_apps_total">Velocitat de connexió</string>
   <string name="network_test_speed">Prova de velocitat Wi-Fi</string>
+  <string name="network_traffic_warning_text">"MIUI no pot calcular les estadístiques d'ús de dades per a les aplicacions de sistemes individuals aquí. Podreu veure la informació relacionada amb l'ús de dades als detalls de l'aplicació en cas que aquesta aplicació utilitzi activament les dades mòbils."</string>
   <string name="network_traffic_warning_title">Ús de dades per a les aplicacions del sistema</string>
   <string name="networkchanged_exception_summary">Ha canviat la connexió de xarxa. Si us plau provi una altra vegada.</string>
   <string name="networkchanged_exception_title">Connexió canviada</string>
@@ -1557,7 +1558,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="quite_all_string">Cancel·la</string>
   <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
   <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
-  <string name="read_all_sms">Llegit tot</string>
+  <string name="read_all_sms">Tot llegit</string>
   <string name="receive_now">Rebre</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
   <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
@@ -1577,8 +1578,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="replace_dns">Substitueix DNS automàticament</string>
   <string name="report">Informa</string>
   <string name="report_error">"No s'ha pogut informar del missatge"</string>
-  <string name="report_only">Trieu un missatge per informar</string>
-  <string name="report_success">S\'ha informat del missatge</string>
+  <string name="report_only">Trieu un missatge per notificar</string>
+  <string name="report_success">Missatge notificat</string>
   <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
@@ -1754,9 +1755,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_antispam_des_smart_anti">Filtre</string>
   <string name="st_antispam_des_uesless">Desactivat</string>
   <string name="st_antispam_mode_add_new">Afegeix regles</string>
-  <string name="st_antispam_mode_blacklist">Números blocats</string>
+  <string name="st_antispam_mode_blacklist">Números bloquejats</string>
   <string name="st_antispam_mode_blacklist_sum">"Bloca trucades i SMS dels números que heu afegit manualment a la llista de blocatge"</string>
-  <string name="st_antispam_mode_denyownself_sum">Criteris personalitzats</string>
+  <string name="st_antispam_mode_denyownself_sum">Regles personalitzades</string>
   <string name="st_antispam_mode_only_all_deny">Bloca-ho tot</string>
   <string name="st_antispam_mode_only_all_deny_sum">Bloqueja tots els missatges i trucades</string>
   <string name="st_antispam_mode_only_contacts">Només permet els contactes</string>
@@ -1808,7 +1809,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_settings_name">Configuració de la llista de bloqueig</string>
   <string name="st_share_settings">Utilitza la configuració de la SIM 1</string>
   <string name="st_sub_title_customize_mode_name">Nom</string>
-  <string name="st_sub_title_whiteblack_list_group">Llista de blocatge</string>
+  <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
   <string name="st_sum_call_wait">El missatge d\'absència també es reproduirà com a senyal ocupat per a les trucades entrants.</string>
   <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges de números específics</string>
@@ -1822,7 +1823,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_adress">Afegeix ubicacions</string>
   <string name="st_title_adress_num">%d seleccionat(s)</string>
   <string name="st_title_anticomintcall_backsound_setting">Missatge reproduït als números bloquejats</string>
-  <string name="st_title_antispam_mode">Criteris</string>
+  <string name="st_title_antispam_mode">Regles</string>
   <string name="st_title_back_sound_busy">Ocupat</string>
   <string name="st_title_back_sound_choose">Missatge d\'absència</string>
   <string name="st_title_back_sound_closed">Apagat</string>
@@ -1843,7 +1844,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_man_head_addblacklist">Afegeix un prefix de número de telèfon a la llista de bloqueig</string>
   <string name="st_title_man_head_addwhitelist">Afegeix un prefix de número de telèfon a les excepcions</string>
   <string name="st_title_markednumber_group">Bloqueja els números notificats</string>
-  <string name="st_title_mode_choose_group">Regles de llista de bloqueig</string>
+  <string name="st_title_mode_choose_group">Regles de la llista de bloqueig</string>
   <string name="st_title_not_sim">Buit</string>
   <string name="st_title_open_antispam">Llista de bloqueig</string>
   <string name="st_title_other_group">Altres</string>
@@ -1924,7 +1925,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tab_guide">Guia</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Llista de bloqueig</string>
-  <string name="tc_cmd_invalid">La plantilla és invàlida</string>
+  <string name="tc_cmd_invalid">La plantilla no és vàlida</string>
   <string name="tc_diagnostic_all_error_notification_summary">Premi per informar d\'algun problema</string>
   <string name="tc_diagnostic_all_error_notification_title">"No s'ha pogut fer un diagnòstic complet"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Premi per ajustar el tipus de xarxa</string>

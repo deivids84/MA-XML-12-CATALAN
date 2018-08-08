@@ -375,7 +375,6 @@
   <string name="pref_show_photo_word_summary">Assigna automàticament una imatge als contactes sense</string>
   <string name="pref_show_sms_template_in_summary">Detecta automàticament contrasenya d\'ús únic en missatges SMS</string>
   <string name="pref_show_sms_template_summary">Activa per utilitzar les funcions intel·ligents de Missatge Mi, com ara còpia de codis, consulta de saldo, etc.</string>
-  <string name="pref_smart_messages_settings">Missatges intel·ligents</string>
   <string name="pref_sms_storage_title">Emmagatzematge</string>
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>

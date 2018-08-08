@@ -38,6 +38,8 @@
   <string name="activate_popup_confirm_failed_server">Torna-ho a provar</string>
   <string name="activate_popup_desc_2_intl_sim_cards">S\'enviaran 2 SMS internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
   <string name="activate_popup_desc_2_sim_cards">S\'enviaran 2 SMS normals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"No es pot trobar el vostre número de telèfon. Assegureu-vos que la vostra targeta SIM esta activada. 
+Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a reactivar %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"No s\'ha pogut enviar el missatge d\'activació. Assegureu-vos que la vostra targeta SIM està activada. 
 Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a reactivar %s"</string>
   <string name="activate_popup_desc_error_device_id">Marqueu *#06# per comprovar l\'IMEI</string>
