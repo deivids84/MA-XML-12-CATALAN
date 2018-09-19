@@ -53,7 +53,6 @@
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No es pot retallar"</string>
   <string name="move_failed_retry">"No s'ha pogut retallar, espereu %1$s i torneu-ho a provar"</string>
-  <string name="need_get_accounts_permission">Mi Drive requereix de permisos per accedir al compte per funcionar normalment.</string>
   <string name="never_notify">"No tornis a mostrar-ho"</string>
   <string name="no_app_found_to_open_file">No s\'ha trobat cap aplicació per processar aquesta acció.</string>
   <string name="no_more_space">No hi ha prou espai d\'emmagatzematge.</string>
@@ -100,7 +99,6 @@
   <string name="quota_info">Mi Drive: %1$s disponible, %2$s total</string>
   <string name="rename_alert">"Si canvieu l'extensió d'aquest fitxer, pot ser que no pugueu obrir-lo."</string>
   <string name="rename_failed">Ja existeix un fitxer amb el mateix nom.</string>
-  <string name="request_permission_msg">Permet que Mi Drive accedeixi a la informació del compte perquè funcioni amb normalitat.</string>
   <string name="request_permission_title">Es requereixen permisos</string>
   <string name="sd_full">La targeta SD està plena.</string>
   <string name="sd_invalid">La targeta SD està malmesa.</string>

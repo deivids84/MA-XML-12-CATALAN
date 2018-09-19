@@ -54,7 +54,6 @@
   <string name="btn_split_contact">Separar</string>
   <string name="button_cancel_scan">Aturar</string>
   <string name="button_join_service_number">Voleu afegir el número de servei</string>
-  <string name="button_my_center">Perfil</string>
   <string name="button_scan">Tornar a escanejar</string>
   <string name="caching_vcard_message">Emmagatzematge en memòria cau vCard per telèfon&#8230;</string>
   <string name="caching_vcard_title">Emmagatzemar en memòria cau</string>
@@ -349,7 +348,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_import_progress_begin_message">S\'està important&#8230;</string>
   <string name="device_import_progress_end_message">Importat</string>
   <string name="device_import_progress_message">S\'està important&#8230;</string>
-  <string name="device_import_progress_toast">%1$d contactes importats</string>
   <string name="device_import_title">Importa</string>
   <string name="device_list_title">Triar un telèfon</string>
   <string name="device_other_guide">Si el telèfon no apareix, feu el següent</string>
@@ -379,7 +377,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_useDtmfDialpad">Utilitza el teclat per tons</string>
   <string name="dialog_import">Importa contactes</string>
   <string name="dialog_import_export">Importa/exporta contactes</string>
-  <string name="dialog_new_contact_account">Crea contacte sota un compte</string>
+  <string name="dialog_new_contact_account">Crea contactes sota un compte</string>
   <string name="dialog_new_group_account">Crea un grup sota un compte</string>
   <string name="dialog_phone_call_prohibited_message">Trucada no enviada</string>
   <string name="dialog_sync_add">Afegeix grup de sincronització</string>
@@ -461,7 +459,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="firewall_setting">Llista de bloqueig</string>
   <string name="force_touch_miprofile">Targeta de contacte</string>
   <string name="force_touch_new_contact">Contacte nou</string>
-  <string name="foundTooManyContacts">Més de %d trobats.</string>
   <string name="frequentList">Freqüents</string>
   <string name="full_name">Nom</string>
   <string name="gallery">Galeria</string>
@@ -568,7 +565,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="low_memory_toast">"No es pot continuar utilitzant des que l'emmagatzematge lliure es petit."</string>
   <string name="lunarBirthdayLabelsGroup">Aniversari</string>
   <string name="lunar_leap">Córrer</string>
-  <string name="lunar_yue">Mes</string>
   <string name="make_primary">Recordar aquesta elecció</string>
   <string name="map_custom">Veure adreça de %s</string>
   <string name="map_home">Veure adreça de domicili</string>
@@ -629,7 +625,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_splitAggregate">Separar</string>
   <string name="menu_sync_remove">Eliminar grup de sincronització</string>
   <string name="menu_viewContact">Veure contacte</string>
-  <string name="merge_contact_message">%1$d contactes amb informació parcialment idèntica</string>
   <string name="messageShortcutActivityTitle">Triar numero per missatge</string>
   <string name="miprofile_account_type">Compte Mi</string>
   <string name="miprofile_alertdialog_edit">Introduir nom</string>
@@ -985,8 +980,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_wipe_data">Organitza;Contactes</string>
   <string name="searching_vcard_message">S\'està cercant dades vCard al dispositiu…</string>
   <string name="select_all">Selecciona-ho tot</string>
-  <string name="select_all_exceed">"Seleccioneu no més de %1$d, no podeu seleccionar-ho tot"</string>
-  <string name="select_exceed">Seleccioneu no més de %1$d</string>
   <string name="select_groups">Grups seleccionats</string>
   <string name="select_none">Res seleccionat</string>
   <string name="select_show_contacts">Llista de contactes</string>

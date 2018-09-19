@@ -46,10 +46,6 @@
   <string name="bcc_label">"C/o: "</string>
   <string name="block_messaging_entry_title">SMS bloquejats</string>
   <string name="block_support_text">Amb el suport d\'Antiy.</string>
-  <string name="bookmark">Favorit</string>
-  <string name="bookmark_confirm_delete_message">Voleu desmarcar els missatges seleccionats?</string>
-  <string name="bookmark_empty">No hi ha missatges destacats</string>
-  <string name="bookmark_list_title">Destacats</string>
   <string name="call_sender">Truca al remitent</string>
   <string name="cannot_add_picture_and_video">"No es pot afegir vídeo i foto a una diapositiva."</string>
   <string name="cannot_add_slide_anymore">"No es poden afegir més diapositives."</string>
@@ -83,8 +79,6 @@
   <string name="confirm_export_dialog_description">Ja no s\'amagaran les converses anteriors amb aquest contacte.</string>
   <string name="confirm_export_dialog_title">Treu dels contactes privats</string>
   <string name="confirm_no_block_positive">Desbloqujea</string>
-  <string name="confirm_no_block_title">"Voleu desbloquejar i restaurar tots els missatges enviats d\'aquest número?
-(El número s\'afegirà a les excepcions)."</string>
   <string name="confirm_rate_limit">S\'enviaran un gran nombre de MMS.</string>
   <string name="confirm_restore_all_title">Voleu restaurar tots els missatges enviats des d\'aquest número?</string>
   <string name="confirm_restore_checkbox">Restaura missatges bloquejats</string>
@@ -115,7 +109,6 @@
   <string name="copy_to_sdcard_fail">"No s'ha pogut desar el fitxer adjunt"</string>
   <string name="copy_to_sdcard_success">Fitxer adjunt desat com a %s</string>
   <string name="delete">Elimina</string>
-  <string name="delete_bookmark">Treu dels destacats</string>
   <string name="delete_message">Elimina</string>
   <string name="delete_phrase">Elimina la resposta</string>
   <string name="delete_unlocked">Elimina els missatges bloquejats</string>
@@ -149,12 +142,10 @@
   <string name="edit_slide_activity">Edita la diapositiva</string>
   <string name="edit_slideshow_activity">Edita la presentació</string>
   <string name="enabled">Activat</string>
-  <string name="english_subject_limit">límit de 40 caràcters</string>
   <string name="enter_edit_mode">Edita els missatges</string>
   <string name="error_code_label">"Codi d'error: "</string>
   <string name="error_state">Estat inconsistent</string>
   <string name="error_state_text">L\'estat de fils i destinataris és inconsistent. Captureu un informe d\'errors i envieu-lo via http://go/droidanizer</string>
-  <string name="error_timed_msg">Hora no vàlida.</string>
   <string name="ex_type_mx">Missatge Mi</string>
   <string name="exceed_message_size_limitation">Mida màxima de missatge assolit.</string>
   <string name="exceed_message_size_limitation_add_slide">La mida del missatge no és suficient per afegir una diapositiva</string>
@@ -169,7 +160,6 @@
   <string name="fake_cell_checking_hint">S\'està comprovat la seguretat&#8230;</string>
   <string name="fake_cell_safe_hint">Aquest missatge és segur</string>
   <string name="fake_cell_timeout_hint">"No s'ha pogut comprovar la seguretat"</string>
-  <string name="favorite_at_time">Destacat a les: %1s</string>
   <string name="fdn_check_failure">Només podeu enviar missatges als números de marcatge fix.</string>
   <string name="festival_sms_loading">S\'està carregant&#8230;</string>
   <string name="file_create_time">Creat:</string>
@@ -207,7 +197,6 @@
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
   <string name="hybrid_try_again">Torna-ho a provar</string>
-  <string name="i_know">D\'acord</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
   <string name="in_sms">Missatge</string>
   <string name="insufficient_drm_rights">Drets DRM insuficients.</string>
@@ -229,7 +218,6 @@
   <string name="menu_delete_messages">Elimina els missatges</string>
   <string name="menu_edit">Edita</string>
   <string name="menu_forward">Reenvia\'l</string>
-  <string name="menu_lock">Favorit</string>
   <string name="menu_mark">Marca</string>
   <string name="menu_more">Més</string>
   <string name="menu_new_contact">Contacte nou</string>
@@ -237,7 +225,6 @@
   <string name="menu_pick_from_contact">Seleccioneu dels contactes</string>
   <string name="menu_preferences">Configuració</string>
   <string name="menu_send_as_common">Envia com SMS</string>
-  <string name="menu_unlock">Elimina dels favorits</string>
   <string name="menu_view_contact">Mostra el contacte</string>
   <string name="message_class_label">"Classe de missatge: "</string>
   <string name="message_contact">Contacte:</string>
@@ -273,7 +260,6 @@
   <string name="msglist_release_to_more">Deixeu anar per veure\'n més</string>
   <string name="multimedia_message">Missatge multimèdia</string>
   <string name="multimedia_notification">Notificació de missatge multimèdia</string>
-  <string name="mx_activate_allow_notice">La vostra operadora podria cobrar-li càrrecs addicionals en enviar un SMS per tal d\'activar els serveis de veu i text de franc.</string>
   <string name="mx_activate_dlg_title">Activació de Missatge Mi</string>
   <string name="mx_activate_dlg_title_ex">Activació de Massatges i Veu Mi</string>
   <string name="mx_activate_error_malformed_info">Heu de reactivar Missatge Mi.</string>
@@ -286,7 +272,6 @@
   <string name="mx_activate_int_hint_malformed_info">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatge Mi.</string>
   <string name="mx_activate_int_hint_server">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatge Mi.</string>
   <string name="mx_activate_int_hint_sim_change">"Sembla que heu canviat les targetes SIM. El vostre operador pot cobrar per missatge de reactivació de Missatge Mi."</string>
-  <string name="mx_activate_network_allow_notice">Aquest servei farà servir la xarxa.</string>
   <string name="mx_activate_status_desc_activating_now">S\'està activant&#8230;</string>
   <string name="mx_activate_status_desc_check_net_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="mx_activate_status_desc_fail">"No s'ha pogut activar Missatge Mi"</string>
@@ -304,7 +289,6 @@
   <string name="mx_current_status">Configuració</string>
   <string name="mx_dspt">"Envieu SMS i MMS a altres dispositius MIUI sense incórrer en despeses quan s'està connectat a la Wi-Fi."</string>
   <string name="mx_dspt_listview">Envieu missatges a altres dispositius MIUI sense incórrer en despeses</string>
-  <string name="mx_dspt_provision">Missatge Mi permet enviar i rebre SMS amb qualsevol usuari de MIUI sense incórrer en càrrecs d\'SMS. El vostre operador podria cobrar-li pel SMS usat per activar aquest servei.</string>
   <string name="mx_dspt_provision_ex2">Política de privadesa</string>
   <string name="mx_enable">Missatge Mi</string>
   <string name="mx_enable_ex">Missatge i Veu Mi</string>
@@ -322,7 +306,6 @@
   <string name="mx_reactivate">Reactiva Missatge Mi</string>
   <string name="mx_recommend_msg">Toqueu per activar Missatge Mi.</string>
   <string name="mx_stranger_recommend_msg">Toqueu per bloquejar Missatges Mi de números desconeguts</string>
-  <string name="mx_type_guide">Missatge Mi li permet enviar missatges a altres usuaris de MIUI de franc</string>
   <string name="need_download">S\'està sincronitzant…</string>
   <string name="networking_allow_continue">Permet</string>
   <string name="networking_allow_desc">El Mi Message necessita connectar-se a Internet per funcionar amb normalitat. Per proporcionar serveis de veu i de text gratuïts, reconèixer números desconeguts, filtrar correu no desitjat i habilitar altres funcions, el Mi Message ha d\'utilitzar les pàgines grogues. Voleu permetre que les pàgines grogues es connectin a Internet, obtinguin la vostra informació d\'ubicació i llegeixin els vostres contactes?</string>
@@ -338,7 +321,6 @@
   <string name="no_delivery_report">No hi ha cap informe de lliurament</string>
   <string name="no_subject">(Sense assumpte)</string>
   <string name="no_subject_view">(Sense assumpte)</string>
-  <string name="non_english_subject_limit">límit de 13 caràcters</string>
   <string name="nosend_message">"No l'envieu"</string>
   <string name="notification_failed_multiple">"%s missatges no poden ser enviats"</string>
   <string name="notification_failed_multiple_title">Missatge no enviat</string>
@@ -364,7 +346,6 @@
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
   <string name="pref_forward_title">Reenviament</string>
-  <string name="pref_hide_verification_code_summary">Oculta automàticament les contrasenyes úniques en les notificacions de missatges a la pantalla de bloqueig protegida</string>
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Missatges eliminats</string>
@@ -387,7 +368,6 @@
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Baixa automàticament fotos i vídeos dels missatges en itinerància</string>
-  <string name="pref_summary_notification_body_enabled">Mostra missatges a la pantalla de bloqueig i en l\'àrea de notificacions</string>
   <string name="pref_summary_off_system_mms_priority">Utilitza una aplicació de tercers per a enviar i rebre MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Estableix l'aplicació de missatgeria de MIUI com l'aplicació per defecte per enviar i rebre MMS"</string>
   <string name="pref_summary_send_delivery_reports">Envia missatge de confirmació de lliurament al remitent quan rebi un missatge multimèdia</string>
@@ -409,7 +389,6 @@
   <string name="pref_title_mms_retrieval_during_national_roaming">Baixa el contingut dels MMS en itinerància nacional</string>
   <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut dels MMS en itinerància</string>
   <string name="pref_title_mms_validity_period">Caducitat de l\'MMS</string>
-  <string name="pref_title_notification_body_enabled">Mostra missatges a la pantalla de bloqueig</string>
   <string name="pref_title_ringtone_repeat">So de notificació</string>
   <string name="pref_title_ringtone_repeat_summary">Reprodueix un so d\'avís en rebre un missatge mentre la pantalla està apagada</string>
   <string name="pref_title_send_delivery_reports">Envia missatges de lliurament</string>
@@ -438,7 +417,6 @@
   <string name="private_message">Missatges privats</string>
   <string name="private_new_notification">Notificacions de missatges</string>
   <string name="private_protect">Contrasenyes</string>
-  <string name="private_settings">Configuració de missatges privats </string>
   <string name="processing">S\'està treballant&#8230;</string>
   <string name="prvate_contact">Contactes privats</string>
   <string name="quick_reply">Respon</string>

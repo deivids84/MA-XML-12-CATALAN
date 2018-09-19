@@ -3,7 +3,9 @@
 <resources>
   <string name="Only_the_wifi">Només utilitza Wi-Fi</string>
   <string name="about">Quant a</string>
+  <string name="action_back">Enrere</string>
   <string name="action_settings">Configuració</string>
+  <string name="ad_download">Instal·la</string>
   <string name="ad_mark">ANUNCI</string>
   <string name="ad_title">La gent també va baixar aquests amb %1$s</string>
   <string name="add_flow_fail_haveget_msg">El període de prova ha acabat.</string>
@@ -23,11 +25,13 @@
   <string name="bt_restart_dialog_message">Voleu reiniciar totes les baixades de la carpeta BT?</string>
   <string name="bt_restart_dialog_title">Reinicia totes les baixades</string>
   <string name="bt_xunlei_open_info">Utilitza motor Xunlei per obrir aquests enllaços?</string>
+  <string name="btn_change">Canvia</string>
   <string name="button_sort_by_date">Ordena per data</string>
   <string name="button_sort_by_size">Ordena per mida</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_running_download">Cancel·la</string>
   <string name="cancle">Cancel·la</string>
+  <string name="choose_open_picture">Tria una opció</string>
   <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
   <string name="clear_data">Esborra</string>
   <string name="complete_time">Completat:</string>
@@ -53,6 +57,7 @@
   <string name="dialog_confirm_delete_checkbox_message">Elimina també els fitxers locals</string>
   <string name="dialog_confirm_delete_downloads_message">Voleu eliminar %d tasques?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Elimina aquestes tasques</string>
+  <string name="dialog_content_limit_max">Il·limitat</string>
   <string name="dialog_failed_body">Voleu tornar a intentar baixar el fitxer més endavant o eliminar-lo de la cua?</string>
   <string name="dialog_file_already_exists">"No es pot baixar. El fitxer de destí ja existeix."</string>
   <string name="dialog_file_missing_body">"No es troba el fitxer baixat."</string>
@@ -63,6 +68,8 @@
   <string name="dialog_msg_disabled_net">%1$s baixades restringides a la xarxa actual. Toqueu la Configuració de xarxa per anar a l\'aplicació de seguretat.</string>
   <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades després de desactivar-les. Podeu escollir «Carrega només el contingut mitjançant Wi-Fi» per estalviar dades mòbils."</string>
   <string name="dialog_queued_body">Aquest fitxer es posa en cua per baixar-lo més tard.</string>
+  <string name="dialog_speed_cancel">Cancel·la</string>
+  <string name="dialog_speed_ok">Continua</string>
   <string name="dialog_title_disabled_net">Accés a Internet</string>
   <string name="dialog_title_not_available">"Baixada fallida"</string>
   <string name="dialog_title_queued_body">El fitxer encara no està disponible</string>
@@ -144,6 +151,8 @@
   <string name="file_exist_hint">Aquest fitxer ja existeix</string>
   <string name="file_picker">Escull una ubicació</string>
   <string name="file_size">Mida:</string>
+  <string name="force_touch_newdownload">Nova baixada</string>
+  <string name="force_touch_rank">Classificacions</string>
   <string name="free_high_speed_channel">Accelerador Xunlei (gratuït)</string>
   <string name="free_speedup_exp">Proveu de franc l\'accelerador de baixades Xunlei</string>
   <string name="get_account_dialog_msg">Obtenir informació del compte&#8230;</string>
@@ -177,8 +186,10 @@
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausa-ho tot</string>
   <string name="menu_all_task_start">Inicia-ho tot</string>
+  <string name="menu_des_more">Més</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Configuració de les baixades</string>
+  <string name="menu_title_fileexplore">Gestor d\'arxius</string>
   <string name="menu_title_pause_all">Pausa-ho tot</string>
   <string name="menu_title_resume_all">Inicia-ho tot</string>
   <string name="menu_title_settings">Configuració</string>
@@ -200,6 +211,7 @@
   <string name="no_vip_show_info">"Accelera les baixades
 en tots els dispositius a través de Xunlei"</string>
   <string name="notify_disabled_net_by_app">Accés restringit a Internet</string>
+  <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
   <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
   <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
   <string name="one_month">1 mes</string>

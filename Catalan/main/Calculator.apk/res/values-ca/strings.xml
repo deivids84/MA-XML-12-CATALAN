@@ -217,6 +217,7 @@
   <string name="tab_title_convert">Convertidor</string>
   <string name="tab_title_tax_mortgage">Hipoteca</string>
   <string name="tab_title_tax_mortgage_global">Hipoteca</string>
+  <string name="tanDesc">tangent</string>
   <string name="tax_accumulation_fund">Fons d\'acumulació</string>
   <string name="tax_annual_bonus_hint">Introduïu la bonificació abans d\'impostos</string>
   <string name="tax_annual_bonus_number">Bonificació (CNY)</string>
@@ -305,6 +306,7 @@
   <string name="unit_data_display_currency_bhd">Dinar de Bahrain</string>
   <string name="unit_data_display_currency_bnd">Dòlar de Brunei</string>
   <string name="unit_data_display_currency_brl">Reial brasiler</string>
+  <string name="unit_data_display_currency_byn">Ruble bielorús</string>
   <string name="unit_data_display_currency_cad">Dòlar canadenc</string>
   <string name="unit_data_display_currency_chf">Franc suís</string>
   <string name="unit_data_display_currency_clp">Peso xilè</string>
@@ -343,7 +345,6 @@
   <string name="unit_data_display_currency_nok">Corona noruegua</string>
   <string name="unit_data_display_currency_nzd">Dòlar neozelandès</string>
   <string name="unit_data_display_currency_omr">Rial omanità</string>
-  <string name="unit_data_display_currency_php">Peso filipí</string>
   <string name="unit_data_display_currency_pln">Złoty polonès</string>
   <string name="unit_data_display_currency_qar">Riyal qatarianà</string>
   <string name="unit_data_display_currency_ron">Leu romanès</string>

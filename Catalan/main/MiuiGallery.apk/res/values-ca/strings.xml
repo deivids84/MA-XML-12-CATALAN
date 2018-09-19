@@ -263,7 +263,6 @@
   <string name="cleaner_screen_shot_action">Neteja</string>
   <string name="cleaner_screen_shot_description">Suprimeix les captures de pantalla que ja no necessiteu.</string>
   <string name="cleaner_screen_shot_title">Suprimeix captures de pantalla</string>
-  <string name="cleaner_slim_action">S\'està iniciant l\'optimització…</string>
   <string name="cleaner_slim_description">Mantingueu fotos optimitzades al dispositiu. Els fitxers originals s\'emmagatzemaran al Mi Cloud.</string>
   <string name="cleaner_slim_start">Optimitza</string>
   <string name="cleaner_slim_title">Optimitza les fotos</string>

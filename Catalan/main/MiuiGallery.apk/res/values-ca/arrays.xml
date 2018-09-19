@@ -5,20 +5,6 @@
     <item>Noi</item>
     <item>Noia</item>
   </string-array>
-  <string-array name="collage_month">
-    <item>gen.</item>
-    <item>febr.</item>
-    <item>març</item>
-    <item>abr.</item>
-    <item>maig</item>
-    <item>juny</item>
-    <item>jul.</item>
-    <item>ag.</item>
-    <item>set.</item>
-    <item>oct.</item>
-    <item>nov.</item>
-    <item>des.</item>
-  </string-array>
   <string-array name="owner_relation">
     <item>Pare</item>
     <item>Mare</item>

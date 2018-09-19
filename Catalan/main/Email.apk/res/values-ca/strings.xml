@@ -4,8 +4,6 @@
   <string name="SMTP_independent_verification_text">Verificació independent SMTP</string>
   <string name="SMTP_password_text">Contrasenya</string>
   <string name="SMTP_username_text">Nom d\'usuari</string>
-  <string name="accessibility_guide_first">A la següent pantalla, seleccioneu «Serveis» per activar la configuració automàtica de la bustia 139</string>
-  <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_failure">Temps de sessió esgotat</string>
@@ -216,10 +214,7 @@
   <string name="auto_advance_summary">Trieu quin missatge es mostrarà després d\'eliminar un missatge</string>
   <string name="auto_login_fail">"No s'ha pogut iniciar la sessió automàticament"</string>
   <string name="auto_login_fail_to_retry">"No s'ha pogut iniciar la sessió automàticament, torneu-ho a provar."</string>
-  <string name="auto_mail_describe">El servei de correu electrònic de configuració automàtica li pot ajudar a emplenar la informació d\'inici de sessió a la bustia de correu 139. Voleu activar aquesta funció?</string>
-  <string name="auto_mail_disable_txt">Desactivat</string>
   <string name="auto_mail_enable_txt">Configuració inicial</string>
-  <string name="auto_mail_go_email">Bústia de correu</string>
   <string name="auto_mail_title_note">Trobeu la opció «Configuració automàtica de la bustia 139», feu clic per iniciar.</string>
   <string name="auto_mail_window_description">Configuració automàtica del servei de correu 139</string>
   <string name="auto_mail_window_label">Configuració automàtica de la bústia 139</string>
@@ -270,7 +265,6 @@
   <string name="clear_display_images_whitelist_title">Esborra les aprovacions d\'imatge</string>
   <string name="click_download_all_content">[ Toqueu per baixar el contingut ]</string>
   <string name="click_to_reload">Toqueu la pantalla per tornar a carregar</string>
-  <string name="close">Atura</string>
   <string name="collapse_recipient_details">Col·lapsar detalls del destinatari</string>
   <string name="compose">Redactar</string>
   <string name="compose_attachment_number_limit">"No es poden afegir més de 10 adjunts"</string>
@@ -407,7 +401,6 @@
   <string name="due_date_text">Amortització final</string>
   <string name="edit_quick_response_dialog">Resposta ràpida</string>
   <string name="edit_signature">Edita la signatura</string>
-  <string name="email_address">Adreça de correu</string>
   <string name="email_setting">Correu</string>
   <string name="email_setting_keywords">Compte;Afegeix un compte;comptes de correu;afegeix un compte de correu;confirma abans d\'eliminar;confirmació de supressió;confirma abans d\'enviar;confirmació d\'enviament;flux de supressió de missatge;redirecció de supressió;visualització de conversa;conversa de correu;estalviador de bateria;bateria de correu;envia comentaris;puja registres</string>
   <string name="eml_parse_message">S\'està obrint el fitxer EML…</string>
@@ -449,7 +442,6 @@
   <string name="file_save_term">Termes d\'emmagatzematge de fitxers</string>
   <string name="filtered_tag">"[%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
-  <string name="float_window_content">Detecta que s\'està utilitzant la bústia, feu clic a Confirma per a que s\'ompli automàticament l\'acompte de correu 139 i la contrasenya.</string>
   <string name="float_window_info">"En configurar la bústia de correu 139, no utilitzeu el telèfon, podríeu tenir fallides a la configuració."</string>
   <string name="float_window_title">S\'està configurant&#8230;&#8230;&#8230;</string>
   <string name="folder_drafts_name_cn0">Esborrany</string>
@@ -519,7 +511,6 @@
   <string name="header_category_other">Altres</string>
   <string name="header_label_general_preferences">Configuració general</string>
   <string name="help_and_info">Ajuda</string>
-  <string name="help_config">Configuració automàtica</string>
   <string name="hide_elided">▼ Amaga el text citat</string>
   <string name="hide_password">Oculta la contrasenya</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
@@ -680,10 +671,8 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="no_matched_attachment">Res coincideix amb la seva recerca</string>
   <string name="no_recognize_describe">"No s\'han pogut trobar correus electrònics que continguin entrades o reserves. 
 Proveu una safata d\'entrada diferent."</string>
-  <string name="no_remind">No ho recordis</string>
   <string name="not_subject">(Sense assumpte)</string>
   <string name="not_synced_title">Compte no sincronitzat</string>
-  <string name="note_text">Possible a través de la xarxa de China Mobile o verificació d\'SMS, pot generar costos addicionals per al flux o SMS.</string>
   <string name="note_title">Configuració automàtica del correu 139</string>
   <string name="notification_action_archive">Fitxer</string>
   <string name="notification_action_delete">Elimina</string>
@@ -738,7 +727,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="over_due">Vençudes</string>
   <string name="overlays_fail_tip">La seva bústia no té una configuració correcta, obriu els permisos flotants de Windows i torneu-ho a provar</string>
   <string name="overlays_ok">Obre els permisos</string>
-  <string name="overlays_tip">Obriu els permisos flotants de Windows i gaudiu immediatament de la bustia 139 per configurar automàticament la experiència extrema.</string>
   <string name="overlays_title">Obre els permisos de Windows flotants</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
   <string name="parse_bill_discribe">S\'estan processant les factures de la targeta de crèdit&#8230;</string>
@@ -830,9 +818,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
-  <string name="qq_authorization_help_get">Ajuda\'m a aconseguir-ho</string>
-  <string name="qq_authorization_know">Compreneu el codi d\'autorització</string>
-  <string name="qq_authorization_tips">Ja no cal</string>
   <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit. Torneu a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
   <string name="qq_auto_login_failed_dialog_message">Copieu el codi de verificació, toqueu «Introdueix el nom d\'usuari i la contrasenya per iniciar la sessió» a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi</string>
@@ -846,7 +831,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_login_webview">S\'està iniciant sessió al client web de QQ, toqueu inicia sessió amb contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
-  <string name="qq_verify_code">(Cal el codi de verificació QQ)</string>
   <string name="qq_webview_loading">Un moment…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Voleu eliminar el compte?</string>
@@ -947,7 +931,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="saved">Desat, %s</string>
   <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
-  <string name="search_bar_text">Cerca missatges i contactes</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
   <string name="search_tabs_name_all">Tot</string>
@@ -1085,7 +1068,6 @@ Voleu aturar-ho?"</string>
   <string name="unzip_file_failed">"No s'ha pogut descomprimir el fitxer"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
   <string name="updated_at">Última actualització %1$s</string>
-  <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
   <string name="upload_log_no">Cancel·la</string>
   <string name="upload_log_success">"Els registres s'han pujat correctament"</string>

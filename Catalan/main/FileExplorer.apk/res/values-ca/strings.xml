@@ -120,10 +120,8 @@
   <string name="count_down">Compte enrere: %1$s</string>
   <string name="create_shortcut_success">S\'ha afegit una drecera</string>
   <string name="daily_clockin">Comprova</string>
-  <string name="data_consumption_cancel">Surt</string>
   <string name="data_consumption_checkbox_hint">"No mostrar de nou"</string>
   <string name="data_consumption_confirm">D\'acord</string>
-  <string name="data_consumption_message">Aquesta aplicació necessita connectar-se a internet per Wi-Fi per funcionar amb normalitat.</string>
   <string name="data_consumption_message1">L\'Explorador Mi necessita connectar-se a Internet per fer que els vídeos i adhesius populars estiguin disponibles.</string>
   <string name="data_consumption_title">Connexió a internet</string>
   <string name="decompress_cancel">Cancel·la</string>

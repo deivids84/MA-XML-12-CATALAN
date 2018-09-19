@@ -14,7 +14,13 @@
   <string name="accessibility_airplane_mode">Mode avió.</string>
   <string name="accessibility_ambient_display_charging">S\'està carregant</string>
   <string name="accessibility_back">Enrere</string>
+  <string name="accessibility_battery_details">Obre la informació detallada de la bateria</string>
+  <string name="accessibility_battery_full">Bateria carregada.</string>
   <string name="accessibility_battery_level">Percentatge de bateria %d.</string>
+  <string name="accessibility_battery_level_charging">S\'està carregant la bateria, %d per cent.</string>
+  <string name="accessibility_battery_one_bar">Una ratlla de bateria.</string>
+  <string name="accessibility_battery_three_bars">Tres ratlles de bateria.</string>
+  <string name="accessibility_battery_two_bars">Dues ratlles de bateria.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connectat.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth desconnectat.</string>
   <string name="accessibility_bluetooth_tether">Connexió compartida per Bluetooth.</string>
@@ -22,6 +28,7 @@
   <string name="accessibility_camera_button">Càmera</string>
   <string name="accessibility_clear_all">Esborra totes les notificacions.</string>
   <string name="accessibility_data_one_bar">Dades 1 barra.</string>
+  <string name="accessibility_data_saver_off">L\'estalvi de dades està inactiu</string>
   <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
@@ -409,6 +416,12 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_charging_info_last_charged_time_text">Última càrrega</string>
   <string name="keyguard_charging_info_tip_text5">Les bateries triguen més en carregar-se quan s\'escalfen més de l\'habitual.</string>
   <string name="keyguard_indication_charging_time">S\'està carregant (%s fins el màxim)</string>
+  <string name="keyguard_indication_charging_time_slowly">Càrrega lenta (%s fins el màxim)</string>
+  <string name="keyguard_low_battery">Connecteu el vostre carregador.</string>
+  <string name="keyguard_plugged_in">S\'està carregant</string>
+  <string name="keyguard_plugged_in_charging_fast">Càrrega ràpida</string>
+  <string name="keyguard_plugged_in_charging_slowly">Càrrega lenta</string>
+  <string name="keyguard_unlock">Llisqueu amunt per desblocar</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
@@ -420,6 +433,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
   <string name="local_backup_password_toast_validation_failure">"S'ha produit un error en definir la contrasenya de la còpia de seguretat"</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
+  <string name="lockscreen_charging_msg">S\'està carregant</string>
   <string name="long_screenshot_not_support_msg">"L'aplicació actual no és compatible amb les captures de pantalla llargues"</string>
   <string name="long_screenshot_out_of_memory_error">No s\'ha pogut perquè la imatge es massa gran</string>
   <string name="long_screenshot_processing">S\'està processant…</string>
@@ -443,6 +457,11 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="media_projection_dialog_text">"%s començarà a capturar tot el que es visualitzi a la pantalla."</string>
   <string name="media_projection_remember_text">"No mostrar de nou"</string>
   <string name="megabyte_per_second">MB/s</string>
+  <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
+  <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
+  <string name="miui_toast_zen_to_standard">S\'ha silenciat l\'avís de trucades i notificacions</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Es silenciarà l\'avís de trucades, així com les notificacions i els multimèdia.</string>
   <string name="mobile_data_always_on">Dades mòbils sempre actives</string>
   <string name="mobile_data_always_on_summary">Mantén les dades mòbils sempre actives, fins i tot quan la Wi‑Fi està activada (per canviar de xarxa ràpidament).</string>
   <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
@@ -482,6 +501,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="no_notification_tips">Sense notificacions.</string>
   <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
+  <string name="notification_channel_battery">Bateria</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">S\'ha amagat la notificació</string>
   <string name="notification_low_battery_action_btn">Activa</string>
@@ -511,7 +531,11 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="oldman_airplane_mode_text">Avió</string>
   <string name="oldman_incall_text">Torna a la trucada</string>
+  <string name="open_camera_hint_text">Llisqueu a l\'esquerra per obrir la càmera</string>
+  <string name="open_extreme_power_save_mode_title">Activa l\'estalvi extrem de bateria</string>
+  <string name="open_remote_center_hint_text">Llisqueu a la dreta per obrir les dreceres</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
+  <string name="phone_hint">Llisqueu des de la icona per fer trucades</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
@@ -538,6 +562,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="prompt_detecting">S\'està detectant</string>
   <string name="prompt_safe">Segur</string>
   <string name="prompt_unknown">Desconegut</string>
+  <string name="quick_settings_batterysaver_label">Estalvi de bateria</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
@@ -557,7 +582,9 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil personal connectat a %1$s</string>
   <string name="quick_settings_disclosure_vpns">Dispositiu connectat a una VPN</string>
   <string name="quick_settings_done">Fet</string>
+  <string name="quick_settings_extreme_batterysaver_label">Estalvi extrem de bateria</string>
   <string name="quick_settings_more_settings">Més opcions</string>
+  <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
@@ -589,9 +616,11 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="retail_demo_reset_next">Següent</string>
   <string name="retail_demo_reset_title">Es requereix la contrasenya</string>
   <string name="return_to_incall_screen">Torna a la trucada</string>
+  <string name="running_foreground_services_msg">Premeu pels detalls del consum de bateria i de dades</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
   <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
   <string name="runningservices_settings_title">Tasques en execució</string>
+  <string name="save">Desa</string>
   <string name="save_mode_btn_ok">D\'acord</string>
   <string name="saved_network">Guardat per %1$s</string>
   <string name="screen_button_notification_text">Per engegar-los, premeu el botó de Engegada i el de Inici alhora.</string>
@@ -613,6 +642,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="screenshot_dlg_cancel">Cancel·la</string>
   <string name="screenshot_dlg_delete_button">Elimina</string>
   <string name="screenshot_edit">Edita</string>
+  <string name="screenshot_failed_to_save_text">"No es pot desar la captura de pantalla perquè no hi ha prou espai d'emmagatzematge."</string>
+  <string name="screenshot_failed_to_save_unknown_text">S\'ha produït un error mentre es desava la captura de pantalla.</string>
   <string name="screenshot_feedback_txt">Comentaris</string>
   <string name="screenshot_insert_failed">"No s'ha pogut carregar la captura de pantalla. Feu-ne un de nova o vegeu la imatge a la Galeria."</string>
   <string name="screenshot_long_screenshot">Desplaça</string>
@@ -640,6 +671,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="share">Compartir</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
+  <string name="show_battery_percentage">Mostra el percentatge de bateria a l\'interior</string>
+  <string name="show_battery_percentage_summary">Mostra el percentatge de bateria dins de la icona a la barra d\'estat quan no s\'estigui carregant</string>
   <string name="show_demo_mode">Mostra el mode de demostració</string>
   <string name="show_hw_layers_updates">Mostra actualitzacions capes</string>
   <string name="show_hw_layers_updates_summary">Quan s\'actualitza il·lumina les capes de maquinari en verd</string>
@@ -653,6 +686,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
+  <string name="start_dreams">Protector de pantalla</string>
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"EEEE
@@ -735,6 +769,9 @@ d MMMM"</string>
   <string name="unimportant_desc">Totes les notificacions no importants apareixeran en una carpeta separada.</string>
   <string name="unimportant_title">No important</string>
   <string name="unknown">Desconeguda</string>
+  <string name="unlockscreen_low_battery">Connecteu ja el carregador</string>
+  <string name="unlockscreen_recharge_completed">Bateria carregada</string>
+  <string name="unlockscreen_recharging_message">S\'està carregant %d%%</string>
   <string name="usb_accessory_confirm_prompt">Obrir %1$s quan es connecti aquest dispositiu USB?</string>
   <string name="usb_accessory_permission_prompt">Permetre accés a l\'aplicacio %1$s a aquest dispositiu USB?</string>
   <string name="usb_accessory_uri_prompt">Cap aplicació instal·lada funciona amb aquest dispositiu USB. Aprendre més sobre aquest dispositiu a %1$s</string>
@@ -746,7 +783,6 @@ d MMMM"</string>
   <string name="usb_debugging_title">Permetre depuració USB?</string>
   <string name="usb_device_confirm_prompt">Obrir %1$s al connectar aquest dispositiu USB?</string>
   <string name="usb_device_permission_prompt">Permet a l\'aplicació %1$s accés al dispositiu USB?</string>
-  <string name="usb_function_charging_text">Connectat en mode de càrrega</string>
   <string name="usb_mode_dont_ask">No tornar a preguntar</string>
   <string name="usb_mode_mount_storage_title">Obrir emmagatzematge USB?</string>
   <string name="usb_mode_notification">Emmagatzematge USB</string>
@@ -775,6 +811,8 @@ d MMMM"</string>
   <string name="user_guide_for_toggle_list">Organitza commutadors</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
+  <string name="voice_hint">Llisqueu des de la icona per l\'assistent oral</string>
+  <string name="volume_dialog_accessibility_shown_message">Es mostren %s controls de volum. Llisqueu amunt per amagar-los.</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
   <string name="vpn_text">Toqui per veure els ajustaments.</string>
   <string name="vpn_text_long">Connectat a %s. Toqueu per veure els detalls.</string>
@@ -804,5 +842,9 @@ d MMMM"</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
+  <string name="wireless_charge_current">S\'està carregant</string>
+  <string name="wireless_charge_dialog_title">Situeu el vostre dispositiu al centre de la base de càrrega</string>
+  <string name="wireless_charge_reset_device">La càrrega és lenta. Reviseu la posició del vostre dispositiu.</string>
+  <string name="wireless_charge_reset_device_detail">Comproveu que la posició del vostre dispositiu a la base de càrrega és correcta</string>
   <string name="wireless_charge_stop">S\'ha aturat la càrrega sense fils</string>
 </resources>

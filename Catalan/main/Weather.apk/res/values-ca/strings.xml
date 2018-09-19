@@ -63,7 +63,6 @@
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
   <string name="card_vote_item_vs">CONTRA</string>
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
-  <string name="china_version_first_start_network_msg">"En utilitzar aquest producte, accepteu el %1$s i el %2$s de Xiaomi. Aquesta aplicació ha de connectar-se a Internet i accedir a la vostra ubicació perquè funcioni amb normalitat."</string>
   <string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
   <string name="common_loading_text">Un moment…</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>

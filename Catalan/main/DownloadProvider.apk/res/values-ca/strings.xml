@@ -8,6 +8,10 @@
   <string name="button_queue_for_wifi">Cua</string>
   <string name="button_start_now">Inicia ara</string>
   <string name="button_wait_for_wifi">Espera</string>
+  <string name="channel_active">Descàrrega activa</string>
+  <string name="channel_complete">Baixada completa</string>
+  <string name="channel_insufficient_space">Espai insuficient</string>
+  <string name="channel_waiting">La baixada està en espera</string>
   <string name="dialog_button_cancel">Cancel·la</string>
   <string name="dialog_button_ok">D\'acord</string>
   <string name="dialog_content_limit0">Restringeix les baixades</string>

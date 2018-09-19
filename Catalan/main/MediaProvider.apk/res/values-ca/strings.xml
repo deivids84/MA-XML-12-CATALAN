@@ -11,6 +11,7 @@
   <string name="root_audio">Àudio</string>
   <string name="root_images">Imatges</string>
   <string name="root_videos">Vídeos</string>
+  <string name="sound_name_awaken">Despertar</string>
   <string name="storage_description">Emmagatzematge local</string>
   <string name="uid_label">Mitjans</string>
   <string name="unable_to_add_ringtone">No es pot afegir un to personalitzat</string>

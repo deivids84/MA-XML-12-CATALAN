@@ -10,7 +10,6 @@
   <string name="app_search">Cerca aplicacions</string>
   <string name="btn_send">Envia</string>
   <string name="bugreport_dialog_not_show_again">"No tornis a mostrar-ho"</string>
-  <string name="bugreport_dialog_submit_content">"Els informes d'error poden contenir informació personal."</string>
   <string name="bugreport_dump_complete_notification_summary">Toqueu per veure-ho.</string>
   <string name="bugreport_dump_complete_notification_title">S\'ha creat l\'informe d\'error</string>
   <string name="bugreport_dump_start_notification_summary">Això pot trigar uns quants minuts.</string>
@@ -251,11 +250,11 @@
   <string name="non_system_app_select">Aplicacions baixades</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
-  <string name="permission_granted">%1$s permís concedit</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
   <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum"</string>
+  <string name="privacy_policy_title">Política de privadesa</string>
   <string name="pull_to_refresh_pull_label">Estireu cap avall per actualitzar</string>
   <string name="pull_to_refresh_refreshing_label">S\'està actualitzant&#8230;</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per actualitzar</string>
@@ -276,8 +275,6 @@
   <string name="select_system_app_tag">Seleccioneu un problema</string>
   <string name="submit_dialog_cancel">"No hi estic d'acord"</string>
   <string name="submit_dialog_confirm">D\'acord</string>
-  <string name="submit_dialog_content">"L'informe, amb els arxius adjunts i els registres, s'enviarà als servidors de MIUI. Pot contenir informació personal."</string>
-  <string name="submit_dialog_content_global">"Els vostres comentaris, juntament amb els fitxers adjunts (si n'hi ha) i els registres (podeu desmarcar les caselles corresponents per als elements que no voleu pujar) s'enviaran als servidors de MIUI i a una secció restringida del Fòrum MIUI per als desenvolupadors. També es recollirà la informació sobre els vostres fils i l'activitat del fòrum per a l'anàlisi i la comunicació posterior. Els registres poden contenir informació personal i les vostres dades d'ubicació."</string>
   <string name="submit_dialog_title">Envia l\'informe</string>
   <string name="submit_feedback_info_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="suggestion_description">Escriviu aquí la descripció</string>
@@ -285,10 +282,9 @@
   <string name="systemui">Àrea de notificacions</string>
   <string name="tab_title_chat">PMF</string>
   <string name="tab_title_my_reports">Els meus informes</string>
+  <string name="tab_title_preferences">Configuració</string>
   <string name="tab_title_report">Informes d\'error</string>
-  <string name="time_in_justnow">Ara mateix</string>
   <string name="title_answer_feedback_main">Hem trobat respostes!</string>
-  <string name="title_bbs_feedback_main">Més informació sobre telèfons Mi</string>
   <string name="title_customer_service">Servei al client</string>
   <string name="title_frequent_question_feedback_main">PMF</string>
   <string name="title_mi_family">Mi Homes propers</string>

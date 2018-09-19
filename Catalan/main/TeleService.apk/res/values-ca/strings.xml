@@ -418,7 +418,7 @@ Taxa de mostreig"</string>
   <string name="card_title_MOcall_forwarding">Reenviant trucada</string>
   <string name="card_title_MTcall_forwarding">La trucada entrant és reenviada</string>
   <string name="card_title_call_deflected">Trucada desviada</string>
-  <string name="card_title_call_ended">Trucada finalitzada</string>
+  <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_callconnectedect">Trucada connectada ECT</string>
   <string name="card_title_callconnectingect">Trucada connectant ECT</string>
   <string name="card_title_calliswaiting">Trucada en espera</string>
@@ -437,7 +437,7 @@ Taxa de mostreig"</string>
   <string name="card_title_incoming_barred">Trucades entrants restringides</string>
   <string name="card_title_incoming_call">Trucada entrant</string>
   <string name="card_title_multipartycall">Trucada multilateral</string>
-  <string name="card_title_on_hold">En espera</string>
+  <string name="card_title_on_hold">"En espera "</string>
   <string name="card_title_outgoing_barred">Trucades sortints restringides</string>
   <string name="card_title_redialing">Tornant a marcar</string>
   <string name="card_title_unconditionalCF">Desviament incondicional de trucades activat</string>
@@ -477,7 +477,6 @@ Taxa de mostreig"</string>
   <string name="cfnry_time_twenty_sec">20 s</string>
   <string name="cfnry_title">Desviament si no contesta</string>
   <string name="cfu_title">Desviament incondicional</string>
-  <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM que només suporta 4G. Voleu establir-la per defecte per a les dades mòbils?</string>
   <string name="change_default_data_card">SIM de dades mòbils per defecte</string>
   <string name="change_default_data_card_summary">Sembla que heu canviat les targetes SIM. Voleu definir aquesta targeta com a targeta SIM per defecte per a la connexió de dades mòbils?</string>
   <string name="change_num">Actualitza</string>

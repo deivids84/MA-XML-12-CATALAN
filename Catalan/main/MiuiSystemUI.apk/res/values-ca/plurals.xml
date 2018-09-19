@@ -45,6 +45,10 @@
     <item quantity="other">%d hores</item>
     <item quantity="one">%d hora</item>
   </plurals>
+  <plurals name="keyguard_charging_info_drained_min_time_format">
+    <item quantity="other">%d minuts</item>
+    <item quantity="one">%d minut</item>
+  </plurals>
   <plurals name="kg_password_default_pin_message">
     <item quantity="other">Introduïu el PIN de la SIM, us queden %d intents.</item>
     <item quantity="one">Introduïu el PIN de la SIM, us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>

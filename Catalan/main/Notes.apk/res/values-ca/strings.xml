@@ -22,7 +22,8 @@
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
   <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar notes.</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
-  <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
+  <string name="date_time_picker_alarm_reminder">Alarma</string>
+  <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="db_downgrade_clear_button">Esborra les dades de l\'aplicació</string>
   <string name="db_downgrade_clear_date_reminder">"Canviar a una versió diferent de MIUI requereix esborrar les dades de l'aplicació Notes. Abans de fer això, assegureu-vos que heu copiat les notes al Mi Cloud."</string>
   <string name="default_folder_name">Carpeta sense nom</string>
@@ -35,6 +36,7 @@
   <string name="dlg_delete_message">S\'està eliminant…</string>
   <string name="dlg_hide_message">S\'està ocultant&#8230;</string>
   <string name="dlg_info_creating_message">S\'està creant el missatge&#8230;</string>
+  <string name="dlg_info_save_to_gallery_message">S\'està desant l\' imatge a la galeria…</string>
   <string name="dlg_message_password_reset">"Les contrasenyes de les notes ocultes es canviaran per contrasenyes de protecció de privadesa que funcionen pels missatges, les fotos, i les carpetes ocultes"</string>
   <string name="dlg_message_set_password">Les contrasenyes de protecció de privadesa funcionen amb els missatges, les fotos i les carpetes ocultes</string>
   <string name="dlg_message_use_privacy_password">Utilitzeu una contrasenya de protecció de privadesa. Funciona amb els missatges, les fotos i les carpetes ocultes</string>
@@ -48,6 +50,7 @@
   <string name="dlg_unhide_message">S\'està mostrant&#8230;</string>
   <string name="done">Fet</string>
   <string name="edit_header_done_description">Fet</string>
+  <string name="edit_header_lock_description">Nota oculta</string>
   <string name="enable_sync">Sincronitza</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
@@ -60,17 +63,21 @@
   <string name="error_unsupport_content">Aquesta nota inclou contingut incompatible, premeu aquí per actualitzar l\'aplicació</string>
   <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja és a la pantalla d\'inici</string>
   <string name="folder_exist">Ja existeix una carpeta amb el mateix nom</string>
+  <string name="folder_operation_delete">Suprimeix</string>
+  <string name="folder_operation_rename">Reanomena</string>
   <string name="force_touch_menu_add">Afegeix nota</string>
   <string name="format_move_note_out_folder">Moguda</string>
   <string name="format_move_note_to_folder">Moguda a %1$s</string>
   <string name="format_move_notes_out_folder">%1$s mogudes fora</string>
   <string name="format_move_notes_to_folder">Mogudes %1$s a %2$s</string>
   <string name="hidden_notes_fragment_title">Notes ocultes</string>
+  <string name="hide_arrow_description">Amaga</string>
   <string name="hint_cannot_view_hidden_note_content">"No es pot veure el contingut de les notes ocultes"</string>
   <string name="hint_foler_name">Nom</string>
   <string name="info_note_enter_desktop">Afegit a la pantalla d\'inici</string>
   <string name="loading_text">Un moment…</string>
   <string name="login_sync">Entrar i sincronitzar</string>
+  <string name="menu_add_audio_description">Afegeix una nota de veu</string>
   <string name="menu_add_description">Afegeix nota</string>
   <string name="menu_add_folder">Afegeix a la carpeta</string>
   <string name="menu_add_folder_description">Afegeix carpeta</string>
@@ -161,7 +168,6 @@
   <string name="toast_cancel_to_insert_image">"No s'ha pogut afegir la imatge."</string>
   <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
   <string name="toast_notes_delete_success">S\'ha eliminat amb èxit</string>
-  <string name="toast_notes_hidden">S\'ha ocultat amb èxit</string>
   <string name="toast_notes_hidden_count">%1$s s\'ha ocultat amb èxit</string>
   <string name="toast_notes_unhidden">S\'ha mostrat amb èxit</string>
   <string name="toast_notes_unhidden_count">%1$s s\'ha mostrat amb èxit</string>
@@ -175,6 +181,7 @@
   <string name="toolbar_share_description">Comparteix aquesta nota</string>
   <string name="toolbar_theme_description">Trieu un tema</string>
   <string name="toolbar_undo_description">Desfés</string>
+  <string name="toolbar_voice_description">Veu</string>
   <string name="trash_folder_name">Paperera</string>
   <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
   <string name="undo">Desfer</string>

@@ -256,7 +256,6 @@
   <string name="applock_add_account_info">Afegiu el compte Mi per reiniciar la contrasenya en cas que l\'oblideu.</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
   <string name="applock_bind_account_title">He oblidat la contrasenya</string>
-  <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya se suprimirà després de desactivar el Bloquejador d\'aplicacions.</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloquejador d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
@@ -370,11 +369,11 @@
   <string name="battery_health_title_text">Salut de la bateria</string>
   <string name="battery_health_voltage_text">Voltatge de la bateria</string>
   <string name="battery_history_activity_title">Historial</string>
-  <string name="battery_stats_charging_label">S\'està carregant</string>
+  <string name="battery_stats_charging_label">Endollat</string>
   <string name="battery_stats_gps_on_label">GPS actiu</string>
-  <string name="battery_stats_on_battery">%1$s de bateria</string>
+  <string name="battery_stats_on_battery">%1$s en bateria</string>
   <string name="battery_stats_phone_signal_label">Senyal de xarxa mòbil</string>
-  <string name="battery_stats_screen_on_label">Pantalla activada</string>
+  <string name="battery_stats_screen_on_label">Pantalla encesa</string>
   <string name="battery_stats_wake_lock_label">Despert</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_good">Funciona amb normalitat</string>
@@ -587,8 +586,6 @@
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu-ho a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
-  <string name="dialog_button_ignore">Ignora</string>
-  <string name="dialog_button_yes">Sí</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
@@ -693,6 +690,7 @@
   <string name="exit_dialog_scan_message">"La puntuació del rendiment del dispositiu és inferior a 75 punts. Voleu optimitzar-lo?"</string>
   <string name="exit_dialog_scan_positive_button">Optimitza</string>
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
+  <string name="extreme_power_save_mode_summary">L\'estalvi extrem de bateria limita l\'activitat en procés de fons, atura la sincronització i redueix els colors de la pantalla.</string>
   <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
   <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -813,7 +811,6 @@
   <string name="gmscore_support_service">Serveis de Google</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
-  <string name="google_base_app_install_choice">«%s» requerix de les aplicacions del Marc de Servei de Google per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
@@ -1099,6 +1096,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_report">Notifica un error</string>
   <string name="menu_setting_traffic">Estableix manualment</string>
   <string name="menu_sms">Envia el missatge</string>
+  <string name="menu_summary_power_manager_1">Bateria completament carregada</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Escaneig de seguretat</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
@@ -1207,6 +1205,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="note_sms_none">Sense missatges</string>
   <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s en els darrers %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
+  <string name="notification_exit_extreme_mode_text">La bateria està més carregada del %s</string>
   <string name="notification_exit_power_save_mode">Desactiva l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_mask_summary">Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions</string>
@@ -1500,7 +1499,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_key_tethering_setting">Límit de dades d\'una sola vegada</string>
   <string name="pref_key_tethering_title">Límit de dades d\'una sola vegada</string>
   <string name="pref_manual_adjust">Estableix manualment les estadístiques d\'ús de dades</string>
-  <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_more_settings">Configuració addicional</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_normal_traffic_limit">Quan el pla de dades s\'esgoti</string>
@@ -1514,7 +1512,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_roaming_setting_gategory">Configuració</string>
   <string name="pref_special_package_setting">Pla de dades personalitzat</string>
   <string name="pref_special_package_setting_summary">Gestiona les dades en hores vall, paquets de prepagament, plans de dades diàries i dades delimitats</string>
-  <string name="pref_summary_upload_data_usage">Informeu de les vostres estadístiques d\'ús de dades per ajudar-nos a millorar MIUI. Els informes es realitzen d\'acord amb la nostra política de privadesa.</string>
   <string name="pref_title_declaration">Clàusula important</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificacions flotants</string>
   <string name="pref_title_manual_check_virus_db_update">Cerca actualitzacions</string>
@@ -1522,7 +1519,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_title_traffic_limit_number">Mida</string>
   <string name="pref_title_traffic_speed_state">Mostra la velocitat de la xarxa</string>
   <string name="pref_title_update_notification">Notificacions d\'ús de dades</string>
-  <string name="pref_title_upload_data_usage">Informeu sobre les estadístiques d\'ús de dades</string>
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Excepcions d\'itinerància de dades</string>
@@ -1870,9 +1866,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
-  <string name="summary_background_connection">Heu restringit la connexió en segon pla per aquesta aplicació. Toqueu per solucionar-ho.</string>
-  <string name="summary_block_calls_from_cantacts">"Esteu utilitzant la llista de bloqueig. Toqueu per solucionar-ho."</string>
-  <string name="summary_block_calls_from_strangers">Només permeteu trucades de la llista de contactes. Toqueu per solucionar-ho.</string>
+  <string name="summary_background_connection">Heu limitat la connexió en segon pla per aquesta aplicació.</string>
+  <string name="summary_block_calls_from_cantacts">Es bloquen les trucades dels contactes.</string>
+  <string name="summary_block_calls_from_strangers">Es bloquen les trucades de desconeguts.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzeu fotos, contactes i altres entre tots els vostres dispositius</string>
@@ -1883,8 +1879,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_data_flow">Evitar sobrepassar el límit mensual del seu pla de dades</string>
   <string name="summary_default_app">"%s no s'ha configurat com a aplicació per defecte del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
-  <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu. Toqueu per solucionar-ho."</string>
-  <string name="summary_eye_shield">"Esteu utilitzant el mode de lectura. Toqueu per solucionar-ho."</string>
+  <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu."</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
@@ -1902,7 +1897,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_permission_root">El dispositiu i dades personals són més vulnerables als atacs des d\'aplicacions que tenen accés root</string>
   <string name="summary_power_optimizer">"Reduir el rendiment del teu dispositiu"</string>
   <string name="summary_realname_verify">Verifica la seva identitat per fer pagaments més segurs.</string>
-  <string name="summary_restrict_data_usage">Heu restringit l\'ús de dades per aquesta aplicació. Toqueu per solucionar-ho.</string>
   <string name="summary_show_notification">Afegeix els controls del Centre de Seguretat a l\'àrea de notificacions</string>
   <string name="summary_telecom_operator">Obtenir del seu proveïdor de telefonia les seves estadístiques mensuals d\'ús de dades</string>
   <string name="summary_usb">Prevenir que el malware sigui transmès via USB</string>
