@@ -50,7 +50,6 @@
   <string name="err_type_system_summary">Memòria, rendiment, etc.</string>
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
-  <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
@@ -80,7 +79,6 @@
   <string name="feedback_report_remind_login_desc">Connecteu-vos amb el Compte Mi perquè els nostres enginyers puguin contactar-vos.</string>
   <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a «Els meus informes»."</string>
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
-  <string name="feedback_select_images">Afegeix imatges</string>
   <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
   <string name="feedback_select_modem_log_not_select_desc">"No heu seleccionat «Afegeix registres del mòdem»"</string>
   <string name="feedback_select_modem_log_select_desc">Heu seleccionat «Afegeix registres del mòdem»</string>
@@ -192,7 +190,6 @@
   <string name="michat_pull_to_refresh_pull_label">Estireu cap avall per veure l\'historial</string>
   <string name="michat_pull_to_refresh_refreshing_label">S\'està carregant l\'historial&#8230;</string>
   <string name="michat_pull_to_refresh_release_label">Deixeu anar per veure l\'historial</string>
-  <string name="michat_queue_pos_update">Hi ha %1$d persones abans, espereu un moment&#8230;</string>
   <string name="michat_return_to_outside">Surt</string>
   <string name="michat_service_unavailiable">"No s'ha pogut obtenir la informació, torneu-ho a provar més tard"</string>
   <string name="michat_skillset_business_type_title">Seleccioneu un servei</string>
@@ -205,7 +202,6 @@
   <string name="michat_wait_for_a_moment">Un moment, de seguida us ajudem!</string>
   <string name="michat_webview_title">Mostra els detalls</string>
   <string name="min_error">%1$s ha de ser més llarg.</string>
-  <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Puja</string>
   <string name="mobile_data_note_dialog_content">"Sembla que esteu connectat a una xarxa de pagament. Si actualitzeu els registres es podrien generar càrrecs addicionals."</string>
   <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
@@ -294,14 +290,11 @@
   <string name="toast_description_required">Heu d\'escriure una descripció</string>
   <string name="toast_feedback_collect_store">S\'estan recuperant els registres&#8230;</string>
   <string name="toast_feedback_network_unavailable">"No es pot connectar a la xarxa"</string>
-  <string name="toast_feedback_pending_wlan">"El missatge s'enviarà quan estigueu connectat a una xarxa Wi-Fi"</string>
   <string name="toast_feedback_submitted">S\'ha enviat l\'informe</string>
   <string name="toast_feedback_submitting">S\'està enviant…</string>
-  <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_loading_app_id">Obtenint informació…</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
-  <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
@@ -311,7 +304,6 @@
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>
-  <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
   <string name="try_again">Torna-ho a provar</string>

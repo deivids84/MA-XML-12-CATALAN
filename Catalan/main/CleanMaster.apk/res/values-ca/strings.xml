@@ -275,7 +275,6 @@
   <string name="label_image_list_none">Cap</string>
   <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>
   <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
-  <string name="load_only_under_wlan">Carregar notícies quan es connecta al Wi-Fi</string>
   <string name="location_not_found">"No es pot trobar el fitxer"</string>
   <string name="login_immediately">Inicia la sessió</string>
   <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
@@ -328,7 +327,6 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Cerca de Google</string>
   <string name="positive_confirm">D\'acord</string>
-  <string name="pref_category_title_auto_clean_config_settings">Neteges automàtiques</string>
   <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
   <string name="pref_category_title_auto_update_cleanup_db">Configuració addicional</string>
   <string name="pref_category_title_cleanup_white_list">Excepcions</string>
@@ -346,10 +344,7 @@
   <string name="pref_summary_garbage_process_mode">Establir notificacions quan s\'executa la neteja</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pujar i comparar noms de fitxers desconeguts amb definicions en línia</string>
   <string name="pref_title_apps_cleanup_size">Quan la mida de la memòria cau ocupi</string>
-  <string name="pref_title_auto_clean">Neteja automàtica</string>
   <string name="pref_title_auto_clean_content_choose">Seleccioneu elements a netejar</string>
-  <string name="pref_title_auto_clean_operation">Mètode de neteja</string>
-  <string name="pref_title_auto_clean_trigger">Neteja l\'emmagatzematge</string>
   <string name="pref_title_auto_update_cleanup_db">Actualitza automàticament</string>
   <string name="pref_title_choose_engine">Definicions</string>
   <string name="pref_title_clean_alert">Neteja automàticament</string>

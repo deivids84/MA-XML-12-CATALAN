@@ -9,15 +9,11 @@
   <string name="abc_capital_off">DESACTIVA</string>
   <string name="abc_capital_on">ACTIVA</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
-  <string name="app_self_upgrade_dlg_negative_btn">Recorda-m\'ho més tard</string>
-  <string name="app_self_upgrade_dlg_postive_btn">Actualitza</string>
-  <string name="app_self_upgrade_dlg_title">Actualització de l\'app</string>
   <string name="apply">Aplica</string>
   <string name="apply_to_above_all">Estableix-ho a ambdues</string>
   <string name="apply_to_screenlock">Estableix com a pantalla de bloqueig</string>
   <string name="apply_to_wallpaper">Estableix com a pantalla d\'inici</string>
   <string name="at_least_one">Selecciona almenys una categoria</string>
-  <string name="auto_interval">Automàticament</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_international">Cancel·la</string>
   <string name="cancel_lockscreen">Cancel·la</string>
@@ -50,17 +46,11 @@
   <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
   <string name="minutes_15">15 minuts</string>
   <string name="no_long_show">"No mostrar de nou"</string>
-  <string name="ok_enable_network_prov">D\'acord</string>
-  <string name="ok_international">D\'acord</string>
-  <string name="ok_lockscreen">D\'acord</string>
   <string name="ok_network">D\'acord</string>
-  <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
-  <string name="passport_input_phone_hint">Introduïu el número de telèfon</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">No es pot connectar a la xarxa.</string>
-  <string name="save_picture_success">Desat</string>
   <string name="select_package">Seleccioneu una versió</string>
   <string name="setting_head">Configuració</string>
   <string name="settings">Configuració</string>
@@ -68,7 +58,6 @@
   <string name="sliding_on_unlock">Llisqueu amunt per desblocar</string>
   <string name="sst_cover_chg_enable_desc">Mostra el carrusel de fons de pantalla mentre el dispositiu s\'està carregant</string>
   <string name="sst_cover_chg_enable_title">Mostra en carregar-se</string>
-  <string name="sst_favor_desc">Comproveu els fons de pantalla favorits</string>
   <string name="sst_favor_title">Favorits</string>
   <string name="sst_grid_view_select_all">Selecciona-ho tot</string>
   <string name="sst_grid_view_unselect_all">Desselecciona-ho tot</string>
@@ -79,7 +68,6 @@
   <string name="sst_sti_desc">Estableix l\'interval de temps per canviar el fons</string>
   <string name="sst_sti_title">Període de temps de canvi</string>
   <string name="sst_subscribe_title">Subscriure\'s</string>
-  <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos</string>
   <string name="sst_wifi_only_title">Actualitza els fons de pantalla utilitzat dades mòbils</string>
   <string name="summary">"En utilitzar aquesta funció accepteu la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;.. Aquesta funció necessita una connexió a Internet per funcionar correctament."</string>
   <string name="summary_international">"En utilitzar aquesta funció accepteu els nostres &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció necessita una connexió a Internet per funcionar correctament"</string>

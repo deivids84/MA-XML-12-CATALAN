@@ -237,7 +237,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_privacy_cloud_off">La sincronització està desactivada</string>
   <string name="micloud_privacy_cloud_sync">Activa els serveis de Mi Cloud</string>
   <string name="micloud_privacy_explanation">Concediu l\'autorització per activar els serveis de Mi Cloud</string>
-  <string name="micloud_privacy_licence_agreed">Accepteu la política de privadesa del Mi Cloud.</string>
   <string name="micloud_privacy_licence_privacy_policy">Política de privadesa</string>
   <string name="micloud_privacy_progress_content">S\'està obtenint l\'autorització…</string>
   <string name="micloud_privacy_warning_button">Enrera</string>

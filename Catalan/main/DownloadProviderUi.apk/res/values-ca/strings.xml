@@ -55,7 +55,6 @@
   <string name="dialog_btn_ok_disabled_net">Configuració de xarxa</string>
   <string name="dialog_cannot_resume">"Baixada interrompuda. No es pot reprendre."</string>
   <string name="dialog_confirm_delete_checkbox_message">Elimina també els fitxers locals</string>
-  <string name="dialog_confirm_delete_downloads_message">Voleu eliminar %d tasques?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Elimina aquestes tasques</string>
   <string name="dialog_content_limit_max">Il·limitat</string>
   <string name="dialog_failed_body">Voleu tornar a intentar baixar el fitxer més endavant o eliminar-lo de la cua?</string>
@@ -88,7 +87,6 @@
   <string name="download_filesize_unknown">Desconegut</string>
   <string name="download_from">Font:</string>
   <string name="download_in_process">BAIXADES EN CURS</string>
-  <string name="download_info_count_deleted_tasks">%s baixades eliminades</string>
   <string name="download_info_start_deleted_tasks">Elimina les baixades</string>
   <string name="download_list_get_free_vip">Prova de Xunlei</string>
   <string name="download_list_get_hightspeed_flow_auto_open">L\'accelerador de baixades Xunlei està activat</string>
@@ -332,9 +330,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_no_result_text">No s\'han trobat resultats</string>
   <string name="sniff_result_empty_prompt">Resultats de la cera web</string>
   <string name="sniff_result_num_prefix">Trobats</string>
-  <string name="sniff_result_num_video_suffix">elements</string>
   <string name="sniff_result_num_website_suffix">llocs web</string>
-  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; elements | Font: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Mida: %1$s</string>
   <string name="sniff_search_install">Instal·la</string>
   <string name="sniff_shortcut_cloudconfig_btn">D\'acord</string>

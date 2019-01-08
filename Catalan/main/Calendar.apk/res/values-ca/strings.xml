@@ -5,19 +5,13 @@
   <string name="accessibility_all_day">Esdeveniment de tot el dia</string>
   <string name="accessibility_pick_start_date">Data d\'inici</string>
   <string name="accessibility_pick_time_zone">Fus horari</string>
-  <string name="accessibility_reminder_time">Hora de recordatori</string>
   <string name="accessibility_remove_attendee">Elimina un assistent</string>
   <string name="accessibility_repeats">Repeteix</string>
   <string name="accessibility_sync_cal">Sincronitza el calendari</string>
   <string name="account_and_calendar">Comptes</string>
-  <string name="accounts">Comptes i sincronització</string>
-  <string name="acct_not_synced">"Aquest compte no s'està sincronitzant. Pot ser que el vostre calendari no estigui actualitzat."</string>
-  <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
   <string name="action_bar_date_button_title">Calcula la data</string>
-  <string name="action_bar_more_menu_view_description">Més</string>
   <string name="action_bar_return">Retorna</string>
   <string name="action_text_card_manager">Canal</string>
-  <string name="action_text_today">Avui</string>
   <string name="ad_card_connecting">Connexió</string>
   <string name="ad_card_download_count">%1$s baixades personals</string>
   <string name="ad_card_download_count_million">%1$s milions de baixades</string>
@@ -34,10 +28,8 @@
   <string name="add_event">Afegeix esdeveniment</string>
   <string name="address">地址</string>
   <string name="agenda_month_empty_hint">Cap esdeveniment per avui</string>
-  <string name="agenda_today">AVUI, %1$s</string>
   <string name="agenda_tomorrow">DEMÀ, %1$s</string>
   <string name="agenda_view">Agenda</string>
-  <string name="agenda_yesterday">AHIR, %1$s</string>
   <string name="alarm_label">Descarta</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Caducat</string>
@@ -65,12 +57,6 @@
   <string name="birthday_term">Aniversari</string>
   <string name="book_card_free">Gratis</string>
   <string name="book_card_rating_text">|   %1$s opinions</string>
-  <string name="button_day">Dia</string>
-  <string name="button_month">Mes</string>
-  <string name="button_week">Setmana</string>
-  <string name="calculate_result">Resultat</string>
-  <string name="calendar_network_error">Error de xarxa</string>
-  <string name="calendar_refresh">Actualitza</string>
   <string name="can_not_create_long_event">El contingut de l\'esdeveniment és massa llarg</string>
   <string name="can_not_modify_allday_event">"Els esdeveniments de tot el dia no es poden modificar"</string>
   <string name="can_not_modify_event">"No es pot modificar l'esdeveniment"</string>
@@ -81,7 +67,6 @@
   <string name="card_detail_dialog_title">Voleu subscriviu-vos ara?</string>
   <string name="card_detail_hint">El contingut es mostrarà a la pàgina d\'inici i s\'actualitzarà diàriament un cop us hageu subscrit</string>
   <string name="card_detail_title">Detalls</string>
-  <string name="card_manager">Administrador de targeta</string>
   <string name="card_manager_no_data">Sense subscripcions</string>
   <string name="card_title_change">Més</string>
   <string name="change_response_title">Canvia la resposta</string>
@@ -134,10 +119,8 @@
   <string name="date_today">"(avui)"</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_mode">Recordatoris</string>
-  <string name="delete_calendar">Anul·la la subscripció</string>
   <string name="delete_recurring_event_title">Voleu eliminar %s?</string>
   <string name="delete_this_event_title">Voleu eliminar aquest esdeveniment?</string>
-  <string name="deleting_calendar">Cancel·la la subscripció</string>
   <string name="description_calendar">Aplicacions del sistema/Calendari</string>
   <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
   <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
@@ -145,8 +128,6 @@
   <string name="does_not_repeat">Esdeveniment únic</string>
   <string name="done">Retorn</string>
   <string name="download">Baixa</string>
-  <string name="download_finished">Baixada finalitzada</string>
-  <string name="downloaded">S\'ha baixat</string>
   <string name="downloading">S\'està baixant</string>
   <string name="edit_date_calculate_days_backward_error_hint">"No es pot calcular cap endavant"</string>
   <string name="edit_date_calculate_days_empty_hint">Introduïu el número de dies</string>
@@ -157,8 +138,6 @@
   <string name="edit_event_birthday_import_from_contact">Importa aniversaris dels contactes</string>
   <string name="edit_event_birthday_name_empty_hint">Introduïu un nom</string>
   <string name="edit_event_birthday_name_hint">Nom</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Recorda-ho també 3 dies abans</string>
-  <string name="edit_event_birthday_reminder_time">Hora de recordatori</string>
   <string name="edit_event_calendar_label">Calendari</string>
   <string name="edit_event_choose_date">Trieu la data</string>
   <string name="edit_event_confirm_message">Voleu descartar els canvis?</string>
@@ -212,7 +191,6 @@
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">Aquell dia a les %2$s</string>
   <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
-  <string name="event_reminders_to_max">Podeu configurar %d recordatoris com a màxim</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
   <string name="every_weekday">Entre setmana (dl.-dv.)</string>
@@ -231,7 +209,6 @@
   <string name="flight_seat_no">座位%1$s</string>
   <string name="flight_state">航班状态</string>
   <string name="flight_time">实际%1$s</string>
-  <string name="force_touch_title_add_new_event">Afegeix un esdeveniment</string>
   <string name="fortune_birthday">Aniversari</string>
   <string name="fortune_card_caiwei">财位：</string>
   <string name="fortune_card_set_bazi">设置生辰八字</string>
@@ -298,7 +275,6 @@
   <string name="lunar_date">Data lunar</string>
   <string name="match_select_activity_label">Lligues</string>
   <string name="menu_general_preferences">General</string>
-  <string name="menu_preferences">Configuració</string>
   <string name="menu_reminder_preferences">Recordatoris</string>
   <string name="missing_name">(Sense nom)</string>
   <string name="missing_required_permission">Heu desactivat un permís necessari.</string>
@@ -341,8 +317,6 @@
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="new_event_description">Nou</string>
-  <string name="new_event_dialog_label">Nou esdeveniment</string>
-  <string name="new_event_dialog_option">Nou esdeveniment</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
   <string name="no_events_hint">Cap esdeveniment</string>
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
@@ -351,7 +325,6 @@
   <string name="no_visiable_calendar_message">Cal que afegiu un compte de calendari. Toqueu Afegeix un compte per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
   <string name="no_visiable_calendar_title">Afegeix un compte</string>
-  <string name="not_synced">sense sincronitzar</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
   <string name="panchang_amanta_month">Mes Amanta:</string>
@@ -365,7 +338,6 @@
   <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
-  <string name="pref_error_no_ringtone_select">To de trucada per defecte</string>
   <string name="pref_reminder_time">Moment de recordatori</string>
   <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
   <string name="pref_title_no_remind">Cap recordatori</string>
@@ -420,12 +392,10 @@
   <string name="rest_day_indication">:)</string>
   <string name="saving_event">S\'ha desat l\'esdeveniment</string>
   <string name="saving_event_with_guest">S\'estan enviant actualitzacions…</string>
-  <string name="search">Cerca</string>
   <string name="search_calendar">"Calendari;Agenda;Recordatori"</string>
   <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
   <string name="search_calendar_settings">Calendari;Agenda;Recordatori</string>
   <string name="select_date">Vés a la data</string>
-  <string name="select_synced_calendars_title">Calendaris per sincronitzar</string>
   <string name="setting_about_calendar_version">Versió del calendari:</string>
   <string name="setting_about_miui_version">Versió de MIUI:</string>
   <string name="setting_about_summary">Versió: </string>
@@ -445,18 +415,12 @@
   <string name="subscribe_card_success">Us heu subscrit amb èxit. Consulteu els detalls a la pàgina d\'inici.</string>
   <string name="subscribe_card_success_for_homepage">Us heu subscrit amb èxit a «%1$s»</string>
   <string name="subscribe_channel_bottom_hint">—— Calendari Mi ——</string>
-  <string name="subscribe_channel_click_hint">Cal subscripció</string>
-  <string name="subscribe_channel_footer_button">Gestiona les subscripcions</string>
   <string name="subscribe_channel_footer_desc">Reviseu les subscripcions o cancel·leu-la</string>
   <string name="subscribe_channel_footer_title">Subscrit</string>
-  <string name="subscribe_channel_footer_view">Comprova</string>
   <string name="subscribe_channel_hint">"Subscriviu-vos als serveis que us agraden i rebeu actualitzacions diàries a la pàgina d\'inici.
 També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
-  <string name="subscribe_channel_subscribing">Suscribir-se</string>
   <string name="subscribe_channel_title">Canal</string>
-  <string name="subscribing_card">Subscripcions</string>
-  <string name="synced">sincronitzat</string>
   <string name="tab_title_agenda">Esdeveniments</string>
   <string name="tab_title_day">Dia</string>
   <string name="tab_title_month">Mes</string>
@@ -465,7 +429,6 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="talk_back_read_date">%1$s (%2$s segons el calendari lunar).</string>
   <string name="talk_back_setting">Configuració</string>
   <string name="template_announce_item_index">Esdeveniment %1$s de %2$s.</string>
-  <string name="template_week_num">Setmana %1$s</string>
   <string name="ticket_card_date">%1$smes%2$sdia</string>
   <string name="ticket_card_description">Reserva avui</string>
   <string name="ticket_card_lunar">%1$s tren</string>
@@ -504,7 +467,6 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_train_station">Estació de tren</string>
   <string name="unsubscribe_card">Anul·la</string>
   <string name="unsubscribe_card_success">Heu anul·lat la subscripció amb èxit a «%1$s»</string>
-  <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>
   <string name="user_notice_message">"En utilitzar aquest producte accepteu les %1$s i %2$s de Xiaomi. Algunes característiques necessiten connexió a Internet, accés a la ubicació, als contactes i als SMS per funcionar."</string>

@@ -73,11 +73,9 @@
   <string name="account_setup_address_label">Correu electrònic</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d\'usuari, contrasenya i compte, els ajustos són correctes.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Problema amb la configuració del compte"</string>
-  <string name="account_setup_basics_email_label">Introduïu l\'adreça de correu</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Inicieu sessió mitjançant la xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
   <string name="account_setup_basics_mi_mail_login_help">És possible que hageu de verificar el vostre compte mitjançant un SMS per rebre correus</string>
-  <string name="account_setup_basics_password_label">Introduïu la contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validant la configuració del servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">S\'està validant la configuració SMTP…</string>
@@ -205,7 +203,7 @@
   <string name="attachment_size_exceed_limit">"Sembla que la mida va superar el límit del servidor"</string>
   <string name="attachment_stop_all">Aturar</string>
   <string name="attachment_text">Text</string>
-  <string name="attachment_type_blocked">"Per desgràcia, no es pot guardar o obrir aquest tipus de fitxer adjunt."</string>
+  <string name="attachment_type_blocked">"Malauradament, no podeu desar ni obrir aquest tipus de fitxer adjunt."</string>
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Fitxers adjunts</string>
@@ -676,12 +674,10 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="note_title">Configuració automàtica del correu 139</string>
   <string name="notification_action_archive">Fitxer</string>
   <string name="notification_action_delete">Elimina</string>
-  <string name="notification_action_remove_label">Tregui l\'etiqueta</string>
   <string name="notification_action_reply">Respon</string>
   <string name="notification_action_reply_all">Respon a tots</string>
   <string name="notification_action_undo_archive">Arxivat</string>
   <string name="notification_action_undo_delete">Eliminat</string>
-  <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
   <string name="notification_exchange_calendar_added">Calendari d\'intercanvi afegit</string>
   <string name="oauth_error_description">"No s'ha pogut autenticar"</string>
   <string name="oauth_gmail_login_notify">Introduïu el vostre nom d\'usuari i la contrasenya de compte de Google a la següent pàgina de registre.</string>
