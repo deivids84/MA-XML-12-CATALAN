@@ -183,7 +183,6 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portait_effect_entry_story">Història</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
-  <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
   <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
 amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_advance_settings">Configuració addicional</string>
@@ -233,7 +232,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_delay_capture_entry_5s">Retard de 5 s</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
-  <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
   <string name="pref_camera_dual_enable_title">Activa la càmera dual</string>
   <string name="pref_camera_dual_sat_enable_title">Activa la càmera dual SAT</string>
   <string name="pref_camera_exposuretime_entry_auto">AUTOMÀTIC</string>
@@ -350,7 +348,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_video_duration_entry_120">Sense límit</string>
   <string name="pref_camera_video_duration_entry_30">30 minuts</string>
   <string name="pref_camera_video_duration_entry_mms">30 segons (MMS)</string>
-  <string name="pref_camera_volumekey_function_entry_exposure">Exposició</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Obturador</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volum</string>
   <string name="pref_camera_volumekey_function_title">Funció dels botons de volum</string>
@@ -367,7 +364,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
   <string name="pref_camera_zsl_entry_on">Activat</string>
   <string name="pref_capture_settings">Càmera</string>
-  <string name="pref_dualcamera_watermark_title">Marca d\'aigua de la càmera dual</string>
   <string name="pref_face_beauty_title">Embellidor</string>
   <string name="pref_fingerprint_capture_title">Obturador d\'empremtes dactilars</string>
   <string name="pref_front_mirror_entry_auto">Quan es detecti la cara</string>
@@ -453,7 +449,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="text_ai_scene_selector_text_on">SILUETA</string>
   <string name="time_lapse_error">"No es pot fer servir aquesta mida de vídeo en un enregistrament a càmera ràpida"</string>
   <string name="title_snap_double_confirm">Torneu-ho a confirmar</string>
-  <string name="toast_burst_snap_finished_summary">Ràfega de captures feta, s\'han fet %1$s fotos</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No es pot disparar en ràfega amb el disparador per veu activat"</string>
   <string name="toast_saving">S\'estan desant les fotos&#8230;</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>

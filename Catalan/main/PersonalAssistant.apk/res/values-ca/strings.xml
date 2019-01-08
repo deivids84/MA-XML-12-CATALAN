@@ -33,7 +33,6 @@
   <string name="agenda_settings_credit">Mostra els rebuts de la targeta de crèdit</string>
   <string name="agenda_settings_elecbill">Mostra les factures d\'electricitat i gas</string>
   <string name="agenda_settings_loan">Mostra informació del pagament de préstecs</string>
-  <string name="agree">D\'acord</string>
   <string name="alipay_init">S\'estan inicialitzant l\'Alipay…</string>
   <string name="alipay_init_success">L\'Alipay s\'ha inicialitzat amb èxit</string>
   <string name="alipay_scan">Escàner</string>
@@ -82,7 +81,6 @@
   <string name="bicycle">Bicicleta</string>
   <string name="book_assistant">Reserva un viatge</string>
   <string name="book_assistant_empty">Encara no hi ha reserves</string>
-  <string name="book_assistant_go">Sortida</string>
   <string name="book_assistant_todaybook">"Viatges d'avui"</string>
   <string name="book_assistant_train_start">Hora de sortida</string>
   <string name="book_assistant_train_started">Surt de l\'estació</string>
@@ -243,7 +241,7 @@
   <string name="empty_recharge_card_title">Sense dades</string>
   <string name="entrance">Targeta de dreceres</string>
   <string name="error_share_not_support">"Aquests elements no s'admeten als preferits."</string>
-  <string name="exercise_setting_brief">Mesura la distància i compte els passos que feu diàriament</string>
+  <string name="exercise_setting_brief">Mesura la distància i compta les passes que feu diàriament</string>
   <string name="exercise_setting_misport_detail">Mesura la distància i compta els passos que feu diàriament (Permeteu que el Mi Fit s\'engegui automàticament a Seguretat - Permisos).</string>
   <string name="express">Lliurament urgent</string>
   <string name="express_add_new_address">Afegeix una adreça</string>
@@ -279,7 +277,6 @@
   <string name="express_inqiury_select_logistics">Servei de missatgeria</string>
   <string name="express_inquiry">Seguiment</string>
   <string name="express_inquiry_and_send">Seguiment i enviament</string>
-  <string name="express_inquiry_button_text">Fes el seguiment</string>
   <string name="express_inquiry_clipboard_number_message">Voleu fer el seguiment del número copiat?</string>
   <string name="express_inquiry_data_owner_prefix">"Informació de seguiment proporcionat per "</string>
   <string name="express_inquiry_delete_warning_multiple">Voleu eliminar %d entrades?</string>
@@ -356,7 +353,6 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_authorized_number">Número de telèfon verificat</string>
   <string name="express_setting_authorized_number_add">Afegeix</string>
   <string name="express_setting_authorized_number_delete">Elimina</string>
-  <string name="express_setting_authorized_number_description">Declaració de privadesa: el número de telèfon només s\'utilitzarà per comprovar l\'estat i els detalls del lliurament de la comanda.</string>
   <string name="express_setting_authorized_number_empty">"Encara no heu verificat el vostre número de telèfon."</string>
   <string name="express_setting_brief">Seguiu els vostres paquets de lliurament urgent</string>
   <string name="express_setting_brief_detail">Seguiu tots els vostres paquets usant el vostre número de telèfon i la vostra informació de la comanda.</string>
@@ -623,7 +619,6 @@ Comproveu el número de seguiment."</string>
   <string name="notification_title">S\'ha agregat als favorits</string>
   <string name="notification_title_fail">"No s'ha pogut afegir el pagament"</string>
   <string name="notification_title_success">S\'ha afegit un pagament amb èxit</string>
-  <string name="open_installed_app">Obre</string>
   <string name="opened">Activat</string>
   <string name="paycode_sdk_parent">Drecera de pagament</string>
   <string name="paycode_sdk_parent_title">Drecera de pagament</string>
@@ -725,8 +720,6 @@ Comproveu el número de seguiment."</string>
   <string name="search_tip">S\'està cercant…</string>
   <string name="security">Seguretat</string>
   <string name="send_action_title">Afegeix als preferits</string>
-  <string name="send_shortcut_failed">"Ha fallat l'enviament"</string>
-  <string name="send_shortcut_success">S\'ha afegit a la pantalla d\'inici</string>
   <string name="service_unavailiable">Comproveu la connexió de xarxa i torneu-ho a provar</string>
   <string name="setting_address">Afegiu llocs freqüents</string>
   <string name="setting_authorization_canceled_dialog_cancel">Cancel·la</string>
@@ -889,7 +882,6 @@ Comproveu el número de seguiment."</string>
   <string name="upgrade_now">Instal·la ara</string>
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="user_id">ID d\'usuari: %s</string>
-  <string name="user_notice_title">Atenció</string>
   <string name="walk">A peu</string>
   <string name="weibo_name">Nou article</string>
   <string name="which_transport">Com arribeu normalment a la vostra destinació?</string>
@@ -910,6 +902,5 @@ Comproveu el número de seguiment."</string>
   <string name="xiaomi_search_label">Cerca</string>
   <string name="xspace_resolver_activity_title">Selecciona l\'aplicació</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
-  <string name="yellow_page_website">Lloc web oficial</string>
   <string name="yesterday">Ahir</string>
 </resources>

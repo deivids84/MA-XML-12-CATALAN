@@ -39,7 +39,6 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="nonui_mode_config_description">"No s'encendrà la pantalla per a notificacions, desactivarà la llum de notificació, l'empremta digital i els controls tàctils quan MIUI detecti que no esteu utilitzant el dispositiu."</string>
   <string name="nonui_mode_config_title">Mode no interactiu</string>
   <string name="performance_category">Rendiment</string>
-  <string name="power_center">Energia</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s tenen un funcionament anormal</string>
   <string name="power_checker_background_cpu_title">%1$s tenen un funcionament anormal</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s ubicació freqüentment</string>

@@ -218,12 +218,6 @@
   <string name="app_manager_pref_ads">Recomanacions</string>
   <string name="app_manager_reset_app_preferences">Reinicia les preferències de les aplicacions</string>
   <string name="app_manager_reset_app_preferences_button">Reinicia les aplicacions</string>
-  <string name="app_manager_reset_app_preferences_desc">Es reiniciaran totes les preferències de:\n\n
-<li>Aplicacions desactivades</li>\n
- <li>Notificacions d\'aplicacions desactivades</li>\n
- <li>Aplicacions per defecte</li>\n
- <li>Restriccions de dades en segon pla per a aplicacions</li>\n\n
- No es perdran les dades de les aplicacions.</string>
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_search_prompt">"No s'ha pogut trobar cap resultat? Proveu de mostrar els resultats de totes les aplicacions."</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
@@ -341,7 +335,6 @@
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Torna al bloquejador d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
-  <string name="back_modifypassword">Torna enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Activeu les dades mòbils i torneu-ho a provar.</string>
   <string name="back_sound_fail">"No s'ha pogut configurar. S'ha canviat la configuració de l'operador. Establiu la targeta SIM actual com a targeta de dades, connecteu-vos a la xarxa i torneu-ho a provar."</string>
   <string name="back_sound_success">Configurat amb èxit</string>
@@ -488,18 +481,10 @@
   <string name="card_main_xspace_action">Crea</string>
   <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
-  <string name="card_sms_report">Informeu mitjançant SMS</string>
   <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
-  <string name="card_tc_failed_content">Possibles raons:\n
-        1. Els operadors responen més lentament al principi i al final d\'un mes. Intenteu-ho de nou en un parell de dies.\n
-        2. Es requereix una plantilla de sol·licitud de xarxa quan es calibra per primera vegada. Connecteu-vos a la xarxa i torneu-ho a provar.\n
-        3. Es possible que l\'operador no admeti l\'enviament d\'SMS amb les dades restants i el saldo del telèfon. Poseu-vos en contacte amb l\'operador per obtenir més informació.\n
-        4. Hi pot haver un error en les dades de l\'operador. Proveu el diagnòstic de l\'operador per resoldre això.\n
-        5. Res d\'això li ha ajudat? Toqueu «Informa via SMS» per enviar els comentaris a Xiaomi en un SMS.    </string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
   <string name="charging_text_battery_perfect">Càrrega completa</string>
-  <string name="check_network_state">Prova de xarxa</string>
   <string name="choose">Trieu</string>
   <string name="clean_immediately">Esborra</string>
   <string name="cleaned">Esborrat</string>
@@ -525,15 +510,6 @@
   <string name="convenient_summary">Introduïu la contrasenya una vegada per desbloquejar totes les aplicacions</string>
   <string name="correction_attention_dialog_message">S\'està ajustant la configuració. Espereu fins que s\'acabi el procés i torneu-ho a provar.</string>
   <string name="cpu_usage_android_system">Sistema Android</string>
-  <string name="cpu_usage_app_bg_restrict_default">Automàtic (recomanat)</string>
-  <string name="cpu_usage_app_bg_restrict_default_short">Automàtic</string>
-  <string name="cpu_usage_app_bg_restrict_full">Restringeix l\'activitat en segon pla</string>
-  <string name="cpu_usage_app_bg_restrict_no_limit">"Sense restriccions"</string>
-  <string name="cpu_usage_app_bg_restrict_partly">Després de %s</string>
-  <string name="cpu_usage_app_bg_restrict_partly_short">Després de %s</string>
-  <string name="cpu_usage_app_bg_restrict_title">Configuració de segon pla</string>
-  <string name="cpu_usage_app_tip_can_not_restrict_system_app">"No es poden restringir els serveis del sistema"</string>
-  <string name="cpu_usage_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
   <string name="cpu_usage_process_run_time_little_time">Menys d\'un minut</string>
   <string name="cpu_usage_view_action_btn_text">Toqueu per mostrar-ho</string>
   <string name="create_shortcut">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
@@ -582,7 +558,6 @@
   <string name="descx_quick_scan_cancel">S\'ha cancel·lat l\'escaneig</string>
   <string name="descx_quick_scan_preparation">Un moment…</string>
   <string name="detail_app_button">Informació de l\'aplicació</string>
-  <string name="details_subtitle">Detalls d\'us</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu-ho a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
@@ -690,7 +665,6 @@
   <string name="exit_dialog_scan_message">"La puntuació del rendiment del dispositiu és inferior a 75 punts. Voleu optimitzar-lo?"</string>
   <string name="exit_dialog_scan_positive_button">Optimitza</string>
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
-  <string name="extreme_power_save_mode_summary">L\'estalvi extrem de bateria limita l\'activitat en procés de fons, atura la sincronització i redueix els colors de la pantalla.</string>
   <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
   <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -732,7 +706,6 @@
   <string name="fod_finger_notice_title">Col·loqueu el dit a la pantalla</string>
   <string name="fod_finger_windows_tips">Verifica l\'empremta</string>
   <string name="fod_tips_split_screen_more_than_half">Introduïu la contrasenya</string>
-  <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
@@ -951,7 +924,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lockpattern_need_to_unlock_wrong">"Tornar a provar"</string>
   <string name="lockpattern_pattern_confirmed_header">El seu nou patró de desbloqueig</string>
   <string name="lockpattern_pattern_entered_header">Patró afegit</string>
-  <string name="lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts</string>
   <string name="lockpattern_recording_inprogress">"Treure el dit després que el patró és completi"</string>
   <string name="lockpattern_recording_intro_header">Connectar almenys 4 punts per crear un patró</string>
   <string name="lockpattern_retry_button_text">Torneu a dibuixar-ho</string>
@@ -984,7 +956,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_button_mi_sim_close">Activa la SIM Mi</string>
   <string name="main_button_mi_sim_open">Mostra els detalls</string>
   <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
-  <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_adjusting_bill">S\'està canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
@@ -1009,12 +980,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_tobe_added_desc">Dades mòbils des de ¥ 0,03/MB</string>
   <string name="main_today_used">Usat avui</string>
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
-  <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
-  <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
-  <string name="main_toolbar_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="main_toolbar_purchase">Recargar</string>
   <string name="main_toolbar_statistic">Estadístiques d\'ús de dades</string>
-  <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Afegeix manualment les aplicacions d\'arrencada automàtica</string>
   <string name="managed_user_title">Totes les aplicacions de feina</string>
   <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
@@ -1053,15 +1020,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Alliberats %s</string>
-  <string name="memory_clean_btn_click_text">Accelera la velocitat</string>
-  <string name="memory_clean_cleaning_title">Neteja de la memòria cau</string>
-  <string name="memory_clean_click_tip">Augment de velocitat</string>
   <string name="memory_clean_memory_size_tip">Memòria Cau</string>
   <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
-  <string name="memory_clean_no_running_process">Cap tasca per esborrar</string>
-  <string name="memory_clean_running_process_title">S\'estan monitoritzant aplicacions (%d)</string>
-  <string name="memory_cleaned_memory_info">Memòria disponible</string>
-  <string name="memory_cleaned_memory_up">Augment de velocitat</string>
   <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
@@ -1115,18 +1075,14 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
-  <string name="midrop_post_notification_contentText">"Proveu Mi Drop. És ràpid i sense anuncis."</string>
-  <string name="midrop_post_notification_contentTitle">Necessiteu transferir fitxers?</string>
   <string name="mixed_need_to_confirm">Torneu a introduir-la per confirmar</string>
   <string name="mixed_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
   <string name="mixed_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
   <string name="mixed_pattern_entered_header">La contrasenya s\'ha establert amb èxit</string>
-  <string name="mixed_recording_incorrect_too_short">Introduïu com a mínim %d caràcters.</string>
   <string name="mixed_recording_intro_header">Introduïu com a mínim 4 caràcters</string>
   <string name="mixed_retry_button_text">Cancel·la</string>
   <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
   <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
-  <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">Més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
@@ -1203,9 +1159,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="note_call_none">Sense trucades</string>
   <string name="note_list_none">La llista és buida</string>
   <string name="note_sms_none">Sense missatges</string>
-  <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s en els darrers %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
-  <string name="notification_exit_extreme_mode_text">La bateria està més carregada del %s</string>
   <string name="notification_exit_power_save_mode">Desactiva l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_mask_summary">Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions</string>
@@ -1228,53 +1182,14 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="numeric_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
   <string name="numeric_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
   <string name="numeric_pattern_entered_header">El PIN s\'ha establert amb èxit</string>
-  <string name="numeric_recording_incorrect_too_short">Introduïu com a mínim %d dígits.</string>
   <string name="numeric_recording_intro_header">Introduïu la contrasenya</string>
   <string name="numeric_retry_button_text">Cancel·la</string>
   <string name="numeric_settings_help_how_to_record">Com establir el PIN</string>
   <string name="ok">D\'acord</string>
   <string name="ok_button">D\'acord</string>
   <string name="old_sdk_deny_warning">"L'aplicació no és compatible amb els últims requisits de permisos d'Android. Els permisos denegats poden afectar la forma en què funciona aquesta aplicació."</string>
-  <string name="om_btn_text_quick_fix">Optimitza</string>
-  <string name="om_cpu_overload_activity_title">Aplicacions amb un elevat ús de CPU</string>
-  <string name="om_cpu_overload_app_fixed">S\'han solucionat tots els problemes</string>
-  <string name="om_cpu_overload_app_name">Aplicacions amb un elevat ús de CPU</string>
-  <string name="om_cpu_overload_detail">S\'ha fet servir el %1$s de la capacitat de la CPU per a %2$s</string>
-  <string name="om_cpu_overload_proc_activity_title">Problemes</string>
-  <string name="om_cpu_overload_proc_title">Problemes</string>
-  <string name="om_cpu_usage_warn_title_text">"Aquesta aplicació pot alentir
-el vostre dispositiu"</string>
-  <string name="om_formatted_percent_string">%s%%</string>
-  <string name="om_ill_proc_activity_title">Problemes</string>
-  <string name="om_ill_proc_handle_uninstall_prompt">Desinstal·leu aquesta apli per solucionar problemes d\'ús de la bateria.</string>
-  <string name="om_ill_proc_handle_unstaill_title">Voleu desinstal·lar %s?</string>
-  <string name="om_ill_proc_type_alarm_detail">Soluciona els problemes d\'activitat en segon pla</string>
-  <string name="om_ill_proc_type_alarm_title">L\'aplicació desperta el dispositiu freqüentment i drena la bateria</string>
-  <string name="om_ill_proc_type_cpu_detail">Corregeix els problemes de càrrega de la CPU</string>
-  <string name="om_ill_proc_type_cpu_title">L\'aplicació consumeix CPU i drena la bateria</string>
-  <string name="om_ill_proc_type_gps_detail">Corregeix els problemes d\'ús del GPS</string>
-  <string name="om_ill_proc_type_gps_title">L\'aplicació utilitza GPS freqüentment i drena la bateria</string>
-  <string name="om_ill_proc_type_radio_detail">Corregeix els problemes de connexió de xarxa</string>
-  <string name="om_ill_proc_type_radio_title">L\'aplicació es connecta freqüentment a la xarxa i drena la bateria</string>
-  <string name="om_ill_proc_type_wakelock_detail">Corregeix els problemes del mode suspensió</string>
-  <string name="om_ill_proc_type_wakelock_title">L\'aplicació bloqueja el mode suspensió i drena la bateria</string>
-  <string name="om_ill_proc_type_wifiscan_detail">Corregeix els problemes d\'escaneig de Wi-Fi</string>
-  <string name="om_ill_proc_type_wifiscan_title">L\'aplicació cerca Wi-Fi freqüentment i drena la bateria</string>
   <string name="om_lock_app_locked_app">Blocat</string>
-  <string name="om_lock_app_locked_app_occupy_memory">"El bloqueig de massa aplicacions redueix el rendiment del telèfon"</string>
-  <string name="om_lock_app_tip_msg">Premeu per blocar</string>
   <string name="om_lock_app_unlocked_app">Desblocat</string>
-  <string name="om_media_scan_time_warn_title">"El servidor multimèdia funciona en segon pla. 
-Aquesta activitat escurça la durada de la bateria."</string>
-  <string name="om_media_scan_timeout_proc_detail">El servidor multimèdia treballa en segon pla. Podeu restringir-ne l\'activitat.</string>
-  <string name="om_media_scan_timeout_proc_name">Servidor multimèdia</string>
-  <string name="om_memory_clean_cleaning_text">S\'està accelerant…</string>
-  <string name="om_notify_cpu_load_too_high_summary">Per accelerar la velocitat restringiu l\'activitat en segon pla</string>
-  <string name="om_notify_cpu_load_too_high_title">L\'ús de CPU de %s és massa alt</string>
-  <string name="om_notify_need_clean_memory_summary">Esborreu la memòria cau per augmentar la velocitat</string>
-  <string name="om_notify_need_clean_memory_title">La mida de la memòria cau ha arribat a %s</string>
-  <string name="om_other_processes">Altres tasques</string>
-  <string name="om_other_processes_cpu_usage_summary">La mitjana d\'us de la CPU és inferior a %s%%</string>
   <string name="om_settings_cpu_over_load_notify">Ús de la CPU</string>
   <string name="om_settings_cpu_over_load_summary">Avisa\'m quan l\'ús de CPU és massa alt</string>
   <string name="om_settings_lock_app">Bloca aplicacions</string>
@@ -1293,7 +1208,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="open_game">Obre</string>
   <string name="open_now">Permet a l\'aplicació utilitzar les dades mòbils</string>
   <string name="operator_diagnostic">Diagnòstic d\'operador</string>
-  <string name="operator_mi_sim">SIM Mi</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -1319,7 +1233,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="optimize_result_button_see_detaills">Detalls</string>
   <string name="optimize_result_button_to_set">Estableix</string>
   <string name="optimize_result_button_update_now">Actualiza</string>
-  <string name="optimize_result_header_view_summary">Augment de velocitat</string>
   <string name="optimize_result_summary_sucurity_risk">Algunes característiques de seguretat estan desactivades. Activa aquestes característiques per fer el dispositiu més segur:</string>
   <string name="optimize_result_summary_system_default_settings">"L'ús d'aplicacions MIUI per defecte augmenta el nivell d'estabilitat i seguretat del sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Trobats riscos per la seguretat</string>
@@ -1463,10 +1376,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_about_traffic_title">Configuració d\'ús de dades</string>
   <string name="pref_adjust_data_usage">Plantilla de missatge d\'operador</string>
   <string name="pref_adjust_data_usage_summary">Després de canviar la plantilla de calibratge, MIUI la farà servir per obtenir estadístiques d\'ús de dades del vostre operador</string>
-  <string name="pref_adjust_data_usage_value">Modifica</string>
   <string name="pref_adjust_traffic_data">Establir ús de dades</string>
   <string name="pref_allow_connect_network_title">Dades en itinerància en ultramar</string>
-  <string name="pref_auto_adjust_settings">Configuració d\'estadístiques d\'ús de dades per Auto-sincronitzar</string>
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
   <string name="pref_automatic_adjust">Configuració</string>
   <string name="pref_avaible_traffic">Pla de dades</string>
@@ -1477,7 +1388,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_category_title_module_settings">Configuració de regles</string>
   <string name="pref_category_title_other">Configuració addicional</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
-  <string name="pref_confirm_operator_setting">Assegureu-vos que la informació que heu introduït es correcte</string>
   <string name="pref_correction_setting">Configuració de la plantilla de configuració</string>
   <string name="pref_correction_setting_switch">Utilitza una plantilla de calibratge personalitzada</string>
   <string name="pref_correction_sms_content">Plantilla de configuració</string>
@@ -1511,7 +1421,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Límit diari de dades</string>
   <string name="pref_roaming_setting_gategory">Configuració</string>
   <string name="pref_special_package_setting">Pla de dades personalitzat</string>
-  <string name="pref_special_package_setting_summary">Gestiona les dades en hores vall, paquets de prepagament, plans de dades diàries i dades delimitats</string>
   <string name="pref_title_declaration">Clàusula important</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificacions flotants</string>
   <string name="pref_title_manual_check_virus_db_update">Cerca actualitzacions</string>
@@ -1576,7 +1485,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="report_error">"No s'ha pogut informar del missatge"</string>
   <string name="report_only">Trieu un missatge per notificar</string>
   <string name="report_success">Missatge notificat</string>
-  <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
   <string name="resource_antivirus">Anàlisi de virus</string>
@@ -1681,7 +1589,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
-  <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
+  <string name="sim_location_error_notify_message">Toqueu per canviar la ubicació de la SIM.</string>
   <string name="sim_location_error_notify_title">Error de la targeta SIM</string>
   <string name="sim_not_ready_toast">"La targeta SIM no està preparada"</string>
   <string name="sim_state_exception_summary">Estat de la SIM indica que alguna cosa pot estar malament amb la targeta SIM.</string>
@@ -1858,7 +1766,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="status_bar_network_flow_phone_balance">"   Saldo del telèfon:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Compra &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configuració del pla de dades &gt;"</string>
-  <string name="status_bar_network_flow_today">Avui: %1$s</string>
   <string name="still_retain_btn">Mantén</string>
   <string name="suggest_app_tolock">Suggeriments</string>
   <string name="suggest_app_tolock_masked">Ocultes</string>
@@ -1920,22 +1827,22 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Llista de bloqueig</string>
   <string name="tc_cmd_invalid">La plantilla no és vàlida</string>
-  <string name="tc_diagnostic_all_error_notification_summary">Premi per informar d\'algun problema</string>
+  <string name="tc_diagnostic_all_error_notification_summary">Toqueu per informar d\'algun problema</string>
   <string name="tc_diagnostic_all_error_notification_title">"No s'ha pogut fer un diagnòstic complet"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Premi per ajustar el tipus de xarxa</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">Toqueu per configurar el tipus de xarxa</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipus de xarxa incorrecte</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Fet</string>
   <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic
 1. El dispositiu es connectarà a la xarxa de l\'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts.
 2. Podreu sortir d\'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
-  <string name="tc_diagnostic_location_error_notification_summary">Premi per ajustar la ubicació</string>
+  <string name="tc_diagnostic_location_error_notification_summary">Toqueu per configurar la ubicació</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicació incorrecta</string>
-  <string name="tc_diagnostic_notification_sumarry">Premi per veure els resultats</string>
+  <string name="tc_diagnostic_notification_sumarry">Toqueu per veure els resultats</string>
   <string name="tc_diagnostic_notification_summary">"No s'ha pogut ajustar 5 vegades en una fila. Tocar per iniciar el diagnòstic."</string>
   <string name="tc_diagnostic_notification_title">Diagnosticar operador</string>
   <string name="tc_diagnostic_onekey_repair_botton">Arregla</string>
-  <string name="tc_diagnostic_operator_error_notification_summary">Premi per canviar paràmetres d\'operador</string>
+  <string name="tc_diagnostic_operator_error_notification_summary">Toqueu per canviar els paràmetres d\'operador</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operador incorrecte</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Estbalir operaor: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Fixar i continuarà</string>
@@ -1989,7 +1896,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_sms_report_receive_num">Número del receptor</string>
   <string name="tc_sms_report_send_num">Número de l\'operador</string>
   <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta característica, enviant-nos un informe quan la informació del seu ús de dades és incorrecta o no s\'actualitza.</string>
-  <string name="tc_sms_report_tips_dialog_message">"S'enviarà un SMS per obtenir la informació d'ús de dades més recent del vostre operador. Si creieu que la informació no és correcta, envieu-nos els vostres comentaris."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
   <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>
@@ -2134,15 +2040,14 @@ Dades extres en ús"</string>
   <string name="traffic_limit_error_alert_package">Dades restants inclouen dades que s\'han passat del mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatori límit de dades %s</string>
   <string name="traffic_none">Cap</string>
-  <string name="traffic_over_purchase_link">"Ha arribat al límit d'ús del pla de dades mòbils.&lt;br/&gt;Si sobrepassa el límit d'ús del pla de dades mòbils, el seu operador podria cobrar despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Premi per recarregar el seu saldo.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
-  <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
+  <string name="traffic_over_purchase_link">"Heu assolit el límit d'ús del pla de dades.&lt;br/&gt;Si sobrepasseu el límit d'ús del pla de dades, el vostre operador podria cobrar-vos despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Toqueu per recarregar el vostre saldo.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_purchase_body">Toqueu per recarregar el saldo.</string>
   <string name="traffic_setting_fragment_area">Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desa</string>
   <string name="traffic_setting_fragment_city">Ciutat</string>
   <string name="traffic_setting_fragment_default">Trieu</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;No esteu segur de la operadora?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"No tornar a mostrar"</string>
   <string name="traffic_setting_fragment_operator">Operador</string>
   <string name="traffic_setting_fragment_operator_setting">Configuració de l\'operador</string>
