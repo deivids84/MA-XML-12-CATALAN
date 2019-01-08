@@ -1206,7 +1206,6 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="ssl_ca_cert_noti_managed">Per %s</string>
   <string name="ssl_certificate">Certificat de seguretat</string>
   <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
-  <string name="status_bar_battery">bateria</string>
   <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
   <string name="stk_cc_ss_to_dial_video">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
   <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
