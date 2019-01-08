@@ -6,7 +6,6 @@
   <string name="activity_not_found_uri">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="addBlackList">Bloqueja</string>
   <string name="add_attachment">Afegeix fitxers adjunts</string>
-  <string name="add_miui_contact">Targeta Mi</string>
   <string name="add_music">Afegeix música</string>
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
@@ -104,7 +103,6 @@
   <string name="converting_to_picture_message">S\'està convertint en MMS&#8230;</string>
   <string name="converting_to_text_message">S\'està convertint en SMS&#8230;</string>
   <string name="copy_message_text">Copia</string>
-  <string name="copy_message_text_success">Text copiat</string>
   <string name="copy_to_sdcard">Desa el fitxer adjunt</string>
   <string name="copy_to_sdcard_fail">"No s'ha pogut desar el fitxer adjunt"</string>
   <string name="copy_to_sdcard_success">Fitxer adjunt desat com a %s</string>
@@ -119,7 +117,6 @@
   <string name="delete_wild_sims_title">Elimina els números seleccionats</string>
   <string name="delivery_report_activity">Informe de lliurament</string>
   <string name="delivery_toast_body">Missatge rebut de %s</string>
-  <string name="dialog_message_sms_report">"Els missatges de correu brossa i la informació del remitent es penjarà a MIUI quan els notifiqueu. Només s'utilitzaran per millorar els filtres de correu brossa de MIUI."</string>
   <string name="disable_notifications_dialog_message">Voleu deixar de duplicar les notificacions d\'SMS de l\'aplicació de Missatgeria per defecte?</string>
   <string name="disabled">Desactivat</string>
   <string name="discard">Descarta</string>
@@ -195,7 +192,6 @@
   <string name="hybrid_pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
-  <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
   <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
   <string name="in_sms">Missatge</string>
@@ -359,7 +355,6 @@
   <string name="pref_sms_storage_title">Emmagatzematge</string>
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>
-  <string name="pref_summary_allow_upload_message_info">"Els missatges de correu brossa i la informació del remitent es pujarà a MIUI quan els notifiqueu."</string>
   <string name="pref_summary_auto_delete">Elimina missatges antics a mesura que s\'assoleixen els límits</string>
   <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
   <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
@@ -375,7 +370,6 @@
   <string name="pref_switch_sdk_setting">Canvia al sistema sms inteligent</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_title_allow_si_sl_push">Permeteu missatges WAP (SI/SL)</string>
-  <string name="pref_title_allow_upload_message_info">Penja missatges de correu brossa</string>
   <string name="pref_title_auto_delete">Elimina missatges antics</string>
   <string name="pref_title_card_format">Format de targeta compartida</string>
   <string name="pref_title_delivery_reports">Estat de lliurament</string>
@@ -473,8 +467,6 @@
   <string name="security_alert_dialog_title">Informa</string>
   <string name="select_audio">Seleccioneu un àudio</string>
   <string name="select_bottom_text">Text en la part inferior</string>
-  <string name="select_copy_text">Selecciona i copia el text del missatge</string>
-  <string name="select_different_media">Trieu un %1$s diferent.</string>
   <string name="select_link_title">Trieu una acció</string>
   <string name="select_local_audio">Seleccioneu un àudio</string>
   <string name="select_local_video">Seleccioneu un vídeo</string>
@@ -524,7 +516,6 @@
   <string name="sms_full_title">Memòria de missatges de text completa</string>
   <string name="sms_rejected_body">Un missatge entrant s\'ha rebutjat.</string>
   <string name="sms_rejected_title">Missatge de text rebutjat</string>
-  <string name="sms_report">Notifica missatges de correu brossa</string>
   <string name="sms_report_dialog_content">"No s'ha pogut enviar l'informe, torna-ho a provar."</string>
   <string name="sms_report_dialog_retry">Torna-ho a provar</string>
   <string name="sms_report_dialog_title">Torna-ho a provar</string>

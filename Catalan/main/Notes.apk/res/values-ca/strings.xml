@@ -187,5 +187,5 @@
   <string name="undo">Desfer</string>
   <string name="unknown_source">Font desconeguda</string>
   <string name="widget_content_loading">Un moment…</string>
-  <string name="widget_havenot_content">No s\'ha trobat nota associada. Toqui per crear una nota associada. Per redimensionar premi i arrossegui a una vora.</string>
+  <string name="widget_havenot_content">Toqueu per crear una nota. Manteniu premut per modificar-ne la mida.</string>
 </resources>

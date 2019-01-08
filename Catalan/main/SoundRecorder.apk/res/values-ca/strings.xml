@@ -50,13 +50,10 @@
   <string name="mark_point_list_title">Marques</string>
   <string name="menu">Menú</string>
   <string name="message_file_size_error">La gravació ha arribat a la durada màxima permesa per %s</string>
-  <string name="network_tip_dialog_cancel">Cancel·la</string>
-  <string name="network_tip_dialog_content">La gravadora necessita connectar-se a Internet, així com llegir els vostres contactes perquè funcioni normalment. Hi esteu d\'acord?</string>
   <string name="network_tip_dialog_ok">D\'acord</string>
   <string name="network_tip_dialog_title">Es necessita una connexió a Internet</string>
   <string name="new_record_name">Gravació nova</string>
   <string name="no_file">No hi ha gravacions</string>
-  <string name="notification_message_all_paused">S\'està esperant el Wi-Fi.</string>
   <string name="notification_playback">S\'està reproduint&#8230;</string>
   <string name="notification_recording">S\'està enregistrant&#8230;</string>
   <string name="notification_recording_ticker">Telèfon silenciat</string>
@@ -77,16 +74,9 @@
   <string name="recognition_error_cancel">Cancel·lat</string>
   <string name="recognition_error_download_cancel">Més tard</string>
   <string name="recognition_error_download_fail">"No s'ha pogut baixar, comproveu la configuració de xarxa i torneu-ho a provar."</string>
-  <string name="recognition_error_download_msg">Baixa el motor de reconeixement per a que aquest servei estigui disponible.</string>
   <string name="recognition_error_download_ok">Baixa</string>
-  <string name="recognition_error_download_title">Falta el motor de reconeixement</string>
-  <string name="recognition_error_downloading">S\'està baixant</string>
-  <string name="recognition_error_engine">Error del motor de reconeixement</string>
-  <string name="recognition_error_engine_singleton">El motor de reconeixement està ocupat</string>
   <string name="recognition_error_format">El format d\'àudio no és vàlid</string>
   <string name="recognition_error_internal">Error intern</string>
-  <string name="recognition_error_stopped">Reconeixement aturat</string>
-  <string name="recognition_status_downloading">S\'està baixant</string>
   <string name="record">Grava</string>
   <string name="record_back_pressed_hint">Per aturar la gravació, toqueu «Enrere» un altre cop</string>
   <string name="record_download">Baixa des de Mi Cloud</string>
@@ -114,7 +104,6 @@
   <string name="rename">Canvia el nom</string>
   <string name="rename_dialog_title">Canvi de nom de la gravació</string>
   <string name="rename_duplicate">Ja existeix una gravació amb aquest nom.</string>
-  <string name="rename_fail_tip">"No s'ha pogut canviar el nom. Ja existeix un element amb el mateix nom."</string>
   <string name="rename_no_more_tip">"No ho tornis a mostrar"</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="runtime_permission_ungranted">"No es pot utilitzar la gravadora per manca de permisos"</string>
@@ -129,8 +118,6 @@
   <string name="share">Comparteix</string>
   <string name="share_dialog_title">Comparteix amb</string>
   <string name="sound_recorder_settings">Configuració</string>
-  <string name="speech_recognition_complete">Fet</string>
-  <string name="speech_recognition_running_tip">S\'està reconeixent</string>
   <string name="start">Reprèn</string>
   <string name="status_bar_back">Toqueu per tornar a la gravadora</string>
   <string name="status_bar_recording">S\'està enregistrant&#8230;</string>
@@ -140,12 +127,10 @@
   <string name="text_btn_mark">Marca</string>
   <string name="text_btn_pause">Pausa</string>
   <string name="text_btn_play">Reprodueix</string>
-  <string name="text_btn_recognize">Reconeix</string>
   <string name="text_btn_recording">Enregistra</string>
   <string name="text_btn_wave">Ona</string>
   <string name="text_finish">Confirma</string>
   <string name="toast_max_record_time">%1$s pot enregistrar durant uns %2$s</string>
   <string name="toast_uninstall_fileexplorer">"El gestor de fitxers no està instal·lat"</string>
-  <string name="wifi_recommended_body" formatted="false">Si utilitzeu la connexió de dades mòbils per baixar aquest fitxer (%s) augmentareu l\'ús de dades. Si se supera el límit de dades contractades, el vostre operador us pot cobrar càrrecs addicionals. Toqueu %s per iniciar aquesta baixada quan estigueu connectat a una xarxa Wi-Fi.</string>
   <string name="wifi_recommended_title">Alerta d\'ús de dades</string>
 </resources>

@@ -9,7 +9,6 @@
   <string name="close_panel">Desactiva el menú de dreceres</string>
   <string name="customize_entries">Seleccioneu les dreceres</string>
   <string name="enable_touch_assistant">Activa el menú de dreceres</string>
-  <string name="enabled_for_pad_hint">Funciona quan «Bloqueja els botons de navegació en mode apaïsat» estigui activat</string>
   <string name="function_settings">Configuració de les dreceres</string>
   <string name="handy_mode_default_to_close_whether_open">El mode d\'una sola mà està desactivat de manera predeterminada. Voleu activar el mode d\'una sola mà?</string>
   <string name="hide_touch_assistant">Amaga automàticament</string>

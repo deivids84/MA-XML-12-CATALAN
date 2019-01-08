@@ -533,7 +533,6 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="oldman_incall_text">Torna a la trucada</string>
   <string name="open_camera_hint_text">Llisqueu a l\'esquerra per obrir la càmera</string>
   <string name="open_extreme_power_save_mode_title">Activa l\'estalvi extrem de bateria</string>
-  <string name="open_remote_center_hint_text">Llisqueu a la dreta per obrir les dreceres</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="phone_hint">Llisqueu des de la icona per fer trucades</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
@@ -596,7 +595,6 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="recents_app_info_button_label">Informació de l\'aplicació</string>
   <string name="recents_caption_resize">Selecciona el disseny de la tasca nova</string>
-  <string name="recents_drag_hint_message">Arrossegueu elements aquí</string>
   <string name="recents_empty_message">No hi ha cap element recent</string>
   <string name="recents_empty_message_dismissed_all">"Heu eliminat tots els elements"</string>
   <string name="recents_empty_message_multi_window">Obriu les aplicacions des de la pantalla d\'inici</string>
@@ -688,11 +686,6 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
   <string name="start_dreams">Protector de pantalla</string>
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-  <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
-  <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
   <string name="status_bar_network_flow_content">"Avui: %1$s   Restant: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedit del pla: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Límit mensual: %1$s"</string>

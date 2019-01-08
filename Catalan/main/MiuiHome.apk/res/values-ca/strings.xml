@@ -253,7 +253,6 @@
   <string name="preferred_app_settings_not_selected">No s\'ha seleccionat</string>
   <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
   <string name="recommend_apps_default_title">Buit</string>
-  <string name="recommend_apps_no_data">No hi ha dades</string>
   <string name="recommend_apps_notice">Aplicacions recomanades</string>
   <string name="recommend_apps_notice_nodata">Aplicacions recomanades (sense dades)</string>
   <string name="recommend_apps_switch_title">Aplicacions recomanades</string>
