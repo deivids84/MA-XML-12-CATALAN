@@ -4,6 +4,7 @@
   <string name="add_alarm">Afegeix alarma</string>
   <string name="add_clock">Afegeix un rellotge</string>
   <string name="add_timezone_title">Afegeix un fus horari</string>
+  <string name="alarm_alert_alert_silenced">L\'alarma es silenciarà després de %d minuts.</string>
   <string name="alarm_ascending_mode_summary">El volum de l\'alarma augmentarà gradualment</string>
   <string name="alarm_ascending_mode_title">Volum ascendent</string>
   <string name="alarm_clock_more_setting">Configuració addicional</string>
@@ -69,6 +70,12 @@
   <string name="label_pref_summary">Etiqueta</string>
   <string name="lap">Volta</string>
   <string name="lap_num">Volta</string>
+  <string name="legal_off_day">Dia de descans</string>
+  <string name="legal_off_day_message">" (Alarma apagada durant dies feiners)"</string>
+  <string name="legal_workday">Dies feiners</string>
+  <string name="legal_workday_invalidate">Dates caducades (tons d\'alarma de dilluns a divendres)</string>
+  <string name="legal_workday_invalidate_message">(Dates caducades. Actualitzeu-les a paràmetres)</string>
+  <string name="legal_workday_message">" (Alarma aturada els dies festius)"</string>
   <string name="life_post_setting">Informe matinal</string>
   <string name="life_post_setting_FBE_remind">A causa de la restricció del sistema, la informació meteorològica a l\'informe del matí pot no mostrar-se correctament després de reiniciar</string>
   <string name="life_post_setting_close_title">Informacions del matí proper</string>
@@ -81,6 +88,7 @@
   <string name="life_post_wake_up_item_time_title">Hora de llevar-se</string>
   <string name="life_post_wake_up_percentage_title">Usuaris Mi darrere teu</string>
   <string name="life_post_wake_up_time_title">Hora de llevar-se</string>
+  <string name="life_post_weather_invalid">No s\'ha pogut obtenir informació meteorològica, premeu per provar-ho un altre cop</string>
   <string name="loading_ringtone">S\'està carregant el so…</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
@@ -89,7 +97,11 @@
   <string name="menu_item_sort_by_gmt_offset">Ordena per hora</string>
   <string name="menu_item_sort_by_name">Ordena pel nom</string>
   <string name="module_download_cancel">No, gràcies</string>
+  <string name="module_download_data_msg">El rellotge necessita connectar-se a Internet per baixar fitxers d\'àudio (20 Mb) per sorolls ambientals i alarmes intel·ligents. Esteu utilitzant dades mòbils ara. Ho voleu permetre?</string>
+  <string name="module_download_data_msg_golbal">El rellotge necessita baixar fitxers d\'àudio (20 Mb) per sorolls ambientals i alarmes intel·ligents. Esteu utilitzant dades mòbils ara. Ho veleu permetre?</string>
   <string name="module_download_fail">"No s'ha pogut baixar cap àudio addicional"</string>
+  <string name="module_download_msg">El rellotge necessita connectar-se a Internet per baixar fitxers d\'àudio per a sorolls ambientals i alarmes intel·ligents. Ho voleu permetre?</string>
+  <string name="module_download_msg_golbal">El rellotge necessita baixar fitxers d\'àudio per a sorolls ambientals i alarmes intel·ligents. Ho voleu permetre?</string>
   <string name="module_download_no_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
   <string name="module_download_ok">Permet</string>
   <string name="module_download_success">S\'ha baixat l\'àudio addicional amb èxit</string>
@@ -115,11 +127,14 @@
   <string name="setting_alarm_arriving_title">Notificació abans de sonar</string>
   <string name="settings">Configuració</string>
   <string name="shut_down_keep_screen">"La pantalla no es mantindrà encesa"</string>
+  <string name="shutdown_alarm_disable_summary">"L'alarma no sonarà amb el dispositiu apagat"</string>
+  <string name="shutdown_alarm_enable_summary">"L'alarma sonarà amb el dispositiu apagat"</string>
   <string name="shutdown_alarm_title">Atura l\'alarma</string>
   <string name="silent_alarm_summary">Silenciosa</string>
   <string name="skip_alarm_once_hint">Aturar una vegada el %s</string>
   <string name="slider_text">Feu lliscar amunt per tancar</string>
   <string name="snooze_confirm_cancel">Cancel·la l\'alarma</string>
+  <string name="snooze_duration_title">Durada de la repetició</string>
   <string name="start">Inicia</string>
   <string name="start_up">Inicia</string>
   <string name="stat_repeat_everyday">Diàriament</string>
@@ -136,6 +151,8 @@
   <string name="time">Hora</string>
   <string name="timer_alarm_cancel_pad">Toqueu la pantalla per aturar l\'alarma</string>
   <string name="timer_alarm_dot_matrix_label">TEMPORITZADOR</string>
+  <string name="timer_alert_alert_silenced">Temporitzador silenciat després de %d minuts.</string>
+  <string name="timer_alert_mute_remind">Premeu per silenciar l\'alarma</string>
   <string name="timer_alert_type_beach">Platja</string>
   <string name="timer_alert_type_forest">Bosc</string>
   <string name="timer_alert_type_mute">Per defecte</string>
@@ -170,10 +187,12 @@
   <string name="volume_button_setting_title">Botons de volum</string>
   <string name="workday_alarm_clock">Alarma de dia laboral</string>
   <string name="worldclock_empty_text">Sense rellotges</string>
+  <string name="worldclock_input_hint_text">Introduïu la ciutat</string>
   <string name="worldclock_search_city">Trieu una ciutat</string>
   <string name="worldclock_title">Hora</string>
   <string name="worldclock_world_time">Fus horari</string>
   <string name="worldcolock_timezone_current">Actual: %1$s</string>
   <string name="worldcolock_timezone_date">dd MMM</string>
+  <string name="worldcolock_timezone_gap">Hora</string>
   <string name="worldcolock_timezone_local">Igual que l\'hora local</string>
 </resources>

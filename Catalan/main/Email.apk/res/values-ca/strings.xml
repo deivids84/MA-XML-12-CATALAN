@@ -73,9 +73,11 @@
   <string name="account_setup_address_label">Correu electrònic</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d\'usuari, contrasenya i compte, els ajustos són correctes.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Problema amb la configuració del compte"</string>
+  <string name="account_setup_basics_email_label">Introduïu l\'adreça de correu</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Inicieu sessió mitjançant la xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
   <string name="account_setup_basics_mi_mail_login_help">És possible que hageu de verificar el vostre compte mitjançant un SMS per rebre correus</string>
+  <string name="account_setup_basics_password_label">Introduïu la contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validant la configuració del servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">S\'està validant la configuració SMTP…</string>
@@ -674,10 +676,12 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="note_title">Configuració automàtica del correu 139</string>
   <string name="notification_action_archive">Fitxer</string>
   <string name="notification_action_delete">Elimina</string>
+  <string name="notification_action_remove_label">Tregui l\'etiqueta</string>
   <string name="notification_action_reply">Respon</string>
   <string name="notification_action_reply_all">Respon a tots</string>
   <string name="notification_action_undo_archive">Arxivat</string>
   <string name="notification_action_undo_delete">Eliminat</string>
+  <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
   <string name="notification_exchange_calendar_added">Calendari d\'intercanvi afegit</string>
   <string name="oauth_error_description">"No s'ha pogut autenticar"</string>
   <string name="oauth_gmail_login_notify">Introduïu el vostre nom d\'usuari i la contrasenya de compte de Google a la següent pàgina de registre.</string>
@@ -723,6 +727,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="over_due">Vençudes</string>
   <string name="overlays_fail_tip">La seva bústia no té una configuració correcta, obriu els permisos flotants de Windows i torneu-ho a provar</string>
   <string name="overlays_ok">Obre els permisos</string>
+  <string name="overlays_tip">Obriu els permisos flotants de Windows i gaudiu immediatament de la bustia 139 per configurar automàticament la experiència extrema.</string>
   <string name="overlays_title">Obre els permisos de Windows flotants</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
   <string name="parse_bill_discribe">S\'estan processant les factures de la targeta de crèdit&#8230;</string>
@@ -814,6 +819,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
+  <string name="qq_authorization_help_get">Ajuda\'m a aconseguir-ho</string>
+  <string name="qq_authorization_know">Compreneu el codi d\'autorització</string>
+  <string name="qq_authorization_tips">"Ja no cal"</string>
   <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit. Torneu a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
   <string name="qq_auto_login_failed_dialog_message">Copieu el codi de verificació, toqueu «Introdueix el nom d\'usuari i la contrasenya per iniciar la sessió» a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi</string>
@@ -827,6 +835,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_login_webview">S\'està iniciant sessió al client web de QQ, toqueu inicia sessió amb contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
+  <string name="qq_verify_code">(Cal el codi de verificació QQ)</string>
   <string name="qq_webview_loading">Un moment…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Voleu eliminar el compte?</string>
@@ -927,6 +936,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="saved">Desat, %s</string>
   <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
+  <string name="search_bar_text">Cerca missatges i contactes</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
   <string name="search_tabs_name_all">Tot</string>

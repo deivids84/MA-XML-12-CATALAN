@@ -383,6 +383,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="title_tips">Atenció</string>
   <string name="title_unbind_xunlei">Treure el teu compte Xunlei</string>
   <string name="toast_only_wifi_download">Connecteu-vos a la Wi-Fi per baixar aquest element</string>
+  <string name="toast_update_data_limit_fail">"No s'ha pogut configurar"</string>
   <string name="toast_xunlei_engine_open">S\'ha activat l\'accelerador de baixades Xunlei</string>
   <string name="torrent_file_error">"No s'ha pogut parsejar el fitxer torrent"</string>
   <string name="torrent_no_subfile">Aquest torrent no té subfitxers</string>

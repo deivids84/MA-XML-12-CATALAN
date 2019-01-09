@@ -403,6 +403,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_calculating_media_description">Fitxers multimèdia</string>
   <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
+  <string name="trans_cancel_dialog_survey_title">Per què heu aturat la transferència?</string>
   <string name="trans_cancel_selection_message">Si sortiu de Mi Mover, la transferència en curs s\'interromprà. Espereu fins que finalitzi la transferència.</string>
   <string name="trans_cancel_selection_title">Roman al Mi Mover</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
@@ -439,10 +440,12 @@ Allibera %s com a mínim. "</string>
   <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
   <string name="trans_device_disconnected">S\'ha interromput la connexió</string>
   <string name="trans_device_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar per continuar.</string>
+  <string name="trans_dialog_survey_finish">Envia</string>
   <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
   <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
   <string name="trans_failed_details_page_title">Transferències fallides</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
+  <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Torneu-ho a provar."</string>
   <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
   <string name="trans_install_guide_button_start">Inicia</string>
   <string name="trans_install_guide_page_title">Instal·leu Mi Mover al telèfon antic</string>
@@ -564,9 +567,14 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
   <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, torneu-ho a provar o reinicieu el dispositiu."</string>
   <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
+  <string name="trans_success_dialog_button_market_comment">Comenta</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Valora Mi Mover</string>
+  <string name="trans_success_dialog_button_survey">Qüestionari</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">"Ja podeu començar! Digueu-nos que us sembla Mi Mover."</string>
   <string name="trans_success_dialog_market_comment_title">"El vostre nou dispositiu se sent com a casa.
 Us ha agradat el Mi Mover?"</string>
+  <string name="trans_success_dialog_survey_title">Agraïm els vostres comentaris</string>
+  <string name="trans_success_survey_hint">Ompliu primer tots els camps.</string>
   <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
   <string name="trans_time_spent">\"

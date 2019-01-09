@@ -14,8 +14,8 @@
     <string-array name="alarm_repeat_type">
         <item>Una vegada</item>
         <item>Diàriament</item>
-        <item>Workdays</item>
-        <item>Days off</item>
+        <item>En dies laborables</item>
+        <item>En dies de descans</item>
         <item>De dilluns a divendres</item>
         <item>Personalitzat</item>
     </string-array>
@@ -71,41 +71,41 @@
         <item>Harare</item>
         <item>Johannesburg</item>
         <item>Kampala</item>
+        <item>Khartum</item>
         <item>Kigali</item>
         <item>Kinshasa</item>
         <item>Lagos</item>
         <item>Maseru</item>
-        <item>Mogadishu</item>
+        <item>Mogadiscio</item>
         <item>Nairobi</item>
-        <item>Sao Tome</item>
+        <item>Sao Tomé</item>
         <item>Timbuktu</item>
-        <item>Tripoli</item>
+        <item>Trípoli</item>
         <item>Tunis</item>
-        <item>Anchorage</item>
+        <item>Ancoratges</item>
         <item>Mendoza</item>
+        <item>Aruba</item>
         <item>Asunción</item>
-        <item>Bridgetown</item>
+        <item>Barbados</item>
         <item>Belize</item>
-        <item>Bogotá</item>
+        <item>Bogotà</item>
         <item>Buenos Aires</item>
         <item>Cancun</item>
         <item>Caracas</item>
-        <item>George Town</item>
-        <item>Chicago</item>
         <item>San José</item>
-        <item>Willemstad</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
         <item>Dawson Creek</item>
         <item>Denver</item>
         <item>Detroit</item>
-        <item>Santo Domingo</item>
+        <item>Dominica</item>
         <item>Edmonton</item>
-        <item>El Salvador</item>
+        <item>"El Salvador"</item>
         <item>Fortaleza</item>
-        <item>"St. George's"</item>
-        <item>Guatemala</item>
-        <item>Georgetown</item>
+        <item>Grand Turk</item>
         <item>Halifax</item>
-        <item>Havana</item>
+        <item>Guatemala</item>
         <item>Indianapolis</item>
         <item>Knox</item>
         <item>Marengo</item>
@@ -120,32 +120,32 @@
         <item>Los Angeles</item>
         <item>Louisville</item>
         <item>Managua</item>
-        <item>Fort-de-France</item>
+        <item>Los Angeles</item>
         <item>Metlakatla</item>
         <item>Mexico City</item>
-        <item>Monterrey</item>
+        <item>Martinica</item>
         <item>Montevideo</item>
         <item>Montreal</item>
         <item>Nassau</item>
         <item>New York</item>
         <item>Beulah</item>
         <item>Center</item>
-        <item>New Salem</item>
+        <item>Nova York</item>
         <item>Panama</item>
         <item>Phoenix</item>
         <item>Port of Spain</item>
-        <item>Port-au-Prince</item>
+        <item>Panamà</item>
         <item>São Paulo</item>
         <item>St. Johns</item>
         <item>St. Kitts</item>
-        <item>Castries</item>
+        <item>Puerto Rico</item>
         <item>St. Thomas</item>
         <item>Tijuana</item>
         <item>Toronto</item>
         <item>Vancouver</item>
         <item>Winnipeg</item>
         <item>Longyearbyen</item>
-        <item>Almaty</item>
+        <item>Tijuana</item>
         <item>Amman</item>
         <item>Anadyr</item>
         <item>Aktau</item>
@@ -155,7 +155,13 @@
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcutta</item>
-        <item>Damascus</item>
+        <item>Bagdad</item>
+        <item>Bahrain</item>
+        <item>Bakú</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Calcuta</item>
+        <item>Damasc</item>
         <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
@@ -166,95 +172,99 @@
         <item>Jerusalem</item>
         <item>Kabul</item>
         <item>Karachi</item>
-        <item>Kathmandu</item>
+        <item>Katmandú</item>
         <item>Kuala Lumpur</item>
         <item>Kuwait</item>
         <item>Macau</item>
         <item>Manila</item>
-        <item>Muscat</item>
+        <item>Masqat</item>
         <item>Phnom Penh</item>
         <item>Pyongyang</item>
-        <item>Doha</item>
+        <item>Qatar</item>
         <item>Rangoon</item>
-        <item>Riyadh</item>
-        <item>Seoul</item>
-        <item>Shanghai</item>
-        <item>Singapore</item>
-        <item>Taipei</item>
-        <item>Tehran</item>
-        <item>Tel Aviv</item>
+        <item>Riad</item>
         <item>Tokyo</item>
-        <item>Ulaanbaatar</item>
-        <item>Hamilton</item>
-        <item>Canary Islands</item>
-        <item>Praia</item>
-        <item>Reykjavik</item>
+        <item>Seül</item>
+        <item>Xangai</item>
+        <item>Singapur</item>
+        <item>Taipei</item>
+        <item>Teheran</item>
+        <item>Tel Aviv</item>
+        <item>Tòquio</item>
+        <item>Ulan Bator</item>
+        <item>Bermuda</item>
+        <item>Illes Canàries</item>
+        <item>Cap Verd</item>
+        <item>Reykjavík</item>
         <item>Stanley</item>
         <item>Adelaide</item>
         <item>Brisbane</item>
         <item>Canberra</item>
         <item>Darwin</item>
         <item>Melbourne</item>
-        <item>New South Wales</item>
+        <item>Nova Gal·les del Sud</item>
         <item>Perth</item>
-        <item>Queensland</item>
-        <item>Sydney</item>
-        <item>Victoria</item>
-        <item>Newfoundland</item>
-        <item>Saskatchewan</item>
-        <item>Easter Island</item>
-        <item>Amsterdam</item>
         <item>Andorra la Vella</item>
         <item>Athens</item>
         <item>Belfast</item>
         <item>Belgrade</item>
         <item>Berlin</item>
         <item>Bratislava</item>
-        <item>Brussels</item>
-        <item>Bucharest</item>
-        <item>Budapest</item>
-        <item>Chisinau</item>
-        <item>Copenhagen</item>
+        <item>Amsterdam</item>
+        <item>Bucarest</item>
+        <item>Atenes</item>
+        <item>Belfast</item>
+        <item>Belgrad</item>
         <item>Dublin</item>
         <item>Gibraltar</item>
-        <item>Helsinki</item>
-        <item>Isle of Man</item>
-        <item>Istanbul</item>
-        <item>Lisbon</item>
-        <item>London</item>
-        <item>Luxembourg</item>
+        <item>Brussel·les</item>
+        <item>Bucarest</item>
+        <item>Budapest</item>
+        <item>Lisboa</item>
+        <item>Londres</item>
+        <item>Luxemburg</item>
         <item>Madrid</item>
         <item>Valletta</item>
+        <item>Illa de Man</item>
+        <item>Mònaco</item>
+        <item>Lisboa</item>
+        <item>Londres</item>
+        <item>Luxemburg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
         <item>Minsk</item>
-        <item>Monaco</item>
-        <item>Moscow</item>
-        <item>Oslo</item>
-        <item>Paris</item>
-        <item>Prague</item>
-        <item>Riga</item>
-        <item>Rome</item>
-        <item>San Marino</item>
-        <item>Sarajevo</item>
+        <item>Mònaco</item>
+        <item>Moscou</item>
         <item>Simferopol</item>
         <item>Skopje</item>
-        <item>Sofia</item>
-        <item>Stockholm</item>
-        <item>Tallinn</item>
-        <item>Vatican</item>
+        <item>Praga</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>Vaticà</item>
         <item>Vienna</item>
         <item>Vilnius</item>
-        <item>Warsaw</item>
+        <item>Varsòvia</item>
         <item>Zagreb</item>
-        <item>Zurich</item>
+        <item>Estocolm</item>
         <item>Antananarivo</item>
-        <item>Malé</item>
-        <item>Port Louis</item>
+        <item>Vaticà</item>
+        <item>Viena</item>
         <item>Auckland</item>
-        <item>Suva</item>
+        <item>Varsòvia</item>
+        <item>Guam</item>
+        <item>Zuric</item>
+        <item>Antananarivo</item>
+        <item>Maldives</item>
+        <item>Maurici</item>
+        <item>Auckland</item>
+        <item>Illes Fiji</item>
         <item>Guam</item>
         <item>Honolulu</item>
+        <item>Kiritimati</item>
         <item>Noumea</item>
+        <item>Samoa</item>
         <item>Tahiti</item>
+        <item>Antigua</item>
         <item>Austin</item>
         <item>Boston</item>
         <item>Calgary</item>
@@ -265,13 +275,13 @@
         <item>Miami</item>
         <item>Minneapolis</item>
         <item>Ottawa</item>
-        <item>Philadelphia</item>
+        <item>Filadèlfia</item>
         <item>Portland</item>
         <item>San Diego</item>
         <item>San Francisco</item>
         <item>Salt Lake City</item>
         <item>San José</item>
-        <item>San Salvador</item>
+        <item>Oklahoma City</item>
         <item>Seattle</item>
         <item>St. Louis</item>
         <item>Washington D.C.</item>
@@ -288,24 +298,14 @@
         <item>Sacramento</item>
         <item>Atlanta</item>
         <item>Cleveland</item>
-        <item>New Orleans</item>
+        <item>Nova Orleans</item>
         <item>Tampa</item>
         <item>Pittsburgh</item>
         <item>Cincinnati</item>
-        <item>Mountain View</item>
-        <item>Reno</item>
-        <item>Black Rock City</item>
-        <item>Doha</item>
-        <item>Beijing</item>
-        <item>Mumbai</item>
-        <item>Delhi</item>
-        <item>New Delhi</item>
-        <item>Osaka</item>
-        <item>Lahore</item>
         <item>"Sana'a"</item>
-        <item>Barcelona</item>
-        <item>Munich</item>
-        <item>Milan</item>
+        <item>Reno</item>
+        <item>Munic</item>
+        <item>Milà</item>
         <item>Frankfurt</item>
         <item>Hanoi</item>
         <item>Ankara</item>
@@ -315,7 +315,7 @@
         <item>Islamabad</item>
         <item>Rio de Janeiro</item>
         <item>Ann Arbor</item>
-        <item>Boulder</item>
+        <item>Milà</item>
         <item>Cambridge</item>
         <item>Kirkland</item>
         <item>Madison</item>
@@ -324,18 +324,18 @@
         <item>Reston</item>
         <item>Belo Horizonte</item>
         <item>Santiago</item>
-        <item>Monrovia</item>
+        <item>Monròvia</item>
         <item>Colombo</item>
         <item>Chihuahua</item>
         <item>Gurgaon</item>
         <item>Manchester</item>
         <item>Kyiv</item>
-        <item>St. Petersburg</item>
-        <item>Kraków</item>
+        <item>Sant Petersburg</item>
+        <item>Cracòvia</item>
         <item>Wroclaw</item>
         <item>Hamburg</item>
-        <item>Oulu</item>
-        <item>Haifa</item>
+        <item>Monròvia</item>
+        <item>Colombo</item>
         <item>San Juan</item>
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
@@ -359,128 +359,128 @@
         <item>Zimbàbue</item>
         <item>Sud-àfrica</item>
         <item>Uganda</item>
-        <item>Rwanda</item>
-        <item>Democratic Republic of the Congo</item>
-        <item>Nigeria</item>
-        <item>Lesotho</item>
-        <item>Somalia</item>
-        <item>Kenya</item>
-        <item>Sao Tome and Principe</item>
+        <item>República del Sudan</item>
+        <item>Ruanda</item>
+        <item>República Democràtica del Congo</item>
+        <item>Nigèria</item>
+        <item>Lesoto</item>
+        <item>Somàlia</item>
+        <item>Kènia</item>
+        <item>Sao Tomé i Príncipe</item>
         <item>Mali</item>
-        <item>Libya</item>
-        <item>Tunisia</item>
-        <item>United States</item>
+        <item>Líbia</item>
+        <item>Tunísia</item>
+        <item>Estats Units</item>
         <item>Argentina</item>
-        <item>Paraguay</item>
+        <item>Aruba</item>
+        <item>Paraguai</item>
         <item>Barbados</item>
         <item>Belize</item>
-        <item>Colombia</item>
+        <item>Colòmbia</item>
         <item>Argentina</item>
-        <item>Mexico</item>
-        <item>Venezuela</item>
-        <item>Cayman Islands</item>
-        <item>United States</item>
+        <item>Mèxic</item>
+        <item>Veneçuela</item>
         <item>Costa Rica</item>
-        <item>Curaçao</item>
+        <item>Estats Units</item>
         <item>Canada</item>
         <item>United States</item>
-        <item>United States</item>
-        <item>Dominican Republic</item>
-        <item>Canada</item>
-        <item>El Salvador</item>
-        <item>Brazil</item>
+        <item>Canadà</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>República Dominicana</item>
+        <item>Canadà</item>
         <item>Grenada</item>
-        <item>Guatemala</item>
+        <item>Brasil</item>
         <item>Guyana</item>
-        <item>Canada</item>
+        <item>Canadà</item>
+        <item>Guatemala</item>
+        <item>Estats Units</item>
+        <item>Canadà</item>
         <item>Cuba</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Jamaica</item>
-        <item>Bolivia</item>
-        <item>Peru</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Perú</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
         <item>Nicaragua</item>
-        <item>Martinique</item>
-        <item>United States</item>
-        <item>Mexico</item>
-        <item>United States</item>
-        <item>Uruguay</item>
-        <item>Canada</item>
-        <item>The Bahamas</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Panama</item>
-        <item>United States</item>
-        <item>Trinidad and Tobago</item>
-        <item>Haiti</item>
-        <item>Brazil</item>
-        <item>Canada</item>
+        <item>Martinica</item>
+        <item>Estats Units</item>
+        <item>Mèxic</item>
+        <item>Estats Units</item>
+        <item>Uruguai</item>
+        <item>Canadà</item>
+        <item>Les Bahames</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Panamà</item>
+        <item>Estats Units</item>
+        <item>Trinitat i Tobago</item>
+        <item>Haití</item>
+        <item>Brasil</item>
+        <item>Canadà</item>
         <item>Saint Kitts and Nevis</item>
         <item>Saint Lucia</item>
         <item>U.S. Virgin Islands</item>
-        <item>Mexico</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
+        <item>Brasil</item>
+        <item>Canadà</item>
+        <item>Canadà</item>
+        <item>Canadà</item>
         <item>Svalbard and Jan Mayen</item>
-        <item>Kazakhstan</item>
-        <item>Jordan</item>
-        <item>Russia</item>
-        <item>Kazakhstan</item>
-        <item>Iraq</item>
+        <item>Mèxic</item>
+        <item>Canadà</item>
+        <item>Canadà</item>
+        <item>Canadà</item>
+        <item>Antàrtida</item>
         <item>Bahrain</item>
         <item>Azerbaijan</item>
-        <item>Thailand</item>
-        <item>Lebanon</item>
-        <item>India</item>
-        <item>Syria</item>
+        <item>Jordània</item>
+        <item>Rússia</item>
+        <item>Índia</item>
+        <item>Síria</item>
         <item>Bangladesh</item>
-        <item>United Arab Emirates</item>
-        <item>Palestine</item>
-        <item>Palestine</item>
-        <item>Vietnam</item>
-        <item>China</item>
-        <item>Indonesia</item>
+        <item>Emirats Àrabs Units</item>
+        <item>Palestina</item>
+        <item>Líban</item>
+        <item>Índia</item>
+        <item>Síria</item>
+        <item>Indonèsia</item>
         <item></item>
-        <item>Afghanistan</item>
-        <item>Pakistan</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
         <item>Nepal</item>
-        <item>Malaysia</item>
-        <item>Kuwait</item>
-        <item>China</item>
-        <item>Philippines</item>
+        <item>Xina</item>
+        <item>Indonesia</item>
+        <item>Israel</item>
+        <item>Filipines</item>
         <item>Oman</item>
-        <item>Cambodia</item>
-        <item>North Korea</item>
+        <item>Nepal</item>
+        <item>Corea del nord</item>
         <item>Qatar</item>
-        <item>Myanmar</item>
-        <item>Saudi Arabia</item>
-        <item>South Korea</item>
-        <item>China</item>
-        <item>Singapore</item>
-        <item>China</item>
+        <item>Xina</item>
+        <item>Aràbia Saudita</item>
+        <item>Corea del sud</item>
+        <item>Cambodja</item>
+        <item>Corea del Nord</item>
+        <item>Xina</item>
+        <item>Iran</item>
+        <item>Aràbia Saudita</item>
+        <item>Xina</item>
+        <item>Corea del Sud</item>
+        <item>Xina</item>
+        <item>Singapur</item>
+        <item>Xina</item>
         <item>Iran</item>
         <item>Israel</item>
-        <item>Japan</item>
-        <item>Mongolia</item>
-        <item>Bermuda</item>
-        <item>Spain</item>
-        <item>Cape Verde</item>
-        <item>Iceland</item>
-        <item>Falkland Islands</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
+        <item>Austràlia</item>
+        <item>Austràlia</item>
+        <item>Austràlia</item>
         <item>Australia</item>
         <item>Australia</item>
         <item>Australia</item>
@@ -509,125 +509,125 @@
         <item>Isle of Man</item>
         <item>Turkey</item>
         <item>Portugal</item>
-        <item>United Kingdom</item>
-        <item>Luxembourg</item>
-        <item>Spain</item>
-        <item>Malta</item>
+        <item>Dinamarca</item>
+        <item>Irlanda</item>
+        <item>Gibraltar</item>
+        <item>Finlàndia</item>
         <item>Belarus</item>
-        <item>Monaco</item>
-        <item>Russia</item>
-        <item>Norway</item>
-        <item>France</item>
-        <item>Czechia</item>
-        <item>Latvia</item>
+        <item>Turquia</item>
+        <item>Portugal</item>
+        <item>Regne Unit</item>
+        <item>Luxemburg</item>
+        <item>Espanya</item>
+        <item>Malta</item>
         <item>Italy</item>
         <item></item>
-        <item>Bosnia and Herzegovina</item>
-        <item></item>
-        <item>Macedonia</item>
+        <item>Rússia</item>
+        <item>Noruega</item>
+        <item>França</item>
         <item>Bulgaria</item>
         <item>Sweden</item>
-        <item>Estonia</item>
+        <item>Itàlia</item>
         <item></item>
-        <item>Austria</item>
-        <item>Lithuania</item>
+        <item>Bòsnia i Herzegovina</item>
+        <item>Ucraïna</item>
         <item>Poland</item>
         <item>Croatia</item>
         <item>Switzerland</item>
         <item>Madagascar</item>
         <item>Maldives</item>
         <item>Mauritius</item>
-        <item>New Zealand</item>
+        <item>Nova Zelanda</item>
         <item>Fiji</item>
         <item>Guam</item>
-        <item>United States</item>
-        <item>New Caledonia</item>
-        <item>French Polynesia</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>El Salvador</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Estats Units</item>
+        <item>Nova Caledònia</item>
+        <item>Polinèsia francesa</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Canadà</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Canadà</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>el Salvador</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
         <item>Qatar</item>
-        <item>China</item>
-        <item>India</item>
-        <item>India</item>
-        <item>India</item>
-        <item>Japan</item>
+        <item>Xina</item>
+        <item>Índia</item>
+        <item>Índia</item>
+        <item>Índia</item>
+        <item>Japó</item>
         <item>Pakistan</item>
-        <item>India</item>
-        <item>Spain</item>
-        <item>Germany</item>
-        <item>Italy</item>
-        <item>Germany</item>
+        <item>Índia</item>
+        <item>Espanya</item>
+        <item>Alemanya</item>
+        <item>Itàlia</item>
+        <item>Alemanya</item>
         <item>Vietnam</item>
-        <item>Turkey</item>
-        <item>India</item>
-        <item>Brazil</item>
-        <item>South Africa</item>
+        <item>Turquia</item>
+        <item>Xina</item>
+        <item>Brasil</item>
+        <item>Sud-àfrica</item>
         <item>Pakistan</item>
-        <item>Brazil</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United Kingdom</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>China</item>
-        <item>India</item>
-        <item>United States</item>
-        <item>Brazil</item>
-        <item>Chile</item>
-        <item>Liberia</item>
+        <item>Brasil</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Regne Unit</item>
+        <item>Estats Units</item>
+        <item>Estats Units</item>
+        <item>Xina</item>
+        <item>Índia</item>
+        <item>Estats Units</item>
+        <item>Brasil</item>
+        <item>Estats Units</item>
+        <item>Libèria</item>
         <item>Sri Lanka</item>
-        <item>Mexico</item>
-        <item>India</item>
-        <item>United Kingdom</item>
-        <item>Ukraine</item>
-        <item>Russia</item>
-        <item>Poland</item>
-        <item>Poland</item>
-        <item>Germany</item>
-        <item>Finland</item>
-        <item>Israel</item>
         <item>Puerto Rico</item>
         <item>Honduras</item>
         <item>Suriname</item>
-        <item>Ecuador</item>
+        <item>Equador</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minut</item>

@@ -10,12 +10,22 @@
   <string name="app_search">Cerca aplicacions</string>
   <string name="btn_send">Envia</string>
   <string name="bugreport_dialog_not_show_again">"No tornis a mostrar-ho"</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"Ara esteu desant els registres del programari en aquest dispositiu. Els registres podrien contenir informació personal i les vostres dades de localització. No compartiu els registres amb ningú sinó us voleu exposar. Si seleccioneu \"d\'acord\" representa que heu llegit i accepteu la nostra &amp;lt; a href = \"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp; lang =%2$s\"&amp;gt; Política de privadesa&amp;lt; /a&amp;gt; i &amp;lt; a href = \"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp; lang =%4$s\"&amp;gt;Acord d\'usuari&amp;lt; /a&amp;gt;.\"&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Toqueu per veure-ho.</string>
   <string name="bugreport_dump_complete_notification_title">S\'ha creat l\'informe d\'error</string>
   <string name="bugreport_dump_start_notification_summary">Això pot trigar uns quants minuts.</string>
   <string name="bugreport_dump_start_notification_title">S\'està creant l\'informe d\'error&#8230;</string>
   <string name="bugreport_tool_log_dumping_desc">Trigarà un minut</string>
   <string name="bugreport_tool_log_dumping_title">S\'està creant l\'informe d\'error</string>
+  <string name="catch_full_log_action_cancel">Cancel·la</string>
+  <string name="catch_full_log_action_complete">Acaba i puja</string>
+  <string name="catch_full_log_add_photo">Afegeix foto</string>
+  <string name="catch_full_log_add_photo_dialog_content">"Si el problema que reporteu té relació amb la qualitat d'imatge de la càmera, afegiu una foto original de mostra (sense retalls) per ajudar-nos a identificar el problema. Voleu afegir una foto ara?"</string>
+  <string name="catch_full_log_dialog_confirm_text">Vés a la pantalla d\'inici</string>
+  <string name="catch_full_log_dialog_content">"MIUI està generant un registre. Això podria afectar la productivitat global del vostre dispositiu. Si no podeu reproduir el problema que voleu notificar, retorneu als registres i premeu \"Cancel·la\"."</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_gps">Serveis d\'ubicació</string>
+  <string name="catch_full_log_item_title_sensor">Sensors</string>
   <string name="close_feedback_main">​​Amaga</string>
   <string name="cta_cancel">Cancel·la</string>
   <string name="cta_confirm">D\'acord</string>
@@ -50,6 +60,7 @@
   <string name="err_type_system_summary">Memòria, rendiment, etc.</string>
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
+  <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
@@ -79,6 +90,7 @@
   <string name="feedback_report_remind_login_desc">Connecteu-vos amb el Compte Mi perquè els nostres enginyers puguin contactar-vos.</string>
   <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a «Els meus informes»."</string>
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
+  <string name="feedback_select_images">Afegeix imatges</string>
   <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
   <string name="feedback_select_modem_log_not_select_desc">"No heu seleccionat «Afegeix registres del mòdem»"</string>
   <string name="feedback_select_modem_log_select_desc">Heu seleccionat «Afegeix registres del mòdem»</string>
@@ -202,8 +214,10 @@
   <string name="michat_wait_for_a_moment">Un moment, de seguida us ajudem!</string>
   <string name="michat_webview_title">Mostra els detalls</string>
   <string name="min_error">%1$s ha de ser més llarg.</string>
+  <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Puja</string>
   <string name="mobile_data_note_dialog_content">"Sembla que esteu connectat a una xarxa de pagament. Si actualitzeu els registres es podrien generar càrrecs addicionals."</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">"Sembla que esteu connectat a una xarxa de pagament. Per actualitzar els registres calen %s MB de dades mòbils."</string>
   <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
   <string name="modem_tool_log_dumping_desc">Premeu la icona per aturar</string>
   <string name="modem_tool_log_dumping_title">S\'estan capturant els registres del mòdem</string>
@@ -250,6 +264,7 @@
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
   <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum"</string>
+  <string name="privacy_category_title">Privadesa</string>
   <string name="privacy_policy_title">Política de privadesa</string>
   <string name="pull_to_refresh_pull_label">Estireu cap avall per actualitzar</string>
   <string name="pull_to_refresh_refreshing_label">S\'està actualitzant&#8230;</string>
@@ -271,6 +286,8 @@
   <string name="select_system_app_tag">Seleccioneu un problema</string>
   <string name="submit_dialog_cancel">"No hi estic d'acord"</string>
   <string name="submit_dialog_confirm">D\'acord</string>
+  <string name="submit_dialog_content">&lt;Data&gt;\"Els vostres comentaris, juntament amb els arxius adjunts i registres, s\'enviaran als servidors de MIUI. Podrien contenir informació personal i dades de localització. Seleccionant \"d\'acord\" representa que heu llegit i accepteu la nostra &amp;lt; a href = \"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp; lang =%2$s\"&amp;gt; Política de privadesa&amp;lt; /a&amp;gt; i &amp;lt; a href = \"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp; lang =%4$s\"&amp;gt;Acord d\'usuari&amp;lt; /a&amp;gt;.\"&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">Els vostres comentaris, juntament amb els fitxers adjunts (si n\'hi ha) i els registres (podeu desmarcar les caselles corresponents per als elements que no voleu pujar) s\'enviaran als servidors de MIUI i a una secció restringida del Fòrum MIUI per als desenvolupadors. També es recollirà la informació sobre els vostres fils i l\'activitat del fòrum per a l\'anàlisi i la comunicació posterior. Els registres poden contenir informació personal i les vostres dades d\'ubicació.</string>
   <string name="submit_dialog_title">Envia l\'informe</string>
   <string name="submit_feedback_info_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="suggestion_description">Escriviu aquí la descripció</string>
@@ -281,20 +298,26 @@
   <string name="tab_title_preferences">Configuració</string>
   <string name="tab_title_report">Informes d\'error</string>
   <string name="title_answer_feedback_main">Hem trobat respostes!</string>
+  <string name="title_catch_full_log">Registres</string>
   <string name="title_customer_service">Servei al client</string>
+  <string name="title_first_aid">Primers auxilis</string>
   <string name="title_frequent_question_feedback_main">PMF</string>
   <string name="title_mi_family">Mi Homes propers</string>
   <string name="title_nonsystem_app">Altres aplicacions</string>
   <string name="title_same_question_feedback_main">Problemes similars al fòrum MIUI</string>
   <string name="title_system_app">Aplicacions de MIUI</string>
+  <string name="toast_catch_full_log_catching">Només podeu generar un registre alhora.</string>
+  <string name="toast_catch_full_log_open_failed">"No es podia començar a gravar el registre."</string>
   <string name="toast_description_required">Heu d\'escriure una descripció</string>
   <string name="toast_feedback_collect_store">S\'estan recuperant els registres&#8230;</string>
   <string name="toast_feedback_network_unavailable">"No es pot connectar a la xarxa"</string>
+  <string name="toast_feedback_pending_wlan">"El missatge s'enviarà quan estigueu connectat a una xarxa Wi-Fi"</string>
   <string name="toast_feedback_submitted">S\'ha enviat l\'informe</string>
   <string name="toast_feedback_submitting">S\'està enviant…</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_loading_app_id">Obtenint informació…</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
+  <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
@@ -304,6 +327,7 @@
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>
+  <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
   <string name="try_again">Torna-ho a provar</string>

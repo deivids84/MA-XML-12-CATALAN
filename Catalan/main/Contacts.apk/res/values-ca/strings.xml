@@ -1085,6 +1085,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="title_other_devices">Altres dispositius disponibles</string>
   <string name="title_paired_devices">Dispositius aparellats</string>
   <string name="toast_call_detail_error">"No s'han pogut llegir els detalls de la trucada"</string>
+  <string name="toast_call_no_SoundRecorder">"L'enregistrador no està disponible"</string>
   <string name="toast_copy_done">Fet</string>
   <string name="toast_copying">Copiant&#8230;</string>
   <string name="toast_displaying_all_contacts">Mostra tots els contactes</string>

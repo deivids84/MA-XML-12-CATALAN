@@ -275,6 +275,7 @@
   <string name="label_image_list_none">Cap</string>
   <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>
   <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
+  <string name="load_only_under_wlan">Carregant fent ús exclusiu de Wi-Fi</string>
   <string name="location_not_found">"No es pot trobar el fitxer"</string>
   <string name="login_immediately">Inicia la sessió</string>
   <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
@@ -468,6 +469,8 @@
   <string name="toast_select_white_need_remove">Seleccioneu elements a eliminar</string>
   <string name="toast_selecte_group_restore_succeed">Fotos restaurades</string>
   <string name="toast_uninstall_success">Desinstal·lació completa</string>
+  <string name="toast_updater_close_4g_text">"Les aplicacions no s'actualitzaran utilitzant dades mòbils (4G)"</string>
+  <string name="toast_updater_open_4g_text">Les aplicacions s\'actualitzaran utilitzant dades mòbils (4G)</string>
   <string name="total_clean">Total netejat: %s</string>
   <string name="total_clean_text">Netejat</string>
   <string name="unlike">No, gràcies</string>
