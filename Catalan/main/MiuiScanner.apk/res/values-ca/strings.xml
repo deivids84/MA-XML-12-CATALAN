@@ -61,10 +61,13 @@
   <string name="feedback_description_save_photo">"No s'ha pogut desar la foto o el vídeo"</string>
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Importar contacte</string>
+  <string name="impunity_declaration_content">"Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
   <string name="impunity_declaration_negative_text">Surt</string>
+  <string name="impunity_declaration_title">Condicions del servei</string>
   <string name="keywords_search_code">Escàner;Escaneja;Codi QR;QR;Reconeixement;Codi de barres;Codis de barres;Producte;Productes;Alipay;WeChat;Com escannejar un codi QR;Com escannejar un codi de barres;Com escannejar;Escànner MIUI</string>
   <string name="keywords_search_document">Escàner;Escaneja el document;Escaneja documents;OCR;Explora textos;Escaneja</string>
   <string name="keywords_search_shopping">Compres;Escàner;Escaneja productes;Escaneja un producte;Consulta el preu;Productes;Taobao;Tmall;Preus;Compres en línia</string>
+  <string name="keywords_search_translation">Escàner;Tradueix;Diccionari;Anglès;Llengua estrangera;Llengua;Llengües;Anglès a xinès;Italià;Alemany;Japonès;Coreà;Castellà;Francès;Traductor Baidu;Diccionari Youdao;Diccionari Baidu;Traductor Google</string>
   <string name="label_choose_picture">Trieu una imatge</string>
   <string name="label_flash_light">Llum del flaix</string>
   <string name="language_entry_chinese_cn">Xinès simplificat</string>
@@ -74,6 +77,7 @@
   <string name="language_entry_japanese">Japonès</string>
   <string name="language_entry_korean">Coreà</string>
   <string name="language_entry_spanish">Espanyol</string>
+  <string name="low_version_tip">L\'escàner no funciona en el sistema actual, si us plau actualitza a la última MIUI</string>
   <string name="module_title_code">Codi QR</string>
   <string name="module_title_shopping">De compres</string>
   <string name="module_title_translation">Traduir</string>
@@ -124,6 +128,7 @@
   <string name="vender_info_translation_kingsoft">Amb la tecnologia de Kingsoft</string>
   <string name="web">Lloc web:</string>
   <string name="website_details">Detalls del lloc web:</string>
+  <string name="weixin_code_tip">Utilitzeu el WeChat per escanejar aquest codi QR</string>
   <string name="wifi_details">Detalls de la xarxa Wi-Fi:</string>
   <string name="wifi_open_fail">"No s'ha pogut obrir la xarxa Wi-Fi"</string>
   <string name="wifi_pwd">Contrasenya:</string>

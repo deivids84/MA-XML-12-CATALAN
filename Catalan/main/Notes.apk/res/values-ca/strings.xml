@@ -86,6 +86,7 @@
   <string name="menu_delete_forever">Elimina per sempre</string>
   <string name="menu_folders">Carpetes</string>
   <string name="menu_hide">​​Amaga</string>
+  <string name="menu_more_description">Més</string>
   <string name="menu_move_parent_folder">Carpeta superior</string>
   <string name="menu_move_to">Mou a</string>
   <string name="menu_new_folder">Nova carpeta</string>
@@ -126,6 +127,9 @@
   <string name="refuse_to_share_as_pic_because_of_content">Aquesta nota és massa gran per compartir-la.</string>
   <string name="rename_folder_dialog_tile">Canvia el nom a la carpeta</string>
   <string name="root_folder_name">Notes ràpides</string>
+  <string name="save_to_gallery_failure_message">"No s'ha pogut desar"</string>
+  <string name="save_to_gallery_icon_name">Desa-ho a la galeria</string>
+  <string name="save_to_gallery_success_message">S\'ha desat correctament</string>
   <string name="search_hint">Cercar notes</string>
   <string name="search_keyword_notes">Notes;Anotació</string>
   <string name="search_label">S\'està cercant…</string>
@@ -133,6 +137,7 @@
   <string name="search_setting_description">Escrigui les seves notes</string>
   <string name="select_account_prompt">Sincronitzar notes</string>
   <string name="set_alarm_description">Estableix alarma</string>
+  <string name="snippet_audio_stub">Nota de veu</string>
   <string name="snippet_image_template">[Imatge %1$s]</string>
   <string name="sns_action_send">Envia</string>
   <string name="sns_choose_quality_high">Alta (%1$s)</string>

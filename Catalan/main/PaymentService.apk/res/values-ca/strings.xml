@@ -212,6 +212,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_password_hint">Introduïu la contrasenya del compte</string>
   <string name="mibi_password_prompt">Per donar seguretat a les vostres despeses, verifiqueu el vostre compte Mi</string>
   <string name="mibi_pay_grid_error_denomination">La quantitat ha de ser entre %1$s i %2$s.</string>
+  <string name="mibi_pay_success_summary">"Heu pagat %1$s Crèdits Mi"</string>
   <string name="mibi_pay_success_with_recharge_summary">%1$s Crèdits Mi recarregats, %2$s Crèdits Mi pagats</string>
   <string name="mibi_payment_recharge_group_title">Selecció de l\'opció de recàrrega</string>
   <string name="mibi_payment_success_title">Pagament rebut</string>

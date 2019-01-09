@@ -30,7 +30,9 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
   <string name="extreme_mode_max_item_alert">Només es poden seleccionar 4 aplicacions per executar-se en segon pla amb mode d\'estalvi extrem de bateria</string>
   <string name="extreme_power_config_mode_category">Mode extrem</string>
+  <string name="extreme_power_config_mode_desc">Canvieu al mode extrem per desactivar la sincronització, Bluetooth, GPS, NFC, doble toc, llums de botons, pantalla de bloqueig per a notificacions i llums de notificació. MIUI se centrarà en estalviar bateria.</string>
   <string name="extreme_power_config_mode_title">Mode extrem</string>
+  <string name="hide_mode_desc">&lt;font color=\"#000000\"&gt;Quan una aplicació s\'executi en segon pla, es controlaran la seva activitat per reduir el consum de bateria. Aquesta funció agafarà i utilitzarà dades d\'usuari segons %s&lt;/font&gt;</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hints_loading_text">Un moment…</string>
   <string name="important_warning">Atenció</string>
@@ -39,6 +41,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="nonui_mode_config_description">"No s'encendrà la pantalla per a notificacions, desactivarà la llum de notificació, l'empremta digital i els controls tàctils quan MIUI detecti que no esteu utilitzant el dispositiu."</string>
   <string name="nonui_mode_config_title">Mode no interactiu</string>
   <string name="performance_category">Rendiment</string>
+  <string name="power_center">Energia</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s tenen un funcionament anormal</string>
   <string name="power_checker_background_cpu_title">%1$s tenen un funcionament anormal</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s ubicació freqüentment</string>

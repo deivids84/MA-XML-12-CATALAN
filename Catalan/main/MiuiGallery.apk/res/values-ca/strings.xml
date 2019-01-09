@@ -524,6 +524,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="finish_fill_baby">Crea</string>
   <string name="flash_off">Sense flaix</string>
   <string name="flash_on">Amb flash</string>
+  <string name="frame_not_support_image_ratio">"Aquesta relació d'aspecte no s'admet"</string>
   <string name="gallery_setting">Configuració</string>
   <string name="gallery_sync_disable_toast">La sincronització de la galeria està desactivada</string>
   <string name="get_album_info_in_process">"S'estan obtenint els detalls de l'àlbum compartit…"</string>
@@ -755,6 +756,8 @@ per personalitzar la galeria"</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
+  <string name="photo_print_package_finish">S\'ha carregat amb èxit</string>
+  <string name="photo_print_package_installing">S\'està carregant el connector…</string>
   <string name="photo_save_to_msg">S\'ha desat a %s</string>
   <string name="pick_from_contact">Trieu dels contactes</string>
   <string name="pick_too_many_recipients">Massa destinataris</string>
@@ -884,6 +887,7 @@ per personalitzar la galeria"</string>
   <string name="search_setting_title">Troba fotos a la galeria</string>
   <string name="search_syncing">S\'estan sincronitzant les dades, retornarà en una estona</string>
   <string name="search_title_album">Àlbum</string>
+  <string name="search_title_app_screenshot">Captures de pantalla d\'aplicacions</string>
   <string name="search_title_history">Historial de cerca</string>
   <string name="search_title_location">Ubicacions</string>
   <string name="search_title_more">Més</string>
@@ -1099,6 +1103,8 @@ per personalitzar la galeria"</string>
   <string name="video_editor_text_input_empty_tips">"Sembla que encara no heu introduït text"</string>
   <string name="video_editor_trim">Retalla</string>
   <string name="video_editor_unsupport_audio_file">Fitxer d\'àudio no compatible</string>
+  <string name="video_editor_unzip_file_fail">"No s'ha pogut decomprimir el vídeo."</string>
+  <string name="video_editor_video_is_short">"Aquest vídeo no es pot editar."</string>
   <string name="video_err">"No es pot reproduir el vídeo"</string>
   <string name="video_not_exist">"El vídeo no existeix"</string>
   <string name="view_by_gallery_tip">Galeria de MIUI</string>

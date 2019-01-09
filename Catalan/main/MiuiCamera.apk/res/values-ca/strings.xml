@@ -183,6 +183,7 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portait_effect_entry_story">Història</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
+  <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
   <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
 amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_advance_settings">Configuració addicional</string>
@@ -232,6 +233,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_delay_capture_entry_5s">Retard de 5 s</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
+  <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
   <string name="pref_camera_dual_enable_title">Activa la càmera dual</string>
   <string name="pref_camera_dual_sat_enable_title">Activa la càmera dual SAT</string>
   <string name="pref_camera_exposuretime_entry_auto">AUTOMÀTIC</string>
@@ -356,6 +358,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
+  <string name="pref_camera_whitebalance_entryvalue_daylight">llum natural</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
@@ -465,6 +468,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="video_effect_entry_film">Pel·licula</string>
   <string name="video_effect_entry_forest">Bosc</string>
   <string name="video_effect_entry_holiday">Reflexions</string>
+  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Assolit el límit de mida.</string>
   <string name="wait">Un moment…</string>
 </resources>

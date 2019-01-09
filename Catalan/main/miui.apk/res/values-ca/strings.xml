@@ -42,6 +42,7 @@
   <string name="fmt_date_time_timezone">D, T, z</string>
   <string name="fmt_date_timezone">D, z</string>
   <string name="fmt_time_12hour">"h 'en punt'"</string>
+  <string name="fmt_time_24hour">"H 'en punt'"</string>
   <string name="fmt_time_timezone">T, z</string>
   <string name="fmt_weekday_date_time">W, D, T</string>
   <string name="fmt_weekday_date_time_timezone">W, D, T, z</string>

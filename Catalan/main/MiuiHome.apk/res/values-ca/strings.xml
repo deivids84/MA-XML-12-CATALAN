@@ -253,11 +253,13 @@
   <string name="preferred_app_settings_not_selected">No s\'ha seleccionat</string>
   <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
   <string name="recommend_apps_default_title">Buit</string>
+  <string name="recommend_apps_no_data">No hi ha dades</string>
   <string name="recommend_apps_notice">Aplicacions recomanades</string>
   <string name="recommend_apps_notice_nodata">Aplicacions recomanades (sense dades)</string>
   <string name="recommend_apps_switch_title">Aplicacions recomanades</string>
   <string name="recommend_apps_tips">"Aquesta funcionalitat necessita una connexió a internet. Per desactivar-la, toqueu el nom d'aquesta carpeta."</string>
   <string name="recommend_loading">S\'està carregant</string>
+  <string name="reset_fail">"No s'ha pogut restaurar"</string>
   <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
   <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_locked_toast">La disposició de la pantalla d\'inici està bloquejada</string>

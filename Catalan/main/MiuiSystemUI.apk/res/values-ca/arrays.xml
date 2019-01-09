@@ -96,6 +96,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="clock_options">
+        <item>Show hours, minutes, and seconds</item>
+        <item>Show hours and minutes (default)</item>
+        <item>"No mostris aquesta icona"</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
         <item>Colors naturals tal com els veu l\'ull humà</item>

@@ -7,6 +7,7 @@
   <string name="app_name">Provisions</string>
   <string name="application_permissions">Permisos de l\'aplicació</string>
   <string name="back">Enrere</string>
+  <string name="cm_terms_content">"Per millorar els serveis que li oferim, l'operador de xarxa mòbil de la vostra elecció pot carregar les seves dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades. Aquesta informació només s'utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i oferir un contingut més personalitzat. Aquesta informació no serà utilitzada per identificar-vos personalment i no serà revelada a tercers."</string>
   <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
   <string name="congratulation_label">"Gaudiu del nou telèfon :)"</string>
   <string name="congratulation_swipe">Feu lliscar cap amunt per accedir al sistema</string>
@@ -68,6 +69,7 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
   <string name="sim_dectection_next">Continua</string>
   <string name="sim_redetection">Torna-ho a comprovar</string>
   <string name="skip_underline">Omet aquest pas</string>
+  <string name="start_up_slogan">Dissenyat per a una experiència a pantalla completa</string>
   <string name="summary_not_set">No s\'ha configurat</string>
   <string name="system_navigation_mode">Mode de navegació del sistema</string>
   <string name="terms_of_use">Termes i condicions</string>

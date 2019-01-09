@@ -81,6 +81,7 @@
   <string name="bicycle">Bicicleta</string>
   <string name="book_assistant">Reserva un viatge</string>
   <string name="book_assistant_empty">Encara no hi ha reserves</string>
+  <string name="book_assistant_go">Sortida</string>
   <string name="book_assistant_todaybook">"Viatges d'avui"</string>
   <string name="book_assistant_train_start">Hora de sortida</string>
   <string name="book_assistant_train_started">Surt de l\'estació</string>
@@ -353,6 +354,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_authorized_number">Número de telèfon verificat</string>
   <string name="express_setting_authorized_number_add">Afegeix</string>
   <string name="express_setting_authorized_number_delete">Elimina</string>
+  <string name="express_setting_authorized_number_description">"Declaració de privadesa: el número de telèfon només s'utilitzarà per comprovar l'estat i els detalls del lliurament de la comanda."</string>
   <string name="express_setting_authorized_number_empty">"Encara no heu verificat el vostre número de telèfon."</string>
   <string name="express_setting_brief">Seguiu els vostres paquets de lliurament urgent</string>
   <string name="express_setting_brief_detail">Seguiu tots els vostres paquets usant el vostre número de telèfon i la vostra informació de la comanda.</string>
@@ -430,6 +432,8 @@ Comproveu el número de seguiment."</string>
   <string name="favorite_title_modify_success">S\'ha modificat amb èxit</string>
   <string name="feedback_cancel">Cancel·la</string>
   <string name="feedback_ok">D\'acord</string>
+  <string name="flight">Vol</string>
+  <string name="flight_num">Número de vol</string>
   <string name="flow_open">Mostra targeta de dades mòbils</string>
   <string name="flow_setting_brief">Visualitzeu la informació de dades mòbils (afegiu el vostre pla de dades a Seguretat &gt; Ús de dades).</string>
   <string name="focus">Segueix l\'estat</string>

@@ -45,6 +45,18 @@
         <item quantity="other">%s elements seleccionats</item>
         <item quantity="one">%s element seleccionat</item>
     </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">En %d dies</item>
+        <item quantity="one">En %d dia</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">En %d hores</item>
+        <item quantity="one">En %d hora</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">En %d minuts</item>
+        <item quantity="one">En %d minut</item>
+    </plurals>
     <plurals name="sms_title_hours">
         <item quantity="other">%d hores</item>
         <item quantity="one">%d hora</item>
