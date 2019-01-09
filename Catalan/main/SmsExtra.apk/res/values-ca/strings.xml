@@ -27,6 +27,8 @@
   <string name="hybrid_try_again">Torneu-ho a provar</string>
   <string name="imageview_ad">Anunci</string>
   <string name="menu_forward">Reenvia</string>
+  <string name="menu_lock">Preferit</string>
+  <string name="menu_unlock">Elimina dels preferits</string>
   <string name="message_details_title">Detalls del missatge</string>
   <string name="message_type_label">"Escriviu: "</string>
   <string name="messaging">Missatges</string>

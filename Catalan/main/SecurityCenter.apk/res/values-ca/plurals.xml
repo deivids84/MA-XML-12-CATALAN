@@ -221,6 +221,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%d riscos,</item>
         <item quantity="one">%d risc,</item>
     </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d troians,</item>
+        <item quantity="one">%d troià,</item>
+    </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicacions perilloses: %d</item>
         <item quantity="one">Aplicació perillosa: %d</item>

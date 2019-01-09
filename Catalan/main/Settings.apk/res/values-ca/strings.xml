@@ -101,6 +101,8 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_shortcut_description">Quan la drecera està activada, podeu prémer els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permet des de la pantalla de bloqueig</string>
   <string name="accessibility_shortcut_service_title">Servei de drecera</string>
+  <string name="accessibility_summary_state_disabled">DESACTIVAT</string>
+  <string name="accessibility_summary_state_enabled">ACTIVAT</string>
   <string name="accessibility_sync_disabled">Sincronització desactivada</string>
   <string name="accessibility_sync_enabled">Sincronització activada</string>
   <string name="accessibility_sync_error">S\'ha produït un error de sincronització.</string>
@@ -345,10 +347,12 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="application_item_disable">Denega</string>
   <string name="application_item_permission">Permet</string>
   <string name="application_lock_name">Bloquejador d\'aplicacions</string>
+  <string name="application_manager_section_title">Configuració d\'aplicacions</string>
   <string name="application_permission_manager">Permisos de l\'aplicació</string>
   <string name="application_permissions">Permisos de l\'aplicació</string>
   <string name="application_restrictions">Permet les aplicacions i el contingut</string>
   <string name="application_size_label">Aplicació</string>
+  <string name="applications_settings">Aplicacions instal·lades</string>
   <string name="applications_settings_header">Configuració de l\'aplicació</string>
   <string name="applications_settings_summary">Organitza aplicacions i estableix dreceres</string>
   <string name="apply_fingerprint_to_category_title">Aplica l\'empremta a&#8230;</string>
@@ -881,6 +885,7 @@ Taxa de mostreig"</string>
   <string name="brightness_title">Brillantor</string>
   <string name="bt_hci_snoop_log">Activa HCI Snoop log Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI Bluetooth en un fitxer</string>
+  <string name="bt_ldac_declaration">Si un dispositiu Bluetooth admet LDAC, es connectarà per defecte. LDAC proporciona una experiència d\'àudio d\'alta qualitat, però també augmenta el consum d\'energia. Es poden produir problemes en la reproducció per limitacions del maquinari Bluetooth.</string>
   <string name="bt_rarely_used_device_title">Dispositius poc utilitzats (%d)</string>
   <string name="bt_trace_log">Activa el registre de seguiment amb Bluetooth</string>
   <string name="bt_trace_log_summary">Activa el registre de seguiment amb Bluetooth</string>
@@ -1410,6 +1415,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="dialog_title_hdmi_color_calibration">Mode de correcció de color</string>
   <string name="dialog_title_login">Inicieu la sessió al compte Mi</string>
   <string name="dialog_yes">Sí</string>
+  <string name="direct_boot_unaware_dialog_message">"Nota: podeu utilitzar aquest teclat després d'un reinici només si desbloquejeu el dispositiu."</string>
   <string name="disableNetwork">desactiva la xarxa</string>
   <string name="disable_overlays">Desactiva les superposicions HW</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
@@ -1954,6 +1960,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="header_category_connections">Connexions</string>
   <string name="header_category_device">Dispositiu</string>
   <string name="header_category_system">Sistema</string>
+  <string name="header_category_wireless_networks">Xarxa</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="heavy_weight_stop_description">Aquesta aplicació es pot aturar de forma segura. Si l\'atureu, podeu perdre part del treball actual.</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
@@ -2228,6 +2235,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_neighborhood_level_wifi">Ubicació determinada per Wi-Fi</string>
   <string name="location_network_based">Wi-Fi i xarxes mòbils</string>
   <string name="location_no_recent_apps">Cap aplicació no ha sol·licitat la ubicació recentment</string>
+  <string name="location_off_summary">DESACTIVAT</string>
+  <string name="location_on_summary">Engegat / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Millora la ubicació permetent que les aplicacions i els serveis del sistema sempre detectin dispositius Bluetooth.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">El Bluetooth està escanejant</string>
   <string name="location_scanning_screen_title">S\'està escanejant</string>
@@ -2296,6 +2305,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_choose_your_pin_header">Estableix el PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">«Configura el PIN 
  pel segon espai»</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Introduïu 4-16 dígits</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
   <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
   <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
@@ -2554,6 +2564,19 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
+  <string name="miui_sos_contacts_add">Contactes d\'emergència</string>
+  <string name="miui_sos_contacts_category">Contactes d\'emergència</string>
+  <string name="miui_sos_emergency_contacts">Contactes d\'emergència</string>
+  <string name="miui_sos_enable_switch_summary">Premeu 5 cops seguits el botó d\'engegada, ràpidament, per enviar un missatge de text de SOS amb la vostra ubicació als vostres contactes d\'emergència</string>
+  <string name="miui_sos_exit_dialog_message">Teniu activat el SOS d\'emergència. La vostra localització s\'envia als vostres contactes d\'emergència. Confirmeu que ho voleu desactivar?</string>
+  <string name="miui_sos_exit_dialog_title">Desactivant-se el SOS d\'emergència</string>
+  <string name="miui_sos_launch_error">"No s'ha pogut activar el SOS d'emergència"</string>
+  <string name="miui_sos_launching_summary">El SOS d\'emergència s\'activarà en %ds</string>
+  <string name="miui_sos_remind_infocontent">"Us he afegit com el meu contacte d'emergència. Rebreu un missatge amb la meva posició si estic en perill. [SOS d'emergència MI]"</string>
+  <string name="miui_sos_remind_open">El SOS d\'emergència requereix 1 contacte d\'emergència com a mínim per funcionar normalment.</string>
+  <string name="miui_sos_remind_sendinfo">"No us oblideu d'explicar a aquestes persones que ara són els vostres contactes d'emergència. Així, us podran ajudar més ràpidament en cas d'emergència."</string>
+  <string name="miui_sos_settings_alert_contacts_too_many">Podeu afegir fins a 3 contactes d\'emergència.</string>
+  <string name="miui_sos_statusbar_title">El SOS d\'emergència està activat</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
@@ -2777,6 +2800,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_nearby_wifi">No s\'han trobat xarxes.</string>
   <string name="no_notification_listeners">Cap aplicació instal·lada ha sol·licitat accés a les notificacions.</string>
   <string name="no_running_services">No s\'està executant res.</string>
+  <string name="no_services">Cap servei actiu</string>
   <string name="no_trust_agents">Cap agent de confiança disponible</string>
   <string name="no_update_found">"S'està fent servir la darrera versió de MIUI"</string>
   <string name="no_updates_found">"S'està fent servir la darrera versió de MIUI"</string>
@@ -4389,6 +4413,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
+  <string name="system_app_settings">Aplicacions del sistema</string>
   <string name="system_apps_updater">Actualitzador d\'aplicacions del sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
   <string name="system_dashboard_summary">Llengües, temps, còpies de seguretat, actualitzacions</string>
@@ -4533,6 +4558,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
   <string name="turn_off_keyguard_password_wait_dialog">S\'està desactivant la contrasenya…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
   <string name="turn_on_keyguard_password_alert">"Recordeu la vostra contrasenya. Si la oblideu, no podreu restaurar-la."</string>
@@ -4626,6 +4652,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
   <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Per a desbloquejar-lo introduïu 4 números</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>

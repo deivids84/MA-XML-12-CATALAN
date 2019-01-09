@@ -106,6 +106,10 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="activate_status_title_activating_msim">S\'està activant la targeta SIM %d…</string>
   <string name="agree">Permet</string>
   <string name="app_name">Servei d\'activació SIM de Xiaomi</string>
+  <string name="error_checking_client">S\'ha produït un error durant l\'activació</string>
+  <string name="error_network_io">S\'ha produït un error de xarxa</string>
+  <string name="error_no_send_sms_permission">El servei Xiaomi d\'activació de SIM necessita permís per enviar SMS</string>
+  <string name="error_sim_not_in_service">"No es pot activar la targeta SIM. Assegureu-vos que el vostre saldo és suficient."</string>
   <string name="explain_send_sms_permission_button">Verifica</string>
   <string name="explain_send_sms_permission_msg">Per activar %s, el servei Framework de Xiaomi enviarà un SMS per verificar el vostre número de telèfon. Se us cobrarà per l\'SMS enviat segons les tarifes de la vostra companyia.</string>
   <string name="explain_send_sms_permission_title">Verifiqueu el vostre número de telèfon</string>
@@ -118,4 +122,5 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="privacy_revoke_failed_msg">L\'activació requereix l\'autorització perquè Missatges obtingui el número de telèfon.</string>
   <string name="privacy_revoke_tips">Després de revocar l\'autorització, Missatges deixarà de recopilar dades i eliminarà totes les seves dades dels seus servidors. La sincronització amb Mi Cloud, Mi Message i altres funcions de missatgeria ja no estaran disponibles. Voleu revocar l\'autorització de totes maneres?</string>
   <string name="sim_unactivated_title">"La vostra targeta SIM no està activada"</string>
+  <string name="waiting_sim_in_service">Esperant que s\'activi la SIM</string>
 </resources>
