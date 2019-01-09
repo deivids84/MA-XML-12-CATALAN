@@ -218,6 +218,12 @@
   <string name="app_manager_pref_ads">Recomanacions</string>
   <string name="app_manager_reset_app_preferences">Reinicia les preferències de les aplicacions</string>
   <string name="app_manager_reset_app_preferences_button">Reinicia les aplicacions</string>
+  <string name="app_manager_reset_app_preferences_desc">Es reiniciaran totes les preferències de:\n\n
+<li>Aplicacions desactivades</li>\n
+ <li>Notificacions d\'aplicacions desactivades</li>\n
+ <li>Aplicacions per defecte</li>\n
+ <li>Restriccions de dades en segon pla per a aplicacions</li>\n\n
+ No es perdran les dades de les aplicacions.</string>
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_search_prompt">"No s'ha pogut trobar cap resultat? Proveu de mostrar els resultats de totes les aplicacions."</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
@@ -250,6 +256,7 @@
   <string name="applock_add_account_info">Afegiu el compte Mi per reiniciar la contrasenya en cas que l\'oblideu.</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
   <string name="applock_bind_account_title">He oblidat la contrasenya</string>
+  <string name="applock_close_dialog_summary">Totes les aplicacions ocultes es mostraran, es restauraran les vostres dreceres de la pantalla inicial i s\'esborrarà la contrasenya de desbloqueig. Voleu desactivar el bloqueig d\'aplicacions?</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloquejador d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
@@ -335,6 +342,7 @@
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Torna al bloquejador d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
+  <string name="back_modifypassword">Torna enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Activeu les dades mòbils i torneu-ho a provar.</string>
   <string name="back_sound_fail">"No s'ha pogut configurar. S'ha canviat la configuració de l'operador. Establiu la targeta SIM actual com a targeta de dades, connecteu-vos a la xarxa i torneu-ho a provar."</string>
   <string name="back_sound_success">Configurat amb èxit</string>
@@ -558,6 +566,7 @@
   <string name="descx_quick_scan_cancel">S\'ha cancel·lat l\'escaneig</string>
   <string name="descx_quick_scan_preparation">Un moment…</string>
   <string name="detail_app_button">Informació de l\'aplicació</string>
+  <string name="details_subtitle">Detalls d\'us</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu-ho a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
@@ -665,6 +674,7 @@
   <string name="exit_dialog_scan_message">"La puntuació del rendiment del dispositiu és inferior a 75 punts. Voleu optimitzar-lo?"</string>
   <string name="exit_dialog_scan_positive_button">Optimitza</string>
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
+  <string name="extreme_power_save_mode_title">Estalvi extrem de bateria</string>
   <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
   <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -699,6 +709,11 @@
   <string name="firewall_temp_rule_reason">%2$s va restringir la connexió a Internet per a %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet mitjançant Wi-Fi quan aquest interruptor estigui desactivat."</string>
+  <string name="first_aid_card_airplane_button">Desactiva</string>
+  <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
+  <string name="first_aid_card_consume_power_title">Consum de bateria</string>
+  <string name="first_aid_item4_content">Bateria</string>
+  <string name="first_aid_scanning_item4">Cercant problemes de bateria…</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="fod_authentication_shift_button">Cancel·la</string>
   <string name="fod_button_finger">Utilitza l\'empremta</string>
@@ -706,6 +721,7 @@
   <string name="fod_finger_notice_title">Col·loqueu el dit a la pantalla</string>
   <string name="fod_finger_windows_tips">Verifica l\'empremta</string>
   <string name="fod_tips_split_screen_more_than_half">Introduïu la contrasenya</string>
+  <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
@@ -784,6 +800,7 @@
   <string name="gmscore_support_service">Serveis de Google</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
+  <string name="google_base_app_install_choice">«%s» requerix de les aplicacions del Marc de Servei de Google per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
@@ -956,6 +973,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_button_mi_sim_close">Activa la SIM Mi</string>
   <string name="main_button_mi_sim_open">Mostra els detalls</string>
   <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
+  <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_adjusting_bill">S\'està canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
@@ -1056,6 +1074,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_report">Notifica un error</string>
   <string name="menu_setting_traffic">Estableix manualment</string>
   <string name="menu_sms">Envia el missatge</string>
+  <string name="menu_summary_power_manager">L\'estalvi de bateria us allarga el temps entre càrregues</string>
   <string name="menu_summary_power_manager_1">Bateria completament carregada</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Escaneig de seguretat</string>
@@ -1075,6 +1094,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
+  <string name="midrop_post_notification_contentText">Proveu Mi Drop. És ràpid i sense anuncis.</string>
+  <string name="midrop_post_notification_contentTitle">Necessiteu transferir fitxers?</string>
   <string name="mixed_need_to_confirm">Torneu a introduir-la per confirmar</string>
   <string name="mixed_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
   <string name="mixed_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
@@ -1083,6 +1104,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mixed_retry_button_text">Cancel·la</string>
   <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
   <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
+  <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">Més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
@@ -1409,6 +1431,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pref_key_tethering_setting">Límit de dades d\'una sola vegada</string>
   <string name="pref_key_tethering_title">Límit de dades d\'una sola vegada</string>
   <string name="pref_manual_adjust">Estableix manualment les estadístiques d\'ús de dades</string>
+  <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_more_settings">Configuració addicional</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_normal_traffic_limit">Quan el pla de dades s\'esgoti</string>
@@ -1421,6 +1444,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pref_roaming_daily_limit_setting_cat_title">Límit diari de dades</string>
   <string name="pref_roaming_setting_gategory">Configuració</string>
   <string name="pref_special_package_setting">Pla de dades personalitzat</string>
+  <string name="pref_special_package_setting_summary">Gestiona les dades en hores vall, paquets de prepagament, plans de dades diàries i dades delimitats</string>
+  <string name="pref_summary_upload_data_usage">Informeu del vostre ús de dades per ajudar-nos a millorar MIUI. Els informes es realitzen seguint la nostra Política de Privacitat.</string>
   <string name="pref_title_declaration">Clàusula important</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificacions flotants</string>
   <string name="pref_title_manual_check_virus_db_update">Cerca actualitzacions</string>
@@ -1428,6 +1453,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pref_title_traffic_limit_number">Mida</string>
   <string name="pref_title_traffic_speed_state">Mostra la velocitat de la xarxa</string>
   <string name="pref_title_update_notification">Notificacions d\'ús de dades</string>
+  <string name="pref_title_upload_data_usage">Informació sobre l\'ús de dades</string>
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Excepcions d\'itinerància de dades</string>
@@ -1485,6 +1511,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="report_error">"No s'ha pogut informar del missatge"</string>
   <string name="report_only">Trieu un missatge per notificar</string>
   <string name="report_success">Missatge notificat</string>
+  <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
   <string name="resource_antivirus">Anàlisi de virus</string>
@@ -1787,6 +1814,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="summary_default_app">"%s no s'ha configurat com a aplicació per defecte del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
   <string name="summary_do_not_disturb">"Esteu utilitzant el mode No molesteu."</string>
+  <string name="summary_eye_shield">Desactiveu el mode de lectura per recuperar la configuració per defecte.</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
@@ -1804,6 +1832,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="summary_permission_root">El dispositiu i dades personals són més vulnerables als atacs des d\'aplicacions que tenen accés root</string>
   <string name="summary_power_optimizer">"Reduir el rendiment del teu dispositiu"</string>
   <string name="summary_realname_verify">Verifica la seva identitat per fer pagaments més segurs.</string>
+  <string name="summary_restrict_data_usage">Heu restringit l\'ús de dades per aquesta aplicació.</string>
   <string name="summary_show_notification">Afegeix els controls del Centre de Seguretat a l\'àrea de notificacions</string>
   <string name="summary_telecom_operator">Obtenir del seu proveïdor de telefonia les seves estadístiques mensuals d\'ús de dades</string>
   <string name="summary_usb">Prevenir que el malware sigui transmès via USB</string>
@@ -1896,6 +1925,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="tc_sms_report_receive_num">Número del receptor</string>
   <string name="tc_sms_report_send_num">Número de l\'operador</string>
   <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta característica, enviant-nos un informe quan la informació del seu ús de dades és incorrecta o no s\'actualitza.</string>
+  <string name="tc_sms_report_tips_dialog_message">"S'enviarà un SMS per obtenir la informació d'ús de dades més recent del vostre operador. Si creieu que la informació no és correcta, envieu-nos els vostres comentaris."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
   <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>

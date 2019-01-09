@@ -15,6 +15,7 @@
   <string name="act_weather_find_city_no_result">No s\'ha trobat res</string>
   <string name="act_weather_find_city_searching">S\'està cercant&#8230;</string>
   <string name="activity_find_city_dialog_cancel">Cancel·la</string>
+  <string name="activity_find_city_dialog_message">Deixeu que «El temps» vegi la vostra ubicació</string>
   <string name="activity_find_city_dialog_set">Configuració</string>
   <string name="activity_find_city_dialog_title">Accés a la ubicació</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
@@ -81,6 +82,8 @@
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
+  <string name="data_provided_by">Dades proporcionades per</string>
+  <string name="edit_city">Edita la ciutat</string>
   <string name="eu_region_version_first_start_network_msg">"En utilitzar aquest producte, accepteu que Xiaomi recopilarà, processarà i utilitzarà informació personal, incloses les coordenades de les ciutats que cerqueu i altres tipus de dades especificades a la nostra política de privadesa. Consulteu la nostra política de privadesa per obtenir informació sobre com recopilem i processem la informació. Si toqueu «D'acord», accepteu la %1$s i %2$s de Xaiomi."</string>
   <string name="feedback_overcast">Cobert</string>
   <string name="feedback_result_fail_no_choice">Trieu el temps que veieu</string>
@@ -100,6 +103,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="information_settings_title">Informació meteorològica</string>
   <string name="install">Instal·la</string>
   <string name="international_details_pressure_title">PRESSIÓ</string>
+  <string name="international_details_real_feel_title">SENSACIÓ TÈRMICA®</string>
   <string name="international_details_title">Detalls</string>
   <string name="international_details_uv_index_title">ÍNDEX UV</string>
   <string name="international_details_wind_title">VENT</string>
@@ -129,6 +133,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="no_data">Sense dades</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
+  <string name="open">Obre</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="open_now">Obre\'l ara</string>
   <string name="other_settings">Altres configuracions</string>

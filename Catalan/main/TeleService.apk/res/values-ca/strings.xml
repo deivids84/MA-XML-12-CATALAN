@@ -500,6 +500,7 @@ Taxa de mostreig"</string>
   <string name="confirm_pin2_label">Confirmeu el PIN2 nou</string>
   <string name="confirm_pin_label">Confirmeu el PIN nou</string>
   <string name="connect_disconnect_vibrate_none">Cap</string>
+  <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">"Vibra quan la persona que esteu trucant contesti la trucada"</string>
   <string name="connect_disconnect_vibrate_title">Vibra quan despengin</string>
   <string name="connect_disconnect_vibrate_weak">Llum</string>
@@ -705,6 +706,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="fdn_list_with_label">Llista NMP (%s)</string>
   <string name="fdn_summary">Restringeix les trucades sortints als NMP llistats o a números amb determinats prefixos</string>
   <string name="fdn_with_label">Números de marcatge predefinits (%s)</string>
+  <string name="flash_when_ring_summary">Encén la llum del flaix en rebre trucades</string>
   <string name="flash_when_ring_title">Flaix en rebre trucada</string>
   <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
   <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
@@ -728,6 +730,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="goPrivate">Passa a privat</string>
   <string name="go_to_virtual_sim_title">SIM Virtual</string>
   <string name="got_it">D\'acord</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Mode de xarxa</string>
+  <string name="gsm_umts_network_preferences_title">Mode de xarxa</string>
   <string name="gsm_umts_options">Opcions de GSM/UMTS</string>
   <string name="hac_mode_summary">Activa compatibilitat amb audiòfons</string>
   <string name="hac_mode_title">Audiòfons</string>
@@ -865,6 +869,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="missed_call_notify_once">1 cop</string>
   <string name="missed_call_notify_ten_times">10 cops</string>
   <string name="missed_call_notify_thrice">3 cops</string>
+  <string name="missed_call_notify_times_summary">els recordatoris es separen en intervals de 5 minuts</string>
   <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
   <string name="missed_call_notify_twice">2 cops</string>
   <string name="miui_network_selection_reset_text">Restableix</string>
@@ -1209,6 +1214,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="respond_via_sms_canned_response_2">"Us trucaré tot seguit."</string>
   <string name="respond_via_sms_canned_response_3">"Us trucaré més tard."</string>
   <string name="respond_via_sms_canned_response_4">"Ara no puc parlar. Què passa?"</string>
+  <string name="respond_via_sms_cannot_empty">"Els missatges de rebuig de trucada no poden estar en blanc"</string>
   <string name="respond_via_sms_confirmation_format">S\'ha enviat el missatge a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta ràpida</string>
   <string name="respond_via_sms_menu_reset_default_activity">Restaura els valors per defecte</string>
@@ -1471,6 +1477,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_option_title">Mode TTY</string>
   <string name="turn_off_dual_4g_failed">"No s'ha pogut desactivar el 4G dual."</string>
   <string name="turn_on_dual_4g_failed">"No s'ha pogut activar el 4G dual."</string>
+  <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>

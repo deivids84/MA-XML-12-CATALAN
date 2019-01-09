@@ -285,6 +285,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_title">Inicia una sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
+  <string name="passport_new_user_register">Crea un compte</string>
   <string name="passport_next">Següent</string>
   <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="passport_password_phone_login">Inicia sessió amb el Compte Mi</string>
@@ -356,6 +357,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_skip_login">Omet</string>
   <string name="passport_skip_register">Omet el registre</string>
   <string name="passport_skip_setup_account_msg">Podeu configurar després un compte Mi a Configuració.</string>
+  <string name="passport_skip_setup_account_title">"Omet configuració"</string>
   <string name="passport_sms_send_success">Enviat</string>
   <string name="passport_sms_verification_code_login">Inicia sessió mitjançant un SMS</string>
   <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
