@@ -52,6 +52,7 @@
   <string name="ai_scene_mode_use_hint_text">"La càmera IA detecta composicions automàticament
 i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
+  <string name="autozoom_landscape_hint">Fotografiar en mode paisatge per a millor efecte</string>
   <string name="beauty_fragment_tab_name_beauty">Bellesa</string>
   <string name="beauty_fragment_tab_name_makeup">Avançat</string>
   <string name="bokeh_use_hint">Efecte de profunditat</string>
@@ -72,6 +73,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="cannot_connect_camera_twice">"Encara no es pot accedir a la càmera. Proveu de reiniciar el telèfon."</string>
   <string name="cannot_connect_camera_volte_call">Trucada de vídeo en curs, si us plau intenteu-ho més tard.</string>
   <string name="cannot_move_warning_message">Fotografia en procés, no mogui el dispositiu</string>
+  <string name="capture_back_pressed_hint">Premeu un altre cop per sortir</string>
   <string name="color_effect_entry_berry">Baies</string>
   <string name="color_effect_entry_blackwhite">B/N</string>
   <string name="color_effect_entry_cookie">Galeta</string>
@@ -358,6 +360,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
+  <string name="pref_camera_whitebalance_entryvalue_daylight">llum natural</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
@@ -445,6 +448,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="start_capture">D\'acord</string>
   <string name="sticker_tab1">Bonic</string>
   <string name="sticker_tab2">Divertit</string>
+  <string name="super_night_toast">Mantenir el seu telèfon quiet mentre estigui prenent una foto</string>
   <string name="tap_to_exposure">Premeu per ajustar manualment l\'exposició</string>
   <string name="tap_to_focus">Toqueu per enfocar</string>
   <string name="text_ai_scene_selector_text_off">CONTRALLUM</string>
@@ -456,6 +460,10 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>
   <string name="ubi_focus_capture_fail">"No s'ha pogut fer la foto"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
+  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
+  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_wide_bokeh_open_tip">Mode de cos sencer</string>
+  <string name="ultra_wide_open_tip">Mode de gran angular</string>
   <string name="user_agree">D\'acord</string>
   <string name="user_agreement2">Condicions del servei</string>
   <string name="user_agreement4">Política de privadesa</string>

@@ -216,6 +216,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="generic_error_dlg_text">No s\'ha pogut desinstal·lar l\'aplicació.</string>
+  <string name="generic_error_dlg_title">Error</string>
   <string name="grant_confirm_question">Voleu concedir els següents permisos? Obtindrà accés a:</string>
   <string name="grant_dialog_button_allow">Permet</string>
   <string name="grant_dialog_button_deny">Denega</string>

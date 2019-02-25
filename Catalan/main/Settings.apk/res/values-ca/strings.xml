@@ -1181,6 +1181,8 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="daltonizer_mode_tritanomaly">Tritanomalia (blau-groc)</string>
   <string name="daltonizer_type">Mode de correcció</string>
   <string name="daltonizer_type_overridden">Substituit per %1$s</string>
+  <string name="dark_ui_mode">Mode nocturn</string>
+  <string name="dark_ui_mode_title">Configura el mode nocturn</string>
   <string name="dashboard_title">Configuració</string>
   <string name="data_limit">Límit de dades</string>
   <string name="data_saver_off">Apagat</string>
@@ -1563,6 +1565,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\""</string>
   <string name="emergency_address_title">Actualització de l\'adreça d\'emergència</string>
   <string name="emergency_info_summary">Informació i contactes per %1$s</string>
   <string name="emergency_info_title">Informació d\'emergència</string>
+  <string name="emergency_sos_title">SOS d\'emergència</string>
   <string name="emergency_tone_alert">Avís</string>
   <string name="emergency_tone_silent">Silenciosa</string>
   <string name="emergency_tone_summary">Defineix el comportament quan es fa una trucada d\'emergència</string>
@@ -1856,6 +1859,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget">Oblida-la</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
+  <string name="forget_password_dialog_button_text">Enrere</string>
   <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
@@ -2555,6 +2559,9 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_vibrate">Vibració</string>
   <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
+  <string name="miui_lab_ai_cloud_closed">"La precàrrega IA encara no està disponible."</string>
+  <string name="miui_lab_ai_preload_desc">La precàrrega IA accelera l\'arrencada de les aplicacions</string>
+  <string name="miui_lab_ai_preload_title">Precàrrega IA</string>
   <string name="miui_lab_feature_applied">S\'ha aplicat</string>
   <string name="miui_lab_feature_off">Desactivat</string>
   <string name="miui_lab_feature_on">Activat</string>
@@ -2564,18 +2571,51 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
+  <string name="miui_sos_audio_summary">Reprodueix el missatge de SOS després que el contacte d\'emergència despengi</string>
+  <string name="miui_sos_audio_title">Missatge de veu de SOS</string>
+  <string name="miui_sos_call_log_duration">Durada</string>
+  <string name="miui_sos_call_log_none">No hi ha cap trucada a l\'historial de l\'última hora.</string>
+  <string name="miui_sos_call_log_stranger">Desconegut</string>
+  <string name="miui_sos_call_log_summary">Envia l\'historial de trucades de la darrera hora al vostre contacte d\'emergència</string>
+  <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
+  <string name="miui_sos_call_log_title">Envia el registre de trucades</string>
+  <string name="miui_sos_call_warning_sim_unable">"No hi ha senyal. No es poden enviar SMS."</string>
+  <string name="miui_sos_calling_summary">El vostre dispositiu realitzarà trucades automàtiques als vostres contactes d\'emergència per transmetre el missatge de veu de SOS que heu enregistrat. Un cop reproduït tot el missatge finalitzarà la trucada. Després del primer intent amb èxit les trucades automàtiques s\'aturaran.</string>
+  <string name="miui_sos_calling_title">Trucada automàtica</string>
   <string name="miui_sos_contacts_add">Contactes d\'emergència</string>
   <string name="miui_sos_contacts_category">Contactes d\'emergència</string>
   <string name="miui_sos_emergency_contacts">Contactes d\'emergència</string>
+  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) ja ha acceptat.</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1s ja ha acceptat</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">"No s'ha pogut enviar el missatge a %1s (%2s)."</string>
+  <string name="miui_sos_emergency_failed_sms_noname">"No s'ha pogut enviar el missatge a %1s."</string>
   <string name="miui_sos_enable_switch_summary">Premeu 5 cops seguits el botó d\'engegada, ràpidament, per enviar un missatge de text de SOS amb la vostra ubicació als vostres contactes d\'emergència</string>
+  <string name="miui_sos_enable_switch_title">SOS d\'emergència</string>
+  <string name="miui_sos_exit_dialog_cancel">Cancel·la</string>
   <string name="miui_sos_exit_dialog_message">Teniu activat el SOS d\'emergència. La vostra localització s\'envia als vostres contactes d\'emergència. Confirmeu que ho voleu desactivar?</string>
+  <string name="miui_sos_exit_dialog_ok">D\'acord</string>
   <string name="miui_sos_exit_dialog_title">Desactivant-se el SOS d\'emergència</string>
+  <string name="miui_sos_green_guard_summary">Comparteix la informació de localització en temps real</string>
+  <string name="miui_sos_green_guard_title">Controls parentals</string>
   <string name="miui_sos_launch_error">"No s'ha pogut activar el SOS d'emergència"</string>
+  <string name="miui_sos_launch_error_confirm">Entesos</string>
+  <string name="miui_sos_launch_error_message">"No es pot connectar a la xarxa mòbil. No es pot utilitzar el SOS d'emergència."</string>
   <string name="miui_sos_launching_summary">El SOS d\'emergència s\'activarà en %ds</string>
+  <string name="miui_sos_launching_title">SOS</string>
+  <string name="miui_sos_menu_add">Afegeix</string>
+  <string name="miui_sos_menu_edit">Edita</string>
+  <string name="miui_sos_msg_call_log_prefix">"Aquest és el meu historial de trucades de la darrera hora:"</string>
+  <string name="miui_sos_play_voice">Reprodueix el missatge de SOS</string>
+  <string name="miui_sos_remind_add">Afegeix</string>
   <string name="miui_sos_remind_infocontent">"Us he afegit com el meu contacte d'emergència. Rebreu un missatge amb la meva posició si estic en perill. [SOS d'emergència MI]"</string>
   <string name="miui_sos_remind_open">El SOS d\'emergència requereix 1 contacte d\'emergència com a mínim per funcionar normalment.</string>
   <string name="miui_sos_remind_sendinfo">"No us oblideu d'explicar a aquestes persones que ara són els vostres contactes d'emergència. Així, us podran ajudar més ràpidament en cas d'emergència."</string>
+  <string name="miui_sos_remind_sendnow">Envia ara</string>
+  <string name="miui_sos_remind_title">Atenció</string>
+  <string name="miui_sos_settings_alert_contacts_repeat">"No podeu afegir contactes duplicats."</string>
   <string name="miui_sos_settings_alert_contacts_too_many">Podeu afegir fins a 3 contactes d\'emergència.</string>
+  <string name="miui_sos_settings_category">Configuració de SOS</string>
+  <string name="miui_sos_statusbar_summary">Premeu per tancar</string>
   <string name="miui_sos_statusbar_title">El SOS d\'emergència està activat</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
@@ -2813,6 +2853,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="normal_smartcover_title">Coberta frontal opaca</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
+  <string name="notch_force_black_desc">Activeu per enfosquir entorn el notch</string>
+  <string name="notch_force_black_title">Amaga el notch</string>
   <string name="notes_privacy_password_role_instruction">Les notes privades es desaran aquí.</string>
   <string name="notification_app_settings_button">Configuració de les notificacions</string>
   <string name="notification_badge_title">Permet el punt de notificació</string>
@@ -3505,6 +3547,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_off_apps_title">"No utilitzis mode lectura"</string>
   <string name="screen_paper_mode_range_title">Configuració</string>
   <string name="screen_paper_mode_set_apps_title">Aplicacions en mode lectura</string>
+  <string name="screen_paper_mode_summary">El mode de lectura utilitza colors més càlids a la pantalla que permetrà als vostres ulls relaxar-se.</string>
   <string name="screen_paper_mode_time_summary">mode de lectura programada amb el vostre temps establert</string>
   <string name="screen_paper_mode_time_title">Programació</string>
   <string name="screen_paper_mode_title">Mode lectura</string>
@@ -3930,6 +3973,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
   <string name="setup_choose_unlock_mixed_password">Contrasenya</string>
   <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">Introduïu 4 números</string>
   <string name="setup_choose_unlock_password_title">Estableix el PIN</string>
   <string name="setup_choose_unlock_pattern">Patró</string>
@@ -4083,6 +4127,12 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sort_max_use">Ordena per ús màxim</string>
   <string name="sort_order_alpha">Ordena pel nom</string>
   <string name="sort_order_size">Ordenar per mida</string>
+  <string name="sos_privacy_and_content_policy">Acord d\'usuari i política de privacitat</string>
+  <string name="sos_privacy_dialog_button_cancel">Cancel·la</string>
+  <string name="sos_privacy_dialog_button_ok">D\'acord</string>
+  <string name="sos_privacy_dialog_message">"Llegiu i confirmeu el nostres %s abans d\'utilitzar aquesta opció.
+Aquesta opció requereix permís per accedir a la vostra ubicació, per l\'ús de la xarxa mòbil i per accedir als vostres contactes. Hi esteu d\'acord?"</string>
+  <string name="sos_privacy_dialog_title">Termes i condicions</string>
   <string name="sound_category_call_ringtone_vibrate_title">Tons de trucada i sons de notificació</string>
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_dashboard_summary">Volum, vibració, no molestis</string>
@@ -5030,7 +5080,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wapi_cert_select">Certificat WAPI</string>
   <string name="wapi_no_vaild_cert">"No hi ha cap certificat disponible, voleu instal·lar-ne un?"</string>
   <string name="wapi_password_empty">Introduïu la contrasenya</string>
+  <string name="wapi_password_hex_format_invalid">Format de contrasenya incorrecte</string>
   <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
+  <string name="wapi_password_length_invalid">La contrasenya ha de tenir entre 8 a 64 caràcters de longitud</string>
   <string name="wapi_psk_type">Tipus de contrasenya</string>
   <string name="warm_color">Càlid</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>
@@ -5183,6 +5235,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_forget">Oblida-la</string>
   <string name="wifi_frequency">Freqüència</string>
   <string name="wifi_gateway">Passarel·la</string>
+  <string name="wifi_hide_password">Amaga la contrasenya</string>
   <string name="wifi_hotspot_checkbox_text">Punt d\'accés Wi-Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Utilitza la connexió mòbil per crear una xarxa Wi‑Fi</string>
   <string name="wifi_hotspot_configure_ap_text">Configuració del punt d\'accés Wi-Fi</string>

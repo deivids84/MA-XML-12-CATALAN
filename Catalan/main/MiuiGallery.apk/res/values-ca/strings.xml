@@ -28,6 +28,12 @@
   <string name="adjust_saturation">Saturació</string>
   <string name="adjust_sharpen">Nitidesa</string>
   <string name="adjust_vignette">Vinyeta</string>
+  <string name="agreement_agree">Accepta</string>
+  <string name="agreement_optional_tip">(Opcional)</string>
+  <string name="agreement_quit">Surt</string>
+  <string name="agreement_required_tip">Obligatori</string>
+  <string name="agreement_summary">Documents legals</string>
+  <string name="ai_album_open_switch_button_title">Comença l\'anàlisi de fotografies</string>
   <string name="album_already_exists_check">Comprova</string>
   <string name="album_already_exists_msg">L\'àlbum \"%s\" ja existeix</string>
   <string name="album_already_forced_top">Ja està fixat</string>
@@ -375,8 +381,6 @@
   <string name="download_type_thumbnail">Qualitat alta</string>
   <string name="download_type_thumbnail_desc">Qualitat alta</string>
   <string name="download_type_title">Qualitat de la baixada</string>
-  <string name="download_without_wifi_msg">"Si utilitzeu la connexió de dades mòbils per baixar fotos augmentareu l'ús de dades. En cas que excediu el límit de dades de la tarifa el vostre operador us pot cobrar de més."</string>
-  <string name="download_without_wifi_title">Alerta d\'ús de dades</string>
   <string name="downloading_dialog_message">Podeu seleccionar la qualitat de les imatges baixades o desactivar la baixada automàtica a la Configuració.</string>
   <string name="downloading_title">S\'estan baixant fotos del Mi Cloud</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
@@ -712,6 +716,15 @@ per personalitzar la galeria"</string>
   <string name="people_mark_mode_title_no_mark_name">Selecciona una persona</string>
   <string name="people_page_label">Persones</string>
   <string name="people_page_unname">Sense nom</string>
+  <string name="permissin_contract_desc">Per a anomenar persones en fotos</string>
+  <string name="permission_contract_name">Contactes</string>
+  <string name="permission_optional_category">Permisos opcionals</string>
+  <string name="permission_phone_desc">Per a peticions de xarxa basades en dispositiu ID</string>
+  <string name="permission_phone_name">Telèfon</string>
+  <string name="permission_require_category">Permisos obligatoris</string>
+  <string name="permission_storage_desc">Per a mostrar, editar i guardar fotos</string>
+  <string name="permission_storage_name">Emmagatzematge</string>
+  <string name="permission_use_desc">Permisos</string>
   <string name="pet_album_display_name">Fotos de mascotes</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Baixeu la foto abans d\'editar-la</string>
@@ -914,6 +927,7 @@ per personalitzar la galeria"</string>
   <string name="secret_reason_type_not_support">"Aquest tipus de fitxer no és compatible"</string>
   <string name="secret_reason_unknow_reasons">Error desconegut</string>
   <string name="see_ignore_faces">"Veure les persones que heu ignorat"</string>
+  <string name="select_all">Selecciona-ho tot</string>
   <string name="select_item_face">"És '%s'?"</string>
   <string name="select_origin_tip">Fitxer original (%s)</string>
   <string name="send_multiple_files_hint_format">Envia (%s)</string>

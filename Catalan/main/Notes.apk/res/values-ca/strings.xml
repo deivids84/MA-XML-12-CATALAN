@@ -189,6 +189,7 @@
   <string name="toolbar_voice_description">Veu</string>
   <string name="trash_folder_name">Paperera</string>
   <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
+  <string name="unclassfied_folder_name">Sense categoria</string>
   <string name="undo">Desfer</string>
   <string name="unknown_source">Font desconeguda</string>
   <string name="widget_content_loading">Un moment…</string>
