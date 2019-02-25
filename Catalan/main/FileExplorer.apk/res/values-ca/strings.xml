@@ -13,7 +13,6 @@
   <string name="album_name">Selecció diària: %s</string>
   <string name="all_topic">Tots els temes</string>
   <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
-  <string name="apk_installing">S\'està instal·lant...</string>
   <string name="app_name">Explorador Mi</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Càmera</string>
@@ -56,7 +55,6 @@
   <string name="cancel_error">"No s'han pogut treure, intenta-ho de nou"</string>
   <string name="cancel_operation">Cancel·la l\'operació</string>
   <string name="cancel_success">S\'han eliminat correctament, tots els fitxers van ser moguts a %s</string>
-  <string name="cancel_text">Cancel·la</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
   <string name="cannot_send">"No es poden enviar fitxers des de l'emmagatzematge extern"</string>
   <string name="category">Categories</string>
@@ -190,13 +188,6 @@
   <string name="error_invalid_path">Ruta incorrecta</string>
   <string name="error_not_support">No suportat</string>
   <string name="error_open_file_failed_no_app_found">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
-  <string name="exo_controls_fastforward_description">Avanç ràpid</string>
-  <string name="exo_controls_next_description">Següent cançó</string>
-  <string name="exo_controls_pause_description">Pausa</string>
-  <string name="exo_controls_play_description">Reprodueix</string>
-  <string name="exo_controls_previous_description">Cançó anterior</string>
-  <string name="exo_controls_rewind_description">Rebobina</string>
-  <string name="exo_controls_stop_description">Atura</string>
   <string name="extended_storage_file_can_not_open">"No es pot obrir el fitxer. Copieu el fitxer a l'emmagatzematge intern."</string>
   <string name="extract">Extreure</string>
   <string name="fail_to_create_folder_unknown">"No es pot crear la carpeta"</string>
@@ -260,7 +251,6 @@
   <string name="image_loading_error">"No s'ha pogut carregar la imatge"</string>
   <string name="input_memo_hint">Introduïu comentaris addicionals (opcional)</string>
   <string name="install_fail">"No s'ha pogut instal·lar"</string>
-  <string name="install_text">Instal·la ara</string>
   <string name="installing">S\'està instal·lant…</string>
   <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
   <string name="instruction_pre_pad">Toqueu per iniciar el servidor FTP</string>
@@ -271,11 +261,7 @@
   <string name="like_toast_1">Aquests vídeos són recomanats per a vostè més sovint.</string>
   <string name="like_toast_2">Veure els vídeos que us han agradat en el vostre perfil.</string>
   <string name="like_toast_3">Inicieu sessió per veure els vídeos que us han agradat en el vostre perfil.</string>
-  <string name="list_refreshing_text">S\'està actualitzant...</string>
-  <string name="list_refreshing_time">Darrera actualització: %1$s</string>
   <string name="load_more">Veure més</string>
-  <string name="load_more_load_end">No hi ha més contingut</string>
-  <string name="load_more_loading">S\'està carregant...</string>
   <string name="load_sticker_fail">"No s'ha pogut carregar l'adhesiu"</string>
   <string name="loading">Un moment…</string>
   <string name="local_image">Imatges</string>
@@ -337,7 +323,6 @@
   <string name="name_empty">Introduïu un nom</string>
   <string name="need_login">Inicieu la sessió primer</string>
   <string name="need_read_storage_permission">"L'Explorador Mi necessita accedir a la memòria interna del dispositiu per funcionar correctament."</string>
-  <string name="net_error_text">Error de xarxa</string>
   <string name="network_dialog_checkbox_tip">"No tornar a mostrar"</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_spent_reminding">"Obre aquesta pàgina requereix trànsit del teu pla de dades."</string>

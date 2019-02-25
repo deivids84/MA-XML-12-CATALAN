@@ -15,6 +15,8 @@
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
   <string name="backup_now">Fes la còpia de seguretat</string>
   <string name="backup_size">Mida: %s</string>
+  <string name="backup_stopped_msg">La còpia de seguretat actual sobreescriurà l\'anterior. Premeu per veure-la.</string>
+  <string name="backup_stopped_title">La còpia de seguretat s\'ha interromput</string>
   <string name="backup_success">Còpia realitzada amb èxit</string>
   <string name="backup_successfully">Còpia realitzada amb èxit</string>
   <string name="backup_to_cloud">Fes una còpia de l\'aplicació</string>
@@ -60,9 +62,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_back_up_no_network_warn">"No es pot connectar al Wi-Fi"</string>
   <string name="cloud_back_up_ok_btn">D\'acord</string>
   <string name="cloud_back_up_opening">Un moment…</string>
-  <string name="cloud_back_up_share_activity_confirm">Millora</string>
-  <string name="cloud_back_up_share_activity_discription">Aconseguiu més espai, còpies diàries i molt més.</string>
-  <string name="cloud_back_up_share_activity_title">Millorar Compte Mi</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Actualitza</string>
   <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
   <string name="cloud_backup">Còpies de seguretat del Mi Cloud</string>
   <string name="cloud_backup_derail_size_summary">Mida: %s</string>
@@ -94,7 +94,9 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="desktop_wait_wifi">S\'està esperant</string>
   <string name="desktop_waiting">S\'està esperant</string>
   <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
+  <string name="dialog_btn_cancel_backup">Cancel·la</string>
   <string name="dialog_btn_next">Següent</string>
+  <string name="dialog_btn_overwrite_backup">Sobreescriu</string>
   <string name="dialog_btn_restore_skip">Restaura més tard</string>
   <string name="dialog_cancel_backup_cancel">Cancel·la</string>
   <string name="dialog_cancel_backup_confirm">D\'acord</string>
@@ -110,6 +112,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="download_meta_failed">"No s'ha pogut carregar les dades."</string>
   <string name="download_settings">S\'està baixant la configuració de la pantalla d\'inici: %s%%</string>
   <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
+  <string name="error_retry_later">"No s'ha pogut finalitzar l'acció. Espereu un o dos minuts i torneu-ho a provar…"</string>
   <string name="error_unknown">Quelcom ha fallat</string>
   <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
   <string name="home_hint_global_launcher">Pantalla d\'inici Poco</string>
@@ -133,6 +136,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="open_wifi">Encén el Wi-Fi ara</string>
   <string name="open_wifi_description">Connecteu-vos a una xarxa Wi-Fi per restaurar aplicacions</string>
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
+  <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
   <string name="process_whole_recovery">Restaurant «%s»</string>
   <string name="provision_error_connect_msg">"Podeu provar la xarxa i tornar-ho a provar. La funció de còpia de seguretat no estarà disponible sense una xarxa vàlida."</string>
   <string name="provision_error_connect_title">"No es pot connectar"</string>
@@ -150,14 +154,18 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="restore_cloud_backup_to_phone">Restaura els elements del Mi Cloud</string>
   <string name="restore_data_summary">Aquesta funcionalitat requereix una connexió a Internet.</string>
   <string name="restore_data_title">Restauració de dades</string>
+  <string name="restore_finish_description">La restauració ha finalitzat</string>
   <string name="restore_finished_notification_content">S\'ha restaurat les aplicacions de la pantalla d\'inici, la configuració del sistema, etc.</string>
   <string name="restore_from_cloud">Restaurar des del Mi Cloud</string>
   <string name="restore_from_this_device">Restaura usant aquesta còpia</string>
   <string name="restore_home_failed">"No s'ha pogut restaurar la pantalla d'inici."</string>
   <string name="restore_home_screen_apps">Restaurar des d\'una còpia del Mi Cloud</string>
+  <string name="restore_init_description">Comença la restauració</string>
   <string name="restore_task_cancelling">S\'està cancel·lant…</string>
   <string name="restore_task_in_process">S\'està restaurant…</string>
   <string name="restore_unfinished">S\'està restaurant, torneu-ho a provar més tard</string>
+  <string name="restoring_file_title_no_progress">Restaurar arxius…</string>
+  <string name="restoring_settings">Restaurant la configuració…</string>
   <string name="retry">Reintenta</string>
   <string name="settings_backup">Configuració del sistema</string>
   <string name="size_unknown">Mida desconeguda</string>
@@ -169,4 +177,5 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="total_space">Espai total: %s</string>
   <string name="try_again">Toqueu per provar-ho de nou</string>
   <string name="wait_icon_download">S\'estan baixant les icones de les aplicacions</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

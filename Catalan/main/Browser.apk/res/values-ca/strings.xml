@@ -104,8 +104,15 @@
   <string name="agree_permissions_request">Permet</string>
   <string name="alert_tips">Aquest lloc pot suposar un risc per a la seguretat</string>
   <string name="allow">Permet</string>
+  <string name="app_continue_downloading_text">Reprèn</string>
   <string name="app_download_market_text">Utilitzeu Mi mercat per baixar més ràpid i segur</string>
+  <string name="app_download_now_text">Baixa</string>
+  <string name="app_download_success_text">Completada</string>
+  <string name="app_downloading_ratio_text">S\'està baixant %s</string>
+  <string name="app_downloading_text">S\'està baixant</string>
+  <string name="app_installing_text">S\'està instal·lant</string>
   <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
+  <string name="app_open_text">Obre</string>
   <string name="app_update_install">A punt per instal·lar l\'actualització.</string>
   <string name="application_name">Navegador</string>
   <string name="aqi_quality_index_break">Altament perillós</string>
@@ -134,6 +141,7 @@
   <string name="bookmark_btn_select_none">Desselecciona-ho tot</string>
   <string name="bookmark_cannot_save_url">"Aquest URL no es pot afegir als marcadors."</string>
   <string name="bookmark_deleted">Suprimeix l\'adreça d\'interès</string>
+  <string name="bookmark_error_page_title">S\'ha produït un error</string>
   <string name="bookmark_folder_needs_title">Introduïu un nom de grup</string>
   <string name="bookmark_group_lable">Grup</string>
   <string name="bookmark_move_to">Mou a</string>
@@ -169,6 +177,7 @@
   <string name="cast_video">Emet el vídeo</string>
   <string name="check_security_tip_privacy_policy">Política de privadesa</string>
   <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
+  <string name="checking_now">S\'està comprovant...</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_search_history">Esborra l\'historial</string>
@@ -202,6 +211,8 @@
   <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
+  <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
+  <string name="common_use_phrase_bottom_bar_text_previous">Previ</string>
   <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
   <string name="context_menu_orientation_portrait_swap_id">Pantalla V/H</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
@@ -252,6 +263,8 @@ està a punt de passar»</string>
   <string name="delete_bookmark_warning">Voleu eliminar el marcador «%s»?</string>
   <string name="delete_download">Elimina</string>
   <string name="dialog_cannot_resume">La baixada s\'ha interromput</string>
+  <string name="dialog_clipboard_tabs_action">Cliqueu per obrir</string>
+  <string name="dialog_clipboard_tabs_tip">S\'han trobat enllaços ja copiats</string>
   <string name="dialog_confirm_delete_checkbox_message">Elimina el fitxer de l\'emmagatzematge intern</string>
   <string name="dialog_confirm_delete_downloads_message">Voleu eliminar %s tasques?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Voleu eliminar aquesta tasca?</string>
@@ -263,6 +276,7 @@ està a punt de passar»</string>
   <string name="dialog_insufficient_space_on_external">No hi ha prou espai en l\'emmagatzematge extraïble</string>
   <string name="dialog_media_not_found">"No es pot baixar: no hi ha cap emmagatzematge extraïble"</string>
   <string name="dialog_queued_body">Aquest fitxer s\'ha posat a la cua per baixar-lo més endavant.</string>
+  <string name="dialog_recovery_tabs_action">Cliqueu per restaurar</string>
   <string name="dialog_recovery_tabs_disc">La detecció de pàgines obertes obliga la restauració completa.</string>
   <string name="dialog_recovery_tabs_title">Obre la pàgina abans de restaurar-la</string>
   <string name="dialog_title_not_available">"No s'ha pogut baixar"</string>
@@ -274,6 +288,7 @@ està a punt de passar»</string>
   <string name="document_download_normal">Baixada normal</string>
   <string name="document_download_official">Baixa la versió oficial</string>
   <string name="document_download_open_direct">Obre directament</string>
+  <string name="document_download_recommending">Baixada segura (Recomanat)</string>
   <string name="document_download_title">Baixada</string>
   <string name="document_open_file">Obre %s</string>
   <string name="document_open_message">Per millorar l\'experiència de lectura i garantir la seguretat, utilitzeu la versió personalitzada de WPS</string>
@@ -341,6 +356,7 @@ està a punt de passar»</string>
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
+  <string name="exit_browser_confirmation">Premeu un altre cop per retornar a l\'escriptori</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
   <string name="exit_fullscreen">Surt de pantalla completa</string>
   <string name="expand_button_title">Avançat</string>
@@ -388,6 +404,8 @@ està a punt de passar»</string>
   <string name="guide_finance_text">finances</string>
   <string name="guide_games_text">jocs</string>
   <string name="guide_history_text">historia</string>
+  <string name="guide_know_type_main_title">El navegador que us entén</string>
+  <string name="guide_know_type_subtitle">Obteniu consells sorprenents</string>
   <string name="guide_label_chosen_hint">Podeu triar a més de %d categories</string>
   <string name="guide_military_text">militar</string>
   <string name="guide_motor_text">motor</string>
@@ -402,6 +420,7 @@ està a punt de passar»</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
   <string name="home_description">Inici</string>
+  <string name="home_hybrid_application_tips">Mini programes incluits aquí</string>
   <string name="homepage_delete_card_menu">Elimina</string>
   <string name="homepage_get_location">Obtén la ubicació</string>
   <string name="homepage_get_location_failed">"No s'ha pogut obtenir la informació, escolliu una ciutat"</string>
@@ -410,6 +429,8 @@ està a punt de passar»</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
   <string name="hot_words_item_ads_mark">Anuncis</string>
+  <string name="hybrid_application_no_data_text">No mini programes</string>
+  <string name="hybrid_popup_window_delete_button">Suprimeix</string>
   <string name="ignore_add_pwa_dialog_today">"Avui no ho mostris"</string>
   <string name="in_secureaccess">El navegador s\'ha canviat al Mode segur</string>
   <string name="info_flow_description">Canal d\'informació</string>
@@ -471,6 +492,7 @@ està a punt de passar»</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita una targeta SD per modificar aquesta ruta.</string>
   <string name="more_description">Menú</string>
   <string name="more_option">Més opcions</string>
+  <string name="movie_player_3g_tip_retry">Continua</string>
   <string name="mw_abc_action_bar_home_description">Vés a la pàgina d\'inici</string>
   <string name="mw_abc_action_bar_up_description">Vés amunt</string>
   <string name="mw_abc_action_menu_overflow_description">Més opcions</string>
@@ -852,10 +874,14 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
   <string name="nav_screen_incognito_message">L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran.</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
+  <string name="navigate_feedback_input_report_label">Altres raons</string>
+  <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
+  <string name="navigate_feedback_submit">Envia</string>
   <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
+  <string name="network_error_tips">Error de xarxa, torneu-ho a provar</string>
   <string name="network_not_available_comment">Sense connexió a Internet, no es poden fer comentaris</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Connecta a aquesta xarxa</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Hi ha una xarxa Wi-Fi oberta disponible</string>
@@ -870,12 +896,15 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="not_now">Ara no</string>
   <string name="not_remind_again">Recorda la meva elecció</string>
   <string name="notif_install_successful">Baixada completa</string>
+  <string name="novel_toast_hint">S\'ha afegit aquest lloc web a la biblioteca</string>
   <string name="ok">D\'acord</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
   <string name="open_cloud_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="open_cloud_sync_desc">S\'ha afegit marcador amb èxit. Activeu la sincronització amb el Mi Cloud per sincronitzar els marcadors afegits en altres dispositius. Voleu iniciar sessió i activar-lo?</string>
   <string name="open_file_explorer_failed">"No es pot obrir el gestor de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
+  <string name="page_hang_message">La pàgina actual s\'ha blocat i cal que reinicieu el vostre navegador.</string>
+  <string name="page_hang_title">Pàgina blocada</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
   <string name="page_info_view">Mostra la informació de la pàgina</string>
@@ -891,7 +920,11 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="permission_unknown">Opció desconeguda</string>
   <string name="permissions_prompt_message">%s vol </string>
   <string name="play_pause_video">Reprodueix o pausa el vídeo</string>
+  <string name="play_retry">Torna a reproduir</string>
   <string name="play_video">Reprodueix el vídeo</string>
+  <string name="player_data_error_tip">El vídeo està no disponible temporalment. Intenteu-ho més tard</string>
+  <string name="player_net_error">No s\'està connectat a la xarxa, comproveu la configuració de la xarxa</string>
+  <string name="player_no_data">Disculpeu! Aquest vídeo ja no hi és.</string>
   <string name="popup_video">Vídeo emergent</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
@@ -901,6 +934,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_adblock_counts">%d bloquejats</string>
   <string name="pref_adblock_title">Bloquejador d\'anuncis</string>
   <string name="pref_advert_null">Publicitat no marcada, podeu prémer l\'etiqueta de la pàgina</string>
+  <string name="pref_auto_update_under_wifi">Actualització automàtica de paquets utilitzant Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Motors de cerca automàtics per hàbits de recerca</string>
   <string name="pref_cancel_screen">Cancel·la la pantalla</string>
   <string name="pref_category_hint">Categoria</string>
@@ -908,6 +942,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_check_security_url_summary_international">Per proporcionar un millor servei de referència, permeteu que el navegador obtingui la seva URL d\'accés</string>
   <string name="pref_check_security_url_title">Comprova la seguretat de l\'URL</string>
   <string name="pref_check_security_url_title_international">Obtén la URL</string>
+  <string name="pref_checkbox_tab_restore">Recorda aquesta opció (podeu anar a la configuració avançada per modificar-la)</string>
   <string name="pref_clear_adblock_statistics">Neteja l\'historial del bloquejador d\'anuncis</string>
   <string name="pref_clear_adblock_statistics_dlg">Voleu posar a zero el recompte d\'anuncis bloquejats?</string>
   <string name="pref_clear_all_data_dlg">Voleu esborrar totes les dades desades a dalt?</string>
@@ -994,6 +1029,9 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_version_info">Informació de la versió</string>
   <string name="pref_volume_key_action">Desplaça utilitzant els botons de volum</string>
   <string name="progress_dialog_setting_wallpaper">S\'està establint el fons de pantalla&#8230;</string>
+  <string name="pull_refresh_begin">Llisqueu cap avall per actualitzar</string>
+  <string name="pull_refresh_end">Deixeu anar per a refrescar</string>
+  <string name="pull_refresh_refreshing">Actualitzant</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="pwa_app_name">Aplicació web</string>
@@ -1027,6 +1065,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="readmode_refresh">Actualitza</string>
   <string name="readmodelist_bookmarks_to_show">Llista de lectura</string>
   <string name="refresh_description">Refresca</string>
+  <string name="refresh_text">Actualitza</string>
   <string name="refuse_permissions_request">Rebutja</string>
   <string name="remember_passwords_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="remove_bookmark">Esborra el marcador</string>
@@ -1073,6 +1112,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="search_notification_btn_title">Cerca</string>
   <string name="search_path_browser">Configuració/Aplicacions instal·lades/Navegador</string>
   <string name="search_settings_description">Marcadors i historial web</string>
   <string name="search_shipin">Vídeo</string>
@@ -1111,6 +1151,9 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="small_video_loading">S\'està carregant...</string>
+  <string name="small_video_net_error">Error de connexió</string>
+  <string name="small_video_no_more_date">No hi ha dades</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar la pàgina"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
@@ -1175,7 +1218,6 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
   <string name="suggestion_lottery_period">RONDA %s</string>
-  <string name="suggestion_more_button_text">MOSTRA\'N MÉS</string>
   <string name="suggestion_more_news">MÉS NOTÍCIES</string>
   <string name="suggestion_more_news_start_title_text">Notícies relacionades</string>
   <string name="suggestion_topic_subtitle_hyphen">Enfocament</string>
@@ -1306,4 +1348,5 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="voice_title_speech_again">"No se us pogut entendre"</string>
   <string name="weather_location_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="webpage_title">Marcadors i historial</string>
+  <string name="window_manager_hybrid_application_list_title_text">Utilitzats recentment</string>
 </resources>

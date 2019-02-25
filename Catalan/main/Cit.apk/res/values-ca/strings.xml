@@ -194,6 +194,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_front_camera_check_title">Càmera frontal</string>
   <string name="cit_get_signature_failed">HA FALLAT la obtenció de la signatura</string>
   <string name="cit_gps_check_summary">La informació corresponent al GPS hauria de mostrar-se a continuació.</string>
+  <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"El GPS no s\'ha iniciat 
 
 Toqueu la pantalla per iniciar el GPS&#8230;"</string>

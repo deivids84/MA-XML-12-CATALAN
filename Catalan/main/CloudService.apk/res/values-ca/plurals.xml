@@ -53,12 +53,16 @@
         <item quantity="other">"%d fotos ocultes no se sincronitzen. Tanqueu la sessió després de sincronitzar tots els elements per mantenir-los; en cas contrari, els elements s'eliminaran."</item>
         <item quantity="one">"%d foto oculta no se sincronitza. Tanqueu la sessió després de sincronitzar tots els elements per mantenir-los; en cas contrari, els elements s'eliminaran."</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Reprèn la sincronització després de %d hores</item>
-        <item quantity="one">Reprèn la sincronització després d\'%d hora</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">La sincronització s\'ha aturat. Continuarà en %d minuts…</item>
+        <item quantity="one">La sincronització s\'ha aturat. Continuarà en %d minut…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Reprèn la sincronització després de %d minuts</item>
-        <item quantity="one">Reprèn la sincronització després d\'%d minut</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">Fa %s minuts</item>
+        <item quantity="one">Fa %s min</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">Fa %s hores</item>
+        <item quantity="one">Fa %s hora</item>
     </plurals>
 </resources>

@@ -487,7 +487,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>
-  <string name="user_notice_message">"En utilitzar aquest producte accepteu les %1$s i %2$s de Xiaomi. Algunes característiques necessiten connexió a Internet, accés a la ubicació, als contactes i als SMS per funcionar."</string>
+  <string name="user_notice_message">En utilitzar aquest producte accepteu les %1$s i %2$s de Xiaomi. Algunes característiques necessiten connexió a Internet, accés a la ubicació, als contactes i als SMS per funcionar.</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_event_calendar_label">Calendari:</string>
   <string name="view_event_organizer_label">Organitzador:</string>

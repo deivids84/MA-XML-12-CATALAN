@@ -403,7 +403,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_calculating_media_description">Fitxers multimèdia</string>
   <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
-  <string name="trans_cancel_dialog_survey_title">Per què heu aturat la transferència?</string>
+  <string name="trans_cancel_dialog_survey_title">Per què has aturat la transferència?</string>
   <string name="trans_cancel_selection_message">Si sortiu de Mi Mover, la transferència en curs s\'interromprà. Espereu fins que finalitzi la transferència.</string>
   <string name="trans_cancel_selection_title">Roman al Mi Mover</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
@@ -445,7 +445,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
   <string name="trans_failed_details_page_title">Transferències fallides</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
-  <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Torneu-ho a provar."</string>
+  <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Tanqueu les altres apps i torneu-ho a provar."</string>
   <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
   <string name="trans_install_guide_button_start">Inicia</string>
   <string name="trans_install_guide_page_title">Instal·leu Mi Mover al telèfon antic</string>

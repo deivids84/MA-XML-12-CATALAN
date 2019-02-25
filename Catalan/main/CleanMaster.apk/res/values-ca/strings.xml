@@ -318,6 +318,8 @@
   <string name="notification_title_of_garbage_cleanup">%s de fitxers brossa</string>
   <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
   <string name="ok">D\'acord</string>
+  <string name="one_tap_clean_GB">%sG</string>
+  <string name="one_tap_clean_M">%dM</string>
   <string name="open">Activa</string>
   <string name="open_app">Obre</string>
   <string name="open_browser">Obre al navegador</string>
