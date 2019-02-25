@@ -3,7 +3,6 @@
 <resources>
   <string name="access_select">S\'ha seleccionat %s</string>
   <string name="access_unselect">S\'ha anul·lat la selecció de %s</string>
-  <string name="accessibility_title">Cofre d\'aplicacions</string>
   <string name="accordingto_position">Reconeix llocs freqüents mitjançant el GPS</string>
   <string name="account_address">Adreça</string>
   <string name="add_stock">Afegeix</string>
@@ -79,6 +78,7 @@
   <string name="ball_net_errot">"No s'ha pogut connectar a la xarxa."</string>
   <string name="ball_recent_no_data">No hi ha informació dels propers partits.</string>
   <string name="bicycle">Bicicleta</string>
+  <string name="book_add_date_diff">La data de sortida ha de ser posterior a la data d\'entrada.</string>
   <string name="book_assistant">Reserva un viatge</string>
   <string name="book_assistant_empty">Encara no hi ha reserves</string>
   <string name="book_assistant_go">Sortida</string>
@@ -305,13 +305,11 @@ Comproveu el número de seguiment."</string>
   <string name="express_install_schedule_delivery">Servei de lliurament de comandes</string>
   <string name="express_more_service">Més serveis</string>
   <string name="express_no_address">Buit</string>
-  <string name="express_no_info">No hi ha informació</string>
   <string name="express_no_order">No hi ha cap comanda</string>
   <string name="express_no_order_info">No hi ha informació de la comanda</string>
   <string name="express_not_authorized">Restringit</string>
   <string name="express_num_setting_des">Rebeu números de comandes a partir de les aplicacions de lliurament instal·lades al vostre telèfon.</string>
   <string name="express_num_setting_title">Accés a la informació de la comanda</string>
-  <string name="express_number_txt">Número de comanda:</string>
   <string name="express_open">Mostra targetes de seguiment d\'entrega</string>
   <string name="express_open_locker">Obre</string>
   <string name="express_open_txt">Obre</string>
@@ -334,7 +332,6 @@ Comproveu el número de seguiment."</string>
   <string name="express_order_state_unknown">Desconegut</string>
   <string name="express_order_state_wait_picking">Pendent de recollida</string>
   <string name="express_order_succeeded">Completat</string>
-  <string name="express_origin_prev">Des de</string>
   <string name="express_other_app">Permeteu que MIUI accedeixi a la informació de comandes d\'altres aplicacions.</string>
   <string name="express_phone">Telèfon</string>
   <string name="express_phone_tip">En procés de lliurament, estigueu atents</string>
@@ -618,7 +615,6 @@ Comproveu el número de seguiment."</string>
   <string name="notification_content_fail_stay_longer">Quedeu-vos en la pàgina de pagament durant almenys 1 segon</string>
   <string name="notification_content_success">%2$s pagament en CNY %1$s</string>
   <string name="notification_express_app_open">Activa</string>
-  <string name="notification_express_content">Seguiment de comandes utilitzant el cofre d\'aplicacions</string>
   <string name="notification_express_title">Activa les targetes de les aplicacions de compres</string>
   <string name="notification_title">S\'ha agregat als favorits</string>
   <string name="notification_title_fail">"No s'ha pogut afegir el pagament"</string>
@@ -653,7 +649,6 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_source_mms_summary">Obteniu informació de pagament dels missatges de text</string>
   <string name="payment_pref_source_wechat_summary">Obteniu informació de pagament del WeChat</string>
   <string name="payment_privacy_dialog_cancel">Surt</string>
-  <string name="payment_privacy_dialog_message">"«Els meus pagaments» us permet recollir els comptes de les principals aplicacions de pagament en un sol lloc. Tota la informació de pagament serà xifrada i emmagatzemada de manera segura al vostre dispositiu. No se sincronitzarà amb Mi Cloud ni es carregarà a cap altre servidor. Podeu desactivar «Els meus pagaments» a la Configuració o simplement treure aquesta targeta del cofre d'aplicacions per deixar d'utilitzar aquest servei. Hi esteu d'acord?"</string>
   <string name="payment_privacy_dialog_ok">D\'acord</string>
   <string name="payment_privacy_dialog_title">Política de privadesa dels «Meus pagaments»</string>
   <string name="payment_record_add">Afegeix un pagament</string>

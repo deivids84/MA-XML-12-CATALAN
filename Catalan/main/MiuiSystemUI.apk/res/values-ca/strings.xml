@@ -73,6 +73,7 @@
   <string name="accessibility_quick_settings_flashlight_unavailable">El lot no està disponible.</string>
   <string name="accessibility_quick_settings_hotspot_changed_off">El punt d\'accés mòbil està desactivat.</string>
   <string name="accessibility_quick_settings_hotspot_changed_on">El punt d\'accés mòbil està activat.</string>
+  <string name="accessibility_quick_settings_settings">Obre la configuració.</string>
   <string name="accessibility_recent">Aplicacions recents</string>
   <string name="accessibility_recent_task_exit">Tancades recentment</string>
   <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
@@ -305,7 +306,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="default_lockscreen_unlock_hint_text">Llisqueu amunt per desblocar</string>
   <string name="demo_mode">Mode de demostració</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
-  <string name="description_direction_up">Lliscar amunt per %s.</string>
+  <string name="description_direction_up">Llisqueu amunt per %s.</string>
   <string name="description_image_button_answer">Resposta</string>
   <string name="description_image_button_reject">Rebutja</string>
   <string name="description_target_search">Cercar</string>
@@ -339,6 +340,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="dock_keyguard_locked_failed_to_dock_text">"La pantalla dividida no és compatible amb la pantalla de bloqueig."</string>
   <string name="dock_non_resizeble_failed_to_dock_text">"L'aplicació no admet la pantalla dividida."</string>
   <string name="drive_mode_tip">Estàs en mode cotxe</string>
+  <string name="drive_mode_tip_idle_notch">Mode cotxe</string>
+  <string name="drive_mode_tip_notch">Mode cotxe</string>
   <string name="emergency_call_string">Emergència</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
@@ -378,9 +381,12 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="face_data_input_msg">Col·loqueu la cara dins del marc</string>
   <string name="face_data_manage_unlock_msg">Desbloca el dispositiu utilitzant les vostres dades facials</string>
   <string name="face_data_manage_unlock_title">Desbloca utilitzant dades facials</string>
+  <string name="face_unlock_be_on_the_screen">Enfoqueu el dispositiu envers la vostra cara</string>
   <string name="face_unlock_check_failed">"No se us ha pogut reconèixer"</string>
   <string name="face_unlock_not_found">"No se us ha pogut reconèixer"</string>
+  <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
   <string name="face_unlock_reenter_content">L\'algorisme de desbloqueig facial s\'està actualitzant. Premeu per tornar a enregistrar dades facials.</string>
+  <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
   <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració de %1$s"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="float_incall_ignore">Ignorar</string>
@@ -395,6 +401,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
+  <string name="forget_password_string">Contrasenya oblidada</string>
   <string name="fs_gesture_back_home_summary">Llisqueu des de baix ràpidament</string>
   <string name="fs_gesture_back_ready_title">Com torno a la darrera pàgina?</string>
   <string name="fs_gesture_final_over">"Finalitza"</string>
@@ -426,6 +433,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="inactive_app_active_summary">Aplicació activa. Premeu per desactivar-la.</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
+  <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
   <string name="invalid_charger">"Càrrega USB no suportada.
 Utilitza únicament el carregador subministrat."</string>
@@ -491,11 +499,17 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyguard_indication_charging_time_fast">Càrrega lenta (%s fins el màxim)</string>
   <string name="keyguard_indication_charging_time_slowly">Càrrega lenta (%s fins el màxim)</string>
   <string name="keyguard_low_battery">Connecteu el vostre carregador.</string>
+  <string name="keyguard_password_enter_password_code">Introduïu la contrasenya per desblocar</string>
   <string name="keyguard_password_enter_pin_password_code">Introduïu el PIN per desbloquejar</string>
   <string name="keyguard_plugged_in">S\'està carregant</string>
   <string name="keyguard_plugged_in_charging_fast">Càrrega ràpida</string>
   <string name="keyguard_plugged_in_charging_slowly">Càrrega lenta</string>
+  <string name="keyguard_torch_cover_text">Manteniu el lot encès, prement el botó d\'engegada</string>
   <string name="keyguard_unlock">Llisqueu amunt per desblocar</string>
+  <string name="kg_password_wrong_puk_code_dead">La SIM no es pot utilitzar. Contacteu amb la vostra operadora.</string>
+  <string name="kg_prompt_reason_restart_password">Introduïu la contrasenya per desblocar</string>
+  <string name="kg_prompt_reason_switch_profiles_password">Quan canvieu de perfil cal la contrasenya</string>
+  <string name="kg_prompt_reason_timeout_password">Es requereix la contrasenya per a més seguretat</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
@@ -540,6 +554,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="media_projection_dialog_text">"%s començarà a capturar tot el que es visualitzi a la pantalla."</string>
   <string name="media_projection_remember_text">"No mostrar de nou"</string>
   <string name="megabyte_per_second">MB/s</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
   <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
   <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
@@ -585,6 +600,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="no_notification_tips">Sense notificacions.</string>
   <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
+  <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_channel_screenshot">Captures de pantalla</string>
   <string name="notification_header_title">Notificacions</string>
@@ -626,6 +642,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>
   <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el vostre dispositiu, premeu continuadament els &amp;lt;font color=#a5220e&amp;gt; botons d\'engegada&amp;lt;/font&amp;gt; i &amp;lt;font color= #a5220e&amp;gt; d\'apujar el volum&amp;lt; /font&amp;gt; alhora fins que veieu el logo Mi.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
@@ -684,6 +702,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_rotation_unlocked_label">Rotació automàtica</string>
   <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
   <string name="quick_settings_screenshot_label">Captura de pantalla</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Per afegir un element, premeu-lo continuadament i llavors arrossegueu-lo a la part superior del panell.</string>
   <string name="quick_settings_vibrate_label">Vibració</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
@@ -788,6 +807,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
+  <string name="sos_status_bar_summary">Premeu per sortir</string>
+  <string name="sos_status_bar_title">SOS</string>
   <string name="start_dreams">Protector de pantalla</string>
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
   <string name="status_bar_airplane">Mode d\'avió</string>
@@ -825,11 +846,15 @@ d MMMM"</string>
   <string name="status_bar_style_settings">Notificacions</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="structure_face_data_input_error_expose_eye">"Ara no es veuen els vostres ulls"</string>
+  <string name="structure_face_data_input_error_open_eye">Obriu una mica més els vostres ulls</string>
   <string name="structure_face_data_input_error_overly_light">La llum de fons ara és massa forta</string>
   <string name="structure_face_unlock_model_dialog_notenable">No, gràcies</string>
   <string name="structure_face_unlock_model_other">Altres</string>
   <string name="structure_face_unlock_model_other_msg_2d">Reconeixement 2D</string>
   <string name="structure_face_unlock_model_other_msg_3d">Reconeixement 3D</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">El reconeixement facial 2D és menys segur que un patró, un PIN o una contrasenya. Amb aquesta opció activada, el dispositiu es podria desblocar amb una foto vostra o amb persones o objectes que se us assemblin.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"El reconeixement facial 3D és relativament segur. És altament improbable que es pugui desblocar el vostre dispositiu amb una foto vostra quan aquesta característica està activada. Tot i això, encara es podria desblocar amb persones o objectes que se us assemblin."</string>
   <string name="structure_face_unlock_model_other_title">Reconeixement de cares</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
   <string name="telephony_monitor_switch">Monitor de telefonia</string>

@@ -10,7 +10,7 @@
   <string name="abc_capital_off">DESACTIVA</string>
   <string name="abc_capital_on">ACTIVA</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
-  <string name="app_self_upgrade_dlg_negative_btn">Recorda-m\'ho més tard</string>
+  <string name="app_self_upgrade_dlg_negative_btn">Més tard</string>
   <string name="app_self_upgrade_dlg_postive_btn">Actualitza</string>
   <string name="app_self_upgrade_dlg_title">Actualització de l\'app</string>
   <string name="apply">Aplica</string>
@@ -42,6 +42,8 @@
   <string name="detail_toast_deny_favor">"No es pot afegir a preferits."</string>
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
   <string name="dislike">Elimina</string>
+  <string name="feed_article_entrance_about">Quant a %s</string>
+  <string name="find_psw">Contrasenya oblidada</string>
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
   <string name="like">Afegeix als preferits</string>
@@ -54,6 +56,7 @@
   <string name="lockscreen_magazine_system_title">Per defecte</string>
   <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
   <string name="minutes_15">15 minuts</string>
+  <string name="more_article">Més articles</string>
   <string name="no_long_show">"No mostrar de nou"</string>
   <string name="no_networdk">"No s'ha pogut connectar a la xarxa"</string>
   <string name="no_pic_data">"No s'han pogut trobar les imatges"</string>
@@ -61,11 +64,17 @@
   <string name="ok_international">D\'acord</string>
   <string name="ok_lockscreen">D\'acord</string>
   <string name="ok_network">D\'acord</string>
+  <string name="open_sub_title">Seleccioneu les categories</string>
+  <string name="passport_empty_password">"La contrasenya no es pot deixar en blanc"</string>
+  <string name="passport_set_password">Estableix la contrasenya</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
+  <string name="psw_hint">Contrasenya</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">No es pot connectar a la xarxa.</string>
   <string name="save_picture_success">Desat</string>
+  <string name="save_to_album">Desat a la galeria amb èxit</string>
+  <string name="save_to_album_fail">"No s'ha pogut desar"</string>
   <string name="select_package">Seleccioneu una versió</string>
   <string name="setting_head">Configuració</string>
   <string name="settings">Configuració</string>
@@ -73,10 +82,13 @@
   <string name="sliding_on_unlock">Llisqueu amunt per desblocar</string>
   <string name="sst_cover_chg_enable_desc">Mostra el carrusel de fons de pantalla mentre el dispositiu s\'està carregant</string>
   <string name="sst_cover_chg_enable_title">Mostra en carregar-se</string>
+  <string name="sst_effect_next_wallpaper">Definir un nou fons de pantalla per aplicar canvis</string>
   <string name="sst_favor_desc">Comproveu els fons de pantalla favorits</string>
   <string name="sst_favor_title">Favorits</string>
   <string name="sst_grid_view_select_all">Selecciona-ho tot</string>
   <string name="sst_grid_view_unselect_all">Desselecciona-ho tot</string>
+  <string name="sst_lockscreen_show_headline_desc">"Mostra el títol del fons de pantalla sota el rellotge a la pantalla de bloqueig"</string>
+  <string name="sst_lockscreen_show_headline_title">Mostra del títol a la pantalla de bloqueig</string>
   <string name="sst_no_favor_wallpaper_hint">Sense fons de pantalla favorit</string>
   <string name="sst_prov_enable_desc">Activa el carrusel dels fons de pantalla a la pantalla de bloqueig. Afegiu el fons de pantalla a la carpeta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="sst_prov_enable_title">Activa el carrusel de fons de pantalla</string>
@@ -91,6 +103,7 @@
   <string name="theme_apply_failured">"No s'ha pogut aplicar, torneu-ho a provar més tard"</string>
   <string name="theme_apply_success">S\'ha aplicat amb èxit</string>
   <string name="theme_applying">Aplicant&#8230;</string>
+  <string name="time_current">Ara mateix</string>
   <string name="wlan_download">Només Wi-Fi</string>
   <string name="wlan_download_cn">Actualització a través de Wi-Fi</string>
 </resources>

@@ -61,6 +61,18 @@
         <item quantity="other">El codi PIN de la SIM no és correcte, encara us queden %d intents.</item>
         <item quantity="one">El codi PIN de la SIM no és correcte, encara us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>
     </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">"El dispositiu no s'ha desblocat des de fa %d hores. Confirmeu la contrasenya."</item>
+        <item quantity="one">"El dispositiu no s'ha desblocat des de fa %d hora. Confirmeu la contrasenya."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">"El dispositiu no s'ha desblocat des de fa %d hores. Confirmeu el patró."</item>
+        <item quantity="one">"El dispositiu no s'ha desblocat des de fa %d hora. Confirmeu el patró."</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">"El dispositiu no s'ha desblocat des de fa %d hores. Confirmeu el PIN."</item>
+        <item quantity="one">"El dispositiu no s'ha desblocat des de fa %d hora. Confirmeu el PIN."</item>
+    </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s notificacions més dins.</item>
         <item quantity="one">%s notificació més dins.</item>
