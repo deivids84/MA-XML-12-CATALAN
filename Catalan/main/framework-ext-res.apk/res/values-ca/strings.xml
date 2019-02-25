@@ -7,7 +7,6 @@
   <string name="all_call_livetalk_remain_mins">Minuts restants: %1$s nacional o %2$s internacional</string>
   <string name="always">Sempre</string>
   <string name="alwaysUsePrompt">Recorda la meva elecció</string>
-  <string name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</string>
   <string name="apply_password_action">D\'acord</string>
   <string name="apply_password_confirm_dlg_msg">Utilitzeu la contrasenya actual de la pantalla de bloqueig per accedir a la configuració de %s.</string>
   <string name="apply_password_confirm_dlg_title">%s contrasenya</string>
