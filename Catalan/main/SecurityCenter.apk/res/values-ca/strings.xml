@@ -201,9 +201,6 @@
   <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
-  <string name="app_manager_notify_bar">Insígnies</string>
-  <string name="app_manager_notify_floating">Notificacions flotants</string>
-  <string name="app_manager_notify_keyguard">Bloca la pantalla</string>
   <string name="app_manager_open_show_all_apps_immediate">Mostrar tots els resultats</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
@@ -259,6 +256,7 @@
   <string name="applock_close_dialog_summary">Totes les aplicacions ocultes es mostraran, es restauraran les vostres dreceres de la pantalla inicial i s\'esborrarà la contrasenya de desbloqueig. Voleu desactivar el bloqueig d\'aplicacions?</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloquejador d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
+  <string name="applock_function_pwd_settings">Contrasenya</string>
   <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
   <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
   <string name="applock_not_add_account"><u>Ara no</u></string>
@@ -675,6 +673,9 @@
   <string name="exit_dialog_scan_positive_button">Optimitza</string>
   <string name="exit_dialog_scan_title">Optimitza el rendiment</string>
   <string name="extreme_power_save_mode_title">Estalvi extrem de bateria</string>
+  <string name="face_unlock_finger_or_password_switch">Utilitzeu l\'empremta digital o introduïu la contrasenya per desblocar.</string>
+  <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
+  <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
   <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
   <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -792,8 +793,8 @@
   <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
-  <string name="gdpr_msg"><Data><![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
-        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]></Data></string>
+  <string name="gdpr_msg">&lt;Data&gt;<![CDATA[Per poder emprar les eines bàsiques de Seguretat, debeu acceptar que Xiaomi reculli, processi i faci servir les vostres dades personals, inclús inormació sobre com empreu les eines de Seguretat (p. ex., dades dús del mòbil, informació sobre virus, 
+        així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
@@ -827,7 +828,7 @@
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
   <string name="gs_sign_notification">Recordeu fer el registre cada dia a les 20 h</string>
-  <string name="guide_get_operator_error">"<font color='#33b4ff'><U>Operador incorrecte?</U></font>"</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
   <string name="guide_second_text">"Una vegada configurat l'operador, MIUI controlarà l'ús de dades mòbils diàriament enviant un SMS de franc. Quan MIUI detecti que s'ha superat el límit de dades, es desconnectarà de la xarxa i us avisarà."</string>
@@ -1576,7 +1577,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="scan_status_safe">Segur</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="screenrecord_not_find">Instal·leu l\'última versió de la Gravadora de Pantalla i torneu-ho a provar.</string>
-  <string name="search_input_txt_na">"<font color='#ff0000'>%s</font>"</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="section_clear_acc_item_title">"%s. Si encara no hi ha suficient emmagatzematge, intenteu utilitzar el netejador."</string>
   <string name="section_security_defend_item_title">Protegiu les vostres dades amb el bloquejador d\'aplicacions</string>
@@ -1881,7 +1882,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultat: No s'ha pogut completar el diagnòstic&lt;br/&gt;&lt;br/&gt;Notifica sobre aquest tema per ajudar a millorar les eines de diagnòstic de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultat: Ubicació incorrecta&lt;br/&gt;&lt;br/&gt;Estableix ubicació: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicació actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">"No s'ha trobat la xarxa de l'operador"</string>
-  <string name="tc_diagnostic_status_failure">"<font color='#CC0000'>Error</font>"</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Cap connexió de xarxa&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;No s'ha pogut obtenir informació&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correcte&lt;/font&gt;"</string>

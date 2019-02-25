@@ -27,9 +27,6 @@
   <string name="account_none_binded_info">Cap</string>
   <string name="account_none_user_name">Cap</string>
   <string name="account_notification_message">&gt;La sessió ha expirat. Torneu-la a iniciar.</string>
-  <string name="account_protection">Protecció del compte</string>
-  <string name="account_protection_off">Desactivat</string>
-  <string name="account_protection_on">Activat</string>
   <string name="account_secure_info_pref_title">Informació del compte</string>
   <string name="account_security">Compte de seguretat</string>
   <string name="account_security_info_pref_title">Informació de seguretat</string>
@@ -42,22 +39,15 @@
   <string name="account_user_base_info">Informació personal</string>
   <string name="account_user_birthday">Aniversari</string>
   <string name="account_user_details">Informació personal</string>
-  <string name="account_user_education">Educació</string>
   <string name="account_user_email">Correu electrònic</string>
   <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">Identificador de compte de Mi</string>
-  <string name="account_user_income">Ingressos</string>
-  <string name="account_user_location">Ubicació</string>
-  <string name="account_user_location_title">Selecciona la ubicació actual</string>
   <string name="account_user_name">Nom</string>
   <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
   <string name="account_user_other_info">Més fonts</string>
   <string name="account_user_phone">Número de telèfon</string>
   <string name="account_user_recovery_phone">Telèfon de recuperació</string>
   <string name="account_user_region">Regió</string>
-  <string name="account_user_using_facebook_avatar">Utilitza la foto de perfil de Facebook</string>
-  <string name="account_user_using_qq_avatar">Utilitza la foto de perfil de QQ</string>
-  <string name="account_user_using_weibo_avatar">Utilitza la foto de perfil de Sina Weibo</string>
   <string name="account_xiaomi_service">Serveis</string>
   <string name="action_add_phone">Afegeix número de telèfon</string>
   <string name="action_update_phone">Canvia el número de telèfon</string>
@@ -83,31 +73,22 @@
   <string name="completed">Tot fet</string>
   <string name="confirm_activate_email">Verificat</string>
   <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon inclòs</string>
-  <string name="confirm_delete_app_message">"Després d'esborrar aquesta aplicació, si la torneu a instal·lar haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
-  <string name="confirm_delete_browser_message">"Després de suprimir aquest navegador, si el torneu a instal·lar haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
-  <string name="confirm_delete_device_message">"Després de suprimir aquest dispositiu, haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
   <string name="confirm_phone_number_dialog_message">El codi de verificació s\'enviarà a: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirmeu el número de telèfon</string>
   <string name="confirm_unbind">Voleu desvincular aquest compte?</string>
   <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està enllaçat al compte %2$s, Continua treballant amb %3$s desenllaçat. Voleu continuar?</string>
   <string name="continue_action">Continua</string>
-  <string name="current_location_title">Ubicació actual</string>
   <string name="delete_action">Elimina</string>
-  <string name="delete_app">Esborra aplicació</string>
   <string name="delete_bank_card_message">Per seguretat, les dades de la vostra targeta s\'esborraran després que tanqueu la sessió</string>
   <string name="delete_bank_card_title">Atenció</string>
-  <string name="delete_browser">Suprimeix navegador</string>
-  <string name="delete_device">Esborra dispositiu</string>
   <string name="delete_device_btn">Elimina</string>
   <string name="delete_device_failed">"No es pot treure el dispositiu"</string>
   <string name="delete_device_notice">"Després de treure el dispositiu, es donarà de baixa del vostre compte Mi automàticament. Ja no podreu utilitzar aquest dispositiu per accedir a les fotos, missatges o qualsevol altre contingut desat al vostre compte."</string>
-  <string name="delete_lock_device_success">S\'ha eliminat correctament</string>
   <string name="device_delete_success_message">"Si no heu obert una sessió des d'aquest dispositiu, canvieu la contrasenya immediatament."</string>
   <string name="device_delete_success_title">Sessió tancada</string>
   <string name="device_list__header">Els meus dispositius</string>
   <string name="device_list_title">Els meus dispositius</string>
   <string name="device_name">Nom del dispositiu</string>
-  <string name="device_trust_info">Dispositiu fiable</string>
   <string name="empty_device_list_notice">No hi ha dispositius</string>
   <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
   <string name="error_invalid_bind_address">L\'adreça de correu que heu introduït no és vàlida.</string>
@@ -133,7 +114,6 @@
   <string name="find_device_request_error">No es pot sol·licitar informació de l\'estat, intenteu-ho més tard</string>
   <string name="find_device_request_prepare_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="find_device_unknown_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
-  <string name="first_login_time">Primer intent d\'inici de sessió: %s</string>
   <string name="get_back_pwd">Restabliment de la contrasenya</string>
   <string name="get_device_list_failed">"No es poden obtenir dispositius"</string>
   <string name="get_phone_bind_exceed_limit">"El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte"</string>
@@ -144,13 +124,9 @@
   <string name="io_error_title">Confirmeu la vostra xarxa</string>
   <string name="just_a_second">Un moment…</string>
   <string name="loading_micloud_sync_data">Un moment…</string>
-  <string name="local_device">(aquest dispositiu)</string>
-  <string name="locating_current_location">Localitzant</string>
-  <string name="location_service_not_working">El servei d\'ubicació no funciona</string>
   <string name="login_check_find_device">Obtenint la informació de seguretat del dispositiu&#8230;</string>
   <string name="login_check_find_device_failed_title">"No s'ha pogut comprovar l'estat de Troba el dispositiu"</string>
   <string name="login_find_device_bind">Aquest dispositiu està associat amb l\'ID del compte Mi existent (%s).</string>
-  <string name="login_guard_prompt">Demana la verificació del número de telèfon el primer cop que inicieu la sessió del vostre compte Mi a un dispositiu o a una aplicació desconeguts.</string>
   <string name="logout_account">Tanca sessió</string>
   <string name="logout_failed">"No s'ha pogut tancar sessió"</string>
   <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>
@@ -181,7 +157,6 @@
   <string name="oauth_getting_scopes">S\'està verificant el compte&#8230;</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtindrà els permisos següent:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Inici de sessió amb el compte Mi</string>
-  <string name="other_devices_title">Altres dispositius</string>
   <string name="passport_Resend">Reenvia</string>
   <string name="passport_access_denied">Accés denegat</string>
   <string name="passport_account_hint_text">Adreça de correu/Número de telèfon/ID del Compte Mi</string>
@@ -394,7 +369,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_voice">El codi introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
-  <string name="phone_activated">%s activat</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
@@ -403,11 +377,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="push_notify_dialog_title">Verificació de seguretat de l\'inici de sessió</string>
   <string name="recycle_phone_notification_msg">Sembla que el vostre número de telèfon ha estat reciclat. Toqueu per actualitzar.</string>
   <string name="recycle_phone_notification_title">Risc de seguretat del Compte Mi</string>
-  <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
-  <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>
-  <string name="remove_trust_notice">Elimina dels dispositius de confiança i tanca sessió</string>
   <string name="removing_account">S\'està tancant sessió…</string>
-  <string name="rename_current_device">Canvia el nom del dispositiu</string>
   <string name="replace_binded_phone">Substitueix el telèfon</string>
   <string name="resend_active_email">Reenvia</string>
   <string name="resend_email_reach_limit_message">"Heu demanat masses cops un correu de comprovació. Assegureu-vos que aquest email de verificació no estigui a la vostra carpeta de Spam."</string>
@@ -431,7 +401,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="search_user_detail_desc">Informació personal</string>
   <string name="search_user_detail_path">Compte Mi/Informació personal,Configuració/Compte Mi/Informació personal</string>
   <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto de perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el gènere</string>
-  <string name="select_location_title">Seleccioneu la vostra ubicació</string>
   <string name="send_email_activate_message">Correu de verificació enviat</string>
   <string name="service_error">Error del servei</string>
   <string name="set_success">S\'ha canviat amb èxit</string>
@@ -442,8 +411,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
   <string name="talkback_scan_barcode">Escaneja el codi QR</string>
-  <string name="trusted_browsers">Navegadors de confiança</string>
-  <string name="trusted_browsers_prompt">El navegador no serà de confiança si suprimiu les galetes.</string>
   <string name="turn_off_find_device_failed_title">"No es pot desactivar troba el dispositiu"</string>
   <string name="turning_off_find_device">S\'està desactivant Cerca el dispositiu…</string>
   <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la vostra informació del compte %s per iniciar el vostre compte Mi."</string>
@@ -451,18 +418,12 @@ Per activar el vostre compte, seguiu l\'enllaç
 1. Si heu oblidat la contrasenya, aneu a id.mi.com per reiniciar-la.
 2. Si no podeu reiniciar la contrasenya o algú ha bloquejat el vostre dispositiu, aneu a i.mi.com per desbloquejar-lo.
 3. El vostre número de desbloqueig: %s"</string>
-  <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
   <string name="update_phone_notice">Canvia la configuració de seguretat</string>
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
-  <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>
   <string name="user_avatar_uploading">Un moment…</string>
-  <string name="verified_apps">Aplicacions verificades</string>
-  <string name="verified_devices">Dispositius verificats</string>
-  <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
-  <string name="verify_phone_title">Verifica el número de telèfon</string>
   <string name="vip_account_settings">Configuració VIP</string>
   <string name="vip_settings_info">Configuració VIP</string>
 </resources>

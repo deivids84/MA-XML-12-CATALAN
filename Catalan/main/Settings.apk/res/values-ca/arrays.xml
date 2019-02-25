@@ -373,6 +373,14 @@
         <item>Rosa</item>
         <item>Vermell</item>
     </string-array>
+    <string-array name="common_password_business_clickable_default">
+        <item>cert</item>
+        <item>true</item>
+        <item>cert</item>
+        <item>fals</item>
+        <item>cert</item>
+        <item>false</item>
+    </string-array>
     <string-array name="common_password_business_names">
         <item>Bloqueja la pantalla</item>
         <item>Mode d\'infants</item>
@@ -1007,5 +1015,15 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
+    </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Automàtic (segons l\'hora del dia)</item>
+        <item>Sempre actiu</item>
+        <item>Sempre inactiu</item>
+    </string-array>
+    <string-array name="dark_ui_mode_values">
+        <item>auto</item>
+        <item>sí</item>
+        <item>no</item>
     </string-array>
 </resources>

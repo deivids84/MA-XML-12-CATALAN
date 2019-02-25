@@ -173,6 +173,10 @@
         <item quantity="other">%s minuts</item>
         <item quantity="one">1 minut</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="one">%d afegit</item>
+        <item quantity="other">%d afegits</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restriccions</item>
         <item quantity="one">1 restricció</item>
