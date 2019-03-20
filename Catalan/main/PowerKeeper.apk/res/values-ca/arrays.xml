@@ -13,6 +13,11 @@
         <item>Mode de control de temperatura per defecte</item>
         <item>Mode rendiment</item>
     </string-array>
+    <string-array name="thermal_summaries">
+        <item>Prioritize temperature control</item>
+        <item>Prioritize performance</item>
+        <item>No compatible amb l\'estalvi intensiu de bateria</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Rendiment</item>
         <item>Equilibrat</item>

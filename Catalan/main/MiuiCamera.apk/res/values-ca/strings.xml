@@ -97,7 +97,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="config_name_tilt">Canvi d\'inclinació</string>
   <string name="config_name_timer">Temporitzador</string>
   <string name="confirm_install_scanner_message">"L'escàner us permet escanejar codis QR, codis de barres i molt més. No cal connectar-se a Internet per instal·lar-lo."</string>
-  <string name="confirm_install_scanner_title">Instal·la l\'escànner</string>
+  <string name="confirm_install_scanner_title">Instal·la l\'escàner</string>
   <string name="confirm_location_alert">Recorda la ubicació de les fotos</string>
   <string name="confirm_location_message">Voleu etiquetar les fotos i vídeos amb les ubicacions on van ser presos? Altres aplicacions podran accedir a aquesta informació juntament amb les imatges desades.</string>
   <string name="confirm_location_title">Voleu que es desi la ubicació de les fotos?</string>
@@ -360,6 +360,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
+  <string name="pref_camera_whitebalance_entryvalue_daylight">llum natural</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>

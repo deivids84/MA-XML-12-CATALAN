@@ -183,6 +183,7 @@
   <string name="group_resend_message">Reenvia (%d)</string>
   <string name="group_verification_codes_summary">Agrupa automàticament les contrasenyes úniques</string>
   <string name="group_verification_codes_title">Agrupació de les contrasenyes úniques</string>
+  <string name="group_view_settings_disolved">"No es pot veure continguts. Aquest grup de xat s'ha suprimit."</string>
   <string name="guild_add_attachments">Toqueu per afegir emoticones i altre contingut</string>
   <string name="guild_add_recipients">Toqueu per afegir destinataris de la llibreta d\'adreces</string>
   <string name="guild_msim_switcher">Toqueu per intercanviar les targetes SIM</string>
@@ -341,6 +342,9 @@
   <string name="pick_too_many_recipients">Hi ha massa destinataris</string>
   <string name="play">Reprodueix</string>
   <string name="playing_failed">"No es pot reproduir"</string>
+  <string name="prefDefault_vibrateWhen">mai</string>
+  <string name="prefDefault_vibrate_false">mai</string>
+  <string name="prefDefault_vibrate_true">sempre</string>
   <string name="pref_advanced_settings_title">Configuració addicional</string>
   <string name="pref_allow_network_access_summary">Activa per obtenir la informació sobre el lliurament i altres serveis.</string>
   <string name="pref_cell_broadcast">Difusions de cel·la</string>
@@ -600,6 +604,7 @@ Intents realitzats: %s"</string>
   <string name="url_fraud_title">El lloc web pot ser fals</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
+  <string name="url_scan_again">Torna-ho a provar</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
   <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>

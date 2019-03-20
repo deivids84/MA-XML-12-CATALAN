@@ -77,6 +77,7 @@
   <string name="ball_hupu">HuPu Sports</string>
   <string name="ball_net_errot">"No s'ha pogut connectar a la xarxa."</string>
   <string name="ball_recent_no_data">No hi ha informació dels propers partits.</string>
+  <string name="battery_history">Bateria</string>
   <string name="bicycle">Bicicleta</string>
   <string name="book_add_date_diff">La data de sortida ha de ser posterior a la data d\'entrada.</string>
   <string name="book_assistant">Reserva un viatge</string>
@@ -706,6 +707,7 @@ Comproveu el número de seguiment."</string>
   <string name="scan">Escaneja</string>
   <string name="scan_card">Targeta de visita</string>
   <string name="scan_code">Codi QR</string>
+  <string name="scan_doc">Document</string>
   <string name="scan_exercise">Estudis</string>
   <string name="scan_trans">Tradueix</string>
   <string name="search_add_header">Afegeix una imatge de portada</string>

@@ -273,8 +273,6 @@
   <string name="resource_exchange_wrong_format_by_server">"No es va poder verificar el codi. Assegureu-vos que l'heu introduït correctament."</string>
   <string name="resource_expand_full_text">Expandeix</string>
   <string name="resource_failed_to_load_list">"No es poden carregar els temes."</string>
-  <string name="resource_free_trial_15_days">Prova gratuita de 15 dies</string>
-  <string name="resource_free_use_last_one_day">La vostra prova caducarà demà.</string>
   <string name="resource_get_auth_checking">S\'està verificant&#8230;</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Ja s\'han autoritzat a 10 dispositius en aquest compte</string>
   <string name="resource_get_auth_exceed_max_limit_title">S\'ha excedit el número de dispositius autoritzats</string>
@@ -298,7 +296,6 @@
   <string name="resource_no_result">"No s'ha trobat res"</string>
   <string name="resource_notification_default">Notificacions</string>
   <string name="resource_on_trial">S\'està provant: %1$s</string>
-  <string name="resource_on_use">S\'està utilitzant: %1$s</string>
   <string name="resource_online">En línia</string>
   <string name="resource_online_picker">Trieu un to de trucada en línia</string>
   <string name="resource_pack_confirm">"Tot i que ja heu comprat %1$d components d'aquest tema, encara és més barat si compreu el paquet complet."</string>
@@ -350,11 +347,8 @@
   <string name="resource_title_rank">Populars</string>
   <string name="resource_title_select_ringtone">Seleccioneu un to</string>
   <string name="resource_title_subject">Destacat</string>
-  <string name="resource_trial_15_days_end_title">S\'ha acabat la prova de 15 dies</string>
-  <string name="resource_trial_15_days_immediately">Proveu 15 dies immediatament</string>
   <string name="resource_trial_days">(prova: %1$dd)</string>
   <string name="resource_trial_days_hours">(prova: %1$dd %2$dh)</string>
-  <string name="resource_trial_end_change">Canvia</string>
   <string name="resource_trial_end_message">La versió de prova de %1$s ha expirat. Si us va agradar, compreu-lo.</string>
   <string name="resource_trial_end_purchase">Compra</string>
   <string name="resource_trial_end_restore">Finalitza la versió de prova</string>
