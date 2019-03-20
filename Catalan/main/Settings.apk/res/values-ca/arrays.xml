@@ -200,6 +200,16 @@
         <item>Percentatge</item>
         <item>Barra superior</item>
     </string-array>
+    <string-array name="battery_indicator_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>Sense especificar</item>
         <item>LTE</item>
@@ -270,21 +280,23 @@
         <item>Utilitza la selecció del sistema (per defecte)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
+        <item>Disable optional codecs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (per defecte)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
+        <item>Disable optional codecs</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (per defecte)</item>
