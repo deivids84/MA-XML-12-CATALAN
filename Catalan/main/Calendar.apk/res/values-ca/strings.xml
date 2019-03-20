@@ -15,6 +15,7 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="accessbility_suggestion_dropdown_closed">No hi ha suggeriments disponibles</string>
   <string name="accessibility_add_attendee">Afegeix un participant</string>
   <string name="accessibility_all_day">Esdeveniment de tot el dia</string>
   <string name="accessibility_pick_start_date">Data d\'inici</string>
@@ -130,6 +131,7 @@
   <string name="date_jump_hint">Aneu directament a un dia</string>
   <string name="date_jump_title">Vés a la data</string>
   <string name="date_pattern_mm_dd">d-M</string>
+  <string name="date_time_fmt">%s, %s</string>
   <string name="date_today">"(avui)"</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_mode">Recordatoris</string>
@@ -140,7 +142,6 @@
   <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
   <string name="discard_label">Cancel·la</string>
   <string name="does_not_repeat">Esdeveniment únic</string>
-  <string name="done">Retorn</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
   <string name="edit_date_calculate_days_backward_error_hint">"No es pot calcular cap endavant"</string>
@@ -184,6 +185,7 @@
   <string name="empty_event">"No es poden crear esdeveniments buits"</string>
   <string name="english_premium_league">Premier League</string>
   <string name="event_account">Compte</string>
+  <string name="event_action_arrive_station">Destí</string>
   <string name="event_action_delete">Elimina</string>
   <string name="event_action_edit">Edita</string>
   <string name="event_all_day_label">Tot el dia</string>
@@ -199,6 +201,9 @@
   <string name="event_info_reminders_label_1">Recordatori</string>
   <string name="event_info_repeat">Repetició\u0009</string>
   <string name="event_info_title">Detalls de l\'esdeveniment</string>
+  <string name="event_info_title_anniversary">Aniversari</string>
+  <string name="event_info_title_birthday">Data de naixement</string>
+  <string name="event_info_title_countdown">Compte enrere</string>
   <string name="event_info_title_invite">Invitació a la reunió</string>
   <string name="event_info_when">Quan\u0009\u0009</string>
   <string name="event_info_where">On\u0009</string>
@@ -216,7 +221,7 @@
   <string name="flight_detail_tips_url">飞常准</string>
   <string name="flight_detail_title">飞机行程</string>
   <string name="flight_disclaimer">免责声明</string>
-  <string name="flight_disclaimer_content">航班数据和服务由飞常准提供。相关服务和责任将由该第三方承担，如有问题请咨询该公司客服。同时，相关航班信息仅供参考，请以乘坐航空公司发布信息为准。</string>
+  <string name="flight_disclaimer_content">"航班数据和服务由飞常准提供。相关服务和责任将由该第三方承担，如有问题请咨询该公司客服。同时，相关航班信息仅供参考，请以乘坐航空公司发布信息为准。"</string>
   <string name="flight_disclaimer_dialog_ok">知道了</string>
   <string name="flight_event_delete_successfully">飞机行程删除成功</string>
   <string name="flight_plan_time">计划%1$s</string>
@@ -339,6 +344,9 @@
   <string name="no_visiable_calendar_message">Cal que afegiu un compte de calendari. Toqueu Afegeix un compte per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
   <string name="no_visiable_calendar_title">Afegeix un compte</string>
+  <string name="notification_channel_name">Recordatoris de calendari</string>
+  <string name="notification_open_setting_button_exit">No, gràcies</string>
+  <string name="notification_open_setting_button_ok">Permet</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
   <string name="panchang_amanta_month">Mes Amanta:</string>
@@ -379,7 +387,6 @@
   <string name="refreshing_hint">Un moment…</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
-  <string name="repeat_custom_prompt">cada %1$s els %2$s</string>
   <string name="repeat_custom_prompt_daily">cada %1$s</string>
   <string name="repeat_custom_prompt_sentence">L\'esdeveniment es repetirà %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
@@ -462,7 +469,6 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="too_long_name">El nom és massa llarg</string>
   <string name="travel_airport">Aeroport</string>
   <string name="travel_carriage_number_text">Cotxe</string>
-  <string name="travel_eta_advice">%2$s minuts en cotxe fins %1$s.</string>
   <string name="travel_ets_advice">Marxeu cap a %2$s abans de les %1$s.</string>
   <string name="travel_event_add_successfully">S\'ha creat l\'esdeveniment</string>
   <string name="travel_event_title_flight">Vol: %1$s-%2$s %3$s</string>
@@ -486,7 +492,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>
-  <string name="user_notice_message">En utilitzar aquest producte accepteu les %1$s i %2$s de Xiaomi. Algunes característiques necessiten connexió a Internet, accés a la ubicació, als contactes i als SMS per funcionar.</string>
+  <string name="user_notice_message">Heu d\'acceptar les nostres %1$s i %2$s abans d\'utilitzar Calendari. Per proporcionar dades precises de festivitats locals, aniversaris, targetes de crèdit i viatges programats, Calendari ha d\'accedir a la ubicació, contactes i missatges, així com connectar-se a internet. Hi esteu d\'acord?</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_event_calendar_label">Calendari:</string>
   <string name="view_event_organizer_label">Organitzador:</string>

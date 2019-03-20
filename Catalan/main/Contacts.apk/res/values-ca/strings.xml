@@ -7,7 +7,6 @@
   <string name="account_default">Telèfon</string>
   <string name="account_phone">Només telèfon, desincronitzat</string>
   <string name="account_sim">Targeta SIM</string>
-  <string name="account_sim2">Targeta SIM %d</string>
   <string name="account_type_format">%1$s contacte</string>
   <string name="actionIncomingCall">Trucades entrants</string>
   <string name="action_menu_overflow_description">Més opcions</string>
@@ -941,6 +940,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="savingContact">Desant contacte&#8230;</string>
   <string name="savingDisplayGroups">Guardant opcions de visualització&#8230;</string>
   <string name="scan">Escanejar</string>
+  <string name="scan_business_card">Escaneja tarja d\'empresa</string>
+  <string name="scan_bussiness_card_merge_tip">S\'han substituït dades conflictives</string>
   <string name="scan_duplicate_message">%1$d contactes amb informació idèntica</string>
   <string name="scan_merge">Cercant contactes duplicats&#8230;</string>
   <string name="scan_qrcode_card_hint1">Escaneja el codi QR de dalt</string>

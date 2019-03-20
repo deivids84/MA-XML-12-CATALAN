@@ -194,6 +194,8 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">S\'està inicialitzant...</string>
   <string name="engine_tm">Tencent</string>
+  <string name="facebook_cleaner">Netejador del Facebook</string>
+  <string name="facebook_function_title">Netejador del Facebook</string>
   <string name="file">Fitxers</string>
   <string name="file_not_found">No s\'ha trobat l\'arxiu</string>
   <string name="flow_rank_title">Ús de dades</string>
@@ -209,6 +211,7 @@
   <string name="guide_secure_dialog_title">Optimització del rendiment</string>
   <string name="guide_virus_dialog_negative">Cancel·la</string>
   <string name="guide_virus_dialog_positive">Escaneja</string>
+  <string name="guide_virus_dialog_title">Escanejat d\'antivirus</string>
   <string name="header_optimizer">En utilitzar aquesta funció, vostè està d\'acord amb %s.</string>
   <string name="hint_clean_select_items">S\'estan esborrant les duplicitats&#8230;</string>
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
@@ -259,6 +262,7 @@
   <string name="hints_storage_free">Disponibles</string>
   <string name="hints_storage_free_size">Total: %1$s, disponible: %2$s</string>
   <string name="hints_storage_news">Novetats de seguretat</string>
+  <string name="hints_title_garbage">Brossa</string>
   <string name="hints_video_camera">Vídeos enregistrats</string>
   <string name="hints_video_download">Vídeos baixats</string>
   <string name="hot">Popular</string>
@@ -288,11 +292,13 @@
   <string name="low_memory_warning_dialog_ok_button">Esborra</string>
   <string name="low_memory_warning_dialog_title">Disc sense espai</string>
   <string name="main_title_filesize">%1$s brossa</string>
+  <string name="main_total_garbage">Mida de la brossa</string>
   <string name="mainbtn_text_no_trash">Omet</string>
   <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
+  <string name="memory_clean_no_trash_tip">Tot sembla correcte</string>
   <string name="menu_add_to_white_list">Afegeix a excepcions</string>
   <string name="menu_clear">Neteja</string>
   <string name="menu_install">Instal·la aquesta aplicació</string>
@@ -320,6 +326,11 @@
   <string name="ok">D\'acord</string>
   <string name="one_tap_clean_GB">%sG</string>
   <string name="one_tap_clean_M">%dM</string>
+  <string name="onekeyclean_boost_available">Disponible %s</string>
+  <string name="onekeyclean_boost_cleaned">S\'ha esborrat %s</string>
+  <string name="onekeyclean_boosted_title">S\'ha esborrat correctament</string>
+  <string name="onekeyclean_boosting_title">S\'està incrementant la velocitat</string>
+  <string name="onekeyclean_card_summery">Neteja la brossa per alliberar espai</string>
   <string name="open">Activa</string>
   <string name="open_app">Obre</string>
   <string name="open_browser">Obre al navegador</string>
@@ -524,6 +535,8 @@
   <string name="whatsapp_delete_confirm_ok">D\'acord</string>
   <string name="whatsapp_delete_done">Fet</string>
   <string name="whatsapp_file_show_order">Avui</string>
+  <string name="whatsapp_function_title">Netejador del WhatsApp</string>
+  <string name="whatsapp_title">Netejador del WhatsApp</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>

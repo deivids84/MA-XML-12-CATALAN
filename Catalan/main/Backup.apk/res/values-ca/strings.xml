@@ -100,6 +100,10 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat…</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació…</string>
+  <string name="confirm_exit_link">Surt</string>
+  <string name="confirm_exit_link_cancel">"No surtis"</string>
+  <string name="confirm_exit_link_msg">"Si sortiu ara de l'aplicació s'interromprà la transferència en curs. Haureu de tornar a establir la connexió entre els dos dispositius. Així i tot voleu sortir de l'aplicació?"</string>
+  <string name="connect_soft_ap_label">S\'està connectant a un nou dispositiu…</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
   <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
   <string name="contact_title">Contactes</string>
@@ -292,6 +296,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="prompt_writing">S\'està desant…</string>
   <string name="read_encrypt_fail">"No s'ha pogut llegir la còpia de seguretat xifrada"</string>
   <string name="reconnect">Torna a connectar</string>
+  <string name="recreate_soft_ap_tips">Premeu el botó de sota per tornar-ho a provar.</string>
   <string name="refresh">Refresca</string>
   <string name="remote_receive">Rebre</string>
   <string name="restore">Restaura</string>
@@ -327,6 +332,8 @@ Allibera %s com a mínim. "</string>
   <string name="sc_service_unavailable">Mi Cloud no està disponible</string>
   <string name="sc_unaccess_password_file">"No s'ha trobat la contrasenya de la xarxa Wi-Fi"</string>
   <string name="sc_unauthorized">Inicia la sessió de nou</string>
+  <string name="scan_soft_ap">S\'estan cercant el dispositiu nou…</string>
+  <string name="scan_soft_ap_label">Connecta\'t al dispositiu antic</string>
   <string name="sd_not_available">Insereix ara la targeta SD</string>
   <string name="sdcard_no_enough_space">No hi ha prou espai</string>
   <string name="sdcard_no_enough_space_message">"No hi ha prou espai a la targeta SD."</string>
@@ -403,7 +410,6 @@ Allibera %s com a mínim. "</string>
   <string name="trans_calculating_media_description">Fitxers multimèdia</string>
   <string name="trans_calculating_tip">S\'està calculant %s…</string>
   <string name="trans_cancel_confirm">Transferència en curs, ho voleu aturar?</string>
-  <string name="trans_cancel_dialog_survey_title">Per què has aturat la transferència?</string>
   <string name="trans_cancel_selection_message">Si sortiu de Mi Mover, la transferència en curs s\'interromprà. Espereu fins que finalitzi la transferència.</string>
   <string name="trans_cancel_selection_title">Roman al Mi Mover</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
@@ -456,6 +462,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_install_guide_step2_content">Un cop finalitzada la instal·lació, toqueu el botó «Inicia».</string>
   <string name="trans_install_guide_step2_title">Pas 2</string>
   <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa WLAN i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
+  <string name="trans_intro_desc_10">Premeu \"Connecta\'t mitjançant un codi QR\" en el dispositiu nou i escanegeu el codi QR per configurar la connexió.</string>
   <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
   <string name="trans_intro_desc_4">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu seguir utilitzant les dades mòbils. Tanmateix, alguns dispositius més nous (per exemple el Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils."</string>
@@ -488,6 +495,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_question_9_market">%d. Comentaris.</string>
   <string name="trans_intro_title">PMF</string>
   <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
+  <string name="trans_intro_title_gms">Dades generades per aplicacions Google:</string>
   <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals:</string>
   <string name="trans_intro_title_multiuser">Dades del segon espai:</string>
   <string name="trans_intro_title_new">En un telèfon nou:</string>
@@ -603,6 +611,7 @@ Allibereu espai o transferiu només elements importants."</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
+  <string name="waiting">Un moment…</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>

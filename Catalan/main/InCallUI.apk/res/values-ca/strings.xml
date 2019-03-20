@@ -176,6 +176,7 @@
   <string name="user_locked_prompt">Desbloquegeu el dispositiu per accedir als contactes.</string>
   <string name="video_conference_caller_info_name">"Trucada de videoconferència de %1$s"</string>
   <string name="voicemail">Bústia de veu</string>
+  <string name="volume_boost_text">S\'ha pogut millorar el volum</string>
   <string name="wait_prompt_str">"Enviar els següents tons?
 "</string>
   <string name="waiting_close_airplane_mode">Un moment…</string>

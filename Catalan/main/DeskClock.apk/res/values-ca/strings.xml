@@ -28,6 +28,7 @@
   <string name="app_label">Rellotge</string>
   <string name="auto_silence_never">Mai</string>
   <string name="auto_silence_title">Silencia automàticament</string>
+  <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Recordatori d\'aniversari</string>
   <string name="birthday_alarm_summary">Reprodueix «Per molts anys» enlloc de l\'alarma per defecte el dia del vostre aniversari</string>
   <string name="cancel">Cancel·la</string>

@@ -8,6 +8,15 @@
   <string name="abc_action_mode_select_all">Selecciona-ho tot</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+  <string name="abc_font_family_caption_material">sans-serif</string>
+  <string name="abc_font_family_display_1_material">sans-serif</string>
+  <string name="abc_font_family_display_2_material">sans-serif</string>
+  <string name="abc_font_family_display_3_material">sans-serif</string>
+  <string name="abc_font_family_display_4_material">sans-serif-light</string>
+  <string name="abc_font_family_headline_material">sans-serif</string>
+  <string name="abc_font_family_menu_material">sans-serif</string>
+  <string name="abc_font_family_subhead_material">sans-serif</string>
+  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -75,6 +84,9 @@
   <string name="action_text_readmode_more">Més</string>
   <string name="action_text_readmode_theme_head">Estableix el fons de pantalla</string>
   <string name="action_text_theme_and_textsize_change">Ajust de la mida del tipus de lletra i del tema</string>
+  <string name="ad_app_download_notification_content">Després de completar la instal·lació, obre la demo tot seguit ~</string>
+  <string name="ad_exit_dialog_exit_btn_name">surt</string>
+  <string name="ad_exit_dialog_message">La instal·lació s\'ha completat! Ho voleu obrir ara?</string>
   <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
   <string name="adblock_rules_not_updated_toast">"No s'ha pogut actualitzar"</string>
@@ -493,6 +505,7 @@ està a punt de passar»</string>
   <string name="more_description">Menú</string>
   <string name="more_option">Més opcions</string>
   <string name="movie_player_3g_tip_retry">Continua</string>
+  <string name="movie_player_loading">Properament：%s</string>
   <string name="mw_abc_action_bar_home_description">Vés a la pàgina d\'inici</string>
   <string name="mw_abc_action_bar_up_description">Vés amunt</string>
   <string name="mw_abc_action_menu_overflow_description">Més opcions</string>
@@ -577,7 +590,7 @@ està a punt de passar»</string>
   <string name="mw_copy_to_clipboard_failure_message">No s\'ha pogut copiar al porta-retalls</string>
   <string name="mw_data_traffic_prompt_change">"L'ús de la connexió de dades mòbils per mirar vídeos augmentarà l'ús de dades. Si supereu el límit d'ús de dades del vostre pla, el nostre operador us podria cobrar despeses addicionals."</string>
   <string name="mw_data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
-  <string name="mw_data_traffic_prompt_message_short">Si s\'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades.</string>
+  <string name="mw_data_traffic_prompt_message_short">Si s\'utilitzeu les dades de mòbil per a transmetre vídeo podríeu superar el límit del vostre pla de dades.</string>
   <string name="mw_data_traffic_prompt_title">Avís d\'ús de dades</string>
   <string name="mw_date_picker_dialog_clear">Neteja</string>
   <string name="mw_date_picker_dialog_other_button_label">Altres</string>
@@ -874,6 +887,10 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
   <string name="nav_screen_incognito_message">L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran.</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
+  <string name="nav_screen_tab_incognito_enter">Entra a la pestanya d\'incògnit</string>
+  <string name="nav_screen_tab_incognito_exit">Surt de la pestanya d\'incògnit</string>
+  <string name="navigate_feedback_dislike">no m’interessa</string>
+  <string name="navigate_feedback_dislike_tips">Reduirà les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
   <string name="navigate_feedback_submit">Envia</string>
@@ -958,6 +975,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_content_night_read_mode">Mode nocturn</string>
   <string name="pref_content_search_engine">Motor de cerca a la barra d\'adreces</string>
   <string name="pref_content_search_engine_summary">Seleccioneu un motor de cerca</string>
+  <string name="pref_download_setting">Configuració de les baixades</string>
   <string name="pref_enable_adblock_notification">Mostra les notificacions del bloquejador d\'anuncis</string>
   <string name="pref_enable_news">Notícies</string>
   <string name="pref_enable_novels">Llibres</string>
@@ -1064,6 +1082,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="readmode_recommend_message">"Ja heu llegit aquest llibre. :)"</string>
   <string name="readmode_refresh">Actualitza</string>
   <string name="readmodelist_bookmarks_to_show">Llista de lectura</string>
+  <string name="recommending_close_toast_text">Estableix la fi d\'aquesta opció a la configuració avançada</string>
   <string name="refresh_description">Refresca</string>
   <string name="refresh_text">Actualitza</string>
   <string name="refuse_permissions_request">Rebutja</string>
@@ -1151,7 +1170,14 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="small_video_ad_app_text_click">Baixa</string>
+  <string name="small_video_ad_app_text_open">Obre</string>
+  <string name="small_video_ad_app_text_resume">Continua</string>
+  <string name="small_video_ad_web_text">Obre</string>
+  <string name="small_video_boba_tab">Emet</string>
+  <string name="small_video_load_failed">Ha fallat la càrrega</string>
   <string name="small_video_loading">S\'està carregant...</string>
+  <string name="small_video_main_tab">Recomana</string>
   <string name="small_video_net_error">Error de connexió</string>
   <string name="small_video_no_more_date">No hi ha dades</string>
   <string name="snapshot">Local</string>
