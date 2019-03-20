@@ -12,9 +12,9 @@
   <string name="barcode_install_back">Enrera</string>
   <string name="barcode_install_cancel">Cancel·la</string>
   <string name="barcode_install_confirm">Instal·la</string>
-  <string name="barcode_system_unmatch">Actualitzeu MIUI abans d\'instal·lar l\'escànner</string>
-  <string name="barcode_to_install">Instal·leu l\'escànner per continuar</string>
-  <string name="barcode_uninstalled">Es va suprimir l\'escànner</string>
+  <string name="barcode_system_unmatch">Actualitzeu MIUI abans d\'instal·lar l\'escàner</string>
+  <string name="barcode_to_install">Instal·leu l\'escàner per continuar</string>
+  <string name="barcode_uninstalled">L\'èscaner està desinstal·lat</string>
   <string name="choose_search_engine">Trieu el motor de cerca web per defecte</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_shortcuts">Esborrar les dreceres</string>

@@ -92,6 +92,8 @@
   <string name="pay_save_this_choose">Recorda la meva elecció</string>
   <string name="phone">Telèfon:</string>
   <string name="place_barcode_into_rectangle">Centreu el codi dins del marc</string>
+  <string name="plant_reg_fail_2">"No s'ha pogut reconèixer aquest objecte. L'escàner només pot identificar plantes."</string>
+  <string name="plant_title">Escanegeu la planta que voleu identificar</string>
   <string name="pref_camera_jpeg_quality_fine">bona</string>
   <string name="pref_camera_jpeg_quality_superfine">molt bona</string>
   <string name="preparing_sd">S\'està preparant l\'emmagatzematge intern&#8230;</string>
@@ -107,6 +109,8 @@
   <string name="shopping_title">Feu una foto del producte</string>
   <string name="shopping_vendor_info">Amb tecnologia de Taobao</string>
   <string name="spaceIsLow_content">No hi ha prou espai a l\'emmagatzematge intern. Allibereu espai.</string>
+  <string name="study_scan_result">Resultat</string>
+  <string name="study_title">Escanegeu el problema que voleu resoldre</string>
   <string name="title">Títol:</string>
   <string name="translate_parallel_2_lines">Assegureu-vos que el text és paral·lel a les línies a la pantalla</string>
   <string name="translation_language_chinese">Xinès</string>

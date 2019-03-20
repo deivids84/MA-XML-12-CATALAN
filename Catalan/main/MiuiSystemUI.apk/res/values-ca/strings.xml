@@ -128,7 +128,8 @@
   <string name="available_via_passpoint">Disponible a %1$s</string>
   <string name="battery">Bateria</string>
   <string name="battery_can_use_time">Aproximadament queda %s</string>
-  <string name="battery_detail_charging_summary">"L'estalvi de bateria no està disponible durant la càrrega"</string>
+  <string name="battery_detail_charging_summary">"L'estalvi de bateria no està disponible mentre es carrega"</string>
+  <string name="battery_detail_switch_summary">Disminueix el rendiment i el consum de dades en segon pla</string>
   <string name="battery_detail_switch_title">Estalvi de bateria</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
   <string name="battery_info_status_charging_lower">s\'està carregant</string>
@@ -139,6 +140,8 @@
   <string name="battery_low_percent_format">%d%% restant</string>
   <string name="battery_low_percent_format_saver_started">Queda %s. L\'estalvi de bateria està activat.</string>
   <string name="battery_low_title">Connecteu el carregador</string>
+  <string name="battery_low_why">Configuració</string>
+  <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Consum de bateria</string>
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
   <string name="battery_saver_confirmation_ok">Activa</string>
@@ -675,6 +678,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
   <string name="quick_settings_brightness_dialog_title">Lluminositat</string>
   <string name="quick_settings_brightness_label">Lluminositat</string>
+  <string name="quick_settings_cellular_detail_remaining_data">Dades disponibles</string>
   <string name="quick_settings_cellular_detail_title">Dades mòbils</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
@@ -729,6 +733,8 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Divideix horitzontalment</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Divideix verticalment</string>
   <string name="recents_stack_action_button_label">Suprimeix-ho tot</string>
+  <string name="recents_title_garbage_cleanup">Netejador</string>
+  <string name="recents_title_security_scan">Escaneig de seguretat</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
