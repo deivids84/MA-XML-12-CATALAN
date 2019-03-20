@@ -1371,11 +1371,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_back">Enrere</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_hints_scan_danger_result">Podeu corregir ara mateix problemes de bateria</string>
-  <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-  <string name="power_center_list_item_battery_status_capacity">mAh</string>
-  <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
