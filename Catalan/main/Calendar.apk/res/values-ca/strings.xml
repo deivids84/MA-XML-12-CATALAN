@@ -331,7 +331,6 @@
   <string name="month_view">Mes</string>
   <string name="monthly">Mensualment</string>
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
-  <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="new_event_description">Nou</string>
