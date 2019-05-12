@@ -140,6 +140,7 @@
   <string name="backup_device_space_low_desc">Allibereu espai per continuar copiant elements</string>
   <string name="backup_device_space_low_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="backup_dirty_tip">No s\'han copiat fotos i vídeos</string>
+  <string name="backup_file_over_size_desc">"Les fotos més grans de %1$s i els vídeos més grans de %2$s no tindran còpia de seguretat."</string>
   <string name="backup_immediately">Còpia de seguretat</string>
   <string name="backup_need_sync_desc">Feu clic al botó per reprendre la còpia de seguretat</string>
   <string name="backup_need_sync_title">Còpia de seguretat aturada</string>
@@ -263,6 +264,7 @@
   <string name="cleaner_screen_shot_action">Neteja</string>
   <string name="cleaner_screen_shot_description">Suprimeix les captures de pantalla que ja no necessiteu.</string>
   <string name="cleaner_screen_shot_title">Suprimeix captures de pantalla</string>
+  <string name="cleaner_similar_action">Elimina ara</string>
   <string name="cleaner_slim_action">Comença l\'optimització</string>
   <string name="cleaner_slim_description">Mantingueu fotos optimitzades al dispositiu. Els fitxers originals s\'emmagatzemaran al Mi Cloud.</string>
   <string name="cleaner_slim_start">Optimitza</string>
@@ -270,6 +272,7 @@
   <string name="cleaner_space_description">poden ser alliberats</string>
   <string name="cleaner_space_detail_description">Esborra les fotos de la galeria per alliberar espai d\'emmagatzematge</string>
   <string name="cleaner_stop_scan">Atura l\'escaneig</string>
+  <string name="cleaner_video_action">Elimina ara</string>
   <string name="click_download_gif">Toqueu per baixar el GIF</string>
   <string name="click_top_right">Toqueu aquesta icona</string>
   <string name="cloud_camera_display_name">Fotos de la càmera</string>
@@ -382,6 +385,7 @@
   <string name="download_type_thumbnail">Qualitat alta</string>
   <string name="download_type_thumbnail_desc">Qualitat alta</string>
   <string name="download_type_title">Qualitat de la baixada</string>
+  <string name="download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
   <string name="downloading_dialog_message">Podeu seleccionar la qualitat de les imatges baixades o desactivar la baixada automàtica a la Configuració.</string>
   <string name="downloading_title">S\'estan baixant fotos del Mi Cloud</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
@@ -454,6 +458,7 @@
   <string name="error_sync_off_tip">La sincronització està desactivada</string>
   <string name="error_title">"No es pot sincronitzar"</string>
   <string name="error_unauthorized">S\'ha desactivat la sincronització a causa de massa intents d\'inici de sessió.</string>
+  <string name="error_unknown_action">Comentaris</string>
   <string name="error_unknown_host">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu a provar-ho."</string>
   <string name="error_unknown_msg">S\'ha produït un error. Envieu-nos el vostre feedback.</string>
   <string name="error_unknown_tip">S\'ha produït un error.</string>
@@ -637,6 +642,11 @@ per personalitzar la galeria"</string>
   <string name="more_face">Més persones que s\'assemblen</string>
   <string name="more_face_album_name">Més persones</string>
   <string name="move_to_other_albums_tip">La sincronització d\'aquest àlbum amb Mi Cloud es desactivarà si el moveu a altres àlbums. Esteu segur de voler moure\'l?</string>
+  <string name="movie_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat per wifi. Voleu baixar el connector necessari (3MB) utilitzant dades mòbils?"</string>
+  <string name="movie_download_sdk_without_wifi_title">Baixada utilitzant dades mòbils</string>
+  <string name="movie_download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
+  <string name="movie_edit">Edita</string>
+  <string name="movie_tab_edit">Edita</string>
   <string name="must_pick_file">Seleccioneu una foto</string>
   <string name="name_split">,&#160;</string>
   <string name="need_to_turn_on_network">"El dispositiu no està connectat a Internet"</string>
@@ -767,6 +777,19 @@ per personalitzar la galeria"</string>
   <string name="photo_editor_rotate">Gira</string>
   <string name="photo_editor_saving">S\'està desant&#8230;</string>
   <string name="photo_editor_sticker">Adhesiu</string>
+  <string name="photo_editor_talkback_crop_mirror">Mirall</string>
+  <string name="photo_editor_talkback_crop_original">Original</string>
+  <string name="photo_editor_talkback_crop_rotate">Gira</string>
+  <string name="photo_editor_talkback_doodle_circular">Cercle</string>
+  <string name="photo_editor_talkback_doodle_line">Línia</string>
+  <string name="photo_editor_talkback_doodle_path">Pinzell</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Rectangle</string>
+  <string name="photo_editor_talkback_effect">efecte %d</string>
+  <string name="photo_editor_talkback_eraser">Esborra</string>
+  <string name="photo_editor_talkback_redo">Refés</string>
+  <string name="photo_editor_talkback_undo">Desfés</string>
+  <string name="photo_editor_text">Text</string>
+  <string name="photo_font_download_without_wifi_title">Avís d\'ús de dades</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
@@ -858,6 +881,7 @@ per personalitzar la galeria"</string>
   <string name="scan_barcode_guide">"Per obtenir un codi QR de l'àlbum premeu «Comparteix»."</string>
   <string name="scan_barcode_to_join">Escanegeu el codi QR per afegir l\'àlbum</string>
   <string name="scan_qr_code_buttom_text">Escanegeu el codi QR per veure aquest àlbum</string>
+  <string name="screen_editor_finish">Fet</string>
   <string name="search_backup_full_screen">Activeu la sincronització amb Mi Cloud per trobar més objectes i persones</string>
   <string name="search_backup_now">Activa</string>
   <string name="search_backup_sub_title">Activeu per trobar més imatges</string>
@@ -1023,6 +1047,7 @@ per personalitzar la galeria"</string>
   <string name="text_edit_dialog_style_align_left">Esquerra</string>
   <string name="text_edit_dialog_style_align_right">Dreta</string>
   <string name="text_edit_dialog_style_bold">Negreta</string>
+  <string name="text_edit_dialog_style_color">"Color  "</string>
   <string name="text_edit_dialog_style_shadow">Ombra</string>
   <string name="text_edit_dialog_style_transparent">Opacitat</string>
   <string name="text_edit_sub_menu_text">Bafarada</string>
@@ -1064,6 +1089,7 @@ per personalitzar la galeria"</string>
   <string name="video_edit_file_not_exits_tip">Primer cal que baixeu el vídeo</string>
   <string name="video_editor_abandon_changes_tip_message">Voleu descartar tots els canvis?</string>
   <string name="video_editor_abandon_changes_tip_title">Descarteu els canvis</string>
+  <string name="video_editor_adjust">Millora</string>
   <string name="video_editor_analyzing">S\'està analitzant el vídeo&#8230;</string>
   <string name="video_editor_audio">Àudio</string>
   <string name="video_editor_audio_custom">Selecciona</string>
@@ -1076,10 +1102,13 @@ per personalitzar la galeria"</string>
   <string name="video_editor_auto_trim">Retalla automàticament</string>
   <string name="video_editor_auto_trim_tip">S\'està retallant&#8230;</string>
   <string name="video_editor_cancel">Cancel·la</string>
+  <string name="video_editor_cancel_download">Cancel·la</string>
   <string name="video_editor_done">Fet</string>
   <string name="video_editor_down_load_later">Més tard</string>
   <string name="video_editor_down_load_no_wifi_tips">Connecteu-vos al Wi-Fi per baixar</string>
   <string name="video_editor_down_load_now">Baixa</string>
+  <string name="video_editor_download">Baixa</string>
+  <string name="video_editor_download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
   <string name="video_editor_encode_video">S\'està codificant el vídeo&#8230;</string>
   <string name="video_editor_encode_video_error">"No es pot codificar el vídeo"</string>
   <string name="video_editor_fatal_error">S\'ha produït un error desconegut</string>
@@ -1124,6 +1153,8 @@ per personalitzar la galeria"</string>
   <string name="video_not_exist">"El vídeo no existeix"</string>
   <string name="view_by_gallery_tip">Galeria de MIUI</string>
   <string name="view_face_album">Veure àlbum</string>
+  <string name="view_more_face_desc">Mostra més persones</string>
+  <string name="voice_assistant">Entrada de veu</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="who_is_this">Qui és?</string>

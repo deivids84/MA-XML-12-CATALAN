@@ -9,6 +9,7 @@
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
   <string name="abc_capital_off">DESACTIVA</string>
   <string name="abc_capital_on">ACTIVA</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
   <string name="app_self_upgrade_dlg_negative_btn">Més tard</string>
   <string name="app_self_upgrade_dlg_postive_btn">Actualitza</string>
@@ -28,6 +29,7 @@
   <string name="carousel_suggest1">Obtén nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
   <string name="carousel_suggest2">Està activat el carrusel de fons de pantalla?</string>
   <string name="change_time">Canvia el període</string>
+  <string name="comment_pop_cancel">Ara no</string>
   <string name="confirm">Activa</string>
   <string name="current_connection_invalid">Espereu fins que el dispositiu es connecti a la xarxa</string>
   <string name="current_data_invalid">S\'ha produït un error</string>
@@ -38,16 +40,23 @@
   <string name="declaration">Obtenir nous fons lliurats directament a la pantalla de bloqueig cada dia de forma gratuïta.</string>
   <string name="declaration_lockscreen_title">Carrusel de fons de pantalla</string>
   <string name="declaration_title">Condicions d\'ús</string>
+  <string name="detail_no_more_data">No hi ha dades</string>
+  <string name="detail_recomm_load_tip">Coincideixen amb els vostres interessos…</string>
   <string name="detail_toast_deny_dislike">"No es pot esborrar."</string>
   <string name="detail_toast_deny_favor">"No es pot afegir a preferits."</string>
   <string name="detail_toast_dislike_fail">"No s'ha pogut esborrar."</string>
   <string name="dislike">Elimina</string>
+  <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
+  <string name="favor_list_no_data">Aquí no hi ha cap element.</string>
   <string name="feed_article_entrance_about">Quant a %s</string>
   <string name="find_psw">Contrasenya oblidada</string>
+  <string name="history_list_no_data">Aquí no hi ha cap element</string>
   <string name="hour_1">Cada hora</string>
   <string name="hour_3">Cada 3 hores</string>
   <string name="like">Afegeix als preferits</string>
   <string name="liked">Afegit als preferits</string>
+  <string name="llks_pop_i_know">Entesos</string>
+  <string name="load_hdpicture_complete">S\'ha carregat la imatge original amb èxit</string>
   <string name="lockscreen_h5_back_tv">Enrera</string>
   <string name="lockscreen_h5_close_tv">Desactivat</string>
   <string name="lockscreen_h5_refresh_btn_tv">Refresca</string>
@@ -67,6 +76,7 @@
   <string name="open_sub_title">Seleccioneu les categories</string>
   <string name="passport_empty_password">"La contrasenya no es pot deixar en blanc"</string>
   <string name="passport_set_password">Estableix la contrasenya</string>
+  <string name="passport_unknow_network_error">S\'ha produït un error de xarxa</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
   <string name="platform_unavailable_wechatmoment">Instal·leu Wechat</string>
   <string name="psw_hint">Contrasenya</string>
@@ -80,6 +90,8 @@
   <string name="settings">Configuració</string>
   <string name="share">Comparteix</string>
   <string name="sliding_on_unlock">Llisqueu amunt per desblocar</string>
+  <string name="sst_change_wallpaper_lock">Pantalla de bloqueig</string>
+  <string name="sst_change_wallpaper_lock_desk">Pantalles inicial i de blocatge</string>
   <string name="sst_cover_chg_enable_desc">Mostra el carrusel de fons de pantalla mentre el dispositiu s\'està carregant</string>
   <string name="sst_cover_chg_enable_title">Mostra en carregar-se</string>
   <string name="sst_effect_next_wallpaper">Definir un nou fons de pantalla per aplicar canvis</string>
@@ -93,6 +105,7 @@
   <string name="sst_prov_enable_desc">Activa el carrusel dels fons de pantalla a la pantalla de bloqueig. Afegiu el fons de pantalla a la carpeta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="sst_prov_enable_title">Activa el carrusel de fons de pantalla</string>
   <string name="sst_require_one_category_hint">Si us plau, almenys subscriure\'s a un element</string>
+  <string name="sst_show_lockscreen_entry_title">Drecera de la pantalla de blocatge</string>
   <string name="sst_sti_desc">Estableix l\'interval de temps per canviar el fons</string>
   <string name="sst_sti_title">Període de temps de canvi</string>
   <string name="sst_subscribe_title">Subscriure\'s</string>
@@ -103,6 +116,7 @@
   <string name="theme_apply_failured">"No s'ha pogut aplicar, torneu-ho a provar més tard"</string>
   <string name="theme_apply_success">S\'ha aplicat amb èxit</string>
   <string name="theme_applying">Aplicant&#8230;</string>
+  <string name="theme_title_lock_style">Canvia a la pantalla de blocatge per defecte</string>
   <string name="time_current">Ara mateix</string>
   <string name="wlan_download">Només Wi-Fi</string>
   <string name="wlan_download_cn">Actualització a través de Wi-Fi</string>

@@ -57,6 +57,10 @@
         <item quantity="other">Reprèn la còpia de seguretat en %d hores</item>
         <item quantity="one">Reprèn la còpia de seguretat en %d hora</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elements són massa grans per la còpia de seguretat</item>
+        <item quantity="one">%d element és massa gran per la còpia de seguretat</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d fotos o vídeos | Pausat</item>
         <item quantity="one">%d foto o vídeo | Pausat</item>
@@ -253,12 +257,12 @@
         <item quantity="other">"No s'han copiat %d fotos i vídeos"</item>
         <item quantity="one">"No s'ha copiat %d foto or vídeo"</item>
     </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elements són massa grans per la còpia de seguretat</item>
+        <item quantity="one">%d element és massa gran per la còpia de seguretat</item>
+    </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d elements</item>
         <item quantity="one">%d element</item>
-    </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">%1$d elements en total</item>
-        <item quantity="one">%1$d element en total</item>
     </plurals>
 </resources>

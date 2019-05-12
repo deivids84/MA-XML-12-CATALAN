@@ -23,6 +23,7 @@
   <string name="agenda_assistant_payment_day">Dia de pagament</string>
   <string name="agenda_assistant_repayment_day">Dia de pagament</string>
   <string name="agenda_assistant_tail_num">Número</string>
+  <string name="agenda_i_known">Entesos</string>
   <string name="agenda_no_title">Sense títol</string>
   <string name="agenda_open">Activa els recordatoris</string>
   <string name="agenda_setting_brief">Esdeveniments, recordatoris de pagaments i molt més</string>
@@ -80,6 +81,7 @@
   <string name="battery_history">Bateria</string>
   <string name="bicycle">Bicicleta</string>
   <string name="book_add_date_diff">La data de sortida ha de ser posterior a la data d\'entrada.</string>
+  <string name="book_add_dialog_save">Voleu descartar els canvis i sortir ara?</string>
   <string name="book_assistant">Reserva un viatge</string>
   <string name="book_assistant_empty">Encara no hi ha reserves</string>
   <string name="book_assistant_go">Sortida</string>
@@ -113,6 +115,7 @@
   <string name="card_expand_note_dialog_button">D\'acord</string>
   <string name="card_expand_note_dialog_message">Es crearà una nova nota cada cop que toqueu el botó «Desa» al cofre d\'aplicacions.</string>
   <string name="card_expand_note_dialog_title">S\'estan desant les notes</string>
+  <string name="card_expand_note_sure_clear_all">Esborra ara</string>
   <string name="card_expand_note_toast_clear_null">S\'ha netejat amb èxit</string>
   <string name="card_expand_note_toast_save_done">S\'ha desat a Notes</string>
   <string name="card_expand_note_toast_save_dup">S\'ha desat amb èxit</string>
@@ -124,6 +127,7 @@
   <string name="card_setting_btn">Personalitza</string>
   <string name="card_settings">Personalitza</string>
   <string name="card_settings_rule">Configuració de l\'ordre de targetes</string>
+  <string name="card_title_empty_note">Escriviu aquí la nota.</string>
   <string name="card_title_express">El meu lliurament</string>
   <string name="card_title_favorite">Preferits</string>
   <string name="card_title_funclaunch">Dreceres</string>
@@ -162,7 +166,7 @@
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
-  <string name="cta_desc">"És ideal per als accessos directes, informació i funcions preferides"</string>
+  <string name="cta_desc">És ideal per les dreceres, informació i funcions preferides</string>
   <string name="cta_dialog_negative">Surt</string>
   <string name="cta_dialog_positive">D\'acord</string>
   <string name="cta_dialog_text_all">Per utilitzar el cofre d\'aplicacions, haureu de llegir i acceptar l\' %1$s «Acord d\'usuari» %2$s i la %3$s «Política de privadesa» %4$s. El servei també requereix de connexió a Internet i accés als serveis d\'ubicació. Hi esteu d\'acord?</string>
@@ -523,6 +527,7 @@ Comproveu el número de seguiment."</string>
   <string name="locations">Ubicacions freqüents</string>
   <string name="locations_preferences">Adreces</string>
   <string name="login_before_use">Primer heu d\'iniciar la sessió</string>
+  <string name="login_dialog_negative">Ara no</string>
   <string name="login_ok">Inicia sessió</string>
   <string name="look_more">Mostra\'n més</string>
   <string name="main_add">Afegeix</string>
@@ -854,7 +859,6 @@ Comproveu el número de seguiment."</string>
   <string name="time_just_now">Ara mateix</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
-  <string name="toast_function_add_not_allowed">Podeu afegir fins a 10 dreceres</string>
   <string name="toast_function_remove_not_allowed">Heu d\'afegir com a mínim 1 drecera</string>
   <string name="total_month_desc_text">Aquest mes</string>
   <string name="total_today_desc_text">Avui</string>
@@ -881,6 +885,7 @@ Comproveu el número de seguiment."</string>
   <string name="upgrade_find">S\'ha trobat una versió nova</string>
   <string name="upgrade_later">Instal·la més tard</string>
   <string name="upgrade_now">Instal·la ara</string>
+  <string name="upgrade_now_bottom">Instal·la ara</string>
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="user_id">ID d\'usuari: %s</string>
   <string name="walk">A peu</string>

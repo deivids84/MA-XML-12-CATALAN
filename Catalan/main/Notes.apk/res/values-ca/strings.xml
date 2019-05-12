@@ -68,8 +68,6 @@
   <string name="force_touch_menu_add">Afegeix nota</string>
   <string name="format_move_note_out_folder">Moguda</string>
   <string name="format_move_note_to_folder">Moguda a %1$s</string>
-  <string name="format_move_notes_out_folder">%1$s mogudes fora</string>
-  <string name="format_move_notes_to_folder">Mogudes %1$s a %2$s</string>
   <string name="hidden_notes_fragment_title">Notes ocultes</string>
   <string name="hide_arrow_description">Amaga</string>
   <string name="hint_cannot_view_hidden_note_content">"No es pot veure el contingut de les notes ocultes"</string>
@@ -113,6 +111,7 @@
   <string name="notealert_ok">Ignorar</string>
   <string name="notify_alarm_title">Recordatori de nota</string>
   <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
+  <string name="permission_intro_microphone">Per enregistrar notes de veu</string>
   <string name="permlab_accessNote">Notes d\'accés</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"No demanis confirmació en eliminar una nota de manera gestual"</string>
   <string name="pref_title_cloud_trash_bin">Elimina notes al Mi Cloud</string>
@@ -126,6 +125,7 @@
   <string name="refuse_to_open_as_pic_because_of_loading">Espereu fins que la nota es carregui i torneu-ho a provar.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Aquesta nota és massa gran per compartir-la.</string>
   <string name="rename_folder_dialog_tile">Canvia el nom a la carpeta</string>
+  <string name="rich_text_size_description">Mida</string>
   <string name="root_folder_name">Notes ràpides</string>
   <string name="save_to_gallery_failure_message">"No s'ha pogut desar"</string>
   <string name="save_to_gallery_icon_name">Desa-ho a la galeria</string>
@@ -173,9 +173,7 @@
   <string name="toast_cancel_to_insert_image">"No s'ha pogut afegir la imatge."</string>
   <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
   <string name="toast_notes_delete_success">S\'ha eliminat amb èxit</string>
-  <string name="toast_notes_hidden_count">%1$s s\'ha ocultat amb èxit</string>
   <string name="toast_notes_unhidden">S\'ha mostrat amb èxit</string>
-  <string name="toast_notes_unhidden_count">%1$s s\'ha mostrat amb èxit</string>
   <string name="toast_reach_text_limit_attachment">"No es pot adjuntar documents perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_checkbox">"No es pot afegir la casella de selecció perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_truncate">Aquesta nota és massa llarga. S\'ha retallat text del final perquè hi càpiga.</string>

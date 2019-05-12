@@ -136,6 +136,7 @@
   <string name="gadget_clock_24_label">Rellotge 4x2</string>
   <string name="gadget_clock_34_label">Rellotge 4x3</string>
   <string name="gadget_clock_label">Rellotge</string>
+  <string name="gadget_dual_clock_label">Rellotge dual</string>
   <string name="gadget_error_text">"No es pot carregar el giny"</string>
   <string name="gadget_google_search_label">Cerca de Google</string>
   <string name="gadget_load_error">S\'està carregant&#8230;</string>
@@ -172,7 +173,6 @@
   <string name="invalid_contact_shortcut">El contacte no és vàlid</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="is_system_wallpaper_message">"No es poden eliminar els recursos del sistema"</string>
-  <string name="launcher_auto_fill_empty_title">Emplena les cel·les buides</string>
   <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
   <string name="launcher_title">Pantalla d\'inici i recents</string>
   <string name="like">Preferit</string>
@@ -188,7 +188,6 @@
   <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
   <string name="memory_clear_result">%1$sB netejats</string>
   <string name="menu_add">Afegeix</string>
-  <string name="menu_auto_fill">Emplena les cel·les buides</string>
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
   <string name="menu_cell_setting">Disposició de la pantalla d\'inici</string>
   <string name="menu_customize">Configuració</string>

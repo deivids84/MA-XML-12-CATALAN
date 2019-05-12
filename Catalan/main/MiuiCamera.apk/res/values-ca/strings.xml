@@ -74,6 +74,8 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="cannot_connect_camera_volte_call">Trucada de vídeo en curs, si us plau intenteu-ho més tard.</string>
   <string name="cannot_move_warning_message">Fotografia en procés, no mogui el dispositiu</string>
   <string name="capture_back_pressed_hint">Premeu un altre cop per sortir</string>
+  <string name="close_back_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
+  <string name="close_front_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
   <string name="color_effect_entry_berry">Baies</string>
   <string name="color_effect_entry_blackwhite">B/N</string>
   <string name="color_effect_entry_cookie">Galeta</string>
@@ -119,10 +121,16 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="edit_skin_white">To</string>
   <string name="error_fail_to_start_audio_capture">"No s'ha pogut iniciar el disparador per veu"</string>
   <string name="face_age_info">Edat: %d</string>
+  <string name="face_analyze_info">Edat: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Dona</string>
   <string name="face_analyze_info_male">Home</string>
   <string name="face_beauty_advanced">Avançat</string>
+  <string name="face_beauty_age_alias_0_7">0-7</string>
+  <string name="face_beauty_age_alias_18_30">18-30</string>
+  <string name="face_beauty_age_alias_31_44">31-44</string>
+  <string name="face_beauty_age_alias_45_60">45-60</string>
   <string name="face_beauty_age_alias_60_m">Més de 60 anys</string>
+  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Dona 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Dona 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Dona 31-44</string>
@@ -155,6 +163,8 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="hint_slow_motion">El vídeo que enregistreu es visualitzarà més lent.</string>
   <string name="hunt_dual_water_mark">La marca d\'aigua de la càmera dual s\'afegirà automàticament.</string>
   <string name="install_confirmed">Instal·la</string>
+  <string name="lens_dirty_detected_title_back">L\'òptica de la càmera posterior està bruta</string>
+  <string name="live_music_close_message">Voleu aturar la música ara?</string>
   <string name="message_snap_double_confirm">Si es manté premut el botó de volum actualment s\'activa l\'NFC. Voleu canviar-ho?</string>
   <string name="module_name_beauty">Bellesa</string>
   <string name="module_name_capture">Foto</string>
@@ -210,6 +220,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesura puntual</string>
   <string name="pref_camera_autoexposure_title">Paràmetres d\'exposició automàtica</string>
   <string name="pref_camera_beautify_entry_auto">Desactivat</string>
+  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
@@ -288,12 +299,16 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_multilevel_entry_lower">Més baix</string>
   <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
   <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
+  <string name="pref_camera_normal_wide_ldc_description">Corregeix cares distorsionades de la gent de la perifèria de l\'enquadrament</string>
+  <string name="pref_camera_normal_wide_ldc_title">Corregeix les distorsions facials en fotografies de grups</string>
   <string name="pref_camera_optimized_flash_enable_title">Flaix optimitzat</string>
   <string name="pref_camera_panoramamode_title">Panoràmica</string>
   <string name="pref_camera_parallel_process_enable_title">Activa el procés d\'imatge paral·lela</string>
   <string name="pref_camera_peak_entry_off">desactivada</string>
   <string name="pref_camera_peak_entry_on">activada</string>
   <string name="pref_camera_peak_title">Ajuda d\'enfocament</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Pantalla sencera</string>
+  <string name="pref_camera_picturesize_entry_standard">Estàndard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Format de càmera</string>
   <string name="pref_camera_portrait_mode_entry_off">El mode retrat està desactivat</string>
   <string name="pref_camera_portrait_mode_entry_on">El mode retrat està activat</string>
@@ -360,6 +375,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
+  <string name="pref_camera_whitebalance_entryvalue_daylight">llum natural</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
@@ -416,7 +432,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval de 30 segons (900 vegades)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Interval de càmera ràpida</string>
   <string name="preparing_sd">Preparant emmagatzematge intern&#8230;</string>
-  <string name="record_back_pressed_hint">Toqui una altra vegada per aturar la gravació </string>
+  <string name="record_back_pressed_hint">Per aturar la gravació toqueu un altre cop</string>
   <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu Enrere i el botó de pujar volum simultàniament.</string>
   <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea dels auriculars"</string>
   <string name="search_settings">Configuració de la càmera;Qualitat;Qualitat d\'imatge;Ubicació de la imatge;Ubicació de la fotografia;Detecció de cares;So de la càmera</string>

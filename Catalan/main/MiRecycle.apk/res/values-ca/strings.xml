@@ -4,10 +4,15 @@
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activitychooserview_choose_application">Seleccioneu una aplicació</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="bank_name">Nom del banc</string>
   <string name="btn_check_back">Enrere</string>
   <string name="btn_text_retry">Torna-ho a provar</string>
   <string name="buy_title_four">Heu perdut el vostre mòbil?</string>
+  <string name="device_resolution">Resolució</string>
+  <string name="input_card_information">Introduïu la informació de la tarja</string>
+  <string name="input_wallet_information">Introduïu el número del mòbil</string>
+  <string name="item_name_rearcamera">Càmera posterior</string>
   <string name="main_overall_test">COMENÇA</string>
   <string name="overall_test">Resultat global</string>
   <string name="result_no_fail">Tot va bé</string>

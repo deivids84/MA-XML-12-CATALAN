@@ -55,7 +55,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="permission_prompt_detail">Cerca de pel·lícules, llibres, música i molt més.</string>
   <string name="permission_prompt_start">Permet</string>
   <string name="permission_prompt_started_info">"Heu permès la cerca global"</string>
-  <string name="permission_prompt_title">Voleu més?</string>
+  <string name="permission_prompt_title">En voleu més?</string>
   <string name="pull_to_input">Tireu cap abaix per mostrar la barra de cerca</string>
   <string name="recent_apps">Aplicacions recents</string>
   <string name="recent_apps_filter">"Amaga les aplicacions que no utilitzeu"</string>
