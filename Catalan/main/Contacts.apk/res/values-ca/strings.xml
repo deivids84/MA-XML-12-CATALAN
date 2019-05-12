@@ -181,6 +181,7 @@
   <string name="composer_failed_to_get_database_infomation">"No s'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
+  <string name="conference_call_disable_tip">"No es poden fer trucades. Assegureu-vos que el vostre dispositiu està connectat a una xarxa 4G amb suport VoLTE."</string>
   <string name="confirm_delete_contact_all_call_logs">"Esborrar registre de trucades?"</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>

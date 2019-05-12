@@ -79,7 +79,6 @@
   <string name="category_type_other">Altres</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Fitxers</string>
-  <string name="change_sticker">Seleccioneu un altre adhesiu</string>
   <string name="choose_report_comment_reason">Per què esteu enviant aquest comentari?</string>
   <string name="choose_report_reason">Per què reporta aquest clip de vídeo?</string>
   <string name="clean_hint">Tocar per alliberar espai</string>
@@ -761,7 +760,6 @@
   <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
   <string name="video_uploaded">Pujat</string>
   <string name="view_master_rank">Mostra el top de Youliao</string>
-  <string name="view_more_sticker">Mostra més adhesius</string>
   <string name="view_top_rank">Mostra el rànquing</string>
   <string name="wechat_video">Vídeo a %s</string>
   <string name="weibo_share_success">S\'ha compartit amb èxit</string>

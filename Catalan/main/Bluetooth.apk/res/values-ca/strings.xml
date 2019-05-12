@@ -10,6 +10,8 @@
   <string name="auth_notif_message">Introduïu la clau de sessió per a %1$s</string>
   <string name="auth_notif_ticker">Sol·licitud d\'autenticació OBEX</string>
   <string name="auth_notif_title">Clau de sessió</string>
+  <string name="avrcp_cover_art_default_image_type">imatge</string>
+  <string name="avrcp_cover_art_default_mimetype">JPEG</string>
   <string name="bluetooth_connected">Àudio Bluetooth connectat</string>
   <string name="bluetooth_disconnected">Àudio Bluetooth desconnectat</string>
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
@@ -19,6 +21,7 @@
   <string name="bluetooth_map_settings_no_account_slots_left">No es pot seleccionar el compte. No queda espai.</string>
   <string name="bluetooth_map_settings_save">Desa</string>
   <string name="bluetooth_map_settings_title">Configuració per compartir missatges mitjançant el Bluetooth</string>
+  <string name="bluetooth_opp_file_limit_exceeded">No es poden transferir arxius més grans dels 4GB</string>
   <string name="bluetooth_sap_notif_disconnect_button">Desconnecta</string>
   <string name="bluetooth_sap_notif_disconnecting">S\'està esperant que el client es desconnecti</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Força la desconnexió</string>
@@ -132,7 +135,6 @@
   <string name="upload_fail_line1">"No s'ha enviat el fitxer a \"%1$s\"."</string>
   <string name="upload_fail_line1_2">Fitxer: %1$s</string>
   <string name="upload_fail_ok">Torna-ho a provar</string>
-  <string name="upload_fail_waiting">S\'està preparant l\'enviament del fitxer, es transmetrà automàticament més tard</string>
   <string name="upload_line1">A: \"%1$s\"</string>
   <string name="upload_line3">Tipus de fitxer: %1$s (%2$s)</string>
   <string name="upload_line5">S\'està enviant el fitxer&#8230;</string>

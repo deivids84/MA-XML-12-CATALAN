@@ -194,8 +194,15 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">S\'està inicialitzant...</string>
   <string name="engine_tm">Tencent</string>
+  <string name="facebook_clean_exit_confirm_cancel">Continua analitzant</string>
+  <string name="facebook_clean_exit_confirm_ok">Atura</string>
+  <string name="facebook_clean_exit_confirm_title">Voleu aturar l\'anàlisi?</string>
   <string name="facebook_cleaner">Netejador del Facebook</string>
   <string name="facebook_function_title">Netejador del Facebook</string>
+  <string name="facebook_group_cache">Fitxers de memòria cau</string>
+  <string name="facebook_group_gif">GIFs</string>
+  <string name="facebook_group_image">Imatges</string>
+  <string name="facebook_group_video">Vídeos</string>
   <string name="file">Fitxers</string>
   <string name="file_not_found">No s\'ha trobat l\'arxiu</string>
   <string name="flow_rank_title">Ús de dades</string>
@@ -330,6 +337,7 @@
   <string name="onekeyclean_boost_cleaned">S\'ha esborrat %s</string>
   <string name="onekeyclean_boosted_title">S\'ha esborrat correctament</string>
   <string name="onekeyclean_boosting_title">S\'està incrementant la velocitat</string>
+  <string name="onekeyclean_card_btn">Esborra ara</string>
   <string name="onekeyclean_card_summery">Neteja la brossa per alliberar espai</string>
   <string name="open">Activa</string>
   <string name="open_app">Obre</string>
@@ -536,6 +544,7 @@
   <string name="whatsapp_delete_done">Fet</string>
   <string name="whatsapp_file_show_order">Avui</string>
   <string name="whatsapp_function_title">Netejador del WhatsApp</string>
+  <string name="whatsapp_group_voice">Missatges de veu</string>
   <string name="whatsapp_title">Netejador del WhatsApp</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>

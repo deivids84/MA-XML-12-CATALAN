@@ -29,8 +29,6 @@
   <string name="action_nothing">esperant el resultat de la prova</string>
   <string name="audio_spk_cal_wait">Calibratge...</string>
   <string name="audio_spk_def">Calibreu dels altaveus</string>
-  <string name="baterry_percent">"Quantitat de bateria carregada: "</string>
-  <string name="baterry_temperature">"Temperatura de la Bateria: "</string>
   <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
   <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
   <string name="button_ok">D\'acord</string>
@@ -67,8 +65,6 @@ Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</s
   <string name="cit_audio_cali_summary">Calibra l\'altaveu PA</string>
   <string name="cit_audio_cali_title">Prova de calibratge de l\'altaveu PA</string>
   <string name="cit_audio_calibrating">Calibratge en curs...</string>
-  <string name="cit_audio_check_summary">Informació d\'àudio.</string>
-  <string name="cit_audio_check_title">Informació d\'àudio</string>
   <string name="cit_audio_get_temp_fail">Ha fallat la obtenció de dades temporals</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prova de funcionament del micròfon posterior</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Prova de funcionament del micròfon frontal</string>
@@ -173,7 +169,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_fm_audio_path">Configura la ruta d\'àudio</string>
   <string name="cit_fm_audio_path_headset">Auriculars</string>
   <string name="cit_fm_audio_path_speaker">Altaveu</string>
-  <string name="cit_fm_check_summary">"Això posarà a prova la funció FM del dispositiu."</string>
+  <string name="cit_fm_check_summary">Això posarà a prova la funció FM del dispositiu.</string>
   <string name="cit_fm_check_title">Ràdio FM</string>
   <string name="cit_fm_close">Tanca l\'FM</string>
   <string name="cit_fm_not_supported">"Aquest dispositiu no admet FM"</string>
@@ -210,8 +206,6 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_hall_far">lluny</string>
   <string name="cit_hall_near">a prop</string>
   <string name="cit_hall_test_summary">Quan un imant s\'acosti a la zona verda, el text es tornarà proper, altrament el text serà llunyà.</string>
-  <string name="cit_hardware_info_summary">S\'està processant la informació del maquinari d\'aquest dispositiu</string>
-  <string name="cit_hardware_info_title">Informació del maquinari</string>
   <string name="cit_headset_button_check_summary">Quan els auriculars estiguin connectats, premeu els botons en els auriculars remots (sovint situats en el cable). El text corresponent a la pantalla ha de canviar a verd.</string>
   <string name="cit_headset_button_check_title">Botons dels auriculars</string>
   <string name="cit_headset_button_click">Premeu els botons en els auriculars</string>
@@ -276,7 +270,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_play_sd_mp3_title">Reprodueix MP3 emmagatzemat a la targeta SD</string>
   <string name="cit_playing_sd_mp3">S\'està reproduint music.mp3&#8230;</string>
   <string name="cit_pointer_location_title">Sensor tàctil</string>
-  <string name="cit_power_check_summary">"La quantitat de càrrega de la bateria ha de ser expressada com un percentatge a sota."</string>
+  <string name="cit_power_check_summary">La quantitat de càrrega de la bateria ha de ser expressada com un percentatge a sota.</string>
   <string name="cit_power_check_title">Indicador de bateria</string>
   <string name="cit_pressure_sensor_check_summary">El valor de la pressió ha d\'aparèixer a sota</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressió</string>
@@ -326,8 +320,6 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_stop_calibration">Atura el calibratge</string>
   <string name="cit_tfcard_support_summary">Comproveu si la targeta TF és compatible amb aquest dispositiu</string>
   <string name="cit_tfcard_support_title">Suport targeta TF</string>
-  <string name="cit_thermal_history_summary">Espereu... S\'està llegint les dades tèrmiques del dispositiu.</string>
-  <string name="cit_thermal_history_title">Històric tèrmic</string>
   <string name="cit_tool">Eines addicionals</string>
   <string name="cit_tool_bluetooth">Eina de prova de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entra al mode de prova de Bluetooth</string>
@@ -498,7 +490,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="error_getting_sensor_info">S\'ha produït un error en obtenir informació del sensor</string>
   <string name="error_initializing_sensor">S\'ha produït un error en inicialitzar el sensor: %1$s</string>
   <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
-  <string name="fpc_ok">D\'acord</string>
+  <string name="fod_pressure_sensor_pressure_data_collection">Recollint dades de pressió....</string>
   <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
   <string name="keyboard">BOTÓ</string>
   <string name="lcminfo">Informació del LCM</string>
@@ -506,6 +498,17 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="mic1_spk_loop">Reprodueix el micro als altaveus</string>
   <string name="micphone_test">MIC i SPK</string>
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
+  <string name="radio_boy">Veu d\'home</string>
+  <string name="radio_gril">Veu de dona</string>
+  <string name="radio_info_call_status_label">Estat de la trucada de veu:</string>
+  <string name="radio_info_data_connected">Connectat</string>
+  <string name="radio_info_data_connecting">S\'està connectant</string>
+  <string name="radio_info_data_disconnected">Desconnectat</string>
+  <string name="radio_info_data_network_type_label">Tipus de xarxa de dades:</string>
+  <string name="radio_info_gprs_service_label">Servei de dades:</string>
+  <string name="radio_info_gsm_service_label">Servei de veu:</string>
+  <string name="radio_info_unknown">No indicat</string>
+  <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
   <string name="search_menu_title">Cerca</string>
   <string name="select">Selecciona</string>
@@ -519,7 +522,6 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="status_running">En execució</string>
   <string name="status_text">Estat:</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
-  <string name="testcase_name">Nom</string>
   <string name="title_farr">Prova FAR i FRR</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
   <string name="tp_color">Color TP:</string>

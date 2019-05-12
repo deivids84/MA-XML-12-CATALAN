@@ -8,6 +8,9 @@
   <string name="abc_action_mode_select_all">Selecciona-ho tot</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+  <string name="abc_font_family_body_1_material">sans-serif</string>
+  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+  <string name="abc_font_family_button_material">sans-serif-medium</string>
   <string name="abc_font_family_caption_material">sans-serif</string>
   <string name="abc_font_family_display_1_material">sans-serif</string>
   <string name="abc_font_family_display_2_material">sans-serif</string>
@@ -223,6 +226,11 @@
   <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Previ</string>
   <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
@@ -268,6 +276,7 @@ està a punt de passar»</string>
   <string name="data_traffic_prompt_message">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d\'ús de dades del vostre pla, l\'operador us podria cobrar despeses addicionals.</string>
   <string name="data_traffic_prompt_title">Ús de dades mòbils</string>
   <string name="data_traffic_stop">Atura</string>
+  <string name="debug_mode_toast">Mode depuració activat</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
   <string name="delete_bookmark_action_warning">Voleu elimina els marcadors?</string>
@@ -386,6 +395,7 @@ està a punt de passar»</string>
   <string name="finish_sync_cloud_tabs">Sincronització finalitzada</string>
   <string name="firstUsingSearchEngineTips">Canviar el motor de cerca?</string>
   <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
+  <string name="for_diagnosis_usage_only">Utilitza aquesta informació exclusivament per diagnosi.</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
@@ -408,12 +418,14 @@ està a punt de passar»</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="green_kid_block_request">L\'accés a aquest lloc web està restringit.</string>
   <string name="guide_chosen_type_main_title">Expliqueu-nos què us agrada</string>
+  <string name="guide_chosen_type_main_title_behind">el que volgueu</string>
   <string name="guide_chosen_type_main_title_front">Digueu-nos</string>
   <string name="guide_chosen_type_subtitle">Per obtenir consells apropiats indiqueu els vostres interessos</string>
   <string name="guide_entertainment_text">entreteniment</string>
   <string name="guide_fashion_text">moda</string>
   <string name="guide_fiction_text">ficció</string>
   <string name="guide_finance_text">finances</string>
+  <string name="guide_flash_type_subtitle">Velocitat increïble, interfície d\'usuari fluida</string>
   <string name="guide_games_text">jocs</string>
   <string name="guide_history_text">historia</string>
   <string name="guide_know_type_main_title">El navegador que us entén</string>
@@ -892,7 +904,11 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="navigate_feedback_dislike">no m’interessa</string>
   <string name="navigate_feedback_dislike_tips">Reduirà les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
+  <string name="navigate_feedback_report">comunicació</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
+  <string name="navigate_feedback_report_success">Comunicació correcta</string>
+  <string name="navigate_feedback_report_title">Motius de la comunicació</string>
+  <string name="navigate_feedback_select_report_label">Seleccioneu el motiu de la comunicació</string>
   <string name="navigate_feedback_submit">Envia</string>
   <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
@@ -939,6 +955,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="play_pause_video">Reprodueix o pausa el vídeo</string>
   <string name="play_retry">Torna a reproduir</string>
   <string name="play_video">Reprodueix el vídeo</string>
+  <string name="player_3g_tip_sub_title">La reproducció implicarà despeses en dades</string>
   <string name="player_data_error_tip">El vídeo està no disponible temporalment. Intenteu-ho més tard</string>
   <string name="player_net_error">No s\'està connectat a la xarxa, comproveu la configuració de la xarxa</string>
   <string name="player_no_data">Disculpeu! Aquest vídeo ja no hi és.</string>
@@ -975,6 +992,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_content_night_read_mode">Mode nocturn</string>
   <string name="pref_content_search_engine">Motor de cerca a la barra d\'adreces</string>
   <string name="pref_content_search_engine_summary">Seleccioneu un motor de cerca</string>
+  <string name="pref_debug_mode">Mode de depuració</string>
   <string name="pref_download_setting">Configuració de les baixades</string>
   <string name="pref_enable_adblock_notification">Mostra les notificacions del bloquejador d\'anuncis</string>
   <string name="pref_enable_news">Notícies</string>
@@ -1132,6 +1150,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="search_label">Navegador</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_notification_btn_title">Cerca</string>
+  <string name="search_notification_guide_content">Proveu-ho ara</string>
   <string name="search_path_browser">Configuració/Aplicacions instal·lades/Navegador</string>
   <string name="search_settings_description">Marcadors i historial web</string>
   <string name="search_shipin">Vídeo</string>
@@ -1147,7 +1166,9 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="select_download_device">Tria un dispositiu</string>
   <string name="send_comment_button">Envia</string>
   <string name="send_comment_title">Comentari</string>
+  <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
   <string name="senddesktop">Pantalla d\'inici</string>
+  <string name="sending">S\'està enviant…</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="sequence_bookmark_description">Premeu i mantingueu premut per reordenar els marcadors</string>
   <string name="share_image_text">Mireu lo que he compartit! @MIUI</string>
@@ -1170,11 +1191,14 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="slide_guide">Llisqueu per tornar</string>
   <string name="small_video_ad_app_text_click">Baixa</string>
   <string name="small_video_ad_app_text_open">Obre</string>
   <string name="small_video_ad_app_text_resume">Continua</string>
   <string name="small_video_ad_web_text">Obre</string>
   <string name="small_video_boba_tab">Emet</string>
+  <string name="small_video_comment">Tots els comentaris</string>
+  <string name="small_video_comment_input_hint">Introduïu el vostre comentari</string>
   <string name="small_video_load_failed">Ha fallat la càrrega</string>
   <string name="small_video_loading">S\'està carregant...</string>
   <string name="small_video_main_tab">Recomana</string>
@@ -1246,6 +1270,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_lottery_period">RONDA %s</string>
   <string name="suggestion_more_news">MÉS NOTÍCIES</string>
   <string name="suggestion_more_news_start_title_text">Notícies relacionades</string>
+  <string name="suggestion_sliding_item_more_text">VEURE MÉS</string>
   <string name="suggestion_topic_subtitle_hyphen">Enfocament</string>
   <string name="suggestion_translation_more">MOSTRA\'N MÉS</string>
   <string name="switchText">SÍ</string>
@@ -1259,6 +1284,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="tab_yellowpage">Enllaços</string>
   <string name="tabs_description">Pestanyes</string>
   <string name="temp_refuse">No, gràcies</string>
+  <string name="temporary_not_available">no disponible temporalment</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="title_notice_push">Activa la tramesa automàtica</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>

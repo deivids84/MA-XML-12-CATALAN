@@ -91,7 +91,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="desktop_downloading">S\'està baixant</string>
   <string name="desktop_failed">Error</string>
   <string name="desktop_installing">S\'està instal·lant</string>
-  <string name="desktop_wait_wifi">S\'està esperant</string>
   <string name="desktop_waiting">S\'està esperant</string>
   <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
   <string name="dialog_btn_cancel_backup">Cancel·la</string>
@@ -105,6 +104,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="dialog_msg_restore_require_wlan">La restauració de còpies de seguretat requereix connexió a la Wi-Fi.</string>
   <string name="dialog_title_require_wlan">Connecta a la Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+  <string name="doing_calc_backup_data_size">S\'està calculant la mida…</string>
   <string name="doing_restore_home">S\'està restaurant la pantalla d\'inici i la configuració…</string>
   <string name="done_remove">S\'ha suprimit correctament</string>
   <string name="download_home_data">S\'està baixant el disseny de la pantalla d\'inici…</string>
@@ -136,6 +136,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="open_wifi">Encén el Wi-Fi ara</string>
   <string name="open_wifi_description">Connecteu-vos a una xarxa Wi-Fi per restaurar aplicacions</string>
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
+  <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
   <string name="process_whole_recovery">Restaurant «%s»</string>
   <string name="provision_error_connect_msg">"Podeu provar la xarxa i tornar-ho a provar. La funció de còpia de seguretat no estarà disponible sense una xarxa vàlida."</string>
   <string name="provision_error_connect_title">"No es pot connectar"</string>
@@ -176,4 +177,5 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="total_space">Espai total: %s</string>
   <string name="try_again">Toqueu per provar-ho de nou</string>
   <string name="wait_icon_download">S\'estan baixant les icones de les aplicacions</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

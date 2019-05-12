@@ -52,6 +52,12 @@
         <item>2 dies abans</item>
         <item>1 setmana abans</item>
     </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Només aquest esdeveniment</item>
         <item>Aquest i els esdeveniments futurs</item>
@@ -92,13 +98,6 @@
     <string-array name="ligue_1">
         <item>5</item>
         <item>Ligue 1</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>primer</item>
-        <item>segon</item>
-        <item>tercer</item>
-        <item>quart</item>
-        <item>últim</item>
     </string-array>
     <string-array name="pisces_info">
         <item>peixos</item>
@@ -204,6 +203,43 @@
         <item>setmana</item>
         <item>mes</item>
         <item>any</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>primer dilluns</item>
+        <item>primer dimarts</item>
+        <item>primer dimecres</item>
+        <item>primer dijous</item>
+        <item>primer divendres</item>
+        <item>primer dissabte</item>
+        <item>primer diumenge</item>
+        <item>segon dilluns</item>
+        <item>second Tuesday</item>
+        <item>second Wednesday</item>
+        <item>second Thursday</item>
+        <item>second Friday</item>
+        <item>second Saturday</item>
+        <item>second Sunday</item>
+        <item>third Monday</item>
+        <item>third Tuesday</item>
+        <item>tercer dimecres</item>
+        <item>tercer dijous</item>
+        <item>tercer divendres</item>
+        <item>tercer dissabte</item>
+        <item>tercer diumenge</item>
+        <item>quart dilluns</item>
+        <item>quart dimarts</item>
+        <item>quart dimecres</item>
+        <item>quart dijous</item>
+        <item>quart divendres</item>
+        <item>quart dissabte</item>
+        <item>quart diumenge</item>
+        <item>darrer dilluns</item>
+        <item>darrer dimarts</item>
+        <item>darrer dimecres</item>
+        <item>darrer dijous</item>
+        <item>darrer divendres</item>
+        <item>darrer dissabte</item>
+        <item>darrer diumenge</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sense resposta</item>

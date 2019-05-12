@@ -74,6 +74,7 @@
   <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
   <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
+  <string name="click_soft_ap_to_link">Seleccioneu un punt d\'accés per connectar-se</string>
   <string name="click_to_view">Toqueu per mostrar-ho</string>
   <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
@@ -103,6 +104,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="confirm_exit_link">Surt</string>
   <string name="confirm_exit_link_cancel">"No surtis"</string>
   <string name="confirm_exit_link_msg">"Si sortiu ara de l'aplicació s'interromprà la transferència en curs. Haureu de tornar a establir la connexió entre els dos dispositius. Així i tot voleu sortir de l'aplicació?"</string>
+  <string name="confirm_exit_link_title">Aturant la transferència</string>
   <string name="connect_soft_ap_label">S\'està connectant a un nou dispositiu…</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
   <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
@@ -138,6 +140,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_binder_died">L\'aplicació s\'ha aturat inesperadament.</string>
   <string name="err_filesystem_mount">"No es pot accedir a l'emmagatzamatge de l'encaminador"</string>
   <string name="err_low_storage">No hi ha prou espai</string>
+  <string name="err_no_gms">Versió de l\'aplicació incompatible. Instal·leu aquesta aplicació per separat</string>
   <string name="err_not_allow">No compatible</string>
   <string name="err_pkg_not_exist">"No s'han pogut trobar l'aplicació."</string>
   <string name="err_router_disconnected">"Comproveu la connexió de l'encaminador i torneu-ho a provar."</string>
@@ -274,6 +277,8 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_trans_sending_completed">Les dades s\'han enviat amb èxit</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
   <string name="notif_trans_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar.</string>
+  <string name="old_soft_name">Connecteu-vos mitjançant el codi QR</string>
+  <string name="old_way">També podeu connectar utilitzant un codi QR. Premeu per generar el codi.</string>
   <string name="page_loading">Un moment…</string>
   <string name="password">Contrasenya</string>
   <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
@@ -285,6 +290,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="perm_read_phone_state">"Llegir l'estat del telèfon"</string>
   <string name="perm_read_sms">Llegir SMS</string>
   <string name="perm_storage">Llegir i escriure en emmagatzematge extern</string>
+  <string name="phone_title">Configuració del telèfon</string>
   <string name="platform_chooser_item_android_mi">Telèfon Mi</string>
   <string name="platform_chooser_item_android_others">Altres marques</string>
   <string name="platform_chooser_item_ios">Importa des d\'un dispositiu iOS</string>
@@ -357,6 +363,8 @@ Allibera %s com a mínim. "</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="sms_title">Missatgeria</string>
+  <string name="soft_ap_create_failed">"No s'ha pogut crear el punt d'accés"</string>
+  <string name="soft_ap_creating">S\'està creant el punt d\'accés…</string>
   <string name="software_backup_info">Dades de l\'aplicació</string>
   <string name="start_backup">Còpia de seguretat</string>
   <string name="start_restore">Restaura</string>
@@ -434,6 +442,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_detail_category_wechat_qq">Dades de WeChat i QQ (incloent l\'historial de xat)</string>
   <string name="trans_detail_item_app_data_selected_tip">També hi ha les aplicacions corresponents seleccionades.</string>
+  <string name="trans_detail_item_app_data_skip_data">"No es pot transferir dades d'aplicació"</string>
   <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir.</string>
   <string name="trans_detail_list_footer">Nota: pots escollir transferir aplicacions separadament. Tanmateix, si seleccioneu les dades de l\'aplicació, les aplicacions corresponents també seran transferides.</string>
   <string name="trans_detail_page_tip">Com més elements seleccioneu, més temps durarà la transferència.</string>
@@ -477,6 +486,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_desc_9_method_3_dec">"Grup QQ de Mi Mover: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Informa dels problemes en QQ</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
+  <string name="trans_intro_desc_gms">"Donada l'alta possibilitat de transferències fallides per problemes de compatibilitat, Mi Mover no accepta la transferència de dades que s'han generat amb aplicacions de Google."</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
   <string name="trans_intro_desc_new">"Toqueu «Sóc un destinatari». Es generarà un codi QR."</string>
@@ -484,6 +494,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_desc_old_market">Toqueu «Inicia». Escanejeu el codi QR al telèfon nou, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i toqueu «Envia».</string>
   <string name="trans_intro_desc_private">"El Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Mi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu iOS?</string>
+  <string name="trans_intro_question_10">"%d. No es pot trobar el punt d'accés al dispositiu antic?"</string>
   <string name="trans_intro_question_2">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu Android?</string>
   <string name="trans_intro_question_3">%d. Què he de fer si Mi Mover es queda encallat en un cert pas?</string>
   <string name="trans_intro_question_4">"%d. Per què no puc utilitzar la Wi-Fi durant les transferències?"</string>
@@ -611,6 +622,8 @@ Allibereu espai o transferiu només elements importants."</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
+  <string name="wait_link">"Connecteu el vostre anterior dispositiu a aquest punt d\'accés.
+No sortiu d\'aquesta pàgina fins que s\'estableixi la connexió."</string>
   <string name="waiting">Un moment…</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>

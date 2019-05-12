@@ -6,6 +6,11 @@
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
   <string name="abc_activitychooserview_choose_application">Seleccioneu una aplicació</string>
+  <string name="abc_font_family_body_1_material">sans-serif</string>
+  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+  <string name="abc_font_family_button_material">sans-serif-medium</string>
+  <string name="abc_font_family_caption_material">sans-serif</string>
+  <string name="abc_font_family_display_1_material">sans-serif</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -87,6 +92,8 @@
   <string name="change_response_title">Canvia la resposta</string>
   <string name="check_reminded_text">Comproveu els recordatoris</string>
   <string name="chinese_leap">闰</string>
+  <string name="chips_action_cancel">Cancel·la</string>
+  <string name="chips_action_copy">Copia</string>
   <string name="chongsha">Fantasmes</string>
   <string name="clear_net_mock_success">S\'ha esborrat la xarxa simulada correctament</string>
   <string name="close_alarm">Desactiva</string>
@@ -131,6 +138,7 @@
   <string name="date_jump_hint">Aneu directament a un dia</string>
   <string name="date_jump_title">Vés a la data</string>
   <string name="date_pattern_mm_dd">d-M</string>
+  <string name="date_time_fmt">%s, %s</string>
   <string name="date_today">"(avui)"</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_mode">Recordatoris</string>
@@ -331,6 +339,7 @@
   <string name="month_view">Mes</string>
   <string name="monthly">Mensualment</string>
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
+  <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="new_event_description">Nou</string>
@@ -458,6 +467,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="timezone_label">Fus horari</string>
   <string name="today">Avui</string>
   <string name="today_at_time_fmt">Avui a les %s</string>
+  <string name="today_icon_voice_contentdescription">Torna a avui</string>
   <string name="today_no_events">No hi ha esdeveniments</string>
   <string name="tomorrow">Demà</string>
   <string name="tomorrow_at_time_fmt">Demà a les %s</string>

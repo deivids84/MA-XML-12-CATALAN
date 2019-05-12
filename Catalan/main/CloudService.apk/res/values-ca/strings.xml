@@ -61,6 +61,7 @@
   <string name="ks_update_fail_request_timeout">S\'ha esgotat el temps de la sol·licitud de connexió. Espereu un minut o dos i torneu-ho a provar.</string>
   <string name="ks_update_success">S\'ha actualitzat amb èxit</string>
   <string name="ks_update_wait">Un moment…</string>
+  <string name="last_sync_time_just_now">Ara mateix</string>
   <string name="last_sync_time_yesterday">Ahir</string>
   <string name="license_host_unreachable">"No s'ha pogut connectar a la xarxa. Per veure aquesta informació ara, aneu a %s."</string>
   <string name="loading">Un moment…</string>
@@ -330,6 +331,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_dspt_entrance_provision_network">Aquesta aplicació ha de connectar-se a Internet perquè funcioni normalment. Les dades de sincronització es poden connectar a la xarxa de dades i activar la Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip">Omet aquest pas</string>
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
 "</string>
   <string name="sync_item_calllog_summary">Sincronitzar registres de trucades fetes i rebudes en aquest telèfon</string>
@@ -351,6 +354,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="user_agreement_link">"Els termes de servei del Mi Cloud"</string>
   <string name="user_agreement_title">"Termes de Servei de Mi Cloud"</string>
   <string name="warning_bar_title_master_sync_off">La sincronització automàtica no està activada</string>
+  <string name="warning_bar_title_network_unconnected">"No s'ha pogut connectar a la xarxa"</string>
   <string name="warning_bar_title_sync_off">La sincronització amb Mi Cloud no està activada</string>
   <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
   <string name="wipe_data_dialog_msg">"Alguns elements %s no se sincronitzen. Es desaran al dispositiu i no se suprimiran."</string>

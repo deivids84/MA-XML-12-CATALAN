@@ -83,7 +83,6 @@ Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
   <string name="alert_windows_notification_title">S\'està mostrant %s sobre altres aplicacions</string>
   <string name="alert_windows_notification_turn_off_action">DESACTIVA</string>
   <string name="allow">Permet</string>
-  <string name="allow_button">Permet</string>
   <string name="alwaysUse">Utilitza-ho per defecte per a aquesta acció.</string>
   <string name="android_preparing_apk">S\'està preparant %1$s.</string>
   <string name="android_start_title">S\'està iniciant Android…</string>
@@ -91,7 +90,6 @@ Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
   <string name="android_upgrading_apk">S\'està optimitzant l\'aplicació %1$d de %2$d.</string>
   <string name="android_upgrading_complete">S\'està acabant l\'arrencada.</string>
   <string name="android_upgrading_fstrim">S\'està optimitzant l\'emmagatzematge.</string>
-  <string name="android_upgrading_notification_body">Pot ser que algunes aplicacions no funcionin correctament fins que no es completi l\'actualització</string>
   <string name="android_upgrading_notification_title">S\'està finalitzat l\'actualització d\'Android…</string>
   <string name="android_upgrading_starting_apps">S\'està iniciant les aplicacions.</string>
   <string name="android_upgrading_title">Android s\'està actualitzant…</string>
@@ -133,9 +131,9 @@ Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
   <string name="back_button_label">Enrere</string>
   <string name="badPin">"El codi PIN antic que heu introduït no és correcte."</string>
   <string name="badPuk">"El codi PUK que heu introduït no és correcte."</string>
-  <string name="battery_saver_description">"Per ajudar a ampliar la durada de la bateria, l\'estalvi de bateria redueix el funcionament del dispositiu i limita la vibració, el servei d\'ubicació i la majoria de les dades de fons. El correu electrònic, la missatgeria i les altres aplicacions que utilitzen la sincronització podrien no actualitzar-se fins que les obriu.
+  <string name="battery_saver_description">\"Per ajudar a ampliar la durada de la bateria, l\'estalvi de bateria redueix el funcionament del dispositiu i limita la vibració, el servei d\'ubicació i la majoria de les dades de fons. El correu electrònic, la missatgeria i les altres aplicacions que utilitzen la sincronització podrien no actualitzar-se fins que les obriu.
 
-L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carregant."</string>
+L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carregant.\"</string>
   <string name="beforeOneMonthDurationPast">Abans de fa 1 mes</string>
   <string name="bluetooth_a2dp_audio_route_name">Àudio Bluetooth</string>
   <string name="browse">Navegador</string>
@@ -163,9 +161,6 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="capital_on">ACTIVAT</string>
   <string name="car_mode_disable_notification_message">Toqueu per sortir del mode cotxe.</string>
   <string name="car_mode_disable_notification_title">S\'ha activat el mode cotxe</string>
-  <string name="carrier_app_dialog_button">OBTÉN L\'APLICACIÓ</string>
-  <string name="carrier_app_dialog_message">"Perquè la nova SIM funcioni, heu d'instal·lar i obrir una aplicació del vostre operador de telefonia mòbil."</string>
-  <string name="carrier_app_dialog_not_now">ARA NO</string>
   <string name="carrier_app_notification_text">Toqueu per configurar-la</string>
   <string name="carrier_app_notification_title">S\'ha inserit una SIM nova</string>
   <string name="cfTemplateForwardedTime">{0}: {1} transcorreguts {2} segons</string>
@@ -182,7 +177,7 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
   <string name="conference_call">Trucada de conferència</string>
   <string name="contentServiceSync">Sincronitza</string>
-  <string name="contentServiceSyncNotificationTitle">Sincronitza</string>
+  <string name="contentServiceSyncNotificationTitle">"Sincronitza"</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Massa eliminacions de %s.</string>
   <string name="content_description_sliding_handle">Nansa lliscant. Toqueu i manteniu premut.</string>
   <string name="copy">Copia</string>
@@ -194,17 +189,13 @@ utilitzat %s"</string>
   <string name="data_saver_description">Per reduir l\'ús de dades, la funció estalvi de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estigueu fent servir podrà accedir a dades, però potser ho farà menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toqueu.</string>
   <string name="data_saver_enable_button">Activa</string>
   <string name="data_saver_enable_title">Voleu activar l\'estalvi de dades?</string>
-  <string name="data_usage_3g_limit_snoozed_title">S\'ha excedit el límit de dades 2G-3G</string>
-  <string name="data_usage_3g_limit_title">S\'ha arribat al límit de dades 2G-3G</string>
-  <string name="data_usage_4g_limit_snoozed_title">S\'ha excedit el límit de dades 4G</string>
-  <string name="data_usage_4g_limit_title">S\'ha arribat al límit de dades 4G</string>
   <string name="data_usage_limit_body">Dades aturades per la resta del cicle</string>
-  <string name="data_usage_limit_snoozed_body">Límit superat a %s.</string>
+  <string name="data_usage_limit_snoozed_body">"Límit superat a %s."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límit de dades mòbils superat</string>
   <string name="data_usage_mobile_limit_title">S\'ha arribat al límit de dades mòbils</string>
   <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
-  <string name="data_usage_warning_body">Toqueu per veure l\'ús i la configuració.</string>
+  <string name="data_usage_warning_body">"Toqueu per veure l'ús i la configuració."</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
   <string name="data_usage_wifi_limit_title">S\'ha arribat al límit de dades Wi-Fi</string>
@@ -235,12 +226,7 @@ utilitzat %s"</string>
   <string name="deleted_key">%1$s suprimit</string>
   <string name="demo_restarting_message">S\'està restablint el dispositiu…</string>
   <string name="demo_starting_message">S\'està iniciant la demostració…</string>
-  <string name="demo_user_inactivity_timeout_countdown">Perdreu qualsevol canvi i la demostració tornarà a començar en %1$s segons…</string>
-  <string name="demo_user_inactivity_timeout_left_button">Cancel·la</string>
-  <string name="demo_user_inactivity_timeout_right_button">Restableix ara</string>
-  <string name="demo_user_inactivity_timeout_title">Voleu restablir el dispositiu?</string>
   <string name="deny">Denega</string>
-  <string name="deny_button">Denega</string>
   <string name="description_target_unlock_tablet">Llisqueu per desbloquejar.</string>
   <string name="device_storage_monitor_notification_channel">Emmagatzematge del dispositiu</string>
   <string name="dial">Telèfon</string>
@@ -261,17 +247,6 @@ utilitzat %s"</string>
   <string name="dump_heap_notification_detail">S\'ha creat un informe; premeu per compartir-lo</string>
   <string name="dump_heap_text">El procés %1$s ha superat el seu límit de memòria de %2$s. Hi ha un abocament de pila disponible per a què el compartiu amb el seu creador. Tingueu cura: aquest abocament de pila pot contenir qualsevol informació personal que l\'aplicació hi tingui accés.</string>
   <string name="dump_heap_title">Voleu compartir l\'informe?</string>
-  <string name="durationDayHour">%1$d dia %2$d h</string>
-  <string name="durationDayHours">%1$d dia %2$d h</string>
-  <string name="durationDays">%1$d dies</string>
-  <string name="durationHourMinute">%1$d h %2$d min</string>
-  <string name="durationHourMinutes">%1$d h %2$d min</string>
-  <string name="durationHours">%1$d h</string>
-  <string name="durationMinuteSecond">%1$d min %2$d s</string>
-  <string name="durationMinuteSeconds">%1$d min %2$d s</string>
-  <string name="durationMinutes">%1$d min</string>
-  <string name="durationSecond">%1$d s</string>
-  <string name="durationSeconds">%1$d s</string>
   <string name="editTextMenuTitle">Accions de text</string>
   <string name="email">Correu</string>
   <string name="emailTypeCustom">Personalitzat</string>
@@ -307,7 +282,7 @@ utilitzat %s"</string>
   <string name="ext_media_missing_message">Torneu a inserir aquest dispositiu</string>
   <string name="ext_media_missing_title">%s falta</string>
   <string name="ext_media_move_failure_message">Falten dades a la ubicació original</string>
-  <string name="ext_media_move_failure_title">"No s'ha pogut moure les dades"</string>
+  <string name="ext_media_move_failure_title">No s\'ha pogut moure les dades</string>
   <string name="ext_media_move_specific_title">S\'està movent %s</string>
   <string name="ext_media_move_success_message">Les dades es van moure a %s</string>
   <string name="ext_media_move_success_title">Moviment completat</string>
@@ -330,7 +305,7 @@ utilitzat %s"</string>
   <string name="ext_media_unmount_action">Expulsa</string>
   <string name="ext_media_unmountable_notification_message">%s està malmès. Premeu per reparar-lo.</string>
   <string name="ext_media_unmountable_notification_title">%s està malmès</string>
-  <string name="ext_media_unmounting_notification_message">"No l'extreguis"</string>
+  <string name="ext_media_unmounting_notification_message">No l\'extreguis</string>
   <string name="ext_media_unmounting_notification_title">Encara s\'està extraient %s…</string>
   <string name="ext_media_unsupported_notification_message">Aquest dispositiu no és compatible amb aquest %s. Toqueu per configurar-lo en un format compatible.</string>
   <string name="ext_media_unsupported_notification_title">%s incompatible</string>
@@ -518,7 +493,6 @@ Visiteu \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_reordering_delete_drop_target_text">Elimina</string>
   <string name="kg_sim_pin_instructions">Introduïu el PIN de la SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM…</string>
-  <string name="kg_too_many_failed_attempts_countdown">Torneu-ho a provar en %1$d segons.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Heu introduït una contrasenya incorrecta %1$d vegades. 
 
 Torneu-ho a provar en %2$d segons."</string>
@@ -549,11 +523,8 @@ Per treure la fixació, premeu i mantingueu el botó Inici i el d\'encesa a la v
   <string name="lock_to_app_description_accessible">"La fixació de pantalla bloqueja la pantalla en una vista.
 
 Per treure la fixació, premeu i mantingueu el botó Inici i el d\'encesa a la vegada."</string>
-  <string name="lock_to_app_exit">Pantalla desenganxada</string>
-  <string name="lock_to_app_start">Pantalla fixada</string>
   <string name="lock_to_app_toast">Per desenganxar la pantalla, premeu i mantingueu el botó Inici i el d\'encesa a la vegada.</string>
   <string name="lock_to_app_toast_accessible">Per desenganxar la pantalla, premeu i mantingueu el botó Inici i el d\'encesa a la vegada.</string>
-  <string name="lock_to_app_toast_locked">"S'ha fixat l'aplicació. En aquest dispositiu no es permet desenganxar."</string>
   <string name="lock_to_app_unlock_password">Demana la contrasenya abans de desenganxar</string>
   <string name="lock_to_app_unlock_pattern">Demana el patró de desbloqueig abans de desenganxar</string>
   <string name="lock_to_app_unlock_pin">Demana el PIN abans de desenganxar</string>
@@ -701,8 +672,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_channel_device_admin">Administració del dispositiu</string>
   <string name="notification_channel_emergency_callback">Mode de devolució de trucada d\'emergència</string>
   <string name="notification_channel_foreground_service">Aplicacions que s\'executen en segon pla</string>
-  <string name="notification_channel_hotspot">Notificació del punt d\'accés Wi-Fi</string>
-  <string name="notification_channel_mobile_data_alert">Alertes de dades mòbils</string>
   <string name="notification_channel_network_alert">Alertes</string>
   <string name="notification_channel_network_alerts">Alertes de xarxa</string>
   <string name="notification_channel_network_available">Xarxa disponible</string>
@@ -717,7 +686,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_channel_voice_mail">Missatges de correu de veu</string>
   <string name="notification_channel_vpn">Estat de la VPN</string>
   <string name="notification_channel_wfc">Trucada Wi-Fi</string>
-  <string name="notification_hidden_by_policy_text">Contingut ocult per la política</string>
+  <string name="notification_description">Estat de la trucada de veu</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_listener_binding_label">Detector de notificacions</string>
   <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
@@ -730,7 +699,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="number_picker_increment_scroll_mode">Mantingueu premut %s.</string>
   <string name="ok">D\'acord</string>
   <string name="old_app_action">Torna a %1$s</string>
-  <string name="old_app_description">"No iniciïs l'aplicació nova."</string>
   <string name="older">Anterior</string>
   <string name="oneMonthDurationPast">Fa 1 mes</string>
   <string name="open_permission_deny">"No teniu permís per obrir aquesta pàgina."</string>
@@ -1075,8 +1043,6 @@ per al compte %s"</string>
   <string name="replace">Reemplaça…</string>
   <string name="report">Informa</string>
   <string name="reset">Restableix</string>
-  <string name="reset_retail_demo_mode_text">Premeu per restablir el dispositiu</string>
-  <string name="reset_retail_demo_mode_title">Voleu restablir el dispositiu?</string>
   <string name="restr_pin_confirm_pin">Confirmeu el nou PIN</string>
   <string name="restr_pin_create_pin">Crea un PIN per modificar les restriccions</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN de l\'administrador</string>
@@ -1206,6 +1172,9 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="ssl_ca_cert_noti_managed">Per %s</string>
   <string name="ssl_certificate">Certificat de seguretat</string>
   <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
+  <string name="status_bar_battery">bateria</string>
+  <string name="status_bar_hotspot">punt d\'accés</string>
+  <string name="status_bar_mute">silenci</string>
   <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
   <string name="stk_cc_ss_to_dial_video">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
   <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
@@ -1318,7 +1287,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="vpn_lockdown_connected">VPN sempre activa connectada</string>
   <string name="vpn_lockdown_connecting">S\'està connectant a una VPN sempre activa…</string>
   <string name="vpn_lockdown_disconnected">VPN sempre activa desconnectada</string>
-  <string name="vpn_lockdown_error">Error a la VPN sempre connectada</string>
+  <string name="vpn_lockdown_error">"Error a la VPN sempre connectada"</string>
   <string name="vpn_text">Toqueu per administrar la xarxa.</string>
   <string name="vpn_text_long">Connectat a %s. Toqueu per administrar la xarxa.</string>
   <string name="vpn_title">VPN activada</string>
@@ -1326,7 +1295,6 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="vr_listener_binding_label">Oient VR</string>
   <string name="wait">Espereu</string>
   <string name="wallpaper_binding_label">Fons de pantalla</string>
-  <string name="web_user_agent_target_content">"Mòbil "</string>
   <string name="webpage_unresponsive">"La pàgina no respon.
 
 Voleu tancar-la?"</string>
@@ -1383,7 +1351,6 @@ Voleu tancar-la?"</string>
   <string name="work_mode_off_title">Mode laboral DESACTIVAT</string>
   <string name="work_mode_turn_on">Activa</string>
   <string name="work_profile_deleted">S\'ha suprimit el perfil laboral</string>
-  <string name="work_profile_deleted_description">S\'ha suprimit el perfil laboral perquè no s\'ha detectat cap aplicació d\'administració.</string>
   <string name="work_profile_deleted_description_dpm_wipe">El perfil laboral ja no està disponible en aquest dispositiu.</string>
   <string name="work_profile_deleted_details">L\'aplicació d\'administració del perfil professional està malmesa o no es detecta. Com a conseqüència, el perfil professional i les dades relacionades s\'han suprimit. Contacta amb l\'administrador per obtenir ajuda.</string>
   <string name="write_fail_reason_cancelled">Cancel·lat</string>
