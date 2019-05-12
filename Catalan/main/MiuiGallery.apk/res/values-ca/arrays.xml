@@ -22,15 +22,6 @@
         <item>Amics</item>
         <item>Desconegut</item>
     </string-array>
-    <string-array name="relation_with_me_value">
-        <item>myself</item>
-        <item>child</item>
-        <item>family</item>
-        <item>collegue</item>
-        <item>classmate</item>
-        <item>friend</item>
-        <item>no indicat</item>
-    </string-array>
     <string-array name="sharer_relation_addressive">
         <item>Pare</item>
         <item>Mare</item>

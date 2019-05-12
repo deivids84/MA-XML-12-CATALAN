@@ -331,8 +331,6 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_dspt_entrance_provision_network">Aquesta aplicació ha de connectar-se a Internet perquè funcioni normalment. Les dades de sincronització es poden connectar a la xarxa de dades i activar la Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip">Omet aquest pas</string>
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
 "</string>
   <string name="sync_item_calllog_summary">Sincronitzar registres de trucades fetes i rebudes en aquest telèfon</string>

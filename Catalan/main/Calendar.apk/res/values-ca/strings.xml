@@ -138,7 +138,6 @@
   <string name="date_jump_hint">Aneu directament a un dia</string>
   <string name="date_jump_title">Vés a la data</string>
   <string name="date_pattern_mm_dd">d-M</string>
-  <string name="date_time_fmt">%s, %s</string>
   <string name="date_today">"(avui)"</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_mode">Recordatoris</string>

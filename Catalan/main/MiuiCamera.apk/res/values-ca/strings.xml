@@ -220,7 +220,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesura puntual</string>
   <string name="pref_camera_autoexposure_title">Paràmetres d\'exposició automàtica</string>
   <string name="pref_camera_beautify_entry_auto">Desactivat</string>
-  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
@@ -375,7 +374,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
-  <string name="pref_camera_whitebalance_entryvalue_daylight">llum natural</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>

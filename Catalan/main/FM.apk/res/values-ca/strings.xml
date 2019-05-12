@@ -59,7 +59,6 @@
   <string name="toast_sleep_mode">La ràdio s\'aturarà en %s</string>
   <string name="toast_sleep_mode_exit">S\'ha cancel·lat l\'aturada automàtica</string>
   <string name="turn_off_fm">Desactiva la FM</string>
-  <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Mode d\'espera</string>
   <string name="using_recorder_cancel">Rebutja-ho</string>
   <string name="using_recorder_confirm">Permet-ho</string>
