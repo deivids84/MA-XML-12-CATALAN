@@ -186,7 +186,6 @@
   <string name="resource_alarm_default">Alarma</string>
   <string name="resource_app_name">Mostra els recursos</string>
   <string name="resource_apply">Aplica</string>
-  <string name="resource_apply_trial">Prova-ho ara</string>
   <string name="resource_back">Torna</string>
   <string name="resource_buy">Compra</string>
   <string name="resource_can_not_selected">"No es pot seleccionar %1$s"</string>
@@ -250,7 +249,6 @@
   <string name="resource_download">Baixa</string>
   <string name="resource_download_notification_title_many">%1$s temes baixats</string>
   <string name="resource_download_notification_title_one">Tema baixat</string>
-  <string name="resource_download_trial">Proveu-lo de franc</string>
   <string name="resource_downloaded_title">Recursos baixats</string>
   <string name="resource_downloading">S\'està baixant</string>
   <string name="resource_exchange">Recupera</string>

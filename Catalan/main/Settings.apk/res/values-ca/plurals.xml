@@ -161,10 +161,6 @@
         <item quantity="other">%d agents de confiança actius</item>
         <item quantity="one">1 agent de confiança actiu</item>
     </plurals>
-    <plurals name="master_clear_with_account_summary">
-        <item quantity="other">Es reiniciaran %1$d comptes</item>
-        <item quantity="one">Es reiniciarà un compte</item>
-    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicacions han utilitzat la memòria en els darrers %2$s</item>
         <item quantity="one">Una aplicació ha utilitzat la memòria en els darrers %2$s</item>
@@ -221,10 +217,6 @@
         <item quantity="other">Mostra %d elements ocults</item>
         <item quantity="one">Mostra %d element ocult</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d commutadors apareixeran al panell de notificacions</item>
-        <item quantity="one">%1$d commutador apareixerà al panell de notificacions</item>
-    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Sou a %1$d passos d'entrar al CIT."</item>
         <item quantity="one">"Sou a %1$d pas d'entrar al CIT."</item>
@@ -240,10 +232,6 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">"Sou a %1$d passos d'informar d'un error."</item>
         <item quantity="one">"Sou a %1$d pas d'informar d'un error."</item>
-    </plurals>
-    <plurals name="show_reset_countdown">
-        <item quantity="other">Completeu %1$d passos per realitzar un restabliment de fàbrica</item>
-        <item quantity="one">Completeu %1$d pas per realitzar un restabliment de fàbrica</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d aplicacions poden utilitzar dades no restringides</item>

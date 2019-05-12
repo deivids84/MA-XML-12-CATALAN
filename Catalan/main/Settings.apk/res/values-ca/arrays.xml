@@ -5,6 +5,16 @@
         <item>Xarxa d\'origen</item>
         <item>Totes les xarxes</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Talk to Google Assistant</item>
+        <item>Open Google search</item>
+        <item>Obre la càmera posterior</item>
+        <item>Open front camera</item>
+        <item>Open previous app</item>
+        <item>Turn on flashlight</item>
+        <item>Turn on Reading mode</item>
+        <item>None</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Cada dia</item>
         <item>Entre setmana</item>
@@ -199,10 +209,12 @@
         <item>Gràfic</item>
         <item>Percentatge</item>
         <item>Barra superior</item>
+        <item>Top bar</item>
     </string-array>
     <string-array name="battery_indicator_style_values">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
         <item>2</item>
     </string-array>
     <string-array name="battery_labels">
@@ -300,6 +312,7 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (per defecte)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -332,6 +345,13 @@
         <item>Gran</item>
         <item>Molt gran</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_values">
+        <item>0,25</item>
+        <item>0,5</item>
+        <item>1,0</item>
+        <item>1,5</item>
+        <item>2,0</item>
+    </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Utilitza els valors per defecte de l\'aplicació</item>
         <item>Blanc sobre negre</item>
@@ -356,16 +376,6 @@
         <item>Patró</item>
         <item>PIN</item>
         <item>Contrasenya</item>
-    </string-array>
-    <string-array name="check_importance_entries">
-        <item>Recomanat</item>
-        <item>Important</item>
-        <item>No important</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>MIUI decidirà quines notificacions han d\'aparèixer directament</item>
-        <item>Les notificacions apareixeran al taulell de notificacions</item>
-        <item>Les notificacions apareixeran en una carpeta independent</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
@@ -405,6 +415,16 @@
         <item>Compatibilitat</item>
         <item>Alta velocitat</item>
     </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Automàtic (segons l\'hora del dia)</item>
+        <item>Sempre actiu</item>
+        <item>Sempre inactiu</item>
+    </string-array>
+    <string-array name="dark_ui_mode_values">
+        <item>auto</item>
+        <item>sí</item>
+        <item>no</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>Els darrers 30 dies</item>
         <item>Defineix el cicle d\'ús...</item>
@@ -432,10 +452,6 @@
         <item>Mostra les àrees sobreposades</item>
         <item>Mostra les àrees de deuteranomia</item>
     </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (per defecte)</item>
-        <item>OpenGL (Skia)</item>
-    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
         <item>15 segons</item>
@@ -461,6 +477,12 @@
         <item>Per defecte</item>
         <item>Gran</item>
         <item>Molt gran</item>
+    </string-array>
+    <string-array name="entryvalues_font_size">
+        <item>0,85</item>
+        <item>1,0</item>
+        <item>1,15</item>
+        <item>1,30</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
@@ -977,16 +999,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Excel·lent</item>
         <item>Excel·lent</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_entries">
-        <item>Sempre</item>
-        <item>Només quan és endollat</item>
-        <item>Mai</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Sempre</item>
-        <item>Només quan és endollat</item>
-        <item>Mai</item>
-    </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>Connecta automàticament</item>
         <item>Connecta manualment</item>
@@ -1027,15 +1039,5 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
-    </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>Automàtic (segons l\'hora del dia)</item>
-        <item>Sempre actiu</item>
-        <item>Sempre inactiu</item>
-    </string-array>
-    <string-array name="dark_ui_mode_values">
-        <item>auto</item>
-        <item>sí</item>
-        <item>no</item>
     </string-array>
 </resources>

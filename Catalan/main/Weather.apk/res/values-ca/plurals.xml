@@ -17,10 +17,6 @@
         <item quantity="other">Previsió a %1$s dies vista</item>
         <item quantity="one">Previsió a %1$s dia vista</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s segons després dels comentaris</item>
-        <item quantity="one">%1$s segon després dels comentaris</item>
-    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s gent |</item>
         <item quantity="one">%1$s persona |</item>

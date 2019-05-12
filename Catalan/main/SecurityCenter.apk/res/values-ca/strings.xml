@@ -729,6 +729,7 @@
   <string name="first_aid_card_airplane_summary">Desactiveu el mode d\'avió per poder fer trucades i connectar-vos a la xarxa</string>
   <string name="first_aid_card_airplane_title">"No es poden fer trucades ni connectar-se a la xarxa"</string>
   <string name="first_aid_card_consume_power_summary1">Més de 5 aplicacions s\'inicien elles soles. Limiteu-les per estalviar bateria.</string>
+  <string name="first_aid_card_consume_power_summary2">Apaga el punt d\'accés portàtil per estalviar bateria</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
   <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
@@ -777,6 +778,7 @@
   <string name="gamebooster_main_activity_back">Enrere</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
+  <string name="gamebox_dnd">No molesteu</string>
   <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
   <string name="gamebox_type_close">"No ho mostris"</string>
   <string name="gamebox_type_float">Drecera fixa</string>
@@ -815,7 +817,7 @@
         així com informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació especificat a la nostre <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Política de Privacitat</a>.]]>&lt;/Data&gt;</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="gigabyteShort">GB</string>
-  <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
+  <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. La durada de la bateria es reduirà una mica.</string>
   <string name="gmscore_support_service">Serveis de Google</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
@@ -910,21 +912,6 @@
   <string name="item_system_auto_download">Baixa actualitzacions automàticament</string>
   <string name="item_usb_debug">Depuració USB</string>
   <string name="item_virus_lib">Actualitza automàticament les definicions de virus</string>
-  <string name="keywords_antispam">Llista de bloqueig;Bloqueja;Llista negra;Llista de bloqueig intel·ligent;Frau;Ventes;Agents;Llista de bloqueig de trucades;Llista de bloqueig de missatges;Llista de bloqueig de missatges;Llista de bloqueig d\'SMS;Llista negra;Bloqueig de contactes;Bloqueja contactes</string>
-  <string name="keywords_antivirus">Virus;Risc; Antivirus;Escaneig;Comprovar la seguretat dels pagaments;Seguretat de pagament;Pagament segur;Pagaments segurs;Protecció de pagaments;Protecció de pagaments;Pagaments protegits;Zona segura;Zona de pagament</string>
-  <string name="keywords_app_permissions">Permisos;Ubicació;Contactes d\'accés;Permisos;Permisos de l\'aplicació</string>
-  <string name="keywords_auto_restart">Inici automàtic;Permisos;Inici automàtic; Automàtic;Gestiona l\'inici automàtic;Inici automàtic MIUI;Inici automàtic de l\'aplicació;Inicia automàticament aplicacions;Inici de la cadena,inici encadenat, inici provocat</string>
-  <string name="keywords_buy_flow">dades;dades mòbils;compra dades;compra dades mòbils;recàrrega de dades;pla de dades</string>
-  <string name="keywords_cleanmaster">Brossa;Esborra;Velocitat;Emmagatzematge;Memòria cau;Neteja emmagatzematge;Esborra brossa;brossa;allibera;allibera emmagatzematge;allibera espai;neteja;neteja profunda;netejador</string>
-  <string name="keywords_gamebooster">Joc;accelerador de velocitat;Glòria del rei;Mode rendiment;No molestis;Jocs;Velocitat de joc;augmenta</string>
-  <string name="keywords_networkassistant_1">Dades;Trànsit</string>
-  <string name="keywords_networkassistant_2">Dades;Calibrar</string>
-  <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
-  <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Activa;Desactiva;Bateria;Drenatge;Problemes de bateria; energia</string>
-  <string name="keywords_powercenter_powerrank">Ús de bateria</string>
-  <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
-  <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
-  <string name="keywords_usb_install">Instal·lació USB;instal·lació des de l\'ordinador;instal·lació ADB</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_callwait">Notificació de trucada en espera</string>
@@ -1266,7 +1253,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Augment de velocitat</string>
-  <string name="optimize_result_ads_close_text">Anunci</string>
   <string name="optimize_result_available_memory_info">Memòria disponible</string>
   <string name="optimize_result_button_cloudspace">Afegeix emmagatzematge al núvol</string>
   <string name="optimize_result_button_consume_power_analysis">Analitza la bateria</string>
@@ -1319,21 +1305,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="password_type">Canvia la contrasenya</string>
   <string name="password_type_underline">&lt;u&gt;Canvia la contrasenya&lt;/u&gt;</string>
   <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
-  <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
-  <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
-  <string name="path_app_permissions">Aplicacions del sistema/Seguretat/Permisos/Permisos de l\'aplicació</string>
-  <string name="path_auto_restart">Aplicacions del sistema/Seguretat/Permisos/Gestiona l\'inici automàtic</string>
-  <string name="path_buy_flow">Aplicacions del sistema/Seguretat/Ús de dades/Compra dades mòbils</string>
-  <string name="path_cleanmaster">Aplicacions del sistema/Seguretat/Netejador</string>
-  <string name="path_gamebooster">Aplicacions del sistema/Seguretat/Accelerador de velocitat dels jocs</string>
-  <string name="path_networkassistant_1">Aplicacions del sistema/Seguretat/Ús de dades</string>
-  <string name="path_networkassistant_2">Aplicacions del sistema/Seguretat/Ús de dades</string>
-  <string name="path_networkassistant_4">Aplicacions del sistema/Seguretat/Ús de dades/Prova de xarxa</string>
-  <string name="path_powercenter">Aplicacions del sistema/Seguretat/Ús de bateria</string>
-  <string name="path_powercenter_powerrank">Bateria i rendiment/Ús de bateria</string>
-  <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
-  <string name="path_securitycenter_settings">Aplicacions del sistema/Seguretat</string>
-  <string name="path_usb_install">Aplicacions del sistema/Seguretat/Permisos/Instal·lació a través d\'USB</string>
   <string name="pc_activity_title">Optimitza la bateria</string>
   <string name="pc_install_manager">Instal·lació a través d\'USB</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
@@ -1371,6 +1342,11 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_back">Enrere</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_hints_scan_danger_result">Podeu corregir ara mateix problemes de bateria</string>
+  <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+  <string name="power_center_list_item_battery_status_capacity">mAh</string>
+  <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
@@ -1559,21 +1535,6 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="report_success">Missatge notificat</string>
   <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
   <string name="report_warning_title">Atenció</string>
-  <string name="resource_antispam">Llista de bloqueig</string>
-  <string name="resource_antivirus">Anàlisi de virus</string>
-  <string name="resource_app_permissions">Permisos de l\'aplicació</string>
-  <string name="resource_auto_restart">Gestiona l\'inici automàtic</string>
-  <string name="resource_buy_flow">Compra dades mòbils</string>
-  <string name="resource_cleanmaster">Netejador</string>
-  <string name="resource_gamebooster">Accelerador de velocitat dels jocs</string>
-  <string name="resource_networkassistant_1">Ús de dades</string>
-  <string name="resource_networkassistant_2">Calibrar pla de dades</string>
-  <string name="resource_networkassistant_4">Prova de xarxa</string>
-  <string name="resource_powercenter">Estalvi de bateria</string>
-  <string name="resource_powercenter_powerrank">Bateria i rendiment</string>
-  <string name="resource_securitycenter">Seguretat</string>
-  <string name="resource_securitycenter_settings">Seguretat</string>
-  <string name="resource_usb_install">Instal·lació a través d\'USB</string>
   <string name="result_autoscan_header">Monitorització del Pagament</string>
   <string name="result_autoscan_info">Monitoritzar automàticament l\'entorn del sistema quan s\'inicien les aplicacions de pagament</string>
   <string name="result_sms_header">Riscos detectats a missatgeria</string>
@@ -1766,8 +1727,8 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="st_confirm_dialog_summary_oversea_call">Activeu-lo per bloquejar totes les trucades entrants de números de telèfon estrangers.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
-  <string name="st_filter_keywords_setting_summary2">"
-(Utilitzeu una coma per separar diverses paraules clau)"</string>
+  <string name="st_filter_keywords_setting_summary2">\"
+(Utilitzeu una coma per separar diverses paraules clau)\"</string>
   <string name="st_filter_keywords_setting_summary3">Es permetrà als missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_group_list_management">Gestiona la llista de bloqueig</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
@@ -2184,7 +2145,6 @@ Dades extres en ús"</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
   <string name="user_define_title">Afegeix regles</string>
-  <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Advertència</string>

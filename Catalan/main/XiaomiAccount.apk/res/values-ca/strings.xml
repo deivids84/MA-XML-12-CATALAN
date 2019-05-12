@@ -46,7 +46,6 @@
   <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
   <string name="account_user_other_info">Més fonts</string>
   <string name="account_user_phone">Número de telèfon</string>
-  <string name="account_user_recovery_phone">Telèfon de recuperació</string>
   <string name="account_user_region">Regió</string>
   <string name="account_xiaomi_service">Serveis</string>
   <string name="action_add_phone">Afegeix número de telèfon</string>

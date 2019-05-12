@@ -28,6 +28,5 @@
   <string name="stk_channel_name">Missatges del servei mòbil</string>
   <string name="stk_dialog_accept">SÍ</string>
   <string name="stk_dialog_title">Eines SIM</string>
-  <string name="stk_intent_permission">Es requereixen permisos</string>
   <string name="stk_no_service">No hi ha cap servei disponible</string>
 </resources>
