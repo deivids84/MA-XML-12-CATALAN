@@ -101,6 +101,7 @@
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">La sol·licitud de desbloqueig SP EHPLMN no ha tingut èxit.</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">S\'està sol·licitant el desbloqueig SP EHPLMN…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">El desbloqueig SP EHPLMN ha tingut èxit.</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
   <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>

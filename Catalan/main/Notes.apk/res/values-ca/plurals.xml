@@ -5,6 +5,10 @@
         <item quantity="other">"%1$s no han estat sincronitzades"</item>
         <item quantity="one">"%1$s no ha estat sincronitzada"</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">Queden %d segons</item>
+        <item quantity="one">Queda %d segon</item>
+    </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s carpetes</item>
         <item quantity="one">%1$s carpeta</item>

@@ -29,8 +29,13 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Only in Silent mode</item>
+        <item>Només en mode Silenciós</item>
         <item>Mai</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>en silenci</item>
+        <item>mai</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
@@ -56,10 +61,5 @@
     <string-array name="switch_sdk">
         <item>Missatge Mi</item>
         <item>CMCC SMS intel·ligent</item>
-    </string-array>
-    <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>en silenci</item>
-        <item>mai</item>
     </string-array>
 </resources>

@@ -9,6 +9,7 @@
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
   <string name="abc_capital_off">DESACTIVA</string>
   <string name="abc_capital_on">ACTIVA</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
   <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignora la versió</string>
   <string name="app_self_upgrade_dlg_negative_btn">Més tard</string>

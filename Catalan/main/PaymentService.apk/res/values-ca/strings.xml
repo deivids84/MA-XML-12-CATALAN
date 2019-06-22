@@ -440,7 +440,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_using_other_phone">Utilitza número de telèfon alternatiu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Crea un compte nou utilitzant "</string>
   <string name="passport_reg_using_phone_number_prompt">Crea un compte utilitzant el número de telèfon</string>
-  <string name="passport_reg_via_sms_alert">És possible que es requereixi un SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
+  <string name="passport_reg_via_sms_alert">Per activar aquest servei segurament cal enviar un missatge SMS. L\'operadora aplicarà la tarifa contractada.</string>
   <string name="passport_reging">S\'està creant el compte&#8230;</string>
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>

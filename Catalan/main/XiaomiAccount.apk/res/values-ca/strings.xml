@@ -58,7 +58,6 @@
   <string name="authorize_title">Autorització</string>
   <string name="bind_facebook">Vinculeu el vostre compte de Facebook</string>
   <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar sessió la propera vegada al Compte Mi.</string>
-  <string name="bind_settings">Comptes</string>
   <string name="bind_sina_weibo">Vincula amb el compte Sina Weibo</string>
   <string name="bind_sns_description">Inicieu sessió amb %s</string>
   <string name="bind_weibo_description">Afegiu els vostres amics de Sina Weibo</string>

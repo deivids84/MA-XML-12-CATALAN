@@ -1093,12 +1093,7 @@ per personalitzar la galeria"</string>
   <string name="video_editor_analyzing">S\'està analitzant el vídeo&#8230;</string>
   <string name="video_editor_audio">Àudio</string>
   <string name="video_editor_audio_custom">Selecciona</string>
-  <string name="video_editor_audio_dynamic">Tecno</string>
-  <string name="video_editor_audio_love">Romàntic</string>
-  <string name="video_editor_audio_memory">Memòria</string>
   <string name="video_editor_audio_none">Cap</string>
-  <string name="video_editor_audio_sad">Balada</string>
-  <string name="video_editor_audio_young">Ukelele</string>
   <string name="video_editor_auto_trim">Retalla automàticament</string>
   <string name="video_editor_auto_trim_tip">S\'està retallant&#8230;</string>
   <string name="video_editor_cancel">Cancel·la</string>

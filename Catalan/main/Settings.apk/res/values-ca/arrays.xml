@@ -430,12 +430,12 @@
         <item>Defineix el cicle d\'ús...</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Avui (dades)</item>
-        <item>Aquest mes (dades)</item>
-        <item>Darrer mes (dades)</item>
-        <item>Wi-Fi d\'avui</item>
-        <item>Wi-Fi d\'aquest mes</item>
-        <item>Wi-Fi del darrer mes</item>
+        <item>"Avui (dades)"</item>
+        <item>"Aquest mes (dades)"</item>
+        <item>"Darrer mes (dades)"</item>
+        <item>"Wi-Fi d'avui"</item>
+        <item>"Wi-Fi d'aquest mes"</item>
+        <item>"Wi-Fi del darrer mes"</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Avui "</item>
@@ -832,7 +832,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Extrem</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Mobile usage "</item>
+        <item>"Mobile data usage "</item>
         <item>"Ús de Wi-Fi "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">

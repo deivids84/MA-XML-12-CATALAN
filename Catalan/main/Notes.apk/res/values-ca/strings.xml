@@ -113,7 +113,7 @@
   <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
   <string name="permission_intro_microphone">Per enregistrar notes de veu</string>
   <string name="permlab_accessNote">Notes d\'accés</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">"No demanis confirmació en eliminar una nota de manera gestual"</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">No demanis confirmació en eliminar una nota de manera gestual</string>
   <string name="pref_title_cloud_trash_bin">Elimina notes al Mi Cloud</string>
   <string name="pref_title_common">Configuració addicional</string>
   <string name="pref_title_font_size">Mida de la font</string>
