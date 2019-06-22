@@ -275,6 +275,7 @@ Total: %3$s iuans"</string>
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: restaureu-lo</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: restaureu-lo</string>
   <string name="smart_antispam">Identitat de trucada</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="toast_finish_delete_call_log">S\'ha eliminat el registre de trucades</string>
   <string name="toast_text_copied">S\'ha copiat el text</string>
   <string name="try_again">Torna-ho a provar</string>

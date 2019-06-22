@@ -240,12 +240,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="animator_duration_scale_title">Durada de l\'animació</string>
   <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
   <string name="anti_spam">Llista de bloqueig</string>
-  <string name="aod_mode_summary">Amb la pantalla apagada mostra sempre l\'hora, data i missatges.</string>
-  <string name="aod_mode_time_summary">Programeu l\'hora quan el dispositiu hauria de canviar al mode Sempre actiu</string>
-  <string name="aod_mode_time_title">Programació</string>
-  <string name="aod_mode_title">Sempre engegat</string>
-  <string name="aod_mode_turn_off">Desactivat</string>
-  <string name="aod_mode_turn_on">Activat</string>
   <string name="apn_auth_type">Tipus d\'autenticació</string>
   <string name="apn_auth_type_none">Cap</string>
   <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
@@ -572,6 +566,7 @@ Darrera execució el %2$s"</string>
   <string name="battery_stats_duration">%1$s des de que s\'ha desendollat</string>
   <string name="battery_stats_flashlight_on_label">Flaix engegat</string>
   <string name="battery_stats_gps_on_label">S\'ha activat el GPS</string>
+  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">Bateria per %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de la xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla engegada</string>
@@ -1839,10 +1834,6 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="force_stop">Força el tancament</string>
   <string name="force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="force_stop_dlg_title">Voleu forçar el tancament?</string>
-  <string name="force_touch">Tàctil 3D</string>
-  <string name="force_touch_demo">Demostració</string>
-  <string name="force_touch_enable">Habilita el 3D tàctil</string>
-  <string name="force_touch_enable_tips">Per a visualitzar el menú de dreceres de les aplicacions amb el tàctil 3D habilitat, mantingueu la icona de l\'aplicació pitjada.</string>
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget">Oblida-la</string>
   <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
@@ -2149,6 +2140,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="layout_size_medium_text">Mitjana</string>
   <string name="layout_size_normal_text">Petita</string>
   <string name="layout_size_small_text">Extra petita</string>
+  <string name="learn_more">Més informació</string>
   <string name="led_colors_summary">Notificacions</string>
   <string name="led_frequence_summary">Definició del temps de parpelleig del LED</string>
   <string name="led_pulse_summary">Parpelleig del LED quan es rep una nova notificació</string>
@@ -2537,6 +2529,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
+  <string name="miui_more_special_feature">Explora noves característiques</string>
   <string name="miui_sos_audio_summary">Reprodueix el missatge de SOS després que el contacte d\'emergència despengi</string>
   <string name="miui_sos_audio_title">Missatge de veu de SOS</string>
   <string name="miui_sos_call_log_duration">Durada</string>
@@ -2583,6 +2576,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_sos_settings_category">Configuració de SOS</string>
   <string name="miui_sos_statusbar_summary">Premeu per tancar</string>
   <string name="miui_sos_statusbar_title">El SOS d\'emergència està activat</string>
+  <string name="miui_special_feature">Característiques especials</string>
   <string name="miui_touch_filtered_warning">Si una aplicació bloca un diàleg de permisos, activeu l\'element que col·lideix o tanqueu l\'aplicació.</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
@@ -3010,6 +3004,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="permit_write_settings">Permet modificar la configuració del sistema</string>
   <string name="person_hotpot">Punts d\'accés mòbils</string>
   <string name="personal_data_section_title">Dades personals</string>
+  <string name="personal_section_title">Personalització</string>
   <string name="phone_call_noise_suppression">Supressió de fressa durant la trucada</string>
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
@@ -3046,6 +3041,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Administra l\'ús de bateria de les aplicacions</string>
   <string name="power_idle">Telèfon inactiu</string>
+  <string name="power_key_start_enjoy">Més informació sobre Google Assistant</string>
   <string name="power_mgr">Bateria</string>
   <string name="power_mode">Configuració d\'Energia</string>
   <string name="power_mode_balanced_title">Activa el mode Equilibrat</string>
@@ -5431,6 +5427,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_option_no_interruptions">Silenci total</string>
   <string name="zen_mode_phone_calls">Trucades</string>
   <string name="zen_mode_reminders">Recordatoris</string>
+  <string name="zen_mode_reminders_title">Permet els recordatoris</string>
   <string name="zen_mode_repeat_callers">Trucades repetides</string>
   <string name="zen_mode_repeat_callers_summary">Permet la trucada si la mateixa persona truca per segon cop dins d\'un període de %d minuts</string>
   <string name="zen_mode_rule_delete_button">Suprimeix</string>

@@ -142,7 +142,7 @@
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
   <string name="app_manager_app_update">Actualitzacions</string>
-  <string name="app_manager_app_version_name">Versió: </string>
+  <string name="app_manager_app_version_name">"Versió: "</string>
   <string name="app_manager_appupdate_remind">Notifica sobre actualitzacions</string>
   <string name="app_manager_as_dlg_msg">En permetre que les aplicacions s\'iniciïn automàticament poden requerir recursos addicionals de memòria RAM i bateria. Voleu permetre-ho de totes maneres?</string>
   <string name="app_manager_as_dlg_title">Atenció</string>
@@ -732,6 +732,7 @@
   <string name="first_aid_card_consume_power_summary2">Apaga el punt d\'accés portàtil per estalviar bateria</string>
   <string name="first_aid_card_consume_power_title">Consum de bateria</string>
   <string name="first_aid_item4_content">Bateria</string>
+  <string name="first_aid_result_feedback_button">Envia</string>
   <string name="first_aid_result_summary_normal">Tot sembla correcte!</string>
   <string name="first_aid_scanning_item4">Cercant problemes de bateria…</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
@@ -788,6 +789,7 @@
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Prova l\'encaminador</string>
   <string name="gb_ad_game_size">MB</string>
+  <string name="gb_advance_settings_edge_suppression_summary">Redueix la sensibilitat tàctil prop de les vores per evitar que els controls s\'activin accidentalment. Manteniu el vostre dispositiu en les àrees ressaltades per no tapar els altaveus.</string>
   <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Contesta</string>
   <string name="gb_description_image_button_reject">Declina</string>
@@ -1310,6 +1312,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
   <string name="percent_text_formatted">%s%%</string>
+  <string name="perfermance_optimization_summary">Evita problemes de sobreescalfament i relatius al maquinari</string>
   <string name="permission_action_accept">D\'acord</string>
   <string name="permission_action_prompt">Avisa\'m</string>
   <string name="permission_action_reject">Denegar</string>
@@ -1342,6 +1345,11 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="power_center_back">Enrere</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_hints_scan_danger_result">Podeu corregir ara mateix problemes de bateria</string>
+  <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+  <string name="power_center_list_item_battery_status_capacity">mAh</string>
+  <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
@@ -1950,6 +1958,7 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="thermal_tips_message">Jugar a jocs en mode de rendiment pot provocar problemes de sobreescalfament.</string>
   <string name="thermal_tips_title">Atenció</string>
   <string name="third_application">Aplicacions instal·lades</string>
+  <string name="third_desktop_dialog_content">Per evitar que el llançador d\'aplicacions de tercers provoqui consum de dades, descàrrega més ràpida de la bateria, alentiment del dispositiu,... Només les revisades per MIUI es poden configurar com a predeterminades.</string>
   <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
