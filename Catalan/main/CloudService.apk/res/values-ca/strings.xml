@@ -38,7 +38,6 @@
   <string name="find_device_error_network">Comproveu la connexió de dades i torneu a provar.</string>
   <string name="find_device_error_server">Alguna cosa va fallar en els nostres servidors.</string>
   <string name="find_device_gdpr_prompt">En activar Cerca el dispositiu, accepteu la nostra Política de privadesa. Si heu de revocar l\'autorització de privacitat, desactiveu aquesta característica.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">Política de privadesa</string>
   <string name="find_device_operation_failure_rpc">"No s'ha pogut realitzar l'operació a causa de l'error RPC."</string>
   <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
   <string name="find_device_service_title">Troba el dispositiu</string>
@@ -148,7 +147,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut activar troba el dispositiu"</string>
   <string name="micloud_find_device_opened">Troba el dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el vostre dispositiu a %s</string>
-  <string name="micloud_find_device_sms_alert">És possible que es requereixi un SMS sortint per activar aquest servei. El vostre operador us cobrarà per aquest missatge. Quan canvieu la targeta SIM, es pot enviar un missatge automàticament per reactivar aquesta funció.</string>
+  <string name="micloud_find_device_sms_alert">Per activar aquest servei segurament cal enviar un missatge SMS. L\'operadora aplicarà la tarifa contractada. Quan canvieu la targeta SIM, podria ser que per reactivar aquesta funció s\'enviés un missatge automàticament.</string>
   <string name="micloud_find_device_verify_button">Reactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_close">Desactiva troba el dispositiu</string>
   <string name="micloud_find_device_verify_fail">"No es pot reactivar troba el dispositiu"</string>
@@ -331,6 +330,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_dspt_entrance_provision_network">Aquesta aplicació ha de connectar-se a Internet perquè funcioni normalment. Les dades de sincronització es poden connectar a la xarxa de dades i activar la Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip">Omet aquest pas</string>
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
 "</string>
   <string name="sync_item_calllog_summary">Sincronitzar registres de trucades fetes i rebudes en aquest telèfon</string>

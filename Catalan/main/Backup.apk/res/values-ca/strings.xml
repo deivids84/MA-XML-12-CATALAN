@@ -122,6 +122,16 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="delete_backup_title">Suprimeix la còpia de seguretat</string>
   <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
+  <string name="dialog_app_upgrade_download">Actualitza</string>
+  <string name="dialog_app_upgrade_exit">Surt</string>
+  <string name="dialog_app_upgrade_message">Hi ha una nova versió de Mi Mover. Voleu actualitzar-la ara?</string>
+  <string name="dialog_backup_password_auto_backup_tips">"No es poden fer còpies de seguretat automàtiques si cal una contrasenya per fer-les. Desactiveu primer la contrasenya de copia de seguretat."</string>
+  <string name="dialog_backup_password_backup_tips">"No es pot fer la còpia de seguretat amb la contrasenya de còpia activada. Apagui la contrasenya de recuperació."</string>
+  <string name="dialog_backup_password_cancel">Cancel·la</string>
+  <string name="dialog_backup_password_change_device_restore_tips">"No es pot utilitzar Mi Mover amb contrasenya de còpia activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
+  <string name="dialog_backup_password_change_machine_tips">"No podràs transferir les còpies de seguretat protegides per contrasenya. Treu la contrasenya de còpia abans d'utilitzar Mi Mover."</string>
+  <string name="dialog_backup_password_restore_tips">"No es poden recuperar elements si hi ha una contrasenya de la còpia de seguretat. Primer desactiveu la contrasenya de còpia de seguretat."</string>
+  <string name="dialog_backup_password_to_settings">Configuració</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Sense encriptar</string>
   <string name="disable_encrypt_title">Desactiva l\'encriptatge</string>
@@ -159,6 +169,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="feature_title_call_log">Historial de trucades</string>
   <string name="feature_title_contacts">Contactes</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_mms_setting">Configuració de missatgeria</string>
   <string name="feature_title_sms">Missatges</string>
   <string name="file_uploading">S\'està pujant…</string>
   <string name="files_backup_info">Tots els fitxers de la targeta SD (incloent fotos, cançons, vídeos, dades d\'aplicacions, etc.)</string>
@@ -172,6 +183,7 @@ Assegureu-vos que la memòria USB té prou capacitat abans de començar."</strin
   <string name="flash_drive_restore_btn">Restaura des de la memòria USB</string>
   <string name="flash_drive_search_backup_files">"S\'està cercant la còpia de seguretat USB…
 No canvieu el nom dels fitxers de còpia de seguretat."</string>
+  <string name="gallery_summary">Configuració de la galeria (no inclou les fotos)</string>
   <string name="guarded_mode_dialog_backup_message">"Les còpies de seguretat no estan permeses al mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Estàs al mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"No es pot utilitzar Mi Mover al mode de Convidat."</string>
@@ -194,6 +206,7 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="hsa_verify_failed_message">Ha fallat l\'autenticació de dos factors. Podeu tornar-ho a intentar o desactivar l\'autenticació de dos factors.</string>
   <string name="hsa_verify_retry">Torneu-ho a provar</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
+  <string name="iCloud_ID_verification_tip">"Introduïu el codi de verificació enviat per SMS al número de telèfon associat a la vostra Apple ID. Ignoreu el codi desplegable que es mostra a la pantalla del vostre iPhone."</string>
   <string name="icloud_backup_tip">Inicieu sessió al compte d\'iCloud del vostre antic dispositiu iOS</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Obriu Configuració al dispositiu iOS i seleccioneu iCloud.
 2. Canvia els commutadors de contactes i altres elements.
@@ -421,6 +434,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_cancel_selection_message">Si sortiu de Mi Mover, la transferència en curs s\'interromprà. Espereu fins que finalitzi la transferència.</string>
   <string name="trans_cancel_selection_title">Roman al Mi Mover</string>
   <string name="trans_cancelling">S\'està cancel·lant…</string>
+  <string name="trans_complete_restoring">S\'ha transferit correctament. S\'estan restaurant dades d\'aplicació…</string>
   <string name="trans_connect_failed_device_incompatible">"El dispositiu no és compatible. Cancel·la la transferència i torna-ho a provar."</string>
   <string name="trans_connect_failed_message">"No s'ha pogut connectar, torneu-ho a provar o reinicieu el dispositiu. A l'altre dispositiu, aneu a Configuració &gt; Configuració addicional &gt; Mi Mover, toqueu [Sóc un emissor], o bé torneu a executar Mi Mover després de reiniciar-lo."</string>
   <string name="trans_connect_failed_title">"No s'ha pogut connectar"</string>
@@ -616,6 +630,7 @@ Allibereu espai o feu diverses transferències més petites."</string>
   <string name="usb_trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="usb_trans_select_data_no_space">"Només resten %s a la vostra unitat USB.
 Allibereu espai o transferiu només elements importants."</string>
+  <string name="user_feedback">Comentaris</string>
   <string name="user_name">ID d\'Apple o correu</string>
   <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>

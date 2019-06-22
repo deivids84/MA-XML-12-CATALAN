@@ -52,28 +52,6 @@
         <item>Més antic</item>
         <item>Llista de converses</item>
     </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Adreça:</item>
-        <item>Tel:</item>
-        <item>Nom:</item>
-        <item>Correu electrònic:</item>
-        <item>Mòbil:</item>
-        <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Codi postal:</item>
-    </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Gràcies,</item>
-        <item>Atentament</item>
-        <item>Enviat des del meu</item>
-        <item>Correu original</item>
-        <item>Enviat des del meu</item>
-        <item>Enviat des de</item>
-        <item>Des de</item>
-        <item>Aquest email</item>
-        <item>Renúncia</item>
-        <item>Renúncia email</item>
-    </string-array>
     <string-array name="signature_normal_string_array">
         <item>Bloc:</item>
         <item>Lloc:</item>
@@ -91,6 +69,16 @@
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adreça:</item>
+        <item>Tel:</item>
+        <item>Nom:</item>
+        <item>Correu electrònic:</item>
+        <item>Mòbil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Codi postal:</item>
+    </string-array>
     <string-array name="signature_special_string_array">
         <item>Renúncia:</item>
         <item>Avís legal de correu electrònic</item>
@@ -99,5 +87,17 @@
         <item>Enviat amb</item>
         <item>Gràcies,</item>
         <item>Atentament</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Gràcies,</item>
+        <item>Atentament</item>
+        <item>Enviat des del meu</item>
+        <item>Correu original</item>
+        <item>Enviat des del meu</item>
+        <item>Enviat des de</item>
+        <item>Des de</item>
+        <item>Aquest email</item>
+        <item>Renúncia</item>
+        <item>Renúncia email</item>
     </string-array>
 </resources>

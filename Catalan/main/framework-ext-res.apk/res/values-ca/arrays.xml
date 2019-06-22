@@ -20,6 +20,7 @@
         <item>com.bbm</item>
         <item>jp.naver.line.android</item>
         <item>com.bsb.hike</item>
+        <item>com.hike.chat.stickers</item>
         <item>org.telegram.messenger</item>
         <item>com.viber.voip</item>
         <item>com.vkontakte.android</item>
@@ -64,10 +65,10 @@
         <item>com.xiaomi.smarthome</item>
         <item>com.kiteguard</item>
         <item>com.xiaomi.discover</item>
-        <item>com.orange.phone</item>
         <item>com.Taobao.Taobao</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.Miui.Hybrid.Accessory</item>
+        <item>com.miui.systemAdSolution</item>
         <item>com.miui.hybrid.accessory</item>
     </string-array>
     <string-array name="keyguard_whitelist">
@@ -83,6 +84,7 @@
         <item>com.bbm</item>
         <item>jp.naver.line.android</item>
         <item>com.bsb.hike</item>
+        <item>com.hike.chat.stickers</item>
         <item>org.telegram.messenger</item>
         <item>com.viber.voip</item>
         <item>com.vkontakte.android</item>
@@ -120,11 +122,11 @@
         <item>com.kiteguard</item>
         <item>com.xiaomi.discover</item>
         <item>com.orange.phone</item>
-        <item>com.android.stk</item>
         <item>com.xiaomi.mipicks</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.techown.Emm</item>
         <item>com.Miui.Hybrid.Accessory</item>
+        <item>com.techown.emm</item>
         <item>com.miui.hybrid.accessory</item>
     </string-array>
     <string-array name="screen_key_long_press_default_action">

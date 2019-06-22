@@ -327,8 +327,6 @@
   <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="notification_summary_after_auto_cleanup">%s netejats.</string>
-  <string name="notification_summary_of_garbage_cleanup">Toqueu per alliberar espai.</string>
-  <string name="notification_title_of_garbage_cleanup">%s de fitxers brossa</string>
   <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
   <string name="ok">D\'acord</string>
   <string name="one_tap_clean_GB">%sG</string>
@@ -358,7 +356,7 @@
   <string name="pref_content_cleanup_white_list_none">Cap</string>
   <string name="pref_summary_auto_clean_and_alert">Programa el netejador perquè s\'executi automàticament</string>
   <string name="pref_summary_auto_update_cleanup_db">Darrera actualització: %s</string>
-  <string name="pref_summary_cleanup_white_list">Eviteu que es netegin les aplicacions seleccionades</string>
+  <string name="pref_summary_cleanup_white_list">Eviteu que les aplicacions seleccionades siguin netejades</string>
   <string name="pref_summary_expand_cache_group">Mostra els detalls de memòria cau automàticament</string>
   <string name="pref_summary_garbage_auto_clean_content">Trieu quins elements es netejaran automàticament</string>
   <string name="pref_summary_garbage_cleanup_check_size">Neteja automàtica quan la paperera arribi a una certa mida</string>

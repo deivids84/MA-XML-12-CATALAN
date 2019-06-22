@@ -12,6 +12,8 @@
   <string name="auth_notif_title">Clau de sessió</string>
   <string name="avrcp_cover_art_default_image_type">imatge</string>
   <string name="avrcp_cover_art_default_mimetype">JPEG</string>
+  <string name="avrcp_notification_name">Característica avançada BT AVRCP</string>
+  <string name="bluetooth_advanced_feat_description">Característiques avançades Bluetooth de navegació</string>
   <string name="bluetooth_connected">Àudio Bluetooth connectat</string>
   <string name="bluetooth_disconnected">Àudio Bluetooth desconnectat</string>
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
@@ -22,6 +24,9 @@
   <string name="bluetooth_map_settings_save">Desa</string>
   <string name="bluetooth_map_settings_title">Configuració per compartir missatges mitjançant el Bluetooth</string>
   <string name="bluetooth_opp_file_limit_exceeded">No es poden transferir arxius més grans dels 4GB</string>
+  <string name="bluetooth_rc_feat_content">L\'emparellat suporta característiques avançades</string>
+  <string name="bluetooth_rc_feat_subtext">Emparelli de nou per activar-lo</string>
+  <string name="bluetooth_rc_feat_title">Navegació de mitjans de Bluetooth</string>
   <string name="bluetooth_sap_notif_disconnect_button">Desconnecta</string>
   <string name="bluetooth_sap_notif_disconnecting">S\'està esperant que el client es desconnecti</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Força la desconnexió</string>
@@ -108,6 +113,7 @@
   <string name="permlab_bluetoothWhitelist">Accés a la llista blanca de dispositius Bluetooth.</string>
   <string name="permlab_handoverStatus">Rep transmissions BT.</string>
   <string name="start_server">Inicia el servidor TCP</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_canceled">L\'usuari ha cancel·lat la transferència.</string>
   <string name="status_connection_error">Connexió incorrecta.</string>
   <string name="status_file_error">Error d\'emmagatzematge.</string>

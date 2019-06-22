@@ -37,6 +37,10 @@
         <item>Només aquest esdeveniment</item>
         <item>Tots els esdeveniments de la sèrie</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Només aquest cop</item>
+        <item>Desactiva la repetició del recordatori</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Cap endavant</item>
         <item>Cap endarrere</item>
@@ -55,8 +59,9 @@
     <string-array name="default_reminder_later_time_labels">
         <item>5 minuts</item>
         <item>10 minuts</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
+        <item>1 hora</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Només aquest esdeveniment</item>
@@ -99,20 +104,41 @@
         <item>5</item>
         <item>Ligue 1</item>
     </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Només aquest cop</item>
+        <item>Estableix la repetició del recordatori</item>
+    </string-array>
     <string-array name="pisces_info">
         <item>peixos</item>
         <item>Peixos</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Off</item>
+        <item>En qualsevol cas</item>
+        <item>Pels esdeveniments més rellevants</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Només quan el timbre està silenciat</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>cap</item>
+        <item>tots</item>
+        <item>smart</item>
+    </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>sempre</item>
         <item>en silenci</item>
         <item>mai</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_later_time_values">
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Regió per defecte</item>
@@ -213,14 +239,14 @@
         <item>primer dissabte</item>
         <item>primer diumenge</item>
         <item>segon dilluns</item>
-        <item>second Tuesday</item>
-        <item>second Wednesday</item>
-        <item>second Thursday</item>
-        <item>second Friday</item>
-        <item>second Saturday</item>
-        <item>second Sunday</item>
-        <item>third Monday</item>
-        <item>third Tuesday</item>
+        <item>segon dimarts</item>
+        <item>segon dimecres</item>
+        <item>segon dijous</item>
+        <item>segon divendres</item>
+        <item>segon dissabte</item>
+        <item>segon diumenge</item>
+        <item>tercer dilluns</item>
+        <item>tercer dimarts</item>
         <item>tercer dimecres</item>
         <item>tercer dijous</item>
         <item>tercer divendres</item>
