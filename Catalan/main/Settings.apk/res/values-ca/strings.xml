@@ -1897,7 +1897,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gesture_preference_title">Gestos</string>
   <string name="gesture_setting_off">Desactivats</string>
   <string name="gesture_setting_on">Activats</string>
-  <string name="gesture_wakeup_title">Doble toc a la pantalla per a activar-la</string>
   <string name="getConfiguredNetworks">xarxes configurades</string>
   <string name="getConnectionInfo">informació de la connexió</string>
   <string name="global_change_warning">Aquesta configuració afecta tots els usuaris del telèfon.</string>
