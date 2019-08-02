@@ -33,8 +33,6 @@
   <string name="action_bar_return">Retorna</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="ad_card_connecting">Connexió</string>
-  <string name="ad_card_download_count">%1$s baixades personals</string>
-  <string name="ad_card_download_count_million">%1$s milions de baixades</string>
   <string name="ad_card_downloading">S\'està baixant</string>
   <string name="ad_card_install">Instal·la ara</string>
   <string name="ad_card_installed">Instal·lat</string>
@@ -347,8 +345,6 @@
   <string name="month_view">Mes</string>
   <string name="monthly">Mensualment</string>
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
-  <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
-  <string name="more_string">+%1$s</string>
   <string name="movie_event_delete_successfully">S\'ha esborrat correctament l\'entrada de cinema</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="new_event_description">Nou</string>
