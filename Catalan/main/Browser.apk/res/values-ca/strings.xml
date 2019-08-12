@@ -10,18 +10,10 @@
   <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
   <string name="abc_capital_off">DESACTIVAT</string>
   <string name="abc_capital_on">ACTIVAT</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
   <string name="abc_font_family_button_material">sans-serif-medium</string>
   <string name="abc_font_family_caption_material">sans-serif</string>
   <string name="abc_font_family_display_1_material">sans-serif</string>
   <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -668,8 +660,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restableix la %s1 configuració de l\'APN %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Comproveu la %s1 configuració del servidor intermediari %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache">Esborra la memòria cau (%s1Configuració%s2 - Esborra les dades).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Esborra memòria cau i galetes (%s1Configuració%s2 - Esborra dades, la informació del vostre compte es podria perdre).</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Contacteu amb el vostre administrador del sistema.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">"Comproveu l'adreça que heu introduït i proveu a utilitzar la URL correcta."</string>
