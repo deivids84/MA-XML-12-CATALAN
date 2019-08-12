@@ -206,7 +206,7 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="hsa_verify_failed_message">Ha fallat l\'autenticació de dos factors. Podeu tornar-ho a intentar o desactivar l\'autenticació de dos factors.</string>
   <string name="hsa_verify_retry">Torneu-ho a provar</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
-  <string name="iCloud_ID_verification_tip">"Introduïu el codi de verificació enviat per SMS al número de telèfon associat a la vostra Apple ID. Ignoreu el codi desplegable que es mostra a la pantalla del vostre iPhone."</string>
+  <string name="iCloud_ID_verification_tip">Introduïu el codi de verificació enviat per SMS al número de telèfon associat a la vostra Apple ID. Ignoreu el codi desplegable que es mostra a la pantalla del vostre iPhone.</string>
   <string name="icloud_backup_tip">Inicieu sessió al compte d\'iCloud del vostre antic dispositiu iOS</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Obriu Configuració al dispositiu iOS i seleccioneu iCloud.
 2. Canvia els commutadors de contactes i altres elements.
