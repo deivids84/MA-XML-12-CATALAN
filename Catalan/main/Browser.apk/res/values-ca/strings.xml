@@ -706,7 +706,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="navigate_feedback_dislike_tips">Reduirà les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
   <string name="navigate_feedback_report">comunicació</string>
-  <string name="navigate_feedback_report_input_length">%1$d/100</string>
   <string name="navigate_feedback_report_input_tips">Deixeu la vostra pregunta i ens en ocuparem tan aviat com puguem</string>
   <string name="navigate_feedback_report_success">Comunicació correcta</string>
   <string name="navigate_feedback_report_title">Motius de la comunicació</string>
@@ -1036,7 +1035,6 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="ssl_untrusted">"El certificat no és d'una autoritat de confiança."</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_close">Tanca</string>
   <string name="storage_internal">Emmagatzematge intern</string>
   <string name="storage_open">Obre</string>
