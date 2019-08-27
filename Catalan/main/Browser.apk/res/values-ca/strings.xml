@@ -203,7 +203,7 @@
   <string name="close_all_tab_alert_message">Voleu tancar totes les pestanyes obertes al navegador?</string>
   <string name="close_all_tab_alert_title">Tanca totes les pestanyes</string>
   <string name="close_cloud_tab_tip">Voleu tancar les pestanyes al núvol de %s?</string>
-  <string name="cloud_loading_tips">Llisqueu cap avall per sincronitzar</string>
+  <string name="cloud_loading_tips">Llisqueu avall per sincronitzar</string>
   <string name="cloud_no_new_data_toast">Tot està actualitzat</string>
   <string name="cloud_sync_closed_toast">"No es pot actualitzar perquè la sincronització està desactivada"</string>
   <string name="cloud_sync_failed_toast">"No s'ha pogut actualitzar"</string>
@@ -357,7 +357,7 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
   <string name="enable_geolocation_confirm_message">Si desactiveu els serveis d’ubicació, afectarà les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Accediu al mode de desenvolupador</string>
   <string name="enter_incongnito_mode">Accediu al mode d’incògnit</string>
-  <string name="enter_infoflow_guide">Llisqueu cap amunt per veure les notícies</string>
+  <string name="enter_infoflow_guide">Llisqueu amunt per veure les notícies</string>
   <string name="enter_the_group_name">Introduïu el nom del grup</string>
   <string name="enter_the_password">Introduïu la contrasenya</string>
   <string name="enter_the_user_name">Introduïu el nom d\'usuari</string>
@@ -436,7 +436,7 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
   <string name="keep_queued_download">Manté</string>
   <string name="load_error_tip">Error de càrrega, cliqueu per tornar-ho a provar</string>
   <string name="loading_dialog_title">S\'està movent…</string>
-  <string name="loading_tips">Llisqueu cap avall per actualitzar</string>
+  <string name="loading_tips">Llisqueu avall per actualitzar</string>
   <string name="login_failed_toast">"No s'ha pogut iniciar la sessió, actualitzeu i proveu-ho de nou"</string>
   <string name="low_memory_toast">"No es pot utilitzar el Navegador perquè hi ha poca memòria"</string>
   <string name="maximum_input_alert">"No es poden introduir més de 2.048 caràcters"</string>
@@ -662,7 +662,7 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d\'i
   <string name="navigate_feedback_report_title">Motius de l\'informe</string>
   <string name="navigate_feedback_select_report_label">Trieu el motiu de l’informe</string>
   <string name="navigate_feedback_submit">Envia</string>
-  <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
+  <string name="navigation_delete_all">Llisqueu a l\'esquerra i a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -820,7 +820,7 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d\'i
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
   <string name="progress_dialog_setting_wallpaper">S\'està establint el fons de pantalla…</string>
-  <string name="pull_refresh_begin">Llisqueu cap avall per actualitzar</string>
+  <string name="pull_refresh_begin">Llisqueu avall per actualitzar</string>
   <string name="pull_refresh_end">Deixeu anar per actualitzar</string>
   <string name="pull_refresh_refreshing">S\'està actualitzant</string>
   <string name="pwa_app_name">Aplicacions web</string>

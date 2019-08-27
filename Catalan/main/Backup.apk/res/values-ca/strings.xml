@@ -102,7 +102,7 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
   <string name="confirm_exit_link_title">Interrompre la transferència</string>
   <string name="connect_soft_ap_label">S\'està connectant a un nou dispositiu…</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
-  <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
+  <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos a la Wi-Fi per importar elements d’iCloud."</string>
   <string name="contact_title">Contactes</string>
   <string name="current_account">Hola %s</string>
   <string name="current_pad_location">Tauleta</string>
@@ -209,7 +209,7 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="icloud_login_title">Inicia la sessió a l\'iCloud</string>
   <string name="icloud_need_sync">"Per importar dades de iOS,
 primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
-  <string name="icloud_need_wifi_message">"En aquest moment no esteu connectats a la Wi-Fi. Per importar dades des d'iCloud, connecteu-vos a la Wi-Fi."</string>
+  <string name="icloud_need_wifi_message">"En aquest moment no esteu connectats a la Wi-Fi. Per importar dades d'iCloud, connecteu-vos a la Wi-Fi."</string>
   <string name="icloud_need_wifi_title">Connecta a la Wi-Fi</string>
   <string name="import_again">Importa de nou</string>
   <string name="import_data_from_icloud">Importa les dades de l\'iCloud</string>
