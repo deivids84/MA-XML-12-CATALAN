@@ -25,7 +25,7 @@
   <string name="action">Inicia la sessió</string>
   <string name="action_imme_open">Obre immediatament</string>
   <string name="action_menu_account_not_login">No s\'ha iniciat la sessió</string>
-  <string name="action_menu_account_not_login_hint">Inicieu la sessió per sincronitzar amb Mi Cloud</string>
+  <string name="action_menu_account_not_login_hint">Inicieu la sessió per sincronitzar amb el núvol</string>
   <string name="action_menu_bookshelf">Llibreria</string>
   <string name="action_menu_current_version">Versió actual</string>
   <string name="action_menu_download">Baixa</string>
@@ -257,8 +257,9 @@
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_continue">Continua</string>
   <string name="data_traffic_download_cancel">Cancel·la</string>
-  <string name="data_traffic_download_prompt">El vídeo actual només pot ser baixat amb wifi</string>
+  <string name="data_traffic_download_prompt">Esteu utilitzant les dades mòbils, voleu continuar carregant la memòria cau?</string>
   <string name="data_traffic_download_setting">Configuració</string>
+  <string name="data_traffic_download_toast_msg">S\'estan utilitzant les dades mòbils per la memòria cau de vídeo</string>
   <string name="data_traffic_prompt_free_data">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà l\'ús de dades. Obteniu trànsit de dades gratuït.</string>
   <string name="data_traffic_prompt_message">L\'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d\'ús de dades del vostre pla, l\'operador us podria cobrar despeses addicionals.</string>
   <string name="data_traffic_prompt_title">Ús de dades mòbils</string>
@@ -684,8 +685,8 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d\'i
   <string name="novel_toast_hint">Aquest lloc web s\'ha afegit a la llibreria</string>
   <string name="ok">D\'acord</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
-  <string name="open_cloud_sync">Activa la sincronització amb Mi Cloud</string>
-  <string name="open_cloud_sync_desc">S\'ha afegit l\'adreça d\'interès correctament. Activeu la sincronització amb Mi Cloud per sincronitzar les adreces d\'interès afegides en altres dispositius. Voleu iniciar la sessió i activar-la?</string>
+  <string name="open_cloud_sync">Activa la sincronització amb el núvol</string>
+  <string name="open_cloud_sync_desc">S\'ha afegit l\'adreça d\'interès correctament. Activeu la sincronització amb el núvol per sincronitzar les adreces d\'interès afegides en altres dispositius. Voleu iniciar la sessió i activar-la?</string>
   <string name="open_file_explorer_failed">"No es pot obrir el gestor de fitxers"</string>
   <string name="open_voice_permission">Permet que el micro es connecti a Internet</string>
   <string name="page_hang_message">La pàgina actual està bloquejada i cal reiniciar el navegador.</string>
@@ -1092,6 +1093,8 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="video_download_unknown_name">Nom desconegut</string>
   <string name="video_download_unknown_size">Mida desconeguda</string>
   <string name="video_download_unsupport">No compatible</string>
+  <string name="video_download_wait_for_caching">S\'està esperant la memoria cau</string>
+  <string name="video_download_wait_for_network">S\'està esperant la xarxa</string>
   <string name="video_download_wait_for_wifi">S\'està esperant una Wi-Fi</string>
   <string name="video_downloaded_group">Baixats</string>
   <string name="video_downloading_group">S\'està baixant</string>

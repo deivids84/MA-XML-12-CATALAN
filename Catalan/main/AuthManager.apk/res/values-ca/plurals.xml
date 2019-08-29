@@ -3,18 +3,18 @@
 <resources>
     <plurals name="days">
         <item quantity="other">%s dies</item>
-        <item quantity="one">1 dia</item>
+        <item quantity="one">%s dia</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%s hores</item>
-        <item quantity="one">1 hora</item>
+        <item quantity="one">%s hora</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%s minuts</item>
-        <item quantity="one">1 minut</item>
+        <item quantity="one">%s minut</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s segons</item>
-        <item quantity="one">1 segon</item>
+        <item quantity="one">%s segon</item>
     </plurals>
 </resources>
