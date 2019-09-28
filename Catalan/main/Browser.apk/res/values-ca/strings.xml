@@ -76,7 +76,6 @@
   <string name="ad_app_download_site_new">NOU</string>
   <string name="ad_download_continue">Continua</string>
   <string name="ad_download_downloading">S\'està baixant</string>
-  <string name="ad_download_error">Error</string>
   <string name="ad_download_immediately">Baixa</string>
   <string name="ad_download_open">Obre</string>
   <string name="ad_exit_dialog_exit_btn_name">surt</string>
@@ -291,6 +290,7 @@ Envieu aquest codi al tècnic."</string>
   <string name="dialog_queued_body">Aquest fitxer s\'ha posat a la cua per baixar-lo més endavant.</string>
   <string name="dialog_recovery_tabs_action">Feu clic per restaurar</string>
   <string name="dialog_recovery_tabs_disc">La detecció de pàgines obertes obliga la restauració completa.</string>
+  <string name="dialog_recovery_tabs_tip">La visualització web no es va tancar l\'última vegada</string>
   <string name="dialog_recovery_tabs_title">Obre la pàgina abans de restaurar-la</string>
   <string name="dialog_title_not_available">"No s'ha pogut baixar"</string>
   <string name="dialog_title_queued_body">El fitxer encara no està disponible</string>
@@ -325,7 +325,6 @@ Envieu aquest codi al tècnic."</string>
   <string name="download_filter_audio">Música</string>
   <string name="download_filter_image">Imatges</string>
   <string name="download_filter_others">Altres</string>
-  <string name="download_filter_text">Documents</string>
   <string name="download_filter_video">Vídeos</string>
   <string name="download_in_process">S\'està baixant…</string>
   <string name="download_list_open_xl_ok">D\'acord</string>
@@ -769,7 +768,6 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d\'i
   <string name="pref_font_size_category">Mida del text de la pàgina web</string>
   <string name="pref_force_userscalable">Força el zoom</string>
   <string name="pref_force_userscalable_summary">"Anul·la la sol·licitud del lloc web per controlar el comportament del zoom"</string>
-  <string name="pref_general_title">General</string>
   <string name="pref_label_advert_manager">Gestiona els anuncis etiquetats</string>
   <string name="pref_nav_mode_summary_pad">Tauleta</string>
   <string name="pref_nav_mode_summary_phone">Telèfon</string>
@@ -953,7 +951,6 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="small_video_native_tab">Petit vídeo</string>
   <string name="small_video_net_error">Error de connexió</string>
   <string name="small_video_no_more_date">Sense dades</string>
-  <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar la pàgina"</string>
   <string name="snapshot_successed">Obre Adreces d\'interès i Historial &gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
@@ -1014,7 +1011,6 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggestion_more_news_start_title_text">Notícies relacionades</string>
   <string name="suggestion_sliding_ads_info_mark_text">ANUNCIS</string>
   <string name="suggestion_sliding_item_more_text">VEURE MÉS</string>
-  <string name="suggestion_topic_subtitle_hyphen">Focus</string>
   <string name="suggestion_translation_more">MOSTREN MÉS</string>
   <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat el segrest de la xarxa. Utilitzeu l’aplicació de seguretat integrada de MIUI o informeu el vostre operador."</string>
