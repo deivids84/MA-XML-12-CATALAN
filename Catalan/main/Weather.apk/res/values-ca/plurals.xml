@@ -13,24 +13,56 @@
         <item quantity="other">fa %d dies</item>
         <item quantity="one">fa %d dia</item>
     </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Mitjana de %1$s estacions</item>
+        <item quantity="one">Mitjana de %1$s estació</item>
+    </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Previsió %1$s dies</item>
+        <item quantity="one">Previsió %1$s dia</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">Previsió a %1$s dies vista</item>
-        <item quantity="one">Previsió a %1$s dia vista</item>
+        <item quantity="other">Previsió %1$s dies</item>
+        <item quantity="one">Previsió %1$s dia</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Podeu tornar a enviar els comentaris en %1$s minuts</item>
+        <item quantity="one">Podeu tornar a enviar els comentaris en %1$s minut</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Podeu tornar a enviar els comentaris en %1$s segons</item>
+        <item quantity="one">Podeu tornar a enviar els comentaris en %1$s segon</item>
     </plurals>
     <plurals name="no_vote_num">
-        <item quantity="other">%1$s gent |</item>
+        <item quantity="other">%1$s persones | </item>
         <item quantity="one">%1$s persona |</item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&amp;lt;font color='#20a7ff'&gt;%1$s&amp;lt;/font&gt; la gent ha votat"</item>
-        <item quantity="one">"&amp;lt;font color='#20a7ff'&gt;%1$s&amp;lt;/font&gt; persona ha votat"</item>
+        <item quantity="other">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; persones han votat"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; persona ha votat"</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Temperatura màxima: %1$s graus centígrads</item>
+        <item quantity="one">Temperatura màxima: %1$s grau centígrad</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Temperatura màxima: %1$s graus Fahrenheit</item>
+        <item quantity="one">Temperatura màxima: %1$s grau Fahrenheit</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Temperatura mínima: %1$s graus centígrads</item>
+        <item quantity="one">Temperatura mínima: %1$s grau centígrad</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Temperatura mínima: %1$s graus Fahrenheit</item>
+        <item quantity="one">Temperatura mínima: %1$s grau Fahrenheit</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Serè</item>
         <item quantity="one">Serè</item>
     </plurals>
     <plurals name="yes_vote_num">
-        <item quantity="other">| %1$s gent</item>
-        <item quantity="one">| %1$s persona</item>
+        <item quantity="other"> | %1$s persones</item>
+        <item quantity="one"> | %1$s persona</item>
     </plurals>
 </resources>

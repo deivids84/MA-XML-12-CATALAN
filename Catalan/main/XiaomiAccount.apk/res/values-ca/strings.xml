@@ -542,7 +542,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
   <string name="update_phone_notice">Canvia la configuració de seguretat</string>
   <string name="update_phone_number_notice_message">Abans d’actualitzar el número de telèfon, heu de verificar la vostra identitat.</string>
-  <string name="used_cloud_storage_info">Espai d’emmagatzematge utilitzat %s</string>
+  <string name="used_cloud_storage_info">Emmagatzematge utilitzat %s</string>
   <string name="user_avatar_update_title">Canvia la foto de perfil</string>
   <string name="user_avatar_uploading">Un moment…</string>
   <string name="vip_account_settings">Configuració VIP</string>

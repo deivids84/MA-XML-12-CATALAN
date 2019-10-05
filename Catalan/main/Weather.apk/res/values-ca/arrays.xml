@@ -42,7 +42,6 @@
         <item>Delhi</item>
         <item>Bombai</item>
         <item>Moscou</item>
-        <item>Hyderabad</item>
         <item>Chennai</item>
         <item>Istanbul</item>
         <item>Rio de Janeiro</item>
@@ -56,6 +55,7 @@
         <item>París</item>
         <item>Bangkok</item>
         <item>Seül</item>
+        <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>Intensa</item>
