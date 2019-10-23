@@ -19,7 +19,6 @@
   <string name="channel_update">Nova versió disponible</string>
   <string name="check_new_version">Comprova</string>
   <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
-  <string name="default_filedownloader_notification_title">FileDownloader</string>
   <string name="dialog_3g_desc">Tingueu en compte que l\'ús de dades mòbils per baixar ROM pot tenir una quota important del vostre paquet.</string>
   <string name="dialog_3g_title">Avís!</string>
   <string name="dialog_btn_3g">Continua de totes maneres</string>
@@ -32,6 +31,7 @@
   <string name="download_fail_desc">La suma MD5 no coincideix…</string>
   <string name="downloading">S\'està baixant:</string>
   <string name="downloading_desc">Baixada en curs, comproveu l\'estat en l\'àrea de notificació.</string>
+  <string name="fetching_data">S\'està obtenint l\'enllaç de baixada, espereu…</string>
   <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer seleccionat:&lt;b&gt; %1$s&lt;/b&gt;\"
 Les dades no s\'esborraran.\"</string>
   <string name="install_title">Esteu segurs de continuar?</string>
@@ -42,6 +42,7 @@ Les dades no s\'esborraran.\"</string>
   <string name="message_title">NOTA!</string>
   <string name="new_version">S\'ha trobat una nova versió!</string>
   <string name="no_info">No hi ha informació disponible.</string>
+  <string name="no_mirror">Actualment tots els miralls estan fora de línia, proveu-ho més tard…</string>
   <string name="no_network">No hi ha accés a la xarxa.</string>
   <string name="no_update">Esteu al dia!</string>
   <string name="no_xioamieu">"No utilitzeu una MIUI Rom creada per l\'equip de Xiaomi.eu!

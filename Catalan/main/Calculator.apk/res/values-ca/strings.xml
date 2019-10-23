@@ -171,6 +171,7 @@
   <string name="negDesc">Canvia entre temperatures per sota i per sobre zero</string>
   <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessita connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
   <string name="network_confirm_title">Permisos necessaris</string>
+  <string name="network_purpose">Benvingut a la Calculadora! Calculadora us permet convertir monedes, calcular les amortitzacions d’hipoteca i molt més.</string>
   <string name="none">Cap</string>
   <string name="not_supported_due_to_language">Aquesta funció només està disponible en Xinès</string>
   <string name="ok">D\'acord</string>
@@ -195,6 +196,9 @@
   <string name="preference_settings">Configuració</string>
   <string name="preference_use_degress_summary">Substitueix radiants amb angles en funcions trigonomètriques</string>
   <string name="preference_use_degress_title">Utilitza angles</string>
+  <string name="preference_use_voice_summary">Activeu-la per utilitzar la sortida de veu durant els càlculs</string>
+  <string name="preference_use_voice_title">Sortida de veu</string>
+  <string name="preference_user_feedback_title">Comentaris</string>
   <string name="privacy_policy">Política de privadesa</string>
   <string name="rate_data_provider">Hexun.com els proporciona els tipus d\'interès</string>
   <string name="reciprocalDesc">Recíproc</string>
@@ -421,6 +425,7 @@
   <string name="user_agreement">Acord d\'usuari</string>
   <string name="view_float_window_move">Mou la Calculadora minimitzada</string>
   <string name="voiceDesc">Controls de veu</string>
+  <string name="voice_guide_text">Podeu activar la sortida de veu aquí</string>
   <string name="wf_word_figure">Caràcters financers</string>
   <string name="word_figure_guide_text">Mantingueu premut el text per convertir entre majúscules i minúscules.</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut connectar amb Baixades. Comproveu si aquesta aplicació té tots els permisos necessaris a Configuració &gt; Aplicacions instal·lades."</string>
