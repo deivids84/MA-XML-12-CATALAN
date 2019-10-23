@@ -9,4 +9,4 @@ Benvinguts al repositori de la traducció al CATALÀ de MIUI, el sistema operati
 o dirigiu-vos directament a aquest projecte a Crowdin: https://crowdin.com/project/miui-8-xiaomieu/
 
 Translation xml checker (updated every 30min)
-http://translators.xiaomi.eu/XML_MIUI10-Catalan-ca.html
+http://translators.xiaomi.eu/XML_MIUI11-Catalan-ca.html
