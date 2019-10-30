@@ -988,6 +988,12 @@ Aplicacions:
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utilizeu-lo com a dispositiu d\'entrada</string>
   <string name="bluetooth_incoming_pairing_msg">Des de:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Voleu vincular-lo amb aquest dispositiu?</string>
+  <string name="bluetooth_inform_messgae">"No s\'ha pogut connectar amb %1$s.
+Aquí teniu el que podria estar malament:
+1. El Bluetooth està desactivat en aquest dispositiu o està fora d\'abast.
+2. Aquest dispositiu no està en mode descobert.
+3. El dispositiu està connectat a altres dispositius. Desconnecteu-lo i torneu-ho a provar."</string>
+  <string name="bluetooth_inform_messgae_title">"No s'ha pogut connectar"</string>
   <string name="bluetooth_is_disconnect_question">Voleu desconnectar %1$s?</string>
   <string name="bluetooth_is_discoverable">Visible a tots els altres dispositius Bluetooth del voltant (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Fes que aquest dispositiu sigui visible a tots els dispositius Bluetooth propers</string>
@@ -2441,11 +2447,14 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Veure notificacions ràpidament</string>
   <string name="fingerprint_swipe_for_notifications_summary">Per comprovar les notificacions, llisqueu el dit cap avall al sensor d\'empremtes a la part posterior del telèfon.</string>
   <string name="fingerprint_swipe_for_notifications_title">Llisqueu el dit per a les notificacions</string>
+  <string name="fingerprint_unlock_press_type">Presionar</string>
   <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>
   <string name="fingerprint_unlock_set_unlock_pin">Empremta + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Continua sense empremta</string>
   <string name="fingerprint_unlock_title">Podeu desbloquejar el telèfon amb l\'empremta. Per seguretat, aquesta opció requereix una còpia de seguretat del bloqueig de la pantalla.</string>
+  <string name="fingerprint_unlock_touch_type">Tocar</string>
+  <string name="fingerprint_unlock_type">Mètode de reconeixement d’empremtes</string>
   <string name="fingerprint_usage_category_title">Ús de les empremtes per</string>
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">Finalitza</string>
@@ -2658,6 +2667,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gxzw_add_fingerprint_put_finger_message">Premeu la pantalla i aixequeu el dit després de sentir la vibració. Repetiu-ho diverses vegades.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Premeu i aixequeu després de la vibració</string>
   <string name="gxzw_add_fingerprint_title">Afegiu la seva empremta</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
   <string name="gxzw_anim_light">Neó</string>
   <string name="gxzw_anim_pulse">Pampallugues</string>
   <string name="gxzw_anim_rhythm">Ritme</string>
@@ -3306,6 +3316,7 @@ com el PIN del primer espai. "</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="lockscreen_label">Pantalla de bloqueig</string>
   <string name="lockscreen_magazine">Carrusel de fons de pantalla</string>
+  <string name="lockscreen_magazine_summary">Impressionants imatges i històries emocionants lliurades diàriament</string>
   <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="lockscreen_settings_title">Preferències de la pantalla de bloqueig</string>
@@ -3804,6 +3815,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="netcheck_title">Diagnòstic de la xarxa</string>
   <string name="network_4G">4G (recomanat)</string>
+  <string name="network_alarm">"No silenciïs les trucades per internet"</string>
+  <string name="network_alarm_summary">"Nota: Algunes aplicacions no són compatibles amb aquesta funció.%1$s"</string>
+  <string name="network_alarm_summary_reg">Mostra les aplicacions compatibles</string>
+  <string name="network_alarm_support_apps">Aplicacions compatibles</string>
   <string name="network_assistant">Ús de dades</string>
   <string name="network_changed_noti_summary">S\'està utilitzant dades mòbils</string>
   <string name="network_changed_noti_title">Desconnectat de la Wi-Fi</string>
@@ -4894,9 +4909,12 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_dark_mode_smart_dark_title">Mode fosc global</string>
   <string name="screen_dark_mode_time_title">Planificació</string>
   <string name="screen_effect">Contrast i colors</string>
-  <string name="screen_fps_summary">La freqüència de refresc més alta fa que la imatge sigui més suau mentre que la taxa de refresc inferior estalvia bateria</string>
+  <string name="screen_fps_summary_power_save">L\'ús d\'una taxa fixa consumeix menys energia</string>
+  <string name="screen_fps_summary_smooth">Algunes aplicacions augmentaran la taxa de refresc automàticament per millorar la qualitat de la imatge</string>
   <string name="screen_fps_title">Freqüència de refresc</string>
   <string name="screen_fps_unit">%dHz</string>
+  <string name="screen_fps_unit_power_save">%dHz (Estalvia bateria)</string>
+  <string name="screen_fps_unit_smooth">%dHz (Millor qualitat)</string>
   <string name="screen_key_long_press">Pulsació llarga dels botons de navegació</string>
   <string name="screen_key_long_press_action">Funció de la pulsació</string>
   <string name="screen_key_long_press_timeout">Defineix el temps de la pulsació llarga</string>
@@ -5102,7 +5120,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
   <string name="search_copyright_title">Drets d\'autor</string>
   <string name="search_credentials_install">Instal·la des de l\'emmagatzematge</string>
   <string name="search_date_and_time_settings_title">Data &amp; hora;Data i hora;Data;Hora</string>
-  <string name="search_description">Configuració de la cerca</string>
+  <string name="search_description">Cerca a la configuració</string>
   <string name="search_development_settings_title">Opcions per a desenvolupadors;Ajudes</string>
   <string name="search_device_name">Nom del dispositiu</string>
   <string name="search_device_status">Estat</string>
@@ -5125,9 +5143,9 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
   <string name="search_gesture_wakeup_title">Activació amb doble toc;activació amb doble toc;activació de la pantalla;doble toc a la pantalla;doble toc</string>
   <string name="search_gps">GPS;Accés a la ubicació</string>
   <string name="search_handy_mode">Mode amb una sola mà</string>
-  <string name="search_hint">Configuració de la cerca</string>
+  <string name="search_hint">Cerca a la configuració</string>
   <string name="search_home_key">Pàgina d\'inici</string>
-  <string name="search_input_hint">Configuració de la cerca</string>
+  <string name="search_input_hint">Cerca a la configuració</string>
   <string name="search_key_settings_title">Botons;Tecles</string>
   <string name="search_lab_functions_title">Funcions en Beta;Funció Lab</string>
   <string name="search_label">Configuració</string>
@@ -5143,7 +5161,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
   <string name="search_manage_facerecoginition_text">Desbloqueig facial;Reconeixement facial</string>
   <string name="search_manage_notification_access_title">Accés a notificació</string>
   <string name="search_master_clear_title">Restabliment de fàbrica</string>
-  <string name="search_menu">Configuració de la cerca</string>
+  <string name="search_menu">Cerca a la configuració</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_micloud">Sincronitza;Micloud</string>
   <string name="search_music_audio_effect_optimize">Configuració d\'àudio</string>
@@ -6283,6 +6301,10 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_disable_frp_warning_title_profile">Voleu suprimir la protecció del perfil?</string>
   <string name="unlock_disable_lock_pin_summary">Desactiva el PIN</string>
   <string name="unlock_disable_lock_title">Desactiva la pantalla de bloqueig</string>
+  <string name="unlock_footer_high_complexity_requested">%1$s recomana un PIN o contrasenya forta. Sense, potser no funciona tal com s\'espera</string>
+  <string name="unlock_footer_low_complexity_requested">%1$s recomana un nou patró, PIN o contrasenya. Sense, potser no funciona tal com s\'espera</string>
+  <string name="unlock_footer_medium_complexity_requested">%1$s recomana un nou PIN o contrasenya. Sense, potser no funciona tal com s\'espera</string>
+  <string name="unlock_footer_none_complexity_requested">%1$s recomana un nou bloqueig de pantalla</string>
   <string name="unlock_mode_title">Blocatge de pantalla</string>
   <string name="unlock_set_do_later_title">Ara no</string>
   <string name="unlock_set_enter_system">Omet la pantalla de bloqueig</string>
@@ -6314,11 +6336,16 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
+  <string name="unlock_type_category_title">Mètode de reconeixement</string>
+  <string name="unlogin_account_summary">Tots els serveis Mi. Un Compte Mi.</string>
+  <string name="unlogin_account_title">Inicia la sessió al Compte Mi</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
+  <string name="unmute_sound_title">Activa el so</string>
   <string name="unrestrict_max_aspect_ratio_title">Aquestes aplicacions estan optimitzades per al mode de pantalla completa</string>
   <string name="unrestricted_app_summary">Permet dades sense restricció amb l\'estalvi de dades activat</string>
   <string name="unrestricted_app_title">Ús de dades sense restricció</string>
   <string name="unrestricted_data_saver">Accés a dades sense restricció</string>
+  <string name="unsupported_setting_summary">L\'opció de configuració no és compatible amb aquest telèfon</string>
   <string name="update_new_version">Hi ha una actualització disponible</string>
   <string name="update_progress_for_updates">S\'està actualitzant (%s)</string>
   <string name="upload_debug_log_summary">Les estadístiques d\'ús que ens ajuden a localitzar i resoldre problemes poden contenir informació personal</string>
@@ -6327,8 +6354,34 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usage_access">Accés d\'ús</string>
   <string name="usage_access_description">Gràcies a l\'accés d\'ús, les aplicacions poden fer un seguiment de les altres aplicacions que utilitzeu i la freqüència amb què ho feu, de l\'operador de telefonia mòbil i de la configuració d\'idioma, entre d\'altres.</string>
   <string name="usage_access_title">Aplicacions amb accés d\'ús</string>
+  <string name="usage_app_get_it">Entesos</string>
+  <string name="usage_app_limit_alter_summary">"Sembla que aquest límit de temps és més curt que el temps que ha estat amb aquesta aplicació avui. Voleu establir-lo de totes maneres?"</string>
+  <string name="usage_app_limit_alter_title">Comprova el límit de temps de la pantalla</string>
+  <string name="usage_app_limit_prelong">Amplia el temps</string>
+  <string name="usage_app_limit_reach_summay">Resten %s</string>
+  <string name="usage_app_limit_reach_title">%s està arribant al seu límit de temps de pantalla</string>
+  <string name="usage_app_limit_summary">"Les aplicacions seleccionades no estaran disponibles quan s'arribi al límit"</string>
+  <string name="usage_app_limit_title">Limita el temps de pantalla</string>
+  <string name="usage_app_other_settings">Configuració addicional</string>
+  <string name="usage_app_over_content">"Avui ja heu utilitzat aquesta aplicació per a %s."</string>
+  <string name="usage_app_over_summary">"Heu arribat al vostre límit. El temps s'ha acabat!"</string>
+  <string name="usage_app_set_limit_time">Estableix el límit</string>
+  <string name="usage_app_system_app_summary">"No es pot limitar el temps de pantalla per a les aplicacions del sistema"</string>
+  <string name="usage_app_weekday_limit">Entre setmana</string>
+  <string name="usage_app_weekend_limit">Cap de setmana</string>
   <string name="usage_log">Estadístiques d\'ús d\'aplicacions</string>
+  <string name="usage_state_app_timer">Temps de pantalla</string>
+  <string name="usage_state_app_usage_detail_title">Detalls d\'ús de l\'aplicació</string>
+  <string name="usage_state_app_usage_list_title">"Temps de pantalla de les aplicacions"</string>
+  <string name="usage_state_app_usage_list_week_title">"Temps de pantalla de les aplicacions"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Temps de pantalla entre les %d:00 i les %d:00</string>
+  <string name="usage_state_app_use_time">Temps de pantalla de l\'aplicació</string>
+  <string name="usage_state_channel_mouth">Últims 30 dies</string>
+  <string name="usage_state_channel_week">Últims 7 dies</string>
   <string name="usage_state_date">d MMM</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">Notificacions entre les %d:00 i les %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositiu desbloquejat entre les %d:00 i les %d:00</string>
+  <string name="usage_state_friday">Dv</string>
   <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
   <string name="usage_state_notification_manager">Gestiona les notificacions d’aplicacions</string>
   <string name="usage_state_remind_summary">Activeu-ho per rebre alertes de temps de pantalla.</string>
