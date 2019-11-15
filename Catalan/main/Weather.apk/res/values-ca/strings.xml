@@ -127,11 +127,9 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">Previsió 24 hores</string>
   <string name="hourly_forecast_title_hourly_desc">Previsió per hores</string>
-  <string name="index_item_downloading">S\'està baixant</string>
   <string name="index_item_experience_now">Instal·la-ho ara</string>
   <string name="index_item_install_now">Instal·la-ho ara</string>
   <string name="index_item_installing">S\'està instal·lant</string>
-  <string name="index_item_installing2">S\'està instal·lant</string>
   <string name="indices_desc_humidity">Humitat %1$s%%</string>
   <string name="indices_desc_pressure">%1$s mbar</string>
   <string name="indices_title_feel">Sensació tèrmica</string>
@@ -170,7 +168,6 @@ Toqueu la pantalla per afegir o moure una ciutat manualment"</string>
   <string name="no_data">Sense dades</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">Contra %1$s%%</string>
-  <string name="open">Obre\'l ara</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="open_now">Obre</string>
   <string name="other_settings">Altres configuracions</string>

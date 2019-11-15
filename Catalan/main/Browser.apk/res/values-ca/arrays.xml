@@ -7,8 +7,8 @@
         <item>Res</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Pàgina d\'inici per defecte</item>
-        <item>Personalitzat</item>
+        <item>Per defecte</item>
+        <item>URL personalitzat</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Telèfon</item>
@@ -36,6 +36,10 @@
         <item>Escriptori</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Adreces d\'interès</item>
+        <item>Historial</item>
     </string-array>
     <string-array name="readmode_theme_background_color">
         <item>blanc</item>

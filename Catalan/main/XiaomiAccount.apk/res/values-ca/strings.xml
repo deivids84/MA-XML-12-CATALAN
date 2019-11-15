@@ -466,6 +466,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="push_notification_title">Heu iniciat la sessió al vostre compte Mi en un dispositiu desconegut</string>
   <string name="push_notify_dialog_message">"S'utilitza un dispositiu desconegut per iniciar la sessió al vostre compte de Mi. Introduïu aquest codi de verificació al dispositiu. Si no fos així, canvieu la contrasenya del compte Mi de seguida. No divulgueu el codi de verificació a altres persones."</string>
   <string name="push_notify_dialog_title">Verificació del compte</string>
+  <string name="pwd_width_phone_number_or_mail_num">"La contrasenya no pot contenir el vostre número de telèfon, correu electrònic ni l'identificador del compte Mi"</string>
   <string name="recycle_phone_notification_msg">Sembla que el vostre número de telèfon s’ha reciclat. Toqueu per actualitzar.</string>
   <string name="recycle_phone_notification_title">Risc de seguretat del Compte Mi</string>
   <string name="removing_account">S\'està tancant la sessió…</string>
@@ -477,7 +478,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="restart_action">Comença de nou</string>
   <string name="restart_phone_bind_message">Es pot trigar un temps a rebre el SMS. Voleu començar de nou de totes maneres?</string>
   <string name="restart_phone_bind_title">Canvia el telèfon de recuperació</string>
-  <string name="same_new_and_old_pwd">"No pot ser la mateixa que la contrasenya actual"</string>
+  <string name="risky_pwd_not_allow">"La contrasenya nova no és segura. Estableix-ne una de diferent."</string>
+  <string name="same_new_and_old_pwd">La contrasenya nova ha de ser diferent de l\'anterior</string>
   <string name="scan_barcode_title">Per iniciar la sessió al compte Mi, escanegeu el codi QR</string>
   <string name="search_account_security">Seguretat del compte</string>
   <string name="search_account_security_desc">Configuració del compte</string>
