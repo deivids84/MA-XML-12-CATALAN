@@ -117,10 +117,6 @@
         <item quantity="other">%1$d anys</item>
         <item quantity="one">%1$d any</item>
     </plurals>
-    <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s minuts en cotxe fins a %1$s.</item>
-        <item quantity="one">%2$s minut en cotxe fins a %1$s.</item>
-    </plurals>
     <plurals name="weekN">
         <item quantity="one">SETMANA %d</item>
         <item quantity="other">SETMANA %d</item>

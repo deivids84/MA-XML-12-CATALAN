@@ -280,6 +280,28 @@
         <item>Optimitzat per a la qualitat de la connexió (330kbps/303kbps)</item>
         <item>Millor esforç (velocitat de bits adaptativa)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Latència curta</item>
+        <item>Latència mitjana</item>
+        <item>Latència llarga</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Latència curta (50~100ms)</item>
+        <item>Latència mitjana (150~200ms)</item>
+        <item>Latència llarga (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimitzat per a la qualitat de la connexió</item>
+        <item>Equilibrat entre la qualitat de l\'àudio i la de la connexió</item>
+        <item>Optimitzat per a la qualitat de l\'àudio</item>
+        <item>Millor opció (Ràtio de compressió automàtica)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimitzat per a la qualitat de la connexió (400kbps)</item>
+        <item>Equilibrat entre la qualitat de l\'àudio i la de la connexió (500/560kbps)</item>
+        <item>Optimitzat per a la qualitat de l\'àudio (900kbps)</item>
+        <item>Millor opció (Ràtio de compressió automàtica)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Utilitza la selecció del sistema (per defecte)</item>
         <item>44.1 kHz</item>
@@ -303,7 +325,8 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
-        <item>Enable optional codecs</item>
+        <item>Activa còdecs opcionals</item>
+        <item>Desactiva còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -314,7 +337,8 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Desactiva els còdecs opcionals</item>
-        <item>Enable optional codecs</item>
+        <item>Habilita els còdecs opcionals</item>
+        <item>Inhabilita els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -922,6 +946,16 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Ajusta els colors en funció de la il·luminació actual</item>
+        <item>Millora sempre els colors</item>
+        <item>Restaura el color estàndard del contingut de la pantalla amb la calibració del color</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Auto (recomanat)</item>
+        <item>Saturat</item>
+        <item>Color original</item>
+    </string-array>
     <string-array name="tts_rate_entries">
         <item>Molt lent</item>
         <item>Lent</item>
@@ -961,7 +995,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <string-array name="user_content_ratings_entries">
         <item>Ser superior</item>
         <item>Humà</item>
-        <item>Neanderthal</item>
+        <item>Neandertal</item>
         <item>Ximpanzé</item>
         <item>Mono</item>
     </string-array>
@@ -1075,7 +1109,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>Use randomized MAC</item>
+        <item>Utilitza MAC aleatori</item>
         <item>Utilitza el MAC del dispositiu</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
