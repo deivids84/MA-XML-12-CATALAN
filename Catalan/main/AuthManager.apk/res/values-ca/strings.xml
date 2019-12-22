@@ -97,7 +97,7 @@
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">"Denega i no ho tornis a preguntar"</string>
   <string name="location_settings">Configuració d\'ubicació</string>
   <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació d\'aquest dispositiu. L’accés a la ubicació es pot modificar des de la configuració d’ubicació.</string>
-  <string name="never_ask_again">"No ho tornis a preguntar"</string>
+  <string name="never_ask_again">"No ho tornis a preguntar després de restringir-ho"</string>
   <string name="ok">D\'acord</string>
   <string name="permdesc_camera">Fer fotos i enregistrar vídeos</string>
   <string name="permdesc_in_calls">Monitorar les trucades entrants</string>
