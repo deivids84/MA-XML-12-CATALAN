@@ -81,6 +81,10 @@
         <item quantity="other">Podeu configurar %d recordatoris</item>
         <item quantity="one">Podeu configurar %d recordatori</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d esdeveniments més</item>
+        <item quantity="one">%d esdeveniment més</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" dies"</item>
         <item quantity="one">" dia"</item>

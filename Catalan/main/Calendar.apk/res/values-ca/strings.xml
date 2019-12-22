@@ -9,6 +9,14 @@
   <string name="abc_activitychooserview_choose_application">Seleccioneu una aplicació</string>
   <string name="abc_capital_off">DESACTIVA</string>
   <string name="abc_capital_on">ACTIVA</string>
+  <string name="abc_menu_delete_shortcut_label">suprimeix</string>
+  <string name="abc_menu_enter_shortcut_label">retorn</string>
+  <string name="abc_menu_function_shortcut_label">Funció+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espai</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menú+</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Consulta de cerca</string>
@@ -165,6 +173,7 @@
   <string name="edit_event_tab_birthday">Aniversari</string>
   <string name="edit_event_tab_countdown">Compte enrere</string>
   <string name="edit_event_tab_event">Esdeveniment</string>
+  <string name="edit_event_title_create_agenda">Afegeix esdeveniment</string>
   <string name="edit_event_to_label">Fins a</string>
   <string name="electricity_amount_label">Consum d\'electricitat</string>
   <string name="electricity_detail_title">电费缴费</string>
@@ -307,7 +316,6 @@
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Us cal afegir un compte de calendari. Premeu \"Afegeix un compte\" per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
   <string name="no_visiable_calendar_title">Afegeix un compte</string>
-  <string name="notification_channel_name">Recordatoris de calendari</string>
   <string name="notification_open_setting_button_exit">No, gràcies</string>
   <string name="notification_open_setting_button_ok">Permet</string>
   <string name="notification_open_setting_message">"No podreu rebre notificacions dels esdeveniments fins que permeteu que el calendari us enviï notificacions."</string>
@@ -390,8 +398,6 @@
   <string name="select_date">Vés a la data</string>
   <string name="select_today_tip">Avui</string>
   <string name="setting">Configuració</string>
-  <string name="setting_about_calendar_version">Versió del calendari:</string>
-  <string name="setting_about_miui_version">Versió de MIUI:</string>
   <string name="setting_about_summary">Versió: </string>
   <string name="setting_accounts">Comptes de calendari</string>
   <string name="setting_chinese_calendar">Calendari xinès</string>
