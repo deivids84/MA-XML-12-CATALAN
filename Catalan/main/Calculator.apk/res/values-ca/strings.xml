@@ -48,12 +48,13 @@
   <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'impostos. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="description_title">Quant a la Calculadora</string>
   <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
-  <string name="dialog_privacy_content">A més de les característiques bàsiques d’una calculadora, la nostra aplicació també inclou una calculadora científica i un convertidor polivalent. Algunes funcions necessiten connectar-se a Internet per funcionar amb normalitat. Heu de llegir i acceptar la nostra %1$s i l\'%2$s abans d’utilitzar la Calculadora.</string>
+  <string name="dialog_privacy_content">A més de la funcionalitat bàsica, la Calculadora Mi us permet convertir monedes i unitats de mesurament, calcular les amortitzacions d’hipoteca i molt més. Algunes funcions poden requerir la connexió a Internet per poder funcionar amb normalitat. &lt;Data&gt;Abans d’utilitzar aquesta aplicació, llegiu i accepteu el nostre &amp;It;a href=%1$s&amp;gt;Acord d’usuari&amp;It;/a&amp;gt; i &amp;It;a href=%2$s&amp;gt;la Política de privadesa&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="dialog_privacy_title">Termes i condicions</string>
   <string name="dialog_rating_desc_ask">Què en penseu de la Calculadora?</string>
   <string name="dialog_rating_desc_less">Podria donar-nos la seva opinió?</string>
   <string name="dialog_rating_desc_perfect">Excel·lent! Voleu puntuar la Calculadora a la botiga d\'apps?</string>
   <string name="dialog_rating_title">Valoreu la nostra aplicació</string>
+  <string name="disallow">"No hi estic d'acord"</string>
   <string name="divDesc">divideix</string>
   <string name="dotDesc">punt</string>
   <string name="eDesc">"Nombre d'Euler"</string>
@@ -120,6 +121,7 @@
   <string name="loading_message">S\'està carregant l\'aplicació…</string>
   <string name="loading_slogan">Utilitzeu les aplicacions sense instal·lar-les</string>
   <string name="loading_tips">S\'ha baixat la configuració correctament. Inicieu la calculadora de nou per aplicar-la.</string>
+  <string name="loan_basic_point">Punt de base</string>
   <string name="loan_edittext_hint_commercial">Introduïu l\'import</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial (×10K)</string>
   <string name="loan_edittext_hint_fund">Introduïu l\'import</string>
@@ -131,6 +133,13 @@
   <string name="loan_pay_years">Període de préstec</string>
   <string name="loan_payback_way">Reemborsament</string>
   <string name="loan_repayment_detail_loading">S\'està carregant l\'amortització detallada…</string>
+  <string name="loan_type_summary_lpr">LPR</string>
+  <string name="loan_type_title">Estàndard de tipus d\'interès</string>
+  <string name="lpr_ok">Entesos</string>
+  <string name="lpr_tips_msg">"A partir del 8 d\'octubre de 2019, la taxa d\'interès del préstec d\'habitatge personal es calcularà segons la taxa de préstec (LPR) en lloc del tipus d\'interès de referència del 4,9% prèviament implementat. Ara, es confirmarà la taxa final afegint un LPR al punt de base.
+
+Les LPR d\'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produir retards a causa de les vacances bancàries) al lloc web del Banc Popular de la Xina."</string>
+  <string name="lpr_tips_title">LPR (tarifa principal del préstec)</string>
   <string name="medical_treatment">Tractament mèdic</string>
   <string name="menuDesc">menú</string>
   <string name="minusDesc">menys</string>
@@ -171,11 +180,20 @@
   <string name="negDesc">Canvia entre temperatures per sota i per sobre zero</string>
   <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessita connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
   <string name="network_confirm_title">Permisos necessaris</string>
+  <string name="network_privacy">Tingueu en compte que aquesta aplicació necessita connectar-se a Internet i recopilar la informació personal necessària per a proporcionar-vos els serveis. Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.</string>
   <string name="network_purpose">Benvingut a la Calculadora! Calculadora us permet convertir monedes, calcular les amortitzacions d’hipoteca i molt més.</string>
   <string name="none">Cap</string>
   <string name="not_supported_due_to_language">Aquesta funció només està disponible en Xinès</string>
   <string name="ok">D\'acord</string>
   <string name="percentDesc">percentatge</string>
+  <string name="permission_location">Accedir a la ubicació</string>
+  <string name="permission_location_desc">Per proporcionar serveis basats en la ubicació</string>
+  <string name="permission_phone">Accedir a l\'estat i a l\'ID del dispositiu</string>
+  <string name="permission_phone_desc">Per a la identificació de diferents dispositius</string>
+  <string name="permission_privacy_link">&lt;Data&gt;Abans d’utilitzar aquesta aplicació, llegiu i accepteu el nostre &amp;lt;a href=%1$s&amp;gt;Acord d’Usuari&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;la nostra Política de privadesa&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_purpose">"Benvingut a la Calculadora. A més de la funcionalitat bàsica, la Calculadora us permet convertir monedes i unitats de mesurament, calcular els reemborsaments de les hipoteques i molt més. Protegirem la vostra informació personal d\'acord amb les lleis, regulacions i polítiques de privadesa pertinents.
+Tingueu en compte que aquesta aplicació necessita connectar-se a Internet i requereix els permisos següents per recopilar la vostra informació personal."</string>
+  <string name="permission_remove_desc">Podeu triar desinstal·lar aquesta aplicació o restringir els permisos i revocar l’autorització a la Configuració.</string>
   <string name="plusDesc">més</string>
   <string name="powerDesc">potència</string>
   <string name="preference_about_calculator">Quant a la Calculadora</string>
