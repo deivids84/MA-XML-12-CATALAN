@@ -16,6 +16,7 @@
   <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
   <string name="abc_capital_off">DESACTIVAT</string>
   <string name="abc_capital_on">ACTIVAT</string>
+  <string name="abc_menu_space_shortcut_label">espai</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Cerca la consulta</string>
@@ -27,15 +28,25 @@
   <string name="abc_toolbar_collapse_description">Contrau</string>
   <string name="action_example">Acció d\'exemple</string>
   <string name="action_nothing">esperant el resultat de la prova</string>
+  <string name="add">Afegeix</string>
   <string name="audio_spk_cal_wait">Calibratge...</string>
   <string name="audio_spk_def">Calibreu dels altaveus</string>
+  <string name="battery_id">Identificador de la bateria:</string>
   <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
+  <string name="battery_plug_wirelee_title">Prova de càrrega sense cable</string>
+  <string name="battery_plugin_wirelee">La càrrega sense cable està enllaçada</string>
+  <string name="battery_plugout_wirelee">Activeu la càrrega sense cable</string>
+  <string name="battery_value">Electricitat</string>
   <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
+  <string name="bt_address">Adreça:</string>
+  <string name="bt_name">Nom:</string>
   <string name="button_ok">D\'acord</string>
   <string name="camera_capture">Captura</string>
   <string name="camera_done">Fet</string>
+  <string name="camera_preview">visualització prèvia</string>
   <string name="camera_zoom">Ampliar</string>
   <string name="camerainfo">Informació de la càmera</string>
+  <string name="cancel">Cancel·la</string>
   <string name="cancel_test">PROVA ANUL·LADA</string>
   <string name="cit_OTG_plugin_check_summary">Quan es connecta el dispositiu OTG, ha de mostrar el text \"Dispositiu USB OTG detectat\" més avall.</string>
   <string name="cit_OTG_plugin_check_title">OTG (detecció)</string>
@@ -147,22 +158,45 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_camera_calibration_summary">"Instruccions de la prova: 
 1.Toqueu el botó de calibratge de sota per iniciar el calibratge OIS.
 2.Hi haurà una etiqueta de calibratge correcte per indicar que l\'ois ha estat calibrat"</string>
+  <string name="cit_camera_fast_check_title">Verificació ràpida de la càmera</string>
   <string name="cit_camera_sdcard_error">"No es pot prendre fotografia. La targeta SD està plena."</string>
+  <string name="cit_charger_check_title">Verificació del carregador</string>
+  <string name="cit_charger_in">Carregador connectat</string>
   <string name="cit_charger_plugin_check_summary">En connectar el carregador USB el text «S\'està carregant per USB/CA» hauria d\'aparèixer a continuació.</string>
   <string name="cit_charger_plugin_check_title">Carregador (connecta)</string>
   <string name="cit_charger_plugout_check_summary">En desconnectar el carregador USB el text «El carregador USB/CA s\'ha desconnectat» hauria d\'aparèixer a continuació.</string>
   <string name="cit_charger_plugout_check_title">Carregador (desconnecta)</string>
   <string name="cit_charger_waiting_in">Connecteu el carregador</string>
   <string name="cit_charger_waiting_out">Desconnecteu el carregador ara</string>
+  <string name="cit_def_torch_on_one">Activeu el primer flaix</string>
+  <string name="cit_def_torch_on_three">Activeu el tercer flaix</string>
+  <string name="cit_def_torch_on_two">Activeu el segon flaix</string>
+  <string name="cit_diag_chaging_summary">Copia els arxius de registre de les càrregues a la targeta sd</string>
+  <string name="cit_diag_chaging_title">Llegeix el registre de càrrega</string>
+  <string name="cit_diag_chaging_wait">Espereu... Copiant fitxers</string>
   <string name="cit_dial_emergencycall">Trucar al 112</string>
   <string name="cit_display_check_summary">Confirmeu que el fitxer bmp requerit es troba a la targeta SD. Confirmeu que els colors es mostren consistentment a través de tota la pantalla. Assegureu-vos que no hi ha taques fosques ni taques irregulars.</string>
   <string name="cit_display_check_title">Pantalla</string>
   <string name="cit_display_continue">Toqueu la pantalla per començar la prova</string>
+  <string name="cit_display_test_end">Prova finalitzada</string>
+  <string name="cit_display_test_next">Següent</string>
   <string name="cit_emergencycall_check_summary">Premeu el botó Truca al 112 per trucar al 112 i comprovar si està disponible.</string>
   <string name="cit_emergencycall_check_title">Trucada d\'emergència</string>
   <string name="cit_exit_test_summary">Quan sortiu, s\'eliminaran totes les dades de text relacionades.</string>
   <string name="cit_exit_test_title">Surt de la prova</string>
+  <string name="cit_f2_cali">Calibratge</string>
+  <string name="cit_f2_cali_done">Calibratge finalitzat!</string>
+  <string name="cit_f2_cali_failed">Calibratge fallit, torneu-ho a provar!</string>
+  <string name="cit_f2_cali_title">Calibratge de la càmera</string>
+  <string name="cit_f2_calibrating">Calibratge en curs...</string>
+  <string name="cit_f2_camera_check_summary">"Instruccions de la prova:
+
+1. Premeu el botó de calibratge.
+2. Sortirà una etiqueta de calibratge finalitzat per indicar que ja s\'ha calibrat la càmera."</string>
+  <string name="cit_f2_capture_fail">Ha fallat la captura, torneu-ho a provar!</string>
+  <string name="cit_f2_capture_success">Cliqueu el botó de calibratge!</string>
   <string name="cit_fail">Ha fallat</string>
+  <string name="cit_fast_screen_touch_check_title">Prova de validació de toc ràpid de pantalla</string>
   <string name="cit_finger_check_title">Prova d\'empremta (FPC)</string>
   <string name="cit_flash_life_check_summary">Temps estimat de vida del flaix del dispositiu</string>
   <string name="cit_flash_life_check_title">Vida del flaix</string>
@@ -190,7 +224,6 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_front_camera_check_title">Càmera frontal</string>
   <string name="cit_get_signature_failed">HA FALLAT la obtenció de la signatura</string>
   <string name="cit_gps_check_summary">La informació corresponent al GPS hauria de mostrar-se a continuació.</string>
-  <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"El GPS no s\'ha iniciat 
 
 Toqueu la pantalla per iniciar el GPS&#8230;"</string>
@@ -241,6 +274,9 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_lcdlight_brightness">Llum de fons</string>
   <string name="cit_lcdlight_brightness_max">MÀX</string>
   <string name="cit_lcdlight_brightness_min">MÍN</string>
+  <string name="cit_led_check_charge_light">led de càrrega</string>
+  <string name="cit_led_check_first_flash_light">primer led de flaix</string>
+  <string name="cit_led_check_second_flash_light">segon led de flaix</string>
   <string name="cit_leds_check_summary">Llum de fons, llum de notificació i llum de flaix (part posterior), han de respondre en prémer el botó corresponent.</string>
   <string name="cit_leds_check_title">Llum de notificació (LED)</string>
   <string name="cit_light_sensor_check_summary">El valor DAC hauria d\'aparèixer sota.</string>
@@ -258,6 +294,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_name">Proves de maquinari</string>
   <string name="cit_nfc_check_summary">Poseu la targeta a la part superior posterior del telèfon</string>
   <string name="cit_nfc_check_title">Prova NFC</string>
+  <string name="cit_no_sim_check_summary">Confirmeu que el mòbil no té tarja SIM!</string>
+  <string name="cit_no_sim_check_title">No hi ha cap tarja SIM</string>
   <string name="cit_not_available">"Aquesta prova no està disponible en aquesta versió de MIUI"</string>
   <string name="cit_notificationlight">Llum de notificació</string>
   <string name="cit_notificationlight_off">Llum de notificació desactivada</string>
@@ -274,17 +312,29 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_power_check_title">Indicador de bateria</string>
   <string name="cit_pressure_sensor_check_summary">El valor de la pressió ha d\'aparèixer a sota</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressió</string>
+  <string name="cit_proximity_data_check_summary">"Cobriu el sensor de proximitat (situat a la part superior del telèfon a prop del receptor) amb la mà, després allunyeu-la. Hauria d\'augmentar el valor des de 0,0 a mida que allunyeu la mà del dispositiu. 
+Si es tracta d\'un sensor de proximitat ultrasònic, feu veure que contesteu una trucada durant la validació"</string>
   <string name="cit_proximity_sensor_check_summary">Cobriu el sensor de proximitat (situat a la part superior del telèfon a prop del receptor) amb la mà, després moveu la mà lluny. Hauria d\'augmentar el valor 0,0 en moure la mà més lluny del dispositiu. Durant el calibratge, assegureu-vos que no hi ha res entre el sensor i la mà (p. ex. coberta protectora de pantalla o guants).</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximitat</string>
   <string name="cit_proximity_us_sensitivity">Sensibilitat:</string>
   <string name="cit_proximity_us_summary">Calibratge ultrasònic del sensor de proximitat</string>
   <string name="cit_rear_dual_camera_check_title">Càmera dual posterior</string>
+  <string name="cit_rear_dual_second_camera_check_title">segona càmera dual</string>
+  <string name="cit_rear_sub_camera_check_summary">"Instruccions de la prova:
+ 		 
+1.Premeu el botó Càmera que hi ha a sota per iniciar la interfície de la subcàmera posterior.
+2.Premeu l\'obturador.
+3.El sistema desarà la foto automàticament desprès de la captura
+4.La foto que heu fet s\'hauria de mostrar a la pantalla. Premeu Correcte per finalitzar la prova."</string>
   <string name="cit_rear_sub_camera_check_title">Sub càmera posterior</string>
   <string name="cit_recovery_signature_failed">HA FALLAT la restauració de la signatura</string>
   <string name="cit_recovery_signature_passed">restauració de la signatura CORRECTA</string>
   <string name="cit_reset_check_summary">Aquesta prova reiniciarà el dispositiu. Es perdran totes les dades de la prova anterior.</string>
   <string name="cit_reset_check_title">Prova de reinici</string>
   <string name="cit_reset_test">Prova</string>
+  <string name="cit_rgb_check_blue_light">RGB blau</string>
+  <string name="cit_rgb_check_green_light">RGB verd</string>
+  <string name="cit_rgb_check_red_light">RGB vermell</string>
   <string name="cit_sar_sensor_check_summary">Els valors per als canals del sensor sar han d\'aparèixer a continuació, cobriu el botó del telèfon, si les dades han canviat, funciona correctament, no realitzeu el calibratge amb el cable USB connectat!</string>
   <string name="cit_sd_fail">S\'ha produït un error.</string>
   <string name="cit_sd_mount">Munta la targeta SD</string>
@@ -483,6 +533,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_wifi_fail_to_scan">"No s'han pogut escanejar les xarxes"</string>
   <string name="cit_wifi_state_refresh">Actualitza</string>
   <string name="cit_yellow_torch_on">Activa el LED groc</string>
+  <string name="display_test_finish">Prova de pantalla completada</string>
   <string name="error_app_internal">Error intern de l\'aplicació</string>
   <string name="error_app_unsupported">Format no suportat</string>
   <string name="error_failed_to_get_data">no s\'han pogut obtenir dades</string>
@@ -492,12 +543,19 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
   <string name="fod_pressure_sensor_pressure_data_collection">Recollint dades de pressió....</string>
   <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
+  <string name="ir_camera_test_summary_capture">"Instruccions de la prova:
+ 		 
+1.Premeu el botó Càmera que hi ha a sota per iniciar la interfície de càmera.
+2.Premeu l\'obturador.
+3.El sistema desarà la foto automàticament desprès de la captura.
+4.La foto que heu fet s\'hauria de mostrar a la pantalla. Premeu Correcte per finalitzar la prova."</string>
   <string name="keyboard">BOTÓ</string>
   <string name="lcminfo">Informació del LCM</string>
   <string name="magnetic_info_hint">Gireu el dispositiu formant un 8</string>
   <string name="mic1_spk_loop">Reprodueix el micro als altaveus</string>
   <string name="micphone_test">MIC i SPK</string>
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
+  <string name="pass">Correcte</string>
   <string name="radio_boy">Veu d\'home</string>
   <string name="radio_gril">Veu de dona</string>
   <string name="radio_info_call_status_label">Estat de la trucada de veu:</string>
@@ -510,6 +568,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="radio_info_unknown">No indicat</string>
   <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
+  <string name="screen_cancel">Desactiva</string>
+  <string name="screen_confirm">Activa</string>
   <string name="search_menu_title">Cerca</string>
   <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
@@ -519,12 +579,17 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="start">Inicia</string>
   <string name="status">Estat</string>
   <string name="status_failed">Ha fallat una o més proves</string>
+  <string name="status_passed">Aprovat</string>
   <string name="status_running">En execució</string>
   <string name="status_text">Estat:</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
   <string name="title_farr">Prova FAR i FRR</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
+  <string name="touch_self">No toqueu la pantalla mentre duri la prova…</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>
+  <string name="unlock">Desbloca</string>
+  <string name="verified_boot_lock">Blocat</string>
+  <string name="verified_boot_unlock">Desblocat</string>
   <string name="waiting">S\'està esperant 4 secs.</string>
 </resources>
