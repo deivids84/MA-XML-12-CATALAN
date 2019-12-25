@@ -324,9 +324,12 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
-        <item>Activa còdecs opcionals</item>
-        <item>Desactiva còdecs opcionals</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>Habilita els còdecs opcionals</item>
+        <item>Inhabilita els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -336,7 +339,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Habilita els còdecs opcionals</item>
         <item>Inhabilita els còdecs opcionals</item>
     </string-array>
@@ -369,9 +375,9 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Inhabilitat</item>
         <item>Filtrat Habilitat</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
         <item>Habilitat</item>
+        <item>Habilitat \"Capçaleres filtrades\"</item>
+        <item>Habilitat \"Paquets multimèdia filtrats\"</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segon</item>

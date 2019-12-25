@@ -1194,7 +1194,7 @@ Taxa de mostreig"</string>
   <string name="bootloader_device_bind_server_token_expired_1">"No s'ha pogut verificar. Proveu d’afegir de nou el vostre compte i dispositiu."</string>
   <string name="bootloader_device_bind_server_token_expired_2">"No s'ha pogut verificar. Inicieu la sessió al vostre compte de nou i torneu a començar."</string>
   <string name="bootloader_device_bind_sim_invalid">La targeta SIM no és vàlida. Reemplaceu-la i torneu-ho a provar.</string>
-  <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
+  <string name="bootloader_locked_answer_1">"Bloquegem dispositius per assegurar-nos que estiguin segurs i que la vostra informació personal no es reveli a tercers. Si necessiteu accedir al mode Fastboot i flaixejar el dispositiu, desbloqueu-lo primer."</string>
   <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
   <string name="bootloader_locked_answer_2">"1. Assegureu-vos que ja heu inserit una targeta SIM al vostre dispositiu.
 2. Desactiveu la WLAN i activeu les dades mòbils. Assegureu-vos que el vostre dispositiu es pugui connectar a Internet mitjançant les dades mòbils.
@@ -1402,7 +1402,7 @@ Aquesta funció es pot desactivar a Configuració."</string>
   <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
   <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
   <string name="charge_length_format">Fa %1$s</string>
-  <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
+  <string name="charging_sounds_title">Sons de càrrega</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
   <string name="check_update">Comprova les actualitzacions</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilitza el volum de les trucades entrants per a les notificacions</string>
@@ -1440,10 +1440,12 @@ Aquesta funció es pot desactivar a Configuració."</string>
   <string name="close_demo_mode">Cancel·la</string>
   <string name="close_fod">"No podreu desbloquejar el vostre dispositiu mitjançant la vostra empremta digital quan la pantalla estigui desactivada. El desbloqueig d’empremtes digitals només funcionarà quan la pantalla estigui activada."</string>
   <string name="close_fod_aod">"No podreu desbloquejar el vostre dispositiu mitjançant la vostra empremta digital quan la pantalla estigui desactivada. \"Mode sempre activat\" tampoc estarà disponible. El desbloqueig d’empremtes digitals només funcionarà quan la pantalla estigui activada."</string>
+  <string name="close_hotspot_hint">Apagueu el punt d\'accés portàtil abans d\'emetre</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_optimization_message">La disposició de text, els comptes i altres parts de MIUI poden veure\'s afectats un cop desactivada aquesta funció.</string>
   <string name="close_optimization_option">Desactivat</string>
   <string name="close_privacy_thumbnail_blur_title">"Les previsualitzacions no es difuminen"</string>
+  <string name="close_slave_wifi_hint">Desconnecteu les xarxes WLAN auxiliars abans d\'emetre</string>
   <string name="cloud_backup_section_title">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Còpia de seguretat de la configuració</string>
   <string name="cloud_restore_section_summary">Restaura la configuració del sistema, el disseny de la pantalla d\'inici i les aplicacions</string>
@@ -1455,6 +1457,13 @@ Aquesta funció es pot desactivar a Configuració."</string>
   <string name="color_cyan">Turquesa</string>
   <string name="color_gray">Gris</string>
   <string name="color_green">Verd</string>
+  <string name="color_lamp_applications_title">Gestiona les notificacions</string>
+  <string name="color_lamp_applications_title_summary">Permeteu o restringiu l\'ús de llum LED a \"Categories de notificació\"</string>
+  <string name="color_lamp_battery_title">Segueix encès mentre carrega</string>
+  <string name="color_lamp_charging_summary">La llum LED s’apagarà quan el dispositiu estigui totalment carregat</string>
+  <string name="color_lamp_incall_pulse_title">Pampalluga per a trucades entrants</string>
+  <string name="color_lamp_notification_pulse_title">Pampalluga per a notificacions quan la pantalla estigui desactivada</string>
+  <string name="color_lamp_title">Llum LED</string>
   <string name="color_led_applications_title">Seleccioneu les aplicacions</string>
   <string name="color_led_applications_title_summary">Podeu restringir l\'ús de la llum LED per a aplicacions individualment</string>
   <string name="color_led_battery_title">Manté encès mentre s\'està carregant</string>
@@ -1895,6 +1904,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»\"\"\""</string>
   <string name="default_vol_stream_title">Barra de control del volum per defecte</string>
   <string name="delete">Elimina</string>
   <string name="delete_fingerprint_confirm_msg">Voleu suprimir les empremtes?</string>
+  <string name="delete_fingerprint_confirm_title">Atenció</string>
   <string name="delete_fingerprint_text">Suprimeix les empremtes</string>
   <string name="delete_legacy_fingerprint">Elimina</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Voleu suprimir aquesta empremta?</string>
@@ -2041,6 +2051,8 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l\'aplicaci
   <string name="disallow_lock_screen_summary">Permet primer les notificacions a \"Notificacions d\'aplicacions\"</string>
   <string name="disconnect">desconnecta</string>
   <string name="disconnected">S\'ha desconnectat</string>
+  <string name="display_advanced_mode_summary">Opcions de gamma de colors</string>
+  <string name="display_advanced_mode_title">Configuració avançada</string>
   <string name="display_auto_rotate_rotate">Activat</string>
   <string name="display_auto_rotate_stay_in_current">Desactivat</string>
   <string name="display_auto_rotate_stay_in_landscape">Bloqueja\'l en horitzontal</string>
@@ -2168,6 +2180,8 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l\'aplicaci
   <string name="dual_clock_open_message">El rellotge dual es mostrarà a la pantalla de bloqueig, pantalla d\'inici.</string>
   <string name="dual_wifi">Impuls de velocitat WLAN de doble banda</string>
   <string name="dual_wifi_acceleration">Potencia la velocitat</string>
+  <string name="dual_wifi_auto_disable">Deixa d’incrementar la velocitat automàticament</string>
+  <string name="dual_wifi_auto_disable_summary">Desconnecta de les xarxes WLAN auxiliars quan la pantalla s’apagui per estalviar energia</string>
   <string name="dual_wifi_avaliable_slave_wifi">Xarxes auxiliars disponibles</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Xarxes auxiliars disponibles (banda de 2,4 GHz)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Xarxes auxiliars disponibles (banda de 5 GHz)</string>
@@ -2684,6 +2698,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="google_service_title">Serveis de Google</string>
   <string name="google_title">Google</string>
   <string name="got_it">Entesos</string>
+  <string name="gps_description">S’admeten diversos sistemes de navegació per satèl·lit (GPS, BeiDou, GLONASS, Galileo)</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Escàner d’empremtes</string>
   <string name="gxzw_add_fingerprint_continue">Continua</string>
@@ -2726,6 +2741,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="handy_mode_tips_full_screen">"Si feu servir els gestos de pantalla completa, podeu activar el mode d’una sola mà amb la bola de dreceres. També podeu canviar a fer servir els botons en lloc dels gestos a pantalla completa."</string>
   <string name="haptic_feedback_enable_title">Vibra en tocar</string>
   <string name="haptic_feedback_level">Vibració</string>
+  <string name="haptic_feedback_progress">Nivell de resposta hàptica</string>
+  <string name="haptic_feedback_summary">Rebre una resposta tàctil a gestos i controls del sistema</string>
+  <string name="haptic_feedback_title">Resposta hàptica</string>
   <string name="hardkeyboard_category">Configuració de teclat físic</string>
   <string name="hardware_info">Model i maquinari</string>
   <string name="hardware_revision">Versió del maquinari</string>
@@ -2787,6 +2805,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="ignore_optimizations_on_desc">És possible que la bateria es consumeixi més ràpidament</string>
   <string name="ignore_optimizations_title">Permetre a %s ignorar optimitzacions de la bateria?</string>
   <string name="ime_security_warning">%1$s pot enregistrar tot el que escriu, incloses les contrasenyes, números de targetes de crèdit i altres dades personals.</string>
+  <string name="ime_security_warning_global">És possible que els mètodes d\'introducció puguin recopilar tot el text que escriviu, incloses les dades personals com ara la contrasenya i els números de la targeta de crèdit. Voleu utilitzar %1$s?</string>
+  <string name="ime_security_warning_title_global">Activant el teclat</string>
   <string name="imei_information_summary">Informació relativa a l\'IMEI</string>
   <string name="imei_information_title">Informació de l\'IMEI</string>
   <string name="imei_multi_sim">IMEI (ranura sim %1$d)</string>
@@ -3064,6 +3084,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="legal_workday_invalidate">Dl-Dv (informació de festius caducada)</string>
   <string name="legal_workday_invalidate_message">Premeu per actualitzar la informació de dies festius.</string>
   <string name="legal_workday_message">(Omet els festius)</string>
+  <string name="legal_written_offer">Oferta escrita</string>
   <string name="license_title">Llicència</string>
   <string name="lift_to_wake_title">Aixeca\'l per reactivar-lo</string>
   <string name="lights_title">Llum LED</string>
@@ -3355,11 +3376,14 @@ com el PIN del primer espai. "</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="lockscreen_label">Pantalla de bloqueig</string>
   <string name="lockscreen_magazine">Carrusel de fons de pantalla</string>
+  <string name="lockscreen_magazine_india">Mirada per Mi</string>
   <string name="lockscreen_magazine_summary">Impressionants imatges i històries emocionants lliurades diàriament</string>
   <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="lockscreen_settings_title">Preferències de la pantalla de bloqueig</string>
   <string name="lockscreen_settings_what_to_show_category">Què mostrar</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Personalitzeu les aplicacions que es mostren al tauler lateral de la pantalla de bloqueig</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Dreceres del tauler lateral</string>
   <string name="login_account_dialog_message">Inicia la sessió amb el compte de Mi i activa la sincronització amb Mi Cloud.</string>
   <string name="login_account_dialog_title">Inicia la sessió amb el compte Mi</string>
   <string name="login_account_summary">Gestioneu els comptes, serveis al núvol, pagaments i molt més</string>
@@ -3761,7 +3785,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="msd_pc_system_install_summary_xp">1. Per a instal·lar-ho, executa setup.exe</string>
   <string name="msg_wlan_signal_found">Voleu connectar amb %s?</string>
   <string name="msim_sim_radio_off">Apagat</string>
+  <string name="mtp_connection_failed">"No es poden transferir fitxers a l'ordinador connectat. Proveu la resolució de problemes."</string>
+  <string name="mtp_connection_failed_title">Connexió USB</string>
+  <string name="mtp_connection_not_remind">"No ho tornis a mostrar"</string>
   <string name="mtp_ptp_mode_summary">La funció MTP o PTP està activa</string>
+  <string name="mtp_solution_button_cancel">Entesos</string>
+  <string name="mtp_solution_button_ok">Resolució de problemes</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
   <string name="mtrl_picker_cancel">Cancel·la</string>
   <string name="mtrl_picker_confirm">Desa</string>
@@ -4183,6 +4212,7 @@ Això també donarà a l’aplicació la possibilitat d’activar o desactivar N
   <string name="open_demo_mode">Activa</string>
   <string name="open_demo_mode_warning_message">Quan el mode de demostració estigui activat, el rellotge de la barra d\'estat s\'aturarà, les icones de la bateria i del senyal es mostraran al màxim. Podeu activar el mode de demostració o reiniciar el dispositiu per canviar-lo.</string>
   <string name="open_game_accelerate">Activa Game Turbo</string>
+  <string name="open_haptic_feedback">Resposta hàptica</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_optimization_message">Activa l’optimització per gaudir d’una interfície d’usuari més suau i ràpida.</string>
   <string name="open_optimization_option">Activa</string>
@@ -4348,6 +4378,7 @@ OTG s\'apaga automàticament després de 10 minuts d\'inactivitat."</string>
   <string name="popup_gesture_title">Aixeca per obrir la càmera frontal</string>
   <string name="popup_led_summary">Mostra animació quan apareix la càmera frontal i es retreu</string>
   <string name="popup_led_title">Efecte visual</string>
+  <string name="popup_led_try_later">Espereu un minut o dos i torneu-ho a provar</string>
   <string name="popup_title">Efectes de la càmera frontal</string>
   <string name="popup_title_cangmen">Porta de cabina</string>
   <string name="popup_title_chilun">Roda d\'engranatge</string>
@@ -5745,6 +5776,8 @@ Aquesta opció requereix permís per accedir a la vostra ubicació, per l\'ús d
   <string name="sound_title">So</string>
   <string name="sound_vibrate_settings">So i vibració</string>
   <string name="sound_work_settings">Sons del perfil laboral</string>
+  <string name="speaker">Altaveu</string>
+  <string name="speaker_clean">Neteja l\'altaveu</string>
   <string name="special_access">Accés especial</string>
   <string name="special_access_more">Mostra\'n més</string>
   <string name="speed_label_fast">Ràpida</string>
@@ -6511,6 +6544,10 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usb_eject_summary">Expulsa l\'emmagatzematge USB de forma segura</string>
   <string name="usb_format">Esborra l\'emmagatzematge USB</string>
   <string name="usb_format_summary">Esborra totes les dades d\'emmagatzematge USB (per exemple, música i fotos)</string>
+  <string name="usb_headset_not_support_cancel">Entesos</string>
+  <string name="usb_headset_not_support_message">"No es pot reproduir l\'àudio mitjançant l\'adaptador. Utilitzeu auriculars digitals
+o auriculars amb endoll de 3,5 mm."</string>
+  <string name="usb_headset_not_support_tile">"No es pot reproduir l'àudio"</string>
   <string name="usb_host_mode_subtext">L\'ús de comandaments de jocs i altres perifèrics al port USB pot escurçar la vida de la bateria</string>
   <string name="usb_host_mode_text">Activa el mode convidat USB</string>
   <string name="usb_insert_summary">Connecta l\'emmagatzematge USB</string>
@@ -6688,6 +6725,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vibrate_title">Vibració</string>
   <string name="vibrate_when_ringing_title">Vibra amb el so de trucada</string>
   <string name="video_calling_settings_title">Trucada de vídeo de l\'operador</string>
+  <string name="video_tool_box_title">Caixa d\'eines de vídeo</string>
   <string name="vip_list">Permet trucades entrants</string>
   <string name="virtual_keyboard_category">Teclat virtual</string>
   <string name="virtual_keyboards_for_work_title">Teclat virtual per la feina</string>
@@ -7775,9 +7813,19 @@ Actualitzeu la configuració a:
   <string name="zen_sound_one_allowed">Silencia, però permet %1$s</string>
   <string name="zen_sound_three_allowed">Silencia, però permet %1$s, %2$s i %3$s</string>
   <string name="zen_sound_title">Mostra totes les excepcions</string>
+  <string name="zen_sound_two_allowed">Silencia, però permet %1$s i %2$s</string>
+  <string name="zen_suggestion_summary">Pausa les notificacions per mantenir-se centrat</string>
+  <string name="zen_suggestion_title">Actualitza No molestar</string>
   <string name="zone_auto_summaryOff">Utilitza l\'hora proporcionada per la xarxa</string>
   <string name="zone_auto_summaryOn">Utilitza l\'hora proporcionada per la xarxa</string>
+  <string name="zone_auto_title">Utilitza la zona horària proporcionada per la xarxa</string>
+  <string name="zone_change_to_from_dst">%1$s comença en %2$s.</string>
+  <string name="zone_info_footer">Utilitza %1$s. %2$s comença en %3$s.</string>
+  <string name="zone_info_footer_no_dst">Utilitza %1$s. No hi ha horari d\'estiu.</string>
   <string name="zone_list_menu_sort_alphabetically">Ordena alfabèticament</string>
   <string name="zone_list_menu_sort_by_timezone">Ordena per fus horari</string>
+  <string name="zone_menu_by_offset">Seleccioneu per desplaçament UTC</string>
+  <string name="zone_menu_by_region">Seleccioneu per regió</string>
+  <string name="zone_time_type_dst">Horari d\'estiu</string>
   <string name="zone_time_type_standard">Hora estàndard</string>
 </resources>
