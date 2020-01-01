@@ -146,6 +146,11 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
 Toqueu la pantalla per afegir o moure una ciutat manualment"</string>
   <string name="location_provider_btn_text">Activa els serveis d’ubicació</string>
   <string name="location_tag">Ubica</string>
+  <string name="manager_city_option_add_city_back_search">Torna a la cerca</string>
+  <string name="manager_city_option_add_city_content">S\'ha afegit aquesta ciutat a la pàgina d\'inici correctament</string>
+  <string name="manager_city_option_add_city_title">S\'ha afegit correctament</string>
+  <string name="manager_city_option_add_home">Afegeix a la pàgina d\'inici</string>
+  <string name="manager_city_option_view_on_home">Mostra a la pàgina d\'inici</string>
   <string name="menu_location">Ubicacions</string>
   <string name="menu_speaker">Difusió de veu</string>
   <string name="minute_rain">Previsió de precipitació</string>
@@ -261,6 +266,7 @@ Toqueu la pantalla per afegir o moure una ciutat manualment"</string>
   <string name="weather_introduce">Sempre amb tu, amb pluja o sol.</string>
   <string name="weather_permission_agree">Accepta</string>
   <string name="weather_service_channel_name">Serveis en segon pla</string>
+  <string name="widget_cta_not_agree">Toqueu per obtenir informació meteorològica</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="xiaomi_weather_description_content">"El temps us proporciona informació meteorològica precisa. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d’aquestes funcions abans de desinstal·lar l’aplicació."</string>
