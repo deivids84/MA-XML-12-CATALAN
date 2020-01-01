@@ -69,6 +69,7 @@
   <string name="button_send">Envia</string>
   <string name="call_title">Historial de trucades</string>
   <string name="camera_summary">Configuració de la càmera (sense incloure fotos)</string>
+  <string name="camera_summary_for_cta">Configuració de la càmera</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_backup">Atura</string>
   <string name="cancel_moving_dialog_message">Voleu aturar la importació?</string>
@@ -136,7 +137,6 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
   <string name="enable_encrypt_summery1">Inicieu la sessió amb el compte Mi per accedir a les còpies de seguretat xifrades.</string>
   <string name="enable_encrypt_summery2">"Les còpies de seguretat es xifraran automàticament. Haureu d’iniciar la sessió al compte Mi per accedir-hi."</string>
   <string name="enable_encrypt_title">Xifra les còpies de seguretat</string>
-  <string name="enable_encrypt_xiaomi_account">Aquesta còpia de seguretat va ser creada per %1$s. Per restaurar-la, suprimiu el compte actual i inicieu la sessió com a %2$s.</string>
   <string name="err_acquire_system_service">"No s'ha pogut iniciar el servei del sistema."</string>
   <string name="err_authentication_failed">"No s'ha pogut autenticar"</string>
   <string name="err_bakfile_broken">"No es pot utilitzar aquesta còpia de seguretat."</string>
