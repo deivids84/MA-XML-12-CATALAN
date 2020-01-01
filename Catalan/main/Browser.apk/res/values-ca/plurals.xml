@@ -45,6 +45,12 @@
         <item quantity="other">Voleu suprimir %1$d elements de l\'historial?</item>
         <item quantity="one">Voleu suprimir %1$d element de l’historial?</item>
     </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"No s\'ha pogut carregar el vídeo.
+Es reproduirà el següent en %d segons…"</item>
+        <item quantity="one">"No s\'ha pogut carregar el vídeo.
+Es reproduirà el següent en %d segon…"</item>
+    </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">Falten %d minuts</item>
         <item quantity="one">Falta %d minut</item>
