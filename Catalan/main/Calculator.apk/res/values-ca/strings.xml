@@ -26,7 +26,7 @@
   <string name="clear_history">Esborra l\'historial</string>
   <string name="combine_loan">Préstec combinat</string>
   <string name="commercial_loan">Préstec comercial</string>
-  <string name="convert_currency">Convertidor de divises</string>
+  <string name="convert_currency">Convertidor de moneda</string>
   <string name="convertion_unit">Convertidor d\'unitats</string>
   <string name="convertion_unit_area">Convertidor d\'àrees</string>
   <string name="convertion_unit_length">Convertidor de longitud</string>
@@ -48,7 +48,7 @@
   <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'impostos. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="description_title">Quant a la Calculadora</string>
   <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
-  <string name="dialog_privacy_content">A més de la funcionalitat bàsica, la Calculadora Mi us permet convertir monedes i unitats de mesurament, calcular les amortitzacions d’hipoteca i molt més. Algunes funcions poden requerir la connexió a Internet per poder funcionar amb normalitat. &lt;Data&gt;Abans d’utilitzar aquesta aplicació, llegiu i accepteu el nostre &amp;It;a href=%1$s&amp;gt;Acord d’usuari&amp;It;/a&amp;gt; i &amp;It;a href=%2$s&amp;gt;la Política de privadesa&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="dialog_privacy_content">A més de la funcionalitat bàsica, la Calculadora Mi us permet convertir monedes i unitats de mesurament, calcular les amortitzacions d’hipoteca i molt més. Algunes funcions poden requerir la connexió a Internet per poder funcionar amb normalitat. &lt;Data&gt;Abans d’utilitzar aquesta aplicació, llegiu i accepteu el nostre &amp;lt;a href=%1$s&amp;gt;Acord d\'usuari&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;la Política de privadesa&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="dialog_privacy_title">Termes i condicions</string>
   <string name="dialog_rating_desc_ask">Què en penseu de la Calculadora?</string>
   <string name="dialog_rating_desc_less">Podria donar-nos la seva opinió?</string>
@@ -68,7 +68,7 @@
   <string name="from_unit_en">Quilòmetres per hora</string>
   <string name="fund_loan">Préstec de fons</string>
   <string name="further_education">Educació superior</string>
-  <string name="global_network_confirm_content">El convertidor de divises ha de connectar-se a Internet per funcionar amb normalitat.</string>
+  <string name="global_network_confirm_content">El convertidor de moneda ha de connectar-se a Internet per funcionar amb normalitat.</string>
   <string name="global_search_key_area_convertion">Àrea; Convertidor d\'àrea; Conversió d\'àrea</string>
   <string name="global_search_key_calculation">Calcula;Calculadora;Conversió d’unitat;Convertidor;Convertidor d’unitat</string>
   <string name="global_search_key_date_convertion">Convertidor de temps;Unitats de temps;Conversió de temps;Temps</string>
@@ -104,7 +104,7 @@
   <string name="item_title_scientific_calculator">Científica</string>
   <string name="item_title_tax">Impostos</string>
   <string name="item_title_temprature_conversion">Temperatura</string>
-  <string name="item_title_time_conversion">Hora</string>
+  <string name="item_title_time_conversion">Temps</string>
   <string name="item_title_tip">Propina</string>
   <string name="item_title_vel_conversion">Velocitat</string>
   <string name="item_title_volume_conversion">Volum</string>
@@ -209,7 +209,7 @@ Tingueu en compte que aquesta aplicació necessita connectar-se a Internet i req
   <string name="preference_follow_web_title">Lloc web oficial</string>
   <string name="preference_help">Ajuda i comentaris</string>
   <string name="preference_other">Altres</string>
-  <string name="preference_privacy_title">Política de Privadesa</string>
+  <string name="preference_privacy_title">Política de privadesa</string>
   <string name="preference_rating_title">Valoreu la nostra aplicació</string>
   <string name="preference_settings">Configuració</string>
   <string name="preference_use_degress_summary">Substitueix radiants amb angles en funcions trigonomètriques</string>
