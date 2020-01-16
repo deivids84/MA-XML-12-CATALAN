@@ -37,6 +37,10 @@
         <item quantity="other">%1$d contactes importats</item>
         <item quantity="one">%1$d contacte importat</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">S\'han importat %1$d contactes</item>
+        <item quantity="one">S\'ha importat %1$d contacte</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Voleu bloquejar %1$d números?</item>
         <item quantity="one">Voleu bloquejar %1$d número?</item>
@@ -48,6 +52,10 @@
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">La targeta SIM pot emmagatzemar %1$d contactes.</item>
         <item quantity="one">La targeta SIM pot emmagatzemar %1$d contacte.</item>
+    </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">S\'han trobat més de %d contactes.</item>
+        <item quantity="one">S\'ha trobat més de %d contacte.</item>
     </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other"> %1$d contactes afegits</item>
@@ -77,25 +85,17 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">S\'han trobat %d</item>
-        <item quantity="one">Se n\'ha trobat 1</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contactes</item>
-        <item quantity="one">1 contacte</item>
+        <item quantity="one">%d contacte</item>
     </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contactes amb número de telèfon</item>
-        <item quantity="one">1 contacte amb número de telèfon</item>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contactes amb informació parcialment idèntica</item>
+        <item quantity="one">%1$d contacte amb informació parcialment idèntica</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">s\'ha combinat de %0$d fonts</item>
         <item quantity="one">no s\'ha combinat</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d missatges de veu</item>
-        <item quantity="one">Missatge de veu</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionats</item>
@@ -107,7 +107,7 @@
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d grups</item>
-        <item quantity="one">1 grup</item>
+        <item quantity="one">%d grup</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d elements restants</item>
@@ -135,7 +135,15 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">S\'han trobat %d</item>
-        <item quantity="one">Se n\'ha trobat 1</item>
+        <item quantity="one">S\'ha trobat %d</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">"No seleccioneu més de %1$d, no podeu seleccionar-ho tot"</item>
+        <item quantity="one">"No seleccioneu més de %1$d, no podeu seleccionar-ho tot"</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">No seleccioneu més de %1$d</item>
+        <item quantity="one">No seleccioneu més de %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d persones</item>
