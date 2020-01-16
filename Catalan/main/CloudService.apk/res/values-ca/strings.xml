@@ -14,6 +14,8 @@
   <string name="btn_return">Enrere</string>
   <string name="button_cancel">Cancel·la</string>
   <string name="calendar_sync">Calendari</string>
+  <string name="check_contact">Afegeix</string>
+  <string name="choose_contact_title">Contactes</string>
   <string name="click_to_enabled">Premeu per sincronitzar.</string>
   <string name="close_shortcut">Tanca</string>
   <string name="cloud_find_device">Troba el dispositiu</string>
@@ -359,6 +361,9 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="pay_info_dialog_mibi_balance_prefix">Utilitza els crèdits Mi restants: %s</string>
   <string name="pay_info_dialog_title">Seleccioneu el mètode de pagament</string>
   <string name="phone_number_required_dspt_provision">"Aquest servei requereix el seu número de telèfon. "</string>
+  <string name="picker_list_empty">No hi ha contactes aquí</string>
+  <string name="picker_search_empty">"No s'han pogut trobar contactes"</string>
+  <string name="picker_search_hint">Cerca</string>
   <string name="pre_privacy_policy">Política de privadesa</string>
   <string name="pre_user_agreement">Acord d\'usuari</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronitzar imatges de perfil de contactes només quan estiguis connectat per Wi-Fi"</string>
@@ -401,6 +406,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="soundrecorder_sync_only_in_wifi">Només utilitzar Wi-Fi per sincronitzar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">La gravadora no utilitzarà dades mòbils per baixar o pujar les gravacions</string>
   <string name="soundrecorder_sync_records">Sincronització amb Xiaomi Cloud</string>
+  <string name="starred_contact">Preferits</string>
   <string name="storage_manage_expansion">Aconsegueix-ne més</string>
   <string name="storage_manage_list_title">Dades al núvol</string>
   <string name="storage_manage_list_title_action">Mostra\'n més</string>
