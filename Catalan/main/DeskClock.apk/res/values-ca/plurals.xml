@@ -5,21 +5,73 @@
         <item quantity="other">Ajornada %d minuts.</item>
         <item quantity="one">Ajornada %d minut.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
-        <item quantity="other">Voleu eliminar les alarmes seleccionades?</item>
-        <item quantity="one">Voleu eliminar aquesta alarma?</item>
+        <item quantity="other">Voleu suprimir les alarmes seleccionades?</item>
+        <item quantity="one">Voleu suprimir aquesta alarma?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Voleu eliminar els fusos horaris seleccionats?</item>
-        <item quantity="one">Voleu eliminar aquest fus horari?</item>
+        <item quantity="other">Voleu suprimir els fusos horaris seleccionats?</item>
+        <item quantity="one">Voleu suprimir aquest fus horari?</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d dies</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d segons</item>
         <item quantity="one">%d segon</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s hores</item>
+        <item quantity="one">%1$s hora</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s hrs</item>
+        <item quantity="one">%1$s hr</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minuts</item>
+        <item quantity="one">%1$s minut</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">S\'ha canviat l\'interval d\'ajornament a %d minuts</item>
+        <item quantity="one">S\'ha canviat l\'interval d\'ajornament a %d minut</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Desactiva-ho %1$s vegades</item>
+        <item quantity="one">Desactiva-ho %1$s vegada</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Cada %1$s min, desactiva-ho %2$s vegades</item>
+        <item quantity="one">Cada %1$s min, desactiva-ho %2$s vegada</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Cada %1$s min</item>
+        <item quantity="one">Cada %1$s min</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">L’alarma es desactivarà %2$s vegades (%1$s min. cadascuna)</item>
+        <item quantity="one">L’alarma es desactivarà %2$s vegada (%1$s min.)</item>
+    </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Ajorna %d mins</item>
-        <item quantity="one">Ajorna %d min</item>
+        <item quantity="other">Ajorna-ho %d mins</item>
+        <item quantity="one">Ajorna-ho %d min</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d hores "</item>
