@@ -238,7 +238,7 @@
   <string name="delete_confirm">Elimina</string>
   <string name="delete_confirm_msg">Voleu eliminar tots els fitxers seleccionats permanentment?</string>
   <string name="desc_image">imatge</string>
-  <string name="dialog_content_checkbox_delete_cloud_image">També esborra fotos del Mi Cloud</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">Suprimeix també les fotos de Xiaomi Cloud</string>
   <string name="dialog_content_select_all_confirm">Voleu desar una còpia d\'aquesta foto?</string>
   <string name="dialog_msg_add_white_list_error">"El fitxer no es pot afegir a les excepcions"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Voleu fer còpia de seguretat i després desinstal·lar les aplicacions seleccionades?</string>

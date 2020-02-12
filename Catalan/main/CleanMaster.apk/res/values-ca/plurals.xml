@@ -87,6 +87,26 @@
         <item quantity="other">Voleu esborrar %1$s fotos de tots els dispositius?</item>
         <item quantity="one">Voleu esborrar %1$s foto de tots els dispositius?</item>
     </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; cançons)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canço)&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotos)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto)&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data&gt;S\'han trobat &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; missatges de veu&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;S\'ha trobat &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; missatge de veu&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grups</item>
         <item quantity="one">%d grup</item>
@@ -130,25 +150,5 @@
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Voleu suprimir %1$d elements?</item>
         <item quantity="one">Voleu suprimir %1$d element?</item>
-    </plurals>
-    <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; cançons)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; canço)&lt;/Data&gt;</item>
-    </plurals>
-    <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; fotos)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; foto)&lt;/Data&gt;</item>
-    </plurals>
-    <plurals name="global_wa_image">
-        <item quantity="other">%1$d elements</item>
-        <item quantity="one">%1$d element</item>
-    </plurals>
-    <plurals name="global_wa_video">
-        <item quantity="other">%1$d elements</item>
-        <item quantity="one">%1$d element</item>
-    </plurals>
-    <plurals name="global_wa_voice">
-        <item quantity="other">&lt;Data&gt;S\'han trobat &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; missatges de veu&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;S\'ha trobat &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; missatge de veu&lt;/Data&gt;</item>
     </plurals>
 </resources>
