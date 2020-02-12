@@ -19,21 +19,21 @@
         <item>Aquesta nit</item>
         <item>Demà</item>
         <item>Cap de setmana</item>
-        <item>Propera setmana</item>
-        <item>Proper mes</item>
-        <item>Triar data</item>
+        <item>Setmana vinent</item>
+        <item>Mes següent</item>
+        <item>Tria la data</item>
     </string-array>
     <string-array name="compose_modes">
         <item>Respon</item>
         <item>Respon a tots</item>
-        <item>Reenvia</item>
+        <item>Endavant</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Text diminut</item>
-        <item>Text petit</item>
-        <item>Text normal</item>
-        <item>Text gran</item>
-        <item>Text enorme</item>
+        <item>Diminut</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Gran</item>
+        <item>Enorme</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Vist recentment</item>
@@ -44,18 +44,22 @@
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sistema</item>
-        <item>Usats sovint</item>
+        <item>Utilitzats freqüentment</item>
         <item>Totes les carpetes</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Més recent</item>
         <item>Més antic</item>
-        <item>Llista de converses</item>
+        <item>Safata d\'entrada</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tots</item>
+        <item>Només els remitents</item>
     </string-array>
     <string-array name="signature_normal_string_array">
-        <item>Bloc:</item>
+        <item>Blog:</item>
         <item>Lloc:</item>
-        <item>Correu electrònic:</item>
+        <item>Correu:</item>
         <item>Mòbil:</item>
         <item>Telèfon:</item>
         <item>T:</item>
@@ -65,7 +69,7 @@
         <item>Correu:</item>
         <item>Tel:</item>
         <item>Fax:</item>
-        <item>Correspondència:</item>
+        <item>Correu:</item>
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
@@ -73,7 +77,7 @@
         <item>Adreça:</item>
         <item>Tel:</item>
         <item>Nom:</item>
-        <item>Correu electrònic:</item>
+        <item>Correu:</item>
         <item>Mòbil:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
@@ -81,23 +85,23 @@
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Renúncia:</item>
-        <item>Avís legal de correu electrònic</item>
-        <item>Enviat via WPSMail</item>
+        <item>Renúncia de correu electrònic</item>
+        <item>Enviat a través de WPSMail</item>
         <item>Enviat des de</item>
         <item>Enviat amb</item>
         <item>Gràcies,</item>
-        <item>Atentament</item>
+        <item>Salutacions cordials</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Gràcies,</item>
-        <item>Atentament</item>
+        <item>Salutacions cordials</item>
         <item>Enviat des del meu</item>
         <item>Correu original</item>
         <item>Enviat des del meu</item>
         <item>Enviat des de</item>
         <item>Des de</item>
-        <item>Aquest email</item>
+        <item>Aquest correu</item>
         <item>Renúncia</item>
-        <item>Renúncia email</item>
+        <item>Renúncia de correu</item>
     </string-array>
 </resources>
