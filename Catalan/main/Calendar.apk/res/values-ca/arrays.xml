@@ -103,16 +103,6 @@
     <item>Només quan el timbre està silenciat</item>
     <item>Mai</item>
   </string-array>
-  <string-array name="prefValues_alerts_popup">
-    <item>cap</item>
-    <item>tots</item>
-    <item>smart</item>
-  </string-array>
-  <string-array name="prefValues_alerts_vibrateWhen">
-    <item>sempre</item>
-    <item>en silenci</item>
-    <item>mai</item>
-  </string-array>
   <string-array name="preferences_week_start_day_labels">
     <item>Per defecte de la regió</item>
     <item>Dissabte</item>
