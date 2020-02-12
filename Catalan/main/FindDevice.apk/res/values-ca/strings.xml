@@ -3,9 +3,9 @@
 <resources>
   <string name="activate_xiaomi_account">Activa aquest dispositiu</string>
   <string name="adding_or_updating_account">S\'està actualitzant el compte&#8230;</string>
-  <string name="app_name">Trobar el dispositiu</string>
-  <string name="captcha">Codi de seguretat</string>
-  <string name="change_find_device_status_failed">"No es pot desblocar. %s."</string>
+  <string name="app_name">Troba el dispositiu</string>
+  <string name="captcha">Captcha</string>
+  <string name="change_find_device_status_failed">"No s'ha pogut desbloquejar. %s."</string>
   <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d\'un pagament endarrerit.
 Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Mi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
@@ -23,6 +23,7 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="find_device_error_access_denied">Accés denegat.</string>
   <string name="find_device_error_account_sys_timeout">"No s'ha pogut connectar al Compte Mi"</string>
   <string name="find_device_error_account_unknown_error">Error del Compte Mi (%s).</string>
+  <string name="find_device_error_custom">%s</string>
   <string name="find_device_error_network">S\'ha produït un error de xarxa.</string>
   <string name="find_device_error_password_changed">La contrasenya del vostre compte s\'ha canviat recentment.</string>
   <string name="find_device_error_server">Error de servidor (%s).</string>
