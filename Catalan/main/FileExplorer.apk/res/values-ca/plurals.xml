@@ -105,6 +105,10 @@
         <item quantity="other">Fitxers relacionats amb l\'etiqueta %1$s (%2$d elements)</item>
         <item quantity="one">Fitxer relacionat amb l\'etiqueta %1$s (%2$d element)</item>
     </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
+    </plurals>
     <plurals name="total_topic_num">
         <item quantity="other">%1$s temes</item>
         <item quantity="one">%1$s tema</item>
