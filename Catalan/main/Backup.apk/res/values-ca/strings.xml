@@ -19,7 +19,7 @@
   <string name="already_enable_encrypt">El xifratge ja està activat</string>
   <string name="app_name">Còpia de seguretat</string>
   <string name="apps_and_data_item_desc">Aplicacions i dades</string>
-  <string name="auto_backup">Planifica còpies de seguretat periòdiques</string>
+  <string name="auto_backup">Programa còpies de seguretat periòdiques</string>
   <string name="auto_backup_all_user_apps">Totes les aplicacions</string>
   <string name="auto_backup_choose">Elements de la còpia de seguretat</string>
   <string name="auto_backup_choose_empty">No hi ha còpies de seguretat.</string>
@@ -30,7 +30,7 @@
   <string name="auto_backup_progress">S\'està fent una còpia de seguretat…</string>
   <string name="auto_backup_select_user_apps">Trieu les aplicacions</string>
   <string name="auto_backup_selected_user_apps">Aplicacions seleccionades</string>
-  <string name="auto_backup_setting">Planifica còpies de seguretat periòdiques</string>
+  <string name="auto_backup_setting">Programa còpies de seguretat periòdiques</string>
   <string name="auto_backup_system_data">Sistema</string>
   <string name="auto_backup_time">Hora</string>
   <string name="auto_backup_user_data">Aplicacions</string>
@@ -85,15 +85,15 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
   <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
   <string name="close_twice_auth_steps">Seguiu aquests passos per desactivar l\'autenticació de dos factors per a la ID d\'Apple:</string>
   <string name="close_twice_auth_tutor">Desactiveu l\'autenticació de dos factors de l\'ID d\'Apple</string>
-  <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
+  <string name="cloud_app_name">Còpia de seguretat de Xiaomi Cloud</string>
   <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
   <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
-  <string name="cloud_backup_window_title">Còpia de seguretat de Mi Cloud</string>
+  <string name="cloud_backup_window_title">Còpies de seguretat de Xiaomi Cloud</string>
   <string name="cloud_last_backup">"Última còpia de seguretat "</string>
   <string name="cloud_no_backup">Sense còpies de seguretat</string>
   <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per %s, toqueu Restaura</string>
   <string name="cloud_restore_title">Restaura les dades de la còpia de seguretat</string>
-  <string name="cloud_restore_window_title">Restauració de Mi Cloud</string>
+  <string name="cloud_restore_window_title">Restauració de Xiaomi Cloud</string>
   <string name="cloud_search">S\'està cercant…</string>
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat…</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació…</string>
@@ -239,7 +239,7 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="login">Inicia la sessió</string>
   <string name="login_failed">"No s'ha pogut iniciar la sessió. Torneu-ho a provar."</string>
   <string name="logining">S\'està iniciant sessió…</string>
-  <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
+  <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar la sessió a Xiaomi Cloud, Temes MIUI i altres serveis de Mi des de qualsevol lloc.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
   <string name="multi_select_title">%1$s seleccionats</string>
@@ -339,7 +339,7 @@ Allibereu %s com a mínim. "</string>
   <string name="sc_others">S\'ha produït un error</string>
   <string name="sc_precondition_failed">Cal que afegiu una adreça de correu electrònic al Compte Mi.</string>
   <string name="sc_request_timeout">S\'ha esgotat el temps d\'espera</string>
-  <string name="sc_service_unavailable">"Mi Cloud no està disponible"</string>
+  <string name="sc_service_unavailable">"Xiaomi Cloud no està disponible"</string>
   <string name="sc_unaccess_password_file">"No s'ha trobat la contrasenya de la xarxa Wi-Fi"</string>
   <string name="sc_unauthorized">Inicia la sessió de nou</string>
   <string name="scan_soft_ap">S\'estan cercant el dispositiu nou…</string>
@@ -493,7 +493,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_desc_new">"Toqueu \"Sóc el destinatari\". Es generarà un codi QR."</string>
   <string name="trans_intro_desc_old">"Toqueu \"Sóc el remitent\". Escanegeu el codi QR al telèfon nou, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i toqueu \"Envia\"."</string>
   <string name="trans_intro_desc_old_market">Toqueu \"Inicia\". Escanegeu el codi QR al telèfon nou, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i toqueu \"Envia\".</string>
-  <string name="trans_intro_desc_private">"Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos des de Mi Cloud en un dispositiu nou."</string>
+  <string name="trans_intro_desc_private">"Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Xiaomi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu iOS?</string>
   <string name="trans_intro_question_10">"%d. No trobeu el punt d'accés al dispositiu antic?"</string>
   <string name="trans_intro_question_2">%d. Com s\'utilitza Mi Mover per moure les dades d\'un dispositiu Android?</string>
