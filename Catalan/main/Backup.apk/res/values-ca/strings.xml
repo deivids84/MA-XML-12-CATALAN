@@ -78,7 +78,7 @@
   <string name="click_to_view">Toqueu per mostrar-ho</string>
   <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
-Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l\'autenticació de dos factors es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació de dos factors a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
+Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l'autenticació de dos factors es desactivarà. Si no veieu l'opció de desactivar l'autenticació de dos factors a la pàgina del compte d'ID d'Apple, no podreu desactivar-la."</string>
   <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Accediu a l\'ID d\'Apple que voleu desactivar l\'autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i seleccioneu \"Edita\".</string>
   <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
@@ -173,7 +173,7 @@ Assegureu-vos que la unitat USB tingui prou espai d’emmagatzematge abans de co
   <string name="flash_drive_backup_restore">Còpies de seguretat USB</string>
   <string name="flash_drive_connection_failed">Unitat USB desconnectada</string>
   <string name="flash_drive_restore_btn">Restaura des de la unitat USB</string>
-  <string name="flash_drive_search_backup_files">"S\'està cercant la còpia de seguretat USB…
+  <string name="flash_drive_search_backup_files">"S'està cercant la còpia de seguretat USB…
 No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="gallery_summary">Configuració de la galeria (sense incloure fotos)</string>
   <string name="guarded_mode_dialog_backup_message">"No es permet fer còpies de seguretat en mode convidat."</string>
@@ -188,10 +188,10 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="hsa_send_failed">"No s'ha pogut enviar el codi de verificació. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="hsa_sending">S\'està enviant…</string>
   <string name="hsa_tip_message">"1. Si no podeu rebre el codi de verificació, assegureu-vos que ja heu iniciat la sessió a iCloud al dispositiu Apple.
-2. Si no introduïu el codi de verificació, desactiveu l\'autenticació de dos factors. "</string>
+2. Si no introduïu el codi de verificació, desactiveu l'autenticació de dos factors. "</string>
   <string name="hsa_tip_message_shutdown_hsa">Com desactivar l\'autenticació de dos factors</string>
-  <string name="hsa_tip_message_with_device">"1. S\'ha enviat un missatge amb el codi de verificació a %s associat al vostre Apple ID.
-2. Desactiveu l\'autenticació de dos factors si el codi de verificació no funciona."</string>
+  <string name="hsa_tip_message_with_device">"1. S'ha enviat un missatge amb el codi de verificació a %s associat al vostre Apple ID.
+2. Desactiveu l'autenticació de dos factors si el codi de verificació no funciona."</string>
   <string name="hsa_tip_title">Consells:</string>
   <string name="hsa_title">Autenticació de dos factors</string>
   <string name="hsa_verify_failed">Ha fallat l\'autenticació de dos factors</string>
@@ -202,7 +202,7 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
   <string name="icloud_backup_tip">Inicieu la sessió al compte iCloud del vostre antic dispositiu iOS</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Obriu Configuració al dispositiu iOS i seleccioneu iCloud.
 2. Commuta els interruptors de contactes i altres articles.
-3. Seleccioneu Fotos i commuteu el commutador d\'iCloud Photo Library."</string>
+3. Seleccioneu Fotos i commuteu el commutador d'iCloud Photo Library."</string>
   <string name="icloud_how_to_backup_tip_summary">Per importar dades de iOS, heu de crear una còpia de seguretat d’iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Consells:</string>
   <string name="icloud_login_title">Inicia la sessió a l\'iCloud</string>
@@ -257,6 +257,7 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="local_restore_window_title">Restauració local</string>
   <string name="local_select_account_contact">Comptes i contactes</string>
   <string name="local_select_audio">Fitxers d\'àudio</string>
+  <string name="local_select_doc">Documents</string>
   <string name="local_select_files">Targeta SD</string>
   <string name="local_select_image">Imatges</string>
   <string name="local_select_sysdata">Sistema</string>
@@ -277,6 +278,7 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
   <string name="no_network">"No es pot connectar a la xarxa"</string>
+  <string name="note_title">Notes</string>
   <string name="nothing_searched">Sense resultats.</string>
   <string name="notif_backup_complete_title">S\'ha copiat correctament</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
@@ -352,12 +354,12 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="retry">Torneu-ho a provar</string>
   <string name="reverse_all">Esborra-ho tot</string>
   <string name="router_backup_hint">Manteniu el dispositiu encès</string>
-  <string name="save_finish_with_failing_items">"S\'ha interromput la transferència.
-Les dades que no s\'han importat s\'han de tornar a importar. "</string>
-  <string name="saving_data">"S\'estan important les dades d\'iCloud…
+  <string name="save_finish_with_failing_items">"S'ha interromput la transferència.
+Les dades que no s'han importat s'han de tornar a importar. "</string>
+  <string name="saving_data">"S'estan important les dades d'iCloud…
 No desactiveu la Wi-Fi"</string>
   <string name="saving_data_no_time">S\'estan restaurant les dades…</string>
-  <string name="saving_data_space_low">"No hi ha prou espai d\'emmagatzematge.
+  <string name="saving_data_space_low">"No hi ha prou espai d'emmagatzematge.
 Allibereu %s com a mínim. "</string>
   <string name="sc_bad_request">Sol·licitud no vàlida</string>
   <string name="sc_internal_server_error">Error intern del servidor</string>
@@ -381,6 +383,7 @@ Allibereu %s com a mínim. "</string>
   <string name="select_item_calendar">Calendari</string>
   <string name="select_item_contacts">Contactes</string>
   <string name="select_item_empty_summary">Sense elements</string>
+  <string name="select_item_notes">Notes</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_summary_loading">S\'estan carregant les dades…</string>
   <string name="select_item_summary_wait">S\'està esperant…</string>
@@ -470,8 +473,8 @@ Allibereu %s com a mínim. "</string>
   <string name="trans_detail_item_app_data_skip_data">"No es poden transferir les dades de l'aplicació"</string>
   <string name="trans_detail_item_app_data_too_large_tip">Sembla que l’element és massa gran per transferir-lo.</string>
   <string name="trans_detail_list_footer">"1. Podeu seleccionar aplicacions individuals que vulgueu transferir.
-2. Si seleccioneu les dades de l\'aplicació, seran seleccionades també les aplicacions corresponents.
-3. És possible que les dades de l\'aplicació WeChat i QQ no es puguin transferir a causa de problemes de compatibilitat. Podeu provar les funcions de transferència integrades a l\'aplicació. "</string>
+2. Si seleccioneu les dades de l'aplicació, seran seleccionades també les aplicacions corresponents.
+3. És possible que les dades de l'aplicació WeChat i QQ no es puguin transferir a causa de problemes de compatibilitat. Podeu provar les funcions de transferència integrades a l'aplicació. "</string>
   <string name="trans_detail_page_tip">Com més elements seleccioneu, més temps durarà la transferència.</string>
   <string name="trans_detail_qq_data">Dades del QQ (inclòs l\'historial de xats)</string>
   <string name="trans_detail_sys_data_list_title">Aplicacions del sistema</string>
@@ -541,7 +544,7 @@ per baixar i instal·lar Mi Mover."</string>
   <string name="trans_intro_title_private">Àlbum ocult:</string>
   <string name="trans_main_tutor">Desplaça els contactes, l\'historial de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, les configuracions, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
-  <string name="trans_native_no_space">"No hi ha prou espai d\'emmagatzematge al dispositiu antic (%s disponible).
+  <string name="trans_native_no_space">"No hi ha prou espai d'emmagatzematge al dispositiu antic (%s disponible).
 Allibereu espai d’emmagatzematge o transferiu només elements importants."</string>
   <string name="trans_old_phone_low_space_msg">"Mi Mover necessita un espai d’emmagatzematge per empaquetar les dades transferides, però sembla que no hi ha prou espai disponible al dispositiu antic. Allibereu espai a \"Seguretat\" o transferiu només elements importants."</string>
   <string name="trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
@@ -554,13 +557,13 @@ Allibereu espai d’emmagatzematge o transferiu només elements importants."</st
   <string name="trans_operate_func_two">Mètode B</string>
   <string name="trans_operate_new_phone_tips">"Aneu a Configuració &gt; Configuració addicional &gt; Mi Mover
 Toqueu [Sóc el destinatari] per crear un codi QR"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Instal·leu l\'aplicació Mi Mover a l\'antic dispositiu
+  <string name="trans_operate_old_phone_tips1">"1. Instal·leu l'aplicació Mi Mover a l'antic dispositiu
 2. Obriu l’aplicació i toqueu Inicia
 3. Escanegeu el codi QR amb el dispositiu antic"</string>
   <string name="trans_operate_old_phone_tips2">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover, Toqueu [Sóc el remitent]"</string>
-  <string name="trans_operate_reconnect_new_tips">"Espereu fins que aparegui «S\'ha interromput la connexió» al nou telèfon.
+  <string name="trans_operate_reconnect_new_tips">"Espereu fins que aparegui «S'ha interromput la connexió» al nou telèfon.
 A continuació, toqueu «Torna a connectar» per crear un codi QR."</string>
-  <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «S\'ha interromput la connexió» a l\'antic telèfon.
+  <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «S'ha interromput la connexió» a l'antic telèfon.
 A continuació, toqueu «Torna a connectar» per escanejar el codi QR."</string>
   <string name="trans_operate_tip_for_other_android">Obriu Mi Mover al telèfon antic, toqueu «Inicia» i escanegeu el codi QR anterior.</string>
   <string name="trans_pausing">S\'està aturant…</string>
@@ -578,8 +581,8 @@ A continuació, toqueu «Torna a connectar» per escanejar el codi QR."</string>
   <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
   <string name="trans_receiver">"Sóc el destinatari"</string>
   <string name="trans_receiver_time_remained">"%s restant.
-No desactiveu el punt d\'accés Wi-Fi.
-Mantingueu els dispositius propers l\'un de l\'altre."</string>
+No desactiveu el punt d'accés Wi-Fi.
+Mantingueu els dispositius propers l'un de l'altre."</string>
   <string name="trans_receiving_completed">S\'ha rebut correctament</string>
   <string name="trans_restoring">S\'està restaurant…</string>
   <string name="trans_restoring_no_items">S\'està obtenint informació…</string>
@@ -589,7 +592,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_security_tips_message">"Algunes aplicacions no són compatibles amb Mi Mover."</string>
   <string name="trans_security_tips_title">Compatibilitat amb Mi Mover</string>
   <string name="trans_select_data">Seleccioneu els elements que voleu enviar</string>
-  <string name="trans_select_data_no_space">"No hi ha prou espai d\'emmagatzematge al dispositiu nou (%s disponible).
+  <string name="trans_select_data_no_space">"No hi ha prou espai d'emmagatzematge al dispositiu nou (%s disponible).
 Allibereu espai d’emmagatzematge o transferiu només els elements importants."</string>
   <string name="trans_select_data_tips">"Seleccioneu els elements que voleu transferir.
 Se sobreescriuran els elements similars al nou dispositiu.
@@ -604,10 +607,10 @@ Seleccioneu només elements importants per fer la transferència més ràpida."<
   <string name="trans_sender_connectting">Confirmeu-ho en el dispositiu nou</string>
   <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
   <string name="trans_sender_searching_ensurance">"Assegureu-vos que el dispositiu antic està activat
-S\'està esperant que el dispositiu antic es connecti…"</string>
+S'està esperant que el dispositiu antic es connecti…"</string>
   <string name="trans_sender_time_remained">"%s restant.
 No desactiveu la Wi-Fi.
-Mantingueu els dispositius propers l\'un de l\'altre."</string>
+Mantingueu els dispositius propers l'un de l'altre."</string>
   <string name="trans_sending_completed">S\'ha enviat correctament</string>
   <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
   <string name="trans_show_qr_code_tips">Escanegeu el codi QR utilitzant el dispositiu antic</string>
@@ -624,15 +627,15 @@ Us ha agradat el Mi Mover?"</string>
   <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
   <string name="trans_time_spent">Temps dedicat: %s</string>
-  <string name="trans_wait_trans_data">"S\'ha connectat al dispositiu antic.
-S\'està esperant la transferència…"</string>
+  <string name="trans_wait_trans_data">"S'ha connectat al dispositiu antic.
+S'està esperant la transferència…"</string>
   <string name="trans_waiting_ensurance">"Assegureu-vos que el dispositiu antic està activat
-i s\'ha activat Mi Mover"</string>
+i s'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
   <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
   <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
   <string name="unknown_hint">Desconeguda</string>
-  <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB tingui prou espai d\'emmagatzematge.
+  <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB tingui prou espai d'emmagatzematge.
 Transferiu només elements importants. "</string>
   <string name="usb_restore_select_data_too_large">"Els fitxers de la còpia de seguretat són grans. Podeu trigar una estona a restaurar-los.
 Restaurar només els elements importants serà més ràpid."</string>
@@ -650,8 +653,8 @@ Allibereu espai o transferiu només elements importants."</string>
   <string name="user_notice_title">Atenció</string>
   <string name="view_password_description">Mostra la contrasenya</string>
   <string name="wait_link">"Obriu Mi Mover al dispositiu antic,
-toqueu \"Sóc el remitent\" i seleccioneu un punt d\'accés per connectar-vos.
-No tanqueu la pàgina fins que s\'hagi establert la connexió."</string>
+toqueu \"Sóc el remitent\" i seleccioneu un punt d'accés per connectar-vos.
+No tanqueu la pàgina fins que s'hagi establert la connexió."</string>
   <string name="waiting">Un moment…</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
@@ -659,6 +662,6 @@ No tanqueu la pàgina fins que s\'hagi establert la connexió."</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s
-Mida de l\'actualització Delta: %2$s"</string>
+Mida de l'actualització Delta: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Actualització disponible</string>
 </resources>
