@@ -17,7 +17,7 @@
     <string-array name="micloud_entrance_subtitleArray">
         <item>Sincronitza els vostres contactes, missatges, notes, calendari i molt més</item>
         <item>Còpia de seguretat d\'aplicacions, disseny de la pantalla d\'inici i fons de pantalla</item>
-        <item>Còpia de seguretat de les configuracions importants, inclosa la Wi-Fi i la pantalla</item>
+        <item>Fes una còpia de seguretat dels paràmetres importants, inclosos la Wi-Fi i la pantalla</item>
         <item>"Bloqueja el dispositiu de forma remota si es perd"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
@@ -134,9 +134,9 @@
         <item>Emmagatzematge insuficient;Subscipció;Emmagatzematge;Espai d’emmagatzematge;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud;Paperera;Elements suprimits;Seguretat</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sincronitza la configuració de la WLAN amb Xiaomi Cloud</item>
+        <item>Sincronitza la configuració de la Wi-Fi amb Xiaomi Cloud</item>
         <item>Activa la sincronització</item>
-        <item>WLAN;wifi;WLAN;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+        <item>WLAN;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Mostra els elements sincronitzats</item>
