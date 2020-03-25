@@ -183,8 +183,8 @@
   <string name="cloud_state_sync_finished">Sincronitzat amb el núvol</string>
   <string name="cloud_state_syncing">Sincronització amb el núvol</string>
   <string name="cloud_upgrade_recommend">"No es poden sincronitzar els contactes a causa d'un espai d'emmagatzematge insuficient en el núvol. Actualitzeu el vostre pla d’emmagatzematge al núvol."</string>
-  <string name="combined_title_and_miprofile_swaped_huge_mode">«%1$s
-%2$s»</string>
+  <string name="combined_title_and_miprofile_swaped_huge_mode">"«%1$s
+%2$s»"</string>
   <string name="composer_failed_to_get_database_infomation">"No s'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
@@ -209,7 +209,6 @@
   <string name="contact_delete_toast">S\'ha eliminat el contacte amb èxit</string>
   <string name="contact_detail_action_item_calllog">Historial de trucades</string>
   <string name="contact_detail_action_item_nocalllog">No hi ha historial</string>
-  <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Gravar trucada</string>
   <string name="contact_detail_calllog_correct_yellow_page">Corregeix o informa</string>
   <string name="contact_detail_calllog_empty">No hi ha historial</string>
@@ -251,8 +250,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_editor_prompt_multiple_accounts">Desa el contacte a</string>
   <string name="contact_editor_prompt_one_account">El nou contacte serà %1$s sincronitzat</string>
   <string name="contact_editor_prompt_zero_accounts">Desa al mòbil o en un compte en línia</string>
-  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-  <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Seleccioneu el mètode d\'importació</string>
   <string name="contact_is_deleted">Aquest contacte s\'ha suprimit</string>
   <string name="contact_is_readOnly">"No es pot editar els contactes de només lectura"</string>
@@ -289,8 +286,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="data_already_used">Dades utilitzades</string>
   <string name="data_charge">Recàrrega de dades mòbils</string>
   <string name="data_left">Dades restants</string>
-  <string name="data_unit_gb">GB</string>
-  <string name="data_unit_mb">MB</string>
   <string name="date_time_set">Fixar</string>
   <string name="date_year_toggle">Proporcionar un any</string>
   <string name="default_ringtone">To de trucada per defecte</string>
@@ -387,14 +382,13 @@ Les targetes de contacte estan apagades"</string>
 %d. El mode descobert també s’ha d’activar als dispositius Android.
 
 %d. Toqueu \"Següent\" i doneu a Contactes els permisos necessaris."</string>
-  <string name="device_transfer_by_sim_message" formatted="false">"%d. Desa els contactes de l\'altre dispositiu a la targeta SIM;
+  <string name="device_transfer_by_sim_message" formatted="false">"%d. Desa els contactes de l'altre dispositiu a la targeta SIM;
 
 %d. Obriu la configuració a l’aplicació Contactes i després aneu a \"Importa/Exporta contactes\" - \"Importa de la targeta SIM\", manteniu premut qualsevol contacte SIM per seleccionar-lo, seleccioneu tots els contactes necessaris i toqueu \"Importa\"."</string>
   <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
-  <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Utilitza el teclat per marcar</string>
   <string name="dialer_addAnotherCall">Afegeix trucada</string>
   <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
@@ -416,7 +410,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialog_voicemail_airplane_mode_message">Per trucar al correu de veu, primer desactivar el mode avió.</string>
   <string name="dialog_voicemail_not_ready_message">Per configurar el correu de veu, aneu a Menú &gt; configuració.</string>
   <string name="directory_search_label">Agenda</string>
-  <string name="disclaimer_text">"Les pàgines grogues obtenen informació sobre el vostre saldo enviant un SMS. La vostre operadora pot actualitzar aquesta informació amb retard, pel que els números que obtengueu podrien no ser exactes. Si veieu un error, podeu reportar l\'SMS de la consulta per ajudar-nos a millorar aquest servei. 
+  <string name="disclaimer_text">"Les pàgines grogues obtenen informació sobre el vostre saldo enviant un SMS. La vostre operadora pot actualitzar aquesta informació amb retard, pel que els números que obtengueu podrien no ser exactes. Si veieu un error, podeu reportar l'SMS de la consulta per ajudar-nos a millorar aquest servei. 
 
 Per evitar consultes freqüents, actualitzem la informació del saldo una vegada al dia."</string>
   <string name="disclaimer_title">Renúncia</string>
@@ -464,7 +458,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="export_to_sim_prepare_title">S\'està preparant&#8230;</string>
   <string name="export_to_sim_title">Exportant&#8230;</string>
   <string name="export_vcard_description">"Exporta la vCard a l'emmagatzematge del telèfon"</string>
-  <string name="exporting_contact_failed_message">No s\'ha pogut exportar dades del contacte. Motiu: \"%s\"\"</string>
+  <string name="exporting_contact_failed_message">"No s'ha pogut exportar dades del contacte. Motiu: \"%s\"\""</string>
   <string name="exporting_contact_failed_title">"No es pot exportar"</string>
   <string name="exporting_contact_list_message">Exportant a %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s de %s contactes</string>
@@ -518,9 +512,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="groupsLabel">Grups</string>
   <string name="groups_list_empty">No hi ha grups</string>
   <string name="heduohao_fuhao_call_menu_title">Marca a la sub%d</string>
-  <string name="heduohao_fuhao_order">Sub%d</string>
   <string name="heduohao_main_call_menu_title">Marca a la principal</string>
-  <string name="heduohao_popup_txt">Sub%d</string>
   <string name="hint_findContacts">Trobar contactes</string>
   <string name="hint_more_contact">Combinar contactes duplicats</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
@@ -572,7 +564,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del telèfon"</string>
   <string name="label_custom_type">Personalitzat</string>
   <string name="label_no_duplicate_contacts">No s\'han trobat duplicats</string>
-  <string name="label_notes">Notes</string>
   <string name="label_sip_address">Trucada internet</string>
   <string name="launcherDialer">Telèfon</string>
   <string name="listCustomView">Contactes a vista personalitzada</string>
@@ -657,7 +648,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_settings">Configuració</string>
   <string name="menu_share">Comparteix</string>
   <string name="menu_share_qrcode">Codi QR</string>
-  <string name="menu_share_text">Text</string>
   <string name="menu_share_vcard_file">Fitxer</string>
   <string name="menu_show_all_calls">Mostra totes les trucades</string>
   <string name="menu_show_voicemails_only">Mostra missatges de veu només</string>
@@ -691,7 +681,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="miprofile_find_profile_no_recommend">No hi ha perfils recomanats</string>
   <string name="miprofile_finding_label">Cerca targetes de contacte</string>
   <string name="miprofile_name">El meu perfil</string>
-  <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit">"Edita el sobrenom del contacte"</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Introduir sobrenom</string>
   <string name="miprofile_nick_name_edit_dialog_message">El sobrenom es mostrarà en el registre de trucades i detalls</string>
@@ -762,7 +751,7 @@ Per afegir un contacte a la llista de preferits:
 \"&lt;/li&gt;\" 
 \"&lt;li&gt;\"Toqueu el contacte que voleu afegir als vostres favorits
 \"&lt;/li&gt;\" 
-\"&lt;li&gt;\"Toqueu l\'estrella al costat del nom del contacte
+\"&lt;li&gt;\"Toqueu l'estrella al costat del nom del contacte
 \"&lt;/li&gt;\"
     "</string>
   <string name="noGroups">No hi ha grups</string>
@@ -880,7 +869,7 @@ Per afegir un contacte a la llista de preferits:
   <string name="preference_auto_ip_title">Prefix IP automàtica</string>
   <string name="preference_contacts">Contactes</string>
   <string name="preference_contacts_display">Preferències de visualització</string>
-  <string name="preference_contacts_filter">Configura llistes de contactes</string>
+  <string name="preference_contacts_filter">Configura les llistes de contactes</string>
   <string name="preference_contacts_more">Organitza els contactes</string>
   <string name="preference_contacts_moresetting">Més</string>
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
@@ -910,7 +899,6 @@ Per afegir un contacte a la llista de preferits:
   <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
   <string name="preference_smart_group_company_title">Per empresa</string>
   <string name="preference_smart_group_frequency_summary">Agrupa per el més recent</string>
-  <string name="preference_smart_group_frequency_title">Recents</string>
   <string name="preference_smart_group_location_summary">Agrupa per codi d\'àrea</string>
   <string name="preference_smart_group_location_title">Per ubicació</string>
   <string name="preference_smart_group_title">Grups intel·ligents</string>
@@ -961,7 +949,6 @@ Per afegir un contacte a la llista de preferits:
   <string name="recentCalls_removeFromRecentList">Elimina del registre de trucades</string>
   <string name="recentCalls_shareVoicemail">Compartir correu de veu</string>
   <string name="recentCalls_trashVoicemail">Elimina correu de veu</string>
-  <string name="recent_contacts_label">Recents</string>
   <string name="recent_number">Recents</string>
   <string name="recent_updates">Actualitzacions recents</string>
   <string name="redirect_calls_to_vm_confirm_message">Abans de configurar la bústia de correu, reviseu els termes i condicions del vostre contracte amb el proveïdor de xarxa mòbil.</string>
@@ -972,13 +959,11 @@ Per afegir un contacte a la llista de preferits:
   <string name="remove_blacklist">Desbloca</string>
   <string name="remove_blacklist_dialog_message">Voleu mostrar trucades i missatges des d\'aquest número?</string>
   <string name="remove_blacklist_dialog_title">Voleu desblocar aquest número de telèfon?</string>
-  <string name="remove_duplicate">"MIUI t\'ajudarà a trobar i combinar contactes duplicats.
+  <string name="remove_duplicate">"MIUI t'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
   <string name="report_inquiry_mms">Notifica els SMS</string>
   <string name="restore_nickname">Restaurar</string>
-  <string name="ret_sign">«
-»</string>
   <string name="returnCall">Tornar la trucada</string>
   <string name="return_call">Toqueu per tornar a trucar</string>
   <string name="return_call_calling">Trucada en curs</string>
@@ -1085,7 +1070,6 @@ Per afegir un contacte a la llista de preferits:
   <string name="sim_indexed_contact_not_exist">La posició %1$d en la targeta SIM no és vàlida. Aquesta posició ha d\'estar entre %2$d i %3$d.</string>
   <string name="sim_no_contact">No hi ha contactes a la targeta SIM</string>
   <string name="sim_unloaded">"La targeta SIM no està posada"</string>
-  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No hi ha membres en el grup</string>
   <string name="smart_group_company_label">Per l\'empresa</string>
   <string name="smart_group_company_unavailable">Cap empresa</string>
@@ -1093,7 +1077,6 @@ Per afegir un contacte a la llista de preferits:
   <string name="smart_group_frequency_2" formatted="false">%d a %d mesos</string>
   <string name="smart_group_frequency_3" formatted="false">%d a %d mesos</string>
   <string name="smart_group_frequency_4">Fa més de %d mesos</string>
-  <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Grups intel·ligents</string>
   <string name="smart_group_loading">Un moment…</string>
   <string name="smart_group_location_label">Per ubicació</string>
@@ -1177,7 +1160,7 @@ Per afegir un contacte a la llista de preferits:
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.
 
-El procés d\'actualització requereix aproximadament %s MB d\'emmagatzematge intern.
+El procés d'actualització requereix aproximadament %s MB d'emmagatzematge intern.
 
 Trieu una de les següents opcions: "</string>
   <string name="upgrade_out_of_memory_retry">Reintentar actualització</string>
