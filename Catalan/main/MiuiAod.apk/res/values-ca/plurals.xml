@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$shores %2$s"</item>
+        <item quantity="one">" %1$shora %2$s"</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d noves notificacions</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+</resources>
