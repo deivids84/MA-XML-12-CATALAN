@@ -2,11 +2,15 @@
 <resources>
     <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Recentment obertes, aplicacions disponibles: %d.</item>
-        <item quantity="one">Recentment obertes, aplicacions disponibles: 1.</item>
+        <item quantity="one">Recentment obertes, aplicacions disponibles: %d.</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
         <item quantity="other">Obertes fa poc, aplicacions disponibles: %d. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
         <item quantity="one">Oberta fa poc, aplicació disponible: 1. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
+    </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Penjant en %1$d segons</item>
+        <item quantity="one">Penjant en %1$d segon</item>
     </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d notificacions no importants</item>
@@ -88,9 +92,33 @@
         <item quantity="other">"El dispositiu no s'ha desblocat des de fa %d hores. Confirmeu el PIN."</item>
         <item quantity="one">"El dispositiu no s'ha desblocat des de fa %d hora. Confirmeu el PIN."</item>
     </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d noves notificacions</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s, i %3$d altres</item>
+        <item quantity="one">%1$s, %2$s, i %3$d altra</item>
+    </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s notificacions més dins.</item>
         <item quantity="one">%s notificació més dins.</item>
+    </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d categories de notificacions</item>
+        <item quantity="one">%d categoria de notificacions</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 categoria de notificacions de %d d\'aquesta aplicació</item>
+        <item quantity="one">1 categoria de notificacions de %d d\'aquesta aplicació</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Torneu a provar-ho en %d minuts</item>
+        <item quantity="one">Torneu a provar-ho en %d minut</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Torneu-ho a provar en %d segons</item>
+        <item quantity="one">Torneu-ho a provar en %d segons</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d commutadors es mostraran al panell de notificacions</item>
@@ -103,5 +131,9 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">Serè</item>
         <item quantity="one">Assolellat</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositius connectats</item>
+        <item quantity="one">%1$d dispositiu connectat</item>
     </plurals>
 </resources>
