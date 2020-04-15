@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">"Heu utilitzat el dispositiu durant %d minuts sense interrupcions"</item>
+        <item quantity="one">"Heu utilitzat el dispositiu durant %d minut sense interrupcions"</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">El temps de pantalla d\'avui és igual a la mitjana del dia %d</item>
+        <item quantity="one">El temps de pantalla d\'avui és igual a la mitjana del dia %d</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s menys de temps de pantalla avui que la mitjana de %1$d al dia</item>
+        <item quantity="one">%2$s menys de temps de pantalla avui que la mitjana de %1$d al dia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s més temps de pantalla avui que la mitjana de %1$d al dia</item>
+        <item quantity="one">%2$s més temps de pantalla avui que la mitjana de %1$d al dia</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f vegades</item>
+        <item quantity="one">%.2f vegada</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s hrs</item>
+        <item quantity="one">≈%s hr</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s mins</item>
+        <item quantity="one">≈%s min</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">S\'ha desbloquejat %d vegades</item>
+        <item quantity="one">S\'ha desbloquejat %d vegada</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">S\'ha desbloquejat %d vegades</item>
+        <item quantity="one">S\'ha desbloquejat %d vegada</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">S\'han rebut %d notificacions</item>
+        <item quantity="one">S\'ha rebut %d notificació</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">S\'han rebut %d notificacions</item>
+        <item quantity="one">S\'ha rebut %d notificació</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minuts és un gran pas cap a la consciència i la concentració.</item>
+        <item quantity="one">%d minut és un gran pas cap a la consciència i la concentració.</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" mins"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d notificacions</item>
+        <item quantity="one">%d notificació</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d vegades</item>
+        <item quantity="one">%d vegada</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Caps de setmana: %d hores</item>
+        <item quantity="one">Caps de setmana: %d hora</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Caps de setmana: %d minuts</item>
+        <item quantity="one">Caps de setmana: %d minut</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Dies feiners: %d hores</item>
+        <item quantity="one">Dies feiners: %d hora</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Dies feiners: %d minuts</item>
+        <item quantity="one">Dies feiners: %d minut</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" mins"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+</resources>
