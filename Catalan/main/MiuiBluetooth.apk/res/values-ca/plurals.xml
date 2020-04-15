@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Mantingueu premut el botó de la capsa durant %1$d segons</item>
+        <item quantity="one">Mantingueu premut el botó de la capsa durant %1$d segon</item>
+    </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segons</item>
+        <item quantity="one">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segon</item>
+    </plurals>
+</resources>
