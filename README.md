@@ -1,4 +1,4 @@
-# MA-XML-11-CATALAN
+# MA-XML-12-CATALAN
 
 # CATALAN MIUI TRANSLATION
 
@@ -9,4 +9,4 @@ Estat de la traducció: <a title="Crowdin" target="_blank" href="https://crowdin
 # Si voleu col·laborar amb la traducció, https://crowdin.com/project/miui-xiaomieu-catalan
 
 Translation xml checker (updated every 30min)
-http://translators.xiaomi.eu/XML_MIUI11-Catalan-ca.html
+http://translators.xiaomi.eu/XML_MIUI12-Catalan-ca.html
