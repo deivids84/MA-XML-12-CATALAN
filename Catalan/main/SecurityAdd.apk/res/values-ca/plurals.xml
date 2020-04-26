@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d dies restants abans que finalitzi la sessió d’augment de velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
+        <item quantity="one">%d dia restant abans que finalitzi la sessió d’augment de velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
+    </plurals>
+</resources>
