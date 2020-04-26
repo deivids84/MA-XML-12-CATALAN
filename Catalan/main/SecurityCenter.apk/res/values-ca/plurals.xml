@@ -4,6 +4,34 @@
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">Permès %3$d vegades entre %1$s i %2$s</item>
+        <item quantity="one">Permès %3$d vegada entre %1$s i %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Restringit %3$d vegades entre %1$s i %2$s</item>
+        <item quantity="one">Restringit %3$d vegada entre %1$s i %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%2$d aplicacions, inclosa %1$1s estan enregistrant àudio</item>
+        <item quantity="one">%2$d aplicació inclosa %1$1s està enregistrant àudio</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%2$d aplicacions, inclosa %1$1s estan fent fotos</item>
+        <item quantity="one">%2$d aplicació, inclosa %1$1s està fent fotos</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%2$d aplicacions, inclosa %1$1s estan accedint a la vostra ubicació</item>
+        <item quantity="one">%2$d aplicació, inclosa %1$1s està accedint a la vostra ubicació</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">"No sereu notificats per les accions delicades de %1$d aplicacions"</item>
+        <item quantity="one">"No sereu notificats per les accions delicades de %1$d aplicació"</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">"Se us notificarà sobre les accions sensibles de %1$d aplicacions"</item>
+        <item quantity="one">"Se us notificarà sobre les accions sensibles de %1$d aplicació"</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">S\'han permès %d permisos</item>
         <item quantity="one">S\'ha permès %d permís</item>
@@ -27,6 +55,10 @@
     <plurals name="app_usage_year">
         <item quantity="other">S\'ha utilitzat fa %d anys</item>
         <item quantity="one">S\'ha utilitzat fa %d any</item>
+    </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Podeu protegir almenys %s aplicacions</item>
+        <item quantity="one">Podeu protegir almenys %s aplicació</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicacions poden connectar-se a la xarxa en segon pla</item>
@@ -56,13 +88,25 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">En %1$d minuts</item>
         <item quantity="one">En %1$d minut</item>
     </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">En %d segons</item>
+        <item quantity="one">En %d segon</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>
         <item quantity="one">Cerca entre %d aplicació</item>
     </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemes requereixen optimització</item>
+        <item quantity="one">%1$d problema requereix optimització</item>
+    </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d aplicacions trobades</item>
         <item quantity="one">%d aplicació trobada</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d funcions</item>
+        <item quantity="one">%d funció</item>
     </plurals>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%1$d trucades de %2$s i altres</item>
@@ -84,9 +128,17 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%1$d persones estan jugant</item>
         <item quantity="one">%1$d persona està jugant</item>
     </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d seg</item>
+        <item quantity="one">%d seg</item>
+    </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
+    </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d caràcters més</item>
+        <item quantity="one">    +%1$d caràcter més</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permisos</item>
@@ -132,6 +184,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'han trobat %d aplicacions</item>
         <item quantity="one">S\'ha trobat %d aplicació</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d riscs trobats, arregleu-los</item>
+        <item quantity="one">%d risc trobat, arregleu-lo</item>
+    </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Seguiment d\'us de dades a %d aplicacions</item>
         <item quantity="one">Seguiment d\'us de dades a %d aplicació</item>
@@ -143,6 +199,18 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="install_game_count_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s hores</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s minuts</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connecteu almenys %d punts</item>
+        <item quantity="one">Connecteu almenys %d punt</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Espera %d segons i torneu-ho a provar."</item>
@@ -156,6 +224,26 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%d altres usuaris l\'han marcat com a</item>
         <item quantity="one">%d altre usuari l\'ha marcat com a</item>
     </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">S\'han bloquejat %d missatges o trucades</item>
+        <item quantity="one">S\'ha bloquejat %d missatge o trucada</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">"No s'ha escanejat el dispositiu durant %d dies"</item>
+        <item quantity="one">"No s'ha escanejat el dispositiu durant %d dia"</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d aplicacions contenen virus o programari maliciós</item>
+        <item quantity="one">%d aplicació conté virus o programari maliciós</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d actualitzacions disponibles</item>
+        <item quantity="one">%d actualització disponible</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Introduïu almenys %d caràcters</item>
+        <item quantity="one">Introduïu almenys %d caràcter</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">Resten %d dies abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
         <item quantity="one">Resta %d dia abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</item>
@@ -167,6 +255,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">S\'ha consumit un %2$d%% de la bateria en els darrers %1$d minuts</item>
         <item quantity="one">S\'ha consumit un %2$d%% de la bateria en el darrer %1$d minut</item>
+    </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplicacions, inclosa %1$s, estan drenant la bateria</item>
+        <item quantity="one">%2$d aplicació, inclosa %1$s, està drenant la bateria</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dies des de l\'última comprovació</item>
@@ -192,6 +284,70 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%d notificacions són visibles</item>
         <item quantity="one">%d notificació és visible</item>
     </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Introduïu almenys %d dígits</item>
+        <item quantity="one">Introduïu almenys %d dígit</item>
+    </plurals>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d aplicacions bloquejades</item>
+        <item quantity="one">%d aplicació bloquejada</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplicacions estan drenant la bateria</item>
+        <item quantity="one">%d aplicació està drenant la bateria</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s dies</item>
+        <item quantity="one">%s dia</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s hores</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minuts</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s dies fins a la càrrega completa</item>
+        <item quantity="one">%s dia fins a la càrrega completa</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s hores fins a la càrrega completa</item>
+        <item quantity="one">%s hora fins a la càrrega completa</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minuts fins a la càrrega completa</item>
+        <item quantity="one">%s minut fins a la càrrega completa</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s dies restants</item>
+        <item quantity="one">%s dia restant</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s hores restants</item>
+        <item quantity="one">%s hora restant</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minuts restants</item>
+        <item quantity="one">%s minut restant</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d hores restants</item>
+        <item quantity="one">%d hora restant</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minuts restants</item>
+        <item quantity="one">%d minut restant</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minuts des de la darrera càrrega</item>
+        <item quantity="one">%d minut des de la darrera càrrega</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d segons des de la darrera càrrega</item>
+        <item quantity="one">%d segon des de la darrera càrrega</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Baixat per %1$d persones</item>
         <item quantity="one">Baixat per %1$d persona</item>
@@ -208,6 +364,34 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">"%d h "</item>
         <item quantity="one">"%d h "</item>
     </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Afegeix %d minuts</item>
+        <item quantity="one">Afegeix %d minut</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">elements</item>
+        <item quantity="one">element</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s dies restants</item>
+        <item quantity="one">%s dia restant</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s hores restants</item>
+        <item quantity="one">%s hora restant</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minuts restants</item>
+        <item quantity="one">%s minut restant</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d icones d\'aplicacions ocultes</item>
+        <item quantity="one">%d icona d\'aplicació oculta</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">"%d icones d'aplicacions no estan ocultes"</item>
+        <item quantity="one">"%d icona d'aplicació no està oculta"</item>
+    </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemes de bateria</item>
         <item quantity="one">%d problema de bateria</item>
@@ -223,6 +407,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="quick_optimize_summary_text">
         <item quantity="other">S\'han resolt %d problemes de bateria</item>
         <item quantity="one">S\'ha resolt %d problema de bateria</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Restabliment de fàbrica (%ds)</item>
+        <item quantity="one">Restabliment de fàbrica (%ds)</item>
     </plurals>
     <plurals name="result_sign_header">
         <item quantity="other">S\'han trobat %d apps no oficials</item>
@@ -291,6 +479,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"No s'han afegit %d jocs"</item>
         <item quantity="one">"No s'ha afegit %d joc"</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">%d aplicació</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualitzacions</item>

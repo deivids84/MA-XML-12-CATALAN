@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_repeat_type">
-        <item>Un cop</item>
+        <item>Una vegada</item>
         <item>Cada dia</item>
         <item>Dies feiners</item>
         <item>Entre setmana</item>
@@ -12,6 +12,18 @@
         <item>Cada dia</item>
         <item>Entre setmana</item>
         <item>Personalitzat</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Tots els registres</item>
+        <item>Inici automàtic</item>
+        <item>Inici de la cadena</item>
+        <item>Utilitzant els permisos</item>
+        <item>Accions sensibles</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Patró</item>
+        <item>PIN</item>
+        <item>Contrasenya</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Ahir (dades mòbils) "</item>
@@ -45,6 +57,10 @@
         <item>"Avui: "</item>
         <item>"Aquest mes: "</item>
     </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Quan el dispositiu està bloquejat</item>
         <item>Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</item>
@@ -57,6 +73,14 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostra l\'avís</item>
         <item>Avisa i desactiva les dades mòbils</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Per defecte</item>
+        <item>Prioritza el rendiment</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Utilitzant el mode de control de temperatura per defecte</item>
+        <item>Prioritzant el rendiment</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Sempre</item>
