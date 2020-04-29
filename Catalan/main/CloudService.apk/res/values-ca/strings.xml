@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+  <string name="abc_action_bar_up_description">Navega cap amunt</string>
+  <string name="abc_action_menu_overflow_description">Més opcions</string>
+  <string name="abc_action_mode_done">Fet</string>
+  <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+  <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
+  <string name="abc_capital_off">DESACTIVAT</string>
+  <string name="abc_capital_on">ACTIVAT</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">suprimeix</string>
+  <string name="abc_menu_enter_shortcut_label">retorn</string>
+  <string name="abc_menu_function_shortcut_label">Funció+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espai</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menú+</string>
+  <string name="abc_search_hint">Cerca…</string>
+  <string name="abc_searchview_description_clear">Neteja la consulta</string>
+  <string name="abc_searchview_description_query">Cerca la consulta</string>
+  <string name="abc_searchview_description_search">Cerca</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+  <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Redueix</string>
   <string name="access_denied">Accés denegat</string>
-  <string name="account_related">El dispositiu està associat a un compte Mi (%s) existent. Connecteu-vos a la xarxa per verificar el dispositiu.</string>
+  <string name="account_related">El dispositiu està associat a un Compte Mi (%s) existent. Connecteu-vos a la xarxa per verificar el dispositiu.</string>
   <string name="activate_find_device_success">S\'ha activat Troba el dispositiu.</string>
   <string name="activate_finddevice">Connecteu-vos a la xarxa per activar el dispositiu</string>
   <string name="activating">S\'està activant…</string>
   <string name="add_short_cut">Afegeix</string>
   <string name="added_successfully">S\'ha afegit correctament</string>
   <string name="antispam_sync">Configuració de \"No molestar\"</string>
-  <string name="app_name">Núvol</string>
+  <string name="app_name">Xiaomi Cloud</string>
   <string name="bad_authentication">Compte o contrasenya no vàlids</string>
   <string name="btn_return">Enrere</string>
   <string name="button_cancel">Cancel·la</string>
@@ -24,6 +51,7 @@
   <string name="cloud_storage_already_full">L’emmagatzematge al núvol està complet: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Ocupat: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Emmagatzematge al núvol</string>
+  <string name="cloud_storage_info_type_family">Família</string>
   <string name="cloud_storage_info_type_others">Altres</string>
   <string name="cloud_storage_info_type_pdc">Configuració del sistema</string>
   <string name="cloud_storage_loading_data">Un moment…</string>
@@ -34,6 +62,7 @@
   <string name="confirm_save">Mantén</string>
   <string name="connect_network">Connecteu-vos a la Wi-Fi o inseriu una targeta SIM</string>
   <string name="connect_wlan">Connecta’t a la Wi-Fi</string>
+  <string name="copy">Copia</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Aquest compte també s’utilitza en un altre dispositiu. Voleu combinar els elements de diverses aplicacions (incloses %1$s i %2$s) amb els elements d\'aquest dispositiu?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Aquest compte també s’utilitza en un altre dispositiu. Voleu combinar els elements de %s amb els elements d’aquest dispositiu?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Aquest compte també s’utilitza en un altre dispositiu. Voleu combinar els elements de %1$s i %2$s amb els elements d\'aquest dispositiu?</string>
@@ -58,6 +87,8 @@
   <string name="error_network">"No es pot connectar a la xarxa"</string>
   <string name="error_server">Error del servidor</string>
   <string name="error_unknown">"No es pot iniciar sessió"</string>
+  <string name="expand_button_title">Avançat</string>
+  <string name="feedback_custom_hint">"Descriviu els problemes que heu trobat aquí. Si feu suggeriments, us agrairíem que ens donéssiu més detalls!"</string>
   <string name="find_device">Troba el dispositiu</string>
   <string name="find_device_dspt_provision">\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"
   </string>
@@ -111,6 +142,9 @@
   <string name="menu_add_feedback">Comentaris</string>
   <string name="menu_add_short_cut">Crea una drecera a la pantalla d\'inici</string>
   <string name="merge">Combina</string>
+  <string name="mi_drive_not_publish_toast">Mi Drive estarà disponible en breu</string>
+  <string name="mi_drive_summary">Accediu als documents de Xiaomi Cloud en diversos dispositius</string>
+  <string name="mi_drive_title">Mi Drive</string>
   <string name="micloud_alert_dialog_positive">D\'acord</string>
   <string name="micloud_all_sub_1_intl_sms">S\'enviarà un SMS internacional per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_1_sms">S\'enviarà un SMS normal per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
@@ -197,8 +231,8 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_find_device_verify_progress">S\'està reactivant troba el dispositiu…</string>
   <string name="micloud_last_sync_canceled">La sincronització s\'ha cancel·lat. Torneu-ho a provar.</string>
   <string name="micloud_main_head_menu_cloud_backup">Còpia de seguretat de la pantalla d\'inici</string>
-  <string name="micloud_main_head_menu_cloud_backup_summary">Disposició de la pantalla d\'inici, aplicacions i configuració del sistema</string>
-  <string name="micloud_main_head_menu_finddevice_summary">"Localitzeu i bloquegeu el dispositiu si es perd"</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Configuració del sistema i disposició de la pantalla d\'inici</string>
+  <string name="micloud_main_head_menu_finddevice_summary">Localitzeu i bloquegeu el vostre dispositiu</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Cerca el dispositiu no es troba disponible al segon espai, podeu utilitzar-lo al primer espai.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaura els elements suprimits</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Elements eliminats</string>
@@ -290,7 +324,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_setting_gallery_summary">Fotos i vídeos</string>
   <string name="micloud_setting_music_summary">Llistes de reproducció i favorits</string>
   <string name="micloud_setting_notes_summary">Notes</string>
-  <string name="micloud_setting_personal_assistant_summary">Targetes i característiques del cofre d\'aplicacions</string>
+  <string name="micloud_setting_personal_assistant_summary">Targetes i característiques del Tauler d\'aplicacions</string>
   <string name="micloud_setting_phrase_summary">Frases freqüents</string>
   <string name="micloud_setting_recorder_summary">Enregistraments d\'àudio i de trucades</string>
   <string name="micloud_setting_sms_summary">Missatges SMS i MMS</string>
@@ -337,6 +371,14 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_wipe_data_confirm_title">Voleu suprimir els elements sincronitzats amb Xiaomi Cloud des del telèfon després de tancar la sessió?</string>
   <string name="micloud_wipe_data_remove">Elimina</string>
   <string name="micloud_wipe_data_retain">Deixa</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">estireu per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">actualització completada</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">actualitzant</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">allibereu per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">sense dades</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">no feu això</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">actualitzant</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ha fallat</string>
   <string name="mx_dspt">Missatge Mi</string>
   <string name="mx_dspt_provision">"Mi Message us permet enviar missatges a altres dispositius MIUI sense incórrer en càrrecs quan esteu connectats a la Wi-Fi.
 
@@ -356,6 +398,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="mx_sub_dspt_provision_with_voip">Trucades per internet</string>
   <string name="mx_voip_dspt">Veu Mi</string>
   <string name="no_sim">"Targeta SIM no detectada"</string>
+  <string name="not_set">Sense especificar</string>
   <string name="pay_info_dialog_confirm_to_pay">Paga %s</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Utilitza els crèdits Mi restants: %s</string>
   <string name="pay_info_dialog_title">Seleccioneu el mètode de pagament</string>
@@ -368,11 +411,12 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Només sincronitza les imatges de perfil dels contactes quan estigui connectat a una xarxa Wi-Fi"</string>
   <string name="pref_title_sync_contacts_title">Sincronitzar contactes</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilitza només la Wi-Fi per sincronitzar les fotografies</string>
+  <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="privacy_and_agreement">Termes i condicions</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Benvingut a Troba el dispositiu! Podeu utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Benvingut a Troba el dispositiu! Podeu utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd."</string>
-  <string name="privacy_dialog_sync_all_purpose">Benvingut als serveis de Xiaomi Cloud! Podeu utilitzar Xiaomi Cloud per sincronitzar els vostres missatges, l\'historial de trucades, contactes, notes, configuració del navegador, cançons, fotos i vídeos, configuració de la Wi-Fi, enregistraments, disposició de la pantalla d\'inici, aplicacions, esdeveniments del calendari, elements de la llista de bloqueig i el cofre d\'aplicacions a tots els dispositius connectats.</string>
-  <string name="privacy_doc_cloudservice">"Benvingut als serveis de Xiaomi Cloud. Podeu utilitzar el Xiaomi Cloud per sincronitzar els vostres missatges, l'historial de trucades, contactes, notes, configuració del navegador, cançons, fotos i vídeos, configuració de Wi-Fi, enregistraments, maquetació de la pantalla d'inici, aplicacions, esdeveniments del calendari, elements de la llista de bloqueig i volta de l'aplicació a tot arreu. dispositius connectats Accediu a les coses que sincronitzeu des de qualsevol navegador de &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Es pot requerir un missatge SMS sortint per activar aquests serveis. El vostre operador us cobrarà per aquest missatge. Quan canvieu la targeta SIM, es pot enviar un missatge automàticament per reactivar aquests serveis.&lt;br /&gt;&lt;br /&gt;Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.&lt;br /&gt;Per poder funcionar amb normalitat, aquests serveis han de connectar-se a Internet i requereixen els permisos següents per recopilar la informació personal:&lt;br /&gt;• Calendari:&lt;br /&gt;Per sincronitzar esdeveniments&lt;br /&gt;• Accedir a SMS:&lt;br /&gt;Per sincronitzar missatges&lt;br /&gt;• Accedir a MMS:&lt;br /&gt;Per a sincronitzar missatges&lt;br /&gt;• Accedir a contactes:&lt;br /&gt;Per a sincronitzar contactes&lt;br /&gt;• Editar contactes:&lt;br /&gt;Per a sincronitzar contactes&lt;br /&gt;• Emmagatzematge:&lt;br /&gt;Per guardar articles al dispositiu (per exemple, imatges, vídeos, cançons)&lt;br /&gt;Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquests serveis. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a Configuració.&lt;br /&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;&lt;u&gt;Acord d’Usuari&lt;/u&gt;&lt;/a&gt; i la nostra &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans d’utilitzar Xiaomi Cloud.&lt;br /&gt;"</string>
+  <string name="privacy_dialog_sync_all_purpose">Benvingut als serveis de Xiaomi Cloud! Podeu utilitzar Xiaomi Cloud per sincronitzar els vostres missatges, l\'historial de trucades, contactes, notes, configuració del navegador, cançons, fotos i vídeos, configuració de la Wi-Fi, enregistraments, disposició de la pantalla d\'inici, aplicacions, esdeveniments del calendari, elements de la llista de bloqueig i al Tauler d\'aplicacions a tots els dispositius connectats.</string>
+  <string name="privacy_doc_cloudservice">"Us donem la benvinguda als serveis de Xiaomi Cloud! Podeu utilitzar Xiaomi Cloud per sincronitzar els vostres missatges, l'historial de trucades, contactes, notes, configuració del navegador, cançons, fotos i vídeos, configuració de Wi-Fi, enregistraments, disposició de la pantalla d'inici, aplicacions, esdeveniments del calendari, elements de la llista de bloqueig i el Tauler d'aplicacions a tots els dispositius connectats. Accediu a les coses que sincronitzeu des de qualsevol navegador a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Es pot requerir un missatge SMS sortint per activar aquests serveis. El vostre operador us cobrarà per aquest missatge. Quan canvieu la targeta SIM, es pot enviar un missatge automàticament per reactivar aquests serveis.&lt;br /&gt;&lt;br /&gt;Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.&lt;br /&gt;Per poder funcionar amb normalitat, aquests serveis han de connectar-se a Internet i requereixen els permisos següents per recopilar la informació personal:&lt;br /&gt;• Calendari:&lt;br /&gt;Per sincronitzar esdeveniments&lt;br /&gt;• Accedir a SMS:&lt;br /&gt;Per sincronitzar missatges&lt;br /&gt;• Accedir a MMS:&lt;br /&gt;Per a sincronitzar missatges&lt;br /&gt;• Accedir a contactes:&lt;br /&gt;Per a sincronitzar contactes&lt;br /&gt;• Editar contactes:&lt;br /&gt;Per a sincronitzar contactes&lt;br /&gt;• Emmagatzematge:&lt;br /&gt;Per guardar articles al dispositiu (per exemple, imatges, vídeos, cançons)&lt;br /&gt;Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquests serveis. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a Configuració.&lt;br /&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;&lt;u&gt;Acord d’Usuari&lt;/u&gt;&lt;/a&gt; i la nostra &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans d’utilitzar Xiaomi Cloud.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_pad">"Benvingut a Troba el dispositiu! Podeu utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd. Podeu anar a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar-lo, bloquejar-lo o restablir-lo.&lt;br /&gt;&lt;br /&gt;Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.&lt;br /&gt;Per poder funcionar amb normalitat, aquest servei necessita connectar-se a Internet i requereix els permisos següents per recopilar la informació personal:&lt;br /&gt;• Accedir a la informació del dispositiu:&lt;br /&gt;Per identificar el dispositiu&lt;br /&gt;• Ubicació:&lt;br /&gt;Per localitzar el dispositiu i canviar al mode perdut.&lt;br /&gt;Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a Configuració.&lt;br /&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;&lt;u&gt;Acord d’Usuari&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;la Política de privadesa&lt;/u&gt;&lt;/a&gt; abans d’utilitzar Troba el dispositiu.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_phone">"Benvingut a Troba el dispositiu! Podeu utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd. Podeu anar a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar-lo, bloquejar-lo o restablir-lo.&lt;br /&gt;&lt;br /&gt;Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.&lt;br /&gt;Per poder funcionar amb normalitat, aquest servei necessita connectar-se a Internet i requereix els permisos següents per recopilar la informació personal:&lt;br /&gt;• Accedir a la informació del dispositiu:&lt;br /&gt;Per identificar el dispositiu&lt;br /&gt;• Ubicació:&lt;br /&gt;Per localitzar el dispositiu i canviar al mode perdut.&lt;br /&gt;Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a Configuració.&lt;br /&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;&lt;u&gt;Acord d’Usuari&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;la Política de privadesa&lt;/u&gt;&lt;/a&gt; abans d’utilitzar Troba el dispositiu.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Benvingut a Troba el dispositiu! Podeu utilitzar aquest servei per localitzar, bloquejar o esborrar les dades del dispositiu si es perd. Podeu anar a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar-lo, bloquejar-lo o restablir-lo.&lt;br /&gt;&lt;br /&gt;Es pot necessitar un missatge SMS sortint per activar aquest servei. El vostre operador us cobrarà per aquest missatge. Quan canvieu la targeta SIM, es pot enviar un missatge automàticament per reactivar aquest servei.&lt;br /&gt;&lt;br /&gt;Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.&lt;br /&gt;Per poder funcionar amb normalitat, aquest servei necessita connectar-se a Internet i requereix els permisos següents per recopilar la informació personal:&lt;br /&gt;• Accedir a la informació del dispositiu:&lt;br /&gt;Per identificar el dispositiu&lt;br /&gt;• Ubicació:&lt;br /&gt;Per localitzar el dispositiu i canviar al mode perdut.&lt;br /&gt;Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a Configuració.&lt;br /&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;&lt;u&gt;Acord d’Usuari&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;la Política de privadesa&lt;/u&gt;&lt;/a&gt; abans d’utilitzar Troba el dispositiu.&lt;br /&gt;"</string>
@@ -389,6 +433,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="search_finddevice_pref_desc">Activa/desactiva troba el dispositiu</string>
   <string name="search_finddevice_pref_key_words">trobaeldispositiu, troba el dispositiu</string>
   <string name="search_finddevice_pref_path">Compte Mi/Xiaomi Cloud/Troba el dispositiu</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="share_cancel">Compartir cancel·lat</string>
   <string name="share_failed">"No s'ha pogut compartir"</string>
   <string name="share_miliao_not_installed">"El Mi Talk no està instal·lat."</string>
@@ -405,6 +450,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="soundrecorder_sync_only_in_wifi">Utilitza només la Wi-Fi per sincronitzar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">La gravadora no utilitzarà dades mòbils per baixar o pujar les gravacions</string>
   <string name="soundrecorder_sync_records">Sincronització amb Xiaomi Cloud</string>
+  <string name="special_func_title">Característiques especials</string>
   <string name="starred_contact">Preferits</string>
   <string name="storage_manage_expansion">Aconsegueix-ne més</string>
   <string name="storage_manage_list_title">Dades al núvol</string>
@@ -412,6 +458,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="storage_manage_renewal">Renova</string>
   <string name="storage_manage_title">Canvia el pla d\'emmagatzematge al núvol</string>
   <string name="storage_manage_upgrade">Actualitza</string>
+  <string name="storage_upgrade_card_summary">Obteniu més espai d’emmagatzematge al núvol</string>
+  <string name="storage_upgrade_card_title">Actualitzeu el vostre pla</string>
   <string name="sub_alert_notif_content">Activa Xiaomi Cloud</string>
   <string name="sub_alert_notif_title">Sincronització amb Xiaomi Cloud</string>
   <string name="sub_sync_item_sms_summary">"Només sincronitza els missatges que contenen fotos, àudio o altres suports quan estigui connectat a una xarxa Wi-Fi"</string>
@@ -455,6 +503,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="user_agreement_link">"Condicions del servei de Xiaomi Cloud"</string>
   <string name="user_agreement_title">"Condicions del servei de Xiaomi Cloud"</string>
   <string name="user_storage_info_available_text_prefix">%s disponibles</string>
+  <string name="v7_preference_off">DESACTIVAT</string>
+  <string name="v7_preference_on">ACTIVAT</string>
   <string name="waiting_for_sync">S\'està esperant…</string>
   <string name="warning_bar_action_add_short_cut">Afegeix</string>
   <string name="warning_bar_action_close">Tanca</string>
@@ -475,6 +525,6 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="wipe_data_dialog_title">"Els elements no estan sincronitzats"</string>
   <string name="wipe_data_query_progress_title">S\'està comprovant…</string>
   <string name="wipe_secret_photo_dialog_title">"Les fotos ocultes no es sincronitzen"</string>
-  <string name="xiaomi_cloud_service">Núvol</string>
+  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Tots els elements importants en un sol lloc</string>
 </resources>

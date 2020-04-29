@@ -94,9 +94,9 @@
         <item>Notes;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sincronitza el cofre d\'aplicacions amb Xiaomi Cloud</item>
+        <item>Sincronitza el Tauler d\'aplicacions amb Xiaomi Cloud</item>
         <item>Activa la sincronització</item>
-        <item>Cofre d\'aplicacions;Targetes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Tauler d\'aplicacions;Targetes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Sincronitza els enregistraments amb Xiaomi Cloud</item>

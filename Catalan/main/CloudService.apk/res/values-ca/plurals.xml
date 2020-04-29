@@ -37,8 +37,8 @@
         <item quantity="one">%d nota</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
-        <item quantity="other">%d entrades al cofre</item>
-        <item quantity="one">%d entrada al cofre</item>
+        <item quantity="other">%d entrades al Tauler d\'aplicacions</item>
+        <item quantity="one">%d entrada al Tauler d\'aplicacions</item>
     </plurals>
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d frases freqüents</item>
