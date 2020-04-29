@@ -14,8 +14,8 @@
   <string name="bluetooth_disconnected">Àudio Bluetooth desconnectat</string>
   <string name="bluetooth_map_remote_advance_feature_support">Compatible amb les funcions avançades d\'accés a missatges</string>
   <string name="bluetooth_map_remote_message_access_feature_downgrade">Baixa les funcions d\'accés a missatges remots</string>
-  <string name="bluetooth_map_repair_for_adv_message_access_feature">Emparella de nou per utilitzar les funcions d’accés avançat a missatges</string>
-  <string name="bluetooth_map_repair_for_message_access_version_comp">Emparella de nou per garantir la compatibilitat de la versió d\'accés a missatges</string>
+  <string name="bluetooth_map_repair_for_adv_message_access_feature">Vinculeu de nou per utilitzar les funcions avançades d’accés a missatges</string>
+  <string name="bluetooth_map_repair_for_message_access_version_comp">Vinculeu de nou per garantir la compatibilitat de la versió d\'accés a missatges</string>
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
   <string name="bluetooth_map_settings_cancel">Cancel·la</string>
   <string name="bluetooth_map_settings_count">Espais lliures:</string>
@@ -115,8 +115,8 @@
   <string name="phonebook_advance_feature_support">Suport a les funcions avançades de la guia telefònica</string>
   <string name="remote_pbap_version_change">Canvi de la versió del perfil de la guia telefònica remota</string>
   <string name="remote_phonebook_feature_downgrade">Reverteix la funció de la guia telefònica remota</string>
-  <string name="repair_for_adv_phonebook_feature">Torneu a enllaçar per a les funcions avançades de la guia telefònica</string>
-  <string name="repair_for_phonebook_access_version_comp">Torneu a enllaçar per a la compatibilitat de la versió d\'accés a la guia telefònica</string>
+  <string name="repair_for_adv_phonebook_feature">Torneu a vincular per a les funcions avançades de la guia telefònica</string>
+  <string name="repair_for_phonebook_access_version_comp">Torneu a vincular per a la compatibilitat de la versió d\'accés a la guia telefònica</string>
   <string name="start_server">Inicia el servidor TCP</string>
   <string name="status_canceled">Transferència cancel·lada per l’usuari.</string>
   <string name="status_connection_error">Connexió incorrecta.</string>
@@ -130,6 +130,10 @@
   <string name="status_running">S\'està duent a terme la transferència de fitxers.</string>
   <string name="status_success">La transferència de fitxers s\'ha completat correctament.</string>
   <string name="status_unknown_error">Error desconegut.</string>
+  <string name="switch_audio_device_bt">Bluetooth</string>
+  <string name="switch_audio_device_phone">Aquest dispositiu</string>
+  <string name="switch_audio_notification_content">Dispositiu de sortida d\'àudio actual:</string>
+  <string name="switch_audio_notification_title">Connectivitat del dispositiu</string>
   <string name="transfer_clear_dlg_msg">S\'esborraran tots els elements de la llista.</string>
   <string name="transfer_clear_dlg_title">Esborra</string>
   <string name="transfer_menu_clear">Esborra de la llista</string>
