@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">Voleu eliminar %d contactes?</item>
-        <item quantity="one">Voleu eliminar %d contacte?</item>
+        <item quantity="other">Voleu suprimir %1$d contactes?</item>
+        <item quantity="one">Voleu suprimir %1$d contacte?</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Elimina %1$d contactes</item>
-        <item quantity="one">Elimina %1$d contacte</item>
+        <item quantity="other">Suprimeix %1$d contactes</item>
+        <item quantity="one">Suprimeix %1$d contacte</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ha sonat durant %1$d tons</item>
@@ -68,6 +96,10 @@
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
     <plurals name="hint_account_contacts">
         <item quantity="other">S\'han trobat %1$d elements</item>
         <item quantity="one">S\'ha trobat %1$d element</item>
@@ -83,6 +115,26 @@
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d números</item>
         <item quantity="one">%1$d número</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contactes</item>
@@ -107,6 +159,10 @@
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d grups</item>
         <item quantity="one">%d grup</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa 1 minut</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d elements restants</item>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+  <string name="abc_action_bar_up_description">Navega cap amunt</string>
+  <string name="abc_action_menu_overflow_description">Més opcions</string>
+  <string name="abc_action_mode_done">Fet</string>
+  <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+  <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
+  <string name="abc_capital_off">DESACTIVAT</string>
+  <string name="abc_capital_on">ACTIVAT</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">suprimeix</string>
+  <string name="abc_menu_enter_shortcut_label">retorn</string>
+  <string name="abc_menu_function_shortcut_label">Funció+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espai</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menú+</string>
+  <string name="abc_search_hint">Cerca…</string>
+  <string name="abc_searchview_description_clear">Neteja la consulta</string>
+  <string name="abc_searchview_description_query">Cerca la consulta</string>
+  <string name="abc_searchview_description_search">Cerca</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+  <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Redueix</string>
   <string name="accessibility_calllog_detail">Detalls de l\'historial de trucades</string>
   <string name="accessibility_contact_detail">Detalls del contacte</string>
   <string name="account_container_title">Importat des de</string>
@@ -10,6 +37,7 @@
   <string name="account_type_format">%1$s contacte</string>
   <string name="actionIncomingCall">Trucades entrants</string>
   <string name="action_menu_overflow_description">Més opcions</string>
+  <string name="actionbar_button_up_description">Enrere</string>
   <string name="activity_title_confirm_add_detail">Afegeix al contacte</string>
   <string name="activity_title_contacts_filter">Contactes per mostrar</string>
   <string name="activity_title_settings">Configuració</string>
@@ -33,12 +61,16 @@
   <string name="add_xiaomi_account_dialog_btn">Utilitzar el compte Mi</string>
   <string name="add_xiaomi_account_dialog_msg">Feu còpia de seguretat dels contactes al seu compte Mi per accedir-hi des de qualsevol lloc!</string>
   <string name="add_xiaomi_account_dialog_title">Trieu compte</string>
+  <string name="afternoon">PM</string>
   <string name="aggregation_suggestion_edit_dialog_message">Canviar a edició del contacte del mateix nom? La informació introduïda fins al moment es copiarà.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Mateix nom</string>
   <string name="aggregation_suggestion_join_dialog_message">Combinar el contacte actual amb el contacte seleccionat?</string>
+  <string name="ai_calllog_call_record_menu">Gravació de trucades AI</string>
   <string name="all_list_empty">No hi ha contactes</string>
+  <string name="am">AM</string>
   <string name="antispam_mark_my_contribution">Mostra a altres usuaris que he reportat aquest número.</string>
   <string name="antispam_provider_format">Marcat com a correu brossa per %s</string>
+  <string name="app_name">Preferència</string>
   <string name="attach_photo_dialog_title">Foto del contacte</string>
   <string name="audio_chat">Xat de veu</string>
   <string name="auto_nickname">Automàtic</string>
@@ -64,7 +96,7 @@
   <string name="callAgain">Trucar de nou</string>
   <string name="callBack">Tornar la trucada</string>
   <string name="callDetailTitle">Detalls de la trucada</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s seg</string>
   <string name="callShortcutActivityTitle">Trieu un número per trucar</string>
   <string name="call_assistant">Trucar %s</string>
   <string name="call_callback">Devolució de trucada</string>
@@ -115,6 +147,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Sortint: "</string>
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Afegir nota de trucada</string>
+  <string name="callrecordview_menu_aiphone">Trucades AI</string>
   <string name="callrecordview_menu_batch_delete">Eliminar lot</string>
   <string name="callrecordview_menu_blocklist">Llista de bloqueig</string>
   <string name="callrecordview_menu_conference">Trucada de conferència</string>
@@ -171,6 +204,7 @@
   <string name="clear_copy_number_description">Esborra el número copiat</string>
   <string name="clear_default">Esborra els valors per defecte</string>
   <string name="clear_digits">Elimina numero telefònic</string>
+  <string name="clearable_edittext_clear_description">Neteja</string>
   <string name="click_close">Tocar per tancar</string>
   <string name="clip_dialog_title">Marcar número copiat?</string>
   <string name="close_dial_pad_description">Tanca el teclat</string>
@@ -178,7 +212,7 @@
   <string name="cloud_antispam_marked">Marcat</string>
   <string name="cloud_antispam_title">Identificar números desconeguts</string>
   <string name="cloud_recommend_msg">Toqueu per sincronitzar els contactes amb el núvol.</string>
-  <string name="cloud_state_disabled">Sincronitza els contactes amb el núvol</string>
+  <string name="cloud_state_disabled">Sincronitza els contactes amb Xiaomi Cloud</string>
   <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb el núvol</string>
   <string name="cloud_state_syncing">Sincronització amb el núvol</string>
@@ -250,6 +284,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_editor_prompt_multiple_accounts">Desa el contacte a</string>
   <string name="contact_editor_prompt_one_account">El nou contacte serà %1$s sincronitzat</string>
   <string name="contact_editor_prompt_zero_accounts">Desa al mòbil o en un compte en línia</string>
+  <string name="contact_import_methods_dialog_mi_mover">Importa mitjançant Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Seleccioneu el mètode d\'importació</string>
   <string name="contact_is_deleted">Aquest contacte s\'ha suprimit</string>
   <string name="contact_is_readOnly">"No es pot editar els contactes de només lectura"</string>
@@ -274,6 +309,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contacts_unavailable_import_from_old_device">Importa des d\'un dispositiu antic</string>
   <string name="contacts_unavailable_import_sim_contacts">Importa contactes de la SIM</string>
   <string name="convenient_service">Serveis</string>
+  <string name="copy">Copia</string>
   <string name="copy_number">Copia</string>
   <string name="copy_text">Copia al porta-retalls</string>
   <string name="createContactShortcutSuccessful">Accés directe de contacte afegit a la pantalla d\'inici</string>
@@ -286,6 +322,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="data_already_used">Dades utilitzades</string>
   <string name="data_charge">Recàrrega de dades mòbils</string>
   <string name="data_left">Dades restants</string>
+  <string name="date_picker_lunar">Calendari lunar</string>
   <string name="date_time_set">Fixar</string>
   <string name="date_year_toggle">Proporcionar un any</string>
   <string name="default_ringtone">To de trucada per defecte</string>
@@ -374,17 +411,17 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_paired_dialog_title">Combinant contactes&#8230;</string>
   <string name="device_pairing_dialog_message">S\'està vinculant&#8230;</string>
   <string name="device_pairing_dialog_title">Dispositius vinculats</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Activeu el Bluetooth a l’altre dispositiu.
+  <string name="device_transfer_by_bluetooth_message">"%1$d. Activeu el Bluetooth a l’altre dispositiu.
 
-- El Bluetooth es pot trobar a la configuració de xarxa en dispositius Android.
+- Es pot trobar el Bluetooth a la configuració de xarxa als dispositius Android.
 - Als dispositius iOS, el Bluetooth es troba a la configuració.
 
-%d. El mode descobert també s’ha d’activar als dispositius Android.
+%2$d. El mode descobert també s’ha d’activar als dispositius Android.
 
-%d. Toqueu \"Següent\" i doneu a Contactes els permisos necessaris."</string>
-  <string name="device_transfer_by_sim_message" formatted="false">"%d. Desa els contactes de l'altre dispositiu a la targeta SIM;
+%3$d. Toqueu \"Següent\" i doneu a Contactes els permisos necessaris."</string>
+  <string name="device_transfer_by_sim_message">"%1$d. Deseu els contactes de l'altre dispositiu a la targeta SIM;
 
-%d. Obriu la configuració a l’aplicació Contactes i després aneu a \"Importa/Exporta contactes\" - \"Importa de la targeta SIM\", manteniu premut qualsevol contacte SIM per seleccionar-lo, seleccioneu tots els contactes necessaris i toqueu \"Importa\"."</string>
+%2$d. Obriu la configuració a l’aplicació Contactes i, a continuació, aneu a \"Importar/Exportar contactes\" - \"Importar de la targeta SIM\", manteniu premut qualsevol contacte SIM per seleccionar-lo, seleccioneu tots els contactes necessaris i toqueu \"Importa\"."</string>
   <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
   <string name="dial">Marcar</string>
@@ -427,6 +464,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="display_ungrouped">Contactes restants</string>
   <string name="display_warn_remove_ungrouped">En cancel·lar la sincronització de \"%s\" es cancel·larà també la sincronització de contactes sense grup.</string>
   <string name="duplicate_group_name">Ja existeix un grup amb aquest nom</string>
+  <string name="early_morning">AM</string>
   <string name="editContactDescription">Edita el contacte</string>
   <string name="editContactNameExpandCloseDescription">Redueix el camp Nom</string>
   <string name="editContactNameExpandOpenDescription">Ampliar el nom</string>
@@ -444,11 +482,15 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="emergency_number_label">Número d\'emergència</string>
   <string name="emptyGroup">Grup sense contactes</string>
   <string name="enter_contact_name">"Nom del contacte"</string>
+  <string name="eras_ad">a.C.</string>
+  <string name="eras_bc">d.C.</string>
+  <string name="evening">PM</string>
   <string name="eventLabelsGroup">Aniversari</string>
   <string name="eventTypeCustom">Personalitzat</string>
   <string name="event_edit_field_hint_text">Data</string>
   <string name="expandCloseViewDescription">Redueix</string>
   <string name="expandOpenViewDescription">Expandeix</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="export_sim_contact_finish">Contactes exportats</string>
   <string name="export_sim_contact_finish_msg">%1$d transferits | %2$d duplicats | %3$d restants</string>
   <string name="export_to_sdcard">Exportar a emmagatzematge</string>
@@ -461,13 +503,13 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="exporting_contact_failed_message">"No s'ha pogut exportar dades del contacte. Motiu: \"%s\"\""</string>
   <string name="exporting_contact_failed_title">"No es pot exportar"</string>
   <string name="exporting_contact_list_message">Exportant a %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s de %s contactes</string>
+  <string name="exporting_contact_list_progress">%1$s de %2$s contactes</string>
   <string name="exporting_contact_list_title">Exportar dades de contacte</string>
   <string name="exporting_vcard_canceled_title">Exportació de %s cancel·lat.</string>
   <string name="exporting_vcard_finished_title">Exportació %s acabada.</string>
   <string name="external_profile_title">El meu perfil de %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">"No es pot iniciar l'exportador: \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"No va poder obrir \"%s\": %s."</string>
+  <string name="fail_reason_could_not_open_file">"No s'ha pogut obrir \"%1$s\": %2$s."</string>
   <string name="fail_reason_error_occurred_during_export">S\'ha produït un error durant l\'exportació: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"No va poder recollir informació meta dels fitxers vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Un o més fitxers no van poder ser importats (%s)."</string>
@@ -483,9 +525,63 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="favoritesFrequentContacted">Freqüentment contactat</string>
   <string name="favorites_list_empty">No hi ha favorits</string>
   <string name="firewall_setting">Llista de bloqueig</string>
+  <string name="fmt_date">D</string>
+  <string name="fmt_date_day">d</string>
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+  <string name="fmt_date_numeric_day">d</string>
+  <string name="fmt_date_numeric_month">M</string>
+  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+  <string name="fmt_date_time">D T</string>
+  <string name="fmt_date_time_timezone">D T z</string>
+  <string name="fmt_date_timezone">D z</string>
+  <string name="fmt_date_year">yyyy</string>
+  <string name="fmt_time">T</string>
+  <string name="fmt_time_12hour">"h 'en punt'"</string>
+  <string name="fmt_time_12hour_minute">h:mm</string>
+  <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+  <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+  <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+  <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+  <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+  <string name="fmt_time_12hour_pm">ha</string>
+  <string name="fmt_time_24hour">"H 'en punt'"</string>
+  <string name="fmt_time_24hour_minute">H:mm</string>
+  <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+  <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+  <string name="fmt_time_millis">"S'ms'"</string>
+  <string name="fmt_time_minute">"m'min'"</string>
+  <string name="fmt_time_minute_second">"m'min' s's'"</string>
+  <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+  <string name="fmt_time_second">"s's'"</string>
+  <string name="fmt_time_second_millis">"s.S's'"</string>
+  <string name="fmt_time_timezone">T z</string>
+  <string name="fmt_timezone">z</string>
+  <string name="fmt_weekday">W</string>
+  <string name="fmt_weekday_date">W, D</string>
+  <string name="fmt_weekday_date_time">W, D T</string>
+  <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+  <string name="fmt_weekday_date_timezone">W, D z</string>
+  <string name="fmt_weekday_long">EEEE</string>
+  <string name="fmt_weekday_short">E</string>
+  <string name="fmt_weekday_time">W T</string>
+  <string name="fmt_weekday_time_timezone">W T z</string>
+  <string name="fmt_weekday_timezone">W z</string>
   <string name="force_touch_miprofile">Targeta de contacte</string>
   <string name="force_touch_new_contact">Contacte nou</string>
   <string name="frequentList">Freqüents</string>
+  <string name="friday">Divendres</string>
+  <string name="friday_short">Dv.</string>
+  <string name="friday_shortest">dv.</string>
   <string name="full_name">Nom</string>
   <string name="gallery">Galeria</string>
   <string name="generic_no_account_prompt">Mantenir els contactes segurs fins i tot si perds el teu telèfon: sincronitzar amb un servei en línia. </string>
@@ -655,6 +751,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_sync_remove">Eliminar grup de sincronització</string>
   <string name="menu_viewContact">Veure contacte</string>
   <string name="messageShortcutActivityTitle">Triar numero per missatge</string>
+  <string name="midnight">AM</string>
   <string name="miprofile_account_type">Compte Mi</string>
   <string name="miprofile_alertdialog_edit">Introduir nom</string>
   <string name="miprofile_alertdialog_message">Mostra aquest nom als contactes quan sol·licitis un intercanvi de targetes.</string>
@@ -711,14 +808,67 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="miprofile_switch_on_alertdialog_title">Actualització de foto de perfil</string>
   <string name="missing_name">(Sense nom)</string>
   <string name="missing_required_permission">Has desactivat un permís necessari.</string>
+  <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sincronització amb el núvol</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">estireu per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">actualització completada</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">actualitzant</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">allibereu per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">sense dades</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">no feu això</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">actualitzant</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ha fallat</string>
   <string name="mobile_equipment_identification">Identificació de l\'equip mòbil</string>
+  <string name="monday">Dilluns</string>
+  <string name="monday_short">Dl.</string>
+  <string name="monday_shortest">dl.</string>
+  <string name="month_april">Abril</string>
+  <string name="month_april_short">Abr.</string>
+  <string name="month_april_shortest">abr.</string>
+  <string name="month_august">Agost</string>
+  <string name="month_august_short">Ag.</string>
+  <string name="month_august_shortest">ag.</string>
+  <string name="month_december">Desembre</string>
+  <string name="month_december_short">Des.</string>
+  <string name="month_december_shortest">des.</string>
+  <string name="month_february">Febrer</string>
+  <string name="month_february_short">Febr.</string>
+  <string name="month_february_shortest">febr.</string>
+  <string name="month_january">Gener</string>
+  <string name="month_january_short">Gen.</string>
+  <string name="month_january_shortest">gen.</string>
+  <string name="month_july">Juliol</string>
+  <string name="month_july_short">Jul.</string>
+  <string name="month_july_shortest">jul.</string>
+  <string name="month_june">Juny</string>
+  <string name="month_june_short">Juny</string>
+  <string name="month_june_shortest">juny</string>
+  <string name="month_march">Març</string>
+  <string name="month_march_short">Març</string>
+  <string name="month_march_shortest">març</string>
+  <string name="month_may">Maig</string>
+  <string name="month_may_short">Maig</string>
+  <string name="month_may_shortest">maig</string>
+  <string name="month_november">Novembre</string>
+  <string name="month_november_short">Nov.</string>
+  <string name="month_november_shortest">nov.</string>
+  <string name="month_october">Octubre</string>
+  <string name="month_october_short">Oct.</string>
+  <string name="month_october_shortest">oct.</string>
+  <string name="month_september">Setembre</string>
+  <string name="month_september_short">Set.</string>
+  <string name="month_september_shortest">set.</string>
+  <string name="more">Més</string>
   <string name="more_call_logs">Veure registre detallat de trucades a i.mi.com</string>
+  <string name="morning">AM</string>
   <string name="move_and_resize">Moure i canviar la mida</string>
   <string name="multi_number_menu_call">Trucar</string>
   <string name="multi_number_menu_delete">Suprimeix</string>
   <string name="multi_number_menu_group">Nou grup</string>
   <string name="multi_number_menu_message">Missatge</string>
   <string name="multi_number_title">Conferència</string>
+  <string name="multi_select">Selecciona</string>
   <string name="multipleContactDeleteConfirmation">Eliminar aquest contacte eliminarà la informació en diversos comptes.</string>
   <string name="my_phone_not_provider_bluetooth">El meu telèfon no té Bluetooth</string>
   <string name="my_phone_provider_bluetooth">El meu telèfon té Bluetooth</string>
@@ -739,6 +889,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="nickname_editor_title">Edita sobrenom</string>
   <string name="nickname_picker_name_column">Nom de contacte</string>
   <string name="nickname_picker_nickname_column">Títol</string>
+  <string name="night">PM</string>
   <string name="noAccounts">Per crear grups necessita un compte.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dades de contactes utilitzant el compte Mi</string>
   <string name="noContacts">No hi ha contactes</string>
@@ -772,8 +923,10 @@ Per afegir un contacte a la llista de preferits:
   <string name="non_phone_add_to_contacts">Afegeix a contactes</string>
   <string name="non_phone_caption">Número de telèfon</string>
   <string name="non_phone_close">Tancar</string>
-  <string name="none_paired">No hi ha dispositius actualment aparellatss</string>
+  <string name="none_paired">Actualment no hi ha dispositius vinculats</string>
+  <string name="noon">PM</string>
   <string name="not_applied">"No s'ha pogut aplicar"</string>
+  <string name="not_set">Sense especificar</string>
   <string name="notification_action_voicemail_play">Reprodueix</string>
   <string name="notification_new_voicemail_ticker">Nou correu de veu de %1$s</string>
   <string name="openDialKeyboard">Teclat</string>
@@ -841,6 +994,7 @@ Per afegir un contacte a la llista de preferits:
   <string name="pkgLabel">Contactes i marcador</string>
   <string name="play_add_incall_show_entry">Reprodueix o afegeix video</string>
   <string name="play_incall_show_entry">Reproduir vídeo</string>
+  <string name="pm">PM</string>
   <string name="postalLabelsGroup">Adreça</string>
   <string name="postal_address">Adreça</string>
   <string name="postal_city">Ciutat</string>
@@ -872,6 +1026,7 @@ Per afegir un contacte a la llista de preferits:
   <string name="preference_contacts_filter">Configura les llistes de contactes</string>
   <string name="preference_contacts_more">Organitza els contactes</string>
   <string name="preference_contacts_moresetting">Més</string>
+  <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
   <string name="preference_dial_pad_touch_tone_human">Veu</string>
   <string name="preference_dial_pad_touch_tone_piano">Tecles piano</string>
@@ -970,6 +1125,9 @@ Per afegir un contacte a la llista de preferits:
   <string name="return_call_dialing">S\'està marcant</string>
   <string name="return_call_incoming">Trucada entrant</string>
   <string name="ringLabelsGroup">To de trucada</string>
+  <string name="saturday">Dissabte</string>
+  <string name="saturday_short">Ds.</string>
+  <string name="saturday_shortest">ds.</string>
   <string name="save_photo_progress">Desant foto&#8230;</string>
   <string name="savingContact">Desant contacte&#8230;</string>
   <string name="savingDisplayGroups">Guardant opcions de visualització&#8230;</string>
@@ -1002,6 +1160,7 @@ Per afegir un contacte a la llista de preferits:
   <string name="search_key_photo_word">Assigna;contacte;fotos;Contactes</string>
   <string name="search_key_rebuild_t9_index_title">Organitza;Contactes;t9</string>
   <string name="search_key_sim_manage">Organitza;Contactes</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="search_preference_contacts_filter">Contactes;Pantalla</string>
   <string name="search_quick_dial_setting">Telèfon</string>
   <string name="search_remove_duplicate">Organitza;Contactes</string>
@@ -1049,7 +1208,7 @@ Per afegir un contacte a la llista de preferits:
   <string name="simContacts_emptyLoading">Carregant contactes de la targeta SIM&#8230;</string>
   <string name="simContacts_title">Contactes de la targeta SIM</string>
   <string name="sim_capacity">Veure la capacitat de la targeta SIM</string>
-  <string name="sim_capacity_content" formatted="false">Capacitat total %d | Usada %d </string>
+  <string name="sim_capacity_content">%1$d total | %2$d utilitzat</string>
   <string name="sim_card_no_free_space_message">No hi ha prou espai</string>
   <string name="sim_card_no_free_space_title">Targeta SIM plena</string>
   <string name="sim_contact_existing">El contacte ja existeix</string>
@@ -1074,8 +1233,8 @@ Per afegir un contacte a la llista de preferits:
   <string name="smart_group_company_label">Per l\'empresa</string>
   <string name="smart_group_company_unavailable">Cap empresa</string>
   <string name="smart_group_frequency_1">Durant el passat mes</string>
-  <string name="smart_group_frequency_2" formatted="false">%d a %d mesos</string>
-  <string name="smart_group_frequency_3" formatted="false">%d a %d mesos</string>
+  <string name="smart_group_frequency_2">%1$d a %2$d mesos</string>
+  <string name="smart_group_frequency_3">%1$d a %2$d mesos</string>
   <string name="smart_group_frequency_4">Fa més de %d mesos</string>
   <string name="smart_group_label">Grups intel·ligents</string>
   <string name="smart_group_loading">Un moment…</string>
@@ -1103,6 +1262,30 @@ Per afegir un contacte a la llista de preferits:
   <string name="social_widget_label">Contacte</string>
   <string name="social_widget_loading">Carregant&#8230;</string>
   <string name="solar_calendar">Calendari</string>
+  <string name="solar_term_autumn_begins">Comença la tardor</string>
+  <string name="solar_term_autumn_equinox">Equinocci de Tardor</string>
+  <string name="solar_term_clear_and_bright">Clar i Lluminós</string>
+  <string name="solar_term_cold_dews">Rosada Freda</string>
+  <string name="solar_term_grain_buds">Brots del gra</string>
+  <string name="solar_term_grain_in_ear">Gra a l\'espiga</string>
+  <string name="solar_term_grain_rain">Pluja del gra</string>
+  <string name="solar_term_great_cold">Gran Fred</string>
+  <string name="solar_term_great_heat">Gran Calor</string>
+  <string name="solar_term_heavy_snow">Gran Nevada</string>
+  <string name="solar_term_hoar_frost_falls">Caiguda de la gebrada</string>
+  <string name="solar_term_insects_awaken">Despertar dels Insectes</string>
+  <string name="solar_term_light_snow">Nevada Lleugera</string>
+  <string name="solar_term_slight_cold">Fred lleu</string>
+  <string name="solar_term_slight_heat">Calor lleu</string>
+  <string name="solar_term_spring_begins">Comença la primavera</string>
+  <string name="solar_term_stopping_the_heat">Acabant la calor</string>
+  <string name="solar_term_summer_begins">Comença l\'estiu</string>
+  <string name="solar_term_summer_solstice">Solstici d\'estiu</string>
+  <string name="solar_term_the_rains">Les pluges</string>
+  <string name="solar_term_vernal_equinox">Equinocci de primavera</string>
+  <string name="solar_term_white_dews">Rosada blanca</string>
+  <string name="solar_term_winter_begins">Comença l\'hivern</string>
+  <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
   <string name="special_code_security_exception">"No s'ha pogut completar l'acció. Aquest no és el teclat per defecte."</string>
   <string name="splitConfirmation">Aquest contacte es separarà en múltiples contactes.</string>
   <string name="splitConfirmation_title">Separar contacte?</string>
@@ -1114,6 +1297,9 @@ Per afegir un contacte a la llista de preferits:
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
+  <string name="sunday">Diumenge</string>
+  <string name="sunday_short">Dg.</string>
+  <string name="sunday_shortest">dg.</string>
   <string name="t9_search_empty_create_contact">Nou contacte</string>
   <string name="t9_search_empty_edit_contact">Afegeix als contactes</string>
   <string name="t9_search_empty_send_sms">Envia missatge</string>
@@ -1124,9 +1310,55 @@ Per afegir un contacte a la llista de preferits:
   <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduïu %d i %d per cercar &lt;font fgcolor=\"\"&gt;J&lt;/font&gt;ordi &lt;font fgcolor=\"\"&gt;M&lt;/font&gt;as</string>
   <string name="take_new_photo">Fes una foto nova</string>
   <string name="take_photo">Fes una foto</string>
+  <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
+  <string name="the_anti_aggression_day">Dia de la no-agressió</string>
+  <string name="the_arbor_day">Dia de l\'arbre</string>
+  <string name="the_armed_forces_day">Dia de les forces armades</string>
+  <string name="the_armys_day">Dia de l\'exèrcit</string>
+  <string name="the_childrens_day">Dia dels nens</string>
+  <string name="the_chinese_youth_day">Dia de la joventut</string>
+  <string name="the_christmas_day">Nadal</string>
+  <string name="the_double_ninth_festival">Festival del Doble Nou</string>
+  <string name="the_dragon_boat_festival">Festival del Bot Dragó</string>
+  <string name="the_easter_day">Dia de Pasqua</string>
+  <string name="the_eve_of_the_spring_festival">Vigília de la Festa de la Primavera</string>
+  <string name="the_fifth_day">Cinquè dia</string>
+  <string name="the_fools_day">Dia d\'enganyar</string>
+  <string name="the_forth_day">Quart dia</string>
+  <string name="the_hksar_establishment_day">Dia de l\'establiment Rae de Hong Kong</string>
+  <string name="the_international_womens_day">Dia de les dones</string>
+  <string name="the_laba_festival">Festival Laba</string>
+  <string name="the_labour_day">Dia del treball</string>
+  <string name="the_lantern_festival">Festival dels fanals</string>
+  <string name="the_mid_autumn_festival">Festival de mitja tardor</string>
+  <string name="the_national_day">Dia nacional</string>
+  <string name="the_national_father_day">Dia del pare</string>
+  <string name="the_new_years_day">Any nou</string>
+  <string name="the_night_of_sevens">La nit dels sets</string>
+  <string name="the_partys_day">Dia de festes</string>
+  <string name="the_peace_day">Dia Internacional de la Pau</string>
+  <string name="the_retrocession_day">Dia de la retrocessió</string>
+  <string name="the_second_day">Segon dia</string>
+  <string name="the_seventh_day">Setè dia</string>
+  <string name="the_sixth_day">Sisè dia</string>
+  <string name="the_spirit_festival">Spirit Festival</string>
+  <string name="the_spring_festival">Festival de primavera</string>
+  <string name="the_teachers_day">Dia dels mestres</string>
+  <string name="the_third_day">Tercer dia</string>
+  <string name="the_tw_childrens_day">Dia de la Infància</string>
+  <string name="the_tw_youth_day">Dia de la joventut</string>
+  <string name="the_united_nations_day">Dia de les Nacions Unides</string>
+  <string name="the_valentines_day">Dia de Sant Valentí</string>
+  <string name="the_water_lantern_festival">Festival de les llanternes d\'aigua</string>
+  <string name="thursday">Dijous</string>
+  <string name="thursday_short">Dj.</string>
+  <string name="thursday_shortest">dj.</string>
+  <string name="time_picker_dialog_title">Estableix l\'hora</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="titleJoinContactDataWith">Combina contactes</string>
   <string name="title_other_devices">Altres dispositius disponibles</string>
-  <string name="title_paired_devices">Dispositius aparellats</string>
+  <string name="title_paired_devices">Dispositius vinculats</string>
   <string name="toast_call_detail_error">"No s'han pogut llegir els detalls de la trucada"</string>
   <string name="toast_call_no_SoundRecorder">"L'enregistrador no està disponible"</string>
   <string name="toast_call_no_notes">"L'aplicació Notes no està disponible"</string>
@@ -1142,7 +1374,11 @@ Per afegir un contacte a la llista de preferits:
   <string name="toast_start_intent_failed">"No s'ha trobat cap aplicació per gestionar-ho"</string>
   <string name="toast_text_copied">Text copiat</string>
   <string name="today">Avui</string>
+  <string name="tomorrow">Demà</string>
   <string name="transfer_accounts">Transferir comptes</string>
+  <string name="tuesday">Dimarts</string>
+  <string name="tuesday_short">Dt.</string>
+  <string name="tuesday_shortest">dt.</string>
   <string name="type_incoming">Trucada entrant</string>
   <string name="type_missed">Trucada perduda</string>
   <string name="type_mx_msg">Missatge Mi</string>
@@ -1169,6 +1405,8 @@ Trieu una de les següents opcions: "</string>
   <string name="use_photo_as_primary2">"Utilitza %1$s com a foto de contacte"</string>
   <string name="useful_numbers">Números útils</string>
   <string name="user_profile_contacts_list_header">Jo</string>
+  <string name="v7_preference_off">DESACTIVAT</string>
+  <string name="v7_preference_on">ACTIVAT</string>
   <string name="vcard_export_request_rejected_message">Exportació de vCard va ser rebutjada. Intenta-ho més tard.</string>
   <string name="vcard_export_will_start_message">%s s\'exportaran aviat.</string>
   <string name="vcard_import_failed">"No s'ha pogut importar vCard "</string>
@@ -1200,6 +1438,9 @@ Trieu una de les següents opcions: "</string>
   <string name="voip_audio_description">Trucada VoIP</string>
   <string name="voip_video_description">Videotrucada VoIP</string>
   <string name="websiteLabelsGroup">Pàgina web</string>
+  <string name="wednesday">Dimecres</string>
+  <string name="wednesday_short">Dc.</string>
+  <string name="wednesday_shortest">dc.</string>
   <string name="wipe_data">Esborrar dades</string>
   <string name="yellowPageNavigationIconLabel">Pàgines grogues</string>
   <string name="yellowPageNavigationLabel">Pàgines grogues</string>
@@ -1228,5 +1469,6 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_provider_label">Dades proporcionades per</string>
   <string name="yellowpage_search_the_yellowpage">Cerca en les pàgines grogues</string>
   <string name="yellowpage_user_profile">Perfil</string>
+  <string name="yesterday">Ahir</string>
   <string name="zero_items_selected">Seleccionar elements</string>
 </resources>
