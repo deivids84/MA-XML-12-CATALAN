@@ -16,9 +16,21 @@
         <item quantity="other">%d elements</item>
         <item quantity="one">%d element</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d elements</item>
+        <item quantity="one">%1$d/%2$d element</item>
+    </plurals>
     <plurals name="local_main_backup_manage_summary">
         <item quantity="other">%1$s còpies de seguretat (%2$s)</item>
         <item quantity="one">%1$s còpia de seguretat (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">"S'ha creat la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d elements."</item>
+        <item quantity="one">"S'ha creat la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d element."</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">"S'ha restaurat correctament. No s'han pogut restaurar %d elements."</item>
+        <item quantity="one">"S'ha restaurat correctament. No s'ha pogut restaurar %d element."</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d elements importats. "</item>
