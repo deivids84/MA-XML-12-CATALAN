@@ -256,7 +256,7 @@
   <string name="custom_head_card_text">Creu sempre que alguna cosa meravellosa està a punt de passar</string>
   <string name="custom_head_weather">El temps</string>
   <string name="dark_mode_setting_dark">Mode nocturn (fosc)</string>
-  <string name="dark_mode_setting_follow">Sistema de seguiment</string>
+  <string name="dark_mode_setting_follow">Segueix el sistema</string>
   <string name="dark_mode_setting_light">Mode dia (clar)</string>
   <string name="dark_mode_setting_title">Mode nocturn</string>
   <string name="data_monitor">Recordatori de monitoratge d\'ús de dades</string>

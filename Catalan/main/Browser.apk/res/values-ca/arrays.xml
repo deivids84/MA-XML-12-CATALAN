@@ -64,49 +64,4 @@
         <item>Focus observant</item>
         <item>Problema central</item>
     </string-array>
-    <string-array name="suggestion_weather_condition_message">
-        <item>Serè</item>
-        <item>Parcialment ennuvolat</item>
-        <item>Ennuvolat</item>
-        <item>Xàfec</item>
-        <item>Tempesta elèctrica</item>
-        <item>Pedra</item>
-        <item>Aiguaneu</item>
-        <item>Pluja feble</item>
-        <item>Pluja moderada</item>
-        <item>Pluja forta</item>
-        <item>Tempesta</item>
-        <item>Pluja torrencial</item>
-        <item>Tempesta forta</item>
-        <item>Nevades</item>
-        <item>Nevada feble</item>
-        <item>Nevada moderada</item>
-        <item>Nevada intensa</item>
-        <item>Torb</item>
-        <item>Boira</item>
-        <item>Pluja gelant</item>
-        <item>Tempesta de sorra</item>
-        <item>Pluja entre feble i moderada</item>
-        <item>Pluja entre moderada i forta</item>
-        <item>Pluja entre forta i torrencial</item>
-        <item>Pluja torrencial a la baixa</item>
-        <item>Millorant a tempesta forta</item>
-        <item>Nevada entre feble i moderada</item>
-        <item>Nevada entre moderada i forta</item>
-        <item>Vent de fort a torb</item>
-        <item>Pols en suspensió</item>
-        <item>Aixecant sorra</item>
-        <item>Tempesta de sorra</item>
-        <item>Boira densa</item>
-        <item>Boira espessa</item>
-        <item>Boirina</item>
-        <item>Boirina moderada</item>
-        <item>Boirina espessa</item>
-        <item>Boirina molt espessa</item>
-        <item>Boira densa</item>
-        <item>Boira molt densa</item>
-        <item>Res</item>
-        <item>Pluja</item>
-        <item>Neu</item>
-    </string-array>
 </resources>
