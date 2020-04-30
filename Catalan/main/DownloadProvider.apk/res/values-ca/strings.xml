@@ -16,7 +16,7 @@
   <string name="dialog_content_limit0">Restringeix les baixades</string>
   <string name="dialog_content_limit_max">Il·limitat</string>
   <string name="dialog_data_limit_button1">A l\'espera d\'una conexió Wi-Fi</string>
-  <string name="dialog_data_limit_button2">Baixa-ho ara</string>
+  <string name="dialog_data_limit_button2">Baixa</string>
   <string name="dialog_data_limit_msg1">S\'utilitzaran %s de dades mòbils per baixar aquest arxiu. Voleu baixar-lo ara?</string>
   <string name="dialog_data_limit_msg3">Canvia el límit</string>
   <string name="dialog_data_limit_title">Avís d\'ús de dades</string>
