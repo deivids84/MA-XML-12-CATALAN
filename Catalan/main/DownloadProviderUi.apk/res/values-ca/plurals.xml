@@ -28,6 +28,10 @@
         <item quantity="other">Voleu suprimir %d elements?</item>
         <item quantity="one">Voleu suprimir aquest element?</item>
     </plurals>
+    <plurals name="number_items">
+        <item quantity="other">%s elements</item>
+        <item quantity="one">%s element</item>
+    </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">S\'han trobat %d elements</item>
         <item quantity="one">S\'ha trobat 1 element</item>
