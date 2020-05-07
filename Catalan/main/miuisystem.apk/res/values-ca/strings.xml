@@ -116,4 +116,14 @@
   <string name="yellow_page_sms_send_failed">"No s'ha pogut enviar l'SMS"</string>
   <string name="yellow_page_sms_sending">S\'està enviant…</string>
   <string name="yellow_page_unable_send_sms">"No es pot enviar l'SMS"</string>
+    <string name="miui_lock_screen_date">dd.MM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM"</string>   
 </resources>
