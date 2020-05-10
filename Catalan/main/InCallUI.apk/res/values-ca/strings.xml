@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="ai_assistant">Assistent de trucades AI</string>
+  <string name="ai_assistant_not_installed">Instal·leu primer l\'Assistent de trucades AI</string>
   <string name="antispam_local_marked">Marcada localment</string>
   <string name="antispam_notification_title">Número desconegut</string>
   <string name="antispam_provider">Identificat per %s</string>
@@ -50,14 +52,10 @@
   <string name="can_not_use">"No es pot fer servir"</string>
   <string name="cancel">Cancel·la</string>
   <string name="card_title_answering">Responent la trucada</string>
-  <string name="card_title_answering_time_out">"No s'ha pogut respondre a la trucada, torneu-ho a provar."</string>
   <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
   <string name="card_title_hanging_up">"S'està penjant "</string>
-  <string name="card_title_hanging_up_fail">"No s'ha pogut finalitzar la trucada, torneu-ho a provar."</string>
-  <string name="card_title_hanging_up_restart">"No es pot finalitzar la trucada. Reinicieu el dispositiu."</string>
-  <string name="card_title_hanging_up_weak_signal">Senyal de xarxa mòbil feble. S\'està finalitzat la trucada…</string>
   <string name="card_title_in_call">A la trucada</string>
   <string name="card_title_in_call_short">A la trucada</string>
   <string name="card_title_in_video">Vídeo</string>
@@ -106,6 +104,8 @@
   <string name="description_target_answer">Respondre</string>
   <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
+  <string name="enter_ai_assistant">Utilitza</string>
+  <string name="enter_ai_assistant_tip">"L’assistent de trucades AI pot rebre aquesta trucada i transcriure el discurs de l’altra persona per a vosaltres. Voleu permetre respondre a AI?"</string>
   <string name="inCallLabel">Telèfon</string>
   <string name="incall_bubble_hangup_click_hint">Toqueu de nou per tornar a trucar</string>
   <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
@@ -179,6 +179,7 @@
   <string name="unlock_phone">Desbloqueja el dispositiu</string>
   <string name="upgrade_vt_prompt">Voleu canviar la trucada a trucada de vídeo?</string>
   <string name="user_locked_prompt">Desbloquegeu el dispositiu per accedir als contactes.</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Amplada de banda insuficient, rebaixa a trucada de veu</string>
   <string name="video_conference_caller_info_name">"Trucada de videoconferència de %1$s"</string>
   <string name="video_crbt_title">"S'està reproduint el to de retorn de trucada de vídeo a l'altre part"</string>
   <string name="voicemail">Bústia de veu</string>
