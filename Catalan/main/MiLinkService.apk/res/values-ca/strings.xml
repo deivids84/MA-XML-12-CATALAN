@@ -1,1 +1,140 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="actionbar_button_up_description">Enrere</string>
+  <string name="casting_tips">S\'està emetent…</string>
+  <string name="console_guide_btn_got_it">Entesos</string>
+  <string name="console_guide_subtitle_hang_up">Podeu continuar emetent amb la pantalla del dispositiu apagada. Aquesta característica disminueix el consum d\'energia.</string>
+  <string name="console_guide_subtitle_private">"No mostris notificacions flotants, trucades entrants i altres elements privats en monitors externs"</string>
+  <string name="console_guide_subtitle_small_window">"Minimitzeu la finestra que s'està emetent per poder utilitzar altres funcions del telèfon"</string>
+  <string name="dialog_can_not_find_device">"No s'han pogut trobar dispositius a prop"</string>
+  <string name="dialog_cancle">Cancel·la</string>
+  <string name="dialog_connect_fail">"No s'ha pogut connectar"</string>
+  <string name="dialog_connect_retry">Toqueu per tornar-ho a provar</string>
+  <string name="dialog_connect_verify_perssion">Autoritzeu primer l\'emissió al vostre televisor</string>
+  <string name="dialog_connect_verify_perssion_fail">"No s'ha pogut autoritzar l'emissió al vostre televisor. Espereu un minut o dos i torneu-ho a provar."</string>
+  <string name="dialog_connected">Connectat</string>
+  <string name="dialog_connecting">S\'està connectant…</string>
+  <string name="dialog_nfc_cast_wifi_off">Activeu la connexió Wi-Fi per poder emetre mitjançant NFC. Voleu activar-la ara?</string>
+  <string name="dialog_ok">D\'acord</string>
+  <string name="dialog_only_suport_content">Emeteu fotos, vídeos o música</string>
+  <string name="dialog_open_wifi_bt">Activa</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Assegureu-vos que la funció d'emetre sense fils estigui activada al dispositiu de destinació.
+Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
+  <string name="dialog_recent_connected">Recents</string>
+  <string name="dialog_retry">Torneu-ho a provar</string>
+  <string name="dialog_scanning_device">S\'estan cercant dispositius propers…</string>
+  <string name="dialog_scanning_precondition">Activeu la Wi-Fi i el Bluetooth al telèfon per utilitzar la pantalla sense fils.</string>
+  <string name="dialog_select_tv">Seleccioneu el dispositiu (%d)</string>
+  <string name="dialog_show_help">Ajuda</string>
+  <string name="disconnect">Atura l\'emissió</string>
+  <string name="hang_up">Emet amb la pantalla apagada</string>
+  <string name="hang_up_alert_dialog_content">Continua emetent-se quan la pantalla del dispositiu està apagada. Aquesta característica disminueix el consum d\'energia. Premeu el botó d\'engegada per tornar a encendre la pantalla.</string>
+  <string name="hang_up_alert_dialog_neg">Cancel·la</string>
+  <string name="hang_up_alert_dialog_pos">D\'acord</string>
+  <string name="hang_up_alert_dialog_title">A punt d\'emetre amb pantalla apagada…</string>
+  <string name="help_page_text_01">Ajuda</string>
+  <string name="help_page_text_02">Què és emetre?</string>
+  <string name="help_page_text_03">"Emetre és projectar els elements de la pantalla del telèfon en un monitor extern més gran. Permet compartir imatges i vídeos amb els teus amics i familiars sense utilitzar dades mòbils."</string>
+  <string name="help_page_text_04">Com puc emetre els elements en una pantalla més gran?</string>
+  <string name="help_page_text_05">Pas 1: Comproveu els vostres dispositius i l’entorn de xarxa</string>
+  <string name="help_page_text_06">"1. No necessiteu connectar-vos a internet si voleu emetre alguna cosa des d'un telèfon Mi a un televisor Mi.
+2. Si no podeu establir connexió entre els dos dispositius, intenteu connectar-los a la mateixa xarxa Wi-Fi."</string>
+  <string name="help_page_text_06_global">"1. Televisors Mi, Mi Boxes i Projectors Mi:
+Connecteu el telèfon i el monitor extern a la mateixa xarxa Wi-Fi per obtenir un millor resultat. Si es connecten a xarxes diferents, pot trigar més temps a trobar el monitor extern i a connectar-se.
+Nota: és possible que els televisors Mi més antics no admetin l'emissió en diferents xarxes.
+2. Si utilitzeu televisors, descodificadors o projectors d'altres marques, connecteu el telèfon i el monitor extern a la mateixa xarxa Wi-Fi.
+Si els dos dispositius no es poden connectar a la mateixa xarxa, activeu Miracast al monitor extern. El nom de la funcionalitat de Miracast pot variar."</string>
+  <string name="help_page_text_08">Pas 2: Activeu l\'emissió</string>
+  <string name="help_page_text_09">"Toqueu el botó \"Emet\" a l'àrea de notificacions del telèfon. Activeu el Wi-Fi i el Bluetooth per obtenir una connexió més estable."</string>
+  <string name="help_page_text_10">Si voleu emetre elements de la Galeria o de Mi Vídeo, podeu utilitzar les funcions d\'emissió integrades en aquestes aplicacions.</string>
+  <string name="help_page_text_11">Pas 3: Seleccioneu el dispositiu</string>
+  <string name="help_page_text_12">Seleccioneu un dispositiu extern de la llista de dispositius disponibles per començar a emetre.</string>
+  <string name="help_page_text_13">"No es pot connectar a un dispositiu extern?"</string>
+  <string name="help_page_text_14">"1. Si voleu utilitzar un dispositiu Xiaomi, però no el podeu trobar a la llista de dispositius disponibles, proveu el següent:
+Connecteu el telèfon i el monitor extern (per exemple, el televisor) a la mateixa xarxa Wi-Fi o connecteu el monitor extern al punt d’accés del vostre telèfon. Si no hi ha cap xarxa Wi-Fi disponible o no podeu connectar ambdós dispositius a la mateixa xarxa, comproveu si les funcions d'emissió del monitor extern estan actualitzades, activeu Bluetooth tant al telèfon com al monitor extern, i activeu Miracast al televisor.
+2. Si esteu emetent a un dispositiu Xiaomi per primera vegada, heu de completar la verificació.
+3. Si voleu utilitzar un dispositiu que no sigui Xiaomi, però no el podeu trobar a la llista de dispositius disponibles, proveu el següent:
+Connecteu el telèfon i el monitor extern (per exemple, el televisor) a la mateixa xarxa Wi-Fi o connecteu el monitor extern al punt d'accés del vostre telèfon. Si això no us ajuda, instal·leu l’aplicació LeEco casting al vostre televisor i seguiu les instruccions."</string>
+  <string name="help_page_text_14_global">"1. Si voleu utilitzar un dispositiu Xiaomi, però no el podeu trobar a la llista de dispositius disponibles, proveu el següent:
+Connecteu el telèfon i el monitor extern (per exemple, el televisor) a la mateixa xarxa Wi-Fi o connecteu el monitor extern al punt d'accés del vostre telèfon. Si no hi ha cap xarxa Wi-Fi disponible o no podeu connectar ambdós dispositius a la mateixa xarxa, comproveu si les funcions d'emissió del vostre monitor extern estan actualitzades, activeu Bluetooth tant al telèfon com al monitor extern, i activeu Miracast al televisor.
+2. Si esteu emetent a un dispositiu Xiaomi per primera vegada, heu de completar la verificació.
+3. Si voleu utilitzar un dispositiu que no sigui Xiaomi, però no el podeu trobar a la llista de dispositius disponibles, proveu el següent:
+Connecteu el telèfon i el monitor extern (per exemple, el televisor) a la mateixa xarxa Wi-Fi o connecteu el monitor extern al punt d'accés del vostre telèfon."</string>
+  <string name="help_page_text_15">Funcionalitat Miracast en diferents dispositius</string>
+  <string name="help_page_text_16">Televisors Mi/Projectors Mi</string>
+  <string name="help_page_text_17">"Podeu projectar elements des del telèfon Mi en la majoria de models de televisió Mi amb funcions Bluetooth sense activar el Miracast manualment.
+Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves aplicacions &gt; Emissió &gt; Miracast."</string>
+  <string name="help_page_text_17_1">Atenció al client Xiaomi: 902 220 250</string>
+  <string name="help_page_text_18">TV Samsung</string>
+  <string name="help_page_text_19">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu prémer el botó [SOURCE] del comandament a distància i, a continuació, seleccionar \"Screen Mirroring\". Aquesta funció està activada de manera predeterminada en diversos models.</string>
+  <string name="help_page_text_20">Atenció al client de Samsung: 91 175 00 15</string>
+  <string name="help_page_text_21">TV LG</string>
+  <string name="help_page_text_22">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. Aquesta funció està activada de manera predeterminada en diversos models.</string>
+  <string name="help_page_text_23">Atenció al client LG: 963 050 500</string>
+  <string name="help_page_text_24">TV Philips</string>
+  <string name="help_page_text_25">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. Aquesta funció està activada de manera predeterminada en diversos models.</string>
+  <string name="help_page_text_26">Atenció al client de Philips: 91 349 65 82</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu prémer el botó [MENU] del comandament a distància i, a continuació, seleccioneu Configuració &gt; Connexió &gt; Xarxa &gt; Múltiples pantalles.</string>
+  <string name="help_page_text_29">Atenció al client TPV: +86 400 887 8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu prémer el botó [SMART] del comandament a distància i, a continuació, seleccioneu Emissió &gt; Pantalla sense fils. Alguns models també admeten l\'emissió de jocs: Emet Hi &gt; Emissió de jocs &gt; Android.</string>
+  <string name="help_page_text_32">Atenció al client Hisense: +34 960 468 888</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu seleccionar Aplicacions &gt; Emissió &gt; Dispositiu Android &gt; Miracast.</string>
+  <string name="help_page_text_35">Atenció al client de Skyworth: +1 626 331 9666</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu prémer el botó [SOURCE] del comandament a distància i, a continuació, seleccionar \"Screen Mirroring\". En alguns altres models, podeu activar aquesta funció a Xarxes &gt; Wi-Fi Direct. Aquesta funció està activada de manera predeterminada en diversos models.</string>
+  <string name="help_page_text_38">Atenció al client de Sony: +34 917496388</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu seleccionar Aplicacions &gt; Screen Mirroring.</string>
+  <string name="help_page_text_41">Atenció al client Panasonic: 902 15 30 60</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Comproveu la configuració del vostre televisor per assegurar-vos que el vostre monitor extern suporta la funcionalitat de Miracast.</string>
+  <string name="help_page_text_44">Atenció al client Changhong: +86 400 811 1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu seleccionar Aplicacions &gt; Pantalla sense fils.</string>
+  <string name="help_page_text_47">Atenció al client TCL: 91 038 96 63</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. Per activar aquesta funció, aneu a Les meves aplicacions &gt; Pantalla WiFi.</string>
+  <string name="help_page_text_50">Atenció al client AODIN: +86 0755 28237889</string>
+  <string name="help_page_text_51">LeEco</string>
+  <string name="help_page_text_52">Primer, assegureu-vos que la funcionalitat de Miracast és compatible amb el vostre dispositiu. En alguns models, podeu activar aquesta funció a Configuració &gt; Xarxes &gt; Pantalles múltiples &gt; Pantalla sense fils.</string>
+  <string name="help_page_text_53">Atenció al client LeEco: +86 10109000</string>
+  <string name="help_page_text_55">"Si no us podeu connectar a la xarxa, assegureu-vos que el vostre monitor extern suporti la funcionalitat de Miracast i que estigui activada. En alguns models, aquesta funció s'anomena Pantalla sense fils, Screen Mirroring o Múltiples pantalles. Consulteu la informació següent per aprendre a activar el Miracast.
+4. Si teniu problemes, podeu informar-nos mitjançant l'aplicació \"Serveis i comentaris\"."</string>
+  <string name="help_page_text_55_global">"Si no us podeu connectar a la xarxa, assegureu-vos que el vostre monitor extern suporti la funcionalitat de Miracast i que estigui activada. En alguns models, aquesta funció s'anomena Pantalla sense fils, Screen Mirroring o Múltiples pantalles.
+4. Si teniu problemes, podeu informar-nos mitjançant l'aplicació \"Serveis i comentaris\"."</string>
+  <string name="help_page_text_end">"Si la marca del vostre dispositiu no apareix aquí, poseu-vos en contacte amb el fabricant per obtenir més informació sobre les funcions d'emissió."</string>
+  <string name="nfc_connect_failed_toast">"No s'ha pogut emetre. Torneu-ho a provar."</string>
+  <string name="notification_rc_title">Assistent de TV XiaoMi</string>
+  <string name="notification_show_more">Toqueu per veure més funcions</string>
+  <string name="privacy_agree">D\'acord</string>
+  <string name="privacy_permission_nfc">NFC</string>
+  <string name="privacy_text_1">&lt;Data&gt;\"Benvingut a l\'Emissió! L\'emissió permet projectar els elements des de la pantalla del telèfon en un monitor extern més gran.
+Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents. Algunes funcions les proporciona un proveïdor de serveis de tercers HappyCast. Abans d’utilitzar aquesta funció, llegiu i accepteu la &amp;lt;a href=%2$s&amp;gt;Declaració legal de HappyCast&amp;lt;/a&amp;gt; i la &amp;lt;a href=%1$s&amp;gt;Política de privadesa de HappyCast&amp;lt;/a&amp;gt;.
+Per poder funcionar amb normalitat, aquesta aplicació necessita connectar-se a Internet i requereix els permisos següents per recopilar la vostra informació personal: \"&lt;/Data&gt;</string>
+  <string name="privacy_text_2">&lt;Data&gt;\"Si no accepteu concedir aquests permisos o compartir i carregar la vostra informació personal, no podreu utilitzar aquesta aplicació. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a la configuració en aquests casos.
+Llegiu i accepteu el nostre &amp;lt;a href=%1$s&amp;gt;Acord d’Usuari&amp;lt;/a&amp;gt; i la nostra &amp;lt;a href=%2$s&amp;gt;Política de privadesa&amp;lt;/a&amp;gt; abans d’utilitzar aquesta funció.\"&lt;/Data&gt;</string>
+  <string name="privacy_text_pemission">"　　•Accedir i desar les imatges al vostre dispositiu per projectar aquests elements en monitors externs
+　　•Gravar trucades i àudio per emetre l'àudio en dispositius externs
+　　•Accedir al número de telèfon, al IMEI i al IMSI per identificar el dispositiu
+　　•Accedir a la vostra ubicació per trobar dispositius propers"</string>
+  <string name="private_protect">Oculta els elements privats</string>
+  <string name="san_wait_msg_1">Activeu l\'emissió sense fils al dispositiu de destinació</string>
+  <string name="san_wait_msg_2">La cerca de dispositius pot trigar una estona…</string>
+  <string name="san_wait_msg_3">"Els dispositius externs són més fàcils de trobar quan estan connectats a la mateixa xarxa que el telèfon"</string>
+  <string name="san_wait_msg_4">"Consulteu \"Ajuda\" si no trobeu dispositius"</string>
+  <string name="small_window">Minimitza la finestra</string>
+  <string name="small_window_not_supported">"No puc minimitzar aquesta aplicació mentre s'està emetent"</string>
+  <string name="status_bar_in_casting">S\'està emetent…</string>
+  <string name="status_bar_in_casting_long">Toqueu per veure més funcions d\'emissió</string>
+  <string name="tile_label">Emet</string>
+  <string name="toast_guide_show_more">Més informació</string>
+  <string name="toast_guide_title">Exploreu les nostres novetats aquí</string>
+  <string name="toast_msg_for_multi_window">"No puc utilitzar aquesta funció amb la pantalla dividida"</string>
+  <string name="toast_msg_for_small_window">"Podeu minimitzar la finestra que s'està emetent per poder utilitzar altres funcions del telèfon sense que s'interrompi el procés d'emissió."</string>
+  <string name="toast_nfc_dont_move">"No allunyeu el telèfon"</string>
+  <string name="toast_title_for_small_window">Seleccioneu \"Minimitza la finestra\" a l\'aplicació</string>
+  <string name="toast_turn_off_hotspot_before_cast">Desactiveu el punt d\'accés portàtil abans d\'emetre</string>
+</resources>
