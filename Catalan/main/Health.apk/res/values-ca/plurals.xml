@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d vegades</item>
+        <item quantity="one">%1$d-%2$d vegada</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+    </plurals>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Camineu un mínim de %1$d passes cada dia</item>
+        <item quantity="one">Camineu un mínim d\' %1$d passa cada dia</item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d dies</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">%1$d element seleccionat</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Voleu esborrar %1$d enregistraments?</item>
+        <item quantity="one">Voleu esborrar %1$d enregistrament?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d enregistraments</item>
+        <item quantity="one">%1$d enregistrament</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">enregistraments</item>
+        <item quantity="one">enregistrament</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Objectiu: %1$d passes</item>
+        <item quantity="one">Objectiu: %1$d passa</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" passes"</item>
+        <item quantity="one">" passa"</item>
+    </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d passes</item>
+        <item quantity="one">%1$d passa</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 minut</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d dies des de la darrera pesada</item>
+        <item quantity="one">%1$d dia des de la darrera pesada</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d dies des de la darrera pesada</item>
+        <item quantity="one">%1$d dia des de la darrera pesada</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d metres</item>
+        <item quantity="one">%1$d metre</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">Període de %1$d dies</item>
+        <item quantity="one">Període d\' %1$d dia</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Dia %1$d (previst)</item>
+        <item quantity="one">Dia %1$d (previst)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Dia %1$d</item>
+        <item quantity="one">Dia %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Següent període d\'aquí a %1$d dies</item>
+        <item quantity="one">Següent període d\'aquí a %1$d dia</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">Fa %1$d mins</item>
+        <item quantity="one">Fa %1$d min</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d noves notificacions</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Objectiu: %1$d hores</item>
+        <item quantity="one">Objectiu: %1$d hora</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"La configuració actual no us garanteix %1$d hores de son diari. Necessiteu més que això."</item>
+        <item quantity="one">"La configuració actual no us garanteix %1$d hora de son diari. Necessiteu més que això."</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d passos</item>
+        <item quantity="one">%1$d pas</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">"No us heu enregistrat durant %1$d dies. Anoteu els períodes per obtenir prediccions més precises."</item>
+        <item quantity="one">"No us heu enregistrat durant %1$d dia. Anoteu els períodes per obtenir prediccions més precises."</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Aquest període té una durada total de %1$d dies</item>
+        <item quantity="one">Aquest període té una durada total de %1$d dia</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Dia %1$d d’aquest cicle menstrual</item>
+        <item quantity="one">Dia %1$d d’aquest cicle menstrual</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">Cicle de %1$d dies</item>
+        <item quantity="one">Cicle de %1$d dia</item>
+    </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minuts</item>
+        <item quantity="one">≤%1$d minut</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f h</item>
+        <item quantity="one">%1$.2f h</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f hores</item>
+        <item quantity="one">%1$.1f-%2$.1f hora</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minuts</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minuts</item>
+        <item quantity="one">%1$d-%2$d minut</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d vegades</item>
+        <item quantity="one">%1$d vegada</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d vegades</item>
+        <item quantity="one">%1$d vegada</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Dia %1$d del període</item>
+        <item quantity="one">Dia %1$d del període</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dies fins al següent període</item>
+        <item quantity="one">%1$d dia fins al següent període</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Dia %1$d estimat del període</item>
+        <item quantity="one">Dia %1$d estimat del període</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d passos avui</item>
+        <item quantity="one">%1$d passa avui</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" dies"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" vegades"</item>
+        <item quantity="one">" vegada"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d anys</item>
+        <item quantity="one">%1$d any</item>
+    </plurals>
+</resources>
