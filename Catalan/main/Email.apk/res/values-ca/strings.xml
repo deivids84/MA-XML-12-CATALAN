@@ -463,6 +463,7 @@
   <string name="exception_updated">Els detalls d\'aquest esdeveniment s\'han canviat per: %s</string>
   <string name="exchange_name">Corporatiu</string>
   <string name="expand_recipient_details">Ampliar detalls del destinatari</string>
+  <string name="expand_slide">Amplia la barra lateral</string>
   <string name="fail_get_email_message">Recuperació de missatge fallida.</string>
   <string name="failed">"No s'ha pogut carregar la imatge"</string>
   <string name="failed_parse_eml_file">"No s'ha pogut obrir el fitxer EML, torneu-ho a provar."</string>
@@ -557,6 +558,7 @@
   <string name="gmail_server_authorization_deleted">"No s'ha pogut autenticar el compte. Proveu a afegir aquest compte de nou."</string>
   <string name="gmail_web_login_go">D\'acord</string>
   <string name="gmail_web_login_required_message">Accedeix a Gmail</string>
+  <string name="go_to_mail_content">Mostra el correu</string>
   <string name="have_auth_code">Tinc un codi</string>
   <string name="header_category_account">Configuració del compte</string>
   <string name="header_category_other">Altres</string>
@@ -713,6 +715,7 @@
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Gestiona declaracions de correu electrònic</string>
   <string name="min_payment_text">Pagament mínim</string>
+  <string name="modify_contact_address">Modifica l\'adreça de correu de contacte</string>
   <string name="more_context">Més</string>
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
@@ -846,10 +849,7 @@ Proveu una safata d'entrada diferent."</string>
   <string name="permission_access_provider_label">Dades d\'accés de l\'usuari</string>
   <string name="permission_des_calendar">Per sincronitzar esdeveniments del calendari</string>
   <string name="permission_des_contact">Per accedir als correus dels contactes per completar els destinataris automàticament</string>
-  <string name="permission_des_detail">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. Podeu optar per desinstal·lar aquesta aplicació, tancar la sessió o restringir els permisos a la configuració."</string>
   <string name="permission_des_external_storage">Per a la creació de correus nous, així com per desar i afegir fitxers adjunts</string>
-  <string name="permission_des_phone_status">Per accedir a l\'IMEI per identificar el dispositiu</string>
-  <string name="permission_des_storage">Per a la creació de correus nous, així com per desar i afegir fitxers adjunts</string>
   <string name="permission_read_attachment_desc">"L'aplicació podrà llegir els fitxers adjunts dels seus correus electrònics"</string>
   <string name="permission_read_attachment_label">Llegir fitxers adjunts</string>
   <string name="permission_tip">La configuració va fallar, permeteu trucades i Sms durant els permisos de configuració</string>
@@ -1106,6 +1106,7 @@ Espereu fins que se sincronitzi completament o visualitzeu el missatge al vostre
   <string name="share_choose">Triar fitxer a compartir</string>
   <string name="sharing">Compartir</string>
   <string name="shortcut_name_title">Nom per drecera de carpeta</string>
+  <string name="show_contact_address">Mostra l\'adreça de correu de contacte</string>
   <string name="show_elided">▶ Mostra text citat</string>
   <string name="show_images">Baixa i mostra les imatges</string>
   <string name="show_password">Mostra la contrasenya</string>
