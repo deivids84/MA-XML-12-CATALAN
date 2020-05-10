@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d articles</item>
+        <item quantity="one">%d article</item>
+    </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">%d articles sobre aquest tema</item>
         <item quantity="one">%d article sobre aquest tema</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%s elements</item>
+        <item quantity="one">%s element</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s dispositius</item>
+        <item quantity="one">%s dispositiu</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s seguidors</item>
@@ -12,16 +24,28 @@
         <item quantity="other">%1$s fons de pantalla</item>
         <item quantity="one">%1$s fons de pantalla</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d noves notificacions</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
     <plurals name="time_day_ago">
-        <item quantity="other">%d dies fa</item>
-        <item quantity="one">%d dies fa</item>
+        <item quantity="other">fa %d dies</item>
+        <item quantity="one">fa %d dia</item>
     </plurals>
     <plurals name="time_hour_ago">
         <item quantity="other">fa %d hores</item>
-        <item quantity="one">fa %d hores</item>
+        <item quantity="one">fa %d hora</item>
     </plurals>
     <plurals name="time_minute_ago">
         <item quantity="other">fa %d minuts</item>
-        <item quantity="one">fa %d minuts</item>
+        <item quantity="one">fa %d minut</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d imatges</item>
+        <item quantity="one">%d imatge</item>
     </plurals>
 </resources>
