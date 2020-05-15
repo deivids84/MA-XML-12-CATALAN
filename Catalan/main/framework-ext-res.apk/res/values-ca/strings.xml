@@ -52,6 +52,10 @@
   <string name="default_device_name">Dispositiu desconegut</string>
   <string name="default_name">Per defecte</string>
   <string name="description_title">Mode silenci</string>
+  <string name="device_status_failed">"No s'ha pogut enviar"</string>
+  <string name="device_status_sending">S\'està enviant…</string>
+  <string name="device_status_success">S\'ha enviat correctament</string>
+  <string name="device_status_waiting">S\'està esperant…</string>
   <string name="device_type_pc">Ordinador</string>
   <string name="eighthours">8 hores</string>
   <string name="enable_livetalk_summary">Estalvieu fins a un 70% en les trucades</string>
@@ -87,7 +91,7 @@
   <string name="handy_mode_enter_dlg_title">Accés al mode operació amb una mà</string>
   <string name="handy_mode_summary">Per tancar, premeu l\'àrea fosca</string>
   <string name="handy_mode_title">Operació amb una mà</string>
-  <string name="help">Mostra l\'ajuda</string>
+  <string name="help">"No trobeu dispositius?"</string>
   <string name="help_content">"Si no trobeu el dispositiu que necessiteu, demaneu a l’altra persona que activi el Mi Share."</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Col·loqueu el dit en el botó Inici</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Afegeix una frase freqüent</string>
@@ -142,6 +146,8 @@
   <string name="miui_warning_button_ok">D\'acord</string>
   <string name="miui_warning_tip_info">S\'ha produït un error a %1$s. Voleu tancar aquesta aplicació?</string>
   <string name="onehour">30 minuts</string>
+  <string name="open_close_tip_action">Entesos</string>
+  <string name="open_close_tip_content">Per tancar la finestra flotant, mantingueu premuda la barra d\'acció i llisqueu cap amunt</string>
   <string name="oppo">OPPO</string>
   <string name="oppo_phone">OPPO</string>
   <string name="package_delete_confirm_step_1">Voleu desinstal·lar %s?</string>
@@ -210,6 +216,7 @@
   <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
   <string name="security_permission_wifi_and_data_opened_text">Les dades mòbils i la WLAN s\'han activat</string>
   <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'ID del Compte Mi</string>
+  <string name="security_share_text">Protecció de privadesa</string>
   <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="send_files_to">Envia els elements a</string>

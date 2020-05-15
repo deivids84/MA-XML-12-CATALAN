@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Ordena per hora de recepció</item>
+        <item>Ordena per nombre de notificacions</item>
+        <item>Aplicacions que poden mostrar notificacions</item>
+        <item>"Aplicacions que no poden mostrar notificacions"</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Mostra el contingut de la notificació</item>
+        <item>"No mostris notificacions en la pantalla de blocatge"</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Mostra el contingut de la notificació</item>
+        <item>Indica les notificacions però amaga els seus continguts</item>
+        <item>"No mostris notificacions a la pantalla de blocatge"</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>

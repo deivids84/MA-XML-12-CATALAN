@@ -85,12 +85,12 @@
   <string name="bedtime_setting_no_disturbance_desc">Els tons de trucada, els sons de notificació i la vibració se silenciaran fins que es desperti</string>
   <string name="bedtime_setting_repeat_type">Quan s\'aplicarà el vostre horari d\'anar a dormir?</string>
   <string name="bedtime_setting_repeat_type_desc">"Seleccioneu els dies en què rebreu recordatoris"</string>
-  <string name="bedtime_settings">Configuració de l\'hora d\'anar a dormir</string>
+  <string name="bedtime_settings">Configuració de l\'hora de dormir</string>
   <string name="bedtime_sleep_time_remind">"Se us recordarà que aneu al llit 15 minuts abans d'aquesta hora"</string>
   <string name="bedtime_sleep_time_setting">Quan anireu a dormir?</string>
   <string name="bedtime_wake_up_time_remind">En aquest moment sonarà l\'alarma</string>
   <string name="bedtime_wake_up_time_setting">Quan us aixecareu?</string>
-  <string name="bedtime_welcome">Gestiona l’hora d’anar a dormir</string>
+  <string name="bedtime_welcome">Gestiona l’hora de dormir</string>
   <string name="bedtime_welcome_desc">Mantenir un horari de son constant i regular beneficia la vostra salut. Configureu recordatoris que us ajudaran a anar al llit i a aixecar-vos puntualment cada dia.</string>
   <string name="birthday_alarm">Alarma d’aniversari</string>
   <string name="birthday_alarm_summary">Reprodueix \"Happy Birthday\" en lloc del so d\'alarma per defecte en el vostre aniversari</string>
@@ -127,7 +127,7 @@
   <string name="delete_selected_timer_item">Voleu suprimir la tasca del temporitzador seleccionada?</string>
   <string name="delete_timer_item_title">Suprimeix la tasca del temporitzador</string>
   <string name="delete_timezone_title">Suprimeix la zona horària</string>
-  <string name="deskclock_sleep_no_disturbance">Rellotge - Gestiona l’hora d’anar a dormir - Mode No molestar</string>
+  <string name="deskclock_sleep_no_disturbance">Rellotge - Gestiona l’hora de dormir - Mode No molestar</string>
   <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
   <string name="dialog_legal_off_day">&lt;Data&gt;\"Sembla que utilitzeu alarmes de festius. Aquesta funció necessita connectar-se a Internet per funcionar amb normalitat. Abans d’utilitzar aquesta funció, heu d’acceptar el nostre &amp;lt;a href=\"%1$s\"&amp;gt;Acord d’Usuari&amp;lt;/a&amp;gt; i la nostra &amp;lt;a href=\"%2$s\"&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;. Està d\'acord?\"&lt;/Data&gt;</string>
   <string name="dialog_legal_off_day_desc">"No es pot connectar el rellotge a Internet per actualitzar la informació sobre els festius. Les alarmes de festius sonaran el dissabte i el diumenge."</string>
@@ -342,13 +342,13 @@ El rellotge necessita connectar-se a internet per baixar l\'àudio. Abans d’ut
   <string name="sleep_no_disturbance">Mode No molestar</string>
   <string name="sleep_no_disturbance_desc">Canvieu al mode No molestar fins que us desperteu</string>
   <string name="sleep_no_record_text">Comenceu a fer el seguiment del son per veure les estadístiques</string>
-  <string name="sleep_notification_desc">Compliu el vostre horari d’anar a dormir</string>
+  <string name="sleep_notification_desc">Compliu el vostre horari de dormir</string>
   <string name="sleep_notification_title">Hora d’anar a dormir</string>
   <string name="sleep_record">Fes un seguiment del son</string>
   <string name="sleep_record_desc">Activa-ho per començar a enregistrar les dades del son</string>
   <string name="sleep_record_desc_detailed">Xiaomi Health proporciona la funcionalitat del seguiment del son. Un cop activat, Xiaomi Health registra automàticament el son en funció de l’ús del telèfon, de les estadístiques d’activitat, així com  l\'hora d\'adormir-se i despertar-se que configureu, mostrant-vos estadístiques en forma de gràfics. Per fer un seguiment amb més exactitud del son, permet que Xiaomi Health s’iniciï automàticament. Totes les dades relacionades s’emmagatzemaran localment al dispositiu, cosa que us permet gestionar-les fàcilment.</string>
   <string name="sleep_record_no_data">Les vostres estadístiques apareixeran després que Xiaomi Health analitzi prou dades</string>
-  <string name="sleep_remind">Recordatori per anar a dormir</string>
+  <string name="sleep_remind">Recordatori de l\'hora de dormir</string>
   <string name="sleep_time">Adormir-se</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
   <string name="slider_text">Feu lliscar amunt per tancar</string>

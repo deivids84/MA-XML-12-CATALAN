@@ -2,8 +2,8 @@
 <resources>
     <string-array name="aritst_gender_filter_api">
         <item>tots</item>
-        <item>masculí</item>
-        <item>femení</item>
+        <item>home</item>
+        <item>dona</item>
         <item>grup</item>
     </string-array>
     <string-array name="recommendation_desc_week">

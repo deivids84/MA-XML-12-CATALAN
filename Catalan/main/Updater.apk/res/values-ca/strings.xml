@@ -45,8 +45,8 @@ Les dades no s’esborraran.\"</string>
   <string name="no_mirror">Actualment tots els miralls estan fora de línia, proveu-ho més tard…</string>
   <string name="no_network">No hi ha accés a la xarxa.</string>
   <string name="no_update">Esteu al dia!</string>
-  <string name="no_xioamieu">"No utilitzeu una MIUI Rom creada per l'equip de Xiaomi.eu!
-Les actualitzacions no estan disponibles per a vosaltres. "</string>
+  <string name="no_xioamieu">"No utilitzeu una Rom MIUI creada per l'equip de Xiaomi.eu!
+Les actualitzacions no estan disponibles per a vosaltres!"</string>
   <string name="notif_cancel">Cancel·la</string>
   <string name="notif_install">Instal·la</string>
   <string name="notif_new_summary">Toqueu per obtenir detalls</string>
