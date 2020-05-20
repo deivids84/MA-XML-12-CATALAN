@@ -278,9 +278,9 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
   <string name="edit_basic_info_desc">Informació bàsica</string>
   <string name="edit_sleep_record_button">Edita</string>
   <string name="enable">Activat</string>
-  <string name="enable_go_now">Activat</string>
-  <string name="enable_not_now">Desactivat</string>
-  <string name="enable_right_now">Activat</string>
+  <string name="enable_go_now">Activa</string>
+  <string name="enable_not_now">Ara no</string>
+  <string name="enable_right_now">Activa</string>
   <string name="enough">Suficient</string>
   <string name="enter_mi_health">Obre Xiaomi Health</string>
   <string name="equivalent_exercise">≈%1$s km caminant (%2$s kcal)</string>
@@ -621,7 +621,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="no_data">No hi ha dades</string>
   <string name="no_records">Encara no hi ha elements.</string>
   <string name="no_snore">"No vàreu roncar ni parlar durant el son"</string>
-  <string name="no_snore_1">"No vàreu roncar ni parlar durant el son"</string>
+  <string name="no_snore_1">Encara no hi ha elements</string>
   <string name="noon">pm</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">"No heu assolit el vostre objectiu"</string>
@@ -728,7 +728,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="sedentary_time_is_too_long">És hora de moure’s! Beveu una mica d’aigua i passegeu.</string>
   <string name="sedentary_title">Recordeu que us heu de moure</string>
   <string name="sedentary_toggle_content">"Xiaomi Health us recordarà que us aixequeu i camineu si heu estat inactius durant molt de temps."</string>
-  <string name="sedentaty_hazard_description">"Seure no beneficia la seva salut. 12 hores amb pauses per estar a peu dret cada dia us ajudaran a evitar els riscos del sedentarisme."</string>
+  <string name="sedentaty_hazard_description">"Seure no beneficia la vostra salut. 12 hores amb pauses d’1 minut a peu dret cada dia us ajudaran a evitar els riscos del sedentarisme."</string>
   <string name="select_menstruation_end_date">Seleccioneu la data de finalització d\'aquest període</string>
   <string name="select_null">No seleccionat</string>
   <string name="select_target">Seleccioneu l\'objectiu</string>
@@ -750,8 +750,8 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="sleep_deep">Son profund</string>
   <string name="sleep_deep_light_analysis">Son lleuger i son profund</string>
   <string name="sleep_deep_light_close_tip">L’anàlisi del son profund està desactivada</string>
-  <string name="sleep_deep_light_no_data">Sense registres de son profund</string>
-  <string name="sleep_deep_light_no_data_improvement">No s\'identifiquen les característiques del son profund lleuger i es faran esforços per optimitzar l\'algorisme.</string>
+  <string name="sleep_deep_light_no_data">Encara no hi ha dades</string>
+  <string name="sleep_deep_light_no_data_improvement">"No es poden detectar les fases de son. Estem millorant els nostres algorismes. Estigueu atents!"</string>
   <string name="sleep_detection_enable">Analitza el cicle del son</string>
   <string name="sleep_detection_feedback">Comentaris</string>
   <string name="sleep_detection_guide_four_description">El seguiment del son consumirà al voltant d’un 1% de la bateria diàriament.</string>
@@ -772,11 +772,11 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="sleep_detection_question_four_title">Per què diferents dispositius consumeixen diferents quantitats d\'energia per rastrejar el son?</string>
   <string name="sleep_detection_question_one_answer">"Quan el dispositiu s'està apagant, reiniciant o quan la bateria estigui baixa, el seguiment del son es veurà interromput perquè els sensors no poden recopilar i analitzar les dades. En aquests casos, les estadístiques de son apareixeran incompletes.
 Si aquest problema es produeix freqüentment, comproveu si el dispositiu té tasques d’aturada programades o les actualitzacions nocturnes del sistema."</string>
-  <string name="sleep_detection_question_one_answer_1">"L’anàlisi del son lleuger profund es basa en les dades de moviment corporal recollides pels sensors del telèfon mòbil. Les condicions següents poden donar lloc a resultats sense anàlisis del son profund:
-1. Fallada de recollida de dades. La recollida i el càlcul de dades no es poden dur a terme normalment a causa de l’apagada del telèfon mòbil o de la falta d'energia durant el son.
-2. No s'ha pogut analitzar les dades. Pot ser que el telèfon mòbil estigui situat molt lluny del cos o de forma immòbil, amb la qual cosa el moviment del cos recollit no és evident, i les característiques del son lleuger profund no es poden analitzar temporalment. Continuarem optimitzant l'algorisme."</string>
+  <string name="sleep_detection_question_one_answer_1">"Es detecten les fases de son profund i lleuger a partir de les dades del moviment corporal recollides pels sensors del dispositiu. Aquí teniu el motiu pel qual no podreu veure les estadístiques:
+1. Xiaomi Health no ha pogut recopilar dades. Això pot ocórrer quan el dispositiu s’apaga mentre dormiu, la bateria és baixa o l’aplicació no pot funcionar en segon pla. Permeteu que Xiaomi Health s'iniciï automàticament, afegiu-lo a les excepcions d’estalvi de bateria i bloquegeu-lo en segon pla per evitar que això passi.
+2. Xiaomi Health no ha pogut analitzar les dades recollides. Això pot ocórrer quan el telèfon se situa molt lluny del cos quan dormiu. De forma alternativa, el vostre moviment corporal pot ser massa subtil per fer cap hipòtesi sobre el vostre cicle de son. Estem millorant constantment els nostres algoritmes per fer que Xiaomi Health analitzi millor el vostre son."</string>
   <string name="sleep_detection_question_one_title">Per què les estadístiques són incompletes?</string>
-  <string name="sleep_detection_question_one_title_1">"Per què no es registra el son lleuger i profund?"</string>
+  <string name="sleep_detection_question_one_title_1">"Per què no veig les estadístiques del cicle de son?"</string>
   <string name="sleep_detection_question_three_answer">El dispositiu fa un seguiment del moviment del cos durant el son mitjançant els sensors integrats. Per fer les estadístiques més precises, col·loqueu el dispositiu en una superfície suau prop del vostre cos. Eviteu col·locar-lo sobre les tauletes de nit o massa lluny del matalàs.</string>
   <string name="sleep_detection_question_three_title">Com puc fer que les meves estadístiques siguin més precises?</string>
   <string name="sleep_detection_question_two_answer">"Els cicles de son s’analitzen localment al dispositiu. El seguiment del son funcionarà fins i tot quan no estigueu connectats a la xarxa o si la vostra connexió actual està interrompuda."</string>
@@ -824,14 +824,14 @@ les dades de son"</string>
   <string name="sleep_service">Servei de seguiment del son</string>
   <string name="sleep_service_background_running">El servei de seguiment del son s\'està executant en segon pla</string>
   <string name="sleep_setting_title">Configuració del son</string>
-  <string name="sleep_snore_audio_auto">Seguiment de l\'àudio</string>
-  <string name="sleep_snore_audio_auto_desc">Enregistra les vostres converses mentre dormiu i emmagatzema el fitxer al telèfon per protegir la vostra privadesa de forma segura.</string>
-  <string name="sleep_snore_audio_close_desc">Podeu inhabilitar-ho a la configuració del son.</string>
-  <string name="sleep_snore_audio_enable">Les deteccions estan habilitades</string>
-  <string name="sleep_snore_audio_enable_desc">Aquesta nit, es farà un seguiment automàtic del son.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Assegureu-vos que el dispositiu està prou carregat abans d’anar a dormir.</string>
+  <string name="sleep_snore_audio_auto">Enregistra els roncs i les converses automàticament</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Health pot enregistrar els roncs i les converses automàticament en funció de l’horari de dormir. L\'enregistrament s’aturarà quan us aixequeu. Per protegir la vostra privadesa, tots els fitxers enregistrats es desaran localment al dispositiu mitjançant un algorisme integrat.</string>
+  <string name="sleep_snore_audio_close_desc">Podeu desactivar aquesta funció a la Configuració en qualsevol moment.</string>
+  <string name="sleep_snore_audio_enable">La detecció automàtica està activada</string>
+  <string name="sleep_snore_audio_enable_desc">Els vostres roncs i converses s\'enregistraran automàticament quan aneu a dormir.</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Recordeu que l'ús d'aquesta funció consumeix una quantitat important d'energia. És una bona idea mantenir el carregador connectat mentre dormiu per evitar interrupcions inesperades."</string>
   <string name="sleep_snore_detection">Detecta els roncs i les converses</string>
-  <string name="sleep_snore_detection_desc">Seguiment del son</string>
+  <string name="sleep_snore_detection_desc">Detecta els roncs i les converses per obtenir més informació sobre el son</string>
   <string name="sleep_sober">Despert</string>
   <string name="sleep_sober_times_title">Us heu despertat</string>
   <string name="sleep_status">Estat del son</string>
@@ -867,11 +867,13 @@ les dades de son"</string>
   <string name="snore_detection_notification_title">Prova de son en curs</string>
   <string name="snore_detection_running_state">S\'està detectant…</string>
   <string name="snore_detection_running_state_description">El micròfon està activat. Continuarà funcionant en segon pla.</string>
+  <string name="snore_detection_sotp_opt_1">Atura i suprimeix els resultats</string>
+  <string name="snore_detection_sotp_opt_2">Atura i desa els resultats</string>
   <string name="snore_detection_stop_pop_content">"Ja no podreu reprendre aquesta sessió si la finalitzeu ara. La propera sessió començarà quan aneu al llit la pròxima vegada."</string>
-  <string name="snore_detection_stop_pop_title">Voleu finalitzar la sessió?</string>
+  <string name="snore_detection_stop_pop_title">Voleu aturar la sessió actual de detecció de roncs?</string>
   <string name="snore_detection_stopped_notification_title">S\'ha aturat la detecció de roncs i converses</string>
   <string name="snore_dream_talk">Roncs i converses</string>
-  <string name="snore_duration_label">Duració dels roncs</string>
+  <string name="snore_duration_label">Durada dels roncs</string>
   <string name="snore_label">Roncs</string>
   <string name="snore_record_audio_delete_message">"Aquest enregistrament només s'emmagatzema al vostre dispositiu. No podreu restaurar-lo si el suprimiu. Voleu suprimir-lo de totes maneres?"</string>
   <string name="snore_record_audio_delete_title">Voleu suprimir l\'enregistrament?</string>
@@ -954,6 +956,7 @@ les dades de son"</string>
   <string name="sync_status_in_progress">S\'està sincronitzant…</string>
   <string name="sync_status_network_failure">"No s'ha pogut sincronitzar. Connecteu-vos a la xarxa i torneu-ho a provar."</string>
   <string name="sync_status_never_done">No està sincronitzat</string>
+  <string name="sync_status_oauth_error">Ha fallat la sincronització de la font de dades, reautoritzeu-la</string>
   <string name="tb_audio_progress_bar">Barra de reproducció d\'àudio</string>
   <string name="tb_card_on_using_list">Afegida</string>
   <string name="tb_click_finish_stand">"Sembla que no us heu aixecat durant la darrera hora. Si ho heu fet, afegiu un registre manualment."</string>
@@ -1047,8 +1050,8 @@ les dades de son"</string>
   <string name="tb_picker_sleep_goal">Objectiu de son seleccionat: %1$s. Llisqueu verticalment per seleccionar l\'objectiu.</string>
   <string name="tb_picker_weight">Pes seleccionat: %1$s. Llisqueu verticalment per seleccionar el pes.</string>
   <string name="tb_picker_year">Any seleccionat: %1$d. Llisqueu verticalment per seleccionar l\'any.</string>
-  <string name="tb_play_next">Àudio següent</string>
-  <string name="tb_play_previous">Àudio anterior</string>
+  <string name="tb_play_next">Canvia al següent enregistrament</string>
+  <string name="tb_play_previous">Canvia a l\'enregistrament anterior</string>
   <string name="tb_select_a_column">S\'ha seleccionat %1$s</string>
   <string name="tb_show_sleep_info">Es mostren les estadístiques de son per a %1$s</string>
   <string name="tb_sleep_evaluation">Resultat estimat: %1$s</string>

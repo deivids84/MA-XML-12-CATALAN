@@ -8,4 +8,12 @@
         <item quantity="other">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segons</item>
         <item quantity="one">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segon</item>
     </plurals>
+    <plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
+        <item quantity="one">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d dispositius connectats</item>
+        <item quantity="one">%1$d dispositiu connectat</item>
+    </plurals>
 </resources>

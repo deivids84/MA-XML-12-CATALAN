@@ -334,7 +334,7 @@
   <string name="global_wa_main_item_title_cache">Memòria cau d\'aplicacions</string>
   <string name="global_wa_main_item_title_chat">Fitxers adjunts</string>
   <string name="global_wa_main_stop_cancel">Cancel·la</string>
-  <string name="global_wa_main_stop_confirm">D\'ACORD</string>
+  <string name="global_wa_main_stop_confirm">D\'acord</string>
   <string name="global_wa_main_stop_msg">Voleu aturar l\'escaneig d\'elements de WhatsApp?</string>
   <string name="global_wa_main_stop_scan">Atura</string>
   <string name="global_wa_main_to_clean">Neteja</string>
@@ -373,7 +373,7 @@
   <string name="grabage_rank_title">Netejat avui</string>
   <string name="guide_dc_dialog_message">"Queden menys de 2 GB d'espai d'emmagatzematge lliure. Això podria alentir el dispositiu. Realitzeu una neteja profunda per alliberar espai d’emmagatzematge."</string>
   <string name="guide_dc_dialog_negative">Cancel·la</string>
-  <string name="guide_dc_dialog_positive">D\'ACORD</string>
+  <string name="guide_dc_dialog_positive">D\'acord</string>
   <string name="guide_dc_dialog_title">L\'emmagatzematge s\'està esgotant</string>
   <string name="guide_secure_dialog_message">La puntuació d’optimització del dispositiu és inferior a 80 punts. Voleu optimitzar-ho?</string>
   <string name="guide_secure_dialog_negative">Cancel·la</string>

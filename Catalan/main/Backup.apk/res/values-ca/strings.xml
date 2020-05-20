@@ -337,7 +337,7 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="new_pc_backup_restore_link">Dispositiu mòbil</string>
   <string name="new_pc_backup_summary1">Seleccioneu els elements i toqueu \"Còpia de seguretat\".</string>
   <string name="new_pc_backup_summary2">Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
-  <string name="new_pc_backup_summary4">Nota: També podeu copiar fotos i vídeos de MIUI-DCIM.</string>
+  <string name="new_pc_backup_summary4">Nota: També podeu copiar fotos i vídeos de DCIM.</string>
   <string name="new_pc_restore_content1">%d. Connecteu el dispositiu mòbil a l’ordinador mitjançant un cable USB.</string>
   <string name="new_pc_restore_content2">%d. Copieu la còpia de seguretat del vostre ordinador a MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Obriu \"%2$s\" i seleccioneu els elements a restaurar.</string>

@@ -103,17 +103,15 @@
   <string name="mars_position_content_0">"Aquesta regió conté penya-segats, altiplans i àmplies valls plans, que es creu que van ser causades per glaceres cobertes de runes. Aquí també s'han detectat minerals d'argila, que són de gran interès en la recerca de proves de vida a l'antic Mart.
 
 NASA/JPL/Universitat d'Arizona"</string>
-  <string name="mars_position_content_1">"Les línies de pendent recurrents (RSL) són fluxos actius en les càlides pendents marcianes que poden ser causats per la filtració d'aigua. Les RSL en el cràter Hale tenen un color inusualment \"vermellós\" comparat amb la majoria dels RSL, potser a causa dels compostos de ferro oxidats, com el rovell.
+  <string name="mars_position_content_1">"Es va prendre quan el Mars Rover Curiosity estava explorant els Pahrump Hills, al cràter de Gale. La regió conté roques sedimentàries que els científics creuen que es van formar amb la presència d’aigua, i les zones fosques són sorra.
 
-NASA/JPL/Universitat d'Arizona"</string>
+NASA/JPL/Universitat d’Arizona"</string>
   <string name="mars_position_content_2">"El Mawrth Vallis és un antic canal de sortida d'aigua amb roques argiloses de color clar. Els minerals d'argila preserven fàcilment la vida microscòpica a la Terra, així que potser es poden trobar rastres de vida antiga a Mawrth.
 
 NASA/JPL/Universitat d'Arizona"</string>
   <string name="mars_position_title_0">"Nilosyrtis
 Regió de Mensae"</string>
-  <string name="mars_position_title_1">"Central
-Muntanyes del
-Cràter Hale"</string>
+  <string name="mars_position_title_1">Cráter de Gale</string>
   <string name="mars_position_title_2">"Cràter a
 Mawrth Vallis"</string>
   <string name="mars_summary">Els vasts deserts de Mart sempre han mantingut una humanitat sorprenent</string>

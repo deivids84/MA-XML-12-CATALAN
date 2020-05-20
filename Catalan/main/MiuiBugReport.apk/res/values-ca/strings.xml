@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+  <string name="abc_action_bar_up_description">Navega cap amunt</string>
+  <string name="abc_action_menu_overflow_description">Més opcions</string>
+  <string name="abc_action_mode_done">Fet</string>
+  <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+  <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
+  <string name="abc_capital_off">DESACTIVAT</string>
+  <string name="abc_capital_on">ACTIVAT</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">suprimeix</string>
+  <string name="abc_menu_enter_shortcut_label">retorn</string>
+  <string name="abc_menu_function_shortcut_label">Funció+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espai</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menú+</string>
+  <string name="abc_search_hint">Cerca…</string>
+  <string name="abc_searchview_description_clear">Neteja la consulta</string>
+  <string name="abc_searchview_description_query">Cerca la consulta</string>
+  <string name="abc_searchview_description_search">Cerca</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+  <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Redueix</string>
   <string name="action_cancel">Cancel·la</string>
   <string name="action_submit">Envia</string>
   <string name="announcement">Atenció</string>
@@ -30,7 +57,7 @@
   <string name="catch_full_log_item_content_need_open">"1. Toqueu \"Genera el registre\".
 2. Torneu a la funció que voleu informar i reproduïu-la.
 3. Torneu a aquesta pàgina i toqueu \"Finalitza i puja\"."</string>
-  <string name="catch_full_log_item_content_title">Passos:</string>
+  <string name="catch_full_log_item_content_title">Passos</string>
   <string name="catch_full_log_item_title_audio">Àudio, enregistrament de so i àudio de trucades</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">S\'està alentint</string>
@@ -49,6 +76,7 @@
   <string name="catch_full_log_start_dump_hprof">Genera el registre d\'alentiments</string>
   <string name="catch_full_log_submit_directly">Envia</string>
   <string name="close_feedback_main">​​Amaga</string>
+  <string name="copy">Copia</string>
   <string name="cta_cancel">Cancel·la</string>
   <string name="cta_confirm">D\'acord</string>
   <string name="cta_dialog_content">Aquesta aplicació necessita connectar-se a Internet per funcionar amb normalitat.</string>
@@ -83,7 +111,16 @@
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="failed_to_fetch_fql">"No s'ha pogut obtenir la informació de preguntes freqüents ni comprovar la connexió de xarxa"</string>
+  <string name="feedback_answer_detail_feedback_resolved">Sí</string>
+  <string name="feedback_answer_detail_feedback_result">Gràcies pels vostres comentaris!</string>
+  <string name="feedback_answer_detail_feedback_title">Ha estat útil?</string>
+  <string name="feedback_answer_detail_feedback_unresolved">No</string>
+  <string name="feedback_answer_detail_relative_question">Això pot ser rellevant</string>
+  <string name="feedback_answer_detail_submit_dialog_confirm">Envia</string>
+  <string name="feedback_answer_detail_submit_dialog_content">"Podeu descriure el problema que heu trobat i intentarem solucionar-lo. Voleu enviar comentaris?"</string>
+  <string name="feedback_answer_detail_submit_dialog_title">Voleu enviar els comentaris?</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Seleccioneu el problema</string>
   <string name="feedback_choose_module">Trieu un element</string>
@@ -116,6 +153,7 @@
   <string name="feedback_detail_upload_local_log">Puja el fitxer</string>
   <string name="feedback_detail_upload_log">Puja els registres</string>
   <string name="feedback_detail_waiting">S\'està generant…</string>
+  <string name="feedback_edit_popup_window_related_title">Això pot ser rellevant</string>
   <string name="feedback_empty_report_list">Encara no hi ha informes</string>
   <string name="feedback_guess">La nostra suposició</string>
   <string name="feedback_hint_optional">Selecciona</string>
@@ -221,6 +259,14 @@
   <string name="mi_service_dialog_content">Totes les funcions de comentaris es van traslladar a la nova aplicació \"Serveis i comentaris\". L\'aplicació de comentaris s\'eliminarà de la pantalla d\'inici. Toqueu \"Obre\" per provar \"Serveis i comentaris\".</string>
   <string name="mi_service_dialog_title">Presentació de \"Serveis i comentaris\"</string>
   <string name="min_error">%1$s ha de ser més llarg.</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
   <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Puja</string>
   <string name="mobile_data_note_dialog_content">"Sembla que esteu connectats a una xarxa de pagament. La pujada de registres pot generar càrrecs addicionals."</string>
@@ -251,6 +297,7 @@
   <string name="network_unavailable_dialog_content">S\'enviarà l\'informe quan estigueu connectat.</string>
   <string name="network_unavailable_dialog_title">"No es pot connectar a la xarxa"</string>
   <string name="non_system_app_select">Aplicacions baixades</string>
+  <string name="not_set">Sense especificar</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
   <string name="passport_access_denied">Accés denegat</string>
@@ -410,9 +457,10 @@ Per activar el vostre compte, seguiu l'enllaç
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
   <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum"</string>
+  <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="privacy_category_title">Privadesa</string>
   <string name="privacy_policy_title">Política de privadesa</string>
-  <string name="refresh">Actualitza</string>
+  <string name="refresh">Refresca</string>
   <string name="related_question_answer_details">Problema relacionat</string>
   <string name="reply">Respon</string>
   <string name="reply_failed">"No es pot respondre"</string>
@@ -421,6 +469,7 @@ Per activar el vostre compte, seguiu l'enllaç
   <string name="reply_successful">S\'ha respost correctament</string>
   <string name="report_miui">Notifica un error</string>
   <string name="screen_lock">Bloqueig de pantalla</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="section_description">Descripció</string>
   <string name="section_err_type">Tipus d\'error</string>
   <string name="section_screenshot">Captura de pantalla</string>
@@ -482,6 +531,8 @@ Mida: %2$s"</string>
   <string name="update_dialog_content_version">Ja podeu actualitzar a la versió %1$s.</string>
   <string name="update_dialog_title">Hi ha una actualització disponible</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
+  <string name="v7_preference_off">DESACTIVAT</string>
+  <string name="v7_preference_on">ACTIVAT</string>
   <string name="warning_field_empty">Introduïu %1$s</string>
   <string name="warning_field_invalid">Seleccioneu un %1$s vàlid</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>

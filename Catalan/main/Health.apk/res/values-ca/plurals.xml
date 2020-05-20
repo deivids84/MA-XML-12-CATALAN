@@ -69,8 +69,8 @@
         <item quantity="one">%1$d enregistrament</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">enregistraments</item>
-        <item quantity="one">enregistrament</item>
+        <item quantity="other">" instàncies"</item>
+        <item quantity="one">" instància"</item>
     </plurals>
     <plurals name="duration_unit_hour_format">
         <item quantity="other">%1$d hrs</item>

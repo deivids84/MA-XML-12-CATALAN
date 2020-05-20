@@ -160,7 +160,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Llisqueu amunt per tancar</string>
   <string name="browserFrameFormResubmitMessage">"La pàgina que intenteu veure conté dades que ja s’han enviat. Si reenvieu les dades, es repetiran les accions anteriors (per exemple, cerques o compres)."</string>
   <string name="browser_default_setting_cancel">Cancel·la</string>
-  <string name="browser_default_setting_confirm">D\'ACORD</string>
+  <string name="browser_default_setting_confirm">D\'acord</string>
   <string name="browser_default_setting_content">Navegació web segura i ràpida</string>
   <string name="browser_default_setting_title">Estableix-lo com a navegador per defecte</string>
   <string name="bubble_guide_bottom_message_text">Teniu %d missatges sense llegir</string>
