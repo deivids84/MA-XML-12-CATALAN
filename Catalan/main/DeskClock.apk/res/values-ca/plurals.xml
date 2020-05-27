@@ -76,6 +76,14 @@
         <item quantity="other">Ajorna-ho %d mins</item>
         <item quantity="one">Ajorna-ho %d min</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">El cronòmetre s’ha estat executant durant %s dies. Toqueu per veure-ho.</item>
+        <item quantity="one">El cronòmetre s’ha estat executant durant %s dia. Toqueu per veure-ho.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">El cronòmetre s’ha estat executant durant %s hores. Toqueu per veure-ho.</item>
+        <item quantity="one">El cronòmetre s’ha estat executant durant %s hora. Toqueu per veure-ho.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d hores "</item>
         <item quantity="one">"%1$d hora "</item>

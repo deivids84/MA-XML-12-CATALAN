@@ -151,6 +151,7 @@ Nota: les dades de les aplicacions que hàgiu instal·lat no es farà còpia de 
   <string name="error_unknown">Quelcom ha fallat</string>
   <string name="expand_button_title">Avançat</string>
   <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
+  <string name="help_and_feedback">Ajuda i comentaris</string>
   <string name="hint_restore_cross_space">La disposició de la pantalla inicial pot sortir incorrecta si transferiu elements entre espais.</string>
   <string name="home_hint_global_launcher">Interfície d\'inici Poco</string>
   <string name="home_hint_other_launcher">Un altre llançador</string>

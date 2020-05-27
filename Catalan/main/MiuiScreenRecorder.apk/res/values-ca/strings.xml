@@ -77,6 +77,14 @@
   <string name="low_momery_warning">No hi ha prou espai d’emmagatzematge. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
   <string name="memory_not_allowed">No hi ha emmagatzematge disponible. Allibereu una mica d’emmagatzematge per enregistrar.</string>
   <string name="mic_sound">Micròfon</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
   <string name="no_recorder_info">No hi ha vídeos aquí</string>
   <string name="no_recorder_info2">Toqueu el botó per començar l\'enregistrament</string>
   <string name="no_sound">Silenci</string>

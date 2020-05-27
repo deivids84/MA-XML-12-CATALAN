@@ -4,7 +4,7 @@
   <string name="DOWNLOAD_UNIT_KB">KB</string>
   <string name="DOWNLOAD_UNIT_MB">MB</string>
   <string name="DOWNLOAD_UNIT_TB">TB</string>
-  <string name="Only_the_wifi">Utilitzar només la Wi-Fi</string>
+  <string name="Only_the_wifi">Utilitza només la WLAN</string>
   <string name="abc_action_bar_home_description">Navega a l\'inici</string>
   <string name="abc_action_bar_up_description">Navega cap amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
@@ -106,7 +106,7 @@
   <string name="dialog_insufficient_space_on_external">"No es pot completar la baixada, no hi ha prou emmagatzematge extern."</string>
   <string name="dialog_media_not_found">Connecta l’emmagatzematge extern a la baixada.</string>
   <string name="dialog_msg_disabled_net">%1$s baixades restringides a la xarxa actual. Toqueu la Configuració de xarxa per anar a l\'aplicació de seguretat.</string>
-  <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades un cop desactivat. Podeu triar \"Només carregar contingut mitjançant la Wi-Fi\" per estalviar dades mòbils."</string>
+  <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades un cop desactivades. Podeu escollir \"Només carrega el contingut mitjançant la WLAN\" per estalviar les dades mòbils."</string>
   <string name="dialog_queued_body">El fitxer s\'ha afegit a la cua i serà baixat aviat.</string>
   <string name="dialog_speed_cancel">Cancel·la</string>
   <string name="dialog_speed_msg">Es pot consumir una gran quantitat de dades mòbils mesurant la xarxa. Segur que voleu continuar?</string>
@@ -164,7 +164,7 @@
   <string name="download_when_network_connected">Baixa-ho per connexió de dades</string>
   <string name="downloaded">Baixada completa</string>
   <string name="downloaded_empty">Buit</string>
-  <string name="downloading">S\'està baixant&#8230;</string>
+  <string name="downloading">S\'està baixant</string>
   <string name="downloading_empty">Buit</string>
   <string name="downloads_operating">En procés&#8230;</string>
   <string name="dredge_xunlei_account">Crea un compte Xunlei</string>
@@ -210,7 +210,7 @@
   <string name="hint">Atenció</string>
   <string name="home_page_new_download_guide">Aquí venen les baixades noves</string>
   <string name="immediately_a_renewal">Renovi el seu subscripció ara</string>
-  <string name="info_flow_only_load_wifi">Només carrega contingut mitjançant la Wi-Fi</string>
+  <string name="info_flow_only_load_wifi">Només carrega el contingut mitjançant la WLAN</string>
   <string name="info_flow_setting">Configuració</string>
   <string name="info_flow_show">Fonts recomanades</string>
   <string name="input_valid_address">Introdueix ruta de fitxer</string>
@@ -271,7 +271,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
   <string name="notify_install_guide_title">S\'ha instal·lat correctament %s</string>
   <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
-  <string name="notify_only_wifi_download">Esperant la Wi-Fi</string>
+  <string name="notify_only_wifi_download">S\'està esperant la WLAN</string>
   <string name="one_month">1 mes</string>
   <string name="only_support_torrent">Només estan suportats els fitxers torrent</string>
   <string name="open">Obre</string>
@@ -300,9 +300,9 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="pref_download_settings_title">S\'ha restringit la baixada amb dades mòbils</string>
   <string name="pref_download_storage_path">Desa-ho a una ubicació personalitzada</string>
   <string name="pref_sniff_shortcut">Crear accés directe</string>
-  <string name="pref_summary_any_bytes_popup">Espera sempre la connexió Wi-Fi per baixar els fitxers</string>
+  <string name="pref_summary_any_bytes_popup">Espera sempre que la connexió WLAN baixi els fitxers</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostra notificació emergent quan es facin servir dades mòbils per baixar contingut</string>
-  <string name="pref_summary_max_bytes_limit_format">Espera la Wi-Fi si la mida del fitxer supera els %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Espera a la WLAN si la mida del fitxer supera els %s</string>
   <string name="pref_summary_no_limit_popup">Il·limitat</string>
   <string name="pref_title_enable_max_bytes_popup">Mostra advertència d\'ús de dades</string>
   <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
@@ -422,7 +422,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_text_sniff_next_page">Continua &gt;</string>
   <string name="sniff_vip_tip_speedup">Podeu provar una vegada l\'augment de velocitat de franc</string>
   <string name="sniff_vip_tip_vip">Xunlei pot continuar augmentant la velocitat</string>
-  <string name="speed_entrance">Prova la velocitat de la Wi-Fi</string>
+  <string name="speed_entrance">Prova la velocitat de la WLAN</string>
   <string name="speed_result_broadband_text1">Velocitat de baixada actual</string>
   <string name="speed_result_broadband_text2">%s d\'amplada de banda</string>
   <string name="speed_result_broadband_text3">Amplada de banda</string>
@@ -433,8 +433,8 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="speed_tip_netwrok_fail">S\'ha produït un error de xarxa, torneu-ho a provar</string>
   <string name="speed_tip_netwrok_timeout">El temps màxim de connexió s\'ha exhaurit, torneu-ho a provar</string>
   <string name="speed_tip_no_netwrok">"No s'ha pogut connectar a la xarxa. Connecteu i torneu-ho a provar."</string>
-  <string name="speed_title">Prova la velocitat de la Wi-Fi</string>
-  <string name="speed_title_result">Prova la velocitat de la Wi-Fi</string>
+  <string name="speed_title">Prova la velocitat de la WLAN</string>
+  <string name="speed_title_result">Prova la velocitat de la WLAN</string>
   <string name="start_analysis">Comprovar</string>
   <string name="start_download">Baixa</string>
   <string name="start_xunlei_speedup_info">Inicia sessió per accelerar les baixades.</string>
@@ -467,7 +467,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="title_homepage_infoflow">Actualitzacions recents</string>
   <string name="title_tips">Atenció</string>
   <string name="title_unbind_xunlei">Treure el teu compte Xunlei</string>
-  <string name="toast_only_wifi_download">Connecteu-vos a la Wi-Fi per baixar aquest element</string>
+  <string name="toast_only_wifi_download">Connecteu-vos a la WLAN per baixar aquest element</string>
   <string name="toast_update_data_limit_fail">"No s'ha pogut configurar"</string>
   <string name="toast_xunlei_engine_open">S\'ha activat l\'accelerador de baixades Xunlei</string>
   <string name="torrent_file_error">"No s'ha pogut parsejar el fitxer torrent"</string>

@@ -29,6 +29,7 @@
   <string name="abc_toolbar_collapse_description">Redueix</string>
   <string name="add_alarm">Afegeix alarma</string>
   <string name="add_clock">Afegeix un rellotge</string>
+  <string name="add_common_timer">Afegeix un temporitzador</string>
   <string name="add_timer">Temporitzador freqüent</string>
   <string name="add_timezone_title">Afegeix una zona horària</string>
   <string name="agree">D\'acord</string>
@@ -109,6 +110,7 @@
   <string name="close">Tanca</string>
   <string name="close_alarm">Apaga</string>
   <string name="common_settings">Configuració</string>
+  <string name="common_timer_selector">Seleccioneu el temporitzador</string>
   <string name="confirm">Confirma</string>
   <string name="confirm_abort">Descarta</string>
   <string name="content_desc_keep_screen">Botó «Manté la pantalla activada»</string>
@@ -217,14 +219,14 @@
   <string name="menu_item_dock_settings">Configuració de l\'acoblador</string>
   <string name="menu_item_sort_by_gmt_offset">Ordena per hora</string>
   <string name="menu_item_sort_by_name">Ordena pel nom</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">estireu per actualitzar</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">actualització completada</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">actualitzant</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">allibereu per actualitzar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">sense dades</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">no feu això</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">actualitzant</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ha fallat</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
   <string name="module_dialog_negative">"No hi estic d'acord"</string>
   <string name="module_dialog_neutral">Entesos</string>
   <string name="module_dialog_positive">D\'acord</string>
@@ -370,6 +372,8 @@ El rellotge necessita connectar-se a internet per baixar l\'àudio. Abans d’ut
   <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
   <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
   <string name="stopwatch_lap_empty_text">Sense voltes</string>
+  <string name="stopwatch_reset_notification">El cronòmetre s\'ha restablert</string>
+  <string name="stopwatch_running_notification">Cronòmetre</string>
   <string name="stopwatch_title">Cronòmetre</string>
   <string name="system_permission_agree_desc">Permeteu que aquesta aplicació es connecti a Internet per accedir a totes les seves funcions.</string>
   <string name="system_permission_main_purpose">Veure l\'hora, configurar les alarmes i temporitzadors, utilitzar cronòmetre</string>
@@ -442,6 +446,7 @@ El rellotge necessita connectar-se a internet per baixar l\'àudio. Abans d’ut
   <string name="wake_up_alert_desc">Reprodueix el so de l\'alarma a l’hora de despertar-se</string>
   <string name="wake_up_ringtone">To de l\'alarma</string>
   <string name="wake_up_time">Despertar-se</string>
+  <string name="white_noise_selector">Seleccioneu l\'àudio</string>
   <string name="workday_alarm_clock">Alarma de dia laboral</string>
   <string name="worldclock_empty_text">Sense rellotges</string>
   <string name="worldclock_input_hint_text">Introduïu la ciutat</string>

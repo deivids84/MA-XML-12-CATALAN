@@ -180,7 +180,12 @@
   <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
   <string name="check_security_tip_privacy_policy">Política de privadesa</string>
   <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
+  <string name="clear_clipboard">Neteja</string>
+  <string name="clear_clipboard_confirm">Esteu segur que voleu netejar completament el porta-retalls?</string>
   <string name="clear_history">Esborra l\'historial</string>
+  <string name="clear_input_history_confirm">Esteu segur que voleu netejar completament l\'historial?</string>
+  <string name="clear_input_history_confirm_bt_text">Confirma</string>
+  <string name="clipboard">Porta-retalls</string>
   <string name="close_ads_choice_no">Permet</string>
   <string name="close_ads_choice_yes">Bloqueja</string>
   <string name="close_ads_message">"Voleu bloquejar el contingut d’aquest lloc web? Podeu veure els llocs que heu bloquejat a Configuració &gt; Avançat &gt; Llocs bloquejats."</string>
@@ -366,6 +371,35 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
   <string name="exit_browser_confirmation">Premeu de nou per tornar a l\'escriptori</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
   <string name="exit_fullscreen">Surt de la pantalla completa</string>
+  <string name="exo_controls_fastforward_description">Avanç ràpid</string>
+  <string name="exo_controls_fullscreen_description">Mode de Pantalla completa</string>
+  <string name="exo_controls_next_description">Pista següent</string>
+  <string name="exo_controls_pause_description">Pausa</string>
+  <string name="exo_controls_play_description">Reprodueix</string>
+  <string name="exo_controls_previous_description">Pista anterior</string>
+  <string name="exo_controls_repeat_all_description">Repeteix-ho tot</string>
+  <string name="exo_controls_repeat_off_description">No ho repeteixis</string>
+  <string name="exo_controls_repeat_one_description">Repeteix el mateix</string>
+  <string name="exo_controls_rewind_description">Rebobina</string>
+  <string name="exo_controls_shuffle_description">Mescla</string>
+  <string name="exo_controls_stop_description">Atura</string>
+  <string name="exo_download_completed">Baixada completada</string>
+  <string name="exo_download_description">Baixa</string>
+  <string name="exo_download_downloading">Baixant</string>
+  <string name="exo_download_failed">Baixada fallida</string>
+  <string name="exo_download_notification_channel_name">Baixades</string>
+  <string name="exo_download_removing">Suprimint les baixades</string>
+  <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_selection_auto">Auto</string>
+  <string name="exo_track_selection_none">Cap</string>
+  <string name="exo_track_selection_title_audio">Àudio</string>
+  <string name="exo_track_selection_title_text">Text</string>
+  <string name="exo_track_selection_title_video">Vídeo</string>
+  <string name="exo_track_stereo">Estèreo</string>
+  <string name="exo_track_surround">So envoltant</string>
+  <string name="exo_track_surround_5_point_1">So envoltant 5.1</string>
+  <string name="exo_track_surround_7_point_1">So envoltant 7.1</string>
+  <string name="exo_track_unknown">Desconegut</string>
   <string name="expand_article">Mostra l\'article complet</string>
   <string name="expand_button_title">Avançat</string>
   <string name="favorite">Afegeix als preferits</string>
@@ -416,6 +450,7 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
   <string name="hot_word_item_mark_recommend_text">RECOMANAT</string>
   <string name="hot_words_item_ads_mark">Anuncis</string>
   <string name="ignore_add_pwa_dialog_today">"Avui no ho mostris"</string>
+  <string name="incognito">Incògnit</string>
   <string name="info_flow_description">Canal d\'informació</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
   <string name="keep_queued_download">Manté</string>
@@ -650,6 +685,7 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d'in
   <string name="network_show_wifi_setting_tip_dialog_title">Hi ha una xarxa Wi-Fi disponible</string>
   <string name="next_button_label">Següent</string>
   <string name="no_app_open_document">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
+  <string name="no_content">Encara no hi ha contingut</string>
   <string name="no_memory_space">sense espai de memòria</string>
   <string name="no_space_alert_cancel">Més tard</string>
   <string name="no_space_alert_clean">Allibereu espai</string>
@@ -843,6 +879,7 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d'in
   <string name="search_button_text">Vés</string>
   <string name="search_description">Barra de cerca</string>
   <string name="search_hint">Cerca</string>
+  <string name="search_history">Cerca a l’historial</string>
   <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
   <string name="search_menu_title">Cerca</string>
@@ -919,6 +956,25 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d'a
   <string name="snapshot_successed">Obre Adreces d\'interès i Historial &gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
   <string name="speech_engine_not_install">"El motor de veu no està instal·lat"</string>
+  <string name="srl_component_falsify" formatted="false">"%s falsifica l'àrea,
+ Representa l'altura [%.1fdp] de resistència en el temps d'execució,
+ No mostra res."</string>
+  <string name="srl_content_empty">La vista de contingut en SmartRefreshLayout és buida. Heu oblidat a afegir-lo a l\'arxiu de disseny xml?</string>
+  <string name="srl_footer_failed">Ha fallat la càrrega</string>
+  <string name="srl_footer_finish">Carrega correcta</string>
+  <string name="srl_footer_loading">S\'està carregant…</string>
+  <string name="srl_footer_nothing">No hi ha més dades</string>
+  <string name="srl_footer_pulling">Estireu cap amunt per carregar-ne més</string>
+  <string name="srl_footer_refreshing">Espereu que s\'actualitzi…</string>
+  <string name="srl_footer_release">Deixeu anar per carregar-ne més</string>
+  <string name="srl_header_failed">Ha fallat l\'actualització</string>
+  <string name="srl_header_finish">S\'ha actualitzat correctament</string>
+  <string name="srl_header_loading">Espereu que es carregui…</string>
+  <string name="srl_header_pulling">Estireu cap avall per actualitzar</string>
+  <string name="srl_header_refreshing">S\'està actualitzant…</string>
+  <string name="srl_header_release">Deixeu anar per actualitzar</string>
+  <string name="srl_header_secondary">Deixeu anar a la segona planta</string>
+  <string name="srl_header_update">"'Última actualització' d-M HH:mm"</string>
   <string name="ssl_bad_clock_date_settings">Estableix la data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
   <string name="ssl_certificate">Certificat de seguretat</string>

@@ -388,7 +388,7 @@
   <string name="miuix_search_history_clear">Neteja l\'historial de cerques</string>
   <string name="miuix_search_history_default_title">Historial de cerques</string>
   <string name="miuix_search_recommendation_default_title">Potser ús interessa això</string>
-  <string name="miuix_search_recommendation_item_del_des">suprimeix</string>
+  <string name="miuix_search_recommendation_item_del_des">Suprimeix</string>
   <string name="modify_all">Canvia tots els esdeveniments de la sèrie</string>
   <string name="modify_all_following">Canvia aquest i tots els esdeveniments futurs</string>
   <string name="modify_event">Canvia només aquest esdeveniment</string>

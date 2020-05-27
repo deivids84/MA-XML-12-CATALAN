@@ -67,8 +67,9 @@
   <string name="account_user_birthday">Aniversari</string>
   <string name="account_user_details">Informació personal</string>
   <string name="account_user_email">Correu de recuperació</string>
-  <string name="account_user_gender">Gènere</string>
+  <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">Identificador del compte Mi</string>
+  <string name="account_user_id_show">Compte Mi: %s</string>
   <string name="account_user_name">Nom</string>
   <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
   <string name="account_user_other_info">Més fonts</string>
@@ -76,6 +77,7 @@
   <string name="account_user_region">Regió</string>
   <string name="account_xiaomi_service">Serveis</string>
   <string name="action_add_phone">Afegeix un número de telèfon</string>
+  <string name="action_retry">Torna-ho a provar</string>
   <string name="action_update_phone">Canvia el número de telèfon</string>
   <string name="activate_email_notice">Assegureu-vos d’activar el vostre compte en 24 hores</string>
   <string name="activity_not_found_notice">"No es pot trobar l'aplicació"</string>
@@ -100,6 +102,8 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_phone_number">Canvia el número de telèfon</string>
   <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
+  <string name="cloud_description_closed">Ocupat | Sincronització desactivada</string>
+  <string name="cloud_description_normal">Ocupat</string>
   <string name="collect_diagnosis_log">Genera registre de diagnòstic</string>
   <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
   <string name="com_facebook_image_download_unknown_error">Error inesperat en baixar una imatge.</string>
@@ -151,6 +155,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
   <string name="confirm_unbind">Voleu desconnectar aquest compte?</string>
   <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està associat amb el compte Mi %2$s. Si continueu, ja no s’associarà amb el compte Mi %3$s. Voleu continuar?</string>
   <string name="continue_action">Continua</string>
+  <string name="copy">Copia</string>
   <string name="delete_action">Suprimeix</string>
   <string name="delete_bank_card_message">Les targetes bancàries Mi Pay i les targetes NFC se suprimeixen un cop tanqueu la sessió.</string>
   <string name="delete_bank_card_title">Atenció</string>
@@ -172,6 +177,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="error_invalid_bind_address">L\'adreça de correu que heu introduït no és vàlida.</string>
   <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre compte Mi.</string>
   <string name="exit">Surt</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
   <string name="find_device">Troba el dispositiu</string>
   <string name="find_device_access_denied">"No es pot obtenir l'estat, s'ha denegat l'accés"</string>
@@ -207,7 +213,14 @@ Envieu aquest codi al supervisor."</string>
   <string name="get_phone_bind_exceed_limit">"Podeu associar fins a tres comptes Mi amb un número de telèfon. No es poden afegir comptes nous."</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>
-  <string name="i_agree">D\'ACORD</string>
+  <string name="health_action_activate">Activa</string>
+  <string name="health_action_install">Instal·la</string>
+  <string name="health_action_update">Actualitza</string>
+  <string name="health_description_normal">Passos</string>
+  <string name="health_state_not_activated">No està activat</string>
+  <string name="health_state_not_installed">No està instal·lat</string>
+  <string name="health_state_not_support">No és compatible amb aquesta versió</string>
+  <string name="i_agree">D\'acord</string>
   <string name="i_agree_continue">D\'acord</string>
   <string name="identity">Identificació</string>
   <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
@@ -230,6 +243,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="mi_finance">Les meves finances</string>
   <string name="mi_finance_info">Bonificacions per a usuaris nous</string>
+  <string name="mi_health">Xiaomi Health</string>
   <string name="mi_vip_info">Mostra els privilegis</string>
   <string name="mipay">Paga</string>
   <string name="mipay_balance">Saldo</string>
@@ -239,6 +253,14 @@ Envieu aquest codi al supervisor."</string>
   <string name="mipay_indentity_done">Verificat</string>
   <string name="mipay_others">Altres</string>
   <string name="mipay_transit_card">Targeta de transport</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Sembla que esteu utilitzant el vostre compte Mi en el primer espai."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"En aquest cas, totes les dades se sincronitzaran al vostre segon espai. Per evitar-ho, no activeu la sincronització amb el núvol."</string>
@@ -251,6 +273,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="no_response_retry">Sense resposta, torneu-ho a provar.</string>
   <string name="no_sim_card_or_unactivated">"La targeta SIM no està instal·lada o activada"</string>
   <string name="nobind">No connectat</string>
+  <string name="not_set">Sense definir</string>
   <string name="notify_network_restricted_content_bg_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
   <string name="notify_network_restricted_content_hidden_state">"L’activitat en segon pla del compte Mi està restringida. Toqueu per permetre-ho."</string>
   <string name="notify_network_restricted_content_mobile_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
@@ -337,6 +360,10 @@ Envieu aquest codi al supervisor."</string>
   <string name="passport_get_verify_code">Obtén el codi</string>
   <string name="passport_getting_activator_phone">S\'està obtenint la informació SIM…</string>
   <string name="passport_getting_verify_code">Obtenint</string>
+  <string name="passport_google_login">Inicia la sessió amb el compte de Google utilitzat anteriorment?</string>
+  <string name="passport_google_login_agree">Compte de Google</string>
+  <string name="passport_google_login_disagree">Compte Mi</string>
+  <string name="passport_google_login_failed">"No s'ha pogut iniciar la sessió amb Google. Inicieu la sessió al vostre compte de Mi directament."</string>
   <string name="passport_i_know">Ho tinc</string>
   <string name="passport_identification_expired">El codi de verificació ha caducat, torneu a començar</string>
   <string name="passport_imei_permission_denied_message">"Sol·licitem permís per obtenir l’IMEI del vostre dispositiu. El compte Mi utilitza l'IMEI per identificar el dispositiu des del qual entreu/us registreu, per mantenir el vostre compte Mi segur."</string>
@@ -480,6 +507,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="permission_group_storage">Emmagatzematge</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
+  <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="push_notification_content">Obtén el codi de verificació</string>
   <string name="push_notification_title">Heu iniciat la sessió al vostre compte Mi en un dispositiu desconegut</string>
   <string name="push_notify_dialog_message">"S'utilitza un dispositiu desconegut per iniciar la sessió al vostre compte de Mi. Introduïu aquest codi de verificació al dispositiu. Si no fos així, canvieu la contrasenya del compte Mi de seguida. No divulgueu el codi de verificació a altres persones."</string>
@@ -513,19 +541,21 @@ Envieu aquest codi al supervisor."</string>
   <string name="search_user_detail_bottom_key_words">Canvia els ingressos,Canvia l’educació,Canvia l’ubicació,Canvia la regió</string>
   <string name="search_user_detail_desc">Informació personal</string>
   <string name="search_user_detail_path">Configuració/Compte Mi/Informació personal</string>
-  <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto del perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el gènere</string>
+  <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto del perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el sexe</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="send_diagnosis_log">Envia un registre de diagnòstic</string>
   <string name="send_email_activate_message">Correu de verificació enviat</string>
   <string name="sending">S\'esta enviant…</string>
   <string name="service_error">Error del servei</string>
   <string name="set_success">S\'ha canviat correctament</string>
-  <string name="sign_in">S\'està iniciant la sessió</string>
+  <string name="sign_in">Iniciant la sessió</string>
   <string name="sim_card">Targeta SIM</string>
   <string name="sim_changed_notification_msg">Toqueu per actualitzar el telèfon de recuperació i mantenir el vostre compte més segur.</string>
   <string name="sim_changed_notification_title">Heu canviat el número de telèfon?</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">La sessió del compte ha caducat. Inicieu la sessió de nou per tornar a connectar aquest compte.</string>
+  <string name="state_data_error">"No s'ha pogut obtenir dades"</string>
+  <string name="state_loading">Un moment…</string>
   <string name="system_ad">Anuncis en aplicacions del sistema</string>
   <string name="system_ad_list">Mostra aplicacions relacionades.</string>
   <string name="system_ad_summary">"Activeu aquesta funció per permetre mostrar un nombre reduït d’anuncis a les aplicacions del sistema. Aquests anuncis ens ajuden a desenvolupar i millorar els nostres productes i serveis. Podeu optar per desactivar aquesta funció en qualsevol moment. Gràcies pel vostre suport! "</string>
@@ -541,7 +571,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="two_factor_auth_method">Mètode d\'autenticació</string>
   <string name="two_factor_auth_need_code">Introduïu el codi</string>
   <string name="two_factor_auth_need_code_summary">"Veureu un codi en altres dispositius Mi connectats. Introduïu aquest codi en un dispositiu nou per iniciar la sessió."</string>
-  <string name="two_factor_auth_summary">"Quan intenteu iniciar la sessió en un dispositiu nou o en una ubicació nova, us ho avisarem en altres dispositius connectats. Haureu de confirmar si autoritzeu aquests intents d'inici de sessió."</string>
+  <string name="two_factor_auth_summary">"Quan intenteu iniciar la sessió en un dispositiu nou o en una ubicació nova, se us notificarà en els altres dispositius connectats. Haureu de confirmar si autoritzeu aquests intents d'inici de sessió."</string>
   <string name="unbind_sns_description">"Després de desconnectar aquest compte, no podreu utilitzar la informació del vostre compte de %s per iniciar la sessió al vostre compte Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
 1. Si heu oblidat la vostra contrasenya, aneu a id.mi.com per restablir-la.
@@ -554,6 +584,8 @@ Envieu aquest codi al supervisor."</string>
   <string name="used_cloud_storage_info">Emmagatzematge utilitzat %s</string>
   <string name="user_avatar_update_title">Canvia la foto de perfil</string>
   <string name="user_avatar_uploading">Un moment…</string>
+  <string name="v7_preference_off">DESACTIVAT</string>
+  <string name="v7_preference_on">ACTIVAT</string>
   <string name="vip_account_settings">Configuració VIP</string>
   <string name="vip_settings_info">Configuració VIP</string>
 </resources>

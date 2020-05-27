@@ -101,6 +101,7 @@
   <string name="finddevice_miservice_notification_content">"Bloquegeu el dispositiu de forma remota si es perd"</string>
   <string name="finddevice_miservice_notification_title">Activa Troba el dispositiu</string>
   <string name="forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="help_and_feedback">Ajuda i comentaris</string>
   <string name="i_know">D\'acord</string>
   <string name="input_password_hint">Introduïu la contrasenya</string>
   <string name="internet_access_dspt">Aquesta aplicació necessita connexió a Internet per funcionar amb normalitat.</string>
@@ -208,6 +209,8 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_find_device_guide_alert_positive">D\'acord</string>
   <string name="micloud_find_device_guide_alert_title">Recorda la contrasenya</string>
   <string name="micloud_find_device_guide_button">Activar troba el dispositiu</string>
+  <string name="micloud_find_device_guide_desc_pad">"Inicia la sessió a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar, bloquejar o esborrar el dispositiu. Això us ajudarà a trobar el dispositiu en cas que es perdi. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Veure l'ajuda]&lt;/a&gt;"</string>
+  <string name="micloud_find_device_guide_desc_phone">"Inicia la sessió a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar, bloquejar o esborrar el dispositiu. Això us ajudarà a trobar el dispositiu en cas que es perdi. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Veure l'ajuda]&lt;/a&gt;"</string>
   <string name="micloud_find_device_guide_fail_reopen">Podeu activar Troba el dispositiu al Compte Mi - Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronitza contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
@@ -220,7 +223,6 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomana que activeu la funció troba el dispositiu</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomana que activeu la funció troba el dispositiu</string>
   <string name="micloud_find_device_guide_progress">S\'està activant la funció troba el dispositiu…</string>
-  <string name="micloud_find_device_guide_title">"Inicieu sessió a &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar, bloquejar o esborrar el dispositiu. Això us pot ajudar a trobar el dispositiu en cas que es perdi.&lt;br /&gt;Si perdeu el dispositiu, podeu contactar amb el servei de seguretat de les aplicacions que utilitzeu amb freqüència (p. ex. Alipay, WeChat o QQ) per protegir els vostres comptes a &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut activar troba el dispositiu"</string>
   <string name="micloud_find_device_opened">Troba el dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el vostre dispositiu a %s</string>
