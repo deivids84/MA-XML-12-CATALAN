@@ -73,6 +73,7 @@ dd/MM"</string>
   <string name="deep_space_planet_des">Aquest tema reflecteix els canvis de llum que es produeixen al vostre voltant durant el dia. Les sortides i postes del sol també se sincronitzen amb la vostra ubicació.</string>
   <string name="delete">Suprimeix</string>
   <string name="digital_clock">Digital</string>
+  <string name="disable_aod_in_dark_room">Desactiva quan estigueu estirat en la foscor</string>
   <string name="disable_aod_in_power_save_mode">Desactiva-ho quan l\'estalvi de bateria estigui activat</string>
   <string name="disable_aod_in_power_save_mode_summary">"No mostris elements per estalviar energia"</string>
   <string name="error_icon_content_description">Error</string>

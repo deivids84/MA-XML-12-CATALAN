@@ -49,7 +49,7 @@
   <string name="allow_mock_location_summary">Permet les ubicacions simulades</string>
   <string name="animator_duration_scale_title">Escala de la durada de l\'animació</string>
   <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
-  <string name="app_name">Preference</string>
+  <string name="app_name">Bluetooth MIUI</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
   <string name="available_via_carrier">Disponible a través de %1$s</string>
   <string name="available_via_passpoint">Disponible a través de %1$s</string>

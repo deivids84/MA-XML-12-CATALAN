@@ -127,6 +127,8 @@
   <string name="delete_files">Voleu eliminar %1$d fitxer(s)?</string>
   <string name="delete_folder">Eliminar aquesta carpeta?</string>
   <string name="delete_folders">Voleu eliminar %1$d carpetes?</string>
+  <string name="des_hide_pwd">Amaga la contrasenya</string>
+  <string name="des_show_pwd">Mostra la contrasenya</string>
   <string name="dialog_select_type">Triar tipus</string>
   <string name="dialog_type_audio">Àudio</string>
   <string name="dialog_type_image">Imatges</string>
@@ -282,7 +284,6 @@
   <string name="no_enough_storage_title">No hi ha espai suficient</string>
   <string name="no_file">Buit</string>
   <string name="no_wifi">No hi ha cap xarxa detectada</string>
-  <string name="no_wifi_hint">No hi ha connexió</string>
   <string name="not_installed_documentsui">DocumentsUI no està instal·lat</string>
   <string name="not_set">Sense especificar</string>
   <string name="not_support_documentui">"DocumentUI no és compatible amb aquest dispositiu"</string>
@@ -318,7 +319,9 @@
   <string name="operation_show_privacy_policy">Mostra la política de privadesa</string>
   <string name="operation_show_sys">Mostra fitxers ocults</string>
   <string name="operation_unfavorite">Treu dels destacats</string>
-  <string name="optional_change_wifi">Per a gestionar fitxers de forma remota mitjançant la Wi-Fi</string>
+  <string name="optional_change_wifi">Per gestionar fitxers de forma remota mitjançant Wi-Fi</string>
+  <string name="otg_data_transfer_success">Transferència correcta</string>
+  <string name="otg_data_transferring">"Transferència de fitxers… No desconnecteu l'emmagatzematge extern."</string>
   <string name="otg_file_security_confirm">còpia al telèfon</string>
   <string name="otg_file_security_details">Copieu al telèfon</string>
   <string name="otg_file_security_note">OGTSeguretat</string>

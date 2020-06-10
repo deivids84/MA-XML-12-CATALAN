@@ -32,10 +32,6 @@
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
     </string-array>
-    <string-array name="dislike_alert_dialog_selectitems">
-        <item>no m\'interessa</item>
-        <item>mala qualitat del contingut</item>
-    </string-array>
     <string-array name="hot_city">
         <item>Pequín</item>
         <item>Xangai</item>

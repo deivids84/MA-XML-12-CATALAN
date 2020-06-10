@@ -265,7 +265,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="hour_3">Cada 3 hores</string>
   <string name="icon_content_description">Icona de diàleg</string>
   <string name="idbct_desc">Personalitzeu el Carrusel de fons de pantalla segons el tipus de xarxa</string>
-  <string name="idbct_opt_auto_select_desc_text">Baixeu imatges estàndard mitjançant les dades mòbils i imatges en alta definició mitjançant la Wi-Fi</string>
+  <string name="idbct_opt_auto_select_desc_text">Baixeu imatges estàndard mitjançant dades mòbils i imatges en alta definició mitjançant Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Auto</string>
   <string name="idbct_opt_high_def_desc_text">Baixa sempre imatges HD</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
@@ -683,7 +683,7 @@ mm"</string>
   <string name="sst_wallpaper_define_title2">Afegeix imatges</string>
   <string name="sst_wallpaper_history_des">Mostra les recomanacions recents</string>
   <string name="sst_wallpaper_history_title">Historial</string>
-  <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos</string>
+  <string name="sst_wifi_only_desc">Desactiveu per actualitzar fons de pantalla només a través de Wi-Fi</string>
   <string name="sst_wifi_only_title">Actualitza els fons de pantalla utilitzat dades mòbils</string>
   <string name="status_wallpaper_loop_not_start">Desactivat</string>
   <string name="status_wallpaper_loop_start">Activat</string>
@@ -760,8 +760,8 @@ mm"</string>
   <string name="wallpaper">Fons de pantalla</string>
   <string name="wallpaper_feed_title">També us pot agradar</string>
   <string name="wallpaper_relations_title">Recomanat</string>
-  <string name="wlan_download">Només Wi-Fi</string>
-  <string name="wlan_download_cn">Actualització a través de Wi-Fi</string>
+  <string name="wlan_download">Actualitza només a través de Wi-Fi</string>
+  <string name="wlan_download_cn">Actualitza només a través de Wi-Fi</string>
   <string name="wm_storage_left">"Disponible: "</string>
   <string name="wm_storage_used">"Ocupat: "</string>
   <string name="wp_desktop_enable_title">Presentació de diapositives a la pantalla d\'inici</string>

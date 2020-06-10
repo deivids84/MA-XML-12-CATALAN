@@ -50,6 +50,7 @@
   <string name="action_menu_text_fullscreen_enter">Entra a la pantalla completa</string>
   <string name="action_menu_text_fullscreen_exit">Surt de la pantalla completa</string>
   <string name="action_menu_text_history">Adreces d\'interès i Historial</string>
+  <string name="action_menu_text_like">M\'agrada</string>
   <string name="action_menu_text_nightmode">Mode nocturn</string>
   <string name="action_menu_text_readmode">Mode lectura</string>
   <string name="action_menu_text_refresh">Actualitza</string>

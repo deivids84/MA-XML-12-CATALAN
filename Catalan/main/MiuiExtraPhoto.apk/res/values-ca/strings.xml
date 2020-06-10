@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="doc_photo_adjust_section_title">Arrossegueu per ajustar-ho</string>
+  <string name="doc_photo_cancel">Cancel·la</string>
+  <string name="doc_photo_confirm">Surt</string>
   <string name="doc_photo_doc_photo_title">Edita el document</string>
   <string name="doc_photo_enhance_bin">B/N</string>
   <string name="doc_photo_enhance_color">Millorat</string>
   <string name="doc_photo_enhance_none">Original</string>
+  <string name="doc_photo_idcard_alert_msg">Voleu descartar tots els canvis i sortir de l\'editor?</string>
   <string name="doc_photo_idcard_emblem">Enrere</string>
   <string name="doc_photo_idcard_mode_title">DNI</string>
   <string name="doc_photo_idcard_portrait">Frontal</string>
@@ -40,5 +43,5 @@
   <string name="refocus_type_relighting_no_face">"No s'ha pogut trobar la cara"</string>
   <string name="refocus_type_relighting_small_face">La il·luminació d’estudi funciona a fotografies on les cares ocupen més espai que aquí.</string>
   <string name="refocus_type_static">Nivell de difuminat</string>
-  <string name="refocus_type_video">Senders de llum</string>
+  <string name="refocus_type_video">Traçat de llum</string>
 </resources>

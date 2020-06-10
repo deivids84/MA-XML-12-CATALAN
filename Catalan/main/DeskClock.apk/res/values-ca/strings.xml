@@ -98,6 +98,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="channel_name_alarm">Alarma</string>
   <string name="channel_name_sleep">Son</string>
+  <string name="channel_name_stopwatch">Cronòmetre</string>
   <string name="channel_name_timer">Temporitzador</string>
   <string name="check_theme_app_install">Assegureu-vos que l\'aplicació Temes està instal·lada al dispositiu.</string>
   <string name="check_voice_assist_app_version">Actualitza Mi AI a la seva versió més recent.</string>

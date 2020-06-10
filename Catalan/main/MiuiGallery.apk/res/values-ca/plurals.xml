@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Voleu ocultar aquests fitxers?</item>
-        <item quantity="one">Voleu ocultar aquest fitxer?</item>
+        <item quantity="other">Voleu afegir aquests elements a l\'àlbum privat?</item>
+        <item quantity="one">Voleu afegir aquest element a l\'àlbum privat?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">S\'han afegit %d fotos al núvol, desactiveu «Mostra només els àlbums locals» per veure-les.</item>
@@ -13,8 +49,8 @@
         <item quantity="one">"L'element %2$d no es pot afegir a l'àlbum. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"Els elements %2$d no es poden afegir a l'àlbum ocult. %1$s."</item>
-        <item quantity="one">"L'element %2$d no es pot afegir a l'àlbum ocult. %1$s."</item>
+        <item quantity="other">"%2$d elements no es poden afegir a l'àlbum privat. %1$s."</item>
+        <item quantity="one">"%2$d element no es pot afegir a l'àlbum privat. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dies</item>
@@ -47,6 +83,10 @@
     <plurals name="album_item_msg_format_new">
         <item quantity="other">%d albums</item>
         <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s persones poden veure aquest àlbum</item>
+        <item quantity="one">%s persona pot veure aquest àlbum</item>
     </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d elements</item>
@@ -200,6 +240,34 @@
         <item quantity="other">%1$d fitxers</item>
         <item quantity="one">%1$d fitxer</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">Còpia de seguretat pendent per a %1$d elements</item>
         <item quantity="one">Còpia de seguretat pendent per a un element</item>
@@ -260,6 +328,10 @@
         <item quantity="other">"Encara no s'han baixat %d fitxers. Voleu cancel·lar-ho de totes maneres?"</item>
         <item quantity="one">"Encara no s'ha baixat %d fitxer. Voleu cancel·lar-ho de totes maneres?"</item>
     </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">S\'estan baixant %d fitxers restants</item>
+        <item quantity="one">S\'està baixant %d fitxer restant</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">"No es poden baixar %1$d fotos, connecteu-vos a la xarxa i torneu-ho a provar"</item>
         <item quantity="one">"No es pot baixar la foto, connecteu-vos a la xarxa i torneu-ho a provar"</item>
@@ -293,8 +365,8 @@
         <item quantity="one">%d foto en total</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"Els elements %2$d no es poden eliminar de l'àlbum ocult. %1$s."</item>
-        <item quantity="one">"L'element %2$d no es pot eliminar de l'àlbum ocult. %1$s."</item>
+        <item quantity="other">"%2$d elements no es poden eliminar de l'àlbum privat. %1$s."</item>
+        <item quantity="one">"%2$d element no es pot eliminar de l'àlbum privat. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">S\'ha afegit %1$d fotos a «%2$s» i s\'ha afegit a la base de dades.</item>
