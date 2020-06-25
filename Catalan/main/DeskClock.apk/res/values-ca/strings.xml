@@ -156,7 +156,7 @@
   <string name="edit_systemtime">Edita l\'hora del sistema</string>
   <string name="edit_systemtime_setting_summary">Data, hora i rellotge dual</string>
   <string name="elapsed_time_format">+</string>
-  <string name="every_day">Cada dia</string>
+  <string name="every_day">Diàriament</string>
   <string name="expand_button_title">Avançat</string>
   <string name="expired_timers_dismissed">El temporitzador s\'ha suprimit correctament</string>
   <string name="force_touch_add_alarm">Afegeix una alarma</string>

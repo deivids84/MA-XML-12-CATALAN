@@ -19,19 +19,47 @@
         <item>1 hora</item>
         <item>2 hores</item>
     </string-array>
+    <string-array name="contact_relation_array">
+        <item>Sense especificar</item>
+        <item>Pare</item>
+        <item>Germana</item>
+        <item>Germà</item>
+        <item>Cònjuge</item>
+        <item>Parella</item>
+        <item>Amic</item>
+        <item>Col·lega</item>
+        <item>Company de classe</item>
+    </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Sense especificar</item>
+        <item>Home</item>
+        <item>Dona</item>
     </string-array>
     <string-array name="length_unit">
         <item>" cm"</item>
         <item>" m"</item>
         <item>" km"</item>
     </string-array>
+    <string-array name="normal_blood_array">
+        <item>Sense especificar</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
     <string-array name="pager_titles">
         <item>Dia</item>
         <item>Setmana</item>
         <item>Mes</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Sense especificar</item>
+        <item>Negatiu</item>
+        <item>Positiu</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>Sense restriccions</item>
@@ -81,5 +109,10 @@
         <item>" liang"</item>
         <item>" jin"</item>
         <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Sense especificar</item>
+        <item>Sí</item>
+        <item>No</item>
     </string-array>
 </resources>

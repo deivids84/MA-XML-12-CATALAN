@@ -84,13 +84,13 @@
   <string name="warning_tip_content">"No esteu connectat a cap Wi-Fi. L'ús de la connexió de dades mòbils per completar la baixada incrementarà l'ús de dades. Si excediu el límit de la vostra tarifa, l'operador us pot cobrar càrrecs addicionals."</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Alerta d\'ús de dades</string>
-  <string name="wifi_recommended_body" formatted="false">"Iniciar aquesta %s baixada podria donar lloc a un ús excessiu de la connexió de dades mòbil, que podria portar a càrrecs pel seu operador de telefonia mòbil en funció del seu pla de dades.
+  <string name="wifi_recommended_body">"Iniciar aquesta baixada de %1$s ara pot produir un ús excessiu de la vostra connexió de dades mòbils, cosa que pot generar càrrecs per part de l’operador en funció del vostre pla de dades.
 
- Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
+Toqueu %2$s per iniciar aquesta baixada la pròxima vegada que estigueu connectats a una xarxa WLAN."</string>
   <string name="wifi_recommended_title">Voleu posar-lo en cua per baixar-lo més tard?</string>
-  <string name="wifi_required_body" formatted="false">"Heu d'utilitzar la Wi-Fi per completar aquesta %s baixada. 
+  <string name="wifi_required_body">"Connecteu-vos a la WLAN per completar aquesta baixada de %1$s.
 
-Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
+Toqueu %2$s per iniciar aquesta baixada la pròxima vegada que estigueu connectats a una xarxa WLAN."</string>
   <string name="wifi_required_title">Baixada massa gran per a la xarxa de l\'operador</string>
   <string name="xl_speedup_experience_notify_context">"La velocitat augmentarà a cada baixada quan sigueu un membre de Xunlei"</string>
   <string name="xl_speedup_experience_notify_title">Subscripció Xunlei</string>

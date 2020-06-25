@@ -326,8 +326,8 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="new_local_detail_description">"Nota:
 %1$d. Copieu les còpies de seguretat al vostre ordinador per evitar la pèrdua de dades. %2$s.
 %3$d. Les còpies de seguretat es desaran a MIUI-Backup-AllBackup."</string>
-  <string name="new_local_tab_backup">Còpia de seguretat del dispositiu mòbil</string>
-  <string name="new_local_tab_restore">Restaura des del dispositiu mòbil</string>
+  <string name="new_local_tab_backup">Còpia de seguretat</string>
+  <string name="new_local_tab_restore">Restaura</string>
   <string name="new_low_storage_title">No hi ha prou espai d’emmagatzematge</string>
   <string name="new_more_settings_label">Configuració addicional</string>
   <string name="new_pc_backup_content1">%1$d. Obre \"%2$s\".</string>
@@ -350,8 +350,8 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="new_select_third">Aplicacions i dades d\'aplicacions de tercers</string>
   <string name="new_select_third_apk">Aplicacions de tercers</string>
   <string name="new_select_third_data">Dades d’aplicacions de tercers</string>
-  <string name="new_tab_pc_backup">Còpia de seguretat a l’ordinador</string>
-  <string name="new_tab_pc_restore">Restaura des de l’ordinador</string>
+  <string name="new_tab_pc_backup">Còpia de seguretat</string>
+  <string name="new_tab_pc_restore">Restaura</string>
   <string name="new_task_finished">Fet</string>
   <string name="new_usb_detail_description">"Nota:
 %1$d. Aquest mètode permet fer una còpia de seguretat d’aplicacions i dades d’aplicacions de tercers.
@@ -359,8 +359,8 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
   <string name="new_usb_disconnect_dialog_message">Connecteu primer una unitat USB.</string>
   <string name="new_usb_disconnect_dialog_title">"No s'ha pogut trobar la unitat USB"</string>
   <string name="new_usb_select_data_no_space">Només %s d’emmagatzematge està disponible a la unitat USB. Allibereu espai d’emmagatzematge.</string>
-  <string name="new_usb_tab_backup">Còpia de seguretat a la unitat USB</string>
-  <string name="new_usb_tab_restore">Restaura des de la unitat USB</string>
+  <string name="new_usb_tab_backup">Còpia de seguretat</string>
+  <string name="new_usb_tab_restore">Restaura</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
   <string name="no_network">"No es pot connectar a la xarxa"</string>
   <string name="not_set">Sense especificar</string>

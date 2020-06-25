@@ -53,6 +53,7 @@
   <string name="can_not_send_with_too_many">"No es poden enviar tots aquests elements"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_error">"No s'han pogut treure, intenta-ho de nou"</string>
+  <string name="cancel_msg">Desselecciona-ho tot?</string>
   <string name="cancel_operation">Cancel·la l\'operació</string>
   <string name="cancel_success">S\'han eliminat correctament, tots els fitxers van ser moguts a %s</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
@@ -182,6 +183,7 @@
   <string name="file_info_modified">Última modificació:</string>
   <string name="file_info_size">Mida:</string>
   <string name="file_loading">Un moment…</string>
+  <string name="file_name_existed">El nom del fitxer ja existeix</string>
   <string name="file_name_invalid">"Els noms de fitxer no poden contenir els següents caràcters: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"El fitxer no existeix"</string>
   <string name="folder_name_empty">"El nom de la carpeta no pot estar buit"</string>
@@ -366,9 +368,11 @@
   <string name="rename_alert2">El fitxer s\'ocultarà.</string>
   <string name="rename_failed">"No es pot canviar el nom de %1$s"</string>
   <string name="rename_input_null">Introduïu el nom de fitxer nou</string>
+  <string name="rename_msg">Ja existeix un fitxer amb el nom \"%s\".</string>
   <string name="repair_done">Restaurat</string>
   <string name="repair_error">"No s'ha pogut restaurar"</string>
   <string name="repair_file">Restaurar fitxers encriptats</string>
+  <string name="replace">Reemplaça</string>
   <string name="request_document_permission">Per gestionar fitxers a la targeta SD, proporcioneu al Gestor de fitxers els permisos necessaris.</string>
   <string name="request_document_permission_title">Permisos necessaris</string>
   <string name="request_timeout">Temps d\'espera de xarxa esgotat</string>
@@ -412,6 +416,7 @@
   <string name="set_pattern">S\'ha actualitzat la contrasenya</string>
   <string name="set_pattern_btn">Aplica</string>
   <string name="set_pattern_msg">Establiu la vostra contrasenya una altra vegada. La contrasenya també protegeix fotos i missatges.</string>
+  <string name="skip">Omet</string>
   <string name="skip_file">Omet</string>
   <string name="smb_loading">Un moment…</string>
   <string name="sort_hint_name">Ordenats pel nom</string>
@@ -462,6 +467,7 @@
   <string name="unlock_pattern_title">Nova contrasenya</string>
   <string name="upload_user_photo">Pujar</string>
   <string name="usb_label">USB</string>
+  <string name="use_to_all">Aplica a tots</string>
   <string name="used">Usat </string>
   <string name="user_guide_continue_use">D\'acord</string>
   <string name="user_not_login">Inicia sessió primer</string>

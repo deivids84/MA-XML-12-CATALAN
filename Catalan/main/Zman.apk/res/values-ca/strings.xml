@@ -37,6 +37,7 @@
   <string name="first_settings_share_enable_subtitle">Els elements que compartiu a WeChat apareixeran amb una insígnia MIUI</string>
   <string name="first_settings_subtitle">Aquí hi ha les opcions de seguretat disponibles en la compartició:</string>
   <string name="first_settings_title">Protegiu la vostra privadesa</string>
+  <string name="loading_text_format" formatted="false">S\'està suprimint la informació privada de les fotos (%d/%d)…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">estireu per actualitzar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">actualització completada</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">s\'està actualitzant</string>

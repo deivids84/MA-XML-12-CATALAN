@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d anys)"</item>
+        <item quantity="one">" (%1$d any)"</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d vegades</item>
         <item quantity="one">%1$d-%2$d vegada</item>

@@ -20,6 +20,12 @@
         <item>Fes una còpia de seguretat dels paràmetres importants, inclosos la Wi-Fi i la pantalla</item>
         <item>"Bloqueja el dispositiu de forma remota si es perd"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sincronitzeu els vostres contactes, missatges, notes, calendari i molt més</item>
+        <item>Còpia de seguretat d\'aplicacions, disseny de la pantalla d\'inici i fons de pantalla</item>
+        <item>Feu una còpia de seguretat de la configuració important, inclosa la WLAN i la pantalla</item>
+        <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronitza les dades de l\'aplicació</item>
         <item>Còpia de seguretat del disseny de la pantalla d\'inici</item>
@@ -98,6 +104,11 @@
         <item>Activa la sincronització</item>
         <item>Tauler d\'aplicacions;Targetes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sincronitza les respostes ràpides</item>
+        <item>Activeu la sincronització</item>
+        <item>Respostes ràpides;Portapapers;Editor;Núvol;Sincronització;Serveis al núvol</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Sincronitza els enregistraments amb Xiaomi Cloud</item>
         <item>Activa/configura la sincronització</item>
@@ -114,9 +125,9 @@
         <item>Núvol;Còpia de seguretat;còpia de seguretat;Restauració;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronitza Seguretat amb Xiaomi Cloud</item>
+        <item>Sincronització al núvol de Seguretat</item>
         <item>Activa la sincronització</item>
-        <item>Seguretat;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Seguretat;Núvol;Xiaomi Cloud;Sincronització;Serveis al núvol</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronitza els missatges amb Xiaomi Cloud</item>
@@ -136,6 +147,11 @@
     <string-array name="settings_search_wlan">
         <item>Sincronitza la configuració de la Wi-Fi amb Xiaomi Cloud</item>
         <item>Activa la sincronització</item>
+        <item>WLAN;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sincronitza la configuració de la WLAN amb Xiaomi Cloud</item>
+        <item>Activeu la sincronització</item>
         <item>WLAN;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">

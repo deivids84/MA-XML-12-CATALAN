@@ -54,13 +54,4 @@
     <item>A l\'esquerra</item>
     <item>A la dreta</item>
   </string-array>
-  <string-array name="global_search_mode_entries">
-    <item>Cap</item>
-    <item>Llisca cap amunt</item>
-    <item>Barra de cerca</item>
-  </string-array>
-  <string-array name="global_search_provider_entries">
-    <item>Per defecte</item>
-    <item>Google</item>
-  </string-array>
 </resources>

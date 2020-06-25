@@ -82,10 +82,6 @@ Es reproduirà el següent en %d segon…"</item>
         <item quantity="other">%d imatges</item>
         <item quantity="one">%d imatge</item>
     </plurals>
-    <plurals name="vo_short_video_play_count">
-        <item quantity="other">%s visites</item>
-        <item quantity="one">%s visita</item>
-    </plurals>
     <plurals name="vo_source_comment">
         <item quantity="other">%1$s | %2$s comentaris</item>
         <item quantity="one">%1$s | %2$s comentari</item>
