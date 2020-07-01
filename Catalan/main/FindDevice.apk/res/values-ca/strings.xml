@@ -46,8 +46,8 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="passport_trust_device">Confia en aquest dispositiu</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_verify">Verifica</string>
-  <string name="password">Contrasenya</string>
-  <string name="phone_locked">Pot ser que aquest dispositiu estigui associat amb un compte Mi existent (%s). Inicieu sessió per activar aquest dispositiu.</string>
+  <string name="password">Introduïu la contrasenya</string>
+  <string name="phone_locked">Aquest dispositiu està associat a un Compte Mi (%s). Introduïu la contrasenya per activar el dispositiu.</string>
   <string name="phone_locked_account_email">, correu associat: %s</string>
   <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
   <string name="return_to_call">Torna a la trucada</string>
@@ -73,14 +73,14 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="unlock_error_unknown">"No s'ha pogut iniciar sessió"</string>
   <string name="unlock_error_user_name">Usuari invàlid</string>
   <string name="unlock_error_wrong_vcode">El codi introduït és incorrecte</string>
-  <string name="unlock_help">"Mantingueu-vos connectat a la xarxa
-Assegureu-vos d'haver instal·lat una targeta SIM que funcioni i que el vostre dispositiu estigui connectat a una xarxa Wi-Fi amb accés a Internet
+  <string name="unlock_help">"Connecteu-vos a la xarxa.
+Inseriu una targeta SIM que funcioni i no us connecteu a xarxes WLAN no vàlides.
 
-Heu oblidat la vostra contrasenya?
-Aneu a id.mi.com per restablir la vostra contrasenya
+Heu oblidat la contrasenya?
+Aneu a id.mi.com, seleccioneu \"Heu oblidat la contrasenya?\" i seguiu les instruccions.
 
-Altres motius
-Inicieu sessió a i.mi.com i intenteu desbloquejar el vostre dispositiu des d'allà"</string>
+No es pot activar el dispositiu?
+Aneu a i.mi.com/ss i envieu una sol·licitud per desbloquejar el dispositiu."</string>
   <string name="unlock_help_title">Ajuda per desbloquejar:</string>
   <string name="unlock_number">Codi de desbloqueig: %s</string>
   <string name="unlock_wrong_captcha">El codi introduït és incorrecte</string>

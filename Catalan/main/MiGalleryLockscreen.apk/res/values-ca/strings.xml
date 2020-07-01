@@ -285,6 +285,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="lks_left_top_notice">Toqueu aquí per tornar al principi</string>
   <string name="lks_left_top_notice_refresh">Toqueu per visualitzar els nous elements</string>
   <string name="lks_logo_desc2">Fons de pantalla nous cada dia</string>
+  <string name="lks_logo_desc_search">Fons de pantalla nous diàriament</string>
   <string name="lks_subscription_toast">S\'ha canviat correctament el fons de pantalla</string>
   <string name="llks_add_cate">Subscriviu-vos a %s</string>
   <string name="llks_auto_switch_wp">Subscriviu-vos a les categories que us agradin</string>

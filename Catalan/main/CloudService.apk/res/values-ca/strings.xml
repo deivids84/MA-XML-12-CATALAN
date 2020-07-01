@@ -462,9 +462,12 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="soundrecorder_sync_records">Sincronització amb Xiaomi Cloud</string>
   <string name="special_func_title">Característiques especials</string>
   <string name="starred_contact">Preferits</string>
+  <string name="storage_manage_cloud_data_title">Mostra els elements al núvol</string>
   <string name="storage_manage_expansion">Aconsegueix-ne més</string>
+  <string name="storage_manage_full_summary">L’emmagatzematge al núvol està complet. Actualitzeu el vostre pla.</string>
   <string name="storage_manage_list_title">Dades al núvol</string>
   <string name="storage_manage_list_title_action">Mostra\'n més</string>
+  <string name="storage_manage_normal_summary">Canvia el pla d\'emmagatzematge al núvol</string>
   <string name="storage_manage_renewal">Renova</string>
   <string name="storage_manage_title">Canvia el pla d\'emmagatzematge al núvol</string>
   <string name="storage_manage_upgrade">Actualitza</string>

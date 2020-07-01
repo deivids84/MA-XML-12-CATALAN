@@ -52,6 +52,7 @@
   <string name="ew_share_logo_title">Advertència de terratrèmols</string>
   <string name="ew_share_save_tips">S\'ha desat a %s</string>
   <string name="ew_share_title">Comparteix</string>
+  <string name="ew_title_back">Torna</string>
   <string name="ew_warning_detail">Detalls de l\'advertència</string>
   <string name="fastboot_locked_answer_1">Fastboot és el mètode tradicional per flashejar dispositius Mi. Quan el dispositiu està en mode Fastboot, totes les dades emmagatzemades en ell poden ser accessibles i esborrades directament. Hem bloquejat Fastboot per fer segures les seves dades en cas que perdeu el dispositiu, així com garantir la fiabilitat de les característiques de Troba el dispositiu.</string>
   <string name="fastboot_locked_answer_2">"En cas de perdre el dispositiu, Fastboot garanteix la seguretat dels ítems emmagatzemats en ell. Si desbloqueja Fastboot, no serà capaç de bloquejar el dispositiu remotament o esborrar les dades usant Troba el dispositiu. És per això que no recomanem desbloquejar Fastboot al dispositiu."</string>

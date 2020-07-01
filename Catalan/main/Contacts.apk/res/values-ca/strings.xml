@@ -151,7 +151,7 @@
   <string name="callrecordview_menu_batch_delete">Eliminar lot</string>
   <string name="callrecordview_menu_blocklist">Llista de bloqueig</string>
   <string name="callrecordview_menu_conference">Trucada de conferència</string>
-  <string name="callrecordview_menu_delete">Esborra el registre de trucades</string>
+  <string name="callrecordview_menu_delete">Suprimeix</string>
   <string name="callrecordview_menu_delete_accepted">Esborra les trucades contestades</string>
   <string name="callrecordview_menu_delete_all">Esborra el registre de trucades</string>
   <string name="callrecordview_menu_delete_called">Esborra les trucades sortints</string>
@@ -1466,7 +1466,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant&#8230;</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Afegit a la pantalla d\'inici</string>
-  <string name="yellowpage_provider_label">Dades proporcionades per</string>
+  <string name="yellowpage_provider_label">Assistència tècnica per al reconeixement de l\'identificador de l\'emissor/remitent de trucada</string>
   <string name="yellowpage_search_the_yellowpage">Cerca en les pàgines grogues</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="yesterday">Ahir</string>

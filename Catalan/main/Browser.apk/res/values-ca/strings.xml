@@ -251,6 +251,7 @@
   <string name="contextmenu_openlink_in_browser">Obre al navegador</string>
   <string name="contextmenu_openlink_newwindow">Obre en una pestanya nova</string>
   <string name="contextmenu_openlink_newwindow_background">Obre en una pestanya en segon pla</string>
+  <string name="contextmenu_orignal_webpage">Web original</string>
   <string name="contextmenu_recognise_qr_code">Escaneja el codi QR</string>
   <string name="contextmenu_send_mail">Envia un correu electrònic</string>
   <string name="contextmenu_set_wallpaper">Estableix com a fons de pantalla</string>
@@ -259,6 +260,8 @@
   <string name="contextmenu_webpage_capture">Captura de pantalla</string>
   <string name="contextmenu_webpage_html">Desa com a fitxer HTML</string>
   <string name="contextmenu_webpage_snapshot">Desa la pàgina</string>
+  <string name="contextmenu_webpage_translate">Traducció de la web</string>
+  <string name="contextmenu_webpage_translation_tips">Nova funció de traducció a la Caixa d\'eines</string>
   <string name="custom_head_card_text">Creu sempre que alguna cosa meravellosa està a punt de passar</string>
   <string name="custom_head_weather">El temps</string>
   <string name="dark_mode_setting_dark">Mode nocturn (fosc)</string>
@@ -455,6 +458,9 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
   <string name="info_flow_description">Canal d\'informació</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
   <string name="keep_queued_download">Manté</string>
+  <string name="leto_permission_rationale_ask">És possible que aquesta aplicació no funcioni correctament sense els permisos sol·licitats.</string>
+  <string name="leto_permission_rationale_ask_again">És possible que aquesta aplicació no funcioni correctament sense els permisos sol·licitats. Obriu la pantalla de configuració de l\'aplicació per modificar els permisos de l\'aplicació.</string>
+  <string name="leto_permission_title_settings_dialog">Permisos obligatoris</string>
   <string name="load_error_tip">"No s'han pogut carregar els elements. Toqueu per tornar-ho a provar."</string>
   <string name="load_more_footer_status_msg_error_load">"No s'ha pogut carregar. Torneu-ho a provar."</string>
   <string name="load_more_footer_status_msg_error_no_network">"No s'ha pogut connectar a la xarxa."</string>

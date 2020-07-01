@@ -3,14 +3,17 @@
   <string name="action_missing_private_key">Clau privada necessària per instal·lar el certificat</string>
   <string name="action_missing_user_cert">Certificat necessari per instal·lar una clau privada</string>
   <string name="app_name">Instal·lador de certificats</string>
-  <string name="cert_is_added">%s està instal·lat.</string>
+  <string name="ca_cert_is_added">S\'ha instal·lat el certificat CA</string>
+  <string name="ca_certificate">Certificat de CA</string>
   <string name="cert_missing_error">"No s'ha pogut instal·lar perquè no s'ha pogut ubicar el fitxer de certificat."</string>
   <string name="cert_not_saved">El certificat no està instal·lat.</string>
   <string name="cert_read_error">"No s'ha pogut instal·lar perquè no s'ha pogut llegir el fitxer de certificat."</string>
+  <string name="cert_temp_error">Fallada temporal, intenteu-ho més tard.</string>
   <string name="cert_too_large_error">"No s'ha pogut instal·lar perquè el certificat ocupa massa."</string>
+  <string name="certificate">Certificat</string>
   <string name="certificate_capabilities_warning">Nota: L\'emissor d\'aquest certificat pot revisar tot el tràfic entrant i sortint del dispositiu.</string>
+  <string name="certificate_name">Nom del certificat</string>
   <string name="credential_info">El paquet conté:</string>
-  <string name="credential_name">Nom del certificat:</string>
   <string name="credential_password">Introduïu la contrasenya per extreure els certificats.</string>
   <string name="credential_usage_label">Ús de credencials:</string>
   <string name="done_label">FET</string>
@@ -18,9 +21,12 @@
   <string name="install_done">S\'han afegit %1$s credencials a les xarxes Wi-Fi desades.</string>
   <string name="install_done_title">Credencials instal·lades</string>
   <string name="invalid_cert">El certificat no és vàlid.</string>
+  <string name="invalid_certificate_close_button">Tanca</string>
+  <string name="invalid_certificate_message">"Aquest fitxer no es pot utilitzar com a %1$s"</string>
+  <string name="invalid_certificate_title">"No puc utilitzar aquest fitxer"</string>
   <string name="n_cacrts">%d certificats CA</string>
   <string name="name_char_error">Escriviu un nom que contingui únicament lletres i números.</string>
-  <string name="name_credential_dialog_title">Nom del certificat</string>
+  <string name="name_credential_dialog_title">Nom d\'aquest certificat</string>
   <string name="name_empty_error">Introduïu un nom.</string>
   <string name="no_cert_to_saved">Cap certificat per instal·lar.</string>
   <string name="one_cacrt">un certificat CA</string>
@@ -33,9 +39,17 @@
   <string name="pick_file_title">Trieu un certificat</string>
   <string name="pkcs12_file_password_dialog_title">Extreu de %s</string>
   <string name="pkcs12_password_dialog_title">Extreu el certificat</string>
+  <string name="redirect_ca_certificate_close_button">Tanca</string>
+  <string name="redirect_ca_certificate_message">Els certificats CA poden posar en perill la vostra privadesa i s’han d’instal·lar a Configuració</string>
+  <string name="redirect_ca_certificate_title">"No es poden instal·lar certificats CA"</string>
+  <string name="select_certificate_usage_title">Trieu un tipus de certificat</string>
   <string name="unable_to_save_cert">"No s'ha pogut desar el certificat. L'emmagatzematge de credencials no està activat o no s'ha iniciat correctament."</string>
+  <string name="user_cert_is_added">S\'ha instal·lat el certificat d\'usuari</string>
+  <string name="user_certificate">Certificat d’usuari de VPN i aplicació</string>
   <string name="userkey_type">Algorisme:</string>
   <string name="wifi_cancel_label">Cancel·la</string>
+  <string name="wifi_cert_is_added">S\'ha instal·lat el certificat Wi-Fi</string>
+  <string name="wifi_certificate">Certificat Wi-Fi</string>
   <string name="wifi_config_text">"«Nom: %1$s
 FQDN: %2$s
 Consorcis d'itinerància: %3$s

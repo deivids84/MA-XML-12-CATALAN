@@ -25,15 +25,21 @@
         <item>PIN</item>
         <item>Contrasenya</item>
     </string-array>
+    <string-array name="daily_brand">
+        <item>Personalitzat</item>
+        <item>Targeta Mi Fan</item>
+        <item>Targeta Xiao Tiansheng</item>
+        <item>Targeta Tencent King</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>"Ahir (dades mòbils) "</item>
         <item>"Avui (dades mòbils) "</item>
         <item>"El mes passat (dades mòbils) "</item>
         <item>"Aquest mes (dades mòbils) "</item>
-        <item>"Wi-Fi ahir"</item>
-        <item>"Wi-Fi avui"</item>
-        <item>"Wi-Fi el mes passat"</item>
-        <item>"Aquest mes a través de Wi-Fi"</item>
+        <item>"Ahir (Wi-Fi) "</item>
+        <item>"Avui (Wi-Fi) "</item>
+        <item>"El mes passat (Wi-Fi) "</item>
+        <item>"Aquest mes (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Ahir "</item>
@@ -57,6 +63,12 @@
         <item>"Avui: "</item>
         <item>"Aquest mes: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Es podrà accedir i editar fitxers del dispositiu mitjançant un ordinador.</item>
+        <item>Es permetrà instal·lar aplicacions al dispositiu sense el vostre permís explícit.</item>
+        <item>"Podreu supervisar i enregistrar el contingut de la pantalla de manera remota."</item>
+        <item>Es podrà accedir a la informació detallada sobre el vostre dispositiu.</item>
+    </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Sí</item>
         <item>No</item>
@@ -68,7 +80,11 @@
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Ús mòbil "</item>
-        <item>"Ús Wi-Fi "</item>
+        <item>"Ús de la Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Important: Diverses aplicacions del sistema poden deixar de funcionar correctament.</item>
+        <item>És possible que els dissenys de text, els comptes i el contingut no es mostrin correctament.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Mostra l\'avís</item>
@@ -81,6 +97,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>Utilitzant el mode de control de temperatura per defecte</item>
         <item>Prioritzant el rendiment</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Llegir totes les notificacions, inclòs el contingut dels vostres missatges de text i altres elements que puguin contenir informació personal</item>
+        <item>Restringir els permisos de notificació per a algunes aplicacions</item>
+        <item>Simular notificacions d\'intervenció i obrir les aplicacions</item>
+        <item>Activar i desactivar el mode No molestar</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Recollir les dades sobre els vostres interessos i comportament en aprenent quines aplicacions utilitzeu i amb quina freqüència les utilitzeu</item>
+        <item>Accedir a la configuració del vostre operador i de l’idioma, així com a altres detalls</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Les aplicacions de tercers que no són verificades per GetApps poden causar diversos problemes i disminuir l'estabilitat del sistema."</item>
+        <item>Algunes aplicacions de tercers poden contenir programari maliciós que posa en risc les vostres dades personals.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Emmagatzematge intern</item>
+        <item>Emmagatzematge extern</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Sempre</item>
@@ -122,6 +156,6 @@
     </string-array>
     <string-array name="traffic_type">
         <item>"Ús mòbil "</item>
-        <item>"Ús Wi-Fi "</item>
+        <item>"Ús de la Wi-Fi "</item>
     </string-array>
 </resources>
