@@ -31,8 +31,8 @@
   <string name="downloading">S\'està baixant:</string>
   <string name="downloading_desc">Baixada en curs, comproveu l\'estat en l\'àrea de notificació.</string>
   <string name="fetching_data">S\'està obtenint l\'enllaç de baixada, espereu…</string>
-  <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: &lt;b&gt;%1$s&lt;/b&gt;\"
-Les dades no s’esborraran.\"</string>
+  <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: &lt;b&gt;%1$s&lt;/b&gt;"
+Les dades no s’esborraran."</string>
   <string name="install_title">Esteu segurs de continuar?</string>
   <string name="menu_title_current_version_log">Que hi ha de nou?</string>
   <string name="menu_title_pick_rom_file">Trieu el paquet d’actualització</string>
