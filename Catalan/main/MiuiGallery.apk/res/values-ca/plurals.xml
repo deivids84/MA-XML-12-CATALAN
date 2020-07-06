@@ -384,9 +384,105 @@
         <item quantity="other">S\'ha suprimit %1$d fotos de «%2$s».</item>
         <item quantity="one">S\'ha suprimit %1$d foto de «%2$s».</item>
     </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d paquets d\'instal·lació (%3$s) des de %1$s</item>
+        <item quantity="one">%2$d paquet d\'instal·lació (%3$s) des de %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d paquets d\'instal·lació (%3$s) de %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d paquet d\'instal·lació (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">S\'han rebut %2$d paquets d\'instal·lació (%3$s) de %1$s…</item>
+        <item quantity="one">%3$srebut %2$d paquet d\'instal·lació ( %3$s ) de %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d fitxers d\'àudio (%3$s) de %1$s</item>
+        <item quantity="one">%2$d fitxer d\'àudio (%3$s) des de %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d fitxers d\'àudio (%3$s) de %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d fitxer d\'àudio (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">S\'han rebut %2$d fitxers d\'àudio (%3$s) de %1$s…</item>
+        <item quantity="one">%3$srebut %2$d fitxer d\'àudio ( %3$s ) de %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s fitxers (%4$s) de %1$s</item>
+        <item quantity="one">%2$d %3$s fitxer (%4$s) des de %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d %3$s fitxers (%4$s) de %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d %3$s fitxer (%4$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">S\'han rebut %2$d %3$s fitxers (%4$s) de %1$s…</item>
+        <item quantity="one">%3$s rebut %2$d %3$s fitxer (%4$s) de %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d imatges de %1$s</item>
+        <item quantity="one">%2$d imatge de l’ %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d imatges de l\' %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d imatge de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Rebre %2$d imatges de %1$s…</item>
+        <item quantity="one">Recepció de %2$d imatge a partir d\' %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d imatges i vídeos de %1$s</item>
+        <item quantity="one">%2$d imatge o vídeo de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d imatges i vídeos de l\' %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d imatge o vídeo de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Rebre %2$d imatges i vídeos des %1$s…</item>
+        <item quantity="one">Rep %2$d imatge o vídeo des de l\' %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d fitxers de l\' %1$s</item>
+        <item quantity="one">%2$d fitxer de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d fitxers de l\' %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d fitxer de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">S\'han rebut %2$d fitxers de %1$s…</item>
+        <item quantity="one">%1$srebut %2$d fitxer de %1$s…</item>
+    </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">"No s'ha pogut compartir. Encara s'està processant les foto %d…"</item>
         <item quantity="one">"No s'ha pogut compartir. Encara s'està processant la foto %d…"</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d vídeos de %1$s</item>
+        <item quantity="one">%2$d vídeo des de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d vídeos de l\' %1$s</item>
+        <item quantity="one">S\'ha rebut %2$d vídeo de l\' %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">S\'han rebut %2$d vídeos de %1$s…</item>
+        <item quantity="one">%1$srebut %2$d vídeo de %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arxius (%3$s) de %1$s</item>
+        <item quantity="one">%2$d arxiu (%3$s) des de %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">S\'han rebut %2$d arxius (%3$s) de %1$s</item>
+        <item quantity="one">S\'han rebut %2$d arxiu (%3$s) de %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">S\'han rebut %2$d arxius (%3$s) de %1$s…</item>
+        <item quantity="one">S\'han rebut %2$d arxiu (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d segons</item>

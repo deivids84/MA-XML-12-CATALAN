@@ -6,6 +6,7 @@
   <string name="android_ringtone_silent">Cap</string>
   <string name="android_ringtone_unknown">So de trucada desconegut</string>
   <string name="asend">Envia</string>
+  <string name="atlantis">Atlantis (estèreo)</string>
   <string name="beep">Pip</string>
   <string name="bells">Campanes</string>
   <string name="birdcicada_preview">Natura - Ocells i cuques de llum</string>
@@ -42,6 +43,7 @@
   <string name="dance">Dance</string>
   <string name="daydream">Somiar despert</string>
   <string name="dewdrops">Aiguamolls</string>
+  <string name="digitaluniverse">Univers digital (estèreo)</string>
   <string name="echo">Eco</string>
   <string name="expect">Excitació</string>
   <string name="fadein">Intensificar</string>
@@ -79,6 +81,22 @@
   <string name="mihouse">Mi Electrònic</string>
   <string name="mijazz">Mi Jazz</string>
   <string name="miremix">Mi (remix)</string>
+  <string name="miui_clock_city_name_local">Local</string>
+  <string name="miui_clock_city_name_second">Segon rellotge</string>
+  <string name="miui_lock_screen_date">EEEE dd/MM</string>
+  <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
   <string name="mix">MIX</string>
   <string name="moment">Moment</string>
   <string name="monet">Estany de lliris</string>
@@ -95,6 +113,7 @@
   <string name="presentation_unknown">Número desconegut</string>
   <string name="radar">Radar</string>
   <string name="raindrops">Gotes de pluja</string>
+  <string name="reveries">Reveries (estèreo)</string>
   <string name="robot">Robot</string>
   <string name="secretgarden">El jardí secret</string>
   <string name="spaceage">Era espacial</string>
@@ -109,6 +128,16 @@
   <string name="vip_login">Toqueu per iniciar sessió</string>
   <string name="vip_not_login">No s\'ha iniciat sessió</string>
   <string name="vip_sign">Signatura:</string>
+  <string name="wallpaper_group_black_white_title">Blanc i negre</string>
+  <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
+  <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinàmica</string>
+  <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
+  <string name="wallpaper_group_geometric_title">Geometria</string>
+  <string name="wallpaper_group_minimalist_scenery_title">Minimalisme</string>
+  <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen i altres</string>
+  <string name="wallpaper_group_natural_texture_title">Patrons de natura</string>
+  <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitat d’Arizona</string>
+  <string name="wallpaper_group_red_mars_title">Mart</string>
   <string name="waterdrop_preview">Natura - Gotetes</string>
   <string name="windchime">Campanes de vent</string>
   <string name="yellow_page_module_sms_sent">SMS enviat</string>
@@ -116,14 +145,4 @@
   <string name="yellow_page_sms_send_failed">"No s'ha pogut enviar l'SMS"</string>
   <string name="yellow_page_sms_sending">S\'està enviant…</string>
   <string name="yellow_page_unable_send_sms">"No es pot enviar l'SMS"</string>
-    <string name="miui_lock_screen_date">dd.MM EEEE</string>
-    <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd.MM"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MM"</string>   
 </resources>

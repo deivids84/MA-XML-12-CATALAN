@@ -109,7 +109,7 @@
   <string name="miui_feedback_answer_detail_feedback_unresolved">No</string>
   <string name="miui_feedback_answer_detail_menu_online_service">Obteniu ajuda en línia</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Truqueu al servei d’atenció al client</string>
-  <string name="miui_feedback_answer_detail_relative_tip">Us pot ser útil</string>
+  <string name="miui_feedback_answer_detail_relative_tip">Informació relacionada</string>
   <string name="miui_feedback_answer_detail_title">Detalls</string>
   <string name="miui_feedback_edit_action_submit">Envia</string>
   <string name="miui_feedback_edit_add_original_images">Afegeix foto</string>
@@ -177,12 +177,14 @@
   <string name="miui_feedback_main_menu_catch_full_log">Genera registres</string>
   <string name="miui_feedback_main_menu_feedback_list">Mostra l’historial de comentaris</string>
   <string name="miui_feedback_main_search_footer">"Aquestes no són les preguntes que voleu fer?"</string>
+  <string name="miui_feedback_main_search_footer_submit">Envieu comentaris</string>
   <string name="miui_feedback_main_search_issue">Introduïu les paraules clau a cercar</string>
   <string name="miui_feedback_main_start_submit">Envia els comentaris</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Envia</string>
   <string name="miui_feedback_main_submit_dialog_content">"Sembla que no hem pogut trobar una solució al problema. Podeu enviar els vostres comentaris."</string>
   <string name="miui_feedback_main_submit_dialog_title">Envia els comentaris</string>
   <string name="miui_feedback_main_title">Comentaris</string>
+  <string name="miui_guide_accessibility_image_desc">Imatge</string>
   <string name="miui_guide_clear_db_service">\"Serveis i comentaris\" està esborrant la memòria cau de l\'idioma…</string>
   <string name="miui_guide_footer_desc">"La guia per a principiants està dissenyada per ajudar-vos a obtenir més informació sobre el vostre dispositiu i MIUI. Algunes imatges i vídeos de la guia només es van crear amb finalitats de referència i poden diferir del producte real. Les funcions descrites en aquesta guia poden variar segons el model del dispositiu, la versió de MIUI i l’entorn d’ús."</string>
   <string name="miui_guide_item_complete">Completat</string>
@@ -264,7 +266,11 @@
   <string name="permission_device_info">Accés a la informació del dispositiu</string>
   <string name="permission_device_introduce">Per determinar el període de garantia limitat</string>
   <string name="permission_exit">Surt</string>
+  <string name="permission_external_storage_introduce">Per desar i pujar els vostres comentaris</string>
   <string name="permission_first_start_network_title">Termes i condicions</string>
+  <string name="permission_imei_disable_desc">Permeteu que aquesta aplicació es connecti a Internet.</string>
+  <string name="permission_imei_enable_desc">Permeteu que aquesta aplicació es connecti a Internet i concediu els permisos obligatoris enumerats anteriorment.</string>
+  <string name="permission_location_introduce">Per mostrar punts de servei propers</string>
   <string name="permission_main_purpose">Mostrar demostracions de les funcions de MIUI, enviar comentaris i sol·licitar serveis postvenda.</string>
   <string name="permission_privacy">Política de privadesa (obligatòria)</string>
   <string name="permission_region_version_msg">&lt;Data&gt;Abans d’utilitzar \"Serveis i comentaris\", heu de llegir i acceptar el nostre &amp;lt;a href=%1$s&amp;gt;Acord d’Usuari&amp;lt;/a&amp;gt; i la nostra &amp;lt;a href=%2$s&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>

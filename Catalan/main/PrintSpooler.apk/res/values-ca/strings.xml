@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="activity_convert_pdf_alert_message">La conversió de fitxers la proporciona WPS Office</string>
+  <string name="activity_convert_pdf_alert_title">Convertint el fitxer abans d\'imprimir…</string>
+  <string name="activity_jump_market_alert_install_message">"Instal·leu WPS Office per convertir aquest fitxer i preparar-lo per a la seva impressió. Haureu de tornar a començar a imprimir una vegada finalitzada la instal·lació. Instal · lar ara?"</string>
+  <string name="activity_jump_market_alert_install_positive_button">Instal·leu</string>
+  <string name="activity_jump_market_alert_title">Atenció</string>
+  <string name="activity_jump_market_alert_update_message">"Actualitzeu WPS Office per convertir aquest fitxer i preparar-lo per a la seva impressió. Haureu de tornar a començar a imprimir una vegada instal·lada la nova versió. Actualitzar ara?"</string>
+  <string name="activity_jump_market_alert_update_positive_button">Actualitza</string>
   <string name="add_print_service_label">Afegeix un servei</string>
   <string name="all_printers">Totes les impressores&#8230;</string>
   <string name="all_printers_label">Totes les impressores</string>
@@ -110,4 +117,6 @@
   <string name="template_all_pages">Totes %1$s</string>
   <string name="template_page_range">Interval de %1$s</string>
   <string name="wifi_direct">WLAN Direct</string>
+  <string name="wps_convert_error_toast_text">"No s'ha pogut convertir el fitxer a causa d'un error de format"</string>
+  <string name="wps_convert_too_large_and_wait_toast_text">La conversió pot trigar més temps a causa d’una mida de fitxer més gran. Convertint…</string>
 </resources>

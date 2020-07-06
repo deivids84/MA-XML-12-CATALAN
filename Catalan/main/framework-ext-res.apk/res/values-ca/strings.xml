@@ -52,10 +52,6 @@
   <string name="default_device_name">Dispositiu desconegut</string>
   <string name="default_name">Per defecte</string>
   <string name="description_title">Mode silenci</string>
-  <string name="device_status_failed">"No s'ha pogut enviar"</string>
-  <string name="device_status_sending">S\'està enviant…</string>
-  <string name="device_status_success">S\'ha enviat correctament</string>
-  <string name="device_status_waiting">S\'està esperant…</string>
   <string name="device_type_pc">Ordinador</string>
   <string name="eighthours">8 hores</string>
   <string name="enable_livetalk_summary">Estalvieu fins a un 70% en les trucades</string>
@@ -91,7 +87,7 @@
   <string name="handy_mode_enter_dlg_title">Accés al mode operació amb una mà</string>
   <string name="handy_mode_summary">Per tancar, premeu l\'àrea fosca</string>
   <string name="handy_mode_title">Operació amb una mà</string>
-  <string name="help">"No trobeu dispositius?"</string>
+  <string name="help">Veure ajuda</string>
   <string name="help_content">"Si no trobeu el dispositiu que necessiteu, demaneu a l’altra persona que activi el Mi Share."</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Col·loqueu el dit en el botó Inici</string>
   <string name="input_method_clipboard_check_more_add_to_phrase">Afegeix una frase freqüent</string>

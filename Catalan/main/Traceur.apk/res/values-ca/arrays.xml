@@ -74,8 +74,6 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Habilita els còdecs opcionals</item>
-        <item>Inhabilita els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (Per defecte)</item>
@@ -86,8 +84,6 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Habilita els còdecs opcionals</item>
-        <item>Inhabilita els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -100,6 +96,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAPA 1.2 (Predeterminat)</item>
+        <item>MAPA 1.3</item>
+        <item>MAPA 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Inhabilitat</item>

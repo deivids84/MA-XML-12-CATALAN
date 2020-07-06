@@ -39,6 +39,7 @@
   <string name="refocus_save_to_video">Desa com a vídeo</string>
   <string name="refocus_saving">S\'està desant…</string>
   <string name="refocus_title">Difuminat</string>
+  <string name="refocus_type_movie_relighting">Cinemàtica</string>
   <string name="refocus_type_relighting">Il·luminació d’estudi</string>
   <string name="refocus_type_relighting_no_face">"No s'ha pogut trobar la cara"</string>
   <string name="refocus_type_relighting_small_face">La il·luminació d’estudi funciona a fotografies on les cares ocupen més espai que aquí.</string>

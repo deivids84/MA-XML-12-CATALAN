@@ -39,6 +39,7 @@
   <string name="ads_install_button_isInstalling">Instal·lant</string>
   <string name="ads_install_button_waiting">Esperant</string>
   <string name="ads_summary">A la gent que ha instal·lat %1$s també els ha agradat</string>
+  <string name="ads_summary_default_value">A la gent que va instal·lar aquesta aplicació també els va agradar</string>
   <string name="allPerms">Tot</string>
   <string name="all_permissions">Tots els permisos</string>
   <string name="anonymous_source_continue">Continua</string>

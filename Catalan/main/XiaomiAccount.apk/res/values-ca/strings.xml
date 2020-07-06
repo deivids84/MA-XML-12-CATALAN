@@ -210,6 +210,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="for_diagnosis_usage_only">S\'utilitza només per localitzar problemes.</string>
   <string name="get_back_pwd">Restabliment de la contrasenya</string>
   <string name="get_device_list_failed">"No es poden obtenir els dispositius"</string>
+  <string name="get_identity_auth_url_failed">"No s'ha pogut verificar l'identificador"</string>
   <string name="get_phone_bind_exceed_limit">"Podeu associar fins a tres comptes Mi amb un número de telèfon. No es poden afegir comptes nous."</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>

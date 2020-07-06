@@ -9,6 +9,8 @@
   <string name="hide_apps_close">Icones d\'aplicacions visibles</string>
   <string name="hide_apps_open">Icones d\'aplicació ocultes</string>
   <string name="home_hide_apps">Amaga les icones de l\'aplicació</string>
+  <string name="home_search_bar_app">Proveïdor de barres de cerca</string>
+  <string name="home_search_gesture_app">Feu lliscar el proveïdor de cerca</string>
   <string name="loading">Un moment…</string>
   <string name="lockscreen_side_apps">Dreceres del tauler lateral</string>
   <string name="no_apps">No hi ha aplicacions</string>

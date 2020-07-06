@@ -6,6 +6,33 @@
 Els missatges només apareixeran en el Segon espai."</string>
   <string name="PrivacyContactDes2">"Si heu utilitzat missatges privats en el Primer espai,
 aquesta característica s'afegirà al Segon espai automàticament."</string>
+  <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+  <string name="abc_action_bar_up_description">Navega cap amunt</string>
+  <string name="abc_action_menu_overflow_description">Més opcions</string>
+  <string name="abc_action_mode_done">Fet</string>
+  <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+  <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
+  <string name="abc_capital_off">DESACTIVAT</string>
+  <string name="abc_capital_on">ACTIVAT</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">suprimeix</string>
+  <string name="abc_menu_enter_shortcut_label">retorn</string>
+  <string name="abc_menu_function_shortcut_label">Funció+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Maj+</string>
+  <string name="abc_menu_space_shortcut_label">espai</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menú+</string>
+  <string name="abc_search_hint">Cerca…</string>
+  <string name="abc_searchview_description_clear">Esborra la consulta</string>
+  <string name="abc_searchview_description_query">Consulta de cerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
+  <string name="abc_searchview_description_submit">Envia la consulta</string>
+  <string name="abc_searchview_description_voice">Cerca per veu</string>
+  <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+  <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Replega</string>
   <string name="about_ent_mode">Quant al mode Empresa</string>
   <string name="activate_ent_mode">Activa el mode Empresa</string>
   <string name="add_finger_print">Afegeix empremta</string>
@@ -60,6 +87,7 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
   <string name="contact_titile_text">"Mostreu els missatges privats en el Segon espai per poder veure'ls en qualsevol moment"</string>
   <string name="contact_us">Contacteu-nos</string>
   <string name="continueButton">Continuar</string>
+  <string name="copy">Còpia</string>
   <string name="createANewSpace">Crear un espai separat al telèfon.</string>
   <string name="createUserFail">"No s'ha pogut crear"</string>
   <string name="create_app_icon_failed">"No s'ha pogut crear la icona"</string>
@@ -97,13 +125,6 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
   <string name="dual_animation">Animació a l\'inici</string>
   <string name="dual_animation_description">Mostra l\'animació quan s\'inicien les aplicacions dobles</string>
   <string name="enable">Activa</string>
-  <string name="encrypt_space_delete_dialog_click_message">"*Si no necessiteu moure dades, %s"</string>
-  <string name="encrypt_space_delete_dialog_click_message_action">suprimiu i creeu el segon espai.</string>
-  <string name="encrypt_space_delete_dialog_message">"Sou a punt d'actualitzar l'Android. Després de l'actualització, les dades del segon espai es tornaran incompatibles. Per evitar-ho, moveu totes les dades al primer espai, suprimiu el segon espai i torneu-lo a crear."</string>
-  <string name="encrypt_space_delete_dialog_positive_text">Mou dades</string>
-  <string name="encrypt_space_delete_dialog_title">Atenció</string>
-  <string name="encrypt_space_delete_notification_message">Suprimiu el segon espai i creeu-ne un per actualitzar el dispositiu amb èxit.</string>
-  <string name="encrypt_space_delete_notification_title">Segon espai</string>
   <string name="ent_activating">S\'està activant…</string>
   <string name="ent_activation">Activa</string>
   <string name="ent_activation_hint">Introduïu el codi corporatiu juntament amb el codi de llicència per activar el mode Empresa. Després d\'això, seran habilitats els serveis empresarials personalitzats.</string>
@@ -148,6 +169,7 @@ Assegureu-vos que el nom de la vostra empresa sigui correcte. Llegiu i accepteu 
   <string name="err_unknown">Error desconegut</string>
   <string name="err_volume_not_enough">No hi ha prou espai d\'emmagatzematge</string>
   <string name="exit_private_space">Canviar</string>
+  <string name="expand_button_title">Avançat</string>
   <string name="experience_more_features">Afegiu un dispositiu per veure totes les funcions</string>
   <string name="facebook_login">Inicieu la sessió mitjançant Facebook</string>
   <string name="facebook_send">Comparteix a Facebook</string>
@@ -186,7 +208,6 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="guide_contact_title_desc">Mostra els elements privats en el Segon espai?</string>
   <string name="guide_pwd_detail_title">"Protegiu les vostres dades. Entreu al Segon espai des de la pantalla de bloqueig"</string>
   <string name="guide_setting_guide_title">Gestionar el Segon espai</string>
-  <string name="guide_start_ads_text">Un nivell completament nou de seguretat</string>
   <string name="guide_start_text">Dos espais. Un dispositiu.</string>
   <string name="has_created_second_space">"Ara podeu obrir el segon espai.
 Dos espais. Un dispositiu."</string>
@@ -223,6 +244,14 @@ Dos espais. Un dispositiu."</string>
   <string name="master_clear_not_available_ep">"No teniu permís per restablir de fàbrica ni revocar l’autorització. Poseu-vos en contacte amb el vostre supervisor."</string>
   <string name="menu_item_about_privacy_title">Política de privadesa</string>
   <string name="messageData">Missatges</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
   <string name="more_settings">Més</string>
   <string name="msg_switch_file">Voleu esborrar aquests arxius del Primer espai després que s\'hagin mogut?</string>
   <string name="msg_switch_file_second">Voleu eliminar aquests fitxers del primer espai després de moure\'ls?</string>
@@ -238,6 +267,7 @@ Dos espais. Un dispositiu."</string>
   <string name="next_setp">Següent</string>
   <string name="no_match_repate_scanner">"No s'ha trobat una empremta que correspongui. Escanegeu una altra vegada"</string>
   <string name="normal_app">Primer espai</string>
+  <string name="not_set">No configurat</string>
   <string name="not_support_air_space">"Aquesta característica no està disponible al vostre telèfon"</string>
   <string name="not_support_multiple_users">"No s'admeten múltiples espais"</string>
   <string name="notificationSetPassword">Establir contrasenya</string>
@@ -253,12 +283,12 @@ Dos espais. Un dispositiu."</string>
   <string name="openPasswordGuard">Establiu la contrasenya del Segon espai</string>
   <string name="openSuccess">Activat</string>
   <string name="opened">Activat</string>
-  <string name="optimize_now">Optimitza</string>
   <string name="other">Altres</string>
   <string name="otherSettings">Altres configuracions</string>
   <string name="passWordGuardSummary">Entreu al Segon espai des de la pantalla de bloqueig utilitzant una contrasenya</string>
   <string name="passwordProtect">Contrasenya</string>
   <string name="please_diff_finger_print">"Assegureu-vos que s'utilitzen diferents empremtes digitals en el Primer i el Segon espai. En cas contrari, potser no podríeu entrar al Segon espai des de la pantalla de bloqueig."</string>
+  <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="privacyContactsSummary">Mostrar els elements privats en el Segon espai</string>
   <string name="privacyContactsTitle">Missatges privats i contactes</string>
   <string name="privacy_password_fingerprint_dialog_message">Col·loqueu el dit al lector</string>
@@ -275,8 +305,6 @@ Dos espais. Un dispositiu."</string>
   <string name="remove_button">Suprimeix i reinicia</string>
   <string name="remove_button_time">Suprimeix i reinicia (%d s)</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
-  <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
-  <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
   <string name="removingSpace">S\'està eliminant…</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
@@ -299,14 +327,7 @@ Dos espais. Un dispositiu."</string>
   <string name="scanner_fingerprint_tips_desc">"Seleccioneu una empremta existent per entrar al Segon espai. No podreu utilitzar-la en el Primer espai."</string>
   <string name="scanner_fingerprint_tips_title">Entrar al Segon espai utilitzant una empremta existent</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
-  <string name="sdcardfs_dialog_message">MIUI 9 té un nou sistema de fitxers. Les dades antigues podrien ser incompatibles amb ell. Per solucionar aquest problema, seguiu els passos per instal·lar una actualització. El dispositiu es reiniciarà dues vegades durant aquesta actualització.</string>
-  <string name="sdcardfs_dialog_title">Actualització important</string>
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
-Si no s'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
-  <string name="sdcradfs_dialog_in_owner_title">Segon espai</string>
-  <string name="sdcradfs_dialog_in_sec_message">"Per actualitzar, hauríeu d'eliminar el segon espai i tornar-lo a crear. Moveu les dades del segon espai al primer espai i reinicieu el dispositiu per completar l'actualització.
-Si no s'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
-  <string name="sdcradfs_dialog_in_sec_title">Actualització important</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="secondSpace">Segon espai</string>
   <string name="second_owner_finger_print">Empremta del Segon espai</string>
@@ -315,6 +336,8 @@ Si no s'actualitza, és possible que les aplicacions duals no funcionin correcta
   <string name="second_space_desktop_tips_dialog_title">Actualització important</string>
   <string name="second_space_finger_printf_desc">Afegir empremta específica per entrar al Segon espai</string>
   <string name="second_space_finger_printf_title">Empremta del Segon espai</string>
+  <string name="secondspace_homepage">"Definiu un bloqueig de pantalla designat per al segon espai.
+Separeu i assegureu les vostres dades."</string>
   <string name="select_existed_fingerprint">Seleccionar l\'empremta</string>
   <string name="serNameSummary">Segon espai</string>
   <string name="setSecondSpacePassword">Establiu la contrasenya del Segon espai</string>
@@ -372,7 +395,6 @@ Si no s'actualitza, és possible que les aplicacions duals no funcionin correcta
   <string name="space_create_guide_title_1">Protegeix la vostra privacitat</string>
   <string name="space_create_guide_title_2">Es pot crear en qualsevol moment</string>
   <string name="space_create_guide_title_3">Absolutament sense risc</string>
-  <string name="space_created_success">S\'ha creat el segon espai amb èxit</string>
   <string name="space_deleted">Aquest espai s\'ha suprimit</string>
   <string name="space_des_default">Espai aïllat amb dades xifrades</string>
   <string name="space_finger_sub_text">Estableix l\'empremta del segon espai per canviar més ràpid</string>
@@ -386,7 +408,6 @@ Si no s'actualitza, és possible que les aplicacions duals no funcionin correcta
   <string name="stop_xspace_alert_content">Heu esborrat totes les aplicacions duals. Voleu esborrar també els comptes de l\'aplicació dual i les dades de l\'aplicació? Després d\'això, haureu de tornar a crear aplicacions duals quan les necessiteu.</string>
   <string name="stop_xspace_alert_title">"Supressió dels comptes d'aplicacions duals"</string>
   <string name="summary_switch_apps_settings">Seleccioneu aplicacions del Segon espai</string>
-  <string name="support_desc">Serveis de seguretat proporcionats per Spaces Mobile</string>
   <string name="sure_to_use">Confirmeu</string>
   <string name="switchDataSummary">Moure elements entre espais</string>
   <string name="switch_apps_settings">Configuració de l\'aplicació</string>
@@ -434,6 +455,8 @@ Si no s'actualitza, és possible que les aplicacions duals no funcionin correcta
   <string name="undo_success">S\'ha revocat correctament</string>
   <string name="use_google_open">Activa\'l amb l\'Assistent de Google</string>
   <string name="use_xiaoai_open">Desperta amb l\'assistent de veu</string>
+  <string name="v7_preference_off">OFF</string>
+  <string name="v7_preference_on">ON</string>
   <string name="wating">Un moment…</string>
   <string name="weibo_send">Envia al Weibo</string>
   <string name="weixin_share_sign">Inicia sessió i comparteix-ho</string>

@@ -29,12 +29,15 @@
   <string name="abc_toolbar_collapse_description">Redueix</string>
   <string name="actionbar_button_up_description">Enrere</string>
   <string name="afternoon">Tarda</string>
+  <string name="already_newest_version">La versió actual està actualitzada</string>
   <string name="am">am</string>
   <string name="app_name">Fons de pantalla</string>
+  <string name="cancel_download">S\'ha cancel·lat la baixada</string>
   <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
   <string name="clearable_edittext_clear_description">Neteja</string>
   <string name="copy">Copia</string>
   <string name="date_picker_lunar">Calendari tradicional xinès</string>
+  <string name="download_failed">"No s'ha pogut descarregar"</string>
   <string name="early_morning">Matí</string>
   <string name="earth_id">terra</string>
   <string name="earth_summary">La Terra és el bressol de la civilització humana</string>
@@ -99,6 +102,7 @@
   <string name="friday_short">Dv.</string>
   <string name="friday_shortest">dv.</string>
   <string name="game_view_content_description">Vista del joc</string>
+  <string name="install_failed">"No s'ha pogut instal·lar"</string>
   <string name="mars_id">mart</string>
   <string name="mars_position_content_0">"Aquesta regió conté penya-segats, altiplans i àmplies valls plans, que es creu que van ser causades per glaceres cobertes de runes. Aquí també s'han detectat minerals d'argila, que són de gran interès en la recerca de proves de vida a l'antic Mart.
 
@@ -189,6 +193,8 @@ mm"</string>
   <string name="morning">Matí</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
   <string name="night">Vespre</string>
+  <string name="no_cta_agreed">"GetApps no té permisos CTA"</string>
+  <string name="no_install_permission">"No teniu permisos per instal·lar aquest element"</string>
   <string name="noon">Migdia</string>
   <string name="not_set">Sense especificar</string>
   <string name="password_toggle_content_description">Mostra la contrasenya</string>
@@ -235,6 +241,7 @@ mm"</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Seleccioneu la ubicació</string>
   <string name="super_wallpaper_setting_coordinate_title">Coordenades</string>
   <string name="super_wallpaper_setting_view_height_title">Altitud</string>
+  <string name="task_already_exist">Aquesta tasca ja existeix</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
   <string name="the_anti_aggression_day">Dia de la no-agressió</string>
   <string name="the_arbor_day">Dia de l\'arbre</string>
@@ -286,6 +293,7 @@ mm"</string>
   <string name="tuesday">Dimarts</string>
   <string name="tuesday_short">Dt.</string>
   <string name="tuesday_shortest">dt.</string>
+  <string name="update">Actualitza</string>
   <string name="v7_preference_off">DESACTIVAT</string>
   <string name="v7_preference_on">ACTIVAT</string>
   <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>

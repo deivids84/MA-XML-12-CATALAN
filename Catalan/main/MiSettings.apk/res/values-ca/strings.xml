@@ -354,7 +354,9 @@
   <string name="usage_app_limit_alter_title">Comproveu el límit de temps de pantalla</string>
   <string name="usage_app_limit_prelong">Amplia el temps</string>
   <string name="usage_app_limit_reach_summay">Resten %s</string>
+  <string name="usage_app_limit_reach_summay_new">Toqueu per afegir %d minuts</string>
   <string name="usage_app_limit_reach_title">%s està arribant al seu límit de temps de pantalla</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">Resta el temps de la pantalla per a %1s: %2s</string>
   <string name="usage_app_limit_summary">"Les aplicacions seleccionades no estaran disponibles quan s'arribi al límit"</string>
   <string name="usage_app_limit_title">Limita el temps de pantalla</string>
   <string name="usage_app_other_settings">Configuració addicional</string>
@@ -419,8 +421,10 @@ Aquesta aplicació també necessita connectar-se a internet i requereix els perm
   <string name="usage_new_home_dashboard">Tauler de control</string>
   <string name="usage_new_home_date_day_title">%s | Durada de l’ús</string>
   <string name="usage_new_home_day_category_title">Categories d\'aplicacions</string>
+  <string name="usage_new_home_day_category_title_new">Temps de pantalla de les categories d\'aplicacions el %s</string>
   <string name="usage_new_home_day_title">Dia</string>
   <string name="usage_new_home_day_usage_title">Aplicacions individuals</string>
+  <string name="usage_new_home_day_usage_title_new">Temps de pantalla a %s</string>
   <string name="usage_new_home_first_unlock">Primer desbloqueig: %s</string>
   <string name="usage_new_home_name">Nom</string>
   <string name="usage_new_home_show_more_data_summary">També podeu limitar el temps de la pantalla per a aplicacions individuals</string>
@@ -560,6 +564,8 @@ Aquesta aplicació necessita connectar-se a Internet i requereix els permisos se
   <string name="usage_stats_week_day">Caps de setmana</string>
   <string name="usage_total_days">Dies totals</string>
   <string name="usage_total_times">Sessions totals</string>
+  <string name="usage_week_avg_usage_title">Promig aquesta setmana</string>
+  <string name="usage_week_avg_usage_title2">Temps mitjà</string>
   <string name="usage_weekly_report_summary">Obteniu informació sobre com dediqueu el temps al vostre dispositiu</string>
   <string name="usage_weekly_report_title">Informe setmanal</string>
   <string name="usagestats_app_category_miui_education">Educació</string>

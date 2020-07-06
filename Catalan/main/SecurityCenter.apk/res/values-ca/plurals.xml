@@ -8,9 +8,25 @@
         <item quantity="other">Permès %3$d vegades entre %1$s i %2$s</item>
         <item quantity="one">Permès %3$d vegada entre %1$s i %2$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">Es permet %2$d vegades a la %1$s</item>
+        <item quantity="one">Es permet %2$d vegades a la %1$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_deny">
         <item quantity="other">Restringit %3$d vegades entre %1$s i %2$s</item>
         <item quantity="one">Restringit %3$d vegada entre %1$s i %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">Negat %2$d vegades a la %1$s</item>
+        <item quantity="one">Se nega %2$d cops a la %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">S\'han retornat %3$d missatges en blanc entre %1$s i %2$s</item>
+        <item quantity="one">%1$s retornat %3$d missatges en blanc entre %1$s i %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">S\'han retornat %2$d missatges en blanc a l\' %1$s</item>
+        <item quantity="one">%1$sretornat %2$d missatges en blanc a la %1$s</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
         <item quantity="other">%2$d aplicacions, inclosa %1$1s estan enregistrant àudio</item>
@@ -31,6 +47,14 @@
     <plurals name="app_behavior_privacy_manager_on">
         <item quantity="other">"Se us notificarà sobre les accions sensibles de %1$d aplicacions"</item>
         <item quantity="one">"Se us notificarà sobre les accions sensibles de %1$d aplicació"</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s llançar %2$d aplicació</item>
+        <item quantity="one">%1$1s llançar %2$d aplicació</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Aquesta aplicació va llançar %1$d aplicacions més</item>
+        <item quantity="one">Aquesta aplicació va llançar %1$d altra aplicació</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">S\'han permès %d permisos</item>
@@ -128,6 +152,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%1$d persones estan jugant</item>
         <item quantity="one">%1$d persona està jugant</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Desinstal·leu %2$d jocs (inclosos %1$s)</item>
+        <item quantity="one">Desinstal·leu el joc %2$d (inclòs %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Va guardar %d enregistraments de l\'AI a Game Turbo</item>
+        <item quantity="one">S\'ha desat %d enregistrament AI a Game Turbo</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d seg</item>
         <item quantity="one">%d seg</item>
@@ -199,6 +231,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="install_game_count_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Podeu protegir %d articles</item>
+        <item quantity="one">Podeu protegir %d ítem</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s hores</item>
@@ -292,9 +328,21 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%d aplicacions bloquejades</item>
         <item quantity="one">%d aplicació bloquejada</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">%d aplicació</item>
+    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d aplicacions estan drenant la bateria</item>
         <item quantity="one">%d aplicació està drenant la bateria</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" hores"</item>
+        <item quantity="one">" hora"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" mins"</item>
+        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dies</item>
@@ -384,6 +432,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">%s minuts restants</item>
         <item quantity="one">%s minut restant</item>
     </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Ho tinc (%d)</item>
+        <item quantity="one">Ho tinc (%d)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
+        <item quantity="one">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d icones d\'aplicacions ocultes</item>
         <item quantity="one">%d icona d\'aplicació oculta</item>
@@ -391,6 +447,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">"%d icones d'aplicacions no estan ocultes"</item>
         <item quantity="one">"%d icona d'aplicació no està oculta"</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s aplicacions tenen accés permanent</item>
+        <item quantity="one">%s aplicació %s té accés permanent</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s vegades</item>
+        <item quantity="one">%s temps</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemes de bateria</item>

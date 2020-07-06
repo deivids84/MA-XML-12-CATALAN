@@ -27,6 +27,11 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="accessibility_all_app_custom_category_finish">Fet</string>
+  <string name="accessibility_all_app_custom_category_item_remove">Elimineu \"%1$s\" de les categories</string>
+  <string name="accessibility_clear_search_bar_text">Esborra la barra de cerca</string>
+  <string name="accessibility_enter_all_app_mode">Obriu el calaix de l\'aplicació</string>
+  <string name="accessibility_enter_all_app_settings">Obre la configuració del calaix de l\'aplicació</string>
   <string name="accessibility_menu_item_smallwindow_disable">"Aquesta aplicació no és compatible amb les finestres flotants"</string>
   <string name="accessibility_menu_item_smallwindow_enable">Aquesta aplicació és compatible amb les finestres flotants</string>
   <string name="accessibility_menu_item_split_disable">"L’aplicació no és compatible amb la Pantalla dividida."</string>
@@ -54,14 +59,17 @@
   <string name="all_app_category_knowledge_education">Coneixement i Educació</string>
   <string name="all_app_category_lifestyle">Estil de vida</string>
   <string name="all_app_category_news_reading">Notícies i Lectura</string>
+  <string name="all_app_category_personal">Personal</string>
   <string name="all_app_category_personalization">Personalització</string>
   <string name="all_app_category_photography">Fotografia</string>
   <string name="all_app_category_shopping">Compres</string>
   <string name="all_app_category_tools">Eines</string>
+  <string name="all_app_category_work">Treball</string>
   <string name="all_apps">Totes les aplicacions</string>
   <string name="all_apps_no_search_results">"No s'han pogut trobar resultats"</string>
   <string name="all_apps_search_app">Cerca aplicacions</string>
   <string name="all_apps_search_market_message">Cerca en línia</string>
+  <string name="all_apps_setting_classic_title">Clàssic</string>
   <string name="all_apps_setting_desktop_desc">"Mostra totes les aplicacions instal·lades a la pantalla d'inici. Manteniu premuda la icona d’una aplicació per veure les dreceres disponibles, gestionar o desinstal·lar l’aplicació."</string>
   <string name="all_apps_setting_desktop_title">Normal</string>
   <string name="all_apps_setting_drawer_desc">"Col·loca totes les aplicacions instal·lades al Calaix d'aplicacions que es pot obrir lliscant amunt a la Pantalla d'inici. També podreu trobar les aplicacions que heu mogut a la Pantalla d'inici al Calaix d'aplicacions."</string>
@@ -142,6 +150,7 @@
   <string name="auto_add_app_shortcut">Col·loca les aplicacions noves a la Pantalla d\'inici</string>
   <string name="auto_delete_category_dialog_content">Les aplicacions actuals s\'eliminaran d\'aquesta categoria i se suprimirà la categoria. Voleu suprimir aquesta categoria?</string>
   <string name="auto_delete_category_dialog_title">Supressió de la categoria</string>
+  <string name="back">esquena</string>
   <string name="backup_fail">"No s'ha pogut crear la còpia de seguretat del llançador"</string>
   <string name="bad_wallpaper_source_prompt">"No es pot carregar el fons de pantalla"</string>
   <string name="buffering">S\'està omplint la memòria intermèdia&#8230;</string>
@@ -166,6 +175,10 @@
   <string name="choose_wallpaper">Trieu un fons de pantalla</string>
   <string name="chooser_wallpaper">Trieu un fons de pantalla nou</string>
   <string name="cloud_app_restore_title">Pendent</string>
+  <string name="common_home_search_delete">S\'està suprimint la barra de cerca</string>
+  <string name="common_home_search_delete_cancle">Cancel · lar</string>
+  <string name="common_home_search_delete_confirm">Elimina</string>
+  <string name="common_home_search_delete_content">"No podreu fer servir la cerca ràpida un cop hàgiu suprimit la barra de cerca de la pantalla d'inici. Vols suprimir-la de totes maneres?"</string>
   <string name="configure_wallpaper">Configuració</string>
   <string name="confirm_btn_label">D\'acord</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Les aplicacions duals es desinstal·laran juntament amb aquestes.</string>
@@ -307,13 +320,13 @@
   <string name="invalid_contact_shortcut">El contacte no és vàlid</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="is_system_wallpaper_message">"No es poden eliminar els recursos del sistema"</string>
-  <string name="launcher_global_search_mode_title">Cerca global</string>
-  <string name="launcher_global_search_provider_title">Proveïdor de cerques global</string>
   <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
   <string name="launcher_pull_down_title">Llisqueu avall a la Pantalla d\'inici</string>
+  <string name="launcher_search_bar_provider_title">Proveïdor de barres de cerca</string>
   <string name="launcher_search_bar_title">Barra de cerca de la pantalla d\'inici</string>
   <string name="launcher_search_bar_value_disable">Desactivat</string>
   <string name="launcher_search_bar_value_enable">Activat</string>
+  <string name="launcher_slide_up_search_provider_title">Feu lliscar el proveïdor de cerca</string>
   <string name="launcher_slide_up_title">Llisqueu amunt a la Pantalla d\'inici</string>
   <string name="launcher_sliding_up_gesture">Llisqueu amunt a la Pantalla d\'inici per obrir la cerca</string>
   <string name="launcher_title">Pantalla d\'inici i recents</string>
@@ -501,7 +514,9 @@
   <string name="sort_by_not_defined">Ordena automàticament</string>
   <string name="start_activity_failed">"No es pot iniciar el llançador"</string>
   <string name="starting_preset_app">S\'està iniciant&#8230;</string>
-  <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
+  <string name="status_bar_recent_memory_giga">%1$s GB</string>
+  <string name="status_bar_recent_memory_info1">%1$s de %2$s disponible</string>
+  <string name="status_bar_recent_memory_mega">%1$s MB</string>
   <string name="status_downloaded">Baixat</string>
   <string name="status_downloading">S\'està baixant</string>
   <string name="status_installing">S\'està instal·lant</string>
@@ -538,6 +553,8 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstal·lació de l\'aplicació duplicada \"%s\"</string>
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="unnamed_folder_name">Carpeta</string>
+  <string name="unstable_dialog_message">Aquest dispositiu està inscrit al programa de visualització prèvia per a desenvolupadors d\'Android 11. El programa permet als desenvolupadors i entusiastes d\'Android provar versions anteriors a Android 11. Aquesta versió prèvia a la publicació pot contenir errors i defectes que puguin afectar el funcionament normal del dispositiu.</string>
+  <string name="unstable_dialog_title">Programa de visualització prèvia per a desenvolupadors d\'Android</string>
   <string name="v7_preference_off">DESACTIVAT</string>
   <string name="v7_preference_on">ACTIVAT</string>
   <string name="wallpaper">Fons de pantalla</string>
@@ -554,4 +571,7 @@
   <string name="widget_global_search">Cerca</string>
   <string name="widget_quick_function">Funcions ràpides</string>
   <string name="widgets_preview_title">Afegeix el giny</string>
+  <string name="work_mode_off_label">"Les notificacions estan desactivades i les aplicacions no estan disponibles ara"</string>
+  <string name="work_mode_on_label">Administrat per la vostra organització</string>
+  <string name="work_profile_toggle_label">Perfil del treball</string>
 </resources>

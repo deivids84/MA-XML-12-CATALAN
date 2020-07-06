@@ -41,7 +41,7 @@
   <string name="account_user_birthday">Aniversari</string>
   <string name="account_user_details">Informació personal</string>
   <string name="account_user_email">Correu de recuperació</string>
-  <string name="account_user_gender">Gènere</string>
+  <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">Identificador del Compte Mi</string>
   <string name="account_user_name">Sobrenom</string>
   <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
@@ -81,6 +81,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="goto_sign_up">Crea un compte</string>
   <string name="hybrid_provider">Proporcionat per %1$s</string>
+  <string name="i_know">D\'acord</string>
   <string name="identity">Identificació</string>
   <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
   <string name="input_email_address_notice">"Utilitzarem aquest correu per verificar el vostre compte"</string>
@@ -300,6 +301,8 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_paytool_msp_not_installed">No teniu instal·lat el connector de seguretat mòbil %1$s, voleu instal·lar-lo ara?</string>
   <string name="mibi_paytool_paypal">PayPal</string>
   <string name="mibi_paytool_wechat_return_cancel">Cancel·la la devolució de WeChat</string>
+  <string name="mibi_permanently_denied_perm_camera">Permet que la càmera de la configuració utilitzi les funcions.</string>
+  <string name="mibi_permanently_denied_perm_send_sms">Permet enviar missatges SMS a Configuració per utilitzar les funcions.</string>
   <string name="mibi_prepaid_card_order_info">%1$s targeta de recàrrega: %2$s€</string>
   <string name="mibi_prepaid_carriers_picker_hint">Seleccioneu l\'operadora</string>
   <string name="mibi_prepaid_edit_limit">dígits</string>
@@ -410,6 +413,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="no_network">"No es pot connectar a la xarxa"</string>
   <string name="no_phone">No hi ha número de telèfon</string>
   <string name="ok">D\'acord</string>
+  <string name="open_settings">Vés a la configuració</string>
   <string name="passport_access_denied">S\'ha denegat l\'accés</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">"Compte: %1$s"</string>
@@ -508,6 +512,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="psw_hint">Contrasenya</string>
   <string name="psw_sign_in">Inicieu la sessió utilitzant la contrasenya</string>
+  <string name="request_camera_permission_message">Aquest servei ha de demanar el vostre permís a continuació, complirem estrictament les lleis pertinents per protegir la vostra informació personal: &lt;br&gt;&lt;br&gt;&lt;b&gt; Càmera d’accés: experimenteu serveis de gravació en temps real per configurar Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Si no esteu d’acord a trucar als permisos anteriors. , aquesta funció no funcionarà correctament, però no afectarà l’ús de les funcions bàsiques d’aquesta aplicació. Podeu optar per desactivar la trucada de permís anterior a la configuració del sistema per retirar el vostre consentiment.</string>
   <string name="resend_active_email">Reenvia</string>
   <string name="resend_email_reach_limit_message">"Heu sol·licitat massa correus de verificació. Assegureu-vos que el correu de verificació no estigui a la carpeta de correu brossa de la safata d'entrada."</string>
   <string name="resend_email_reach_limit_title">Massa intents</string>

@@ -62,6 +62,10 @@
   <string name="alert_weather_enable_settings_title">Avisos meteorològics</string>
   <string name="already_voted_toast">"Ja heu votat avui"</string>
   <string name="app_name">El temps</string>
+  <string name="aqi_15_days_desc">Previsió IQA de 15 dies</string>
+  <string name="aqi_24_hours_desc">Previsió IQA de 24 hores</string>
+  <string name="aqi_48_hours_desc">Previsió IQA de 48 hores</string>
+  <string name="aqi_5_days_desc">Previsió IQA de 5 dies</string>
   <string name="aqi_data_source">Desenvolupat per Colorful Clouds</string>
   <string name="aqi_desc">Índex de qualitat de l\'aire</string>
   <string name="aqi_detail_24_hours">Previsió 24 hores</string>
@@ -129,7 +133,6 @@
   <string name="daily_forecast_no_data">"No s'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
   <string name="data_provided_by">Dades subministrades parcialment per</string>
-  <string name="dislike_alert_dialog_title">Per què no voleu veure aquest contingut?</string>
   <string name="edit_city">Gestiona les ciutats</string>
   <string name="empty_view_net_loading">S\'està actualitzant…</string>
   <string name="empty_view_net_unavailable">"No s'ha pogut connectar a la xarxa"</string>
@@ -182,11 +185,12 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="feedback_sunny">Serè</string>
   <string name="first_start_network_title">Connexió a Internet i accés a la ubicació</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
+  <string name="global_not_enable_warning">"No es pot utilitzar aquesta aplicació. No es va instal·lar des de les fonts oficials."</string>
   <string name="hourly_forcast_now">Ara</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">Previsió 24 hores</string>
   <string name="hourly_forecast_title_hourly_desc">Previsió per hores</string>
-  <string name="index_item_experience_now">Instal·la-ho ara</string>
+  <string name="index_item_experience_now">Instal·leu ara &gt;</string>
   <string name="index_item_install_now">Instal·la-ho ara</string>
   <string name="index_item_installing">S\'està instal·lant</string>
   <string name="indices_desc_humidity">Humitat %1$s%%</string>
@@ -310,7 +314,6 @@ Toqueu la pantalla per afegir o moure una ciutat manualment"</string>
   <string name="some_where_on_earth">En algun lloc de la Terra</string>
   <string name="sunrise">Sol ixent</string>
   <string name="sunset">Ocàs</string>
-  <string name="thanku_for_feedback">Gràcies pels comentaris, podeu tornar a obrir el vídeo del temps a la pàgina de configuració</string>
   <string name="title_share_link">Comparteix l\'URL</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Demà passat: %1$s</string>
   <string name="traffic_control_today_numbers">Avui: %1$s</string>
@@ -340,8 +343,11 @@ Toqueu la pantalla per afegir o moure una ciutat manualment"</string>
   <string name="warning_weather_day_and_night_settings_title">Resums diaris</string>
   <string name="weather_alert_channel_name">Alertes</string>
   <string name="weather_introduce">Sempre amb tu, amb pluja o sol.</string>
+  <string name="weather_main_aqi_desc">IQA</string>
+  <string name="weather_main_minute_hour">Precipitació de 2 hores</string>
   <string name="weather_permission_agree">Accepta</string>
   <string name="weather_service_channel_name">Serveis en segon pla</string>
+  <string name="widget_cta_not_agree">Toqueu per obtenir informació meteorològica</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_unit">%1$s km/h</string>
   <string name="xiaomi_weather_description_content">"El temps us proporciona informació meteorològica precisa. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d’aquestes funcions abans de desinstal·lar l’aplicació."</string>
