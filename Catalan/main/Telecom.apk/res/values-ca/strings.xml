@@ -41,7 +41,7 @@
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
   <string name="accessibility_wifi_three_bars">Tres barres de senyal Wi-Fi.</string>
   <string name="accessibility_wifi_two_bars">Dues barres de senyal Wi-Fi.</string>
-  <string name="accessibility_work_profile_app_description">Treball %s</string>
+  <string name="accessibility_work_profile_app_description">Feina %s</string>
   <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
   <string name="accessor_info_title">Aplicacions que comparteixen dades</string>
   <string name="accessor_no_description_text">No es proporciona cap descripció de l\'aplicació.</string>

@@ -385,7 +385,7 @@
   <string name="no_space_toast_when_click_widget">No hi ha prou espai en aquesta pàgina. Proveu d\'arrossegar aquest element a una pàgina diferent.</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="not_set">Sense especificar</string>
-  <string name="notification_installed">S\'ha instal·lat amb èxit</string>
+  <string name="notification_installed">S\'ha instal·lat correctament</string>
   <string name="notification_open_button">Obre</string>
   <string name="notification_reset_title">Les icones s\'han organitzat correctament</string>
   <string name="one_key_call_title">Toqueu per marcar</string>

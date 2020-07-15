@@ -128,8 +128,6 @@
   <string name="delete_files">Voleu eliminar %1$d fitxer(s)?</string>
   <string name="delete_folder">Eliminar aquesta carpeta?</string>
   <string name="delete_folders">Voleu eliminar %1$d carpetes?</string>
-  <string name="des_hide_pwd">Amaga la contrasenya</string>
-  <string name="des_show_pwd">Mostra la contrasenya</string>
   <string name="dialog_select_type">Triar tipus</string>
   <string name="dialog_type_audio">Àudio</string>
   <string name="dialog_type_image">Imatges</string>

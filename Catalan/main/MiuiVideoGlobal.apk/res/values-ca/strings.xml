@@ -90,7 +90,7 @@
   <string name="alert_dialog_download_prepare">S\'està preparant la baixada…</string>
   <string name="alert_dialog_download_progress">"Baixant l'aplicació: "</string>
   <string name="all">Mostrar tots</string>
-  <string name="app_name">El meu vídeo</string>
+  <string name="app_name">Mi Vídeo</string>
   <string name="auth_fail_warning">Sessió expirada. Inicieu la sessió de nou.</string>
   <string name="auto_play_next_off">La reproducció automàtica està desactivada</string>
   <string name="auto_play_next_on">La reproducció automàtica està activada</string>
@@ -177,7 +177,7 @@
   <string name="com_mixpanel_android_close">Tanca</string>
   <string name="com_mixpanel_android_done">Fet</string>
   <string name="com_mixpanel_android_notification_image">No es mostra la imatge</string>
-  <string name="com_permission_desc">"El meu vídeo no pot accedir als vídeos del vostre dispositiu. Permet l'accés a la configuració."</string>
+  <string name="com_permission_desc">"Mi Vídeo no pot accedir als vídeos del vostre dispositiu. Permeteu l'accés a la Configuració."</string>
   <string name="com_permission_title">Permisos necessaris</string>
   <string name="comment_model_add_comment">Afegeix un comentari</string>
   <string name="comment_model_bg_add_comment">Comparteix els teus pensaments amb la nostra comunitat</string>
@@ -290,7 +290,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="exo_track_surround_7_point_1">7.1 so envoltant</string>
   <string name="exo_track_unknown">Desconegut</string>
   <string name="explore">Descobrir</string>
-  <string name="explore_on_mi_video">Trobeu més informació sobre el meu vídeo</string>
+  <string name="explore_on_mi_video">Trobeu més informació a Mi Vídeo</string>
   <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
   <string name="failed_to_fetch_data">"No s'ha pogut carregar la informació."</string>
   <string name="failure">"No s'ha pogut descarregar"</string>
@@ -328,7 +328,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Càmera</string>
   <string name="gallery_folder_alias_download">Descàrregues</string>
-  <string name="gallery_folder_alias_mivideo">El meu vídeo</string>
+  <string name="gallery_folder_alias_mivideo">Mi Vídeo</string>
   <string name="gallery_folder_alias_mobileqq">Càmera de QQ</string>
   <string name="gallery_folder_alias_mobileqq_file">Fitxers QQ</string>
   <string name="gallery_folder_alias_pdd">Pinduoduo</string>
@@ -444,7 +444,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="loading">&lt;CDATA&gt;Un moment&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="local_play_tip">Reproducció de vídeo local</string>
   <string name="local_push_title">Popular avui en dia</string>
-  <string name="local_video_notification_btn">Mireu el meu vídeo</string>
+  <string name="local_video_notification_btn">Veure a Mi Vídeo</string>
   <string name="local_video_notification_title">S\'ha trobat un nou vídeo local</string>
   <string name="local_video_space">Ocupat: %s</string>
   <string name="lock_screen">Pantalla de bloqueig</string>
@@ -471,8 +471,8 @@ Envieu aquest codi al supervisor."</string>
   <string name="lv_app_check_failed">"No s'ha pogut verificar el paquet d'instal·lació"</string>
   <string name="lv_app_click_to_install">Toqueu per actualitzar</string>
   <string name="lv_app_download_failed">"No s'ha pogut descarregar el paquet d'instal·lació, torna-ho a provar."</string>
-  <string name="lv_app_downloaded">S\'ha baixat correctament el meu vídeo</string>
-  <string name="lv_app_downloading">S\'està baixant el meu vídeo…</string>
+  <string name="lv_app_downloaded">S\'ha baixat Mi Vídeo correctament</string>
+  <string name="lv_app_downloading">S\'està baixant Mi Vídeo…</string>
   <string name="lv_audio_changed">Nova pista d’àudio</string>
   <string name="lv_audio_title">Pista d\'àudio</string>
   <string name="lv_audio_track">Pista d\'àudio</string>
@@ -515,7 +515,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="lv_mplayer_error_malformed">El fitxer multimèdia no és vàlid</string>
   <string name="lv_mplayer_error_server_died">Error del servidor multimèdia</string>
   <string name="lv_mplayer_error_timed_out">La sol·licitud ha transcorregut el temps</string>
-  <string name="lv_ready_to_install">El meu vídeo està a punt per instal·lar</string>
+  <string name="lv_ready_to_install">Mi Vídeo està a punt per instal·lar</string>
   <string name="lv_screen_shot_failure">"No s'ha pogut fer cap captura de pantalla, prova de nou."</string>
   <string name="lv_screen_shot_failure_tips">Actualitza Mi Video per realitzar captures de pantalla</string>
   <string name="lv_screen_shot_success">Va prendre una captura de pantalla correctament</string>
@@ -570,7 +570,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="lv_video_null">No hi ha vídeos</string>
   <string name="lv_volume">Volum</string>
   <string name="manage">Gestiona</string>
-  <string name="mi_video">El meu vídeo</string>
+  <string name="mi_video">Mi Vídeo</string>
   <string name="mnc_live_tv">TV en directe</string>
   <string name="moment_guide_desc">Utilitzeu els gestos per ampliar i reduir</string>
   <string name="moment_tab_all">Tots</string>
@@ -581,7 +581,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="moment_tab_sina_weibo">Weibo</string>
   <string name="moment_tab_video">Gravat</string>
   <string name="moment_tab_wechat">WeChat</string>
-  <string name="moment_tab_whatsapp">Què tal</string>
+  <string name="moment_tab_whatsapp">WhatsApp</string>
   <string name="moment_title_my_videos">Els meus vídeos</string>
   <string name="monday">Dilluns</string>
   <string name="month">mes</string>
@@ -826,11 +826,11 @@ update meu vídeo a la versió més recent en primer lloc."</string>
   <string name="passport_wrong_voice">El codi que heu introduït no és correcte</string>
   <string name="password_toggle_content_description">Activa/desactiva la visibilitat de la contrasenya</string>
   <string name="permission_continue">Continuar</string>
-  <string name="permission_info">"El meu vídeo necessita accedir al número IMEI del dispositiu per fer el següent:
+  <string name="permission_info">"Mi Vídeo necessita accedir al número IMEI del dispositiu per fer el següent:
  
-Personalitzeu millor els serveis per al vostre dispositiu;
-Incrementeu la seguretat del vostre compte."</string>
-  <string name="permission_info1">El meu vídeo necessita accedir al número IMEI del dispositiu per fer el següent:</string>
+Personalitzar millor els serveis per al vostre dispositiu;
+Incrementar la seguretat del vostre compte."</string>
+  <string name="permission_info1">Mi Vídeo necessita accedir al número IMEI del dispositiu per fer el següent:</string>
   <string name="permission_info2">Personalitzar millor els serveis per al dispositiu;</string>
   <string name="permission_info3">Augmenta la seguretat del teu compte.</string>
   <string name="permission_phone">Telèfon</string>
@@ -1106,7 +1106,7 @@ Incrementeu la seguretat del vostre compte."</string>
   <string name="t_lv_check_hide_file">Selecciona vídeos per amagar</string>
   <string name="t_lv_check_unhide_file">Seleccioneu els vídeos que vulgueu publicar</string>
   <string name="t_lv_downloading_new_version">S\'està baixant les actualitzacions…</string>
-  <string name="t_lv_no_new_version">El meu vídeo està actualitzat.</string>
+  <string name="t_lv_no_new_version">Mi Vídeo està actualitzat.</string>
   <string name="t_lv_password_limit">La contrasenya ha de tenir com a mínim 4 caràcters</string>
   <string name="t_lv_password_null">"La contrasenya no pot estar buida"</string>
   <string name="t_lv_password_wrong">La contrasenya és incorrecta. Torna-ho a provar.</string>
@@ -1153,7 +1153,7 @@ Incrementeu la seguretat del vostre compte."</string>
   <string name="user_avatar_uploading">Un moment…</string>
   <string name="user_id_hint">Correu/Telèfon/ID Compte Mi</string>
   <string name="v_agree">Acordar</string>
-  <string name="v_app_name">El meu vídeo</string>
+  <string name="v_app_name">Mi Vídeo</string>
   <string name="v_cancel">Cancel · lar</string>
   <string name="v_canceled">Cancel·lat</string>
   <string name="v_click_to_retry">Torna-ho a provar</string>

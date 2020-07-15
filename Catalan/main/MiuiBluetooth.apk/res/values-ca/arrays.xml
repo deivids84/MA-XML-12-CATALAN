@@ -17,6 +17,12 @@
         <item>Com a màxim 3 processos</item>
         <item>Com a màxim 4 processos</item>
     </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+        <item>Xiaomi Wear</item>
+    </string-array>
     <string-array name="ble_profile_mi_band">
         <item>Vibra quan soni</item>
         <item>Vibra quan es rebi un missatge</item>
@@ -87,8 +93,6 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Habilita els còdecs opcionals</item>
-        <item>Inhabilita els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (Per defecte)</item>
@@ -116,6 +120,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAPA 1.2 (Predeterminat)</item>
+        <item>MAPA 1.3</item>
+        <item>MAPA 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Inhabilitat</item>

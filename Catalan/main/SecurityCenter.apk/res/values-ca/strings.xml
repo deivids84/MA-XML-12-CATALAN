@@ -496,20 +496,20 @@
   <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
   <string name="applock_lock_all">Bloqueja-ho tot</string>
   <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
-  <string name="applock_not_add_account"><u>Ara no</u></string>
+  <string name="applock_not_add_account">&lt;u&gt;Ara no&lt;/u&gt;</string>
   <string name="applock_not_login_account">"No heu iniciat la sessió"</string>
   <string name="applock_set_password_title">Canvia el tipus de contrasenya</string>
   <string name="applock_settings_unlock_all_toast">S\'han desbloquejat totes les aplicacions</string>
   <string name="applock_toast_tip">S\'ha verificat correctament el blocador d\'aplicacions</string>
   <string name="applock_unlock_all">Desbloqueja-ho tot</string>
-  <string name="apps_item_sign_dialog_content">"La signatura de %s és diferent de la versió de l'App Store. Vols suprimir aquesta aplicació i instal·lar la versió oficial? Nota: instal·lar una aplicació amb una signatura conflictiva pot provocar la pèrdua de dades de l'aplicació."</string>
+  <string name="apps_item_sign_dialog_content">"La signatura de %s és diferent de la versió de l'App Store. Voleu suprimir aquesta aplicació i instal·lar la versió oficial? Nota: Instal·lar una aplicació amb una signatura conflictiva pot provocar la pèrdua de dades de l'aplicació."</string>
   <string name="apps_item_sign_dialog_title">Instal·la l\'aplicació oficial</string>
   <string name="apps_item_sign_install_button_text">Reemplaça</string>
   <string name="apps_item_sms_default_set_success">S\'ha establert amb èxit</string>
   <string name="apps_item_sms_reset_button_text">Restaura els paràmetres per defecte</string>
   <string name="apps_item_sms_title">Configuració de missatgeria per defecte</string>
   <string name="apps_item_summary_sms">%s té accés als seus missatges, pot causar problemes de seguretat</string>
-  <string name="apps_item_summary_system_rooted">S\'ha permès l\'accés administrador. Restaureu la configuració per defecte per evitar riscos de seguretat.</string>
+  <string name="apps_item_summary_system_rooted">S\'ha permès l\'accés de superusuari. Restaureu la configuració per defecte per evitar riscos de seguretat.</string>
   <string name="apps_item_summary_system_update">Alguns errors s\'han solucionat a la nova versió per fer que els pagaments siguin més segurs.</string>
   <string name="apps_item_title_system">Actualització del sistema</string>
   <string name="apps_item_virus_cleanup_success">S\'ha esborrat amb èxit</string>
@@ -557,7 +557,7 @@
   <string name="auto_task_manager_group_title">Les meves tasques automatitzades</string>
   <string name="auto_task_notify_do_task_title">S\'ha iniciat la tasca automatitzada</string>
   <string name="auto_task_notify_exit_task_title">S\'ha acabat la tasca automatitzada</string>
-  <string name="auto_task_notify_task_cancel_count_down">L\'acció automatitzada es cancel·larà en 5 segons</string>
+  <string name="auto_task_notify_task_cancel_count_down">L\'acció automatitzada es cancel·larà d\'aquí a 5 segons</string>
   <string name="auto_task_notify_task_cancel_do">Cancel·la l\'acció</string>
   <string name="auto_task_notify_task_canceled_summary">Podeu fer i rebre trucades</string>
   <string name="auto_task_notify_task_canceled_summary2">"Sembla que esteu jugant a un joc."</string>
@@ -596,10 +596,10 @@
   <string name="banner_optimizemanage_summary">Allibera memòria</string>
   <string name="banner_red_money_assist_button">Activa</string>
   <string name="banner_red_money_assist_summary">Obriu els sobres vermells més ràpidament</string>
-  <string name="battery_and_property">Pila</string>
+  <string name="battery_and_property">Bateria</string>
   <string name="battery_can_use_time">Resten %s</string>
   <string name="battery_capacity_title">Capacitat de la bateria</string>
-  <string name="battery_charge_estimating">S\'està calculant…</string>
+  <string name="battery_charge_estimating">Calculant</string>
   <string name="battery_charge_full">Carregat</string>
   <string name="battery_charging_prompt">S\'està carregant</string>
   <string name="battery_desc_ambient_display">Energia consumida per la pantalla ambiental</string>
@@ -610,7 +610,7 @@
   <string name="battery_desc_radio">Bateria utilitzada per la ràdio</string>
   <string name="battery_desc_standby">Bateria utilitzada quan el telèfon està inactiu</string>
   <string name="battery_desc_voice">Bateria utilitzada per les trucades de veu</string>
-  <string name="battery_desc_wifi">Bateria usada per Wi-Fi</string>
+  <string name="battery_desc_wifi">Bateria utilitzada per la Wi-Fi</string>
   <string name="battery_estimate_charge_time_title">Temps de càrrega</string>
   <string name="battery_estimate_usage_time_title">Temps d\'ús</string>
   <string name="battery_health_left_battery_text">Bateria restant</string>
@@ -653,8 +653,8 @@
   <string name="bl_no_block_call">No hi ha trucades bloquejades.</string>
   <string name="bl_no_block_sms">No hi ha missatges bloquejats.</string>
   <string name="blacklist_prefix_add_hint">Bloqueja tots els números que comencen amb aquest prefix</string>
-  <string name="block_message_number">Missatges: <font color="#5fab1b">%d</font></string>
-  <string name="block_phone_number">Trucades: <apli color="#5fab1b">%d</apli></string>
+  <string name="block_message_number">Missatges: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Trucades: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">S\'ha accelerat amb èxit</string>
   <string name="boost_stop">Desactiva l\'accelerador de velocitat</string>
   <string name="booster_immediately">Accelera</string>
@@ -736,7 +736,7 @@
   <string name="card_main_deepclean_summary">Suprimeix fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja profunda</string>
   <string name="card_main_deepclean_wechat_action">Esborra</string>
-  <string name="card_main_deepclean_wechat_summary">Esborrar la memòria cau del WeChat per alliberar espai</string>
+  <string name="card_main_deepclean_wechat_summary">Esborra la memòria cau del WeChat per alliberar espai</string>
   <string name="card_main_deepclean_wechat_title">Memòria cau del WeChat</string>
   <string name="card_main_deepclean_whatsapp_title">Netejador del WhatsApp</string>
   <string name="card_main_gamebooster_summary">Augmenta l\'estabilitat de la connexió dels jocs</string>
@@ -760,7 +760,7 @@
   <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
   <string name="card_main_xspace_title">Aplicacions duals</string>
   <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
-  <string name="cd_back">enrere</string>
+  <string name="cd_back">Enrere</string>
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
   <string name="charging_text_battery_perfect">Càrrega completa</string>
@@ -786,9 +786,9 @@
   <string name="confirm_prompt_all_permission">Demanar permisos per a totes les aplicacions?</string>
   <string name="confirm_reject_all_permission">Restringir a totes les aplicacions d\'utilitzar aquesta funció?</string>
   <string name="connect_internet_by_mobiledata">Connexió de dades mòbils</string>
-  <string name="connect_internet_by_usbshare">Internet compartit a través d\'USB</string>
+  <string name="connect_internet_by_usbshare">Internet compartit mitjançant l\'USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
-  <string name="connecting">S\'està connectant&#8230;</string>
+  <string name="connecting">S\'està connectant…</string>
   <string name="continue_install">Instal·la</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
   <string name="convenient_summary">Introduïu la contrasenya una vegada per desbloquejar totes les aplicacions</string>
@@ -806,10 +806,10 @@
   <string name="cta_close_dialog_title">Restringint l\'accés</string>
   <string name="cta_dialog_negative">Surt</string>
   <string name="cta_dialog_positive">D\'acord</string>
-  <string name="cta_dialog_title">Connexió a internet</string>
-  <string name="cta_main_purpose">Benvingut a Seguretat. Podeu utilitzar aquesta aplicació per alliberar espai d’emmagatzematge, escanejar el dispositiu de virus, controlar l’ús de la bateria, optimitzar el vostre dispositiu per a jocs, gestionar aplicacions, rebre avisos anticipats de terratrèmols i molt més.</string>
-  <string name="cta_settings">Permet la connexió a internet</string>
-  <string name="current_network_state_not_need_diagnose">La connexió a internet és normal.</string>
+  <string name="cta_dialog_title">Connexió a Internet</string>
+  <string name="cta_main_purpose">Us donem la benvinguda a Seguretat. Podeu utilitzar aquesta aplicació per alliberar espai d’emmagatzematge, escanejar el dispositiu de virus, controlar l’ús de la bateria, optimitzar el dispositiu pels jocs, gestionar les aplicacions, rebre avisos anticipats de terratrèmols i molt més.</string>
+  <string name="cta_settings">Permeteu la connexió a Internet i accedir a la ubicació</string>
+  <string name="current_network_state_not_need_diagnose">La connexió a Internet és normal.</string>
   <string name="customize_limit_pkg">%s (personalitzat)</string>
   <string name="customizer_mode_user_define_name">Les meves regles</string>
   <string name="daily_card_setting_fragment_daily_card_brand">Operador</string>
@@ -825,9 +825,9 @@
   <string name="daily_pkg_traffic">Límit màxim de dades</string>
   <string name="data_booster_desc">Desactiva altres ranures SIM per mantenir la connexió estable</string>
   <string name="data_booster_title">Estabilitza la connexió de dades</string>
-  <string name="data_network_blocked_notification_title">No hi ha connexió a internet</string>
+  <string name="data_network_blocked_notification_title">No hi ha connexió a Internet</string>
   <string name="data_usage_correction_timeout_title">S\'ha esgotat el temps per sincronitzar l\'ús de dades</string>
-  <string name="data_usage_disabled_dialog">"Ha arribat al límit d'ús de dades. L'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals"</string>
+  <string name="data_usage_disabled_dialog">"Heu arribat al límit d’ús de dades del vostre pla. Si supereu el límit, el seu operador podria cobrar-li càrrecs addicionals."</string>
   <string name="data_usage_disabled_dialog_enable">Activa les dades mòbils</string>
   <string name="data_usage_leisure_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
@@ -846,13 +846,13 @@
   <string name="databooster_tips_message">Activeu-ho per restringir totes les targetes SIM, excepte la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
   <string name="databooster_tips_title">Atenció</string>
   <string name="debug_open_final_tip">Vols activar la depuració USB?</string>
-  <string name="debug_open_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient per a usuaris en general. Si activeu la depuració USB, podríeu produir els canvis següents:</string>
+  <string name="debug_open_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient pels usuaris en general. Si activeu la depuració USB, podríeu provocar els canvis següents:</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
   <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
   <string name="deep_clean_never_memory_clean">Mai</string>
   <string name="deep_power_save_item_summary_auto_brightness">Ajusta la brillantor de pantalla automàticament per estalviar bateria</string>
-  <string name="deep_power_save_item_summary_bluetooth">Desactiva el Bluetooth per estalviar bateria</string>
+  <string name="deep_power_save_item_summary_bluetooth">Desactiveu el Bluetooth per estalviar bateria</string>
   <string name="deep_power_save_item_summary_lock_screen_time">Apaga la pantalla per estalviar bateria després de 30 segons d\'inactivitat</string>
   <string name="deep_power_save_item_title_auto_brightness">Activa la lluminositat automàtica</string>
   <string name="deep_power_save_item_title_bluetooth">Desactiva el Bluetooth</string>
@@ -872,23 +872,23 @@
   <string name="device_manager_apply_step_2">"En activar l’administrador del dispositiu per a aquesta aplicació pot comportar l’exposició de les vostres dades personals.
 Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de la pantalla de bloqueig."</string>
   <string name="device_manager_apply_step_3">Assegureu-vos de què enteneu tots els possibles riscos abans de continuar. Voleu activar l\'administrador del dispositiu per a aquesta aplicació?</string>
-  <string name="dialog_app_roaming_message">"%1$s no pot utilitzar dades mòbils en itinerància. Quan s'està en itinerància a l'estranger, només les aplicacions que has afegit a excepcions poden utilitzar dades mòbils."</string>
+  <string name="dialog_app_roaming_message">"%1$s no pot utilitzar les dades mòbils en itinerància. Quan estigueu en itinerància a l'estranger, només les aplicacions que heu afegit a les excepcions poden utilitzar les dades mòbils."</string>
   <string name="dialog_app_roaming_title">"La itinerància a l'estranger no està habilitada per a %1$s"</string>
   <string name="dialog_change_package_type_summary">Si modifiqueu el pla de dades es restaurarà la configuració del control de l\'ús de dades (per exemple, límit de dades) als seus valors per defecte. Voleu canviar ara el pla de dades?</string>
   <string name="dialog_change_package_type_title">S\'està canviant el tipus de pla de dades</string>
-  <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració i Aplicacions.</string>
+  <string name="dialog_msg_auto_start_declare">Algunes aplicacions poden indicar incorrectament que MIUI els ha impedit iniciar-se. Comproveu els permisos que s\'han concedit a les aplicacions individualment a Configuració &gt; Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'escaneig de seguretat abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
   <string name="dialog_restrict_all_mobile_summary">%s La connexió mòbil passarà a estar restringida per totes les aplicacions.</string>
   <string name="dialog_restrict_all_mobile_title">Restringeix la connexió de dades mobils %s</string>
-  <string name="dialog_restrict_all_wlan_summary">Després de tot això, es restringirà la connexió Wi-Fi per a totes les aplicacions.</string>
-  <string name="dialog_restrict_all_wlan_title">Restringiu la connexió Wi-Fi</string>
+  <string name="dialog_restrict_all_wlan_summary">Després d\'això, es restringirà la connexió Wi-Fi per a totes les aplicacions.</string>
+  <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
   <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
   <string name="dialog_roaming_title">Itinerància a l\'estranger</string>
   <string name="dialog_roaming_warning_checkbox">"No ho tornis a mostrar"</string>
-  <string name="dialog_roaming_warning_message">L\'operador us cobrarà una tarifa després d\'activar la itinerància de dades internacionals. Activar de totes maneres?</string>
+  <string name="dialog_roaming_warning_message">L\'operador us cobrarà una quota després d\'activar la itinerància de dades internacionals. Voleu activar-la de totes maneres?</string>
   <string name="dialog_roaming_warning_ok">Activa</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a l\'inici automàtic</string>
@@ -918,9 +918,10 @@ Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de
   <string name="dlg_import_blacklist">S\'està afegint…</string>
   <string name="dlg_import_whitelist">S\'està afegint…</string>
   <string name="dlg_keyword_ok">Desa</string>
-  <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració i Telèfon.</string>
+  <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració &gt; Telèfon.</string>
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
-  <string name="dlg_no_block">"Voleu desbloquejar aquest número de telèfon?\nS'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l'historial de trucades."</string>
+  <string name="dlg_no_block">"Voleu desbloquejar aquest número de telèfon?
+S'afegirà a les excepcions, però els elements bloquejats prèviament no apareixeran a l'historial de trucades."</string>
   <string name="dlg_no_block_ok">Desbloqueja</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
@@ -1785,7 +1786,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_optimize_manage_1">Potenciar la velocitat</string>
-  <string name="menu_text_power_manager">Pila</string>
+  <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_wh_remove">Suprimeix de les excepcions</string>
   <string name="menu_white">Afegeix a excepcions</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
@@ -2072,7 +2073,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="pc_search_keywords_battery_use">Ús de la bateria</string>
   <string name="pc_search_keywords_capacity">Capacitat de la bateria</string>
   <string name="pc_search_keywords_property">Rendiment</string>
-  <string name="pc_settings_title">Pila</string>
+  <string name="pc_settings_title">Bateria</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dmin restants</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dmin des de l\'última carrega</string>
   <string name="pc_statistics_battery_use_summary">%s des de l\'última carrega</string>
@@ -2202,7 +2203,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="power_center_super_save_title_text">Estalvi extrem de bateria</string>
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
   <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
-  <string name="power_center_title">Pila</string>
+  <string name="power_center_title">Bateria</string>
   <string name="power_consume_hardware_total_format">Maquinari: %s</string>
   <string name="power_consume_other">Un altre</string>
   <string name="power_consume_rank_hardware">Maquinari</string>

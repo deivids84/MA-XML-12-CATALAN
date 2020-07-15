@@ -40,11 +40,11 @@
   <string name="afternoon">Tarda</string>
   <string name="alarm_bar_title">Recordatori</string>
   <string name="alert_action_edit_anyway">Continua editant</string>
-  <string name="alert_message_delete">Voleu eliminar %1$s?</string>
-  <string name="alert_message_delete_note">Voleu eliminar aquesta nota?</string>
+  <string name="alert_message_delete">Voleu suprimir %1$s?</string>
+  <string name="alert_message_delete_note">Voleu suprimir aquesta nota?</string>
   <string name="alert_message_edit_anyway">Si editeu aquesta nota, alguns dels seus continguts es podrien perdre.</string>
   <string name="alert_message_restore">"No s'ha pogut obrir aquesta nota. Restaureu-la per editar-ne el contingut."</string>
-  <string name="alert_title_delete">Supressió de la nota</string>
+  <string name="alert_title_delete">Suprimeix la nota</string>
   <string name="alert_title_edit_anyway">Aquesta nota conté contingut no suportat</string>
   <string name="alert_title_hidden_note">S\'ha rebut un recordatori de nota oculta</string>
   <string name="alert_title_restore">Restauració de notes</string>

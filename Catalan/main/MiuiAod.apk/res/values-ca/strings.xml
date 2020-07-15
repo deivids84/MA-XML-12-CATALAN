@@ -166,6 +166,8 @@ meravellosa està a punt de passar"</string>
   <string name="summary">"Per reduir el consum d'energia, els elements no es mostraran quan el dispositiu estigui a les fosques durant molt de temps."</string>
   <string name="super_wallpaper_date">"EEaa
 dd/M"</string>
+  <string name="super_wallpaper_date_inter">"EEEE
+M / dd"</string>
   <string name="temporary_style">Durant 10 segons després de tocar-lo</string>
   <string name="text_color">Color del text</string>
   <string name="text_length_exceed_limit_alert">* El text que heu introduït és massa llarg</string>

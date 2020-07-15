@@ -15,6 +15,7 @@
   <string name="btn_wrong_md5">MD5 dolent, feu clic per suprimir la ROM!</string>
   <string name="btn_yes">Sí</string>
   <string name="channel_downloading">Baixada en curs</string>
+  <string name="channel_service">Servei de fons de l\'actualitzador</string>
   <string name="channel_update">Nova versió disponible</string>
   <string name="check_new_version">Comprova</string>
   <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
@@ -31,8 +32,8 @@
   <string name="downloading">S\'està baixant:</string>
   <string name="downloading_desc">Baixada en curs, comproveu l\'estat en l\'àrea de notificació.</string>
   <string name="fetching_data">S\'està obtenint l\'enllaç de baixada, espereu…</string>
-  <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: &lt;b&gt;%1$s&lt;/b&gt;"
-Les dades no s’esborraran."</string>
+  <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: &lt;b&gt;%1$s&lt;/b&gt;\"
+Les dades no s’esborraran.\"</string>
   <string name="install_title">Esteu segurs de continuar?</string>
   <string name="menu_title_current_version_log">Que hi ha de nou?</string>
   <string name="menu_title_pick_rom_file">Trieu el paquet d’actualització</string>
@@ -51,6 +52,8 @@ Les actualitzacions no estan disponibles per a vosaltres!"</string>
   <string name="notif_install">Instal·la</string>
   <string name="notif_new_summary">Toqueu per obtenir detalls</string>
   <string name="notif_new_title">Nova versió disponible!</string>
+  <string name="notif_service_summary">Manteniu inhabilitat la notificació de \"Servei de fons\".</string>
+  <string name="notif_service_title">Aplicació s\'està executant en segon pla…</string>
   <string name="notifications_switch">Mostra les notificacions</string>
   <string name="permdesc_cache_filesystem">Permet a l\'aplicació escriure arxius a /cache.</string>
   <string name="permdesc_reboot">Permet que l\'aplicació reiniciï el dispositiu.</string>
@@ -62,8 +65,8 @@ Les actualitzacions no estan disponibles per a vosaltres!"</string>
   <string name="server_error">El servidor no respon, pot ser que l\'aplicació no funcioni correctament!</string>
   <string name="share_desc">La vostra versió MIUI s\'ha actualitzat a %1$s, comproveu la llista de canvis a: %2$s</string>
   <string name="share_title">Comparteix amb</string>
-  <string name="stable">estable</string>
+  <string name="stable">Estable</string>
   <string name="version">Instal·lat actualment:</string>
-  <string name="weekly">setmanal</string>
+  <string name="weekly">Setmanalment</string>
   <string name="wifi_recommended">No hi ha connexió Wi-Fi per començar a baixar de manera segura!</string>
 </resources>

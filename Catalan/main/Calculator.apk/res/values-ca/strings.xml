@@ -29,7 +29,6 @@
   <string name="allow">D\'acord</string>
   <string name="angle">graus</string>
   <string name="app_name">Calculadora</string>
-  <string name="app_name_danfa">Calculadora Mi</string>
   <string name="app_notification_info">La calculadora està treballant en segon pla</string>
   <string name="base_rate">Taxa d\'interès base</string>
   <string name="bmi_error_text">"Aquest IMC no sembla correcte. Assegureu-vos que l'alçada i el pes que heu introduït són correctes."</string>
