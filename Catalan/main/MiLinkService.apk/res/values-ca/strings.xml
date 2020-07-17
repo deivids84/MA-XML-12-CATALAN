@@ -27,11 +27,15 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Redueix</string>
+  <string name="account_other">Altres</string>
   <string name="actionbar_button_up_description">Enrere</string>
   <string name="afternoon">pm</string>
   <string name="am">am</string>
   <string name="casting_tips">S\'està emetent…</string>
   <string name="clearable_edittext_clear_description">Neteja</string>
+  <string name="close_hotspot_hint">Apagueu el punt d\'accés portàtil abans d\'emetre</string>
+  <string name="close_slave_wifi_hint">Desconnecteu-vos de les xarxes Wi-Fi auxiliars abans d\'emetre</string>
+  <string name="close_slave_wifi_hint_china">Desconnecteu les xarxes WLAN auxiliars abans d\'emetre</string>
   <string name="console_guide_btn_got_it">Entesos</string>
   <string name="console_guide_subtitle_hang_up">Podeu continuar emetent amb la pantalla del dispositiu apagada. Aquesta característica disminueix el consum d\'energia.</string>
   <string name="console_guide_subtitle_private">"No mostris notificacions flotants, trucades entrants i altres elements privats en monitors externs"</string>
@@ -66,6 +70,7 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
   <string name="dialog_select_tv">Seleccioneu el dispositiu (%d)</string>
   <string name="dialog_show_help">Ajuda</string>
   <string name="disconnect">Atura l\'emissió</string>
+  <string name="enable_screen_projection_summary">Emet el contingut de la pantalla a un monitor extern</string>
   <string name="eras_ad">d.C.</string>
   <string name="eras_bc">a.C.</string>
   <string name="evening">pm</string>
@@ -202,6 +207,7 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
   <string name="help_page_text_55_global">"Si no us podeu connectar a la xarxa, assegureu-vos que el vostre monitor extern suporti la funcionalitat de Miracast i que estigui activada. En alguns models, aquesta funció s'anomena Pantalla sense fils, Screen Mirroring o Múltiples pantalles.
 4. Si teniu problemes, podeu informar-nos mitjançant l'aplicació \"Serveis i comentaris\"."</string>
   <string name="help_page_text_end">"Si la marca del vostre dispositiu no apareix aquí, poseu-vos en contacte amb el fabricant per obtenir més informació sobre les funcions d'emissió."</string>
+  <string name="keyguard_security_setting_privacy_policy">Política de privacitat</string>
   <string name="midnight">am</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol</string>
@@ -260,6 +266,7 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
   <string name="noon">pm</string>
   <string name="notification_rc_title">Assistent de TV XiaoMi</string>
   <string name="notification_show_more">Toqueu per veure més funcions</string>
+  <string name="open_game_accelerate">Activa Game Turbo</string>
   <string name="pm">pm</string>
   <string name="privacy_agree">D\'acord</string>
   <string name="privacy_detail">&lt;Data&gt;Aquesta aplicació necessita connectar-se a Internet i recopilar les dades personals necessàries per poder funcionar amb normalitat. Per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegim i acceptem el nostre &amp;lt;a href =%1$s&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
@@ -299,6 +306,25 @@ Llegiu i accepteu el nostre &amp;lt;a href=%1$s&amp;gt;Acord d’Usuari&amp;lt;/
   <string name="saturday">Dissabte</string>
   <string name="saturday_short">Dill</string>
   <string name="saturday_shortest">S</string>
+  <string name="screen_projection">Emet</string>
+  <string name="screen_projection_characteristics">Característiques especials</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Podeu continuar emetent la pantalla des del dispositiu. Aquesta característica redueix el consum d\'energia.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Emet amb la pantalla apagada</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"No mostreu notificacions flotants, trucades entrants i altres elements privats en monitors externs."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Oculta els elements privats</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Minimitza la finestra que s'està emetent per poder utilitzar altres funcions del vostre telèfon."</string>
+  <string name="screen_projection_characteristics_small_window_title">Minimitza la finestra</string>
+  <string name="screen_projection_example_document_summary">Mostra presentacions en un monitor extern mentre s’utilitza el telèfon per canviar de diapositives i veure notes. 
+Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</string>
+  <string name="screen_projection_example_document_title">Documents</string>
+  <string name="screen_projection_example_gallery_summary">Toqueu el botó Compartir sota d\'un element en l\'aplicació Galeria per mostrar-lo a un monitor extern.</string>
+  <string name="screen_projection_example_gallery_title">Fotos i vídeos</string>
+  <string name="screen_projection_example_game_summary">Game Turbo permet emetre jocs a un monitor extern. Utilitzeu la drecera a la caixa d’eines de Game Turbo per activar aquesta funció.</string>
+  <string name="screen_projection_example_game_title">Jocs</string>
+  <string name="screen_projection_help">Ajuda</string>
+  <string name="screen_projection_sample_summary">Emissió de documents, jocs, fotos i vídeos</string>
+  <string name="screen_projection_sample_title">Demostracions</string>
+  <string name="screen_projection_title">Emet</string>
   <string name="search_menu_title">Cerca</string>
   <string name="small_window">Minimitza la finestra</string>
   <string name="small_window_not_supported">"No puc minimitzar aquesta aplicació mentre s'està emetent"</string>

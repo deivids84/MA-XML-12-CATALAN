@@ -227,6 +227,10 @@
   <string name="app_behavior_location_bg">%1s ha accedit a la vostra ubicació en segon pla</string>
   <string name="app_behavior_location_bg_single">Aquesta aplicació ha accedit a la vostra ubicació en segon pla</string>
   <string name="app_behavior_location_single">Aquesta aplicació ha accedit a la vostra ubicació</string>
+  <string name="app_behavior_media_volume">%1s va ajustar el volum de mitjans</string>
+  <string name="app_behavior_media_volume_bg">%1s va ajustar el volum de mitjans en segon pla</string>
+  <string name="app_behavior_media_volume_bg_single">Aquesta aplicació va ajustar el volum de mitjans en segon pla</string>
+  <string name="app_behavior_media_volume_single">Aquesta aplicació va ajustar el volum de mitjans</string>
   <string name="app_behavior_menu_about">Quant als registres de comportament de les aplicacions</string>
   <string name="app_behavior_monitor_off">Desactivació de les notificacions</string>
   <string name="app_behavior_monitor_off_content">"No podreu rebre notificacions sobre accions delicades realitzades per aquesta aplicació. De totes maneres, voleu desactivar les notificacions?"</string>
@@ -2110,7 +2114,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="permission_action_foreground">Mentre s’utilitza l’aplicació</string>
   <string name="permission_action_prompt">Avisa\'m</string>
   <string name="permission_action_reject">Denegar</string>
-  <string name="permission_action_tag">Protecció de privadesa</string>
+  <string name="permission_action_tag">Protecció de la privadesa</string>
   <string name="permission_action_virtual">Torneu els missatges en blanc</string>
   <string name="permission_close_permission_control_dialog_msg">"Quan l'administrador de permisos està desactivat, les aplicacions no li demanaran permís per llegir els seus contactes, veure el seu registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos."</string>
   <string name="permission_close_permission_control_dialog_title">Apagar?</string>

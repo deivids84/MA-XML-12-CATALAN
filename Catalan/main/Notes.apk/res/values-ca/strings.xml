@@ -66,6 +66,7 @@
   <string name="check_in_todo_app">Mostra les tasques</string>
   <string name="clearable_edittext_clear_description">Neteja</string>
   <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar notes.</string>
+  <string name="cloud_service_state_open_reminder_note_and_todo">Activa la sincronització amb el núvol</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="confirm_cancel">"No hi estic d'acord"</string>
   <string name="confirm_ok">D\'acord</string>
@@ -76,6 +77,7 @@
   <string name="cta_dialog_message">Notes necessita permisos per connectar-se a Internet, gravar àudio i accedir als contactes per funcionar amb normalitat. Voleu permetre-ho?</string>
   <string name="cta_dialog_title">Permisos necessaris</string>
   <string name="cta_reminder">Notes necessita permisos per connectar-se a Internet, gravar àudio i accedir als contactes per funcionar amb normalitat. Voleu permetre-ho?</string>
+  <string name="cta_v2_agree_desc">Permeteu a aquesta aplicació connectar-se a Internet i concediu els permisos obligatoris enumerats anteriorment.</string>
   <string name="cta_v2_app_purpose">Creació, visualització i gestió de notes</string>
   <string name="cta_v2_app_purpose_v12">Benvingut a les notes! Podeu utilitzar aquesta aplicació per crear tasques i notes que continguin text, imatges i àudio.</string>
   <string name="data_empty_note">Encara no hi ha notes</string>
@@ -441,6 +443,10 @@
   <string name="sunday">Diumenge</string>
   <string name="sunday_short">Dg.</string>
   <string name="sunday_shortest">dg.</string>
+  <string name="sync_all_terms">%1$s, %2$s i %3$s</string>
+  <string name="sync_folder_todo">%1$s i %2$s</string>
+  <string name="sync_note_folder">%1$s i %2$s</string>
+  <string name="sync_note_todo">%1$s i %2$s</string>
   <string name="sync_tips">Toqueu per sincronitzar les notes amb Mi Cloud.</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
   <string name="the_anti_aggression_day">Dia de la no-agressió</string>

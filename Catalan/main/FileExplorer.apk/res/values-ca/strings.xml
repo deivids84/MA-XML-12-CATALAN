@@ -144,7 +144,6 @@
   <string name="doc_wps">WPS</string>
   <string name="doc_xls">XLS</string>
   <string name="downloading">S\'està baixant</string>
-  <string name="enable_documentsui">Primer activi %s a Configuració &gt; Aplicacions instal·lades</string>
   <string name="enable_sd_card">Inserir la targeta SD o desactivar l\'emmagatzematge massiu USB.</string>
   <string name="enable_usb">Connectar el dispositiu USB</string>
   <string name="encrypt_error">"No s'han pogut ocultar els fitxers, intenta de nou"</string>
@@ -284,7 +283,6 @@
   <string name="no_enough_storage_title">No hi ha espai suficient</string>
   <string name="no_file">Buit</string>
   <string name="no_wifi">No hi ha cap xarxa detectada</string>
-  <string name="not_installed_documentsui">DocumentsUI no està instal·lat</string>
   <string name="not_set">Sense especificar</string>
   <string name="not_support_documentui">"DocumentUI no és compatible amb aquest dispositiu"</string>
   <string name="notif_server_starting">Iniciant servidor FTP&#8230;</string>
@@ -381,7 +379,6 @@
   <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
   <string name="rlv_refreshing">S\'està actualitzant&#8230;</string>
   <string name="rlv_release_to_refresh">Deixeu anar per actualitzar</string>
-  <string name="save">Desa</string>
   <string name="search_app">Font</string>
   <string name="search_app_more">Més</string>
   <string name="search_description">Cerca tots els fitxers al dispositiu</string>
@@ -398,9 +395,6 @@
   <string name="search_menu_title">Cerca</string>
   <string name="search_result">Resultats</string>
   <string name="search_result_more">Més</string>
-  <string name="search_statistic_appname">origen</string>
-  <string name="search_statistic_keyword">clau</string>
-  <string name="search_statistic_tag">etiqueta</string>
   <string name="search_title">Cerca</string>
   <string name="search_title_hint">Cerca</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
@@ -448,7 +442,6 @@
   <string name="text_select_nothing">Desselecciona-ho tot</string>
   <string name="tip">Atenció</string>
   <string name="title_app_tags">Aplicacions</string>
-  <string name="title_enable_documentsui">Encendre DocumentsUI</string>
   <string name="title_expire_video">A punt d\'expirar</string>
   <string name="title_recent">Recents</string>
   <string name="title_select_volume">Seleccionar volum</string>

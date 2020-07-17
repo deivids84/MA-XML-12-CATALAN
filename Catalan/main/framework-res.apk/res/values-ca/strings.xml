@@ -446,8 +446,8 @@ utilitzat %s"</string>
   <string name="date_time_set">Estableix</string>
   <string name="day">dia</string>
   <string name="days">dies</string>
-  <string name="db_default_journal_mode">TRUNCAT</string>
-  <string name="db_default_sync_mode">COMPLETA</string>
+  <string name="db_default_journal_mode">PERSISTEIX</string>
+  <string name="db_default_sync_mode">NORMAL</string>
   <string name="db_wal_sync_mode">NORMAL</string>
   <string name="decline">Rebutja</string>
   <string name="decline_remote_bugreport_action">REBUTJA</string>

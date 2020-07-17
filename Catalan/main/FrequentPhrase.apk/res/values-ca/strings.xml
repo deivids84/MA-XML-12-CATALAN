@@ -7,7 +7,7 @@
   <string name="frequent_phrases_des">Introduïu frases habituals només amb unes poques pulsacions, mentre editeu text</string>
   <string name="frequent_phrases_size_exceeded">Només podeu afegir %1$d frases habituals. Elimineu les que no calguin per afegir-ne altres.</string>
   <string name="menu_add_frequent_phrases">Afegeix</string>
-  <string name="menu_delete">Elimina</string>
+  <string name="menu_delete">Suprimeix</string>
   <string name="menu_edit">Edita</string>
   <string name="sync_phrase_label">Frases habituals</string>
 </resources>

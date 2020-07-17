@@ -8,6 +8,10 @@
         <item quantity="other">Tornant a la pàgina principal en %1$d segons…</item>
         <item quantity="one">Tornant a la pàgina principal a %1$d segons…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d seguidors</item>
+        <item quantity="one">%d seguidor</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Els subtítols es mostraran %.1f segons abans</item>
         <item quantity="one">Els subtítols es mostraran %.1f segons abans</item>
@@ -23,6 +27,10 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">Falten %s s</item>
+        <item quantity="one">Falta %s s</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">El vostre contingut conté elements (%1$s) que incompleixen els nostres estàndards de la comunitat. El vostre compte està suspès durant %2$d dies fins el %3$s.</item>

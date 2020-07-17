@@ -56,6 +56,20 @@
         <item>Setmana</item>
         <item>Mes</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Dl, Dc, Dv</item>
+        <item>Dm, Dj, Ds</item>
+        <item>Dc, Dv, Dg</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Cada dilluns</item>
+        <item>Cada dimarts</item>
+        <item>Cada dimecres</item>
+        <item>Cada dijous</item>
+        <item>Cada divendres</item>
+        <item>Cada dissabtes</item>
+        <item>Cada diumenges</item>
+    </string-array>
     <string-array name="rh_blood_array">
         <item>Sense especificar</item>
         <item>Negatiu</item>

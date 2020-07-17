@@ -34,6 +34,7 @@
   <string name="actionbar_button_up_description">Enrere</string>
   <string name="activity_not_found">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="activity_not_found_uri">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
+  <string name="ad_close_button_text">Promoció</string>
   <string name="addBlackList">Bloqueja</string>
   <string name="add_attachment">Afegeix fitxers adjunts</string>
   <string name="add_contact">vCard</string>

@@ -34,6 +34,7 @@
   <string name="align_type">Alinea</string>
   <string name="always_style">Sempre</string>
   <string name="aod_close_color_inversion">"Aquesta funció no es pot combinar amb la inversió del color. Desactiveu primer la inversió de color."</string>
+  <string name="aod_component">Elements visualitzats</string>
   <string name="aod_lock_screen_date">EE, d MMMM</string>
   <string name="aod_lock_screen_date_12">EE, d MMMM</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
@@ -67,6 +68,12 @@ dd/MM"</string>
   <string name="clock_panel_icon">Esfera del rellotge</string>
   <string name="color_change_with_time_description">Canvia el color del text automàticament amb el pas del temps</string>
   <string name="color_change_with_time_title">Canvia de color automàticament</string>
+  <string name="component_battery">Bateria</string>
+  <string name="component_date_time">Data i hora</string>
+  <string name="component_lunar">Calendari xinès tradicional</string>
+  <string name="component_notification">Notificacions</string>
+  <string name="component_step">Passes</string>
+  <string name="continue_to_use">Continua</string>
   <string name="copy">Copia</string>
   <string name="custom_image">Imatge personalitzada</string>
   <string name="deep_space_planet">Espai exterior</string>
@@ -163,6 +170,9 @@ dd/MM"</string>
 meravellosa està a punt de passar"</string>
   <string name="standard_clock_panel">Estàndard</string>
   <string name="standard_style">Estàndard</string>
+  <string name="step_component_info_active_tip">Xiaomi Health proporciona el recompte de passes. Accepteu els termes i condicions de Xiaomi Health per continuar.</string>
+  <string name="step_component_info_desc">El recompte de passes es convertirà en un trofeu quan el vostre objectiu sigui assolit. Xiaomi Health proporciona el recompte de passes.</string>
+  <string name="step_component_info_tip">Xiaomi Health proporciona el recompte de passes. Instal·leu o actualitzeu Xiaomi Health i accepteu els seus termes i condicions per continuar.</string>
   <string name="summary">"Per reduir el consum d'energia, els elements no es mostraran quan el dispositiu estigui a les fosques durant molt de temps."</string>
   <string name="super_wallpaper_date">"EEaa
 dd/M"</string>

@@ -141,6 +141,10 @@
   <string name="install">Instal·la</string>
   <string name="install_scanner_to_continued_use">L’escàner s’ha desinstal·lat. Voleu instal·lar-lo de nou?</string>
   <string name="interest_rate_hint">Introduïu la taxa d\'interès</string>
+  <string name="investment_invalid_duration">La durada de la inversió ha de ser superior a zero</string>
+  <string name="investment_type_once">Un sol cop</string>
+  <string name="investment_type_recurring">Periòdic</string>
+  <string name="item_page_title_investment">Calculadora d\'inversions</string>
   <string name="item_title_aa_payment">Divideix la factura</string>
   <string name="item_title_age">Edat</string>
   <string name="item_title_area_conversion">Àrea</string>
@@ -151,6 +155,7 @@
   <string name="item_title_discount">Descompte</string>
   <string name="item_title_dress_size">Mida de la roba</string>
   <string name="item_title_emi">Calculadora de préstecs</string>
+  <string name="item_title_investment">Inversió</string>
   <string name="item_title_length_conversion">Longitud</string>
   <string name="item_title_loan">Préstec</string>
   <string name="item_title_mortgage">Préstec per a habitatge</string>
@@ -175,6 +180,7 @@
   <string name="label_from_date">Des de</string>
   <string name="label_history">Historial</string>
   <string name="label_interest">Interès (percentatge)</string>
+  <string name="label_investment_duration">Durada per defecte</string>
   <string name="label_loan_tenure">Tinença del préstec</string>
   <string name="label_months">Mesos</string>
   <string name="label_no_history">Encara no hi ha elements</string>
@@ -183,7 +189,9 @@
   <string name="label_statistics">Estadístiques</string>
   <string name="label_to_date">A</string>
   <string name="label_total_interest">Interès total</string>
+  <string name="label_total_investment">Inversió total</string>
   <string name="label_total_payment">Pagament total</string>
+  <string name="label_total_value">Valor total</string>
   <string name="label_years">Anys</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
   <string name="lg">log</string>
@@ -481,6 +489,9 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
   <string name="tuesday">Dimarts</string>
   <string name="tuesday_short">Dt.</string>
   <string name="tuesday_shortest">dt.</string>
+  <string name="tv_recurrence_monthly">Mensualment</string>
+  <string name="tv_recurrence_quaterly">Trimestral</string>
+  <string name="tv_recurrence_yearly">Anualment</string>
   <string name="unKnow_error">Error desconegut</string>
   <string name="unit_cm">Centímetres</string>
   <string name="unit_data_display_area_are">Àrea</string>

@@ -251,7 +251,7 @@
   <string name="monitor_low_miui">La versió MIUI és massa baixa</string>
   <string name="monitor_unsupport_device">El dispositiu actualment no és compatible</string>
   <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
-  <string name="my_document">el meu document</string>
+  <string name="my_document">Documents escanejats</string>
   <string name="name">Nom:</string>
   <string name="new_schedule">Crea un esdeveniment</string>
   <string name="newbuildfile">crear un fitxer nou</string>
@@ -423,6 +423,7 @@
   <string name="wx_not_installed_toast">Aquesta característica ha d’utilitzar WeChat. Instal·leu primer WeChat.</string>
   <string name="xiaoai_dialog">"Proveu de dir 
 vull escanejar a Mi AI"</string>
+  <string name="xiaoai_text">Botó d\'amor petit</string>
   <string name="you_have_permission_to_download">Toqueu per baixar la versió beta</string>
   <string name="you_id">"La vostra ID: "</string>
   <string name="your_application_is_under_review">" (La vostra sol·licitud s'està revisant.)"</string>

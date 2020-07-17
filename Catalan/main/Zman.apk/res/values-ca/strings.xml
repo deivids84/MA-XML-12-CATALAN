@@ -50,7 +50,7 @@
   <string name="once_settings_camera_ttile">Comparteix sense metadades</string>
   <string name="once_settings_location_title">Comparteix sense dades de localització</string>
   <string name="once_settings_subtitle">Com voldríeu compartir els elements seleccionats?</string>
-  <string name="once_settings_title">Protecció de privadesa</string>
+  <string name="once_settings_title">Protecció de la privadesa</string>
   <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="search_menu_title">Cerca</string>
   <string name="settings_camera_subtitle_no">Sense metadades</string>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara</item>
+        <item quantity="other">Ara</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
+    </plurals>
     <plurals name="comment_detail_title">
         <item quantity="other">%d respostes</item>
         <item quantity="one">%d resposta</item>
@@ -20,13 +56,37 @@
         <item quantity="other">%d raons seleccionades</item>
         <item quantity="one">%d raó seleccionada</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">%d vistes</item>
         <item quantity="one">%d vista</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 minut</item>
+    </plurals>
     <plurals name="info_flow_tips">
         <item quantity="other">S\'han trobat %d elements nous</item>
         <item quantity="one">S\'ha trobat %d element nou</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara</item>
+        <item quantity="other">Ara</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="one">Últims %d dies</item>
@@ -39,6 +99,10 @@
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Després de %d segons es crearà automàticament una pàgina nova</item>
         <item quantity="one">Després d\'%d segon es crearà automàticament una pàgina nova</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa 1 minut</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Reprodueix el vídeo en %1$d segons</item>

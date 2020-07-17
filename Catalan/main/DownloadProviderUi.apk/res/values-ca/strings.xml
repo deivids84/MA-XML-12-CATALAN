@@ -213,6 +213,7 @@
   <string name="info_flow_only_load_wifi">Només carrega el contingut mitjançant la WLAN</string>
   <string name="info_flow_setting">Configuració</string>
   <string name="info_flow_show">Fonts recomanades</string>
+  <string name="info_rank_show">Recomaneu articles populars</string>
   <string name="input_valid_address">Introdueix ruta de fitxer</string>
   <string name="install">Instal·la</string>
   <string name="install_failed">"%1$s no s'ha pogut instal·lar"</string>

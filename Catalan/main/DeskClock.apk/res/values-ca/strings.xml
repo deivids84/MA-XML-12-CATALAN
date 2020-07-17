@@ -57,6 +57,7 @@
   <string name="alarmclock_silent_hint">L\'alarma està silenciada</string>
   <string name="alert">To</string>
   <string name="alert_ringtone">To de l\'alarma</string>
+  <string name="alert_vibrate_enable_summary">Vibra quan s\'apagui l\'alarma</string>
   <string name="alert_volume">Volum del to</string>
   <string name="alert_volume_summary">Definiu el volum del to per a les alarmes i els temporitzadors</string>
   <string name="already_exist">Aquest temporitzador ja existeix</string>
@@ -306,6 +307,7 @@ El rellotge necessita connectar-se a internet per baixar l\'àudio. Abans d’ut
   <string name="ringtone_digital_timer">Temporitzador</string>
   <string name="ringtone_dream">Somia despert</string>
   <string name="ringtone_firefly">Cuques de llum</string>
+  <string name="ringtone_more">Altres raons</string>
   <string name="ringtone_other">Més tons</string>
   <string name="ringtone_weather">Alarma meteorològica</string>
   <string name="ringtone_week">Alarma de la natura</string>

@@ -145,6 +145,10 @@ Visiteu https://appleid.apple.com/#!&amp;pàgina = inicieu la sessió per desact
   <string name="dialog_tip_upgrade_title">Actualitza Mi Mover</string>
   <string name="dialog_version_summary_tip">"Que hi ha de nou:"</string>
   <string name="dialog_version_title_tip">Una actualització està disponible</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Entesos</string>
+  <string name="dialog_wechat_data_transfer_fail_message">"No s'han pogut transferir les dades de l'aplicació ni l'historial de xats del WeChat a causa de les restriccions de l'aplicació. Proveu la funció de còpia de seguretat de l'aplicació.
+Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de seguretat i migra els xats."</string>
+  <string name="dialog_wechat_data_transfer_fail_title">"No s'ha pogut transferir les dades de l'aplicació WeChat"</string>
   <string name="do_not_restore_temporarily">Ara no</string>
   <string name="document">Documents</string>
   <string name="early_morning">AM</string>
@@ -535,6 +539,7 @@ Les dades que no s’han importat s’han de tornar a importar."</string>
 Allibereu almenys %s."</string>
   <string name="scan_soft_ap_label">Connexió al nou dispositiu</string>
   <string name="scanner_bottom_tip">Seleccioneu només elements importants per fer la transferència més ràpida.</string>
+  <string name="scanner_not_support_data_transfer_tip">"No es poden transferir dades de l'aplicació (incloent l'historial de xats de WeChat i QQ) des de dispositius que no siguin de Xiaomi."</string>
   <string name="scanner_permission_alert_cancel">Ho tinc</string>
   <string name="scanner_permission_alert_ok">Configuració</string>
   <string name="scanner_quit_alert_btn_negative">Deixar</string>

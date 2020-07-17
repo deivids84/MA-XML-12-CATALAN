@@ -128,6 +128,10 @@
         <item quantity="other">En %1$d dies</item>
         <item quantity="one">En %1$d dia</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s tasques</item>
+        <item quantity="one">%1$s tasca</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d caràcters</item>
         <item quantity="one">%d caràcter</item>

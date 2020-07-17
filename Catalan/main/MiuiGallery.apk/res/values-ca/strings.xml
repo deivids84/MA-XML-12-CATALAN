@@ -275,6 +275,10 @@
   <string name="burst_save_choice_title" formatted="false">S\'han seleccionat %d de %d</string>
   <string name="burst_save_error_msg">"No s'ha pogut desar"</string>
   <string name="burst_save_processing">S\'està processant…</string>
+  <string name="burst_save_video">Desa com a vídeo</string>
+  <string name="burst_save_video_fail">"No s'ha pogut desar"</string>
+  <string name="burst_save_video_progerss">S\'està creant el vídeo…</string>
+  <string name="burst_save_video_title">Resolució del vídeo</string>
   <string name="buy_member_tip">Fer-se membre</string>
   <string name="by_email">Correu electrònic</string>
   <string name="by_others">Altres</string>
@@ -685,9 +689,12 @@ estan disponible"</string>
   <string name="file_cannot_print">"No es pot imprimir aquest element."</string>
   <string name="file_cannot_screen_throw">"No es pot emetre aquest element."</string>
   <string name="file_sending">S\'estan transferint els fitxers…</string>
+  <string name="filter_category_classic">Clàssic</string>
   <string name="filter_category_general">General</string>
   <string name="filter_category_master">Mestre</string>
   <string name="filter_category_movie">Pel·lícula</string>
+  <string name="filter_category_popular">Populars</string>
+  <string name="filter_category_portrait">Vertical</string>
   <string name="filter_category_sky">Cel</string>
   <string name="filter_general_blackice">Gel negre</string>
   <string name="filter_general_blackwhite">B/N</string>
@@ -726,7 +733,13 @@ estan disponible"</string>
   <string name="filter_movie_travel">Viatges</string>
   <string name="filter_movie_wonderful">Meravella</string>
   <string name="filter_original">Cap</string>
+  <string name="filter_popular_humanity">Documental</string>
+  <string name="filter_popular_lnk">Tinta</string>
+  <string name="filter_popular_purple">Porpra</string>
+  <string name="filter_portrait_greyish">Cendra</string>
   <string name="filter_portrait_hint">Enfocament del color</string>
+  <string name="filter_portrait_mist">Boira</string>
+  <string name="filter_portrait_painting">S\'està pintant</string>
   <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_bikong">Azur</string>
   <string name="filter_sky_clear_sky">Cel clar</string>
@@ -919,6 +932,7 @@ estan disponible"</string>
   <string name="loading_image_thumbnail">S\'està baixant la miniatura&#8230;</string>
   <string name="loading_members">S\'està carregant members026</string>
   <string name="loading_suspend">Baixada en pausa. Es reprendrà quan el Wi-Fi estigui disponible.</string>
+  <string name="loading_text_format" formatted="false">S\'està suprimint la informació privada de les fotos (%d/%d)…</string>
   <string name="loading_video">S\'està baixant el vídeo&#8230;</string>
   <string name="loading_video_compress_lib">S\'està baixant el complement de compressió de vídeo…</string>
   <string name="loading_video_fail_sync_without_network">Connecteu-vos a la xarxa per baixar les metadades</string>
@@ -1129,7 +1143,9 @@ per personalitzar la galeria"</string>
   <string name="onekey_food">Menjar</string>
   <string name="onekey_portrait">Vertical</string>
   <string name="onekey_scene">Horitzontal</string>
-  <string name="online_video_normal_transcoding">Aquest vídeo s\'està transcodificant ara. Espereu un minut o dos i torneu-ho a provar.</string>
+  <string name="online_video_error_unknown">S\'ha produït un error en la reproducció en línia. En el seu lloc, s\'ha baixat l\'element.</string>
+  <string name="online_video_error_unsupported_type">"El reproductor en línia no és compatible amb aquest format. En el seu lloc, s'ha baixat l'element."</string>
+  <string name="online_video_normal_transcoding">"El reproductor en línia encara no està preparat. En el seu lloc, s'ha baixat l'element."</string>
   <string name="online_video_vip_tip">Convertiu-vos en membre VIP per transmetre vídeos sense carregar-los completament</string>
   <string name="online_video_vip_transcoding">"A punt de començar la reproducció VIP…
 transcodificació pot trigar algun temps a utilitzar aquesta funció per primera vegada."</string>
@@ -1444,8 +1460,15 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
   <string name="screen_doodle_talkback_size">Amplada de la línia de doodle</string>
   <string name="screen_editor_btn_delete">Suprimeix</string>
   <string name="screen_editor_btn_save">Desa</string>
+  <string name="screen_editor_btn_shell_off">Suprimeix el marc del dispositiu</string>
+  <string name="screen_editor_btn_shell_on">Afegeix el marc de dispositiu</string>
+  <string name="screen_editor_crop_disallowed_with_shell">"No es poden retallar captures de pantalla amb el marc del dispositiu"</string>
   <string name="screen_editor_delete_dialog_msg">Voleu suprimir aquesta captura de pantalla?</string>
   <string name="screen_editor_finish">Fet</string>
+  <string name="screen_editor_shell_disallowed_with_crop">"No es pot afegir el marc del dispositiu a les captures de pantalla retallades"</string>
+  <string name="screen_editor_shell_net_error">Connecteu-vos a la xarxa per baixar el marc del dispositiu</string>
+  <string name="screen_editor_shell_res_downloading">S\'està baixant el marc del dispositiu…</string>
+  <string name="screen_editor_shell_storage_insufficient">"No es pot baixar el marc del dispositiu a causa de la falta d'espai d'emmagatzematge"</string>
   <string name="screen_save_dialog_btn_cancel">Cancel·la</string>
   <string name="screen_save_dialog_btn_delete">Suprimeix la captura de pantalla</string>
   <string name="screen_save_dialog_btn_save">Desa a la Galeria</string>
@@ -1523,7 +1546,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
   <string name="secret_reason_type_not_support">"Aquest tipus de fitxer no és compatible"</string>
   <string name="secret_reason_unknow_reasons">Error desconegut</string>
   <string name="secret_reason_video_not_support">"No es poden afegir vídeos a l'àlbum privat"</string>
-  <string name="security_share_subtitle_default">Protecció de privadesa</string>
+  <string name="security_share_subtitle_default">Protecció de la privadesa</string>
   <string name="security_share_subtitle_hide">La informació d\'ubicació s\'ha suprimit</string>
   <string name="security_share_subtitle_no_hide">Conté informació d\'ubicació</string>
   <string name="see_ignore_faces">"Veure les persones que heu ignorat"</string>
@@ -1625,6 +1648,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
   <string name="special_type_night_beauty">Retrat de baixa llum IA</string>
   <string name="special_type_night_mode">Mode nocturn IA</string>
   <string name="special_type_portrait">Retrat light painting IA</string>
+  <string name="special_type_real_8k">8K</string>
   <string name="special_type_wide_angle">Ultra gran angular IA</string>
   <string name="start_debug">Depuració de la galeria</string>
   <string name="start_to_use_face_albumset">Ordena per persones</string>
@@ -1759,6 +1783,8 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
   <string name="thursday">Dijous</string>
   <string name="thursday_short">Dj.</string>
   <string name="thursday_shortest">dj.</string>
+  <string name="time_burst_photo_enter">Presa en ràfega cronometrada</string>
+  <string name="time_burst_preview_title">Presa en ràfega cronometrada</string>
   <string name="time_picker_dialog_title">Establiu l\'hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
