@@ -83,6 +83,8 @@
   <string name="HIPS_Perm_get_tasks_Desc">obtenir tasques</string>
   <string name="HIPS_Perm_install_shortcut">Dreceres de la pantalla d\'inici</string>
   <string name="HIPS_Perm_install_shortcut_Desc">afegir dreceres a la pantalla d\'inici</string>
+  <string name="HIPS_Perm_mediaVolume">Ajusta el volum de multimèdia</string>
+  <string name="HIPS_Perm_mediaVolume_Desc">Permet que l\'aplicació ajusti el volum multimèdia</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">accedir al maquinari de comunicacions de camp proper (NFC)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Accedir a l\'aplicació Telèfon</string>
@@ -117,6 +119,10 @@
   <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació d\'aquest dispositiu. L’accés a la ubicació es pot modificar des de la configuració d’ubicació.</string>
   <string name="never_ask_again">"No ho tornis a preguntar després de restringir-ho"</string>
   <string name="ok">D\'acord</string>
+  <string name="perm_action_allow">Permet</string>
+  <string name="perm_action_deny">No ho permetis mai</string>
+  <string name="perm_modem_location">Accés a la vostra ubicació</string>
+  <string name="perm_modem_location_desc">El vostre operador intenta accedir a la informació de la ubicació. Voleu compartir la informació de la ubicació amb l\'operador?</string>
   <string name="permdesc_camera">Fer fotos i enregistrar vídeos</string>
   <string name="permdesc_in_calls">Monitorar les trucades entrants</string>
   <string name="permdesc_location">Accedir a la informació d’ubicació</string>

@@ -73,6 +73,7 @@
   <string name="ad_more">Més</string>
   <string name="add_to_trust_device">Aquest és un dispositiu de confiança</string>
   <string name="agree">D\'acord</string>
+  <string name="agree_and_continue">D\'acord</string>
   <string name="ai_animation_music_text">Banda sonora de AI</string>
   <string name="ai_music_save_cancel">Cancel · lar</string>
   <string name="ai_music_save_dialog_title">Desa</string>
@@ -109,6 +110,7 @@
   <string name="cast_expanded_controller_ad_image_description">Imatge mostrada mentre el receptor del repartiment reprodueix un anunci</string>
   <string name="cast_expanded_controller_ad_in_progress">Anunci en curs…</string>
   <string name="cast_expanded_controller_background_image">Àlbum art</string>
+  <string name="cast_expanded_controller_live_head_description">La posició actual es troba al capdavant de l\'emissió en directe</string>
   <string name="cast_expanded_controller_live_stream_indicator">Transmissió en directe</string>
   <string name="cast_expanded_controller_loading">S\'està carregant…</string>
   <string name="cast_expanded_controller_skip_ad_label">Saltar anunci</string>
@@ -116,6 +118,7 @@
   <string name="cast_forward">Endavant</string>
   <string name="cast_forward_10">Endavant deu segons</string>
   <string name="cast_forward_30">Endavant trenta segons</string>
+  <string name="cast_live_label">EN DIRECTE</string>
   <string name="cast_mute">Silenciar</string>
   <string name="cast_notification_connected_message">Connectat a %1$s</string>
   <string name="cast_notification_connecting_message">S\'està connectant a %1$s</string>
@@ -152,6 +155,12 @@
   <string name="cloud_online_switch_close_time">Podeu activar les recomanacions de contingut personalitzades en %s</string>
   <string name="cloud_online_switch_open_time">Mostra recomanacions personalitzades de contingut</string>
   <string name="collect_diagnosis_log">Recopila els registres</string>
+  <string name="columbus_player_close_desc">Perdreu la recompensa</string>
+  <string name="columbus_player_close_resume">REPRÈN EL VÍDEO</string>
+  <string name="columbus_player_close_title">Voleu tancar el vídeo?</string>
+  <string name="columbus_player_close_video">TANCA EL VÍDEO</string>
+  <string name="columbus_player_install_now">INSTAL·LA-HO ARA</string>
+  <string name="columbus_player_learn_more">Conegueu-ne més detalls</string>
   <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
   <string name="com_facebook_image_download_unknown_error">Error inesperat al baixar una imatge.</string>
   <string name="com_facebook_internet_permission_error_message">L\'inici de sessió al WebView requereix permís INTERNET</string>
@@ -226,6 +235,7 @@
   <string name="confirm_unbundled_phone_dialog_message">Aquest número de telèfon es va associar amb el compte Mi %2$s a %1$s. Si continueu, ja no s’associarà amb el compte Mi %3$s. Voleu continuar?</string>
   <string name="content">Contingut</string>
   <string name="content_can_not_null">"No es pot enviar cap comentari sense descripció."</string>
+  <string name="continue_play">Currículum</string>
   <string name="data_empty">No hi ha articles aquí</string>
   <string name="day">Una vegada al dia</string>
   <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
@@ -235,13 +245,15 @@
   <string name="diagnosis_log_sent_format">"Els registres s’han enviat correctament.
 ID: %s
 Envieu aquest codi al supervisor."</string>
-  <string name="dialog_privacy_info_new2">"Per utilitzar els seus serveis, heu d'autoritzar que %1$s reculli, processi i utilitzi la vostra informació personal. Es suposarà que heu llegit i consentiu amb la nostra &lt;a href=%2$s&gt;Política de Privadesa&lt;/a&gt; quan premeu \"D'acord\" a sota."</string>
+  <string name="dialog_privacy_info_new2">"Per poder utilitzar els seus serveis, heu d'autoritzar que %1$s reculli, processi i utilitzi la vostra informació personal. Se suposarà que heu llegit i acceptat la nostra &lt;a href=%2$s&gt;Política de Privadesa&lt;/a&gt; quan premeu \"D'acord\" a sota."</string>
+  <string name="dialog_privacy_info_new3">"Per poder utilitzar aquest servei, heu de permetre a %1$s recopilar, processar i utilitzar la vostra informació personal d’acord amb la Política de privadesa. En tocar \"D'acord\" a continuació, accepteu la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; i &lt;a href=%3$s&gt;l'Acord d'usuari&lt;/a&gt; de Xiaomi."</string>
   <string name="dialog_privacy_title">Autorització</string>
   <string name="dialog_revoke_privacy_info_new2">Després de revocar l’autorització, l’aplicació deixarà de recollir dades i totes les dades relacionades se suprimiran dels nostres servidors. Això podria fer que l’aplicació sigui pràcticament inutilitzable. Revocar l\'autorització?</string>
   <string name="dialog_revoke_privacy_title">Autorització de revocació</string>
   <string name="diy_channels_tips">Ja podeu personalitzar la llista dels vostres canals.</string>
   <string name="do_not_show_again">"No es torni a mostrar"</string>
   <string name="download">descarregar</string>
+  <string name="download_checking_tip">S\'està preparant la baixada…</string>
   <string name="download_complete">Baixada</string>
   <string name="download_delete_tip">Vols suprimir els elements seleccionats?</string>
   <string name="download_delete_title">Suprimeix</string>
@@ -251,6 +263,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="download_progress">%d%%</string>
   <string name="download_retry">Torna-ho a provar</string>
   <string name="download_space_info" formatted="false">%s, %s</string>
+  <string name="download_unable_tip">"No es pot baixar aquest element"</string>
   <string name="download_video">Baixant vídeo</string>
   <string name="downloading">S\'està baixant el…</string>
   <string name="empty_channels">Gestiona els canals</string>
@@ -317,6 +330,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="feedback_success_toast">S\'ha enviat correctament. Gràcies pels teus suggeriments!</string>
   <string name="feedback_tag_title">Categoria</string>
   <string name="feedback_text_empty_toast">Escriviu els vostres comentaris primer.</string>
+  <string name="file_cant_rename">El fitxer amb el nom %1$s ja existeix. Canvieu el nom</string>
   <string name="find_psw">Contrasenya oblidada</string>
   <string name="finish">Fet</string>
   <string name="for_diagnosis_usage_only">Els registres només s’utilitzen per als diagnòstics.</string>
@@ -343,11 +357,14 @@ Envieu aquest codi al supervisor."</string>
   <string name="gallery_folder_alias_youku_video">Youku</string>
   <string name="gallery_tab_all">Tots</string>
   <string name="gallery_tab_videos">Vídeos</string>
+  <string name="galleryplus_already_cloud_member">Utilitzant la subscripció VIP per reproduir-ho</string>
+  <string name="galleryplus_check_network">Configuració</string>
   <string name="galleryplus_chose_play_speed">Juga a %1$.1fX de velocitat</string>
   <string name="galleryplus_chose_play_speed_failure">"No s'ha pogut ajustar la velocitat de reproducció"</string>
   <string name="galleryplus_click_to_higher_definition">Toca dos cops per obrir una vista prèvia en alta definició</string>
   <string name="galleryplus_cta_tips">Podeu ajudar-nos a millorar els nostres serveis inscrivint-vos al Programa d’Experiència de l’Usuari i permetent que Mi Video es connecti a Internet. Acordar?</string>
   <string name="galleryplus_double_tap_to_higher_definition">Toca dues vegades una altra vegada per obrir la previsualització en alta definició d’HD</string>
+  <string name="galleryplus_fr_unsupport_restore_speed">Taxa de fotograma no compatible Tornat a la velocitat regular.</string>
   <string name="galleryplus_gallery_fold_tags">Amagar marques</string>
   <string name="galleryplus_gallery_video_adjust_hint">Només s’admeten vídeos 960fps</string>
   <string name="galleryplus_gallery_video_adjust_text">Ajustar</string>
@@ -367,6 +384,15 @@ Envieu aquest codi al supervisor."</string>
   <string name="galleryplus_gallery_video_slow_edit">Càmera lenta</string>
   <string name="galleryplus_gallery_view_tags">Mostra les marques</string>
   <string name="galleryplus_is_higher_definition">S\'ha obert la previsualització en HD</string>
+  <string name="galleryplus_network_connect_check">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="galleryplus_network_connect_confirm">Connecta’t a Wi-Fi o activa les dades mòbils a la configuració de la xarxa.</string>
+  <string name="galleryplus_network_error">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="galleryplus_network_not_wifi">L\'ús de dades per a mòbils per reproduir vídeos pot generar tarifes addicionals per als operadors</string>
+  <string name="galleryplus_online_cta">El meu vídeo necessita connectar-se a Internet per funcionar normalment. Acordar?</string>
+  <string name="galleryplus_online_cta_agree">D\'acord</string>
+  <string name="galleryplus_online_cta_disagree">"No estic d'acord"</string>
+  <string name="galleryplus_online_cta_title">Termes i condicions</string>
+  <string name="galleryplus_online_video_loading">Un moment…</string>
   <string name="galleryplus_permission_content">Doneu a Mi Video els permisos necessaris per poder utilitzar aquesta funció.</string>
   <string name="galleryplus_permission_content2">"Per poder utilitzar aquesta funció, aneu a Configuració &gt; Aplicacions &gt; Mi Video &gt; Permisos d'aplicacions i permetre a Mi Video fer el següent:
 
@@ -411,6 +437,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="get_ph_ticket">Obté el codi</string>
   <string name="get_phone_bind_exceed_limit">"Podeu associar fins a tres comptes Mi amb un número de telèfon. No es poden afegir comptes nous."</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
+  <string name="got_it">Entesos</string>
   <string name="goto_sign_up">Crea un compte</string>
   <string name="have_learned">Ho tinc</string>
   <string name="hidden_channels">"Els següents canals no es mostraran a la pàgina principal."</string>
@@ -548,7 +575,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="lv_subtitle_onlinesub_loading">S\'estan carregant subtítols…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">S\'estan carregant subtítols…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Renúncia</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Obteniu subtítols &lt;br/&gt;&lt;br/&gt;de &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tots els subtítols en línia els proporcionen &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Obteniu subtítols &lt;br/&gt;&lt;br/&gt;de &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tots els subtítols en línia són proporcionats per &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
   <string name="lv_subtitle_onlinesub_save_failed">"No s'ha pogut afegir subtítols"</string>
   <string name="lv_subtitle_onlinesub_save_success">S\'han afegit subtítols amb èxit</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Introduïu paraules clau per cercar</string>
@@ -570,6 +597,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="lv_video_null">No hi ha vídeos</string>
   <string name="lv_volume">Volum</string>
   <string name="manage">Gestiona</string>
+  <string name="mediation_ad_can_not_share">"No es pot compartir aquest vídeo"</string>
   <string name="mi_video">Mi Vídeo</string>
   <string name="mnc_live_tv">TV en directe</string>
   <string name="moment_guide_desc">Utilitzeu els gestos per ampliar i reduir</string>
@@ -619,6 +647,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="neverthink_player_loading">S\'està carregant el vídeo …desvetllar</string>
   <string name="new_channel_tip">Doneu un cop d\'ull als nous canals.</string>
   <string name="next">Pròxim</string>
+  <string name="next_step">Següent</string>
   <string name="nick_name">Sobrenom</string>
   <string name="no_account">No s\'ha iniciat la sessió</string>
   <string name="no_longer_prompt">"No es torni a mostrar"</string>
@@ -637,10 +666,11 @@ Envieu aquest codi al supervisor."</string>
   <string name="notice_message_title">Notificacions</string>
   <string name="notice_title">Missatges</string>
   <string name="notification_bar">Ombra de notificació</string>
+  <string name="notification_bar_player_subtitle">Mostra el jugador minimitzat a l\'ombra de notificació</string>
+  <string name="notification_bar_player_title">Minimitza el reproductor</string>
   <string name="notification_open_tip">Activa per rebre les notificacions</string>
   <string name="notify_apk_installed">S\'ha baixat correctament</string>
   <string name="ok">D\'acord</string>
-  <string name="order_alphabet">AZ</string>
   <string name="order_recently_subscribe">Subscripcions recents</string>
   <string name="order_recently_updated">Actualitzat recentment</string>
   <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>
@@ -810,8 +840,8 @@ update meu vídeo a la versió més recent en primer lloc."</string>
   <string name="passport_unknow_error">S\'ha produït un error desconegut</string>
   <string name="passport_unknow_host_network_error">Comproveu la configuració de la xarxa i torneu-ho a provar</string>
   <string name="passport_unknow_network_error">S\'ha produït un error de xarxa</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;He llegit i accepto &lt;a href=%1$s&gt;l'Acord d'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;la política de privadesa&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;He llegit i estic d’acord amb els documents següents: &lt;a href=%1$s&gt;Acord d'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;de Xiaomi.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link">"&lt;Data&gt;He llegit i accepto l'&lt;a href=%1$s&gt;Acord d'usuari&lt;/a&gt; i la &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data&gt;He llegit i estic d’acord amb els documents següents: &lt;a href=%1$s&gt;Acord d'Usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt; de Xiaomi.&lt;/Data&gt;"</string>
   <string name="passport_user_id_intro">Introduïu la contrasenya per a %1$s</string>
   <string name="passport_v_code_error">El codi de verificació és incorrecte</string>
   <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
@@ -843,6 +873,7 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
   <string name="phone_number">Número de telèfon</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
+  <string name="pip">PiP</string>
   <string name="playlist_detail_recomm_title">Llistes de reproducció recomanades</string>
   <string name="playlist_hot">Popular</string>
   <string name="playlist_new">Nou</string>
@@ -915,7 +946,7 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="plus_player_subtitle_local_add_success">S\'han afegit subtítols amb èxit</string>
   <string name="plus_player_subtitle_no_file">No hi ha subtítols aquí.</string>
   <string name="plus_player_subtitle_online">Subtítols en línia</string>
-  <string name="plus_player_subtitle_online_declare_content">"Esteu a punt de buscar &lt;br/&gt;subtítols a la base de dades &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; . &lt;br/&gt;Tots els subtítols els proporcionen &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+  <string name="plus_player_subtitle_online_declare_content">"Esteu a punt de buscar &lt;br/&gt;subtítols a la base de dades &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; . &lt;br/&gt;Tots els subtítols els proporcionen &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
   <string name="plus_player_subtitle_online_declare_title">Renúncia</string>
   <string name="plus_player_subtitle_online_download_fail">"No s'ha pogut descarregar els subtítols"</string>
   <string name="plus_player_subtitle_online_download_start">Baixant subtítols…</string>
@@ -1061,6 +1092,8 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="sns_bind_limit">Massa intents. Proveu altres maneres d’iniciar la sessió.</string>
   <string name="sns_sign_in">Altres maneres d’iniciar la sessió</string>
   <string name="source">"Font: "</string>
+  <string name="special_type_8k">IA 8K</string>
+  <string name="special_type_log">REGISTRE</string>
   <string name="srl_component_falsify" formatted="false">"%s falsejar àrea,
  Representa l'alçada[%.1fdp] d'arrossegament en temps d'execució,
  No mostra res."</string>
@@ -1128,6 +1161,8 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="ticket_hint">Codi de verificació</string>
   <string name="ticket_invalid">El codi que heu introduït no és correcte</string>
   <string name="ticket_sign_in">Inicieu la sessió mitjançant SMS</string>
+  <string name="tip_author_click">Toqueu per veure més vídeos d’aquest compte</string>
+  <string name="tip_topic_click">Toqueu per trobar més vídeos sobre aquest tema</string>
   <string name="title_publisher">Creadors</string>
   <string name="title_subscribe">Subscripcions</string>
   <string name="toast_no_data">"Aquest element no està disponible ara. Torna després."</string>
@@ -1183,6 +1218,7 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="video_live_over">Aquesta sessió s’ha acabat</string>
   <string name="video_noyet_download_tip">Aquest vídeo encara s\'està baixant</string>
   <string name="video_offline">Aquest element ja no està disponible</string>
+  <string name="view">Mostra</string>
   <string name="vp_VideoView_error_button">D\'acord</string>
   <string name="vp_VideoView_error_text_unknown">Hi ha hagut un error</string>
   <string name="vp_VideoView_error_title">Error desconegut</string>

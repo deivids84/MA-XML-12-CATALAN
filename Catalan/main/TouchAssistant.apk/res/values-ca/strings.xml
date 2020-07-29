@@ -80,6 +80,7 @@
   <string name="name_trans_cards">Targeta de transport</string>
   <string name="name_wechat_payment_code">Pagament WeChat</string>
   <string name="name_wechat_scan">Escàner WeChat</string>
+  <string name="name_xiao_ai">La meva AI</string>
   <string name="nfc_all_mipay_card_not_in_use">"El Mi Pay no està activat"</string>
   <string name="nfc_trans_card_not_in_use">"La targeta de transport no està activada"</string>
   <string name="not_set">Sense definir</string>

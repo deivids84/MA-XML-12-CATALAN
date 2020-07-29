@@ -60,6 +60,7 @@ per afegir targetes"</string>
   <string name="altitude">Altitud</string>
   <string name="altitude_range">Altitud</string>
   <string name="am">am</string>
+  <string name="app_setting">Aplicacions</string>
   <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
   <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
   <string name="audio_record_perm_description">Per enregistrar els roncs i converses mentre s’analitza el cicle del son</string>
@@ -165,9 +166,8 @@ per afegir targetes"</string>
   <string name="climbing">Escalada</string>
   <string name="close">Desactiva</string>
   <string name="close_once">Desactiva-ho una vegada</string>
-  <string name="close_stand_detection_tip">Activeu-ho per fer el seguiment i rebre recordatoris</string>
   <string name="close_stand_notice_and_detection_tip">Activeu els recordatoris</string>
-  <string name="close_stand_notice_tip">Comença el seguiment en aixecar-se</string>
+  <string name="close_stand_notice_tip">Comença el seguiment de quan esteu drets</string>
   <string name="collapse">Oculta</string>
   <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
   <string name="complete_preference_basic_info">Completeu el perfil</string>
@@ -479,6 +479,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="health_cloud_service">Serveis al núvol</string>
   <string name="health_data_cloud_sync_subtitle">Sincronitzeu les dades de salut amb el núvol i accediu-hi des de qualsevol dispositiu</string>
   <string name="health_data_cloud_sync_title">Sincronitza amb el núvol</string>
+  <string name="health_data_sync">Sincronitza les dades de Salut</string>
   <string name="health_score">Puntuació de salut</string>
   <string name="health_score_tips">La puntuació de salut es calcula en funció del vostre IMC (índex de massa corporal), així com dels vostres passos i son. Com més a prop estigueu d’aconseguir els vostres objectius, més alt serà la vostra puntuació de salut.</string>
   <string name="health_setting">Configuració de Salut</string>
@@ -617,6 +618,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol amb èxit</string>
   <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
+  <string name="miuix_appcompat_search_input_description">Cerca</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -716,7 +718,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="ok">D\'acord</string>
   <string name="open">Activa</string>
   <string name="open_data_sync_description">Activeu la sincronització amb el núvol per sincronitzar les dades de salut d\'altres fonts.</string>
-  <string name="open_stand_assistant">Toqueu per començar el seguiment en aixecar-se</string>
+  <string name="open_stand_assistant">Toca per començar el seguiment de quan esteu drets</string>
   <string name="open_swimming">Nedar amb aigües obertes</string>
   <string name="open_sync">Activa la sincronització</string>
   <string name="open_unrestricted_permissions">Per fer un seguiment amb més exactitud del son, permet que Xiaomi Health s\'executi sempre en segon pla.</string>
@@ -798,6 +800,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
   <string name="remind_query_menstruation_start">"Ha començat el vostre període? No oblideu enregistrar-ho."</string>
   <string name="remind_sleep_report_complete">Les estadístiques del son estan preparades</string>
   <string name="remind_sleep_report_content">Heu dormit %1$d hr(s) i %2$d min(s) aquesta nit. Toqueu per veure els detalls.</string>
+  <string name="remind_sleep_report_content_1">La passada nit heu dormit %1$d hr. Toqueu per veure els detalls.</string>
   <string name="remind_sleep_report_title">Les estadístiques del son estan preparades</string>
   <string name="remind_subtitle_menstruation_start">Rebre un recordatori 2 dies abans que comenci el període següent</string>
   <string name="remind_subtitle_record">Rebeu recordatoris quan hàgiu de registrar les dates d’inici i finalització dels vostres períodes</string>
@@ -1026,8 +1029,8 @@ les dades de son"</string>
   <string name="sport_type">Tipus d’entrenament</string>
   <string name="stand">De peu</string>
   <string name="stand_assistant">De peu</string>
-  <string name="stand_detection">Seguiment quan estigueu dempeus</string>
-  <string name="stand_guide_page_title1">Mantingueu-vos dempeus regularment per evitar els riscos del sedentarisme</string>
+  <string name="stand_detection">Seguiment quan estigueu drets</string>
+  <string name="stand_guide_page_title1">Mantingueu-vos dret regularment per evitar els riscos del sedentarisme</string>
   <string name="stand_guide_page_title2">Fer el seguiment, enregistrar i rebre recordatoris</string>
   <string name="stand_notice">Recorda\'m aixecar-me</string>
   <string name="stand_notice_subtitle1">"Sembla que no us heu aixecat entre %1$s i %2$s. Si ho heu fet, afegiu un registre manualment."</string>
@@ -1038,7 +1041,9 @@ les dades de son"</string>
   <string name="stand_notice_title4">Aixequeu-vos i feu una mica d\'estiraments</string>
   <string name="stand_notice_title5">"Sembla que no us heu aixecat durant la darrera hora"</string>
   <string name="stand_notice_title6">Us heu aixecat en l’última hora?</string>
+  <string name="stand_remind_setting_desc">Si no es detecta cap activitat de peu en una hora, envia una notificació per recordar-vos que us aixequeu</string>
   <string name="stand_setting">Configuració</string>
+  <string name="stand_stop_reminding">Atura la recepció de recordatoris d\'aixecar-vos</string>
   <string name="standard_format">(estàndard: %1s)</string>
   <string name="standing_already">" Us heu aixecat"</string>
   <string name="state_agree">D\'acord</string>
@@ -1068,6 +1073,7 @@ les dades de son"</string>
   <string name="sustain_title">"No us heu mogut durant "</string>
   <string name="swim">Natació</string>
   <string name="swim_type">Estil</string>
+  <string name="sync_health_data">Sincronitza les dades de Salut</string>
   <string name="sync_immediately">Sincronització</string>
   <string name="sync_is_not_closed">La sincronització està activada</string>
   <string name="sync_is_off">La sincronització està desactivada</string>
@@ -1078,8 +1084,12 @@ les dades de son"</string>
   <string name="sync_status_network_failure">"No s'ha pogut sincronitzar. Connecteu-vos a la xarxa i torneu-ho a provar."</string>
   <string name="sync_status_never_done">No està sincronitzat</string>
   <string name="sync_status_oauth_error">"No s'ha pogut sincronitzar les dades. Concediu els permisos necessaris primer."</string>
+  <string name="system_app_setting">Configuració de l\'aplicació del sistema</string>
   <string name="systolic_pressure">Sistòlica</string>
   <string name="tb_audio_progress_bar">Barra de reproducció d\'àudio</string>
+  <string name="tb_blood_pressure_day_chart">%1$s Pressió sistòlica més alta: %2$d mil·límetres de mercuri. Pressió diastòlica més baixa: %3$d mil·límetres de mercuri.</string>
+  <string name="tb_blood_pressure_item">%1$sPressió sistòlica: %2$d mil·límetre de mercuri. Pressió diastòlica: %3$d mil·límetres de mercuri.</string>
+  <string name="tb_blood_pressure_wm_card">Pressió sistòlica mitjana: %1$d mil·límetres de mercuri. Pressió diastòlica mitjana: %2$d mil·límetre de mercuri. Pressió sistòlica més alta: %3$d mil·límetres de mercuri. Pressió diastòlica més alta: %4$d mil·límetres de mercuri. Pressió sistòlica més baixa: %5$d mil·límetres de mercuri. Pressió diastòlica més baixa: %6$d mil·límetres de mercuri.</string>
   <string name="tb_card_on_using_list">Afegida</string>
   <string name="tb_click_finish_stand">"Sembla que no us heu aixecat durant la darrera hora. Si ho heu fet, afegiu un registre manualment."</string>
   <string name="tb_current_select">%1$s seleccionat actualment</string>

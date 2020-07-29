@@ -772,6 +772,11 @@
   <string name="choose_gs_show_way">Seleccioneu l\'orientació de la pàgina d\'inici</string>
   <string name="clean_immediately">Esborra</string>
   <string name="clean_master_icon_recall_button_text">Afegiu</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">No gràcies</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Afegiu</string>
+  <string name="clean_master_icon_recall_dialog_summary">Afegiu una drecera a la pantalla d\'inici per esborrar les escombraries en qualsevol moment.</string>
+  <string name="clean_master_icon_recall_dialog_title">Netegeu les escombraries més ràpidament</string>
+  <string name="clean_master_icon_recall_hint">Afegiu una drecera de la pantalla d\'inici</string>
   <string name="clean_master_icon_recall_summary">Afegiu una drecera a la pantalla d\'inici per esborrar les escombraries en qualsevol moment.</string>
   <string name="clean_master_icon_recall_title">Netegeu les escombraries més ràpidament</string>
   <string name="clean_master_icon_recall_toast_text">S\'ha afegit una drecera de la pantalla d\'inici per a Cleaner correctament</string>
@@ -1228,6 +1233,13 @@ targeta mèdica"</string>
   <string name="first_aid_scanning_item4">Cercant problemes de bateria…</string>
   <string name="first_aid_scanning_item5">S\'està comprovant si hi ha altres problemes…</string>
   <string name="first_aid_stop_scan">Atura l\'escaneig</string>
+  <string name="first_settings_default_camera_title">Compartir de manera predeterminada sense metadades</string>
+  <string name="first_settings_default_location_subtitle">Elimina la informació d\'ubicació de les fotos compartides</string>
+  <string name="first_settings_default_location_title">Compartir de manera predeterminada sense informació d’ubicació</string>
+  <string name="first_settings_share_enable">Afegiu la insígnia \"Compartint seguretat\"</string>
+  <string name="first_settings_share_enable_subtitle">Els elements que compartiu a WeChat apareixeran amb una insígnia MIUI</string>
+  <string name="first_settings_subtitle">A continuació, es mostren les opcions de compartició segures disponibles:</string>
+  <string name="first_settings_title">Protegeix la teva privadesa</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="fod_authentication_shift_button">Cancel·la</string>
   <string name="fod_button_finger">Utilitza l\'empremta</string>
@@ -1401,6 +1413,10 @@ targeta mèdica"</string>
   <string name="gb_game_video_type_manual_record">Grava manualment</string>
   <string name="gb_get_gift_right_now">Registra\'t ara</string>
   <string name="gb_global_settings">Configuració general</string>
+  <string name="gb_gpu_driver_btn_update">Buscar actualitzacions</string>
+  <string name="gb_gpu_driver_update">Actualitzador de controladors de GPU</string>
+  <string name="gb_gpu_driver_update_app">Actualitza</string>
+  <string name="gb_gpu_driver_update_app_tips">La versió actual està actualitzada</string>
   <string name="gb_have_signed">Registrat avui</string>
   <string name="gb_manual_record_dialog_del_video_message">Voleu suprimir els vídeos seleccionats de manera permanent?</string>
   <string name="gb_msg_completely_shielded">Amaga els missatges</string>
@@ -1448,7 +1464,7 @@ de les teves sessions de joc"</string>
   <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
-  <string name="gdpr_msg">&lt;Data&gt;\"Per utilitzar les característiques bàsiques de Seguretat, haureu d\'acceptar que Xiaomi recopili, processi i utilitzi les vostres dades personals, incloent-hi informació sobre les maneres d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre aplicacions malicioses, informació bàsica sobre el dispositiu) i altres tipus d\'informació que s\'especifiquen a la nostra &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
+  <string name="gdpr_msg">&lt;Data&gt;\"Per poder detectar els riscos de seguretat i protegir les vostres dades, hem de recopilar la informació necessària sobre el vostre dispositiu. Llegiu i accepteu el nostre &amp;lt;a href =\" https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt; abans d\'utilitzar els nostres serveis. En cas que no ens permeteu recopilar aquesta informació, podreu utilitzar aquesta aplicació, però algunes funcions no estaran disponibles per a vosaltres. \"&lt;/Data&gt;</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="global_wa_setting_alert_dialog_content">Podeu alliberar %s</string>
   <string name="global_wa_setting_alert_dialog_title">Netejador de WhatsApp</string>
@@ -1606,6 +1622,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
   <string name="list_empty_text">Buit</string>
   <string name="load_only_under_wlan">Carregant fent ús exclusiu de Wi-Fi</string>
   <string name="loading">Un moment…</string>
+  <string name="loading_text_format" formatted="false">Extracció d\'informació privada a partir de fotos (%d/%d)…</string>
   <string name="local_ip_exception_summary">"No s'ha pogut obtenir una adreça IP local. Per reportar a MIUI, aneu a l'aplicació Informar error i envieu registre des del dispositiu."</string>
   <string name="lock_all_title">Bloqueja totes les aplicacions</string>
   <string name="lock_mode_title">Configuració de bloqueig</string>
@@ -1729,7 +1746,8 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
   <string name="memory_check_content">Alliberats %s</string>
   <string name="memory_clean_memory_size_tip">Memòria Cau</string>
   <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Alliberat %s. Ara el dispositiu és %d%% més ràpid.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">"Alliberat %s.
+Ara el dispositiu és %d%% més ràpid."</string>
   <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_add">Afegeix</string>
@@ -1914,6 +1932,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="notification_channel_battery">Bateria</string>
   <string name="notification_exit_power_save_mode">S\'ha desactivat l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
+  <string name="notification_garbage_clean_botton_text">Clar</string>
+  <string name="notification_garbage_clean_hint">Netegeu l’espai d’emmagatzematge</string>
+  <string name="notification_garbage_clean_size">Allibera %s</string>
   <string name="notification_garbage_cleanup_summary">Netegeu la brossa (%s) per accelerar el dispositiu</string>
   <string name="notification_garbage_cleanup_title">Neteja els fitxers brossa</string>
   <string name="notification_low_battery_action_btn">Activa</string>
@@ -1925,6 +1946,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="notification_masked_item">Amaga les notificacions</string>
   <string name="notification_masked_subtitle">Amaga les notificacions d\'aplicacions protegides amb bloqueig de l\'aplicació</string>
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
+  <string name="notification_whatsapp_clean_button_text">Clar</string>
+  <string name="notification_whatsapp_clean_size">La memòria cau de WhatsApp va arribar al %s</string>
   <string name="notify_channel_mipush">Missatges push de seguretat</string>
   <string name="notify_channel_name_behavior">Historial de comportament</string>
   <string name="notify_channel_name_security">Seguretat del sistema</string>
@@ -1977,6 +2000,10 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="om_shortcut_added_toast_text">S\'ha afegit correctament</string>
   <string name="om_shortcut_dialog_summary">"RAM Jet permet esborrar memòria i augmentar la velocitat del dispositiu en un sol toc. Afegir RAM Jet a la pantalla d'inici?"</string>
   <string name="om_shortcut_dialog_title">Jet RAM</string>
+  <string name="once_settings_camera_ttile">Compartiu-les sense metadades</string>
+  <string name="once_settings_location_title">Compartiu-los sense dades d’ubicació</string>
+  <string name="once_settings_subtitle">Com voleu compartir els elements seleccionats?</string>
+  <string name="once_settings_title">Protecció de privadesa</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
   <string name="open_app">Obre</string>
   <string name="open_callwait">Activat</string>
@@ -2646,10 +2673,18 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="settings">Configuració d\'ús de dades</string>
   <string name="settings_battery_consume_abnormal_summary">Recepció de notificacions quan la bateria es descarregui ràpidament</string>
   <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
+  <string name="settings_camera_subtitle_no">Sense metadades</string>
   <string name="settings_category_other">Altres paràmetres</string>
   <string name="settings_category_overheat">Sobreescalfament</string>
   <string name="settings_choice_no_notification">Apagat</string>
+  <string name="settings_image_camera_summary">Model de dispositiu, metadades, etc.</string>
+  <string name="settings_location_subtitle_no">No hi ha informació d\'ubicació</string>
   <string name="settings_power_save_ontime_title">Horari</string>
+  <string name="settings_share_enable_summary">Els elements que compartiu a WeChat apareixeran amb una insígnia MIUI</string>
+  <string name="settings_share_info">A continuació, es mostren les opcions de compartició segures disponibles per als elements compartits de Galeria i Gestor de fitxers:</string>
+  <string name="settings_show_detail">Veure detalls</string>
+  <string name="settings_tip">Vés a la configuració de la galeria &gt; per veure més opcions</string>
+  <string name="settings_title">Ús compartit segur</string>
   <string name="shield_keyboard_detail">Feu doble toc als botons per tornar-los a activar</string>
   <string name="shield_keyboard_summary">Restringeix els botons i els gestos en pantalla completa durant els jocs</string>
   <string name="shield_keyboard_title">Desactiva els botons</string>
@@ -2771,9 +2806,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="st_call_other_group">Altres</string>
   <string name="st_call_settings">Llista de bloqueig de trucades</string>
   <string name="st_call_stranger_group">Bloqueja trucades d\'estranys</string>
-  <string name="st_confirm_dialog_btn_open">Obre</string>
+  <string name="st_confirm_dialog_btn_open">Bloc</string>
   <string name="st_confirm_dialog_summary_contact_call">Es bloquejaran totes les trucades dels contactes.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Activeu-lo per bloquejar totes les trucades entrants de números de telèfon estrangers.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Totes les trucades de números de telèfon estrangers estaran bloquejades.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_filter_keywords_setting_summary2">\"
@@ -3093,6 +3128,8 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
   <string name="tether_over_limit_warning_notify_message">Desactiva el punt d\'accés portàtil.</string>
   <string name="tether_over_limit_warning_notify_title">S\'ha arribat al límit de dades del punt d\'accés</string>
   <string name="text_button">D\'acord</string>
+  <string name="text_done">D\'acord</string>
+  <string name="text_security">Privacitat</string>
   <string name="thermal_tips_message">Jugar a jocs en mode de rendiment pot provocar problemes de sobreescalfament.</string>
   <string name="thermal_tips_title">Atenció</string>
   <string name="third_application">Aplicacions instal·lades</string>
@@ -3309,6 +3346,7 @@ Dades extres en ús"</string>
   <string name="vb_advanced_settings_after_open">Després</string>
   <string name="vb_advanced_settings_before_open">Abans</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Feu que els objectes en moviment siguin més nítids millorant les animacions. Aquesta característica requereix un major consum d’energia.</string>
+  <string name="vb_quick_func_auto_bgm">Reconèixer la música de fons</string>
   <string name="vb_quick_func_hangup_listening">Reprodueix el so del vídeo amb pantalla apagada</string>
   <string name="vb_quick_func_screen_capture">Captura de pantalla</string>
   <string name="vb_quick_func_screen_record">Enregistra</string>
@@ -3352,6 +3390,7 @@ Dades extres en ús"</string>
   <string name="vtb_func_frc_title">Suavització del moviment</string>
   <string name="vtb_func_vpp_desc4">"Aquesta funció no funcionarà quan la resolució de vídeo sigui superior a 4K."</string>
   <string name="vtb_func_vpp_title">Contorns millorats</string>
+  <string name="vtb_function_video_translation">Traducció en temps real</string>
   <string name="vtb_other_milink_connect">"Ara no es pot emetre el vídeo. A punt d'emetre altres elements…"</string>
   <string name="vtb_stop_milink_connect">S\'ha aturat l\'emissió del vídeo</string>
   <string name="wakepath_confirm_start_activity">Voleu permetre a %1$s obrir %2$s?</string>

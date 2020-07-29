@@ -264,32 +264,32 @@
         <item>Mode de latència baixa</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>16 bits/mostra</item>
         <item>24 bits/mostra</item>
         <item>32 bits/mostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>16 bits/mostra</item>
         <item>24 bits/mostra</item>
         <item>32 bits/mostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>Mono</item>
         <item>Estèreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>Mono</item>
         <item>Estèreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimitzat per a la qualitat d\'àudio</item>
-        <item>Qualitat d\'àudio i connexió equilibrada</item>
-        <item>Optimitzat per a la qualitat de connexió</item>
-        <item>Millor esforç (velocitat de bits adaptativa)</item>
+        <item>Optimitzat per a una qualitat d\'àudio</item>
+        <item>Qualitat d’àudio i connexió equilibrada</item>
+        <item>Optimitzat per a la qualitat de la connexió</item>
+        <item>Millor esforç (velocitat de bits automàtica)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimitzat per a la qualitat de l\'àudio (990kbps/909kbps)</item>
@@ -322,14 +322,14 @@
         <item>Millor opció (Velocitat de bits automàtica)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -398,10 +398,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Inhabilitat</item>
-        <item>Filtrat Habilitat</item>
+        <item>Filtrat</item>
         <item>Habilitat</item>
-        <item>Habilitat \"Capçaleres filtrades\"</item>
-        <item>Habilitat \"Paquets multimèdia filtrats\"</item>
+        <item>Les capçaleres filtrades</item>
+        <item>S\'han filtrat els paquets de suports</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segon</item>
@@ -909,25 +909,25 @@ Nota: Només per a Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Apagat</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
-        <item>64 KB per registre de memòria</item>
-        <item>256 KB per registre de memòria</item>
-        <item>1 MB per registre de memòria</item>
-        <item>4 MB per registre de memòria</item>
-        <item>16 MB per registre de memòria</item>
+        <item>64 KB per buffer de registre</item>
+        <item>256 KB per buffer de registre</item>
+        <item>1 MB per buffer de registre</item>
+        <item>4 MB per buffer de registre</item>
+        <item>16 MB per buffer de registre</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivat</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desactivat</item>
@@ -941,7 +941,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Desactivat</item>
         <item>Totes les memòries intermèdies de registre</item>
         <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
-        <item>només la memòria intermèdia de registre del nucli</item>
+        <item>Kernel log buffer only</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivat</item>
@@ -1037,6 +1037,18 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Ràpida</item>
         <item>Més ràpida</item>
     </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TDSCDMA</item>
+        <item>LTE</item>
+        <item>Mode triple</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Mode triple</item>
+    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Temps d\'ús</item>
         <item>Darrera vegada que es va fer servir</item>
@@ -1047,7 +1059,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>MTP (Protocol de transferència multimèdia)</item>
         <item>PTP (Protocol de transferència d\'imatges)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Font d\'àudio</item>
+        <item>Font d’àudio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">

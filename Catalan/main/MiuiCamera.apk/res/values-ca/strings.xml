@@ -117,9 +117,11 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="ambilight_intro_crowd_moving_part2">També podeu fer fotos del trànsit i multituds en moviment. Una llarga exposició farà que els edificis siguin nítids, però tots els objectes en moviment quedaran borrosos.</string>
   <string name="ambilight_intro_light_track">Utilitzeu una font de llum per \"pintar\" sobre una escena fosca per unir totes les peces il·luminades en una sola imatge.</string>
   <string name="ambilight_intro_magic_star">Utilitzeu aquest mode en llocs amb poca contaminació lumínica. L’exposició s’establirà en %d segons, per la qual cosa utilitzar un trípode és una idea fantàstica.</string>
+  <string name="ambilight_intro_magic_star_ae">Utilitzeu aquest mode en llocs amb poca contaminació lumínica. L’exposició es pot configurar fins a %d segons, de manera que usar un trípode és una idea fantàstica.</string>
   <string name="ambilight_intro_silky_water_part1">Utilitzeu aquest mode per fotografiar núvols en moviment. Donarà al cel un efecte de \"pintura a l\'oli\".</string>
   <string name="ambilight_intro_silky_water_part2">Aquest mode fa que l’aigua en moviment (rius, cascades i llacs) sembli setinada.</string>
   <string name="ambilight_intro_star_track">"Fotografiar el cel estrellat durant molt de temps pot captar les trajectòries de les estrelles. No oblideu utilitzar un trípode i fotografiar contínuament durant almenys %d minuts."</string>
+  <string name="ambilight_intro_star_track_2">"Filmar el cel estrellat durant molt de temps pot captar les trajectòries de les estrelles. No oblideu utilitzar un trípode! Filmeu contínuament durant almenys %d minuts per poder obtenir fotos i vídeos."</string>
   <string name="ambilight_intro_traffic_light">A la nit, podeu capturar la trajectòria de llums mòbils brillants (per exemple, en cotxes i vaixells). Aquest mode permet previsualitzar el resultat final a la pantalla en temps real.</string>
   <string name="ambilight_scene_crowd_moving">Multitud en moviment</string>
   <string name="ambilight_scene_light_track">Pintura de llum</string>
@@ -353,6 +355,11 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="confirm_restore_message">"Voleu restaurar la configuració per defecte de la càmera?"</string>
   <string name="confirm_restore_title">Restableix la configuració per defecte</string>
   <string name="copy">Copia</string>
+  <string name="cta_msg">Benvingut a la càmera! Podeu utilitzar aquesta aplicació per fer fotos i gravar vídeos. Aquesta aplicació necessita connectar-se a Internet i requereix els permisos opcionals següents:</string>
+  <string name="cta_perm_dec">Per afegir informació sobre la ubicació a fotos i vídeos</string>
+  <string name="cta_perm_loc">Ubicació</string>
+  <string name="cta_perm_type">"Permisos opcionals (s'utilitzen per a funcions addicionals mentre les utilitzeu)"</string>
+  <string name="cta_user_tips">&lt;Data&gt;Per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegiu i accepteu el nostre &amp;lt;a href =%1$s&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
   <string name="custom_sound_art">Retro</string>
   <string name="custom_sound_default">Per defecte</string>
   <string name="custom_sound_modern">Modern</string>
@@ -361,6 +368,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
   <string name="custom_tint_color_select">Personalitzeu els colors</string>
   <string name="custom_watermark_contains_senstive_words">"Les marques d'aigua no poden contenir termes restringits (%1$s)"</string>
   <string name="custom_watermark_tips">Aquest text apareixerà com a segona línia de la marca d\'aigua. Pot contenir fins a 18 lletres o 14 caràcters xinesos.</string>
+  <string name="custom_watermark_tips_gen2">Fins a %1$d caràcters xinesos o %2$d lletra.</string>
   <string name="custom_watermark_too_many_words">El text que heu introduït és massa llarg</string>
   <string name="custom_watermark_words">Marca d\'aigua personalitzada</string>
   <string name="custom_watermark_words_input_hint">Introduïu el text</string>
@@ -476,12 +484,20 @@ Imprimiu la còpia de forma sense fils en un paper A4."</string>
 Netegeu la lent per aconseguir un millor efecte."</string>
   <string name="lens_dirty_detected_title_back">L\'òptica de la càmera posterior està bruta</string>
   <string name="lens_dirty_detected_title_front">La lent de la càmera frontal està bruta</string>
+  <string name="lighting_bright_red">Escarlat</string>
+  <string name="lighting_dazzling">Bigues</string>
+  <string name="lighting_dreamland">Dreamland</string>
+  <string name="lighting_gorgeous">Motley</string>
   <string name="lighting_hint_needed">Col·loqueu el subjecte al marc</string>
   <string name="lighting_hint_title">Il·luminació d’estudi</string>
   <string name="lighting_hint_too_close">Allunyeu més la càmera</string>
   <string name="lighting_hint_too_far">Apropa la càmera</string>
   <string name="lighting_hint_usage">"Podeu utilitzar efectes d’il·luminació d’estudi
 en el mode Retrat"</string>
+  <string name="lighting_lanshan">Decadència</string>
+  <string name="lighting_movie_light_effect_title">Efectes cinematogràfics</string>
+  <string name="lighting_neon">Neó</string>
+  <string name="lighting_nostalgia">Nostàlgia</string>
   <string name="lighting_pattern_dot">Punts</string>
   <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Fulles</string>
@@ -491,6 +507,8 @@ en el mode Retrat"</string>
   <string name="lighting_pattern_rainbow">Arc de Sant Martí</string>
   <string name="lighting_pattern_shutter">Cecs</string>
   <string name="lighting_pattern_stage">Escenari</string>
+  <string name="lighting_phantom">fantasma</string>
+  <string name="lighting_rainbow">Arc de Sant Martí</string>
   <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
   <string name="live_edit_exit_confirm">Atura</string>
   <string name="live_edit_exit_message">Voleu aturar la filmació?</string>
@@ -714,8 +732,6 @@ es vegin més grans a les fotos"</string>
   <string name="pic_flaw_blink_more">Sembla que algú a l\'enquadrament tancava els ulls</string>
   <string name="pic_flaw_blink_one">Sembla que la persona de l\'enquadrament tancava els ulls</string>
   <string name="pic_flaw_cover">Sembla que la lent està parcialment coberta</string>
-  <string name="pixel_ai_108">AI 100 milions ultra vius</string>
-  <string name="pixel_ai_108_close">Tanca AI 100 milions d’ultradreta</string>
   <string name="popup_tip_3d_beauty_intro_text">Bellesa 3D</string>
   <string name="popup_tips_near_range_mode">Enfocament proper</string>
   <string name="portait_effect_entry_blackwhite">B/N</string>
@@ -760,6 +776,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
   <string name="pref_960_watermark_title">Marca d\'aigua 960 FPS</string>
   <string name="pref_advance_settings">Configuració addicional</string>
   <string name="pref_ai_detect">Detecció d\'IA</string>
+  <string name="pref_audio_denoise_title">Reducció de soroll d’àudio</string>
   <string name="pref_audio_focus_entry_front">Davant</string>
   <string name="pref_audio_focus_entry_rear">Darrere</string>
   <string name="pref_audio_focus_title">Focus d\'àudio</string>
@@ -767,6 +784,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Configuració de la càmera</string>
   <string name="pref_camera_ai_scene_title">Càmera IA</string>
+  <string name="pref_camera_ai_shutter_description">Selecciona automàticament el millor moment quan premeu el botó de l\'obturador</string>
+  <string name="pref_camera_ai_shutter_title">Obturador AI</string>
   <string name="pref_camera_antibanding_entry_0">Apagat</string>
   <string name="pref_camera_antibanding_entry_3">Automàtic</string>
   <string name="pref_camera_antibanding_title">Antiparpelleig</string>
@@ -1028,8 +1047,10 @@ Manté el subjecte nítid mentre difumina el fons."</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_lens_dirty_detect_summary">Rebreu una notificació quan la lent està bruta</string>
   <string name="pref_lens_dirty_detect_title">Notifica sobre les lents brutes</string>
+  <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
   <string name="pref_module_settings">Modes</string>
   <string name="pref_more_mode_style_title">Mode de càmera</string>
+  <string name="pref_multi_camera_dual_video_front">Càmera frontal</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Només podeu gravar vídeos de 720p amb 240fps</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Només podeu gravar vídeos de 720p amb 960fps</string>
   <string name="pref_photo_assistance_tips_off">Desactivat</string>
@@ -1166,6 +1187,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>
   <string name="ubi_focus_capture_fail">"No s'ha pogut fer la foto"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD està desactivat</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
   <string name="ultra_pixel_108mp">108 MP</string>
   <string name="ultra_pixel_32mp">32 MP</string>
   <string name="ultra_pixel_48mp">48 MP</string>
@@ -1190,9 +1213,12 @@ El mode Ultra gran angular us ajuda quan no podeu desplaçar-vos més lluny de l
   <string name="ultra_wide_recommend_tip_hint">Proveu el mode d’angle ultra ampli</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Canvia a l\'Ultra gran angular 0,6x</string>
   <string name="unknow_error">Error desconegut</string>
+  <string name="unsupported_microphones_3d_record_tips">"El so 3D no és compatible amb micròfons externs"</string>
+  <string name="unsupported_microphones_audio_zoom_tips">"El zoom d'àudio no és compatible amb micròfons externs"</string>
   <string name="user_agree">D\'acord</string>
   <string name="user_define_watermark_cancel">Cancel·la</string>
   <string name="user_define_watermark_save">Desa</string>
+  <string name="user_disagree">"No hi estic d'acord"</string>
   <string name="user_notice_identify_summary_format">Utilitzant aquest servei accepteu les %1$s i %2$s de Xiaomi.</string>
   <string name="user_notice_title">Atenció</string>
   <string name="v7_preference_off">DESACTIVAT</string>

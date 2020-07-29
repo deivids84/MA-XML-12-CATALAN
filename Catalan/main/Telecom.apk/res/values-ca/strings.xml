@@ -253,7 +253,6 @@ Taxa de mostreig"</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
   <string name="close">Desactiva</string>
-  <string name="config_schedules_provider_caller_package">ajustaments com.android.</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_app">Connectat mitjançant %1$s</string>
@@ -384,6 +383,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
   <string name="media_category">Elements multimèdia</string>
   <string name="media_transfer_this_device_name">Altaveu de telèfon</string>
   <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
+  <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
   <string name="missedcall_notification_public_version_title">Telèfon</string>
   <string name="mobile_data_always_on">Dades mòbils sempre actives</string>
   <string name="mobile_data_always_on_summary">Mantén les dades mòbils sempre actives, fins i tot quan la Wi‑Fi està activada (per canviar de xarxa ràpidament).</string>

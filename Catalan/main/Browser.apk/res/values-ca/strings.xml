@@ -337,6 +337,7 @@ per donar suport a la nostra feina"</string>
   <string name="download_btn_select_none">Desselecciona-ho tot</string>
   <string name="download_complete">S\'ha baixat correctament</string>
   <string name="download_completed">Baixat</string>
+  <string name="download_confirm_dialog_title">Alerta de risc</string>
   <string name="download_dialog_default_path_invalid">"La ubicació de baixada que heu seleccionat no és vàlida. S'està desant a la ubicació per defecte…"</string>
   <string name="download_dialog_file_length_default_txt">Un moment…</string>
   <string name="download_dialog_file_length_lessthan1kb">Menys d\'1 kB</string>
@@ -355,6 +356,9 @@ per donar suport a la nostra feina"</string>
   <string name="download_no_sdcard_dlg_msg">Cal una targeta SD per baixar %s.</string>
   <string name="download_no_sdcard_dlg_title">Sense targeta SD</string>
   <string name="download_pending">S\'està iniciant la baixada…</string>
+  <string name="download_proceed">Baixada normal</string>
+  <string name="download_risk_alert_content">El joc no està verificat per Xiaomi Market. En triar Baixada normal, indiqueu que sou conscient dels riscos i les conseqüències.</string>
+  <string name="download_safe">Baixada segura</string>
   <string name="download_sdcard_busy_dlg_msg">La targeta SD està ocupada. Per permetre baixades, desactiveu l\'emmagatzematge USB a l\'àrea de notificacions.</string>
   <string name="download_sdcard_busy_dlg_title">La targeta SD no està disponible</string>
   <string name="download_status_failed">"No s'ha pogut baixar"</string>
@@ -1008,6 +1012,7 @@ Recordeu que encara seran desats els fitxers que descarregueu i les adreces d'in
   <string name="save_to_camera">Desa a la Galeria</string>
   <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
   <string name="save_to_camera_success">S\'ha desat a la Galeria</string>
+  <string name="saved_sucess">S\'ha desat correctament</string>
   <string name="scanner_uninstalled_text">Instal·leu l\'escàner per continuar</string>
   <string name="scanner_uninstalled_title">L\'escàner s\'ha desinstal·lat</string>
   <string name="screenshot_loading_dialog_title">S\'està capturant</string>

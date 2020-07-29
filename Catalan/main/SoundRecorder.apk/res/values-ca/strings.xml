@@ -262,6 +262,9 @@
   <string name="recording_quality_low">Qualitat baixa</string>
   <string name="recording_quality_standard">Qualitat normal</string>
   <string name="recording_stopped">Aturada</string>
+  <string name="recovery">Restaura una còpia de seguretat</string>
+  <string name="recovery_failed_dialog_button">Entesos</string>
+  <string name="recovery_failed_dialog_title">Atenció</string>
   <string name="reg_error_audio_exist">Aquest fitxer ja existeix.</string>
   <string name="reg_error_audio_large">"Els fitxers d'àudio no poden ser més grans de 500 MB."</string>
   <string name="reg_error_audio_short">El fitxer d\'àudio és massa petit.</string>
@@ -280,6 +283,7 @@
   <string name="rename_no_more_tip">"No ho tornis a mostrar"</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="runtime_permission_ungranted">"No es pot utilitzar la gravadora per manca de permisos"</string>
+  <string name="save_record_dialog_title">Desa l\'enregistrament</string>
   <string name="search_app">Gravadora</string>
   <string name="search_empty">"No s'han pogut trobar resultats"</string>
   <string name="search_enable_earpiece_title">Utilitza el receptor per reproduir l\'àudio</string>
@@ -322,7 +326,11 @@
   <string name="text_play_speed_2_0">Velocitat de reproducció 2x</string>
   <string name="toast_max_record_time">%1$s pot enregistrar durant uns %2$s</string>
   <string name="toast_uninstall_fileexplorer">"El gestor de fitxers no està instal·lat"</string>
+  <string name="trash_box">Elements eliminats recentment</string>
+  <string name="trash_box_close_tip">Tanca l\'indicador</string>
+  <string name="trash_box_delete_all">Vols suprimir tots els elements de la paperera de manera permanent?</string>
   <string name="usage_description">Transcripció d\'àudio i sincronització d\'elements amb el núvol</string>
+  <string name="user_feedback">Comentaris</string>
   <string name="v7_preference_off">DESACTIVAT</string>
   <string name="v7_preference_on">ACTIVAT</string>
   <string name="webview_check_network">Configuració de la xarxa</string>

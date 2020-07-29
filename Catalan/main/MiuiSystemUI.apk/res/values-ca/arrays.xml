@@ -23,55 +23,55 @@
         <item>"No mostris aquesta icona"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>16 bits/mostra</item>
         <item>24 bits/mostra</item>
         <item>32 bits/mostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>16 bits/mostra</item>
         <item>24 bits/mostra</item>
         <item>32 bits/mostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>Mono</item>
         <item>Estèreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>Mono</item>
         <item>Estèreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimitzat per a la qualitat d\'àudio</item>
-        <item>Qualitat d\'àudio i connexió equilibrada</item>
-        <item>Optimitzat per a la qualitat de connexió</item>
-        <item>Millor esforç (velocitat de bits adaptativa)</item>
+        <item>Optimitzat per a una qualitat d\'àudio</item>
+        <item>Qualitat d’àudio i connexió equilibrada</item>
+        <item>Optimitzat per a la qualitat de la connexió</item>
+        <item>Millor esforç (velocitat de bits automàtica)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimitzat per a la qualitat de l\'àudio (990kbps/909kbps)</item>
-        <item>Qualitat d\'àudio i connexió equilibrada (660kbps/606kbps)</item>
-        <item>Optimitzat per a la qualitat de la connexió (330kbps/303kbps)</item>
-        <item>Millor esforç (velocitat de bits adaptativa)</item>
+        <item>Optimitzat per a una qualitat d’àudio (990kbps / 909kbps)</item>
+        <item>Qualitat d’àudio i connexió equilibrada (660kbps / 606kbps)</item>
+        <item>Optimitzada per a la qualitat de connexió (330kbps / 303kbps)</item>
+        <item>Millor esforç (velocitat de bits automàtica)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -84,7 +84,7 @@
         <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Utilitza la selecció del sistema (per defecte)</item>
+        <item>Utilitzeu la preferència del sistema (per defecte)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -95,8 +95,8 @@
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
         <item>LHDC V1</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
+        <item>Habilita els còdecs opcionals</item>
+        <item>Desactiva els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -117,10 +117,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Inhabilitat</item>
-        <item>Filtrat Habilitat</item>
+        <item>Filtrat</item>
         <item>Habilitat</item>
-        <item>Habilitat \"Capçaleres filtrades\"</item>
-        <item>Habilitat \"Paquets multimèdia filtrats\"</item>
+        <item>Les capçaleres filtrades</item>
+        <item>S\'han filtrat els paquets de suports</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostra hores, minuts i segons</item>
@@ -210,37 +210,37 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Apagat</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
-        <item>64 KB per registre de memòria</item>
-        <item>256 KB per registre de memòria</item>
-        <item>1 MB per registre de memòria</item>
-        <item>4 MB per registre de memòria</item>
-        <item>16 MB per registre de memòria</item>
+        <item>64 KB per buffer de registre</item>
+        <item>256 KB per buffer de registre</item>
+        <item>1 MB per buffer de registre</item>
+        <item>4 MB per buffer de registre</item>
+        <item>16 MB per buffer de registre</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Inactiu</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivat</item>
         <item>Totes les memòries intermèdies de registre</item>
         <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
-        <item>només la memòria intermèdia de registre del nucli</item>
+        <item>Només el buffer de registre del nucli</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivat</item>
         <item>Tots</item>
         <item>Tot excepte la ràdio</item>
-        <item>Kernel only</item>
+        <item>Només nucli</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desactivat</item>
@@ -285,7 +285,7 @@
         <item>PTP (Protocol de Transferència de Multimèdia)</item>
         <item>PTP (Protocol de Transferència d\'imatges)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Font d\'àudio</item>
+        <item>Font d’àudio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="weather_type">

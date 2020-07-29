@@ -22,10 +22,10 @@
   <string name="backup_introduction">Podeu utilitzar aquesta aplicació per fer una còpia de seguretat i restaurar els elements del vostre dispositiu.</string>
   <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
   <string name="camera_introduction">Podeu utilitzar la Càmera per fer fotos i enregistrar vídeos.</string>
-  <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament informació sobre la versió del vostre dispositiu, dades d’identificació del dispositiu (inclosa l’adreça IMEI / IMSI / MSISDN / MAC, MEID / ICCID) i informació d’ubicació aproximada (inclosa l’ID de l’estació base) a la operador mitjançant WLAN, xarxa de dades mòbils o SMS gratuïts. El transportista es compromet a analitzar informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no divulgarà informació rellevant a tercers en cap forma que us identifiqui personalment. Prevaldrà la declaració específica del transportista. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
+  <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament informació sobre la versió del vostre dispositiu, dades d’identificació del dispositiu (inclosa l’adreça IMEI / IMSI / MSISDN / MAC, MEID / ICCID) i informació d’ubicació aproximada (inclosa l’ID de l’estació base) a la operador mitjançant Wi-Fi, xarxa de dades mòbils o SMS gratuïts. El transportista es compromet a analitzar informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no divulgarà informació rellevant a tercers en cap forma que us identifiqui personalment. Prevaldrà la declaració específica del transportista. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
   <string name="clock_introduction">Podeu utilitzar aquesta aplicació per veure l\'hora, així com utilitzar el temporitzador, el rellotge mundial, el cronòmetre, configurar les alarmes i més.</string>
   <string name="close_location_service_setting">Podeu triar entre desactivar l’accés a la ubicació a Configuració &gt; Configuració addicional &gt; Privadesa o restringir els permisos per a aplicacions individuals a Seguretat.</string>
-  <string name="cm_terms_content">"Per tal de millorar els serveis que us proporcionen, l’operador de xarxa de telefonia mòbil que vulgueu pujar les vostres dades personals i la informació d’aquest dispositiu als seus servidors mitjançant xarxes WLAN o connexió de dades mòbils. Aquesta informació només s’utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i proporcionar contingut més personalitzat. Aquesta informació no s’utilitzarà per identificar-vos personalment i no es divulgarà a tercers."</string>
+  <string name="cm_terms_content">"Per tal de millorar els serveis que us proporcionen, l’operador de xarxa mòbil que escolliu pot carregar les vostres dades personals i la informació d’aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades mòbils. Aquesta informació només s’utilitzarà amb finalitats estadístiques per tal de millorar la qualitat dels serveis i proporcionar contingut més personalitzat. Aquesta informació no s’utilitzarà per identificar-vos personalment i no es divulgarà a tercers."</string>
   <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
   <string name="compass_introduction">Podeu utilitzar aquesta aplicació per la navegació, així com per veure les coordenades, la pressió atmosfèrica i l\'altitud.</string>
   <string name="congratulation_label">"Gaudiu del nou telèfon :)"</string>
@@ -36,14 +36,14 @@
   <string name="content_description_start">Inicia</string>
   <string name="content_introduction">El Centre de Contingut agrega contingut i serveis de diversos canals. Aquí podeu llegir articles, veure vídeos, veure articles destacats diàriament i rebre recomanacions de contingut.</string>
   <string name="continue_to_enable_accessibility">Mantén premuts els dos dits avall per activar l\'accessibilitat.</string>
-  <string name="data_traffic_enable_dialog_title">"Si ara no esteu connectats a WLAN, el dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar despeses de transportistes addicionals."</string>
+  <string name="data_traffic_enable_dialog_title">"Si no esteu connectats a Wi-Fi ara, el vostre dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar despeses de transportistes addicionals."</string>
   <string name="desc_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
   <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
   <string name="diagnose_report">Envieu les dades de diagnòstic per localitzar i analitzar els problemes del sistema i millorar l’experiència d\'usuari. Aquestes dades poden incloure informació personal (per exemple, IP, ubicació, etc.)</string>
   <string name="disageement_abnormal_download">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei."</string>
   <string name="disagree">Cancel·la</string>
   <string name="disagreement_abnormal_running">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. Podeu optar per no utilitzar aquesta aplicació o restringir els permisos a la Configuració en aquests casos."</string>
-  <string name="disagreement_abnormal_running_fast_pairing">"Si no accepteu concedir aquests permisos, no podreu utilitzar aquesta aplicació. Podeu optar per restringir els permisos a la configuració en aquests casos."</string>
+  <string name="disagreement_abnormal_running_fast_pairing">"Si no accepteu concedir aquests permisos, no podreu utilitzar aquesta aplicació. Podeu optar per restringir els permisos i desactivar aquesta funció a la configuració."</string>
   <string name="disagreement_donnot_use_application">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. Podeu optar per no utilitzar aquesta aplicació en aquests casos."</string>
   <string name="disagreement_donnot_use_product">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest producte. Podeu optar per no utilitzar aquest producte en aquests casos."</string>
   <string name="disagreement_donnot_use_service">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei. Podeu optar per no utilitzar aquest servei en aquests casos."</string>
@@ -57,7 +57,7 @@
   <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
   <string name="enable_accessibility_dialog_positive_btn">D\'acord</string>
   <string name="fast_application_introduction">Quick apps Framework us permet crear i proporcionar serveis en aplicacions ràpides.</string>
-  <string name="fast_pairing_introduction">Mi Link permet que el dispositiu es pugui connectar a dispositius Bluetooth a prop. Per poder trobar dispositius a prop, permeteu que Mi Link es connecti a Internet.</string>
+  <string name="fast_pairing_introduction">Mi Link permet al vostre dispositiu connectar-se a dispositius Bluetooth propers mitjançant MIUI Bluetooth Service. Per poder trobar dispositius a prop, permeti que el servei Bluetooth MIUI es connecti a Internet.</string>
   <string name="font_hint_large">Mida de text per defecte</string>
   <string name="font_hint_normal">Augmenta la mida del text</string>
   <string name="framework_introduction">Mi Services Framework us permet utilitzar el Compte Mi, Mi Push, Mi Stats i MIUI BI.</string>
@@ -71,11 +71,15 @@
   <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
   <string name="item_fingerprint">Empremta</string>
   <string name="item_lock_screen_password">Només bloqueig de pantalla</string>
+  <string name="ktlocation_U">(Agent de servei KT)</string>
+  <string name="ktposition_header">Compartir informació sobre localització amb agències de rescat d’emergència</string>
   <string name="language_picker_other_languages_title">Més idiomes</string>
   <string name="language_settings">Trieu l\'idioma</string>
   <string name="locale_picker_other_locale_title">Més regions</string>
   <string name="locale_picker_title">Seleccioneu la configuració regional</string>
+  <string name="location_content">D’acord amb la llei, els transportistes mòbils poden obtenir la informació de localització dels dispositius mòbils per complir els requisits de les agències de rescat d’emergència (parcs de bombers i la policia) que persegueixen finalitats de seguretat i rescat d’emergència.</string>
   <string name="location_introduction">Els serveis d\'ubicació us troben productes i serveis propers.</string>
+  <string name="location_location">Les agències de rescat d’emergència poden obtenir la vostra ubicació actual a petició</string>
   <string name="lockscreen_introduction">El Carrusel de fons de pantalla us permet obtenir imatges noves entregades diàriament a la pantalla de bloqueig.</string>
   <string name="mint_keyboard_oobe_checkbox">"He llegit i he acceptat la Política de privadesa del teclat Mint"</string>
   <string name="mint_keyboard_oobe_terms">Política de privadesa del teclat Mint</string>
@@ -161,6 +165,8 @@ De totes maneres, voleu desactivar els anuncis personalitzats?"</string>
   <string name="poco_agree_terms_other">(Incloent-hi la Política de privadesa del llançador POCO i l\'Acord d\'usuari)</string>
   <string name="poco_launcher_privacy_policy">Política de privadesa del llançador de POCO</string>
   <string name="poco_launcher_user_agreement">Acord d\'usuari del llançador POCO</string>
+  <string name="position_header">Compartir informació d’ubicació</string>
+  <string name="position_subheading">Informació sobre ubicació</string>
   <string name="pref_title_data_slot">Targeta SIM de dades preferida</string>
   <string name="pref_title_voice_slot">Targeta SIM de veu preferida</string>
   <string name="privacy_policy">Política de privadesa</string>
@@ -229,7 +235,7 @@ Per poder utilitzar MIUI, heu d’acceptar el nostre Acord d’Usuari i la nostr
   <string name="terms_of_use_label_phrase">, Frases freqüents</string>
   <string name="terms_of_use_label_systemhelper">, Servei autoregistrat</string>
   <string name="terms_of_use_label_updater">, Actualitzador</string>
-  <string name="terms_of_use_lable_apps">Serveis Mi, Serveis d’activació de la SIM Mi, Xiaomi Cloud, Troba el dispositiu, Pantalla d’inici, Jocs, Dimoni MIUI, Components del sistema MSA, Serveis de traducció, Aplicacions ràpides, Tauler d\'aplicacions, Estadístiques, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Serveis Mi, Serveis d’activació de Mi SIM, Xiaomi Cloud, Troba dispositiu, Pantalla d’inici, Jocs, Dimoni MIUI, Components del sistema MSA, serveis de traducció, SDK MIUI, Aplicacions ràpides, Voltes d’aplicacions, estadístiques, Mi Enllaç</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Heu d’acceptar la Política de privadesa de Facemoji abans d’utilitzar aquesta funció."</string>
@@ -246,7 +252,7 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
   <string name="terms_privacy_policy_input_method_kika">Política de privadesa de Kika</string>
   <string name="title_fingerprint">Afegiu l\'empremta</string>
   <string name="user_agreement">Condicions del servei</string>
-  <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’Usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, servei d’activació Mi SIM, Xiaomi Cloud, Cerca dispositiu, pantalla d’inici, Frases freqüents, Servei de traducció, Dimoni MIUI, Visualitzador HTML, Ajudant AI, Bateria i rendiment, Detector d’energia, Joyose, Configuració AI AI, Permisos Gestor i Updater es connectaran a la xarxa. Els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
+  <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’Usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, el meu servei d’activació de la SIM, Xiaomi Cloud, Cerca dispositiu, pantalla d’inici, frases freqüents, Servei de traducció, Dimoni MIUI, Visualitzador HTML, MIUI SDK, Ajudant AI, Bateria i rendiment, Detector d’energia, Joyose, OS AI Configuració, Administrador de permisos i Updater es connectaran a la xarxa. Els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
   <string name="voice_assist_advice">Mi AI us permet utilitzar els controls de veu, però consumeix més energia (+ 1% cada hora).</string>
   <string name="voice_assist_condition">"Podreu utilitzar Mi AI en aquests casos:r
 1. Quan la pantalla estigui encesa

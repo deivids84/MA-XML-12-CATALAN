@@ -78,11 +78,6 @@
   <string name="copying_certs">S\'estan configurant els certificats de CA</string>
   <string name="couldnt_set_up_device">"No s'ha pogut configurar el dispositiu. Per obtenir ajuda, contacteu amb l'administrador."</string>
   <string name="creditor_capabilities_header">%1$s pot:</string>
-  <string name="cross_profile_consent_summary">Les aplicacions connectades us permeten accedir les dades de feina juntament amb les personals. Podeu fer canvis en qualsevol moment a Configuració.</string>
-  <string name="cross_profile_consent_title">Connecta les aplicacions personals i de feina</string>
-  <string name="cross_profile_notification_channel_name">Connecta les aplicacions personals i de feina</string>
-  <string name="cross_profile_notification_text">Accediu a les dades de feina i a les personals conjuntament. Toqueu per configurar-ho.</string>
-  <string name="cross_profile_notification_title">Connecta les aplicacions personals i de feina</string>
   <string name="default_first_meat_user_name">Usuari principal</string>
   <string name="default_managed_profile_name">Perfil professional</string>
   <string name="default_owned_device_username">Dispositiu professional de l\'usuari</string>
@@ -112,7 +107,7 @@
   <string name="error_wifi">"No s'ha pogut connectar a la Wi-Fi"</string>
   <string name="expand">Expandeix</string>
   <string name="expand_button_title">Avançat</string>
-  <string name="financed_device_screen_header">Aquest dispositiu és proporcionat per %1$s</string>
+  <string name="financed_device_screen_header">Aquest dispositiu es va comprar a crèdit a partir del %1$s</string>
   <string name="for_help_contact_admin">Per obtenir ajuda, contacteu amb l\'administrador</string>
   <string name="frp_clear_progress_text">Espereu...</string>
   <string name="frp_clear_progress_title">S\'està esborrant</string>
@@ -128,7 +123,7 @@
   <string name="info_anim_title_0">Canvieu la manera de treballar</string>
   <string name="info_anim_title_1">Separeu el treball d\'allò personal</string>
   <string name="info_anim_title_2">"Desactiveu el treball quan hagueu acabat"</string>
-  <string name="install_creditor_app_description">Instal·leu l’aplicació %1$s en aquest dispositiu</string>
+  <string name="install_creditor_app_description">Instal·leu l’aplicació %1$s perquè pugueu fer pagaments per aquest dispositiu</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
   <string name="just_a_sec">Un moment…</string>
@@ -136,7 +131,7 @@
   <string name="learn_more_label">Botó per saber-ne més</string>
   <string name="learn_more_link">Més informació</string>
   <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">"Aquest enllaç no és segur i no es pot obrir fins que finalitzi la configuració del dispositiu: %1$s"</string>
-  <string name="lock_device_description">"Si no efectueu pagaments, bloquegeu aquest dispositiu"</string>
+  <string name="lock_device_description">"Restringiu l’accés a aquest dispositiu si no feu pagaments"</string>
   <string name="managed_device_info">Informació del dispositiu gestionat</string>
   <string name="managed_provisioning_error_text">"No s'ha pogut configurar el perfil professional. Contacteu amb el departament d'informàtica o torneu-ho a provar més tard."</string>
   <string name="mdm_icon_label">icona de %1$s</string>
@@ -212,7 +207,6 @@
   <string name="work_profile_cant_be_added_contact_admin">No es pot afegir cap perfil de feina a aquest dispositiu. Si teniu dubtes, poseu-vos en contacte amb l\'administrador informàtic.</string>
   <string name="work_profile_description">Les aplicacions de feina es mantindran en aquest perfil i les gestiona la vostra organització</string>
   <string name="work_profile_info">Informació del perfil de treball</string>
-  <string name="work_profile_provisioning_accept_header">"Primer, configurem el vostre perfil de feina"</string>
   <string name="work_profile_provisioning_accept_header_post_suw">"Configurem el vostre perfil de feina"</string>
   <string name="work_profile_provisioning_progress_label">S\'està configurant el perfil de feina…</string>
   <string name="work_profile_provisioning_step_1_header">Les aplicacions de la feina es conserven al vostre perfil de feina</string>

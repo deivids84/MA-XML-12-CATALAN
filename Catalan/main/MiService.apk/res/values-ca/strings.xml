@@ -190,6 +190,7 @@
   <string name="miui_guide_item_complete">Completat</string>
   <string name="miui_guide_item_new">Nou</string>
   <string name="miui_guide_item_progress">Completat %1$d/%2$d</string>
+  <string name="miui_guide_menu_privacy">Política de privadesa</string>
   <string name="miui_guide_top_bar_sub_title">Obteniu més informació sobre què podeu fer a MIUI</string>
   <string name="miui_guide_top_bar_title">"Guia d’iniciació"</string>
   <string name="miui_main_bottom_bar_feedback">Comentaris</string>

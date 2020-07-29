@@ -72,6 +72,7 @@
   <string name="app_setting_add_header_bg">Imatge de portada</string>
   <string name="app_setting_datetime">Mostra la data</string>
   <string name="app_setting_dialog_cancel">Cancel·la</string>
+  <string name="app_setting_fail">Fracassat</string>
   <string name="app_setting_has_not_setted">Sense especificar</string>
   <string name="app_setting_has_setted">Estableix</string>
   <string name="app_setting_more_setting">Configuració addicional</string>
@@ -992,6 +993,7 @@ Comproveu el número de seguiment."</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="save">Desa</string>
   <string name="save_edit">Desa els canvis</string>
+  <string name="save_to_note">Desa les notes</string>
   <string name="scan">Escaneja</string>
   <string name="scan_app">Escaneja</string>
   <string name="scan_card">Targeta de visita</string>

@@ -156,6 +156,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
   <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està associat amb el compte Mi %2$s. Si continueu, ja no s’associarà amb el compte Mi %3$s. Voleu continuar?</string>
   <string name="continue_action">Continua</string>
   <string name="copy">Copia</string>
+  <string name="copy_to_clipboard_successful">S\'ha copiat correctament</string>
   <string name="delete_action">Suprimeix</string>
   <string name="delete_bank_card_message">Les targetes bancàries Mi Pay i les targetes NFC se suprimeixen un cop tanqueu la sessió.</string>
   <string name="delete_bank_card_title">Atenció</string>

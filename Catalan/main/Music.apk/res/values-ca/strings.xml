@@ -62,7 +62,7 @@
   <string name="actionbar_button_up_description">Enrere</string>
   <string name="ad_close">Tanca</string>
   <string name="ad_data_exception">Excepció de dades AD!</string>
-  <string name="ad_recommend">Recomanacions</string>
+  <string name="ad_recommend">Mostra anuncis</string>
   <string name="ad_setting">Configuració d\'anuncis</string>
   <string name="add_music">Afegeix cançons</string>
   <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
@@ -114,6 +114,8 @@
   <string name="artist_home_search_hint">Cerca d\'artistes</string>
   <string name="artist_is_empty">El nom de l\'artista no pot estar buit.</string>
   <string name="artist_name">Artista</string>
+  <string name="audio_ad_countdown">Omet l\'anunci en %ss</string>
+  <string name="audio_ad_pass">Salta l\'anunci</string>
   <string name="audio_picker_title">Trieu una cançó</string>
   <string name="auto_recommend">Auto (recomanat)</string>
   <string name="auto_sound_quality">Auto</string>
@@ -527,6 +529,8 @@
   <string name="individuation_cart_login_title">Voleu veure més recomanacions?</string>
   <string name="individuation_recommend_switch_message">En desactivar aquesta característica, es veuran afectats els serveis personalitzats de Música Mi. Voleu desactivar-la de totes maneres?</string>
   <string name="individuation_recommend_title">Recomanacions</string>
+  <string name="individuation_setting_summary">Rebreu recomanacions de contingut en funció dels vostres interessos</string>
+  <string name="individuation_setting_title">Recomanacions personalitzades</string>
   <string name="input_hint_prefix">Introduïu %1$s</string>
   <string name="installing_apk">S\'està instal·lant…</string>
   <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del vostre dispositiu"</string>
@@ -541,6 +545,7 @@
   <string name="joox_account_login_conflict_message">"Sembla que teniu la sessió iniciada en un altre dispositiu. Inicieu la sessió aquí?"</string>
   <string name="joox_account_login_exception">Inicieu la sessió de nou</string>
   <string name="joox_account_multi_device_login">Dispositius múltiples</string>
+  <string name="joox_anonymous_name">Visitant</string>
   <string name="joox_area_check_failed">"Sembla que us trobem a la zona on els nostres serveis no estan disponibles. Connecta’t a una altra xarxa i torna a iniciar l’aplicació."</string>
   <string name="joox_auth_button_acquire_vip_instantly">Obteniu membres VIP</string>
   <string name="joox_auth_button_login_to_acquire_vip">Inicieu la sessió per obtenir membres VIP</string>
@@ -565,13 +570,21 @@
   <string name="joox_auth_title_vip_content">Contingut VIP</string>
   <string name="joox_auth_title_vip_expired">La pertinença ha caducat</string>
   <string name="joox_auth_title_vip_function">Característiques VIP</string>
+  <string name="joox_category_artist">Artistes</string>
+  <string name="joox_category_playlist">Llistes de reproducció</string>
+  <string name="joox_category_vip">Ventilador</string>
   <string name="joox_download_title">Descàrregues de JOOX</string>
   <string name="joox_privacy_desc">Política de privadesa de JOOX (opcional)</string>
+  <string name="joox_privacy_policy_url">http://www.tencent.com/en-us/privacy-policy.html</string>
   <string name="joox_privacy_tips_content">Llegiu i accepteu la &lt;a href=\"/link/click\"&gt;Política de privadesa de JOOX&lt;/a&gt; abans d’utilitzar serveis en línia.</string>
   <string name="joox_privacy_tips_title">Política de privadesa de JOOX</string>
   <string name="joox_recommend_artist_title">Artistes recomanats</string>
   <string name="joox_recommend_playlist_title">Llistes de reproducció recomanades</string>
   <string name="joox_search_result_more">Més</string>
+  <string name="joox_search_subtitle_prefix_album">àlbum</string>
+  <string name="joox_search_subtitle_prefix_artist">artista</string>
+  <string name="joox_search_subtitle_prefix_playlist">llista de reproducció</string>
+  <string name="joox_search_subtitle_prefix_song">via</string>
   <string name="joox_vip_check_to_pay">Compra</string>
   <string name="joox_vip_expired_hint">La vostra membre VIP ha caducat. Les cançons descarregades de JOOX només es mostraran a les baixades.</string>
   <string name="keep_queued_download">Manté</string>
@@ -837,6 +850,10 @@
   <string name="preset_music_playlist">Llista de reproducció de Mi Music</string>
   <string name="priority_storage">Utilitza la targeta SD externa</string>
   <string name="priority_storage_summary">Baixa automàticament a la targeta SD externa si està disponible</string>
+  <string name="privacy_authorize_network_error">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
+  <string name="privacy_authorize_revoke_failed">"No s'ha pogut revocar l'autorització"</string>
+  <string name="privacy_authorize_revoke_success">S\'ha revocat l\'autorització amb èxit</string>
+  <string name="privacy_authorize_revoking">S\'està revocant l\'autorització…</string>
   <string name="privacy_desc">Política de privacitat (obligatori)</string>
   <string name="privacy_policy">Política de privadesa</string>
   <string name="privacy_policy_url">https://privacy.mi.com/all/ca_ES</string>
@@ -850,11 +867,14 @@
   <string name="ready_to_play">A continuació</string>
   <string name="recently_played">Reproduït recentment</string>
   <string name="recently_played_songs">Recents</string>
+  <string name="recommend_artist_title">Artista recomanat</string>
   <string name="recommend_songs_when_playing_audio_files">Obteniu recomanacions de cançons mentre escolteu música</string>
   <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
   <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la vostre connexió de dades mòbils per baixar aquest fitxer?</string>
   <string name="remove">Esborra</string>
   <string name="remove_download">Esborra</string>
+  <string name="remove_user_privacy_dialog_message">Després de revocar l\'autorització, el Mi Music deixarà de recopilar dades i totes les dades relacionades se suprimiran dels servidors. Això podria fer que el Mi Music sigui gairebé inutilitzable. Voleu revocar l\'autorització?</string>
+  <string name="remove_user_privacy_dialog_title">Revocació de l\'autorització</string>
   <string name="renew_dialog_title">"Sigues Pro
 Sigues Feliç"</string>
   <string name="repeat_all_notif">S\'estan repetint totes les cançons.</string>
@@ -866,6 +886,7 @@ Sigues Feliç"</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
   <string name="retry_download">Torna-ho a provar</string>
+  <string name="revoke_upload_playlist_to_hungama_toast">"Les cançons en línia no es sincronitzaran amb l'Hungama"</string>
   <string name="ringtone_editing">Editor de to de trucada</string>
   <string name="ringtone_not_support">"Aquest format de cançó no és compatible"</string>
   <string name="ringtone_selected">Seleccionat</string>
@@ -1126,8 +1147,20 @@ Sigues Feliç"</string>
   <string name="upgrade_music">Actualitza Música</string>
   <string name="upgrade_music_message">Les actualitzacions estan a punt. Reinicieu per actualitzar.</string>
   <string name="upgrading_in_backstage">S\'està actualitzant en segon pla…</string>
+  <string name="upload_favorite_dialog_title">Carregueu les cançons al núvol per poder-les accedir a altres dispositius sincronitzats. Podeu desactivar aquesta funció a la configuració.</string>
+  <string name="upload_favorite_setting_summary">Carregueu cançons al núvol per accedir-hi a altres dispositius</string>
+  <string name="upload_favorite_setting_title">Sincronitza cançons</string>
+  <string name="upload_playlist_to_hungama_negative_text">"Mantenir local"</string>
+  <string name="upload_playlist_to_hungama_positive_text">Sincronització</string>
+  <string name="upload_playlist_to_hungama_title">Sincronitzeu les cançons en línia amb l\'Hungama per poder-les escoltar en altres dispositius on utilitzeu el Compte Mi.</string>
+  <string name="upload_playlist_to_hungama_toast">Les cançons en línia es sincronitzaran amb l\'Hungama</string>
   <string name="user_agreement">Acord d\'usuari</string>
   <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=es</string>
+  <string name="user_privacy_dialog_negative_text">Cancel·lada</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Revoca (%s s)</string>
+  <string name="user_privacy_dialog_positive_text">Revoca</string>
+  <string name="user_privacy_setting_group_title">Autorització</string>
+  <string name="user_privacy_setting_title">Commuta el commutador per concedir o revocar l\'autorització</string>
   <string name="v7_preference_off">DESACTIVAT</string>
   <string name="v7_preference_on">ACTIVAT</string>
   <string name="version_info">Versió</string>

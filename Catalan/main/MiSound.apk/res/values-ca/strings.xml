@@ -99,6 +99,8 @@
   <string name="music_delete">Suprimeix</string>
   <string name="music_delete_sound_title">Supressió de les configuracions predefinides</string>
   <string name="music_dirac_control">Optimitza la qualitat de l’àudio</string>
+  <string name="music_dirac_mode_bluetooth_collar">Auriculars de coll Bluetooth</string>
+  <string name="music_dirac_mode_bluetooth_linefree">Auriculars Bluetooth Linefree Mi (tipus C)</string>
   <string name="music_dirac_mode_general_inear">In-ear normals</string>
   <string name="music_dirac_mode_in_ear_four_unit">Mi Quadruple Driver Earphones</string>
   <string name="music_dirac_mode_off">Dirac desactivat</string>
@@ -171,6 +173,8 @@
   <string name="personal_sound">Reprodueix amb la configuració predefinida aplicada</string>
   <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
   <string name="retry_test">Comença de nou</string>
+  <string name="ringtone_output_device_summary">Quan es connecta un perifèric (auricular cablejat o dispositiu Bluetooth), l\'altaveu també sonarà el to de trucada o so de notificació</string>
+  <string name="ringtone_output_device_title">Permet que soni l’altaveu</string>
   <string name="save_and_apply">Desa i aplica</string>
   <string name="search_menu_title">Cerca</string>
   <string name="second_note">Poseu-vos els auriculars.</string>

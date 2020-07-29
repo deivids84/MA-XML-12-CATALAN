@@ -28,6 +28,10 @@
         <item quantity="other">%d gravacions baixades</item>
         <item quantity="one">%d gravació baixada</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"No s'ha pogut restaurar %d elements a causa d'un error desconegut."</item>
+        <item quantity="one">"No s'ha pogut restaurar el %d element a causa d'un error desconegut."</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Cerca entre %d enregistraments</item>
         <item quantity="one">Cerca entre %d enregistrament</item>
@@ -43,6 +47,18 @@
     <plurals name="search_result">
         <item quantity="other">S\'han trobat %d enregistraments</item>
         <item quantity="one">S\'ha trobat %d enregistrament</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">Queden %d dies</item>
+        <item quantity="one">Queda %d dia</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Vols suprimir %d enregistraments seleccionats de manera permanent?</item>
+        <item quantity="one">Vols suprimir %d enregistrament seleccionat de manera permanent?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Els elements suprimits es poden desar a la paperera fins a %d dies</item>
+        <item quantity="one">Els elements suprimits es poden desar a la paperera fins a %d dies</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d no sincronitzades</item>

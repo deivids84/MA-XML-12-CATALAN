@@ -41,12 +41,12 @@
         <item quantity="one">Desactivat per %d aplicació</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">No ho desactivis mai per a %d aplicacions</item>
-        <item quantity="one">No ho desactivis mai per a 1 aplicació</item>
+        <item quantity="other">No desactiveu mai cap %d aplicació</item>
+        <item quantity="one">No desactiveu mai cap aplicació %d</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Desactiva-ho sempre per a %d aplicacions</item>
-        <item quantity="one">Desactiva-ho sempre per a una aplicació</item>
+        <item quantity="other">Desactiveu sempre les %d aplicacions</item>
+        <item quantity="one">Desactiva sempre la %d aplicació</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d aplicacions tenen autorització d\'inici automàtic</item>
@@ -252,10 +252,6 @@
         <item quantity="other">%1$d restriccions</item>
         <item quantity="one">1 restricció</item>
     </plurals>
-    <plurals name="notification_few_channel_count_summary">
-        <item quantity="other">%1$d canals de notificació.</item>
-        <item quantity="one">%1$d canal de notificació.</item>
-    </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d categories</item>
         <item quantity="one">%d categoria</item>
@@ -308,6 +304,10 @@
         <item quantity="other">%1$d serveis d\'impressió activats</item>
         <item quantity="one">1 servei d\'impressió activat</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d converses prioritàries</item>
+        <item quantity="one">%d conversa prioritària</item>
+    </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">S\'ha limitat l\'ús de la bateria per a %1$d aplicacions</item>
         <item quantity="one">S\'ha limitat l\'ús de la bateria per a %1$d aplicació</item>
@@ -332,6 +332,10 @@
         <item quantity="other">S\'han configurat %1$d empremtes</item>
         <item quantity="one">S\'ha configurat %1$d empremta</item>
     </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">Veure totes les %1$d aplicacions</item>
+        <item quantity="one">Veure totes les aplicacions</item>
+    </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Mostra %d elements ocults</item>
         <item quantity="one">Mostra %d element ocult</item>
@@ -349,8 +353,8 @@
         <item quantity="one">%1$d audiòfon guardat</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"Sou a %1$d passos d'entrar a la informació del telèfon."</item>
-        <item quantity="one">"Sou a %1$d pas d'entrar a la informació del telèfon."</item>
+        <item quantity="other">"Estàs a %1$d pas d’obrir la informació del dispositiu."</item>
+        <item quantity="one">"Estàs a %1$d pas d’obrir la informació del dispositiu."</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">"Sou a %1$d passos d'informar d'un error."</item>

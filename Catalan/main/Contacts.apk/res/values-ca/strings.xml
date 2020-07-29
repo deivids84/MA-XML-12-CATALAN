@@ -1350,6 +1350,9 @@ Per afegir un contacte a la llista de preferits:
   <string name="the_united_nations_day">Dia de les Nacions Unides</string>
   <string name="the_valentines_day">"Dia de Sant Valentí"</string>
   <string name="the_water_lantern_festival">Festa dels fanals d\'aigua</string>
+  <string name="theme_dialog_confirm_button">Entesos</string>
+  <string name="theme_dialog_confirm_content">"Aquesta versió de Contactes no és compatible amb el tema actualment aplicat."</string>
+  <string name="theme_dialog_confirm_title">"No es pot aplicar el tema"</string>
   <string name="thursday">Dijous</string>
   <string name="thursday_short">Dj.</string>
   <string name="thursday_shortest">dj.</string>

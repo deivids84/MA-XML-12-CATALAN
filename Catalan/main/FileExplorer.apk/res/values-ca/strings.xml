@@ -425,6 +425,7 @@
   <string name="storage_cloned_app">Emmagatzematge per a aplicacions duals</string>
   <string name="storage_info_detail">Disponible:%1$s Total:%2$s</string>
   <string name="storage_internal">Emmagatzematge intern</string>
+  <string name="storage_maintenance_mode">Emmagatzematge per al mode de manteniment</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="storage_warning">"No es pot utilitzar emmagatzematge extern"</string>

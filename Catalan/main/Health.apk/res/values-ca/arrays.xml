@@ -67,8 +67,8 @@
         <item>Cada dimecres</item>
         <item>Cada dijous</item>
         <item>Cada divendres</item>
-        <item>Cada dissabtes</item>
-        <item>Cada diumenges</item>
+        <item>Cada dissabte</item>
+        <item>Cada diumenge</item>
     </string-array>
     <string-array name="rh_blood_array">
         <item>Sense especificar</item>
@@ -91,7 +91,7 @@
         <item>Toqueu \"Continua\" per obtenir més informació i activar aquesta funció.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>"Xiaomi Health s’assabenta si us heu llevat en funció de la manera d’utilitzar el vostre dispositiu. Si no es detecta cap moviment durant una hora, se us recordarà que us poseu en peu o que afegiu el registre manualment."</item>
+        <item>L’assistent per aixecar-vos detecta la posició del telèfon mòbil i l’enregistra automàticament. Activeu el recordatori d\'aixecar-vos per recordar-vos quan no es detecti que esteu drets en una hora:</item>
         <item>Aquesta funció realitzarà un seguiment del vostre moviment i enviarà recordatoris.</item>
     </string-array>
     <string-array name="temperature_unit">

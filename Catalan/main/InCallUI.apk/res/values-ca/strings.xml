@@ -105,7 +105,7 @@
   <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
   <string name="enter_ai_assistant">Utilitza</string>
-  <string name="enter_ai_assistant_tip">"L’assistent de trucades AI pot rebre aquesta trucada i transcriure el discurs de l’altra persona per a vosaltres. Voleu permetre respondre a AI?"</string>
+  <string name="enter_ai_assistant_tip">"L’AI pot convertir text en discurs si ara no us convé parlar. Feu servir l'AI per fer aquesta trucada?"</string>
   <string name="inCallLabel">Telèfon</string>
   <string name="incall_bubble_hangup_click_hint">Toqueu de nou per tornar a trucar</string>
   <string name="incall_call_type_label_sip">Trucada d\'Internet</string>

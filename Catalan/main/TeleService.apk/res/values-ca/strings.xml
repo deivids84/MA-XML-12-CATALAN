@@ -189,7 +189,7 @@
   <string name="advanced_options_title">Avançat</string>
   <string name="advanced_settings">Paràmetres opcionals</string>
   <string name="advanced_settings_container">contenidor de configuracions avançades</string>
-  <string name="advanced_settings_hide">▷ Toqueu per ocultar-ho tot</string>
+  <string name="advanced_settings_hide">▽ Toqueu per amagar-ho tot</string>
   <string name="advanced_settings_show">▷ Toqueu per mostrar-ho tot</string>
   <string name="advertisements_disable">Anuncis desactivats</string>
   <string name="advertisements_enable">Anuncis permesos</string>
@@ -713,7 +713,6 @@ Taxa de mostreig"</string>
   <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
   <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
   <string name="config_default_data_sim">Configuració</string>
-  <string name="config_schedules_provider_caller_package">ajustaments com.android.</string>
   <string name="confirmPin2Label">Confirmeu el PIN2 nou</string>
   <string name="confirmPinLabel">Confirmeu el PIN nou</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
@@ -835,6 +834,11 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
   <string name="dialog_alert_title">Atenció</string>
   <string name="dialog_cancel">Cancel·la</string>
   <string name="dialog_network_priority_title">Xarxa prioritària</string>
+  <string name="dialog_ota_change_number_fail">"No s'ha pogut canviar el número de telèfon. Si es produeix aquest error després de tornar-ho a provar, contacteu amb el venedor."</string>
+  <string name="dialog_ota_change_number_lgu">Descarregueu USIM ara?</string>
+  <string name="dialog_ota_change_number_lgu_roaming">"No es poden canviar números de telèfon a l'estranger."</string>
+  <string name="dialog_ota_change_number_processing">Descàrrega USIM…</string>
+  <string name="dialog_ota_change_number_success">S\'ha canviat correctament el número de telèfon</string>
   <string name="dialog_report">Notifica</string>
   <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
   <string name="disable">Apaga</string>
@@ -990,6 +994,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
   <string name="fiveg_icon_type1">Tipus Nr Icon :</string>
   <string name="fiveg_infos">Informació 5G</string>
   <string name="fiveg_network_config_type1">Tipus de configuració de la xarxa :</string>
+  <string name="fiveg_network_title">Xarxes 5G</string>
   <string name="fiveg_plmn_info_list1">Llista d\'informació de PLMN :</string>
   <string name="fiveg_restrict_dcnr1">Restringeix DCNR :</string>
   <string name="fiveg_sa_switch_open_dialog_content">La connexió 5G pot ser inestable en mode autònom, la qual cosa pot afectar els serveis de telefonia. De totes maneres, voleu activar el mode SA?</string>
@@ -999,7 +1004,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
   <string name="fiveg_sa_switch_warning_toast">Reinicieu el telèfon perquè tingui efecte.</string>
   <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>
   <string name="fiveg_switch_status1">Estat del commutador 5G:</string>
-  <string name="fiveg_switch_title">Xarxa 5G</string>
+  <string name="fiveg_switch_title">Utilitzeu xarxes 5G</string>
   <string name="fiveg_upperlayer_indication1">Estat de la indicació de la capa superior:</string>
   <string name="flash_when_ring_summary">Encén la llum del flaix en rebre trucades</string>
   <string name="flash_when_ring_title">Flaix en rebre trucada</string>
@@ -1177,6 +1182,12 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="lgu_msim_emm_cause_7_14">"La xarxa SIM %d no proporciona serveis de dades mòbils"</string>
   <string name="lgu_msim_emm_cause_8">"La SIM %d no s'ha pogut registrar a la xarxa. Visiteu un centre d’atenció al client."</string>
   <string name="lgu_msim_emm_cause_others">"La SIM %d no es pot connectar a la xarxa. Visiteu un centre d’atenció al client."</string>
+  <string name="limited_service_alert_dialog_description">&lt;b&gt;Trucades d’emergència mitjançant trucades WLAN&lt;/b&gt;\"
+No són possibles trucades d’emergència mitjançant trucades WLAN. 
+
+El dispositiu canvia automàticament a una xarxa mòbil (2G / 3G) per fer una trucada d’emergència. 
+
+Les trucades d’emergència només són possibles en zones amb cobertura cel·lular. \"</string>
   <string name="limited_sim_function_notification_message">Es poden bloquejar %1$s trucades i serveis de dades mentre s’utilitza una altra SIM.</string>
   <string name="limited_sim_function_notification_title">Funcionalitat SIM limitada</string>
   <string name="limited_sim_function_with_phone_num_notification_message">Es poden bloquejar %1$s trucades i serveis de dades mentre s’utilitza %2$s.</string>
@@ -1209,6 +1220,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="media_category">Elements multimèdia</string>
   <string name="media_transfer_this_device_name">Altaveu de telèfon</string>
   <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
+  <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
   <string name="menu_add">Afegeix un contacte</string>
   <string name="menu_delete">Esborra contacte</string>
   <string name="menu_dial">Truca al contacte</string>
@@ -1410,15 +1422,15 @@ S'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="no_application">Cap</string>
   <string name="no_change">No s\'han realitzat canvis.</string>
   <string name="no_checked_network">"No podreu connectar-vos a la xarxa mòbil i fer trucades. Voleu seleccioneu una altra xarxa?"</string>
-  <string name="no_internet_available">Per establir una trucada per internet, primer comproveu la connexió a Internet.</string>
+  <string name="no_internet_available">Per fer una trucada SIP, comproveu primer la vostra connexió a Internet.</string>
   <string name="no_mobile_data">Les dades mòbils no estan disponibles</string>
   <string name="no_mobile_data_roaming">La itinerància de dades no està disponible</string>
   <string name="no_rtt_when_roaming">Nota: RTT no està disponible en itinerància</string>
   <string name="no_vm_number">Número de bústia de veu perdut</string>
   <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
-  <string name="no_voip">Trucades per Internet no suportades</string>
+  <string name="no_voip">"La trucada SIP no és compatible"</string>
   <string name="no_wifi_available">Necessiteu estar connectat a una xarxa Wi-Fi per fer trucades per internet (utilitzeu els paràmetres de la xarxa &amp; Wi-Fi).</string>
-  <string name="not_a_valid_port">El número de port hauria d\'estar entre 1000 i 65534.</string>
+  <string name="not_a_valid_port">El número de port ha d\'estar entre 1000 i 65534.</string>
   <string name="not_allowed">"La vostra targeta SIM no permet una connexió a aquesta xarxa."</string>
   <string name="not_set">Sense especificar</string>
   <string name="not_voice_capable">Trucada de veu no suportada</string>
@@ -1676,10 +1688,13 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
   <string name="preferred_network_type_3g_only_warning">La vostra targeta SIM ha d\'admetre 3G per connectar a la xarxa.</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G preferentment</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G (CDMA) preferentment</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G / 2G (preferit 3G)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">LTE preferentment</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G (CDMA) preferentment</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_custom">Preferentment 4G</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G / 3G / 2G (preferit 4G)</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">Preferentment 5G</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G / 4G / 3G / 2G (preferit 5G / 4G)</string>
   <string name="preferred_network_type_pref_entries_auto">Automàtic</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">Només 2G</string>
@@ -1800,16 +1815,16 @@ Interface UT: %5$s"</string>
   <string name="register_automatically">Registre automàtic&#8230;</string>
   <string name="register_on_network">S\'està registrant a %s&#8230;</string>
   <string name="registration_done">Registrat a la xarxa.</string>
-  <string name="registration_status_checking_status">S\'està comprovant l\'estat...</string>
-  <string name="registration_status_done">Es poden rebre trucades.</string>
-  <string name="registration_status_failed_try_later">Registre del compte incorrecte: (%s); es provarà més tard</string>
-  <string name="registration_status_invalid_credentials">Ha fallat el registre del compte: Nom d\'usuari o contrasenya incorrectes.</string>
-  <string name="registration_status_no_data">El registre del compte s\'ha aturat perquè no hi havia connexió a Internet.</string>
-  <string name="registration_status_no_wifi_data">El registre del compte s\'ha aturat perquè no hi havia connexió sense fils.</string>
-  <string name="registration_status_not_receiving">No es poden rebre trucades.</string>
-  <string name="registration_status_not_running">Ha fallat el registre del compte.</string>
+  <string name="registration_status_checking_status">Comprovació de l\'estat…</string>
+  <string name="registration_status_done">Aquest dispositiu pot rebre trucades.</string>
+  <string name="registration_status_failed_try_later">"No s'ha pogut registrar el compte: %s. Un altre intent es farà més endavant."</string>
+  <string name="registration_status_invalid_credentials">"No s'ha pogut registrar el compte. Nom d'usuari o contrasenya incorrecta."</string>
+  <string name="registration_status_no_data">"No s'ha pogut registrar el compte. Aquest dispositiu no està connectat a Internet."</string>
+  <string name="registration_status_no_wifi_data">"No s'ha pogut registrar el compte. Aquest dispositiu no està connectat a WLAN."</string>
+  <string name="registration_status_not_receiving">"No es poden rebre trucades."</string>
+  <string name="registration_status_not_running">"No s'ha pogut registrar el compte."</string>
   <string name="registration_status_registering">S\'està registrant&#8230;</string>
-  <string name="registration_status_server_unreachable">Registre del compte no realitzat: Comproveu el nom del servidor.</string>
+  <string name="registration_status_server_unreachable">"No s'ha pogut registrar el compte. Comproveu el nom del servidor."</string>
   <string name="registration_status_still_trying">Encara s\'està intentant&#8230;</string>
   <string name="reject_via_sms">Respostes ràpides</string>
   <string name="reject_via_sms_summary">Mostra els botons per finalitzar la trucada i enviar SMS</string>
@@ -2000,6 +2015,9 @@ Interface UT: %5$s"</string>
   <string name="skt_msim_emm_cause_7_8_15">"La SIM %d no ha pogut registrar la xarxa. Apagueu el dispositiu, enceneu-lo de nou i torneu-ho a provar. Si encara teniu aquest problema, contacteu amb el servei d’atenció al client."</string>
   <string name="smart_divert_summary">Configuració CFNRc</string>
   <string name="smart_divert_title">Desviament intel·ligent</string>
+  <string name="smart_dual_sim_prompt">El dispositiu es connectarà a una xarxa de dades mòbils mitjançant la SIM secundària quan la connectivitat actual sigui pobra. Això pot generar tarifes addicionals per a les dades. Poseu-vos en contacte amb el vostre operador local per obtenir més informació sobre el vostre pla de dades.</string>
+  <string name="smart_dual_sim_summary">Canvieu a la targeta SIM secundària i utilitzeu automàticament les seves dades mòbils quan la connectivitat actual sigui pobra. Quan la connectivitat millori, torneu a la targeta SIM original.</string>
+  <string name="smart_dual_sim_title">Smart SIM dual</string>
   <string name="smart_forwarding_settings_menu">Desviament intel·ligent</string>
   <string name="smart_forwarding_settings_menu_summary">"Quan no es pot accedir a un número, desvia sempre les trucades a l'altre número"</string>
   <string name="sms_messages_title">SMS</string>
@@ -2078,6 +2096,8 @@ Interface UT: %5$s"</string>
   <string name="supp_service_over_ut_precautions_roaming_dual_sim">Per utilitzar %1$s, assegureu-vos que les dades mòbils i la itinerància de dades estan activades per la SIM %2$d. Podeu canviar-ho a la configuració de la xarxa mòbil.</string>
   <string name="switch_dds_to_sub_alert">Canvieu les dades mòbils a la targeta SIM</string>
   <string name="switch_dds_to_sub_alert_msg">Canvieu les dades del mòbil a SIM</string>
+  <string name="switch_off">Desactivat</string>
+  <string name="switch_on">Encén</string>
   <string name="t9_indexing_method_pinyin">Alfabet llatí</string>
   <string name="t9_indexing_method_title">Entrada de cerca T9</string>
   <string name="t9_indexing_method_zhuyin">Transcripció fonètica</string>
@@ -2123,7 +2143,7 @@ Interface UT: %5$s"</string>
   <string name="tethering_hardware_offload">Acceleració del maquinari de l\'ancoratge</string>
   <string name="tethering_hardware_offload_summary">Utilitza l\'acceleració del maquinari de l\'ancoratge si està disponible</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
-  <string name="third_party_account_summary">Aquest compte l\'utilitza actualment l\'aplicació %s.</string>
+  <string name="third_party_account_summary">Actualment, aquest compte l\'utilitza l\'aplicació %s.</string>
   <string name="throttle_current_usage">Volum de dades usat en el període actual</string>
   <string name="throttle_data_rate_reduced_subtext">"S'ha superat el màxim de %1$s
 La transmissió de dades s'ha baixat a %2$d Kb/s"</string>
