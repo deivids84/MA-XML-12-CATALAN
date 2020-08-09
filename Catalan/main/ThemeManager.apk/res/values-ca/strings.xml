@@ -888,7 +888,7 @@ mm"</string>
   <string name="support_theme_store_supported">Gràcies pel teu recolzament!</string>
   <string name="support_theme_store_title">Donar suport als nostres dissenyadors</string>
   <string name="swipe_find_more">Feu lliscar el dit cap a l’esquerra per veure’n més</string>
-  <string name="system_aod_dialog_message">urn-on: apareix sempre a la configuració primer.</string>
+  <string name="system_aod_dialog_message">Activeu apareix sempre a la configuració primer.</string>
   <string name="system_aod_dialog_positive_button">Configuració</string>
   <string name="system_aod_dialog_title">La pantalla sempre activa està desactivada</string>
   <string name="system_cta_agree_desc">Permet a aquesta aplicació connectar-se a Internet i atorgar els permisos obligatoris enumerats anteriorment.</string>
