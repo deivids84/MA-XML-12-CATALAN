@@ -211,7 +211,7 @@ Podeu canviar aquesta drecera a una altra funció a Configuració &gt; Accessibi
   <string name="activitychooserview_choose_application">Trieu una aplicació</string>
   <string name="activitychooserview_choose_application_error">"No s'ha pogut obrir %s"</string>
   <string name="adb_active_notification_message">Toqueu per desactivar la depuració USB.</string>
-  <string name="adb_active_notification_title">Està connectada la depuració USB</string>
+  <string name="adb_active_notification_title">Depuració USB connectada</string>
   <string name="adb_debugging_notification_channel_tv">Depuració USB</string>
   <string name="adbwifi_active_notification_message">Toqueu per desactivar la depuració sense fils</string>
   <string name="adbwifi_active_notification_title">Està connectada la depuració sense fils</string>
@@ -825,6 +825,14 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="location_changed_notification_title">Les aplicacions poden accedir a la vostra ubicació</string>
   <string name="location_service">Servei d\'ubicació</string>
   <string name="lock_pattern_view_aspect">quadrat</string>
+  <string name="lock_to_app_description">"La fixació de pantalla bloqueja la pantalla en una vista.
+
+Per treure la fixació, premeu i mantingueu el botó Inici i el d'encesa a la vegada."</string>
+  <string name="lock_to_app_description_accessible">"La fixació de pantalla bloqueja la pantalla en una vista.
+
+Per treure la fixació, premeu i mantingueu el botó Inici i el d'encesa a la vegada."</string>
+  <string name="lock_to_app_toast">Per desenganxar la pantalla, premeu i mantingueu el botó Inici i el d\'encesa a la vegada.</string>
+  <string name="lock_to_app_toast_accessible">Per desenganxar la pantalla, premeu i mantingueu el botó Inici i el d\'encesa a la vegada.</string>
   <string name="lock_to_app_unlock_password">Demana la contrasenya abans de desenganxar</string>
   <string name="lock_to_app_unlock_pattern">Demana el patró de desbloqueig abans de desenganxar</string>
   <string name="lock_to_app_unlock_pin">Demana el PIN abans de desenganxar</string>
@@ -863,8 +871,8 @@ Visiteu \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_pattern_correct">Correcte!</string>
   <string name="lockscreen_pattern_instructions">Dibuixeu el patró per desbloquejar</string>
   <string name="lockscreen_pattern_wrong">Torna-ho a provar</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"La targeta SIM s'ha desactivat definitivament.
- Poseu-vos en contacte amb el proveïdor de serveis sense fils per obtenir una altra targeta SIM."</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">"La targeta SIM s'ha desactivat permanentment.
+ Per obtenir una altre targeta SIM, poseu-vos en contacte amb el vostre operador."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Targeta SIM no utilitzable.</string>
   <string name="lockscreen_return_to_call">Torna a la trucada</string>
   <string name="lockscreen_screen_locked">Pantalla bloquejada.</string>
@@ -1639,6 +1647,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="terabyteShort">TB</string>
   <string name="test_harness_mode_notification_message">Realitzeu un restabliment de fàbrica per desactivar el mode Harness Test.</string>
   <string name="test_harness_mode_notification_title">El mode Test Harness està activat</string>
+  <string name="tethered_notification_message">Toqueu per configurar.</string>
   <string name="tethered_notification_multi_device_message">%1$s dispositius connectats</string>
   <string name="tethered_notification_no_device_message">Cap dispositiu connectat</string>
   <string name="tethered_notification_one_device_message">%1$s dispositius connectats</string>
@@ -1685,16 +1694,16 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="usb_contaminant_not_detected_message">El telèfon ja no detecta líquids ni brutícia.</string>
   <string name="usb_contaminant_not_detected_title">D\'acord per utilitzar el port USB</string>
   <string name="usb_device_resolve_prompt_warn">Aquesta aplicació no té permís de registre, però pot capturar àudio mitjançant aquest dispositiu USB.</string>
-  <string name="usb_midi_notification_title">MIDI via USB està activat</string>
+  <string name="usb_midi_notification_title">USB per MIDI</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Port USB perifèric d\'Android</string>
   <string name="usb_midi_peripheral_product_name">Port USB perifèric</string>
   <string name="usb_mtp_launch_notification_description">Toqueu per mostrar els fitxers</string>
   <string name="usb_mtp_launch_notification_title">S\'ha connectat a %1$s</string>
-  <string name="usb_mtp_notification_title">La transferència de fitxers USB s\'ha activat</string>
+  <string name="usb_mtp_notification_title">USB per transferir fitxers</string>
   <string name="usb_notification_message">Toqueu per a més opcions.</string>
   <string name="usb_power_notification_message">S\'està carregant el dispositiu connectat. Toqueu per obtenir més opcions.</string>
-  <string name="usb_ptp_notification_title">PTP via USB activat</string>
+  <string name="usb_ptp_notification_title">USB per transferir fotos</string>
   <string name="usb_storage_activity_title">Emmagatzematge massiu USB</string>
   <string name="usb_storage_button_mount">Activa l\'emmagatzematge USB</string>
   <string name="usb_storage_error_message">"Hi ha un problema per a la utilització de l'emmagatzematge USB com a emmagatzematge massiu USB."</string>
@@ -1709,9 +1718,9 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="usb_storage_stop_title">Emmagatzematge USB en ús</string>
   <string name="usb_storage_title">USB connectat</string>
   <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
-  <string name="usb_tether_notification_title">La connexió a USB es va activar</string>
-  <string name="usb_unsupported_audio_accessory_message">El dispositiu adjunt no és compatible amb aquest telèfon. Toqueu per obtenir més informació.</string>
-  <string name="usb_unsupported_audio_accessory_title">S\'ha detectat un accessori d\'àudio analògic</string>
+  <string name="usb_tether_notification_title">El tethering per USB està activat</string>
+  <string name="usb_unsupported_audio_accessory_message">"Aquest dispositiu no és compatible amb el telèfon. Premeu per a més informació."</string>
+  <string name="usb_unsupported_audio_accessory_title">Accessori d\'àudio analògic detectat</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
   <string name="user_creation_account_exists">Permetre a %1$s crear un nou usuari amb %2$s (ja existeix un usuari amb aquest compte)?</string>
   <string name="user_creation_adding">Permetre a %1$s crear un nou usuari amb %2$s?</string>
@@ -1725,11 +1734,11 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="volume_call">Volum de la trucada entrant</string>
   <string name="volume_dialog_ringer_guidance_silent">Les trucades i les notificacions seran silenciades</string>
   <string name="volume_dialog_ringer_guidance_vibrate">Les trucades i les notificacions vibraran</string>
-  <string name="volume_icon_description_bluetooth">Volum Bluetooth</string>
-  <string name="volume_icon_description_incall">Volum de trucada</string>
-  <string name="volume_icon_description_media">Volum de suports</string>
-  <string name="volume_icon_description_notification">Volum de notificació</string>
-  <string name="volume_icon_description_ringer">Volum de to</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth</string>
+  <string name="volume_icon_description_incall">Trucada</string>
+  <string name="volume_icon_description_media">Multimèdia</string>
+  <string name="volume_icon_description_notification">Notificació</string>
+  <string name="volume_icon_description_ringer">Timbre</string>
   <string name="volume_music">Volum multimèdia</string>
   <string name="volume_music_hint_playing_through_bluetooth">S\'està reproduint per Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">To de silenci establert</string>

@@ -1237,13 +1237,13 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
     </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Per defecte</item>
-        <item>Compacta</item>
-    </string-array>
     <string-array name="default_vol_stream_entries">
         <item>To de trucada</item>
         <item>Multimèdia</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Per defecte</item>
+        <item>Compacta</item>
     </string-array>
     <string-array name="charge_animation_style_entries">
         <item>Desactivat</item>

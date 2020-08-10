@@ -225,7 +225,7 @@
   <string name="noon">Migdia</string>
   <string name="not_sent_recently">No recentment</string>
   <string name="not_set">Sense especificar</string>
-  <string name="notch_and_status_bar_setting">Barra d\'estat i notch</string>
+  <string name="notch_and_status_bar_setting">Centre de control i barra d\'estat</string>
   <string name="notification_aggregate_description1">MIUI pot agrupar les notificacions push i promocionals de manera automàtica, fent que l\'àrea de notificacions estigui menys plena.</string>
   <string name="notification_aggregate_description2">"Els nostres algoritmes analitzen el contingut de les notificacions i no apliquen aquesta funció a alertes i notificacions importants de missatgers instantanis. Si trobeu que les notificacions importants s’agrupen per error, informeu del problema que heu trobat amb la nostra funció de \"retroalimentació\"."</string>
   <string name="notification_aggregate_summary">Permet que MIUI agrupi les notificacions automàticament</string>

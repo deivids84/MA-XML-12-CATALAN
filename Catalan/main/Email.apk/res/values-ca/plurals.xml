@@ -25,8 +25,8 @@
         <item quantity="one">Voleu eliminar %1$d esborrany?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d seleccionats</item>
-        <item quantity="one">%d seleccionat</item>
+        <item quantity="other">S\'han afegit %d contactes</item>
+        <item quantity="one">S\'ha afegit %d contacte</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; arxivades.</item>
@@ -115,6 +115,46 @@
     <plurals name="num_selected">
         <item quantity="other">%d seleccionats</item>
         <item quantity="one">%d seleccionat</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d dies després</item>
+        <item quantity="one">%1$d dia després</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">Fa %1$d dies</item>
+        <item quantity="one">Fa %1$d dia</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d hores després</item>
+        <item quantity="one">%1$d hores després</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">Fa %1$d hores</item>
+        <item quantity="one">Fa %1$d hora</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minuts després</item>
+        <item quantity="one">%1$d minuts després</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">Fa %1$d minuts</item>
+        <item quantity="one">Fa %1$d minuts</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d segons després</item>
+        <item quantity="one">%1$d segons després</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">Fa %1$d segons</item>
+        <item quantity="one">%1$d fa segons</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d setmanes després</item>
+        <item quantity="one">%1$d setmana després</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">Fa %1$d setmanes</item>
+        <item quantity="one">Fa %1$d setmana</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Respon a %1$d persones</item>
