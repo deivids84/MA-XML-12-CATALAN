@@ -122,8 +122,8 @@
   <string name="cannot_send_message_reason">El missatge no té destinataris vàlids.</string>
   <string name="card_insert_to_contact">Importa el contacte</string>
   <string name="change_duration_activity">Canvia la durada</string>
-  <string name="chatbox_list_title">Les meves mini aplicacions</string>
-  <string name="chatbox_main_title">Mini aplicacions</string>
+  <string name="chatbot_list_title">Missatgeria 5G</string>
+  <string name="chatbot_main_title">Mini aplicacions</string>
   <string name="check_all">Selecciona-ho tot</string>
   <string name="class_0_message_activity">Missatge de classe 0</string>
   <string name="classifing">Agrupació de missatges…</string>

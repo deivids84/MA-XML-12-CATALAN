@@ -658,7 +658,6 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
   <string name="mw_color_picker_saturation">Saturació</string>
   <string name="mw_color_picker_value">Valor</string>
   <string name="mw_copy_to_clipboard_failure_message">No s\'ha pogut copiar al porta-retalls</string>
-  <string name="mw_current_detected_ui_locale_name">ca</string>
   <string name="mw_data_traffic_prompt_change">"L'ús de la connexió de dades mòbils per mirar vídeos augmentarà l'ús de dades. Si supereu el límit d'ús de dades del vostre pla, el nostre operador us podria cobrar despeses addicionals."</string>
   <string name="mw_data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
   <string name="mw_data_traffic_prompt_message_short">Si utilitzeu les dades de mòbil per a transmetre vídeo, podríeu superar el límit del vostre pla de dades.</string>
@@ -795,9 +794,8 @@ Esteu segur que voleu navegar fora d'aquesta pàgina?"</string>
   <string name="nav_launch_title">Proveu d\'utilitzar les següents aplicacions</string>
   <string name="nav_lunch_duokan">S\'està obrint Duokan…</string>
   <string name="nav_screen_container_tab_incognito">Pestanya d\'incògnit</string>
-  <string name="nav_screen_incognito_message">"L'historial de navegació i cerca no es desarà en mode Incògnit.
-Recordeu que encara seran desats els fitxers que descarregueu i les adreces d'interès que afegiu."</string>
-  <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
+  <string name="nav_screen_incognito_message">"Ara podeu navegar en privat. L'historial de navegació, les sol·licituds de cerca i les descàrregues no es registraran. No guardarem les dades del lloc."</string>
+  <string name="nav_screen_incognito_title">"Heu canviat al mode Incògnit."</string>
   <string name="navigate_feedback_dislike">no m’interessa</string>
   <string name="navigate_feedback_dislike_tips">Vull reduir les recomanacions de vídeos</string>
   <string name="navigate_feedback_input_report_label">Altres raons</string>
@@ -1261,6 +1259,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d'a
   <string name="title_bar_loading">S\'està carregant…</string>
   <string name="title_notice_push">Activa les notificacions</string>
   <string name="toast_feedback">"Veureu menys elements d’aquest tipus."</string>
+  <string name="toast_not_support">"Aquesta funció encara no és compatible"</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
   <string name="topic_content_default">tema</string>

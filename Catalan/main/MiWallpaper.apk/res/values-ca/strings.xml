@@ -288,6 +288,7 @@ mm"</string>
   <string name="time_picker_dialog_title">Establiu l\'hora</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
   <string name="tuesday">Dimarts</string>

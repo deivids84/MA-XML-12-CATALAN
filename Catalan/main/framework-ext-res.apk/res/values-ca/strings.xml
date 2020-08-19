@@ -26,6 +26,12 @@
   <string name="autofill_save_sub_message">"Podreu gestionar les contrasenyes desades a Configuració &gt; Contrasenyes i seguretat &gt; %s."</string>
   <string name="autofill_save_title">Desa les contrasenyes automàticament</string>
   <string name="autofill_service_name">Gestiona les contrasenyes</string>
+  <string name="bluetooth_close">Aquesta aplicació ha desactivat el Bluetooth</string>
+  <string name="bluetooth_disable_notification_content">%s desactivat Bluetooth</string>
+  <string name="bluetooth_disable_notification_title">El Bluetooth està desactivat</string>
+  <string name="bluetooth_enable_notification_content">%s activar el Bluetooth</string>
+  <string name="bluetooth_enable_notification_title">El Bluetooth està activat</string>
+  <string name="bluetooth_open">Aquesta aplicació va activar el Bluetooth</string>
   <string name="btn_cancel">Cancel·la</string>
   <string name="btn_sure">D\'acord</string>
   <string name="button_text_cancel">Cancel·la</string>

@@ -4,6 +4,14 @@
         <item quantity="other">Enfocat. S\'ha detectat %d cares</item>
         <item quantity="one">Enfocat. S\'ha detectat %d cara</item>
     </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotos en un tret de explosió</item>
+        <item quantity="one">%d foto en un tret de ràfega</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d segons</item>
+        <item quantity="one">Interval: %d segons</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Podeu crear fins a %d clons alhora.</item>
         <item quantity="one">Podeu crear fins a %d clon alhora.</item>

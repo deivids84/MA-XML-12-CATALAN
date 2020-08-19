@@ -2015,7 +2015,9 @@ Interface UT: %5$s"</string>
   <string name="skt_msim_emm_cause_7_8_15">"La SIM %d no ha pogut registrar la xarxa. Apagueu el dispositiu, enceneu-lo de nou i torneu-ho a provar. Si encara teniu aquest problema, contacteu amb el servei d’atenció al client."</string>
   <string name="smart_divert_summary">Configuració CFNRc</string>
   <string name="smart_divert_title">Desviament intel·ligent</string>
-  <string name="smart_dual_sim_prompt">El dispositiu es connectarà a una xarxa de dades mòbils mitjançant la SIM secundària quan la connectivitat actual sigui pobra. Això pot generar tarifes addicionals per a les dades. Poseu-vos en contacte amb el vostre operador local per obtenir més informació sobre el vostre pla de dades.</string>
+  <string name="smart_dual_sim_prompt">El dispositiu es connectarà a una xarxa de dades mòbils mitjançant la SIM secundària si la connectivitat actual és pobra. Això pot generar tarifes addicionals per a les dades. Definiu un límit d\'ús de dades per evitar taxes addicionals.</string>
+  <string name="smart_dual_sim_prompt_ok">Configuració de xarxa</string>
+  <string name="smart_dual_sim_prompt_title">Avís d’ús de dades (SIM %s)</string>
   <string name="smart_dual_sim_summary">Canvieu a la targeta SIM secundària i utilitzeu automàticament les seves dades mòbils quan la connectivitat actual sigui pobra. Quan la connectivitat millori, torneu a la targeta SIM original.</string>
   <string name="smart_dual_sim_title">Smart SIM dual</string>
   <string name="smart_forwarding_settings_menu">Desviament intel·ligent</string>

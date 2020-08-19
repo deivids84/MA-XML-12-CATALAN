@@ -116,6 +116,7 @@
   <string name="ks_download_success">S\'ha baixat amb èxit</string>
   <string name="ks_fingerprint_payment">Pagaments amb l\'empremta</string>
   <string name="ks_fingerprint_status">Estat del pagament</string>
+  <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
   <string name="ks_status_available">Disponible</string>
   <string name="ks_status_unavailable">No disponible</string>
   <string name="ks_update_certificate">Certificat</string>
@@ -161,10 +162,10 @@
   <string name="micloud_battery_low_notification_message">Connecteu el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member_safe">Obtén més emmagatzematge al MiCloud</string>
-  <string name="micloud_check_sim_notify_text">"Sembla que heu canviat les targetes SIM. Inicieu la 
+  <string name="micloud_check_sim_notify_text">"Sembla que heu canviat les targetes SIM. Inicieu la
 sessió al vostre compte Mi per reactivar Xiaomi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactiva Xiaomi Cloud</string>
-  <string name="micloud_check_sim_title">"Sembla que heu canviat les targetes SIM. Inicieu la 
+  <string name="micloud_check_sim_title">"Sembla que heu canviat les targetes SIM. Inicieu la
 sessió al vostre compte Mi per reactivar Xiaomi Cloud."</string>
   <string name="micloud_confusion_account_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
   <string name="micloud_confusion_account_name">ID de compte Mi: </string>
@@ -382,6 +383,15 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
   <string name="micloud_wipe_data_confirm_title">Alguns elements de les aplicacions següents se sincronitzen amb Xiaomi Cloud. Podeu suprimir-les d’aquest dispositiu mantenint-los al núvol.</string>
   <string name="micloud_wipe_data_remove">Elimina</string>
   <string name="micloud_wipe_data_retain">Deixa</string>
+  <string name="midrive_guide1_desc">Fes una còpia de seguretat d’elements al núvol per alliberar l’espai d’emmagatzematge al dispositiu.</string>
+  <string name="midrive_guide1_title">Còpies de seguretat segures</string>
+  <string name="midrive_guide2_desc">Baixeu els elements a la velocitat del coll.</string>
+  <string name="midrive_guide2_title">Descàrregues ràpides</string>
+  <string name="midrive_guide3_desc">Utilitzeu Mi Drive en dispositius mòbils, ordinadors i navegadors.</string>
+  <string name="midrive_guide3_title">Funciona a tot arreu</string>
+  <string name="midrive_guide_btn_install">Instal·leu Mi Drive</string>
+  <string name="midrive_guide_btn_installed">Obre el meu disc</string>
+  <string name="midrive_guide_btn_installing">S\'està instal·lant…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>

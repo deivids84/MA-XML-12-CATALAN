@@ -94,6 +94,7 @@
   <string name="activity_title_permission_manager">Permisos</string>
   <string name="activity_title_permissions_manager">Permisos</string>
   <string name="activity_title_power_manager">Ús de bateria</string>
+  <string name="activity_title_risk_app_install_manager">Aplicacions amb possibles riscos</string>
   <string name="activity_title_root_acquired">Permet l\'accés root</string>
   <string name="activity_title_root_manager">Accés root</string>
   <string name="activity_title_root_note">Quant a l\'accés root</string>
@@ -160,12 +161,10 @@
   <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
   <string name="antivirus_not_wlan">"No esteu connectat a wifi. L’ús de dades mòbils pot generar tarifes addicionals. Continuar de totes maneres?"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Puja noms i detalls d\'aplicacions</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Puja i escaneja els noms i detalls de les aplicacions mitjançant les definicions de virus en línia.</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">"Per detectar i neutralitzar els virus de manera més eficaç, penjarem els noms i les propietats dels paquets de les aplicacions per escanejar-los mitjançant un motor en núvol."</string>
   <string name="antivirus_privacy_dialog_ok">D\'acord</string>
+  <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Aquesta funció funciona amb un motor antivirus de tercers. Per a més informació, llegiu la &amp;lt;a href="%1$s"&amp;gt;Contracte de Llicència&amp;lt;/ a&amp;gt; proporcionada pel tercer.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_summary_link">mostra la política de privadesa</string>
-  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Aquesta característica utilitza definicions antivirus proporcionades per Avast, AVL i Tencent. Llegir la relacionada amb &amp;lt;a href = \"%1$s\"&amp;gt;contractes de llicència&amp;lt;/ o un&amp;gt; a aprendre més.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Aquesta característica utilitza definicions antivirus proporcionades per AVL i Tencent. Llegir la relacionada amb &amp;lt;a href = \"%1$s\"&amp;gt;contractes de llicència&amp;lt;/ o un&amp;gt; a aprendre més.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Aquesta característica utilitza definicions antivirus proporcionades per Avast i AVL. Llegir la relacionada amb &amp;lt;a href = \"%1$s\"&amp;gt;contractes de llicència&amp;lt;/ o un&amp;gt; a aprendre més.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_title">Política de privadesa</string>
   <string name="antivirus_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que Seguretat es connecti a Internet?"</string>
   <string name="antivirus_toast_already_update">Actualitzat</string>
@@ -1011,7 +1010,7 @@ targeta mèdica"</string>
   <string name="ew_arrive_text_tips">L\'onada sísmica ha arribat: %s</string>
   <string name="ew_button_confirm">D\'acord</string>
   <string name="ew_button_exit">"Es desacord"</string>
-  <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Aquesta funció permet l\'avís de terratrèmols. Rebreu notificacions i una alarma sonora sobre els terratrèmols previstos. Us indicarà el refugi més proper, trucar al telèfon d\'emergència assignat i disposar de la targeta sanitària. &amp;lt;br&amp;gt;Protegirem la informació personal segons les lleis de protecció de dades. &amp;lt;br&amp;gt;Heu d\'acceptar els permisos per poder disposar d\'informació personal: &amp;lt;br&amp;gt;&amp;#8226; Informació del lloc: &amp;lt;br&amp;gt;Per saber on sou i informar amb precisió dels avisos de terratrèmols. &amp;lt;br&amp;gt;Si no hi esteu d\'acord i no voleu compartir aquesta informació personal, no podreu utilitzar aquest servei. Podeu activar o desactivar-ho sempre que vulgueu. &amp;lt;br&amp;gt;Heu de llegir i acceptar &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; abans d\'activar aquesta funció.\"&lt;/Data&gt;</string>
+  <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Aquesta funció permet l\'avís de terratrèmols. Rebreu notificacions i una alarma sonora sobre els terratrèmols previstos. Us indicarà el refugi més proper, trucar al telèfon d\'emergència assignat i disposar de la targeta sanitària. &amp;lt;br&amp;gt;Protegirem la informació personal segons les lleis de protecció de dades. &amp;lt;br&amp;gt;Heu d\'acceptar els permisos per poder disposar d\'informació personal: &amp;lt;br&amp;gt;&amp;#8226; Informació del lloc: &amp;lt;br&amp;gt;Per saber on sou i informar amb precisió dels avisos de terratrèmols. &amp;lt;br&amp;gt;Si no hi esteu d\'acord i no voleu compartir aquesta informació personal, no podreu utilitzar aquest servei. Podeu activar o desactivar-ho sempre que vulgueu. &amp;lt;br&amp;gt;Heu de llegir i acceptar &amp;lt;a href="http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; abans d\'activar aquesta funció.\"&lt;/Data&gt;</string>
   <string name="ew_close">Desactiva l\'alerta</string>
   <string name="ew_emergency_allergy">Al·lèrgies</string>
   <string name="ew_emergency_basic_info">Informació bàsica</string>
@@ -1045,7 +1044,7 @@ targeta mèdica"</string>
   <string name="ew_guide_next_text">Següent</string>
   <string name="ew_guide_play_audio">Reprodueix el so d\'avís</string>
   <string name="ew_guide_play_audio_last">Reprodueix el so d\'avís (%ds)</string>
-  <string name="ew_guide_statement_text">&lt;Data&gt;\"Aquesta renúncia s\'aplica a tots els usuaris (en endavant, \"vostès\") que activen la funció d\'avís de terratrèmols. En acceptar aquesta renúncia, subscriviu un contracte legalment vinculant amb Xiaomi Inc. i els seus afiliats (en endavant Xiaomi). Reconeixeu que heu llegit tot el contingut d\'aquesta exempció de responsabilitat i que enteneu i accepteu plenament tots els termes i condicions d\'aquesta exempció de responsabilitat; en cas contrari, haureu d’apagar immediatament la funció d’avís del terratrèmol.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declaració especial&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La funcionalitat d’alerta de terratrèmols ja està disponible en algunes zones seleccionades (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Toqueu per veure-ho&amp;lt;/a&amp;gt;). Més regions estaran disponibles en breu.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Renúncia&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Xiaomi proporciona les funcions d’avís de terratrèmols a l’aplicació Seguretat. Heu d’entendre que la informació d’alerta de terratrèmols la proporcionen les agències d’alerta precoç del govern. Xiaomi no supervisa aquestes agències i no té cap control sobre aquestes.&amp;lt;br&amp;gt; Xiaomi no promet ni garanteix la precisió, la validesa i la puntualitat de la informació d’avís de terratrèmols ni garanteix que el servei d’alerta de terratrèmols satisfaci totes les vostres necessitats.&amp;lt;br&amp;gt; Per rebre informació d’avís de terratrèmols, cal que mantingueu el dispositiu connectat a la xarxa mòbil. Els errors de la línia de comunicació de tercers, problemes tècnics, fallades dels equips de la xarxa o del terminal, la inestabilitat del sistema i altres esdeveniments de força major poden evitar que rebis informació d’avís de terratrèmols. Xiaomi no assumirà cap responsabilitat per les pèrdues causades per aquests esdeveniments.&amp;lt;br&amp;gt; Heu d’entendre que aquesta característica només es proporciona per a la vostra referència. L’avís que rebeu podria arribar segons després de l’inici d’un terratrèmol. L\'únic responsable dels riscos i conseqüències de les accions que realitzeu es basa en la informació proporcionada per aquesta funció.&amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
+  <string name="ew_guide_statement_text">&lt;Data&gt;\"Aquesta renúncia s\'aplica a tots els usuaris (en endavant, \"vostès\") que activen la funció d\'avís de terratrèmols. En acceptar aquesta renúncia, subscriviu un contracte legalment vinculant amb Xiaomi Inc. i els seus afiliats (en endavant Xiaomi). Reconeixeu que heu llegit tot el contingut d\'aquesta exempció de responsabilitat i que enteneu i accepteu plenament tots els termes i condicions d\'aquesta exempció de responsabilitat; en cas contrari, haureu d’apagar immediatament la funció d’avís del terratrèmol.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Declaració especial&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La funcionalitat d’alerta de terratrèmols ja està disponible en algunes zones seleccionades (&amp;lt;a href="https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s"&amp;gt;Toqueu per veure-ho&amp;lt;/a&amp;gt;). Més regions estaran disponibles en breu.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Renúncia&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Xiaomi proporciona les funcions d’avís de terratrèmols a l’aplicació Seguretat. Heu d’entendre que la informació d’alerta de terratrèmols la proporcionen les agències d’alerta precoç del govern. Xiaomi no supervisa aquestes agències i no té cap control sobre aquestes.&amp;lt;br&amp;gt; Xiaomi no promet ni garanteix la precisió, la validesa i la puntualitat de la informació d’avís de terratrèmols ni garanteix que el servei d’alerta de terratrèmols satisfaci totes les vostres necessitats.&amp;lt;br&amp;gt; Per rebre informació d’avís de terratrèmols, cal que mantingueu el dispositiu connectat a la xarxa mòbil. Els errors de la línia de comunicació de tercers, problemes tècnics, fallades dels equips de la xarxa o del terminal, la inestabilitat del sistema i altres esdeveniments de força major poden evitar que rebis informació d’avís de terratrèmols. Xiaomi no assumirà cap responsabilitat per les pèrdues causades per aquests esdeveniments.&amp;lt;br&amp;gt; Heu d’entendre que aquesta característica només es proporciona per a la vostra referència. L’avís que rebeu podria arribar segons després de l’inici d’un terratrèmol. L\'únic responsable dels riscos i conseqüències de les accions que realitzeu es basa en la informació proporcionada per aquesta funció.&amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
   <string name="ew_guide_tips_1">"Rebreu una notificació i un avís sonor dels propers terratrèmols previstos"</string>
   <string name="ew_guide_tips_2">La informació i el so d’alerta s’actualitzaran durant el terratrèmol</string>
   <string name="ew_guide_tips_3">"Podreu trobar el refugi més proper, trucar al vostre contacte d’emergència i presentar la vostra targeta mèdica si cal"</string>
@@ -1464,7 +1463,7 @@ de les teves sessions de joc"</string>
   <string name="gb_xunyou_gift_type_one">1 dia d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_three">3 dies d\'acceleració de Xunyou</string>
   <string name="gb_xunyou_gift_type_two">2 dies d\'acceleració de Xunyou</string>
-  <string name="gdpr_msg">&lt;Data&gt;\"Per poder detectar els riscos de seguretat i protegir les vostres dades, hem de recopilar la informació necessària sobre el vostre dispositiu. Llegiu i accepteu el nostre &amp;lt;a href =\" https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt; abans d\'utilitzar els nostres serveis. En cas que no ens permeteu recopilar aquesta informació, podreu utilitzar aquesta aplicació, però algunes funcions no estaran disponibles per a vosaltres. \"&lt;/Data&gt;</string>
+  <string name="gdpr_msg">&lt;Data&gt;\"Per poder detectar els riscos de seguretat i protegir les vostres dades, hem de recopilar la informació necessària sobre el vostre dispositiu. Llegiu i accepteu el nostre &amp;lt;a href="https://privacy.mi.com/all/%1$s_%2$s"&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt; abans d\'utilitzar els nostres serveis. En cas que no ens permeteu recopilar aquesta informació, podreu utilitzar aquesta aplicació, però algunes funcions no estaran disponibles per a vosaltres. \"&lt;/Data&gt;</string>
   <string name="get_sys_info">S\'està obtenint la informació…</string>
   <string name="global_wa_setting_alert_dialog_content">Podeu alliberar %s</string>
   <string name="global_wa_setting_alert_dialog_title">Netejador de WhatsApp</string>
@@ -1486,8 +1485,6 @@ de les teves sessions de joc"</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
   <string name="gs_auto_clean_memory_detail">Esborra la memòria cau automàticament per optimitzar el joc</string>
-  <string name="gs_autobooster">Accelera automàticament</string>
-  <string name="gs_autobooster_detail">Augmenta la velocitat dels jocs seleccionats automàticament</string>
   <string name="gs_autobooster_dialog_message">"Si utilitzeu l'augment de velocitat de Xunyou, obriu els jocs a la pàgina designada."</string>
   <string name="gs_call_handsfree">Respon trucades amb el mans lliures</string>
   <string name="gs_call_handsfree_mute">Mode silenci</string>
@@ -1512,7 +1509,6 @@ de les teves sessions de joc"</string>
   <string name="gs_gamebox_detail">Mostra el tauler de dreceres en el joc</string>
   <string name="gs_gamebox_slip">Empenyeu la pantalla cap avall per obrir-la</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
-  <string name="gs_open_game_booster">Augment de velocitat</string>
   <string name="gs_open_game_booster_summary">Augmenta la velocitat de la xarxa per als jocs</string>
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
@@ -1787,7 +1783,8 @@ Ara el dispositiu és %d%% més ràpid."</string>
   <string name="menu_summary_antivirus">Cerqueu virus al dispositiu</string>
   <string name="menu_summary_app_manager">Actualitzeu i desinstal·leu aplicacions</string>
   <string name="menu_summary_garbage_cleanup">No hi ha brossa</string>
-  <string name="menu_summary_garbage_cleanup_ex">Netegeu %s de brossa</string>
+  <string name="menu_summary_garbage_cleanup_ex">Allibereu %s</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% d’espai d’emmagatzematge</string>
   <string name="menu_summary_networkassistants">Gestioneu el vostre pla de dades</string>
   <string name="menu_summary_networkassistants_2">Es va superar el límit</string>
   <string name="menu_summary_networkassistants_3">Resten dades suficients</string>
@@ -2148,7 +2145,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="permission_exception_title">Veure permisos de xarxa</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les aplicacions no us demanaran permís per llegir els contactes, veure el registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos. Activeu aquesta característica a la configuració de Permisos."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestor de permisos</string>
-  <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href = \"%1$s\"&amp;gt;%2$s&amp;lt;/ a&amp;gt;&lt;/Data&gt;</string>
+  <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href="%1$s"&amp;gt;%2$s&amp;lt;/ a&amp;gt;&lt;/Data&gt;</string>
   <string name="permission_upgrade_more">Més funcions de protecció de la privadesa</string>
   <string name="permission_upgrade_privacy_title">"Els permisos per enregistrar contactes d'àudio i accés tenen ara una opció que us permet donar aquests permisos només mentre feu servir aplicacions corresponents. Per protegir la privadesa de la vostra informació personal, les aplicacions no realitzaran aquestes accions en segon pla."</string>
   <string name="permission_upgrade_runtime">"Els permisos per accedir a la vostra ubicació o fer fotografies ara tenen una opció que us permet donar aquests permisos una sola vegada. Per protegir la privadesa de la vostra informació personal, aquestes accions no es realitzaran un cop sortiu de l'aplicació. Se us demanarà permisos de nou quan utilitzeu les funcions relacionades la propera vegada."</string>
@@ -2597,6 +2594,15 @@ Proveu d'utilitzar un altre cable Ethernet per connectar el vostre enrutador. Si
   <string name="result_sms_title_antispam">Amenaçat per URLs delictius a sms</string>
   <string name="result_sms_title_auth">Hi ha el risc de fuites de SMS financera</string>
   <string name="result_wifi_header">S\'han detectat riscos de Wi-Fi</string>
+  <string name="risk_app_install_agree_button">Confieu en aquesta aplicació</string>
+  <string name="risk_app_install_agree_checkbox">"Estic disposat a assumir tots els possibles riscos."</string>
+  <string name="risk_app_install_agree_message">"Aquesta aplicació està desenvolupada per un tercer i pot violar les lleis i regulacions locals. Xiaomi no garanteix la disponibilitat, continuïtat i accessibilitat del contingut i serveis que ofereix aquesta aplicació. Vostè anirà a càrrec de qualsevol pèrdua o dany causat per l’ús d’aquesta aplicació."</string>
+  <string name="risk_app_install_agree_title">Descàrrec</string>
+  <string name="risk_app_install_auth_result">"Heu autoritzat la instal·lació de %1$s. Podeu continuar un cop detectat el paquet d’instal·lació."</string>
+  <string name="risk_app_install_empty_text">Encara no hi ha elements</string>
+  <string name="risk_app_install_history">Historial d’autoritzacions</string>
+  <string name="risk_app_install_item_des">Versió: %1$s</string>
+  <string name="risk_app_install_manager">Aplicacions amb possibles riscos</string>
   <string name="roaming_allow_network_dialog_title">Voleu permetre la itinerància de dades mòbils?</string>
   <string name="roaming_limit_dialog_message">S\'ha assolit el límit diari de dades en itinerància.</string>
   <string name="roaming_limit_network_notification_body">Premeu per veure les xarxes de dades disponibles</string>
@@ -3046,24 +3052,24 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
   <string name="system_permission_declare_agree">D\'acord</string>
   <string name="system_permission_declare_analytics_declare">"Et convidem a inscriure’s al nostre Programa d’experiència d’usuaris. Aquesta aplicació necessita connectar-se a Internet i utilitzar els permisos o funcions següents per recopilar estadístiques per millorar els serveis que us proporcionem. Aquí només recopilem dades amb finalitats estadístiques i no podem identificar-vos personalment en funció de les dades que recollim."</string>
   <string name="system_permission_declare_disagree">No hi estic d\'acord</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegim i acceptem el nostre &amp;lt;a href = \"%1$s\"&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt; i &amp;lt;a href = \"%2$s\"&amp;gt;Privadesa Política&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegim i acceptem el nostre &amp;lt;a href="%1$s"&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt; i &amp;lt;a href="%2$s"&amp;gt;Privadesa Política&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Us donem la benvinguda a %1s! Aquesta aplicació us permet utilitzar la següent funció: %2s.</string>
-  <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Al mateix temps, per comprendre els vostres drets com a usuari, així com les maneres d’utilitzar les vostres dades, llegiu i accepteu el nostre &amp;lt;a href = \"%1$s\"&amp;gt;Acord d’usuari&amp;lt;/ a&amp;gt; i &amp;lt;a href = \"%2$s\"&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;A el mateix temps, per comprendre plenament els seus drets com a usuari, així com les formes en que utilitzem les seves dades, llegir i acceptar la nostra &amp;lt;a href = \"%1$s\"&amp;gt;Política de privacitat&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Al mateix temps, per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegiu i accepteu el nostre &amp;lt;a href = \"%1$s\"&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Al mateix temps, per comprendre els vostres drets com a usuari, així com les maneres d’utilitzar les vostres dades, llegiu i accepteu el nostre &amp;lt;a href="%1$s"&amp;gt;Acord d’usuari&amp;lt;/ a&amp;gt; i &amp;lt;a href="%2$s"&amp;gt;Política de privadesa&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;A el mateix temps, per comprendre plenament els seus drets com a usuari, així com les formes en que utilitzem les seves dades, llegir i acceptar la nostra &amp;lt;a href="%1$s"&amp;gt;Política de privacitat&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Al mateix temps, per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegiu i accepteu el nostre &amp;lt;a href="%1$s"&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_no_say_no">"Si decidiu no donar els permisos necessaris o no ens permeteu recopilar i utilitzar les vostres dades, aquesta aplicació no podrà funcionar amb normalitat."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Si no voleu donar aquests permisos us podeu donar de baixa a Configuració &gt; Configuració addicional &gt; Privadesa &gt; Programa de satisfacció d'usuaris."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Si decidiu no donar els permisos necessaris o no ens permeteu recopilar i utilitzar les vostres dades, aquesta aplicació no podrà funcionar parcialment."</string>
   <string name="system_permission_declare_privacy_declare">Aquesta aplicació necessita connectar-se a Internet i requereix els permisos següents per funcionar normalment:</string>
   <string name="system_permission_declare_privacy_no_network">Aquesta aplicació necessita els permisos següents per poder funcionar normalment:</string>
   <string name="system_permission_declare_privacy_no_permission">Aquesta aplicació necessita connectar-se a Internet i recopilar les dades personals necessàries per poder funcionar amb normalitat.</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Per comprendre plenament els seus drets com a usuari, així com les formes en que utilitzem les seves dades, llegir i acceptar la nostra &amp;lt;a href = \"%1$s\"&amp;gt;Política de privacitat&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Per comprendre plenament els seus drets com a usuari, així com les formes en que utilitzem les seves dades, llegir i acceptar la nostra &amp;lt;a href="%1$s"&amp;gt;Política de privacitat&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Podeu sortir d’aquesta aplicació.</string>
   <string name="system_permission_declare_revoke_uninstallable">Podeu tancar la sessió, desinstal·lar aquesta aplicació o revocar la vostra autorització a Seguretat &gt; Gestiona les aplicacions &gt; Permisos &gt; Permisos.</string>
   <string name="system_permission_declare_title">Atenció</string>
   <string name="system_permission_declare_use_network">Connecta’t a la xarxa</string>
   <string name="system_permission_declare_use_network_no_permission">Connecta’t a la xarxa</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegim i acceptem el nostre &amp;lt;a href = \"%1$s\"&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Per comprendre plenament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegim i acceptem el nostre &amp;lt;a href="%1$s"&amp;gt;Acord d\'usuari&amp;lt;/ a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Fer trucades</string>
   <string name="system_permission_perm_optional">" (opcional)"</string>
   <string name="system_permission_perm_read_mms">Llegir MMS</string>
@@ -3400,7 +3406,57 @@ Dades extres en ús"</string>
   <string name="warningcenter_alert_source">Centre d\'avisos de MIUI | Font de dades: %s</string>
   <string name="warningcenter_alert_time">Hora</string>
   <string name="warningcenter_alert_warning_time">Hora de recepció: %s</string>
+  <string name="warningcenter_disaster_all">Tots els avisos</string>
+  <string name="warningcenter_disaster_area_search_hint">Entra a la regió</string>
+  <string name="warningcenter_disaster_area_select">Regions seleccionades</string>
+  <string name="warningcenter_disaster_area_suggest">Regions recomanades</string>
+  <string name="warningcenter_disaster_area_title">Àrea afectada</string>
+  <string name="warningcenter_disaster_detail_suggest">Us recomanem que activeu avisos d’alta prioritat</string>
+  <string name="warningcenter_disaster_detail_title">Detalls</string>
+  <string name="warningcenter_disaster_guide_title">Directrius de seguretat</string>
+  <string name="warningcenter_disaster_icon_title">Avís de demostració</string>
+  <string name="warningcenter_disaster_info">"Publicat per CMA's Warning Center"</string>
+  <string name="warningcenter_disaster_info_title">Quant als avisos</string>
+  <string name="warningcenter_disaster_level_1">Nivell I (Extremadament sever)</string>
+  <string name="warningcenter_disaster_level_2">Nivell II (sever)</string>
+  <string name="warningcenter_disaster_level_3">Nivell III (moderat)</string>
+  <string name="warningcenter_disaster_level_4">Nivell Ⅳ (Menor)</string>
+  <string name="warningcenter_disaster_level_all">Tots els nivells</string>
+  <string name="warningcenter_disaster_level_info">Nivells d\'advertència</string>
+  <string name="warningcenter_disaster_level_title">Nivells d\'advertència</string>
+  <string name="warningcenter_disaster_list_title">Advertències de desastres</string>
+  <string name="warningcenter_disaster_local">Localitza</string>
+  <string name="warningcenter_disaster_mai">霾</string>
+  <string name="warningcenter_disaster_orange">橙色 预警</string>
+  <string name="warningcenter_disaster_place_settings">Regió</string>
+  <string name="warningcenter_disaster_place_subscribe">Selecciona la regió</string>
+  <string name="warningcenter_disaster_qita">其它 地质 灾害</string>
+  <string name="warningcenter_disaster_receive_info">Format d\'advertència</string>
+  <string name="warningcenter_disaster_receive_level">Seleccioneu el nivell d\'avís</string>
+  <string name="warningcenter_disaster_receive_level_blue">Blau</string>
+  <string name="warningcenter_disaster_receive_level_orange">taronja</string>
+  <string name="warningcenter_disaster_receive_level_red">Vermell</string>
+  <string name="warningcenter_disaster_receive_level_yellow">Groc</string>
+  <string name="warningcenter_disaster_receive_settings">Format d\'advertència</string>
+  <string name="warningcenter_disaster_receive_strong">Advertències de gran prioritat (suggerides)</string>
+  <string name="warningcenter_disaster_receive_strong_summary">Rep notificacions personalitzades sobre avisos d\'alta prioritat emesos per a la regió seleccionada</string>
+  <string name="warningcenter_disaster_receive_strong_title">Avisos d’alta prioritat</string>
+  <string name="warningcenter_disaster_receive_system">Notificacions del sistema</string>
+  <string name="warningcenter_disaster_receive_system_summary">Rebre avisos de desastres emesos per a la regió seleccionada</string>
+  <string name="warningcenter_disaster_receive_type">Tipus d\'avís</string>
+  <string name="warningcenter_disaster_receive_type_biological">Biològic</string>
+  <string name="warningcenter_disaster_receive_type_forest">Forestal</string>
+  <string name="warningcenter_disaster_receive_type_geology">Geològic</string>
+  <string name="warningcenter_disaster_receive_type_meteorological">Meteorològic</string>
+  <string name="warningcenter_disaster_receive_type_sea">Hidrològic</string>
+  <string name="warningcenter_disaster_recent">Avisos recents</string>
+  <string name="warningcenter_disaster_search_hint">Tipus d\'advertència / regió / agència emissora</string>
   <string name="warningcenter_disaster_search_keywords">Alertes meteorològiques</string>
+  <string name="warningcenter_disaster_title">Advertència de desastre</string>
+  <string name="warningcenter_disaster_type_all">De tot tipus</string>
+  <string name="warningcenter_disaster_type_cancel">Cancel·lat</string>
+  <string name="warningcenter_disaster_type_first">Nou</string>
+  <string name="warningcenter_disaster_type_update">S\'han actualitzat</string>
   <string name="warningcenter_earthquake_info">Avisos anticipats de terratrèmols</string>
   <string name="warningcenter_mijia_alert_close">Tanca</string>
   <string name="warningcenter_mijia_alert_settings">Canvieu la configuració a Seguretat &gt; Alertes de dispositius domèstics intel·ligents</string>

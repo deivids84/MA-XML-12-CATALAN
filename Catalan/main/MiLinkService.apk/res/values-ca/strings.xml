@@ -49,6 +49,9 @@
   <string name="dialog_connect_verify_perssion_fail">"No s'ha pogut autoritzar l'emissió al vostre televisor. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="dialog_connected">Connectat</string>
   <string name="dialog_connecting">S\'està connectant…</string>
+  <string name="dialog_miplay_permission_message">Permet a Casting gravar àudio, accedir a fitxers a l\'emmagatzematge intern i accedir a la vostra ubicació per poder utilitzar aquesta característica normalment. Toqueu \"Configuració\" i seleccioneu \"Permisos d\'aplicació\" per continuar.</string>
+  <string name="dialog_miplay_permission_positive">Configuració de xarxa</string>
+  <string name="dialog_miplay_permission_title">Permisos necessaris</string>
   <string name="dialog_nfc_cast_wifi_off">Activeu la connexió Wi-Fi per poder emetre mitjançant NFC. Voleu activar-la ara?</string>
   <string name="dialog_no_device_message">&lt;Data&gt;1. Connecteu el telèfon i la televisió a la mateixa xarxa Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. En alguns models de televisió, aquesta funció només està disponible quan la pantalla de pantalla es troba activada. Veure &amp;lt;a href = milink: //com.milink.service/specification&amp;gt;\"Ajuda\"&amp;lt;/ a&amp;gt; per obtenir més informació.&lt;/Data&gt;</string>
   <string name="dialog_no_device_message_china">&lt;Data&gt;1. Connecteu el telèfon i la televisió a la mateixa xarxa WLAN.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. En alguns models de televisió, aquesta funció només està disponible quan la pantalla de pantalla es troba activada. Veure &amp;lt;a href = milink: //com.milink.service/specification&amp;gt;\"Ajuda\"&amp;lt;/ a&amp;gt; per obtenir més informació.&lt;/Data&gt;</string>

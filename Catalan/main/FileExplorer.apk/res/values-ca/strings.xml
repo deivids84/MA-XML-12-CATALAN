@@ -144,6 +144,7 @@
   <string name="doc_wps">WPS</string>
   <string name="doc_xls">XLS</string>
   <string name="downloading">S\'està baixant</string>
+  <string name="drag_not_support_with_dir">"No es poden reordenar ni enviar carpetes"</string>
   <string name="enable_sd_card">Inserir la targeta SD o desactivar l\'emmagatzematge massiu USB.</string>
   <string name="enable_usb">Connectar el dispositiu USB</string>
   <string name="encrypt_error">"No s'han pogut ocultar els fitxers, intenta de nou"</string>
@@ -379,6 +380,7 @@
   <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
   <string name="rlv_refreshing">S\'està actualitzant&#8230;</string>
   <string name="rlv_release_to_refresh">Deixeu anar per actualitzar</string>
+  <string name="save_file_to_mishare">"Desat a la carpeta de Mi Share"</string>
   <string name="search_app">Font</string>
   <string name="search_app_more">Més</string>
   <string name="search_description">Cerca tots els fitxers al dispositiu</string>

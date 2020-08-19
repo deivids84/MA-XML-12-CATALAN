@@ -109,7 +109,7 @@
         <item>Accedir a la configuració del vostre operador i de l’idioma, així com a altres detalls</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"Les aplicacions de tercers que no són verificades per GetApps poden causar diversos problemes i disminuir l'estabilitat del sistema."</item>
+        <item>"Les aplicacions de tercers que no es verifiquen poden causar diversos problemes i disminuir l'estabilitat del sistema."</item>
         <item>Algunes aplicacions de tercers poden contenir programari maliciós que posa en risc les vostres dades personals.</item>
     </string-array>
     <string-array name="priority_storage_entries">

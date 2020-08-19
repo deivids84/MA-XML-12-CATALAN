@@ -220,11 +220,14 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="index_item_installing">S\'està instal·lant</string>
   <string name="indices_desc_humidity">Humitat %1$s%%</string>
   <string name="indices_desc_pressure">%1$s mbar</string>
+  <string name="indices_title_chance_of_rain">Probabilitat de pluja</string>
   <string name="indices_title_feel">Sensació tèrmica</string>
   <string name="indices_title_pressure">Pressió</string>
+  <string name="indices_title_wind_speed">Velocitat del vent</string>
   <string name="information_settings_title">Informació meteorològica</string>
   <string name="install">Instal·la</string>
-  <string name="international_details_humidity_title">HUMITAT</string>
+  <string name="international_details_chance_of_rain">PROBABILITAT DE PLUJA</string>
+  <string name="international_details_humidity">HUMITAT</string>
   <string name="international_details_pressure_title">PRESSIÓ</string>
   <string name="international_details_real_feel_title">REAL FEEL®</string>
   <string name="international_details_title">Detalls</string>

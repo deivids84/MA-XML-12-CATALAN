@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="are_you_sure_you_want_delete_file">
+        <item quantity="other">Vols suprimir %1$d fitxers ara?</item>
+        <item quantity="one">Voleu suprimir %1$d fitxer ara?</item>
+    </plurals>
+    <plurals name="are_you_sure_you_want_delete_this">
+        <item quantity="other">Vols suprimir %1$d imatges ara?</item>
+        <item quantity="one">Vols suprimir %1$d imatge ara?</item>
+    </plurals>
     <plurals name="choosed">
         <item quantity="other">%1$d elements seleccionats</item>
         <item quantity="one">%1$d element seleccionat</item>

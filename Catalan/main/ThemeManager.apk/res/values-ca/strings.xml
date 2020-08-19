@@ -77,7 +77,7 @@
   <string name="apply_not_support_in_second_space">"No es pot aplicar aquest element a Segon espai"</string>
   <string name="apply_not_support_maml_aod">"No es pot combinar la visualització permanent amb temes en aquest dispositiu"</string>
   <string name="apply_succeed">S\'ha aplicat correctament</string>
-  <string name="apply_success_not_enable_aod">Activar la pantalla Sempre activada a la configuració</string>
+  <string name="apply_success_not_enable_aod">En primer lloc, activeu la Pantalla ambiental a la Configuració</string>
   <string name="apply_success_not_support_aod">"No es pot combinar la visualització permanent amb temes en aquest dispositiu. La resta de components d’aquest tema s’han aplicat amb èxit."</string>
   <string name="apply_theme_with_ringtones">Utilitza els tons del tema</string>
   <string name="audio_duration_minutes_format">%1$d minuts</string>
@@ -381,7 +381,7 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
   <string name="kuyin_user_agreement_content_href">Política de privadesa iFlytek</string>
   <string name="lab">Laboratori de temes</string>
   <string name="like_list">M\'agrada</string>
-  <string name="live_wallpaper">Fons de pantalla dinàmic</string>
+  <string name="live_wallpaper">Fons de pantalla dinàmics</string>
   <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
   <string name="loading_resource_detail_info">Un moment…</string>
@@ -883,12 +883,12 @@ mm"</string>
   <string name="sunday">Diumenge</string>
   <string name="sunday_short">Dg.</string>
   <string name="sunday_shortest">dg.</string>
-  <string name="super_wallpaper">Fons de pantalla súper</string>
+  <string name="super_wallpaper">Súper fons de pantalla</string>
   <string name="support_theme_store_des">Els bons temes sempre són creats per dissenyadors amb talent. La nostra aplicació conté una petita quantitat d’anuncis que ens permeten donar suport al seu treball.</string>
   <string name="support_theme_store_supported">Gràcies pel teu recolzament!</string>
   <string name="support_theme_store_title">Donar suport als nostres dissenyadors</string>
   <string name="swipe_find_more">Feu lliscar el dit cap a l’esquerra per veure’n més</string>
-  <string name="system_aod_dialog_message">Activeu apareix sempre a la configuració primer.</string>
+  <string name="system_aod_dialog_message">En primer lloc, activeu la Pantalla ambiental a la Configuració.</string>
   <string name="system_aod_dialog_positive_button">Configuració</string>
   <string name="system_aod_dialog_title">La pantalla sempre activa està desactivada</string>
   <string name="system_cta_agree_desc">Permet a aquesta aplicació connectar-se a Internet i atorgar els permisos obligatoris enumerats anteriorment.</string>

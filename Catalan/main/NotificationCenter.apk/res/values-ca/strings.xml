@@ -63,6 +63,7 @@
   <string name="feedback_tip_msg">Per agrupar les notificacions amb més precisió, hem de recollir el nom de l\'aplicació, el títol i la descripció de la notificació i el moment en què s\'ha enviat la notificació. Envieu els vostres comentaris?</string>
   <string name="feedback_tip_title">Respostes sobre categories de notificacions</string>
   <string name="float_notifications">Notificacions flotants</string>
+  <string name="float_notifications_short">Flota</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -128,6 +129,7 @@
   <string name="lock_screen_display_rules">Format</string>
   <string name="lock_screen_tip_toast">Permeteu les notificacions a la pantalla de bloqueig a \"Format\"</string>
   <string name="lockscreen_notifications">Notificacions a la pantalla de bloqueig</string>
+  <string name="lockscreen_notifications_short">Bloqueja la pantalla</string>
   <string name="menu_setting_recommend_to_minus">Mostra menys notificacions</string>
   <string name="menu_setting_recommend_to_normal">"No reduïu les notificacions"</string>
   <string name="menu_setting_show_in_home">"No agrupis"</string>
@@ -251,6 +253,7 @@ Informeu d'aquest número &gt;"</string>
   <string name="search_menu_title">Cerca</string>
   <string name="settings_guide_title">Necessiteu altres configuracions?</string>
   <string name="show_badge_notifications">Insígnies de les notificacions</string>
+  <string name="show_badge_notifications_short">Insígnies</string>
   <string name="solar_term_autumn_begins">Comença la tardor</string>
   <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
   <string name="solar_term_clear_and_bright">Clar i lluminós</string>

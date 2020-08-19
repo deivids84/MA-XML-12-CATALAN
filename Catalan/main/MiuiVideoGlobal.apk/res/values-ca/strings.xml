@@ -362,6 +362,8 @@ Envieu aquest codi al supervisor."</string>
   <string name="galleryplus_chose_play_speed">Juga a %1$.1fX de velocitat</string>
   <string name="galleryplus_chose_play_speed_failure">"No s'ha pogut ajustar la velocitat de reproducció"</string>
   <string name="galleryplus_click_to_higher_definition">Toca dos cops per obrir una vista prèvia en alta definició</string>
+  <string name="galleryplus_copyright_unsported_audio">"No es pot reproduir vídeo de pista d'àudio a causa de restriccions de copyright"</string>
+  <string name="galleryplus_copyright_unsported_video">"No es pot reproduir aquest vídeo a causa de restriccions de copyright"</string>
   <string name="galleryplus_cta_tips">Podeu ajudar-nos a millorar els nostres serveis inscrivint-vos al Programa d’Experiència de l’Usuari i permetent que Mi Video es connecti a Internet. Acordar?</string>
   <string name="galleryplus_double_tap_to_higher_definition">Toca dues vegades una altra vegada per obrir la previsualització en alta definició d’HD</string>
   <string name="galleryplus_fr_unsupport_restore_speed">Taxa de fotograma no compatible Tornat a la velocitat regular.</string>
@@ -1223,6 +1225,8 @@ Incrementar la seguretat del vostre compte."</string>
   <string name="vp_VideoView_error_text_unknown">Hi ha hagut un error</string>
   <string name="vp_VideoView_error_title">Error desconegut</string>
   <string name="vp_app_name">Reproductor de vídeo</string>
+  <string name="vp_copyright_unsported_audio">"No es pot reproduir vídeo de pista d'àudio a causa de restriccions de copyright"</string>
+  <string name="vp_copyright_unsported_video">"No es pot reproduir aquest vídeo a causa de restriccions de copyright"</string>
   <string name="vp_hardware_unsported">"Aquest vídeo no es pot reproduir al dispositiu."</string>
   <string name="vp_notify_apk_installed">S\'ha baixat correctament</string>
   <string name="vp_replay">Repeteix</string>

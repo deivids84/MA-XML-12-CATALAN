@@ -91,8 +91,8 @@
         <item>Toqueu \"Continua\" per obtenir més informació i activar aquesta funció.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>L’assistent per aixecar-vos detecta la posició del telèfon mòbil i l’enregistra automàticament. Activeu el recordatori d\'aixecar-vos per recordar-vos quan no es detecti que esteu drets en una hora:</item>
-        <item>Aquesta funció realitzarà un seguiment del vostre moviment i enviarà recordatoris.</item>
+        <item>Xiaomi Health pot detectar i enregistrar quan es posa de peu. També podeu rebre recordatoris que es posin en peu després d’una hora d’inactivitat.</item>
+        <item>Aquesta funció rastreja el vostre moviment i envia recordatoris en funció dels resultats.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>
