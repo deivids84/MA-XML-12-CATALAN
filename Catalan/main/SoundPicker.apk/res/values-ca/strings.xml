@@ -31,6 +31,7 @@
   <string name="add_notification_text">Afegeix una notificació</string>
   <string name="add_ringtone_text">Afegeix un to</string>
   <string name="alarm_sound_default">So de l\'alarma per defecte</string>
+  <string name="app_label">Sons</string>
   <string name="delete_ringtone_text">Suprimeix</string>
   <string name="notification_sound_default">So de notificació per defecte</string>
   <string name="ringtone_default">So per defecte</string>

@@ -234,7 +234,6 @@ Podeu canviar aquesta drecera a una altra funció a Configuració &gt; Accessibi
   <string name="alert_windows_notification_title">S\'està mostrant %s sobre altres aplicacions</string>
   <string name="alert_windows_notification_turn_off_action">DESACTIVA</string>
   <string name="allow">Permet</string>
-  <string name="allow_while_in_use_permission_in_fgs">El servei en primer pla que el primer pla a partir del %1$s no tindrà permís durant el ús en futures compilacions R. Consulteu la restricció a go / r-bg-fgs i envieu un informe d\'error.</string>
   <string name="alwaysUse">Utilitza-ho per defecte per a aquesta acció.</string>
   <string name="android_preparing_apk">S\'està preparant %1$s.</string>
   <string name="android_start_title">S\'està iniciant Android…</string>

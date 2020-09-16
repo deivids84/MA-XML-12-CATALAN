@@ -314,7 +314,7 @@ Envieu aquest codi al supervisor."</string>
   <string name="passport_checking_input">S\'està comprovant l\'entrada…</string>
   <string name="passport_click_email_to_valid">"Per activar el vostre compte, seguiu l’enllaç que hem enviat a la safata d’entrada."</string>
   <string name="passport_completed">Finalitza</string>
-  <string name="passport_confirm_login">Continua</string>
+  <string name="passport_confirm_login">Inicia la sessió</string>
   <string name="passport_confirm_recycle_account">Sí</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Sembla&lt;/font&gt; que el numero %s ha estat reciclat pel vostre operador i hi ha un Compte Mi associat. És aquest el vostre compte?"</string>
   <string name="passport_continue">Continua</string>
@@ -463,8 +463,8 @@ Envieu aquest codi al supervisor."</string>
   <string name="passport_setting">S\'està configurant…</string>
   <string name="passport_skip_login">Omet</string>
   <string name="passport_skip_register">Omet el registre</string>
-  <string name="passport_skip_setup_account_msg">Més endavant, podeu configurar un compte Mi a Configuració.</string>
-  <string name="passport_skip_setup_account_title">"No utilitzeu Xiaomi Cloud?"</string>
+  <string name="passport_skip_setup_account_msg">Per iniciar la sessió al meu compte, podeu utilitzar els serveis de Xiaomi Cloud. Eviteu aquest pas de totes maneres?</string>
+  <string name="passport_skip_setup_account_title">El meu compte i Xiaomi Cloud</string>
   <string name="passport_sms_send_success">Enviat</string>
   <string name="passport_sms_verification_code_login">Inicia la sessió mitjançant SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Inicieu la sessió o creeu un compte mitjançant SMS</string>

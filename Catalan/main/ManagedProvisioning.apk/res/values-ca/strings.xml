@@ -58,6 +58,7 @@
   <string name="car_ui_toolbar_menu_item_overflow_title">Desbordament</string>
   <string name="car_ui_toolbar_menu_item_search_title">Cerca</string>
   <string name="car_ui_toolbar_menu_item_settings_title">Configuració</string>
+  <string name="car_ui_toolbar_nav_icon_content_description">enrere</string>
   <string name="change_device_launcher">Canvia el llançador del dispositiu</string>
   <string name="close_list">Tanca la llista</string>
   <string name="collapse">Redueix</string>

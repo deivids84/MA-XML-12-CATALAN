@@ -116,6 +116,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">En %d segons</item>
         <item quantity="one">En %d segon</item>
     </plurals>
+    <plurals name="ew_concern_date">
+        <item quantity="other">fa %d dies</item>
+        <item quantity="one">fa %d dia</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>
         <item quantity="one">Cerca entre %d aplicació</item>
