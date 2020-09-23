@@ -36,6 +36,38 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d temes AOD</item>
+        <item quantity="one">%1$d tema AOD</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d tipus de lletra</item>
+        <item quantity="one">%1$d tipus de lletra</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d icones</item>
+        <item quantity="one">%1$d icona</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d temes</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Afegeix %1$d elements</item>
+        <item quantity="one">Afegeix %1$d elements</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">S\'han afegit %1$d elements al vostre compte. Consulteu els articles afegits a les vostres comandes.</item>
+        <item quantity="one">S\'ha afegit %1$d element al vostre compte. Consulteu els articles afegits a les vostres comandes.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Només podeu descarregar %1$d articles gratuïts si no heu iniciat la sessió (fons de pantalla i tons de trucada exclosos). Inicieu la sessió per descarregar elements sense restriccions."</item>
+        <item quantity="one">"Només podeu descarregar %1$d articles gratuïts si no heu iniciat la sessió (fons de pantalla i tons de trucada exclosos). Inicieu la sessió per descarregar elements sense restriccions."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">"No s'han afegit %1$d elements al vostre compte"</item>
+        <item quantity="one">"%1$d article no s'afegeix al seu compte"</item>
+    </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">Hi ha actualitzacions disponibles per a %1$d temes</item>
         <item quantity="one">Hi ha disponible una actualització per a %1$d tema</item>

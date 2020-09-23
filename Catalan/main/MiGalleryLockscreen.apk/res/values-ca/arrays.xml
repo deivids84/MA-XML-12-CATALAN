@@ -4,6 +4,9 @@
         <item>Home</item>
         <item>Dona</item>
     </string-array>
+    <string-array name="feature_desc">
+        <item>Optimitzat per a usuaris internacionals per Xiaomi.eu</item>
+    </string-array>
     <string-array name="month12">
         <item>Gener</item>
         <item>Febrer</item>
@@ -17,8 +20,5 @@
         <item>Octubre</item>
         <item>Novembre</item>
         <item>Desembre</item>
-    </string-array>
-    <string-array name="feature_desc">
-        <item>Optimitzat per a usuaris internacionals per Xiaomi.eu</item>
     </string-array>
 </resources>

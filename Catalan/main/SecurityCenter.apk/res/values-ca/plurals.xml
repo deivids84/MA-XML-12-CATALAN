@@ -80,9 +80,17 @@
         <item quantity="other">S\'ha utilitzat fa %d anys</item>
         <item quantity="one">S\'ha utilitzat fa %d any</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Podeu utilitzar el bloqueig d\'aplicacions amb %1$s aplicacions</item>
+        <item quantity="one">Podeu utilitzar el bloqueig d\'aplicacions amb %1$s aplicacions</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Podeu protegir almenys %s aplicacions</item>
         <item quantity="one">Podeu protegir almenys %s aplicació</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">Es protegiran %s aplicacions amb el bloqueig d\'aplicacions</item>
+        <item quantity="one">%s aplicació %s es protegirà amb el bloqueig de l\'aplicació</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicacions poden connectar-se a la xarxa en segon pla</item>
@@ -119,6 +127,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="ew_concern_date">
         <item quantity="other">fa %d dies</item>
         <item quantity="one">fa %d dia</item>
+    </plurals>
+    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data&gt;Tancar &lt;font color=#0099ff&gt;%d&lt;/font&gt; aplicacions per accelerar el dispositiu?&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Tancar l\'aplicació &lt;font color=#0099ff&gt;%d&lt;/font&gt; per accelerar el dispositiu?&lt;/Data&gt;</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>

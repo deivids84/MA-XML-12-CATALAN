@@ -12,6 +12,10 @@
         <item quantity="other">Interval: %d segons</item>
         <item quantity="one">Interval: %d segons</item>
     </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Durada: %d segons</item>
+        <item quantity="one">Durada: %d segon</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Podeu crear fins a %d clons alhora.</item>
         <item quantity="one">Podeu crear fins a %d clon alhora.</item>

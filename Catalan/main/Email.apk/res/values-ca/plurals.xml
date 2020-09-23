@@ -121,40 +121,40 @@
         <item quantity="one">%1$d dia després</item>
     </plurals>
     <plurals name="number_of_day_before">
-        <item quantity="other">Fa %1$d dies</item>
-        <item quantity="one">Fa %1$d dia</item>
+        <item quantity="other">%1$d dies abans</item>
+        <item quantity="one">%1$d dia abans</item>
     </plurals>
     <plurals name="number_of_hour_after">
         <item quantity="other">%1$d hores després</item>
-        <item quantity="one">%1$d hores després</item>
+        <item quantity="one">%1$d hora després</item>
     </plurals>
     <plurals name="number_of_hour_before">
-        <item quantity="other">Fa %1$d hores</item>
-        <item quantity="one">Fa %1$d hora</item>
+        <item quantity="other">%1$d hores abans</item>
+        <item quantity="one">%1$d hora abans</item>
     </plurals>
     <plurals name="number_of_minute_after">
         <item quantity="other">%1$d minuts després</item>
-        <item quantity="one">%1$d minuts després</item>
+        <item quantity="one">%1$d minut després</item>
     </plurals>
     <plurals name="number_of_minute_before">
-        <item quantity="other">Fa %1$d minuts</item>
-        <item quantity="one">Fa %1$d minuts</item>
+        <item quantity="other">%1$d minuts abans</item>
+        <item quantity="one">%1$d minut abans</item>
     </plurals>
     <plurals name="number_of_second_after">
         <item quantity="other">%1$d segons després</item>
-        <item quantity="one">%1$d segons després</item>
+        <item quantity="one">%1$d segon després</item>
     </plurals>
     <plurals name="number_of_second_before">
-        <item quantity="other">Fa %1$d segons</item>
-        <item quantity="one">%1$d fa segons</item>
+        <item quantity="other">%1$d segons abans</item>
+        <item quantity="one">%1$d segon abans</item>
     </plurals>
     <plurals name="number_of_week_after">
         <item quantity="other">%1$d setmanes després</item>
         <item quantity="one">%1$d setmana després</item>
     </plurals>
     <plurals name="number_of_week_before">
-        <item quantity="other">Fa %1$d setmanes</item>
-        <item quantity="one">Fa %1$d setmana</item>
+        <item quantity="other">%1$d setmanes abans</item>
+        <item quantity="one">%1$d setmana abans</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Respon a %1$d persones</item>

@@ -312,6 +312,14 @@
         <item quantity="other">%d hrs</item>
         <item quantity="one">%d hr</item>
     </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">S\'han filtrat %d elements no compatibles</item>
+        <item quantity="one">S\'ha filtrat %d element no compatible</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">Els fitxers PDF poden contenir fins a %d imatges</item>
+        <item quantity="one">Els fitxers PDF poden contenir fins a %d imatges</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Les fotos seleccionades no es troben al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</item>
         <item quantity="one">"La foto seleccionada no es troba al dispositiu. Voleu baixar-la utilitzant les dades mòbils?"</item>

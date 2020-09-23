@@ -29,10 +29,6 @@
         <item>pi</item>
         <item>és igual a</item>
     </string-array>
-    <string-array name="weight_array">
-        <item>Kilograms</item>
-        <item>Lliures</item>
-    </string-array>
     <string-array name="unit_data_order_time_">
         <item>any</item>
         <item>setmana</item>
@@ -43,5 +39,9 @@
         <item>ms</item>
         <item>us</item>
         <item>ps</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilograms</item>
+        <item>Lliures</item>
     </string-array>
 </resources>

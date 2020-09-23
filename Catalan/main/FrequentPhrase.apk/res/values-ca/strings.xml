@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="add_frequent_phrases">Afegeix frases habituals</string>
-  <string name="delete_frequent_phrases">Elimina frases habituals</string>
-  <string name="delete_frequent_phrases_confirm">Voleu eliminar les frases habituals seleccionades?</string>
-  <string name="edit_frequent_phrases">Edita frases habituals</string>
-  <string name="frequent_phrases_des">Introduïu frases habituals només amb unes poques pulsacions, mentre editeu text</string>
-  <string name="frequent_phrases_size_exceeded">Només podeu afegir %1$d frases habituals. Elimineu les que no calguin per afegir-ne altres.</string>
-  <string name="menu_add_frequent_phrases">Afegeix</string>
-  <string name="menu_delete">Suprimeix</string>
-  <string name="menu_edit">Edita</string>
-  <string name="sync_phrase_label">Frases habituals</string>
+    <string name="add_frequent_phrases">Afegeix frases habituals</string>
+    <string name="delete_frequent_phrases">Elimina frases habituals</string>
+    <string name="delete_frequent_phrases_confirm">Voleu eliminar les frases habituals seleccionades?</string>
+    <string name="edit_frequent_phrases">Edita frases habituals</string>
+    <string name="frequent_phrases_des">Introduïu frases habituals només amb unes poques pulsacions, mentre editeu text</string>
+    <string name="frequent_phrases_size_exceeded">Només podeu afegir %1$d frases habituals. Elimineu les que no calguin per afegir-ne altres.</string>
+    <string name="menu_add_frequent_phrases">Afegeix</string>
+    <string name="menu_delete">Suprimeix</string>
+    <string name="menu_edit">Edita</string>
+    <string name="sync_phrase_label">Frases habituals</string>
 </resources>

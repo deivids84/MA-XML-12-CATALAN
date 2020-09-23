@@ -462,6 +462,12 @@
         <item>PIN</item>
         <item>Contrasenya</item>
     </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Desactivat</item>
+        <item>Flux</item>
+        <item>Brillar</item>
+        <item>Onada</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
         <item>Colors naturals tal com els veu l\'ull humà</item>
@@ -530,6 +536,10 @@
         <item>Apagat</item>
         <item>Mostra les àrees sobreposades</item>
         <item>Mostra les àrees de deuteranomia</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>To de trucada</item>
+        <item>Multimèdia</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
@@ -972,6 +982,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Permet</item>
         <item>Denega</item>
     </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Per defecte</item>
+        <item>Compacta</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12 hores 1:00 PM</item>
         <item>24 hores 13:00</item>
@@ -1236,19 +1250,5 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
-    </string-array>
-    <string-array name="default_vol_stream_entries">
-        <item>To de trucada</item>
-        <item>Multimèdia</item>
-    </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Per defecte</item>
-        <item>Compacta</item>
-    </string-array>
-    <string-array name="charge_animation_style_entries">
-        <item>Desactivat</item>
-        <item>Flux</item>
-        <item>Brillar</item>
-        <item>Onada</item>
     </string-array>
 </resources>

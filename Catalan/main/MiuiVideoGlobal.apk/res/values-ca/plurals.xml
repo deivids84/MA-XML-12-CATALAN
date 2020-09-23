@@ -72,6 +72,18 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Feu doble toc per rebobinar %d segons</item>
+        <item quantity="one">Feu doble toc per rebobinar %d segons</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Feu doble toc per avançar ràpidament %d segons</item>
+        <item quantity="one">Feu doble toc per avançar ràpidament %d segons</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s s</item>
+        <item quantity="one">%1$s s</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%ssubscriptors</item>
         <item quantity="one">%ssubscriptor</item>

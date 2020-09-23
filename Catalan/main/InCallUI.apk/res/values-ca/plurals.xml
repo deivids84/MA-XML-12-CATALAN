@@ -4,6 +4,10 @@
         <item quantity="other">Informat per %d usuaris de MIUI</item>
         <item quantity="one">Informat per %d usuari de MIUI</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Penjant d\'aquí a %1$s segons…</item>
+        <item quantity="one">Penjant en %1$s segons…</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d trucades enregistrades.</item>
         <item quantity="one">%d trucada enregistrada.</item>

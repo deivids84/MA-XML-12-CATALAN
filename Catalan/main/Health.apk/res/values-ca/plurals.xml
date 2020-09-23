@@ -56,6 +56,14 @@
         <item quantity="other">%1$d dies</item>
         <item quantity="one">%1$d dia</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Durada del període: %1$d dies</item>
+        <item quantity="one">Durada del període: %1$d dies</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Durada del cicle: %1$d dies</item>
+        <item quantity="one">Durada del cicle: %1$d dies</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">%1$d elements seleccionats</item>
         <item quantity="one">%1$d element seleccionat</item>
@@ -100,6 +108,10 @@
         <item quantity="other">%1$d passes</item>
         <item quantity="one">%1$d passa</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cicles</item>
+        <item quantity="one">%1$d cicle</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -139,6 +151,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">El període començarà probablement d\'aquí a %1$d dies</item>
+        <item quantity="one">Probable període començarà a %1$d dia</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Període de %1$d dies</item>
@@ -247,6 +263,10 @@
     <plurals name="unit_days">
         <item quantity="other">" dies"</item>
         <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cicles"</item>
+        <item quantity="one">" cicle"</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" vegades"</item>

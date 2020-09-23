@@ -4,4 +4,9 @@
         <item>Per iniciar la sessió utilitzant el Compte Mi</item>
         <item>Per veure la vista prèvia, la càrrega, la baixada i la sincronització de fitxers</item>
     </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Per iniciar la sessió utilitzant el Compte Mi</item>
+        <item>Per previsualitzar, penjar, descarregar i sincronitzar fitxers</item>
+        <item>Per detectar les actualitzacions disponibles</item>
+    </string-array>
 </resources>

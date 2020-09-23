@@ -114,6 +114,14 @@
         <item quantity="other">%1$d hores</item>
         <item quantity="one">%1$d hora</item>
     </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">Cerca entre %d aplicacions</item>
+        <item quantity="one">Cerca entre %d aplicació</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">S\'han trobat %d aplicacions</item>
+        <item quantity="one">S\'ha trobat %d aplicació</item>
+    </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d minuts</item>
         <item quantity="one">%1$d minut</item>

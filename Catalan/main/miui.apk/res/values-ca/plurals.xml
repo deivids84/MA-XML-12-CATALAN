@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="items_selected">
-        <item quantity="other">%d elements seleccionats</item>
-        <item quantity="one">%d element seleccionat</item>
-    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="one">Fa 1 hora</item>
         <item quantity="other">Fa 1 hora</item>
@@ -59,6 +55,10 @@
     <plurals name="in_num_minutes">
         <item quantity="other">en %d minuts</item>
         <item quantity="one">en 1 minut</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
