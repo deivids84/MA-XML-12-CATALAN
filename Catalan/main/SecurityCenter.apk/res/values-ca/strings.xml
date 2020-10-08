@@ -2441,7 +2441,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
     <string name="pref_over_traffic_limit">Quan reviseu el pla de dades</string>
     <string name="pref_package_traffic_settings">Pla de dades</string>
-    <string name="pref_pkg_begin_date">Restablir la data d\'ús</string>
+    <string name="pref_pkg_begin_date">Dia inicial del cicle</string>
     <string name="pref_roaming_daily_limit_setting">Establiu el límit de dades diari en itinerància</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Límit diari de dades</string>
     <string name="pref_roaming_setting_gategory">Configuració</string>

@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Setmana 1</item>
+        <item>Setmana 2</item>
+        <item>Setmana 3</item>
+        <item>Setmana %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Conduir</item>
+        <item>Transport públic</item>
+        <item>Taxi</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Nit</item>
+        <item>Nit</item>
+        <item>Matí</item>
+        <item>Tarda</item>
+        <item>Tarda</item>
+        <item>Vespre</item>
+        <item>Vespre</item>
+    </string-array>
     <string-array name="day_time_space">
         <item>Nit</item>
         <item>Primera hora del matí</item>

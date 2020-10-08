@@ -29,8 +29,8 @@
         <item quantity="one">d\'aquí a 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">Ara</item>
-        <item quantity="other">Ara</item>
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>
@@ -85,8 +85,8 @@
         <item quantity="one">S\'ha trobat %d element nou</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Ara</item>
-        <item quantity="other">Ara</item>
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="one">Últims %d dies</item>

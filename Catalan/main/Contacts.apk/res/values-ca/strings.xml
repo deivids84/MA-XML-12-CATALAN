@@ -438,6 +438,10 @@ Les targetes de contacte estan apagades"</string>
     <string name="dialer_menu_title">Menú d\'opcions</string>
     <string name="dialer_returnToInCallScreen">Retornar a la trucada en progrés</string>
     <string name="dialer_useDtmfDialpad">Utilitza el teclat per tons</string>
+    <string name="dialog_delete_contact_button_delete">Elimina</string>
+    <string name="dialog_delete_contact_button_keep">Mantenir</string>
+    <string name="dialog_delete_contact_content">Xiaomi Cloud vol suprimir alguns dels vostres contactes. Voleu suprimir-la ara?</string>
+    <string name="dialog_delete_contact_title">Supressió de contactes</string>
     <string name="dialog_import">Importa contactes</string>
     <string name="dialog_import_export">Importa/exporta contactes</string>
     <string name="dialog_new_contact_account">Crea contactes sota un compte</string>
@@ -939,6 +943,8 @@ Per afegir un contacte a la llista de preferits:
     <string name="not_applied">"No s'ha pogut aplicar"</string>
     <string name="not_set">Sense especificar</string>
     <string name="notification_action_voicemail_play">Reprodueix</string>
+    <string name="notification_click_detail">Toca per veure\'n els detalls</string>
+    <string name="notification_micloudsync_delete_contact">Xiaomi Cloud vol suprimir alguns dels vostres contactes</string>
     <string name="notification_new_voicemail_ticker">Nou correu de veu de %1$s</string>
     <string name="openDialKeyboard">Teclat</string>
     <string name="open_contact">Veure contacte</string>

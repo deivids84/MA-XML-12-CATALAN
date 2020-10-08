@@ -62,6 +62,7 @@
     <string name="afternoon">Tarda</string>
     <string name="all_resources">Tot</string>
     <string name="already_latest_version">Actualitzat</string>
+    <string name="already_newest_version">La versió actual està actualitzada</string>
     <string name="am">am</string>
     <string name="anonymous_resource_link_error">"No s'ha pogut afegir"</string>
     <string name="anonymous_resource_link_hint">"Alguns elements no s’afegeixen al vostre compte. Voleu afegir ara?"</string>
@@ -114,6 +115,7 @@
     <string name="both_all_apply_success">S\'ha aplicat el fons de pantalla</string>
     <string name="browser_local_resource">Recursos locals</string>
     <string name="can_not_apply">No es pot aplicar</string>
+    <string name="cancel_download">Baixada cancel·lada</string>
     <string name="card_data_request_error">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="card_loading">Un moment…</string>
     <string name="card_no_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
@@ -202,6 +204,7 @@
     <string name="description_uploadtime">Actualitza</string>
     <string name="description_version">Versió</string>
     <string name="description_version_szie">Versió: %1$s Mida: %2$s</string>
+    <string name="desk_loop_will_change">Atenció</string>
     <string name="desktop_effects">Fons de pantalla animats</string>
     <string name="desktop_wallpaper">Pantalla inicial</string>
     <string name="detail_author_attention_head">Seguiu alguns dels nostres dissenyadors més destacats</string>
@@ -388,6 +391,7 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="incompatible_dialog_message">"Aquest tema encara no és totalment compatible amb aquesta versió de MIUI. És possible que algunes pàgines no funcionin correctament."</string>
     <string name="incompatible_dialog_ok">D\'acord</string>
     <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
+    <string name="install_failed">"No s'ha pogut instal·lar"</string>
     <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
     <string name="item_resource_audio_optional_color_ring">To de retorn de trucada</string>
@@ -570,7 +574,9 @@ mm"</string>
     <string name="network_exception">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="new_resource_price_unit">Jo</string>
     <string name="night">Vespre</string>
+    <string name="no_cta_agreed">"GetApps no té permisos CTA"</string>
     <string name="no_data">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="no_install_permission">"No teniu permisos per instal·lar aquest element"</string>
     <string name="no_net_work_connection">Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="no_network_desc">"No s'ha pogut connectar a la xarxa"</string>
     <string name="no_network_please_retry">Comprova la configuració de la xarxa i torna-ho a provar</string>
@@ -597,6 +603,7 @@ mm"</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="playing_ringtone">S\'està reproduint</string>
     <string name="pm">pm</string>
+    <string name="pref_lockscreen_magazine_summary">Substitueix el fons de pantalla per presentacions de diapositives d’imatges de diverses categories</string>
     <string name="pref_privacy_policy">Política de privadesa</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="present_local_fonts">Els meus tipus de lletra</string>
@@ -859,6 +866,8 @@ mm"</string>
     <string name="server_internal_error">S\'ha produït un error en el servidor. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="set_color_ring_back_tone">Estableix un to de trucada personalitzat</string>
     <string name="set_home_wallpaper_failed">"%s. No es pot aplicar el fons de la pantalla d'inici."</string>
+    <string name="set_wallpaper_group_success">"S'ha aplicat %1$s .
+Veureu una imatge nova cada hora."</string>
     <string name="setting_font_online">Tipus de lletra en línia</string>
     <string name="settings">Configuració</string>
     <string name="settings_search_keyword_font_free">Tipus de lletra gratuïts</string>
@@ -924,6 +933,12 @@ mm"</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
     <string name="super_wallpaper">Súper fons de pantalla</string>
+    <string name="super_wallpaper_list_label">Súper fons de pantalla</string>
+    <string name="super_wallpaper_setting_apply_success_toast">S\'ha aplicat correctament</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplica</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Seleccioneu la ubicació</string>
+    <string name="super_wallpaper_setting_coordinate_title">Coordenades</string>
+    <string name="super_wallpaper_setting_view_height_title">Altitud</string>
     <string name="support_theme_store_des">Els bons temes sempre són creats per dissenyadors amb talent. La nostra aplicació conté una petita quantitat d’anuncis que ens permeten donar suport al seu treball.</string>
     <string name="support_theme_store_supported">Gràcies pel teu recolzament!</string>
     <string name="support_theme_store_title">Donar suport als nostres dissenyadors</string>
@@ -939,6 +954,7 @@ mm"</string>
     <string name="system_cta_runtime_perm_desc_storage">Per emmagatzemar temes desats i altres elements</string>
     <string name="system_precust">Preinstal·lat</string>
     <string name="tag_ad">Anunci</string>
+    <string name="task_already_exist">Aquesta tasca ja existeix</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia de la no-agressió</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
@@ -1132,6 +1148,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
     <string name="unable_connect_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="up_to_the_end">"Això és tot per ara. Torneu més tard."</string>
+    <string name="update">Actualitza ara</string>
     <string name="update_btn">ACTUALITZA ARA</string>
     <string name="update_check">Cerca actualitzacions</string>
     <string name="update_checking">S\'estan cercant actualitzacions…</string>
@@ -1169,6 +1186,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wallpaper_detail_load_page_no_network">Connecteu-vos a la xarxa i torneu-ho a provar.</string>
     <string name="wallpaper_download_incall_show">Baixeu-vos el vídeo</string>
     <string name="wallpaper_dynamic">Dinàmic</string>
+    <string name="wallpaper_group_set_loop">Presentació de diapositives de pantalla de bloqueig amb imatges similars</string>
     <string name="wallpaper_loop_add_success">S\'ha afegit correctament</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Afegeix a la presentació de diapositives de la pantalla d\'inici</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Afegeix a la presentació de diapositives de la pantalla de bloqueig</string>
@@ -1203,8 +1221,18 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wallpaper_set_as_incall_show">Estableix com a vídeo de perfil</string>
     <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>
     <string name="wallpaper_setting_all">Tots els fons de pantalla</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">Més fons de pantalla en línia</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Pantalla d\'inici</string>
     <string name="wallpaper_setting_library">Música</string>
     <string name="wallpaper_setting_live">En directe</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Pantalla de bloqueig</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Fons de pantalla en línia</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Descobriu fons de pantalla</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Fons de pantalla en línia</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Súper fons de pantalla</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Més</string>
+    <string name="wallpaper_setting_title">Fons de pantalla</string>
     <string name="wallpaper_settings">Configuració del fons de pantalla</string>
     <string name="wallpaper_settings_loading_text">Un moment…</string>
     <string name="wallpaper_settings_no_history">No hi ha historial</string>
@@ -1212,6 +1240,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wallpaper_settings_page_title">Fons de pantalla</string>
     <string name="wallpaper_share_alert">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="wallpaper_static">Estàtic</string>
+    <string name="warning_subscribe_wallpaper_group_content">"Heu activat la presentació de diapositives de la pantalla d'inici. %1$s s'aplicarà a la pantalla d'inici."</string>
     <string name="wechat_not_found">Instal·leu primer WeChat</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>

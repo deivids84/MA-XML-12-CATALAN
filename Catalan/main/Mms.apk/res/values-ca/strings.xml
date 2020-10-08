@@ -35,6 +35,7 @@
     <string name="activity_not_found">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
     <string name="activity_not_found_uri">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
     <string name="ad_close_button_text">Promoció</string>
+    <string name="ad_notification_title">Missatges poc importants</string>
     <string name="addBlackList">Bloqueja</string>
     <string name="add_attachment">Afegeix fitxers adjunts</string>
     <string name="add_contact">vCard</string>
@@ -685,12 +686,15 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_delivery_ringtone">So de notificació</string>
     <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
     <string name="pref_forward_title">Reenviament</string>
+    <string name="pref_group_ad_mms_recognition">Missatges promocionals del grup</string>
     <string name="pref_hide_verification_code_summary">Oculta automàticament les contrasenyes d\'un sol ús a les notificacions de missatges a la pantalla de bloqueig segur</string>
     <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
     <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
     <string name="pref_msg_trash_bin_title">Missatges eliminats</string>
     <string name="pref_notification_settings_title">Notificacions</string>
     <string name="pref_other_title">Configuració addicional</string>
+    <string name="pref_rcs_show_report_message">Rebre informes d’entrega</string>
+    <string name="pref_rcs_show_report_message_tip">Rep informes quan els missatges es lliurin a l’altra persona</string>
     <string name="pref_show_blocked_messages_summary">Mostra els SMS bloquejats a la llista de converses</string>
     <string name="pref_show_list_avatar_summary">Mostra imatges i altra informació de contacte a la vista de llista</string>
     <string name="pref_show_photo_word_summary">Assigna automàticament una imatge als contactes sense</string>
@@ -700,10 +704,12 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_smart_messages_settings">Missatgeria Intel·ligent</string>
     <string name="pref_sms_storage_title">Emmagatzematge</string>
     <string name="pref_sms_theme_title">Pantalla</string>
+    <string name="pref_summary_ad_mms_recognition">Col·loqueu missatges promocionals en una pestanya independent</string>
     <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>
     <string name="pref_summary_auto_delete">Elimina missatges antics a mesura que s\'assoleixen els límits</string>
     <string name="pref_summary_collapse_ad_notification">Mostra tots els missatges promocionals en una carpeta d\'ombra de notificació independent</string>
     <string name="pref_summary_collapse_ad_notification_mms">Mostra tots els missatges promocionals en una pestanya independent</string>
+    <string name="pref_summary_collapse_ad_notification_mms_new">Agrupeu els missatges promocionals i marqueu-los com a no importants a l’ombra Notificació</string>
     <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
     <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
     <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
@@ -721,6 +727,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_summary_wake_up_screen">Activa la pantalla cada vegada que es rep un nou missatge</string>
     <string name="pref_switch_sdk_setting">Canvia al sistema sms inteligent</string>
     <string name="pref_system_title">Sistema</string>
+    <string name="pref_title_ad_mms_recognition">Reconeix els missatges promocionals</string>
     <string name="pref_title_allow_si_sl_push">Permeteu missatges WAP (SI/SL)</string>
     <string name="pref_title_auto_delete">Elimina missatges antics</string>
     <string name="pref_title_card_format">Format de targeta compartida</string>
@@ -818,6 +825,7 @@ Activeu les dades mòbils i obriu de nou aquesta pàgina."</string>
 Mireu els recomanats!"</string>
     <string name="rcs_chatbot_near_tab_empty">Encara no hi ha mini aplicacions.</string>
     <string name="rcs_chatbot_net_error">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="rcs_chatbot_no_waring">Silencia les notificacions de missatges</string>
     <string name="rcs_chatbot_normal_message">Heu rebut un missatge. Toqueu per veure els detalls.</string>
     <string name="rcs_chatbot_notification">Mini app: %s</string>
     <string name="rcs_chatbot_progress_failed">"No s'ha pogut carregar la informació. Toqueu per tornar-ho a provar."</string>
@@ -975,6 +983,8 @@ Mireu els recomanats!"</string>
     <string name="rms_normal_file_length_too_large">"No es poden enviar fitxers més grans de %1$d MB"</string>
     <string name="rms_original_image_length_too_large">"No es poden enviar imatges més grans de %1$d MB"</string>
     <string name="rms_original_image_size_too_large">Sembla que la imatge original és massa gran</string>
+    <string name="rsc_chatbot_back">enrere</string>
+    <string name="rsc_chatbot_detail">Informació del proveïdor</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>

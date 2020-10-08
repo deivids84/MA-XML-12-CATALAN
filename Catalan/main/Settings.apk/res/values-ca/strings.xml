@@ -434,6 +434,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="alarm_volume_title">Alarma</string>
     <string name="all_volume_title">Volums</string>
     <string name="allow">Permet</string>
+    <string name="allow_all_rotations_title">Permet totes les rotacions</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Un cop creat el giny, %1$s podrà accedir a totes les dades que mostra.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Voleu crear el giny i permetre\'n l\'accés?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permet que %1$s creï ginys i accedeixi a les dades</string>

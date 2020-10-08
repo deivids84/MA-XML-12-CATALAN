@@ -92,7 +92,7 @@
     <string name="HIPS_Perm_read_notification_sms">SMS de servei</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">llegir SMS de servei</string>
     <string name="HIPS_Perm_recognition">Accediu a la informació de l\'activitat</string>
-    <string name="HIPS_Perm_recognition_Desc">Permet que l\'aplicació accedeixi a la informació de la vostra activitat</string>
+    <string name="HIPS_Perm_recognition_Desc">Permeteu que l\'aplicació accedeixi a la informació de la vostra activitat</string>
     <string name="HIPS_Perm_service_foreground">Serveis en primer pla</string>
     <string name="HIPS_Perm_service_foreground_Desc">serveis en primer pla</string>
     <string name="HIPS_Perm_show_when_locked">Mostrar a la pantalla de bloqueig</string>

@@ -30,6 +30,9 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="about_checking_update">comprovant actualització ...</string>
+    <string name="about_go_to_update">Ves a actualitzar</string>
+    <string name="about_lasted_version">És la darrera edició</string>
     <string name="account_add_title">Seleccioneu el servei de correu</string>
     <string name="account_cache_provider">Proveïdor de memòria cau del compte</string>
     <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
@@ -49,6 +52,8 @@
     <string name="account_security_verification">Verificació del compte</string>
     <string name="account_set_up_change_type_note">Si us cal bescanviar la configuració entre POP3 i IMAP, primer heu d\'eliminar el vostre compte i tornar-lo a crear amb la configuració desitjada.</string>
     <string name="account_setting">Comptes</string>
+    <string name="account_setting_general_summry">Estableix funcions comunes de correu electrònic</string>
+    <string name="account_setting_general_title">Configuració de la funció</string>
     <string name="account_setting_keywords">Comptes; comptes de correu</string>
     <string name="account_setting_message_body_load_complete">Missatge complet</string>
     <string name="account_setting_message_body_load_head_abstract">Resum del correu</string>
@@ -58,8 +63,10 @@
     <string name="account_settings_background_attachments_label">Baixa els fitxers adjunts</string>
     <string name="account_settings_background_attachments_summary">Baixa els arxius adjunts amb Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Baixa els fitxers adjunts amb Wi-Fi</string>
+    <string name="account_settings_background_attachments_title">Baixeu els fitxers adjunts automàticament</string>
     <string name="account_settings_data_usage">Ús de dades</string>
     <string name="account_settings_description_label">Nom del compte</string>
+    <string name="account_settings_does_not_support_pop">El protocol POP3 no admet la configuració d’aquest element</string>
     <string name="account_settings_edit_quick_responses_label">Respostes ràpides</string>
     <string name="account_settings_edit_quick_responses_summary">Edita el text que inserixes freqüentment quan escrius un correu electrònic</string>
     <string name="account_settings_enforced_label">Polítiques aplicades</string>
@@ -194,6 +201,7 @@
     <string name="account_sync_settings_settings">Sincronitza els contactes i els calendaris del compte</string>
     <string name="account_sync_settingstip_description">Sincronitza</string>
     <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
+    <string name="action_filter">Filtra</string>
     <string name="actionbar_more_option">Més opcions</string>
     <string name="activity_folder_selection">Trieu carpeta</string>
     <string name="activity_mailbox_selection">Trieu compte</string>
@@ -642,6 +650,8 @@
     <string name="info_switch_title">Notícies de la safata d\'entrada</string>
     <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
     <string name="input_password_prompt">Introduïu la contrasenya</string>
+    <string name="install_mime_encrypt_cert">Instal·leu el certificat de xifratge S / MIME</string>
+    <string name="install_mime_sign_cert">Instal·leu el certificat de signatura S / MIME</string>
     <string name="interact_with_server_error">"No s'ha pogut connectar amb el servidor"</string>
     <string name="invalid_recipient">L\'adreça %s no és vàlida.</string>
     <string name="invalid_recipient_title">Error amb destinatari</string>
@@ -676,6 +686,7 @@
     <string name="login_failed_tip">"Contacteu-nos a WeChat per obtenir ajuda: "</string>
     <string name="login_failed_title">"No es pot iniciar sessió"</string>
     <string name="login_mail">Inicia la sessió</string>
+    <string name="login_manual">Configuració manual</string>
     <string name="login_qq_psw">Introduïu el codi manualment</string>
     <string name="login_support_tip_text">Compatible amb gairebé tots els comptes de correu principals</string>
     <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
@@ -703,6 +714,8 @@
     <string name="mailbox_name_display_starred">Destacats</string>
     <string name="mailbox_name_display_trash">Paperera</string>
     <string name="mailbox_name_display_unread">No llegits</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Sincronització: desactivada</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Sincronització: activada</string>
     <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>

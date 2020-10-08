@@ -2,7 +2,7 @@
 <resources>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
-    <string name="abc_action_menu_overflow_description">Més</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
     <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
@@ -186,7 +186,6 @@
     <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="check_security_tip_privacy_policy">Política de privadesa</string>
     <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
-    <string name="chinese_leap">Córrer</string>
     <string name="clear_clipboard">Neteja</string>
     <string name="clear_clipboard_confirm">Esteu segur que voleu netejar completament el porta-retalls?</string>
     <string name="clear_history">Esborra l\'historial</string>
@@ -284,7 +283,7 @@
     <string name="data_traffic_prompt_title">Ús de dades mòbils</string>
     <string name="data_traffic_stop">Atura</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
-    <string name="debug_feed_title">Prova d\'alimentació</string>
+    <string name="debug_feed_title">Prova del canal</string>
     <string name="debug_mode_toast">El mode de depuració està habilitat</string>
     <string name="delete">Suprimeix</string>
     <string name="delete_bookmark">Suprimeix</string>
@@ -416,7 +415,7 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
     <string name="exo_download_notification_channel_name">Baixades</string>
     <string name="exo_download_removing">Suprimint les baixades</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_role_alternate">Alternat</string>
+    <string name="exo_track_role_alternate">Alternatiu</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentari</string>
     <string name="exo_track_role_supplementary">Suplementari</string>
@@ -609,10 +608,10 @@ per visualitzar les pestanyes obertes en altres dispositius. "</string>
     <string name="month_june">juny</string>
     <string name="month_june_short">Juny</string>
     <string name="month_june_shortest">Juny</string>
-    <string name="month_march">març</string>
+    <string name="month_march">Març</string>
     <string name="month_march_short">Març</string>
-    <string name="month_march_shortest">Març</string>
-    <string name="month_may">maig</string>
+    <string name="month_march_shortest">març</string>
+    <string name="month_may">Maig</string>
     <string name="month_may_short">Maig</string>
     <string name="month_may_shortest">Maig</string>
     <string name="month_november">de novembre</string>
