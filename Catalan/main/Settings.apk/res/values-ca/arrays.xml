@@ -9,13 +9,11 @@
     </string-array>
     <string-array name="aggregate_entries">
         <item>Grup</item>
-        <item>Grup i prioritat inferior</item>
-        <item>"No agrupis"</item>
+        <item>"No agrupeu"</item>
     </string-array>
     <string-array name="aggregate_summaries">
         <item>S\'agruparan les notificacions promocionals i les relacionades amb el contingut</item>
-        <item>Les notificacions push s\'agruparan i es mostraran a sota d\'altres notificacions</item>
-        <item>"Les notificacions push no s’agruparan"</item>
+        <item>"Les notificacions automàtiques no s’agruparan"</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Xarxa domèstica</item>
@@ -761,6 +759,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>4K (ampliat)</item>
         <item>4K (ampliat, segur)</item>
         <item>720p, 1080p (pantalla dual)</item>
+    </string-array>
+    <string-array name="paper_color_values">
+        <item>Colors complets</item>
+        <item>Colors clars</item>
+        <item>Blanc i negre</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Permet</item>

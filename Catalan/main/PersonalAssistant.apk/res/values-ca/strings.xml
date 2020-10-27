@@ -265,6 +265,8 @@
     <string name="app_pa_setting_service_quick_func_summary">Obre funcions específiques d\'aplicacions populars</string>
     <string name="app_pa_setting_service_recent">Elements recents</string>
     <string name="app_pa_setting_service_recent_summary">Aplicacions ràpides i dreceres que es mostren després de lliscar cap avall al magatzem d\'aplicacions</string>
+    <string name="app_pa_setting_service_red_envelope">Assistent del sobre vermell</string>
+    <string name="app_pa_setting_service_red_envelope_summary">Obteniu descomptes i ofertes de compres</string>
     <string name="app_pa_setting_service_screen_duration">Temps de pantalla</string>
     <string name="app_pa_setting_service_sports">Esports</string>
     <string name="app_pa_setting_service_sports_summary">Última informació sobre els equips que seguiu</string>
@@ -496,7 +498,6 @@
     <string name="category_traffic">Transport</string>
     <string name="check_network">Comproveu la configuració de xarxa</string>
     <string name="check_network_retry">Comproveu la configuració de xarxa i torneu-ho a provar</string>
-    <string name="chinese_leap">Córrer</string>
     <string name="choose_city">Seleccioneu la ciutat</string>
     <string name="choose_upload">Seleccioneu els fitxers a pujar</string>
     <string name="city_name_spell">Introduïu la ciutat</string>
@@ -912,10 +913,10 @@ Comproveu el número de seguiment."</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -933,7 +934,7 @@ Comproveu el número de seguiment."</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>

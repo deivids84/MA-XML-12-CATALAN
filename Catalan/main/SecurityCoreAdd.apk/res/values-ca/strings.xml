@@ -276,7 +276,6 @@ Dos espais. Un dispositiu."</string>
     <string name="notificationTitle">Drecera en l\'àrea de notificacions</string>
     <string name="notification_from_owner_user">Mostra notificacions del primer espai</string>
     <string name="notification_from_second_user">Mostra notificacions del segon espai</string>
-    <string name="notification_recommend_title">Primeres 12 aplicacions per al Segon espai</string>
     <string name="notification_setting_second_space">Configurar el Segon espai</string>
     <string name="notification_setting_second_space_desc">Afegeix la contrasenya del Segon espai i mou dades</string>
     <string name="ok_button">D\'acord</string>
@@ -477,9 +476,13 @@ Separeu i assegureu les vostres dades."</string>
 Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. En aquests casos, es crea el Marc de Serveis de Google dual."</string>
     <string name="xspace_disable">No s\'ha creat</string>
     <string name="xspace_enable">S\'ha creat</string>
-    <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
-    <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
+    <string name="xspace_guide_content_bound">Aplicacions disponibles</string>
+    <string name="xspace_guide_des">Les aplicacions dobles us permeten utilitzar dos comptes simultàniament sense canviar-los</string>
+    <string name="xspace_guide_description">"Tots els comptes
+mereixen la seva pròpia aplicació"</string>
+    <string name="xspace_guide_title">Proveu les aplicacions Dual</string>
     <string name="xspace_header">Aplicacions duals</string>
+    <string name="xspace_install_complete">&lt;font&gt;S\'ha creat l\'aplicació dual amb èxit. &lt;/font&gt;&lt;font color=#0D84FF&gt;Obert ara&lt;/font&gt;.</string>
     <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>
     <string name="xspace_install_completed_global">Icona afegida al calaix</string>
     <string name="xspace_install_failed">"No s'ha pogut crear"</string>
@@ -488,10 +491,12 @@ Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. E
     <string name="xspace_label">Aplicacions duals</string>
     <string name="xspace_loading_msg">S\'estan carregant les aplicacions&#8230;</string>
     <string name="xspace_notification">Notificacions de les aplicacions duals</string>
+    <string name="xspace_notification_button">Proveu</string>
     <string name="xspace_notification_error">Inicieu la sessio al WeChat dual i torneu-ho a provar</string>
     <string name="xspace_remove">"Suprimeix els comptes de les aplicacions dobles"</string>
     <string name="xspace_setting_label">Configuració d\'aplicacions duals</string>
     <string name="xspace_settins">Estableix</string>
+    <string name="xspace_start">Crear</string>
     <string name="xspace_uninstall_completed">Aplicació dual desinstal·lada amb èxit</string>
     <string name="xspace_uninstall_dialog_content">La desinstal·lació d\'una aplicació dual n\'eliminarà totes les seves dades.</string>
     <string name="xspace_uninstall_dialog_title">Desinstal·lar aplicació dual</string>

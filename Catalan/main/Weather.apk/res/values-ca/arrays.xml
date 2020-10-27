@@ -61,14 +61,12 @@
         <item>Moderada</item>
         <item>Lleugera</item>
     </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Excel·lent</item>
-        <item>Bo</item>
-        <item>Lleugerament contaminat</item>
-        <item>Moderadament contaminat</item>
-        <item>Molt contaminat</item>
-        <item>Extremadament contaminat</item>
-        <item>Més enllà de l\'índex</item>
+    <string-array name="settings_atmospheric_pressure_unit_values">
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </string-array>
     <string-array name="weather_type">
         <item>Serè</item>

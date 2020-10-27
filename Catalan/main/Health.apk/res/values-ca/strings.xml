@@ -67,6 +67,7 @@ per afegir targetes"</string>
     <string name="altitude">Altitud</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
+    <string name="app_name">TrackingTree</string>
     <string name="app_setting">Aplicacions</string>
     <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
     <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
@@ -153,7 +154,6 @@ per afegir targetes"</string>
     <string name="butterfly_stroke">Papallona</string>
     <string name="button_record_menstruation">Registre</string>
     <string name="buy">Compra</string>
-    <string name="calories">calories</string>
     <string name="camera_permission_desc">Per configurar les fotos de perfil</string>
     <string name="cancel">Cancel·la</string>
     <string name="cancel_edit">Descarta els canvis</string>
@@ -444,10 +444,10 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -456,6 +456,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_long">EEEE</string>
@@ -546,16 +547,6 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_detect_state_reseting">Estat de repòs</string>
     <string name="hr_detect_state_reseting_desc">Només cal despertar-se o relaxar-se completament</string>
     <string name="hr_disturb_detect">Interrupció de detecció</string>
-    <string name="hr_fp_area">Zona d’empremtes digitals</string>
-    <string name="hr_fp_detect_desc">El flux sanguini cap als dits augmenta durant els batecs del cor. A través de la font de llum brillant a la zona d’empremtes digitals sota la pantalla es pot obtenir la freqüència de canvi de la sang dels dits. La freqüència es converteix en un senyal de pols per calcular la freqüència cardíaca precisa.</string>
-    <string name="hr_fp_detect_principle_desc">"La sang pot absorbir la llum. Amb cada batec del cor, més sang flueix cap als dits i s’absorbeix més llum; en l’interval entre els batecs del cor, s’absorbeix menys llum. A través de la font de llum brillant a la zona d’empremtes digitals sota la pantalla es pot obtenir la freqüència de canvi de la sang dels dits. La freqüència es converteix en un senyal de pols per calcular la freqüència cardíaca precisa. 
-
-Mitjançant un gran nombre d'experiments, l'error mitjà de la freqüència cardíaca és inferior a 3 BPM"</string>
-    <string name="hr_fp_detect_principle_desc_2">Nota: assegureu-vos que el dit cobreixi completament l\'àrea d\'empremtes digitals; premeu-lo suaument durant la detecció. Si la pressió és massa alta, es reduirà el flux sanguini al dit, cosa que provocarà resultats inexactes. Les dades de les proves són només de referència, no per a instruments mèdics.</string>
-    <string name="hr_fp_detect_start_desc">Si us plau, premeu el dit lleugerament. No moveu l\'àrea d\'empremtes digitals</string>
-    <string name="hr_fp_detecting">S\'està detectant…</string>
-    <string name="hr_fp_not_put_well">El dit no està al lloc adequat; torneu-ho a provar</string>
-    <string name="hr_fp_report_common_desc">La freqüència cardíaca normal oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
     <string name="hr_heart_rate_unit">Freqüència cardíaca (BPM)</string>
     <string name="hr_in_detect">No deixeu anar els dits mentre feu la prova</string>
     <string name="hr_input_heart_rate">Registrar la freqüència cardíaca</string>
@@ -979,14 +970,11 @@ Mitjançant un gran nombre d'experiments, l'error mitjà de la freqüència card
     <string name="setting_avatar">Foto de perfil</string>
     <string name="setting_birthday">Estableix la data de naixement</string>
     <string name="setting_blood_type">Estableix el grup sanguini</string>
-    <string name="setting_cycling_goals">Establir objectius en bicicleta</string>
     <string name="setting_data_cloud_sync_tip">Feu servir aquesta funció per fer una còpia de seguretat dels elements d’aquest dispositiu i sincronitzar les dades de salut d’altres dispositius</string>
     <string name="setting_gender">Estableix el sexe</string>
-    <string name="setting_running_goals">Establir objectius de carrera</string>
     <string name="setting_sedentary_off">DESACTIVAT</string>
     <string name="setting_sedentary_on">ACTIVAT</string>
     <string name="setting_sedentary_title">Recordeu que us heu de moure</string>
-    <string name="setting_walking_goals">Establir objectius per caminar</string>
     <string name="severe_abnormal">Crisis hipertensives</string>
     <string name="severe_abnormal_tip">Cada dia després d\'aixecar-se, després de dinar i abans d\'anar a dormir</string>
     <string name="share">Comparteix</string>
@@ -1184,9 +1172,6 @@ les dades de son"</string>
     <string name="stand_stop_reminding">"No ho tornis a mostrar"</string>
     <string name="standard_format">(estàndard: %1s)</string>
     <string name="standing_already">" Us heu aixecat"</string>
-    <string name="start_cycling">Comença a pedalar</string>
-    <string name="start_running">Comença a córrer</string>
-    <string name="start_walking">Comença a caminar</string>
     <string name="state_agree">D\'acord</string>
     <string name="state_auto_run_disenable">Desactivat</string>
     <string name="state_auto_run_enable">Activat</string>
@@ -1300,7 +1285,7 @@ les dades de son"</string>
     <string name="tb_home_sleep_card_no_data">Son. Sense dades avui.</string>
     <string name="tb_home_sleep_card_not_open_trace">Son. L’anàlisi del cicle de son està desactivat.</string>
     <string name="tb_home_tip_open_data_sync">Sincronitza els elements de Xiaomi Health amb Xiaomi Cloud per accedir-hi des d\'altres dispositius. Toqueu dos cops per començar.</string>
-    <string name="tb_home_weight_card">Pes. %1$.2f quilograms. Hora de pesatge: %2$s. Estat: %3$s.</string>
+    <string name="tb_home_weight_card">Pes. %1$.1f quilograms. Hora de pesatge: %2$s. Estat: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Pes. No hi ha dades.</string>
     <string name="tb_manage_home">Aquí podeu suprimir o reorganitzar les targetes que es mostren a la pàgina d\'inici.</string>
     <string name="tb_mens_mark_success">S\'ha marcat correctament</string>

@@ -483,8 +483,15 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_trust_device">Afegeix aquest dispositiu a dispositius verificats</string>
     <string name="passport_trying_read_verify_code_sms">S\'està obtenint el codi de verificació…</string>
     <string name="passport_uplink_reg">Utilitza el número de telèfon</string>
+    <string name="passport_uplink_send_sms_hint">"Toca \"Envia\" després de redirigir-te a la pàgina amb un missatge compost."</string>
     <string name="passport_uplink_slot1_reg">Utilitza la SIM 1</string>
     <string name="passport_uplink_slot2_reg">Utilitza la SIM 2</string>
+    <string name="passport_uplink_sms_send_cancel">S\'ha cancel·lat l\'enviament de SMS d\'enllaç ascendent</string>
+    <string name="passport_uplink_sms_send_confirm">Enviat</string>
+    <string name="passport_uplink_sms_send_failed">"No s'ha pogut verificar l'SMS d'enllaç ascendent"</string>
+    <string name="passport_uplink_sms_sending">S\'està enviant el missatge de pagament…</string>
+    <string name="passport_uplink_suggest_dialog_msg">"No s'ha pogut rebre el codi. Voleu utilitzar un SMS d’enllaç ascendent de pagament?"</string>
+    <string name="passport_uplink_suggest_dialog_title">Atenció</string>
     <string name="passport_use_generated_pwd_message">Assegureu-vos de recordar la vostra contrasenya. Podeu utilitzar-la per iniciar la sessió a altres serveis Mi.</string>
     <string name="passport_use_generated_pwd_title">Recordeu la vostra contrasenya</string>
     <string name="passport_user_agreement">Acord d\'usuari</string>

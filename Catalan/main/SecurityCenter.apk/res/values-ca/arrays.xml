@@ -25,11 +25,41 @@
         <item>PIN</item>
         <item>Contrasenya</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Pla mensual</item>
+        <item>Il·limitat</item>
+        <item>Pla diari</item>
+    </string-array>
+    <string-array name="clean_cached_process_white_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.virtualsim</item>
+        <item>com.android.keyguard</item>
+        <item>com.android.keychain</item>
+        <item>com.miui.systemAdSolution</item>
+        <item>com.miui.msa.global</item>
+        <item>com.miui.securitycore</item>
+        <item>com.miui.personalassistant</item>
+        <item>com.android.updater</item>
+        <item>com.miui.analytics</item>
+        <item>com.miui.cleanmaster</item>
+        <item>com.miui.cleaner</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>Personalitzat</item>
         <item>Targeta Mi Fan</item>
         <item>Targeta Xiao Tiansheng</item>
         <item>Targeta Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalitzat</item>
+        <item>Mòbil Mi</item>
+        <item>Targeta Mi Fan</item>
+        <item>Targeta Tianshen</item>
+        <item>Targeta Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Ahir (dades mòbils) "</item>

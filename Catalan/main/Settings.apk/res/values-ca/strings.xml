@@ -390,6 +390,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="additional_permissions_more">%1$d més</string>
     <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
     <string name="adjust_3d_depth_title">"Ajusta la profunditat dels jocs 3D"</string>
+    <string name="adjust_temperature_title">Temperatura del color</string>
     <string name="admin_device_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb aquest dispositiu, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
     <string name="admin_disabled_other_options">L\'administrador ha desactivat altres opcions.</string>
     <string name="admin_more_details">Més detalls</string>
@@ -399,6 +400,8 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="advanced_apps">Avançat</string>
     <string name="advanced_battery_graph_subtext">L\'estimació de la bateria es basa en l\'ús del dispositiu</string>
     <string name="advanced_battery_title">Ús avançat de la bateria</string>
+    <string name="advanced_gesture">Gestos personalitzats</string>
+    <string name="advanced_screen_paper_mode_title">Mode lectura</string>
     <string name="advanced_section_header">Avançat</string>
     <string name="advanced_security_title">Avançat</string>
     <string name="advanced_settings">Configuració addicional</string>
@@ -661,6 +664,8 @@ Canvieu la configuració ara?"</string>
     <string name="audio_files_title">Fitxers d\'àudio</string>
     <string name="audio_profile_settings_title">Perfils d\'àudio</string>
     <string name="audio_record_proc_title">Redueix la fressa de fons</string>
+    <string name="auto_adjst_effect_summary">Ajusteu la temperatura del color a la llum ambiental automàticament per mantenir un nivell de confort òptim</string>
+    <string name="auto_adjust_effect_title">Ajusteu la temperatura del color automàticament</string>
     <string name="auto_brightness_default_title">Per defecte</string>
     <string name="auto_brightness_description">La brillantor de la pantalla s’ajustarà automàticament al vostre entorn i activitats. Podeu moure el control lliscant manualment per ajudar a la brillantor adaptativa a aprendre les vostres preferències.</string>
     <string name="auto_brightness_disclaimer">Optimitza el nivell de brillantor per a la llum disponible. Quan aquesta funció estigui activada, encara podreu ajustar la brillantor temporalment.</string>
@@ -748,9 +753,12 @@ Darrera execució el %2$s"</string>
     <string name="avoid_ui">Resposta de tacte bloqueig</string>
     <string name="awake">Hora d\'inici del dispositiu</string>
     <string name="back_button">Enrere</string>
+    <string name="back_double_tap">Feu doble toc</string>
     <string name="back_key">Enrere</string>
     <string name="back_sensitivity_dialog_message">Una sensibilitat més alta pot entrar en conflicte amb els gestos d\'aplicacions al llarg de les vores de la pantalla.</string>
     <string name="back_sensitivity_dialog_title">Sensibilitat d\'Enrere</string>
+    <string name="back_tap">Torna a tocar</string>
+    <string name="back_triple_tap">Toca triple enrere</string>
     <string name="background_activity_disabled_dialog_text">"Com que aquesta aplicació no està configurada per optimitzar la bateria, no la podeu restringir.
 
 Per restringir l’aplicació, activeu primer l’optimització de la bateria."</string>
@@ -1572,6 +1580,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="certificate_warning_dont_install">No instal·leu</string>
     <string name="certificate_warning_install_anyway">Instal·leu de totes maneres</string>
     <string name="change">Canvia</string>
+    <string name="change_brightness">Ajusteu la brillantor</string>
     <string name="change_lock_screen_password_title">Canvia el bloqueig de la pantalla</string>
     <string name="change_password">Canvia el bloqueig de pantalla</string>
     <string name="change_security_lock">Prova altres formes de desbloqueig</string>
@@ -1607,6 +1616,8 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="choose_unlock_face_msg">Establiu un bloqueig de pantalla abans de gravar les dades de la cara.</string>
     <string name="choose_unlock_fingerprint_msg">Establiu el bloqueig de pantalla abans d’afegir la vostra empremta digital.</string>
     <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
+    <string name="classic_mode_summary">Canvieu a colors més càlids per reduir la quantitat de llum blava</string>
+    <string name="classic_mode_title">Clàssic</string>
     <string name="cleaner">Netejador</string>
     <string name="clear_activities">Esborra els valors per defecte</string>
     <string name="clear_activities_summary">Utilitza aquesta aplicació per a algunes operacions per defecte</string>
@@ -1818,6 +1829,8 @@ Aquesta informació identifica si els vostres contactes poden utilitzar determin
     <string name="continue_reset_factory">Restabliment de fàbrica</string>
     <string name="contributors_title">Col·laboradors</string>
     <string name="control_center">Centre de control</string>
+    <string name="control_center_style">Estil del centre de control</string>
+    <string name="control_center_style_summary">"Seleccioneu com voleu mostrar les activacions i les notificacions"</string>
     <string name="control_panel_switch_side">Control central d’interruptor lateral</string>
     <string name="controls_label">Controls</string>
     <string name="controls_subtitle">Ajusta l\'ús d\'energia</string>
@@ -1923,6 +1936,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
     <string name="current_zone">(actual)</string>
     <string name="custom_carrier_title">Edita el nom de l\'operador</string>
     <string name="custom_color">Personalitzat</string>
+    <string name="custom_gesture_title">Gestos personalitzats</string>
     <string name="custom_wifi_name_title">Edita el nom de la WLAN</string>
     <string name="cutout_mode_always">Mostra sempre el notch</string>
     <string name="cutout_mode_default">Auto</string>
@@ -2451,6 +2465,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="done">Fet</string>
     <string name="done_button">Fet</string>
     <string name="double_click_power_key">Premeu dues vegades el botó d\'encesa</string>
+    <string name="double_click_volume_down_when_lock">Feu doble clic a baixar el volum quan la pantalla estigui bloquejada</string>
     <string name="double_tap_power_for_camera_suggestion_title">Obre la càmera ràpidament</string>
     <string name="double_tap_power_for_camera_summary">Per obrir la càmera ràpidament, premeu el botó d\'encesa dues vegades. Funciona des de qualsevol pantalla.</string>
     <string name="double_tap_power_for_camera_title">Obriu la càmera ràpidament</string>
@@ -2514,6 +2529,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="edge_to_edge_navigation_title">Navegació per gestos</string>
     <string name="edit_rule">Edita les regles</string>
     <string name="edit_rules">Edita</string>
+    <string name="effect_preview">Vista prèvia</string>
     <string name="eighthours">8 hores</string>
     <string name="emergency_address_summary">S\'utilitza com a ubicació quan feu una trucada d\'emergència mitjançant Wi-Fi</string>
     <string name="emergency_address_title">Actualització de l\'adreça d\'emergència</string>
@@ -2942,6 +2958,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
     <string name="foreground_traffic">Primer pla %s</string>
     <string name="forget">Oblida-la</string>
     <string name="forget_passpoint_dialog_message">Podeu perdre l’accés a qualsevol temps o dades restants. Consulteu el proveïdor abans de retirar-ho.</string>
+    <string name="forget_passpoint_wifi_message">El dispositiu deixarà de connectar-se automàticament a aquesta xarxa.</string>
     <string name="forget_password_button_text"><u>Heu oblidat la contrasenya</u></string>
     <string name="forget_password_dialog_button_text">Enrere</string>
     <string name="forget_password_dialog_content_four">2. Seleccioneu [Esborra dades] i espereu fins que el dispositiu es reiniciï.</string>
@@ -3022,6 +3039,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="gentle_notifications_display_summary_shade_status_lock">Mostra-ho a l\'àrea desplegable, a la barra d’estat i a la pantalla de bloqueig</string>
     <string name="gentle_notifications_education">Les notificacions discretes són sempre silencioses i sempre apareixen a l\'àrea desplegable</string>
     <string name="gentle_notifications_title">Notificacions discretes</string>
+    <string name="gesture_function_dialog_message">%1$s s\'utilitza per a \"%2$s\". Voleu substituir-lo per \"%3$s\"?</string>
     <string name="gesture_not_supported_dialog_message">No és compatible amb l\'aplicació d\'inici per defecte, %s</string>
     <string name="gesture_not_supported_positive_button">Canvia l\'aplicació d\'inici per defecte</string>
     <string name="gesture_preference_summary">Gestos ràpids per controlar el telèfon</string>
@@ -3032,6 +3050,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="gesture_setting_off">Desactivats</string>
     <string name="gesture_setting_on">Activats</string>
     <string name="gesture_settings_activity_title">Configuració gestual</string>
+    <string name="gesture_settings_title">Dreceres de gestos</string>
     <string name="gesture_wakeup_summary">Podeu tocar dues vegades per apagar la pantalla quan s’aplica el tema per defecte o clàssic</string>
     <string name="gesture_wakeup_title">Doble toc a la pantalla per a activar-la</string>
     <string name="getConfiguredNetworks">xarxes configurades</string>
@@ -3152,6 +3171,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="high_power_prompt_body">"\"Voleu que l'aplicació %1$s es mantingui connectada en segon pla? Pot fer servir bateria."</string>
     <string name="high_power_prompt_title">Voleu que s\'ignorin les optimitzacions de la bateria?</string>
     <string name="high_power_system">L\'optimització de la bateria no és disponible</string>
+    <string name="hint_unadjustable_text">"No es pot ajustar manualment. La temperatura del color s’ajusta automàticament ara."</string>
     <string name="history_details_title">Detalls de l\'historial</string>
     <string name="history_toggled_on_summary">Les vostres notificacions recents i esgotades apareixeran aquí</string>
     <string name="history_toggled_on_title">No hi ha notificacions recents</string>
@@ -3355,6 +3375,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="key_combination_power_back">Encesa + enrere</string>
     <string name="key_combination_power_home">Encesa + inici</string>
     <string name="key_combination_power_menu">Encesa + menú</string>
+    <string name="key_combination_power_volume_down">Baixada de volum + alimentació</string>
     <string name="key_fsg_dialog_message">"Esteu utilitzant els gestos de pantalla completa per a la navegació. Les funcions relacionades amb els botons no estan disponibles ara. Voleu canviar als botons?"</string>
     <string name="key_fsg_dialog_negative">Cancel·la</string>
     <string name="key_fsg_dialog_positive">Canvia als botons</string>
@@ -3516,15 +3537,26 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="last_synced">Darrera sincronització %1$s</string>
     <string name="last_time_used_label">Darrer cop que es va fer servir</string>
     <string name="lattice_smartcover_title">Tapa frontal enreixada</string>
+    <string name="launch_ai_shortcut">Drecera Mi AI</string>
+    <string name="launch_alipay_payment_code">Codi de pagament Alipay</string>
+    <string name="launch_alipay_scanner">Escàner Alipay</string>
     <string name="launch_by_default">Obre per defecte</string>
+    <string name="launch_calculator">Calculadora</string>
     <string name="launch_camera">Obre la càmera</string>
+    <string name="launch_control_center">Centre de control</string>
     <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
     <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
     <string name="launch_google_search">Obre Google Assistant</string>
     <string name="launch_instant_app">Obre</string>
     <string name="launch_mdp_app_text">Mostra el pla</string>
+    <string name="launch_noapp_dialog_cancel">Cancel·la</string>
+    <string name="launch_noapp_dialog_install">_Instal·la</string>
+    <string name="launch_noapp_dialog_replace">Configuració de xarxa</string>
+    <string name="launch_notification_center">Àrea de notificacions</string>
     <string name="launch_recents">Executa recents</string>
     <string name="launch_voice_assistant">Inicieu assistent de veu</string>
+    <string name="launch_wechat_payment_code">Codi de pagament WeChat</string>
+    <string name="launch_wechat_scanner">Escàner WeChat</string>
     <string name="launch_wifi_text">Mostra els detalls</string>
     <string name="launcher_icon">Icones</string>
     <string name="launcher_title">Pantalla d\'inici</string>
@@ -3546,6 +3578,8 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="led_settings">Llum LED</string>
     <string name="left_edge">Borde esquerre</string>
     <string name="left_function_key">Drecera de l\'esquerra</string>
+    <string name="legacy_control_center_desc">Estireu la barra d\'estat cap avall per veure les activacions i les notificacions</string>
+    <string name="legacy_control_center_title">Versió antiga</string>
     <string name="legacy_navigation_summary">Torneu enrere, aneu a Inici i canvieu les aplicacions amb els botons de la part inferior de la pantalla.</string>
     <string name="legacy_navigation_title">Navegació amb 3 botons</string>
     <string name="legal_information">Informació legal</string>
@@ -3676,6 +3710,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="lock_profile_wipe_warning_content_password">Si torneu a introduir una contrasenya incorrecta, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Si torneu a introduir un patró incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
     <string name="lock_profile_wipe_warning_content_pin">Si torneu a introduir un PIN incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
+    <string name="lock_screen_action">Elements que es mostren a la pantalla de bloqueig després de lliscar cap avall</string>
     <string name="lock_screen_display_category_name">Pantalla de bloqueig</string>
     <string name="lock_screen_intro_skip_dialog_text">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones utilitzin el telèfon si el perdeu o el roben.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones facin servir el telèfon si el perdeu, el roben o se n\'esborra el contingut.</string>
@@ -3877,6 +3912,7 @@ com el PIN del primer espai. "</string>
     <string name="long_press_menu_key_when_lock">Pulsació llarga al botó menú a la pantalla de bloqueig</string>
     <string name="long_press_power_key">Mantingueu premut el botó d\'encesa</string>
     <string name="long_press_power_key_half_of_second">Mantingueu premut el botó d\'engegada durant 0,5 s per activar l\'assistent de Google</string>
+    <string name="long_press_power_key_half_second">Mantén premut el botó d\'engegada durant %ss</string>
     <string name="long_press_power_key_tips">&lt;Data&gt;Premeu llargament el botó d\'engegada &lt;font color=#999999&gt;més ràpid i més convenient&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
     <string name="lost_internet_access_cancel">Continua a la Wi-Fi</string>
@@ -4067,6 +4103,7 @@ No podeu revertir aquesta acció."</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Mi Pay Account</string>
     <string name="mi_pay_summary">Targeta de transport / Mi Pay / Key card</string>
+    <string name="mi_pay_summary_without_nfc">Mi Pay</string>
     <string name="mi_service">Mi Service</string>
     <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
     <string name="mi_shopping_mall">El meu centre comercial</string>
@@ -4165,7 +4202,6 @@ Continua per accedir a la configuració addicional."</string>
     <string name="miui_touch_filtered_warning">Si una aplicació bloca un diàleg de permisos, activeu l\'element que col·lideix o tanqueu l\'aplicació.</string>
     <string name="miui_updater">Actualització del sistema</string>
     <string name="miui_userguide">Guia d\'usuari</string>
-    <string name="miui_wifi_wakeup_summary">La WLAN s’activarà automàticament quan el dispositiu detecti xarxes desades a prop i s’apagarà al cap de 15 minuts si no s’estableix cap connexió</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -4230,6 +4266,8 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
     <string name="model_name">Nom del model</string>
     <string name="model_number">Dispositiu</string>
     <string name="model_summary">Model: %1$s</string>
+    <string name="modern_control_center_desc">Tireu cap avall la barra d\'estat de l\'esquerra per veure les notificacions. Tireu cap avall la barra d\'estat de la dreta per obrir el centre de control.</string>
+    <string name="modern_control_center_title">Versió nova</string>
     <string name="modify_default_browser_message">Si configureu una aplicació de tercers com a navegador predeterminat, pot començar a recopilar l’historial de navegació i altres dades. Voleu establir-lo de totes maneres?</string>
     <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
     <string name="modify_privacy_password">Canvieu la contrasenya</string>
@@ -4275,7 +4313,7 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
     <string name="msd_driver_download">Baixa el controlador</string>
     <string name="msd_driver_download_mac">Baixeu el controlador i instal·leu Android File Transfer.</string>
     <string name="msd_driver_download_mac_url">Baixeu els controladors des d\'http://www.android.com/filetransfer/</string>
-    <string name="msd_driver_download_xp">Descarregueu Mi Phone Manager per utilitzar el telèfon com a dispositiu d\'emmagatzematge USB.</string>
+    <string name="msd_driver_download_xp">Baixeu Mi Phone Manager per utilitzar el vostre telèfon com si fos un dispositiu d\'emmagatzematge USB.</string>
     <string name="msd_driver_download_xp_url">Obteniu el conductor a http://zhushou.xiaomi.com/</string>
     <string name="msd_help_summary">"No podeu accedir al dispositiu?
 Seleccioneu el sistema operatiu:"</string>
@@ -4322,6 +4360,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="multifunction_keyboard">Multifuncional</string>
     <string name="music_equalizer">Equalitzador</string>
     <string name="musicfx_title">Efectes musicals</string>
+    <string name="mute">Mode silenci</string>
     <string name="mute_media_sound_title">Mitjans de silenci en mode Silenci</string>
     <string name="mute_music_stream">Silencia el so multimèdia</string>
     <string name="mute_voiceassist_stream">Assistent de veu silenciat</string>
@@ -4603,10 +4642,12 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="notification_channels_other">Altres</string>
     <string name="notification_content_block_summary">No mostris mai notificacions al panell o en dispositius perifèrics</string>
     <string name="notification_content_block_title">Mostra les notificacions</string>
+    <string name="notification_control_center">Notificacions &amp; Centre de control</string>
     <string name="notification_conversation_add_to_home">Afegir a casa</string>
     <string name="notification_conversation_important">Prioritat</string>
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">No té so ni vibració i apareix més baix a la secció de conversa</string>
+    <string name="notification_display_settings">Àrea de notificacions</string>
     <string name="notification_fold_description1">La carpeta de notificacions es va introduir a MIUI 9. Aquesta característica filtra les notificacions sense importància i les col·loca en una carpeta independent.</string>
     <string name="notification_fold_description2">MIUI recordarà quines notificacions toqueu i aleshores utilitzarà diversos criteris per determinar si són importants.</string>
     <string name="notification_fold_description3">"Si les notificacions que considereu importants encara entren a la carpeta Notificacions, assegureu-vos que ens informeu d'aquests problemes. Agrairem els vostres comentaris."</string>
@@ -4681,6 +4722,7 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="notification_reboot_title_hm">Reinicieu per aplicar l\'actualització</string>
     <string name="notification_remind">Notificacions</string>
     <string name="notification_ringtone_title">So de notificació per defecte</string>
+    <string name="notification_settings">Notificacions</string>
     <string name="notification_settings_work_profile">L\'accés a les notificacions no està disponible per a les aplicacions en el perfil de feina.</string>
     <string name="notification_shade_shortcut_title">Drecera a l\'àrea de notificacions</string>
     <string name="notification_show_lights_title">Parpelleig del llum</string>
@@ -4850,6 +4892,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="page_layout_page2_title">Previsualització</string>
     <string name="page_tab_title_summary">Tots</string>
     <string name="page_tab_title_support">Suport</string>
+    <string name="paper_color_title">Colors</string>
     <string name="paper_mode_auto_twilight_summary">Canvi automàtic de mode de lectura després de l\'ocàs</string>
     <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
     <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
@@ -4859,11 +4902,22 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Configuració</string>
     <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>
+    <string name="paper_mode_reset">Restaura els valors predeterminats</string>
     <string name="paper_mode_side_effect_hint">Una intensitat més elevada pot afectar la manera de mostrar el contingut</string>
     <string name="paper_mode_start_time_title">Activa</string>
+    <string name="paper_mode_summary">Canvieu a colors més càlids i afegiu textura de paper als fons per reduir la fatiga ocular</string>
+    <string name="paper_mode_title">Mida del paper</string>
+    <string name="papger_effect_category">Mode</string>
     <string name="partial_connectivity_text">És possible que algunes aplicacions i serveis no funcionin a causa de la connectivitat limitada. Voleu fer-ho servir de totes maneres?</string>
     <string name="passpoint_content">%1$s certificats</string>
     <string name="passpoint_label">S\'ha desat mitjançant</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Aquest servei de WLAN el proporcionen exands. Us permet connectar-vos automàticament a punts d'accés propers compatibles.
+
+Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Cancel·la</string>
+    <string name="passpoint_r1_privacy_dialog_title">Atenció</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">\"amplia la política de privadesa\"</string>
+    <string name="passpoint_r1_privacy_dialog_yes">D\'acord</string>
     <string name="passwordIncorrect">La contrasenya introduïda és errònia</string>
     <string name="password_and_security">Contrasenyes i seguretat</string>
     <string name="password_entrance_title">Pantalla de bloqueig</string>
@@ -4956,7 +5010,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="power_cell">Telèfon en espera</string>
     <string name="power_center">Energia</string>
     <string name="power_charge_remaining">%1$s per a carregar</string>
-    <string name="power_charging_duration">%1$s - %2$s fins cobrar</string>
+    <string name="power_charging_duration">%1$s - %2$s fins a la càrrega completa</string>
     <string name="power_checker">Comprovador d\'energia</string>
     <string name="power_discharge_by">Hauria de durar fins a aproximadament %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Hauria de durar fins a aproximadament %1$s en funció del vostre ús (%2$s)</string>
@@ -5002,7 +5056,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="power_optimize">Estalvi de bateria</string>
     <string name="power_overcounted">Comptabilitzada més d\'una vegada</string>
     <string name="power_phone">Trucades de veu</string>
-    <string name="power_remaining_charging_duration_only">%1$s esquerra fins el càrrec</string>
+    <string name="power_remaining_charging_duration_only">Queden %1$s fins a la càrrega completa</string>
     <string name="power_remaining_duration_only">Falten uns %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Queda aproximadament %1$s en funció del teu ús</string>
     <string name="power_remaining_duration_only_short">Falten %1$s</string>
@@ -5304,8 +5358,6 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="quick_reply_title">Respostes ràpides</string>
     <string name="quick_settings_developer_tiles">Rajoles de desenvolupador de configuració ràpida</string>
     <string name="quick_settings_label">Commutadors</string>
-    <string name="quick_settings_under_keyguard_summary">Permet l\'accés a la configuració ràpida mentre el dispositiu està bloquejat</string>
-    <string name="quick_settings_under_keyguard_title">Accés a la configuració ràpida</string>
     <string name="quiet">Mode No molesteu</string>
     <string name="quiet_group">Mode No molesteu</string>
     <string name="quiet_important_interruptions_mode">Només permetre excepcions</string>
@@ -5370,6 +5422,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Mai</string>
     <string name="repeat_title">Repeteix</string>
+    <string name="requires_modern_control_center">Funciona amb la nova versió de Control Center</string>
     <string name="reset_aaid">Reinicia l\'identificador de publicitat</string>
     <string name="reset_app_preferences">Reinicia les preferències de les aplicacions</string>
     <string name="reset_app_preferences_button">Restableix les aplicacions</string>
@@ -5533,7 +5586,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancel·la</string>
     <string name="screen_color_and_optimize">Colors i contrast</string>
-    <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
+    <string name="screen_color_and_optimize_disabled">"No es poden ajustar l'esquema de colors i la temperatura del color en mode de lectura"</string>
     <string name="screen_color_temperature">Temperatura del color</string>
     <string name="screen_color_temperature_and_saturation">Colors i saturació</string>
     <string name="screen_compatibility_label">Compatibilitat de pantalla</string>
@@ -5577,10 +5630,11 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_on_proximity_sensor_summary">Bloqueja el telèfon automàticament en ficar-lo a la butxaca</string>
     <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
     <string name="screen_optimize">Colors</string>
-    <string name="screen_optimize_disabled">"No es pot ajustar el contrast quan el mode de lectura estigui activat"</string>
+    <string name="screen_optimize_disabled">"No es pot ajustar l'esquema de colors al mode de lectura"</string>
     <string name="screen_paper_mode_adjust_level">Intensitat</string>
     <string name="screen_paper_mode_apps_loading">Un moment…</string>
     <string name="screen_paper_mode_apps_title">Utilitza mode lectura</string>
+    <string name="screen_paper_mode_description">El mode de lectura ajusta els colors i les textures dels elements de la pantalla perquè els vostres ulls es relaxin</string>
     <string name="screen_paper_mode_global_summary">Utilitza mode lectura per a totes les aplicacions</string>
     <string name="screen_paper_mode_global_title">Totes les aplicacions</string>
     <string name="screen_paper_mode_hdr_toast">"El mode de lectura es desactivarà mentre reproduïu vídeos HDR. Es tornarà a activar automàticament després de finalitzar la reproducció."</string>
@@ -5602,6 +5656,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes i condicions</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualitza la llista d\'aplicacions que utilitzen el mode lectura automàticament</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualitza automàticament</string>
+    <string name="screen_paper_texture">Textura</string>
     <string name="screen_pinning_description">"El fixació de l’aplicació us permet mantenir l’aplicació actual fins a desactivar-la. Aquesta funció es pot utilitzar, per exemple, per permetre a un amic de confiança jugar un joc específic. 
 
 Quan s'aplica una aplicació, l'aplicació fixada pot obrir altres aplicacions i es podran accedir a dades personals. 
@@ -6118,6 +6173,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="set_data_warning">Estableix l\'avís de dades</string>
     <string name="set_jeejen_prompt_message">El mode Lite s\'establirà com a llançador predeterminat. Podeu canviar el llançador per defecte a Configuració &gt; Configuració del sistema &gt; Pantalla d\'inici &amp; Recents &gt; Iniciador predeterminat.</string>
     <string name="set_jeejen_prompt_title">Confirmeu els canvis</string>
+    <string name="set_screen_paper_mode">Mode lectura</string>
     <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
     <string name="settings_ad_loading">S\'està carregant…</string>
     <string name="settings_ad_loading_unavailable">"No s'ha pogut carregar la informació."</string>
@@ -6180,6 +6236,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="show_all_anrs_summary">Mostra el diàleg \"Aplicació que no respon\" a les aplicacions de fons</string>
     <string name="show_all_apps">Mostra l\'ús total del dispositiu</string>
     <string name="show_background_processes">Mostra els processos en memòria cau</string>
+    <string name="show_badge_notifications_short">Insígnies</string>
     <string name="show_carrier_under_keyguard_title">Mostra l\'operador quan el dispositiu està bloquejat</string>
     <string name="show_connected_devices_summary">Mostra els dispositius connectats</string>
     <string name="show_connected_devices_title">Dispositius connectats</string>
@@ -6896,6 +6953,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="tethering_interface_options">Lligadura</string>
     <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
+    <string name="texture_adjust_temperature_title">Temperatura del color</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Desperta l\'assistent de veu en mode de pantalla completa (sense botons virtuals)</string>
     <string name="theme_customization_device_default">Per defecte del dispositiu</string>
     <string name="theme_settings_title">Temes</string>
@@ -7285,6 +7343,7 @@ o auriculars amb endolls de 3,5 mm."</string>
     <string name="usb_preference">Preferències d\'USB</string>
     <string name="usb_ptp_summary">Permet la transferència de fotos utilitzant programari de la càmera i de fitxers que no siguin compatibles amb MPT</string>
     <string name="usb_ptp_title">Càmera (PTP)</string>
+    <string name="usb_reverse_charge">Càrrega inversa</string>
     <string name="usb_summary_MIDI">Ús del dispositiu com a MIDI</string>
     <string name="usb_summary_MIDI_power">Mode MIDI i subministrament d\'energia</string>
     <string name="usb_summary_charging_only">S\'està carregant aquest dispositiu</string>
@@ -7303,17 +7362,21 @@ o auriculars amb endolls de 3,5 mm."</string>
     <string name="usb_tethering_errored_subtext">No s\'ha pogut compartir la connexió per USB</string>
     <string name="usb_tethering_storage_active_subtext">"No es pot relacionar quan s'utilitza l'emmagatzematge USB"</string>
     <string name="usb_tethering_subtext">Comparteix la connexió a Internet del telèfon mitjançant l\'USB</string>
-    <string name="usb_tethering_unavailable_subtext">"USB no està connectat"</string>
+    <string name="usb_tethering_unavailable_subtext">"L'USB no està connectat"</string>
     <string name="usb_title">USB</string>
     <string name="usb_use">Funcions de l\'USB</string>
     <string name="usb_use_MIDI">MIDI</string>
     <string name="usb_use_MIDI_desc">Utilitza aquest dispositiu com a MIDI</string>
+    <string name="usb_use_MIDI_miui12_5">MIDI</string>
     <string name="usb_use_charging_only">Només càrrega</string>
     <string name="usb_use_charging_only_desc">Només carrega el dispositiu</string>
     <string name="usb_use_file_transfers">Transfereix fitxers (MTP)</string>
     <string name="usb_use_file_transfers_desc">Transfereix fitxers a un altre dispositiu</string>
+    <string name="usb_use_file_transfers_miui12_5">Transferències de fitxers</string>
+    <string name="usb_use_miui12_5">Funcions de l\'USB</string>
     <string name="usb_use_photo_transfers">Transfereix fotos (PTP)</string>
     <string name="usb_use_photo_transfers_desc">Transfereix fotos o fitxers si no s\'admet MTP (PTP)</string>
+    <string name="usb_use_photo_transfers_miui12_5">Transferències de fotos</string>
     <string name="usb_use_power_only">Sbministra corrent</string>
     <string name="usb_use_tethering">Compartició de xarxa per USB</string>
     <string name="use_control_panel">Utilitzeu el nou Centre de control</string>

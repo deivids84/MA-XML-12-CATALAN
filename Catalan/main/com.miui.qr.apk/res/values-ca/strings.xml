@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="close">Tanca</string>
+    <string name="close_hit_again">Torneu a prémer per sortir de la pantalla</string>
     <string name="important_ration_info">Important informació quantitativa</string>
     <string name="no_important_ration_info">Informació quantitativa poc rellevant</string>
     <string name="qr_load">S\'està carregant... Espereu...</string>

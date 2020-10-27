@@ -457,7 +457,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="picture_color_mode_desc">Utilitza sRGB</string>
     <string name="pointer_location">Ubicació del punter</string>
     <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-    <string name="power_charging_duration">%1$s - %2$s fins cobrar</string>
+    <string name="power_charging_duration">%1$s - %2$s fins a la càrrega completa</string>
     <string name="power_discharge_by">Hauria de durar fins a aproximadament %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Hauria de durar fins a aproximadament %1$s en base del vostre ús (%2$s)</string>
     <string name="power_discharge_by_only">Hauria de durar fins a aproximadament %1$s</string>
@@ -465,7 +465,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="power_discharge_by_only_short">Fins a %1$s</string>
     <string name="power_discharging_duration">Queden aproximadament %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Queden aproximadament %1$s en base del vostre ús (%2$s)</string>
-    <string name="power_remaining_charging_duration_only">%1$s esquerra fins el càrrec</string>
+    <string name="power_remaining_charging_duration_only">Queden %1$s fins a la càrrega completa</string>
     <string name="power_remaining_duration_only">Queden aproximadament %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Queda aproximadament %1$s en base del vostre ús</string>
     <string name="power_remaining_duration_only_shutdown_imminent">El vostre dispositiu es podria tancar aviat</string>

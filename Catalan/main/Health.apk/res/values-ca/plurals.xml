@@ -120,10 +120,6 @@
         <item quantity="other">%1$d h</item>
         <item quantity="one">%1$d h</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">Queden %1$d segons</item>
-        <item quantity="one">Queden %1$d segons</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">D\'aquí a 1 hora</item>
         <item quantity="other">D\'aquí a 1 hora</item>
@@ -271,26 +267,6 @@
     <plurals name="unit_group">
         <item quantity="other">" cicles"</item>
         <item quantity="one">" cicle"</item>
-    </plurals>
-    <plurals name="unit_hours">
-        <item quantity="other">" hrs "</item>
-        <item quantity="one">" hr "</item>
-    </plurals>
-    <plurals name="unit_hours2">
-        <item quantity="other">" hores "</item>
-        <item quantity="one">" hora "</item>
-    </plurals>
-    <plurals name="unit_mins">
-        <item quantity="other">" mins "</item>
-        <item quantity="one">" min "</item>
-    </plurals>
-    <plurals name="unit_mins2">
-        <item quantity="other">" minuts "</item>
-        <item quantity="one">" minut "</item>
-    </plurals>
-    <plurals name="unit_seconds">
-        <item quantity="other">" seg "</item>
-        <item quantity="one">" sec "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" vegades"</item>

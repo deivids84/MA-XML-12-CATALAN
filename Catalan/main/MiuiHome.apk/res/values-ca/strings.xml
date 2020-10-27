@@ -218,11 +218,6 @@
     <string name="delete_screen">Elimina la pantalla</string>
     <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
     <string name="deselect_all">Desselecciona-ho tot</string>
-    <string name="dialog_work_profile_button_1">Endavant</string>
-    <string name="dialog_work_profile_button_2">D\'acord</string>
-    <string name="dialog_work_profile_content_1">Les dades personals estan &amp; ocultes de les aplicacions de la feina</string>
-    <string name="dialog_work_profile_content_2">Les dades de les aplicacions de treball &amp; són visibles per al vostre administrador de TI</string>
-    <string name="dialog_work_profile_title">Perfil professional</string>
     <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
     <string name="double_tap_to_lock_title">Premeu dos cops per a blocar la pantalla</string>
     <string name="download_action">Baixa</string>
@@ -617,5 +612,10 @@
     <string name="widgets_preview_title">Afegeix el giny</string>
     <string name="work_mode_off_label">"Les notificacions estan desactivades i les aplicacions no estan disponibles ara"</string>
     <string name="work_mode_on_label">Administrat per la vostra organització</string>
+    <string name="work_profile_first_content">Les dades personals estan separades i ocultes de les aplicacions de la feina</string>
+    <string name="work_profile_got_button">D\'acord</string>
+    <string name="work_profile_next_button">Endavant</string>
+    <string name="work_profile_second_content">Les vostres aplicacions i dades de la feina són visibles per al vostre administrador de TI</string>
+    <string name="work_profile_title">Perfil de treball</string>
     <string name="work_profile_toggle_label">Perfil del treball</string>
 </resources>

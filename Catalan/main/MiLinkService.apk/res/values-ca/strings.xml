@@ -42,6 +42,7 @@
     <string name="console_guide_subtitle_small_window">"Minimitzeu la finestra que s'està emetent per poder utilitzar altres funcions del telèfon"</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="device_desc_trust">Disp. de confiança</string>
     <string name="dialog_can_not_find_device">"No s'han pogut trobar dispositius a prop"</string>
     <string name="dialog_cancle">Cancel·la</string>
     <string name="dialog_connect_fail">"No s'ha pogut connectar"</string>
@@ -88,10 +89,10 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -109,7 +110,7 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -270,10 +271,23 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
     <string name="nfc_connect_failed_toast">"No s'ha pogut emetre. Torneu-ho a provar."</string>
     <string name="night">Vespre</string>
     <string name="noon">Migdia</string>
+    <string name="normal_device_desc">"Els dispositius als quals us heu connectat, però que no heu marcat com a de confiança"</string>
+    <string name="normal_device_desc_limit">"Els dispositius als quals us heu connectat, però que no heu marcat com a de confiança"</string>
+    <string name="normal_device_none">Aquí no hi ha cap dispositiu connectat prèviament</string>
+    <string name="normal_device_title">Dispositius no fiables</string>
     <string name="not_set">Sense definir</string>
+    <string name="notification_cast_desc">S\'està emetent…</string>
+    <string name="notification_desc_scanning">S\'estan cercant dispositius propers…</string>
     <string name="notification_rc_title">Assistent de TV XiaoMi</string>
     <string name="notification_show_more">Toqueu per veure més funcions</string>
     <string name="open_game_accelerate">Activa Game Turbo</string>
+    <string name="path_setting_cast">Compartiment de connexió &amp; / Cast</string>
+    <string name="path_setting_cast_demo">Compartició de connexió &amp; / Cast / Demos</string>
+    <string name="path_setting_cast_demo_document">Compartir connexió &amp; / Emetre / Demos / Documents</string>
+    <string name="path_setting_cast_demo_gallery">Connection &amp; sharing / Cast / Demos / Photos &amp; videos</string>
+    <string name="path_setting_cast_demo_game">Compartició de connexió &amp; / Cast / Demos / Jocs</string>
+    <string name="path_setting_cast_feature">Compartir connexió &amp; / Cast / Funcions especials</string>
+    <string name="path_setting_cast_help">Compartiment de connexió &amp; / Emissió / Ajuda</string>
     <string name="pm">pm</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy_agree">D\'acord</string>
@@ -366,6 +380,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Sol</string>
     <string name="sunday_shortest">Dg</string>
+    <string name="synergy_casting">"No es pot utilitzar el càsting mentre Screen Combo funciona"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari del Dret Marcial d\'Aixecament</string>
     <string name="the_anti_aggression_day">Dia de la no-agressió</string>
     <string name="the_arbor_day">Dia de l\'Arbor</string>
@@ -422,6 +437,13 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="toast_turn_off_hotspot_before_cast">Desactiveu el punt d\'accés portàtil abans d\'emetre</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
+    <string name="trust_device_desc">"Aquests dispositius apareixeran aquí primer quan siguin a prop"</string>
+    <string name="trust_device_dialog_desc"><Data>\"%s apareixerà entre els dispositius disponibles primer quan és a prop, si ho marca com de confiança.&lt;br&gt;&lt;br&gt;Vostè pot &lt;a href=milink://com.milink.service/trust&gt;administrar dispositius de confiança&lt;/a&gt; en la configuració\".</Data></string>
+    <string name="trust_device_dialog_pos">De confiança</string>
+    <string name="trust_device_dialog_title">Confia en aquest dispositiu?</string>
+    <string name="trust_device_manager">Gestioneu els dispositius de confiança</string>
+    <string name="trust_device_none">Aquí no hi ha dispositius de confiança</string>
+    <string name="trust_device_title">Disp. de confiança</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dim</string>
     <string name="tuesday_shortest">dt.</string>

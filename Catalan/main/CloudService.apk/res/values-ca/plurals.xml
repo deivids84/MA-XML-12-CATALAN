@@ -88,4 +88,20 @@
         <item quantity="other">"No es poden seleccionar més de %d elements"</item>
         <item quantity="one">"No es pot seleccionar més de %d element"</item>
     </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Invitació acceptada per %d persones</item>
+        <item quantity="one">Invitació acceptada per %d persona</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s dies</item>
+        <item quantity="one">%1$s dia</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s hores</item>
+        <item quantity="one">%1$s hora</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
 </resources>

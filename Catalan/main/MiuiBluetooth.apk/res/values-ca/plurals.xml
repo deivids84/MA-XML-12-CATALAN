@@ -8,6 +8,10 @@
         <item quantity="other">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segons</item>
         <item quantity="one">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segon</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Mantén premut durant %1$d segons per restablir-lo</item>
+        <item quantity="one">Mantén premut durant %1$d s per restablir</item>
+    </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
         <item quantity="one">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>

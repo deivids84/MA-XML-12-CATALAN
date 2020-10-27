@@ -313,10 +313,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -334,7 +334,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -373,7 +373,8 @@
     <string name="from_pkg_name">Des de l\'aplicació:</string>
     <string name="ft_cfs_dialog_content">"No es poden entregar els fitxers mitjançant RCS. Voleu enviar un enllaç en un missatge de text?"</string>
     <string name="ft_cfs_dialog_title">Transferència de fitxers alternativa</string>
-    <string name="google_message_promo_content">Xiaomi recomana canviar a Missatges de Google. Permet enviar missatges de text a través de Wi-Fi, compartir suports d’alta qualitat i molt més. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Veure detalls</a></font>.</string>
+    <string name="go_to">"Obre "</string>
+    <string name="google_message_promo_content">Xiaomi recomana actualitzar Google a Missatges. Instal·leu-la ara per compartir fotografies d’alta qualitat, xatejar per Wi-Fi i molt més. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Més informació</a></font></string>
     <string name="google_message_promo_title">Actualitzeu l\'aplicació de missatgeria</string>
     <string name="group_already_kicked_hint">"No es poden enviar els missatges. No ets membre d'aquest xat de grup."</string>
     <string name="group_member_is_composing">Escrivint…</string>
@@ -412,8 +413,8 @@
     <string name="imageview_ad">Anunci</string>
     <string name="importing_progress_private_message">S\'està important&#8230;</string>
     <string name="in_sms">Missatge</string>
-    <string name="installed_google_message_promo_content">Xiaomi recomana utilitzar Missatges de Google. Permet enviar missatges de text a través de Wi-Fi, compartir suports d’alta qualitat i molt més.</string>
-    <string name="installed_google_message_promo_title">Comenceu a utilitzar Missatges</string>
+    <string name="installed_google_message_promo_content">Xiaomi recomana utilitzar Missatges de Google. Obriu Missatges per compartir fotos de gran qualitat, xatejar amb Wi-Fi i molt més.</string>
+    <string name="installed_google_message_promo_title">Obre Missatges per millorar el xat</string>
     <string name="insufficient_drm_rights">Drets DRM insuficients.</string>
     <string name="invalid_conversation">Conversa no vàlida</string>
     <string name="invalid_destination">Adreça de destí no vàlida.</string>
@@ -700,7 +701,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_show_photo_word_summary">Assigna automàticament una imatge als contactes sense</string>
     <string name="pref_show_sms_template_entry_summary">Detecta les contrasenyes d\'un sol ús i mostra els menús ràpids</string>
     <string name="pref_show_sms_template_in_summary">Detecta automàticament contrasenya d\'ús únic en missatges SMS</string>
-    <string name="pref_show_sms_template_summary">Activa per utilitzar les funcions intel·ligents de Missatge Mi, com ara còpia de codis, consulta de saldo, etc.</string>
+    <string name="pref_show_sms_template_summary">Copieu les contrasenyes puntuals, feu un seguiment del lliurament, consulteu el saldo del telèfon i mostreu automàticament els bitllets i les factures com a targetes</string>
     <string name="pref_smart_messages_settings">Missatgeria Intel·ligent</string>
     <string name="pref_sms_storage_title">Emmagatzematge</string>
     <string name="pref_sms_theme_title">Pantalla</string>
@@ -778,6 +779,12 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="privacy_password_title3">Actualitza la contrasenya</string>
     <string name="privacy_password_title4">La contrasenya s\'ha actualitzat</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_state_revoked_cancel">Surt</string>
+    <string name="privacy_state_revoked_content">En desactivar l\'interruptor, retirareu el vostre consentiment a la política de privadesa de missatgeria. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. El missatge Mi i la missatgeria intel·ligent que proporciona Messaging han de recopilar la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la Política de privadesa de missatgeria es considerarà com a denegació d’acceptar els serveis basats en la informació personal recollida proporcionada per Mi Message i Smart Messaging.</string>
+    <string name="privacy_state_revoked_dialog_title">Retirada del consentiment</string>
+    <string name="privacy_state_revoked_revoked">Retirar-se</string>
+    <string name="privacy_state_revoked_switch">Retirada del consentiment</string>
+    <string name="privacy_state_revoked_synopsis">En desactivar l\'interruptor, retirareu el vostre consentiment a la política de privadesa de missatgeria.</string>
     <string name="privacy_term">Política de privadesa</string>
     <string name="private_entry_available">Versió per obrir una carpeta privada</string>
     <string name="private_entry_default">Feu lliscar el botó cap avall per obrir una carpeta privada</string>
@@ -1070,10 +1077,12 @@ Mireu els recomanats!"</string>
     <string name="slide_up_to_cancel">Feu lliscar amunt per cancel·lar</string>
     <string name="slideshow_activity">Presentació</string>
     <string name="smart_message_title">Missatgeria Intel·ligent</string>
+    <string name="smart_message_upgrade_title">Actualització de la política de privadesa de missatgeria intel·ligent</string>
     <string name="smart_messages_network_allow_message">Mi Message necessita connectar-se a Internet per tal que els seus serveis funcionin amb normalitat. Voleu permetre-ho?</string>
     <string name="smart_messages_network_allow_title">Es necessita una connexió a Internet</string>
     <string name="smart_msg_main_purpose">La Missatgeria intel·ligent ofereix el reconeixement d’identificador de remitent i serveis de menú intel·ligent.</string>
     <string name="smart_msg_privacy_policy">Política de privadesa de la Missatgeria Intel·ligent</string>
+    <string name="smart_msg_upgrade_main_purpose">"La missatgeria intel·ligent ara funciona amb MMS. Podreu utilitzar més serveis proporcionats pels remitents, així com rebre missatges en nous formats."</string>
     <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="sms_content">Contingut:</string>
@@ -1157,6 +1166,7 @@ Mireu els recomanats!"</string>
 Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació."</string>
     <string name="system_permission_declare_privacy_declare">%1s necessita recopilar les vostres dades i requereix els permisos següents per funcionar amb normalitat:</string>
     <string name="system_permission_declare_privacy_declare_new">Aquesta aplicació necessita connectar-se a Internet i requereix els permisos següents per funcionar normalment:</string>
+    <string name="system_permission_declare_privacy_link">Per entendre completament els vostres drets com a usuari, així com les formes en què utilitzem les vostres dades, llegiu i accepteu el nostre %1s.</string>
     <string name="system_permission_declare_revoke_path">Podeu revocar l’autorització i desactivar els serveis a la configuració de Missatgeria.</string>
     <string name="system_permission_declare_single_link">Llegiu i accepteu els nostres %1s abans d’utilitzar aquesta funció.</string>
     <string name="system_permission_declare_triple_link" formatted="false">Llegiu i accepteu les nostres %1s, %2s i %3s abans d’utilitzar aquestes funcions.</string>
@@ -1290,6 +1300,7 @@ Intents realitzats: %s"</string>
     <string name="voice_report_wiredon">Amb auriculars</string>
     <string name="wap_push_title">"[WAP de tramesa automàtica] "</string>
     <string name="warning_show">Envia a %ds</string>
+    <string name="web_content_invalid_hint">Les lleis i regulacions locals restringeixen la visualització d’aquest element</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>

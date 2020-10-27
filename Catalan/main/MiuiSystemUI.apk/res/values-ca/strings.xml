@@ -678,7 +678,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="divider_menu_select_apps">Tria</string>
     <string name="divider_menu_swap_task">Alterna</string>
     <string name="dlg_confirm_kill_storage_users_text">Si activa l\'emmagatzematge USB, algunes aplicacions que està usant s\'aturaran i poden no estar disponibles fins que desactivi l\'emmagatzematge USB.</string>
-    <string name="dlg_confirm_kill_storage_users_title">Activa emmagatzematge USB</string>
+    <string name="dlg_confirm_kill_storage_users_title">Activa l\'emmagatzematge USB</string>
     <string name="dlg_error_title">L\'operació USB ha fallat</string>
     <string name="dlg_ok">D\'acord</string>
     <string name="dnd_is_off">No molesteu està desactivat</string>
@@ -727,7 +727,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="expanded_header_battery_not_charging">No s\'està carregant</string>
     <string name="expanded_notification_manager">Gestiona les notificacions</string>
     <string name="experimental">Experimental</string>
-    <string name="ext_media_badremoval_notification_message">Desmunta la targeta SD abans de treure-la per evitar la pèrdua de dades.</string>
+    <string name="ext_media_badremoval_notification_message">Desmunteu l\'emmagatzematge USB abans d\'extreure\'l per evitar la pèrdua de dades.</string>
     <string name="ext_media_badremoval_notification_title">Targeta SD extreta inesperadament</string>
     <string name="ext_media_checking_notification_message">Comprovar errors.</string>
     <string name="ext_media_checking_notification_title">Preparant targeta SD</string>
@@ -740,8 +740,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="ext_media_safe_remove">Extreure de forma segura</string>
     <string name="ext_media_safe_unmount_notification_message">Ara pot extreure la targeta SD de forma segura.</string>
     <string name="ext_media_safe_unmount_notification_title">És segur extreure la targeta SD</string>
-    <string name="ext_media_unmountable_notification_message">Targeta SD malmesa. Podria ser necessari reformatearla.</string>
-    <string name="ext_media_unmountable_notification_title">Targeta SD malmesa</string>
+    <string name="ext_media_unmountable_notification_message">L\'emmagatzematge USB està malmès. Pot ser que l\'hàgiu de formatar.</string>
+    <string name="ext_media_unmountable_notification_title">Emmagatzematge USB malmès</string>
     <string name="external_source_trusted">Permès</string>
     <string name="external_source_untrusted">No permès</string>
     <string name="face_dialog_looking_for_face">Us estem buscant…</string>
@@ -1260,6 +1260,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="mr_dialog_transferable_header">Reprodueix en grup</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositius</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="mtrl_picker_cancel">Cancel·la</string>
     <string name="mtrl_picker_confirm">Desa</string>
@@ -1298,6 +1299,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="notification_channel_storage">Emmagatzematge</string>
     <string name="notification_channel_switch_accessibility">Permet les notificacions des d’aquest canal</string>
     <string name="notification_channel_usb">USB</string>
+    <string name="notification_control_center">Notificacions &amp; Centre de control</string>
     <string name="notification_default_channel_desc">"Aquesta aplicació no té categories de notificació"</string>
     <string name="notification_done">Fet</string>
     <string name="notification_group_collapse_button_text">Plega</string>
@@ -1385,7 +1387,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="plugins">Connectors</string>
     <string name="pointer_location">Ubicació del punter</string>
     <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-    <string name="power_charging_duration">%1$s - %2$s fins cobrar</string>
+    <string name="power_charging_duration">%1$s - %2$s fins a la càrrega completa</string>
     <string name="power_discharge_by">Hauria de durar fins a aproximadament %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Hauria de durar fins a aproximadament %1$s basant-se en el vostre ús (%2$s)</string>
     <string name="power_discharge_by_only">Hauria de durar fins a aproximadament %1$s</string>
@@ -1422,7 +1424,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
 
 \"<b>Nivell 0</b>\" 
 - Bloqueja totes les notificacions de l'aplicació "</string>
-    <string name="power_remaining_charging_duration_only">%1$s esquerra fins el càrrec</string>
+    <string name="power_remaining_charging_duration_only">Queden %1$s fins a la càrrega completa</string>
     <string name="power_remaining_duration_only">Falten uns %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Queda aproximadament %1$s basant-se en el vostre ús</string>
     <string name="power_remaining_duration_only_short">Falten %1$s</string>
@@ -1569,7 +1571,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">Botons</string>
-    <string name="quick_settings_screenlock_label">Bloca la pantalla</string>
+    <string name="quick_settings_screenlock_label">Blocat</string>
     <string name="quick_settings_screenshot_label">Captura de pantalla</string>
     <string name="quick_settings_secondary_label_until">Fins %s</string>
     <string name="quick_settings_settings_label">Configuració</string>
@@ -1579,7 +1581,6 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_tiles">per defecte</string>
     <string name="quick_settings_tiles_old_mode">cel·la,wifi,bt,llanterna,bateria,captura de pantalla,edita</string>
     <string name="quick_settings_tiles_retail_mode">cel·la,estalvi de bateria,mode d’energia,llanterna,rotació,ubicació</string>
-    <string name="quick_settings_tiles_stock">cel·la,wifi, lanterna,silencia,captura de pantalla,bt,lluminositat automatica,avió,bloqueig de pantalla,GPS,rotació,papermode,nit,silenci,estalvi de bateria,estalvi de bateria extrem,powermode,vibra,punt d\'accés,sincronització,botó de pantalla,powerpower,nfc,edita,mode cotxe,mode feina</string>
     <string name="quick_settings_tiles_super_save">cel·la,wifi,bt,gps,vibra</string>
     <string name="quick_settings_time_label">Temps</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per afegir un element, premeu-lo continuadament i llavors arrossegueu-lo a la part superior del panell.</string>
@@ -1587,6 +1588,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_new_user">Nou usuari</string>
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
+    <string name="quick_settings_vowifi_label">Trucades Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim1_label">WLAN trucant a SIM1</string>
+    <string name="quick_settings_vowifi_sim2_label">WLAN trucant a SIM2</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmentant la velocitat</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancel·la</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirma</string>
@@ -1944,11 +1948,11 @@ d MMM"</string>
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">"L'usuari que ha iniciat la sessió en aquest dispositiu no pot activar la depuració per USB. Per utilitzar aquesta funció, canvieu a un usuari administrador."</string>
     <string name="usb_debugging_secondary_user_title">No es permet la depuració per USB</string>
-    <string name="usb_debugging_title">Permetre depuració USB?</string>
-    <string name="usb_device_confirm_prompt">Obrir %1$s al connectar aquest dispositiu USB?</string>
-    <string name="usb_device_permission_prompt">Permet a l\'aplicació %1$s accés al dispositiu USB?</string>
+    <string name="usb_debugging_title">Voleu permetre la depuració per USB?</string>
+    <string name="usb_device_confirm_prompt">Voleu obrir %1$s en connectar aquest dispositiu USB?</string>
+    <string name="usb_device_permission_prompt">Permeteu a l\'aplicació %1$s accedir al dispositiu USB?</string>
     <string name="usb_mode_dont_ask">No tornar a preguntar</string>
-    <string name="usb_mode_mount_storage_title">Obrir emmagatzematge USB?</string>
+    <string name="usb_mode_mount_storage_title">Voleu obrir l\'emmagatzematge USB?</string>
     <string name="usb_mode_notification">Emmagatzematge USB</string>
     <string name="usb_mtp_text">Fitxers</string>
     <string name="usb_notification">USB connectat</string>
@@ -1962,11 +1966,11 @@ d MMM"</string>
     <string name="usb_share_net_info">"Utilitza la connexió a internet de l'ordinador"</string>
     <string name="usb_storage_error_message">S\'ha produït un error en intentar veure el dispositiu com USB d\'emmagatzematge.</string>
     <string name="usb_storage_message">"Ha connectat a l'ordinador via USB. Premeu el botó de més avall si voleu transferir fitxers entre l'ordinador i el dispositiu USB Android."</string>
-    <string name="usb_storage_notification_message">Seleccionar per copiar fitxers al/des del seu ordinador.</string>
+    <string name="usb_storage_notification_message">Seleccioneu fitxers per copiar al/des del vostre ordinador.</string>
     <string name="usb_storage_notification_title">USB connectat</string>
     <string name="usb_storage_stop_message">"Abans d'extreure la seva clau de memòria USB, assegureu-vos que ha desmuntat (\"expulsat\") el dispositiu USB Android del seu ordinador."</string>
     <string name="usb_storage_stop_notification_message">Seleccioneu per desactivar emmagatzematge USB.</string>
-    <string name="usb_storage_stop_notification_title">Desactiva emmagatzematge USB</string>
+    <string name="usb_storage_stop_notification_title">Desactiva l\'emmagatzematge USB</string>
     <string name="usb_storage_stop_title">Unitat USB en ús</string>
     <string name="usb_storage_title">USB connectat</string>
     <string name="use_mtp_button_title">Munta com a reproductor multimèdia (MTP)</string>

@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="HomePageTabTitle">
-        <item>Salut</item>
-        <item>Exercici</item>
-    </string-array>
-    <string-array name="SportTabTitle">
-        <item>Córrer a l’aire lliure</item>
-        <item>Caminar</item>
-        <item>Xarxa_exterior</item>
-        <item>Cinta de córrer</item>
-    </string-array>
     <string-array name="arr_prompt_label">
         <item>Raonable</item>
         <item>Llarg</item>

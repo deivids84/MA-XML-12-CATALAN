@@ -160,6 +160,7 @@
     <string name="miui_warning_button_cancel">Cancel·la</string>
     <string name="miui_warning_button_ok">D\'acord</string>
     <string name="miui_warning_tip_info">S\'ha produït un error a %1$s. Voleu tancar aquesta aplicació?</string>
+    <string name="notification_channel_hotspot">Notificació de punt d\'accés</string>
     <string name="onehour">30 minuts</string>
     <string name="open_close_tip_action">Entesos</string>
     <string name="open_close_tip_content">Per tancar la finestra flotant, mantingueu premuda la barra d\'acció i llisqueu cap amunt</string>

@@ -532,7 +532,7 @@ Taxa de mostreig"</string>
     <string name="call_description_recording">S\'està enregistrant&#8230;</string>
     <string name="call_forward_option">Opcions de desviament de trucades</string>
     <string name="call_forwarding_number_hint">Desvia les trucades a</string>
-    <string name="call_forwarding_settings">Configuració del desviament de trucades</string>
+    <string name="call_forwarding_settings">Desviament de trucada</string>
     <string name="call_forwarding_settings_with_label">Configuració del desviament de trucades (%s)</string>
     <string name="call_record_add_numbers">Afegeix números</string>
     <string name="call_record_auto_always">Tots els números</string>
@@ -1288,7 +1288,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="mobile_data_status_roaming_turned_on_subtext">La itinerància de dades està activada</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Sou en itinerància i el pla de dades està activat</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Actualment en itinerància, necessiteu un pla de dades</string>
-    <string name="mobile_intelligent_connection_title">Connexió intel·ligent de xarxa mòbil</string>
+    <string name="mobile_intelligent_connection_title">Connectivitat de xarxa mòbil intel·ligent</string>
     <string name="mobile_network_settings_not_available">La configuració de la xarxa mòbil no està disponible per a aquest usuari</string>
     <string name="mobile_networks">Configuració de la xarxa mòbil</string>
     <string name="mobile_property">Propietats de la xarxa mòbil</string>
@@ -2175,7 +2175,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
     <string name="title_cfu_enabled">Desviació de trucades activat</string>
     <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
     <string name="track_frame_time">Perfil de la renderització de la GPU</string>
-    <string name="traffic_mode_summary">L’aplicació actual té prioritat d’utilitzar els recursos de xarxa, proporciona una experiència extrema, això pot provocar que l’aplicació en segon pla no pugui utilitzar la xarxa</string>
+    <string name="traffic_mode_summary">Prioritza la connexió de xarxa mòbil per a les aplicacions que s’utilitzen actualment. És possible que les aplicacions en segon pla no puguin connectar-se.</string>
     <string name="traffic_mode_switch_title">Mode extrem</string>
     <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
     <string name="transport">Protocol</string>

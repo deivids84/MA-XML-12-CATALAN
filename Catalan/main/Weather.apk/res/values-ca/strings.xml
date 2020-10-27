@@ -58,10 +58,10 @@
     <string name="alert_weather_enable_settings_title">Avisos meteorològics</string>
     <string name="already_voted_toast">"Ja heu votat avui"</string>
     <string name="app_name">El temps</string>
-    <string name="aqi_15_days_desc">Previsió IQA de 15 dies</string>
-    <string name="aqi_24_hours_desc">Previsió IQA de 24 hores</string>
-    <string name="aqi_48_hours_desc">Previsió IQA de 48 hores</string>
-    <string name="aqi_5_days_desc">Previsió IQA de 5 dies</string>
+    <string name="aqi_15_days_desc">Previsió AQI de %d dies</string>
+    <string name="aqi_24_hours_desc">Previsió AQI a %d hores</string>
+    <string name="aqi_48_hours_desc">Previsió AQI a %dhores</string>
+    <string name="aqi_5_days_desc">Previsió AQI de %ddies</string>
     <string name="aqi_alert_channel_name">Alertes IQA</string>
     <string name="aqi_data_source">Desenvolupat per Colorful Clouds</string>
     <string name="aqi_desc">Índex de qualitat de l\'aire</string>
@@ -348,7 +348,7 @@
     <string name="warning_weather_day_and_night_settings_title">Resums diaris</string>
     <string name="weather_alert_channel_name">Alertes</string>
     <string name="weather_introduce">Sempre amb tu, amb pluja o sol.</string>
-    <string name="weather_main_minute_hour">Precipitació de 2 hores</string>
+    <string name="weather_main_minute_hour">Precipitació de %dhores</string>
     <string name="weather_main_speak_tips">Feu clic per transmetre la veu per veu</string>
     <string name="weather_permission_agree">Accepta</string>
     <string name="weather_service_channel_name">Serveis en segon pla</string>

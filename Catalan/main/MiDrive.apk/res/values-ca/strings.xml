@@ -36,6 +36,7 @@
     <string name="app_is_running">L\'aplicació s\'està executant…</string>
     <string name="app_name">Mi Drive</string>
     <string name="be_sure_to_clear_cache">Voleu esborrar la memòria cau ara?</string>
+    <string name="cancel">Cancel·la</string>
     <string name="category_document">Documents</string>
     <string name="category_document_title">Documents</string>
     <string name="category_file">Fitxers</string>
@@ -62,7 +63,9 @@
     <string name="cloud_storage_info_type_pdc">Configuració del sistema</string>
     <string name="cloud_storage_loading_data">Un moment…</string>
     <string name="cloud_storage_no_data">No hi ha dades</string>
+    <string name="confirm">D\'acord</string>
     <string name="confirm_and_continue">Continuar</string>
+    <string name="confirm_know">enrere</string>
     <string name="continue_all">Reprèn tot</string>
     <string name="copy">Copia</string>
     <string name="copy_file_success">Text copiat</string>
@@ -125,6 +128,11 @@
     <string name="exception_rename_illegal_char">"Els noms de fitxers no poden contenir caràcters especials"</string>
     <string name="expand_button_title">Avançat</string>
     <string name="fab_menu_sort">Ordena</string>
+    <string name="file_info_created">"Carregat: "</string>
+    <string name="file_info_local_created">"Creat: "</string>
+    <string name="file_info_location">"Ubicació: "</string>
+    <string name="file_info_modified">"Última modificació: "</string>
+    <string name="file_info_size">"Mida: "</string>
     <string name="file_is_downloaded">L\'element ja s\'ha baixat</string>
     <string name="file_no_file_desc">Encara no hi ha elements.</string>
     <string name="file_no_file_sub_desc">Toqueu el plus per penjar fitxers.</string>
@@ -134,6 +142,10 @@
     <string name="file_send_no_support">"No es poden compartir fitxers d'aquest tipus"</string>
     <string name="file_size_is_zero">La mida del fitxer ha de ser superior a 0</string>
     <string name="file_size_lager_than_4g">"La mida del fitxer no pot superar els 4 GB"</string>
+    <string name="file_sort_create_time">Ordena per data de creació</string>
+    <string name="file_sort_modify_time">Ordena per data de modificació</string>
+    <string name="file_sort_name">Ordena per nom</string>
+    <string name="file_sort_size">Ordena per mida</string>
     <string name="file_upload_dialog_cancel">Surt</string>
     <string name="file_upload_dialog_title">Trieu una categoria</string>
     <string name="i_know">Entesos</string>
@@ -174,7 +186,11 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="month_day_format">dd/MM</string>
     <string name="move_file_success">Mogut satisfactòriament</string>
+    <string name="music_format_not_support">"No es pot previsualitzar aquest fitxer"</string>
     <string name="music_picker_title">Selecciona música</string>
+    <string name="music_play_attention_network_traffic">L’ús de dades mòbils per transmetre àudio i vídeo pot generar despeses addicionals</string>
+    <string name="music_play_online">Transmissió</string>
+    <string name="music_play_online_network_not_available">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
     <string name="music_preview_download_failed">"No s'ha pogut carregar"</string>
     <string name="music_preview_failed">"No es pot reproduir aquest fitxer d'àudio"</string>
     <string name="music_preview_title_loading">Un moment…</string>
@@ -206,6 +222,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="operation_dialog_move_message">Movent&#8230;</string>
     <string name="operation_dialog_rename_message">Canviant el nom de…</string>
     <string name="operation_download">Baixada gratuïta</string>
+    <string name="operation_info">Detalls</string>
     <string name="operation_move">Mou</string>
     <string name="operation_rename">Reanomena</string>
     <string name="operation_sure_to_delete">Voleu suprimir-ho ara?</string>
@@ -224,10 +241,14 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="pre_user_agreement">Acord d\'usuari</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="private_empty_desc">Aquí podeu emmagatzemar fitxers de forma privada.</string>
+    <string name="private_empty_sub_desc">Proveu de moure fitxers aquí o pengeu-los directament.</string>
+    <string name="private_folder_name">Arxius privats</string>
     <string name="refresh_label_pull_to_refresh">Tira avall per recarregar</string>
     <string name="refresh_label_refreshed">Actualitzat correctament</string>
     <string name="refresh_label_refreshing">S\'està actualitzant&#8230;</string>
     <string name="refresh_label_release_to_refresh">Deixeu anar per actualitzar</string>
+    <string name="release_enter_private">Allibera per veure fitxers privats</string>
     <string name="remove_success">S\'ha eliminat correctament</string>
     <string name="rename_ext_confirm_dialog_desc">Si canvieu el tipus de fitxer, el fitxer pot ser inutilitzable</string>
     <string name="rename_file_select_error">"No es pot canviar el nom de diversos elements"</string>
@@ -248,6 +269,8 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="select_move_title">Mou a</string>
     <string name="select_new_folder">Carpeta nova</string>
     <string name="select_upload_title">Carrega a</string>
+    <string name="set_lock_password_dialog_msg">La contrasenya de protecció de privadesa s’utilitzarà per a fotos, notes i fitxers.</string>
+    <string name="set_lock_password_dialog_title">Introduïu la contrasenya nova</string>
     <string name="setting_clear_cache">Esborra memòria cau</string>
     <string name="setting_create_shortcut">Drecera a la pantalla d\'inici</string>
     <string name="setting_title">Configuració</string>
@@ -270,6 +293,8 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="transfer_done">Amb èxit</string>
     <string name="transport_end_button">Edita\'l</string>
     <string name="transport_title">Transferències</string>
+    <string name="unlock_password_dialog_msg">S\'utilitzarà una contrasenya de protecció de privadesa. Funciona per a fotos, notes i fitxers.</string>
+    <string name="unlock_password_dialog_title">Contrasenya de protecció de privadesa</string>
     <string name="update_dialog_button_cancel">Ara no</string>
     <string name="update_dialog_button_ok">Actualitza ara</string>
     <string name="update_dialog_content">"Nova versió: %1$s

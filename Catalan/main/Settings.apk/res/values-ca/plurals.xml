@@ -244,6 +244,10 @@
         <item quantity="other">%d afegits</item>
         <item quantity="one">%d afegit</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">La WLAN s’activarà automàticament quan el dispositiu detecti xarxes desades a prop i s’apagarà al cap de %d minuts si no s’estableix cap connexió</item>
+        <item quantity="one">La WLAN s’activarà automàticament quan el dispositiu detecti xarxes desades a prop i s’apagarà al cap de %d minut si no s’estableix cap connexió</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIMs</item>
         <item quantity="one">%1$d SIM</item>

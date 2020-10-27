@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Home</item>
+        <item>Dona</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 minuts</item>
+        <item>30 minuts</item>
+        <item>45 minuts</item>
+        <item>1 hora</item>
+    </string-array>
+</resources>
