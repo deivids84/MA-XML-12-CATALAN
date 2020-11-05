@@ -692,7 +692,7 @@ Canvieu la configuració ara?"</string>
 1. Executeu aquesta funció una o dues vegades si trobeu que la vostra altaveu està bloquejada per la pols.
 2. Si l’altaveu està fort bloquejat, executeu aquesta funció de 2 a 5 vegades mentre agiteu el dispositiu amb l’altaveu cap a baix."</string>
     <string name="auto_clean_summary">Reprodueix un àudio de 30 segons per netejar l’altaveu</string>
-    <string name="auto_clean_title">Altaveu clar</string>
+    <string name="auto_clean_title">Neteja l\'altaveu</string>
     <string name="auto_connect_disable">La connexió automàtica està desactivada</string>
     <string name="auto_disable_screenbuttons_ask">Demana\'m si ho vull deshabilitar</string>
     <string name="auto_disable_screenbuttons_auto">Sempre deshabilitat</string>
@@ -2508,7 +2508,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="dual_wifi_switching_prompt">Canvi entre xarxes</string>
     <string name="dual_wifi_switching_summary">La velocitat WLAN de doble banda necessita utilitzar dues bandes WLAN diferents. Si us connecteu a una xarxa principal diferent, es perdrà la connexió auxiliar.</string>
     <string name="dump_log">Obté registres relacionats amb els problemes</string>
-    <string name="dump_log_summary">"Aquesta funció està dissenyada per a generar el registre 284 en versions Alfa i Beta de MIUI. Utilitzeu-lo amb precaució.
+    <string name="dump_log_summary">"Aquesta característica està dissenyada per generar el registre 284 a la versió beta de MIUI. Utilitzeu-lo amb precaució.
 Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="dump_log_title">Sobre aquesta funció</string>
     <string name="easymode_hint">Toqueu per desactivar el mode Lite</string>
@@ -2537,7 +2537,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="emergency_info_title">Informació d\'emergència</string>
     <string name="emergency_sos_title">SOS d\'emergència</string>
     <string name="emergency_tone_alert">Avís</string>
-    <string name="emergency_tone_silent">Silenciosa</string>
+    <string name="emergency_tone_silent">Silenci</string>
     <string name="emergency_tone_summary">Defineix el comportament quan es fa una trucada d\'emergència</string>
     <string name="emergency_tone_title">To d\'emergència</string>
     <string name="emergency_tone_vibrate">Vibració</string>
@@ -2578,6 +2578,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="enable_verbose_vendor_logging">Activa el registre del venedor de verbose</string>
     <string name="enable_verbose_vendor_logging_summary">Incloure registres addicionals dels venedors específics del dispositiu en els informes d’errors, que poden contenir informació privada, utilitzar més bateria i / o utilitzar més emmagatzematge.</string>
     <string name="enable_wifi_display">Activa la pantalla sense fils</string>
+    <string name="enabled">Activat</string>
     <string name="enabled_5g_mode_title">Habilita 5G</string>
     <string name="enabled_authorised_apps_summary">La vostra autorització es revocarà després de commutar canvis d\'aplicacions individuals.</string>
     <string name="enabled_authorised_apps_title">Autorització concedida</string>
@@ -3111,6 +3112,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
     <string name="gxzw_dialog_ok">Entesos</string>
     <string name="gxzw_dialog_title">Quant al sensor d’empremtes a la pantalla</string>
     <string name="gxzw_enroll_again">Aixequeu el dit i premeu de nou l\'escàner d\'empremtes</string>
+    <string name="gxzw_lowlight_open_summary">Baixeu la brillantor de la icona d’empremta digital en condicions de poca llum. És possible que el dispositiu es desbloquegi més lentament quan aquesta funció estigui activada.</string>
+    <string name="gxzw_lowlight_open_title">Desbloqueig d’empremta digital amb poca llum</string>
     <string name="gxzw_quick_open_enable_summary">Utilitzeu les dreceres gestuals per obrir aplicacions o utilitzar les funcions de l\'aplicació quan el dispositiu estigui desbloquejat</string>
     <string name="gxzw_quick_open_enable_title">Dreceres de les empremtes</string>
     <string name="gxzw_quick_open_fast_summary">Feu lliscar el dit per utilitzar una drecera un cop desbloquejat el dispositiu.</string>
@@ -4592,6 +4595,7 @@ Es substitueix a %2$s com a aplicació de pagament predeterminada."</string>
     <string name="normal_smartcover_title">Coberta frontal opaca</string>
     <string name="not_allowed">La targeta SIM no permet la connexió a aquesta xarxa.</string>
     <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
+    <string name="not_enabled">Apaga</string>
     <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
     <string name="not_set">Sense establir</string>
     <string name="notch_and_status_bar_settings">Centre de control i barra d\'estat</string>
@@ -4726,7 +4730,7 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="notification_settings_work_profile">L\'accés a les notificacions no està disponible per a les aplicacions en el perfil de feina.</string>
     <string name="notification_shade_shortcut_title">Drecera a l\'àrea de notificacions</string>
     <string name="notification_show_lights_title">Parpelleig del llum</string>
-    <string name="notification_silence_title">Silenciós</string>
+    <string name="notification_silence_title">Silenci</string>
     <string name="notification_sound_default">So de notificació per defecte</string>
     <string name="notification_sound_dialog_title">So de notificació per defecte</string>
     <string name="notification_sound_title">Altres notificacions &amp; recordatoris</string>
@@ -4823,6 +4827,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="other_conversations_summary">Les converses en què heu fet canvis</string>
     <string name="other_data">Altres elements d’aquest dispositiu</string>
     <string name="other_device_info">Altres</string>
+    <string name="other_input_method">Altres teclats</string>
     <string name="other_input_settings">Configuració addicional del teclat</string>
     <string name="other_password">Altres contrasenyes</string>
     <string name="other_personal_settings">Configuració personal</string>
@@ -5521,7 +5526,7 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="ring_volume_option_title">Volum del so de la trucada</string>
     <string name="ring_volume_title">Volum de notificació &amp;</string>
     <string name="ringer_mode_setting_summary">Silenci les trucades i notificacions entrants</string>
-    <string name="ringer_mode_setting_title">Mode silenciós</string>
+    <string name="ringer_mode_setting_title">Mode silenci</string>
     <string name="ringtone_slot_setting_title">Configuració de SIM única</string>
     <string name="ringtone_title">So de trucada</string>
     <string name="ringtone_uniform_setting_title">Configuració de SIM dual</string>
@@ -6281,11 +6286,15 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="shuting_down_find_device">S\'està desactivant troba el dispositiu…</string>
     <string name="silent_duration">Durada</string>
     <string name="silent_mode">Mode silenci</string>
+    <string name="silent_mode_disable_media">Silencia-ho tot</string>
+    <string name="silent_mode_enable_media">Reprodueix contingut multimèdia</string>
+    <string name="silent_mode_summary">Silenciar les trucades, les notificacions i els suports</string>
     <string name="silent_mode_title">Mode silenci</string>
+    <string name="silent_mode_toggle_title">Mode silenci</string>
     <string name="silent_notifications_status_bar">Amagueu les notificacions silencioses a la barra d\'estat</string>
     <string name="silent_off">Desactivat</string>
     <string name="silent_settings">Silenci/DND</string>
-    <string name="silent_standard">Silenciós</string>
+    <string name="silent_standard">Silenci</string>
     <string name="silent_time">Durada del mode silenci</string>
     <string name="silent_total">No molesteu</string>
     <string name="sim_bad_pin">El PIN ha de contenir 4-8 dígits</string>
@@ -6411,6 +6420,7 @@ Toqueu dos cops per obrir Recents."</string>
     <string name="smart_home_value_none">Mai</string>
     <string name="smart_home_value_unknown">Desconeguda</string>
     <string name="smart_notifications_title">Notificacions adaptatives</string>
+    <string name="smart_space_clock">En un cop d’ull</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
     <string name="smartcover_sensitive_summary">Bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
     <string name="smartcover_sensitive_title">Mode Smartcover</string>
@@ -6521,7 +6531,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
     <string name="status_bar_settings_notification_use_app_icon">Utilitza les icones de l\'aplicació per a notificacions</string>
     <string name="status_bar_settings_qs_layout">Disposició de la configuració ràpida</string>
     <string name="status_bar_settings_show_lte_for_4g">Mostra la icona LTE per al 4G</string>
-    <string name="status_bar_settings_show_weather">Mostra el temps a l\'àrea de notificacions</string>
+    <string name="status_bar_settings_show_weather">Mostra informació meteorològica</string>
     <string name="status_bar_settings_status_bar">Barra d\'estat</string>
     <string name="status_bar_title">Centre de control i barra d\'estat</string>
     <string name="status_bt_address">Adreça del Bluetooth</string>
@@ -6850,7 +6860,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="sync_enable">Sincronitza</string>
     <string name="sync_enabled">Sincronització activada</string>
     <string name="sync_error">Error de sincronització</string>
-    <string name="sync_failed">La sincronització ha fallat</string>
+    <string name="sync_failed">"No s'ha pogut sincronitzar. Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_in_progress">S\'està sincronitzant…</string>
     <string name="sync_is_failing">Hi ha problemes amb la sincronització. Aviat tornarà a estar disponible.</string>
@@ -6862,6 +6872,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="sync_plug"><font fgcolor="#ffffffff">Benvingut a Google sync.</font>\" 
 Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vostres contactes, cites i molt més des de qualsevol lloc\".</string>
     <string name="sync_settings">Comptes i sincronització</string>
+    <string name="sync_success">S\'ha sincronitzat correctament</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Només per Wi-Fi</string>
     <string name="system">Sistema</string>
@@ -6981,7 +6992,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_layout_current">Mida del text</string>
     <string name="title_layout_current2">Mida del text</string>
     <string name="title_layout_current2_weight">Mida del text i pes de la lletra</string>
-    <string name="title_miui_music_mute_by_user">Mode silenciós</string>
+    <string name="title_miui_music_mute_by_user">Mode silenci</string>
     <string name="title_of_auto_launch_manage">Inici automàtic</string>
     <string name="to_close">Desactiva</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
@@ -7582,6 +7593,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="volte_5G_limited_text">"Això també desactiva la connexió 5G.
 Durant una trucada de veu, no podeu utilitzar Internet i és possible que algunes aplicacions no funcionin."</string>
     <string name="volte_5G_limited_title">Desactiveu VoLTE?</string>
+    <string name="volume_adjustment">Ajustar el volum</string>
     <string name="volume_alarm_description">Alarma</string>
     <string name="volume_alarm_mute">Silencia les alarmes</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
@@ -8319,6 +8331,8 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_type_approval_title">Tipus d\'homologació</string>
     <string name="wifi_unchanged">(sense canvis)</string>
     <string name="wifi_unmetered_label">No modificat</string>
+    <string name="wifi_unsaved_network_linking">Pont SSID: connexió automàtica</string>
+    <string name="wifi_unsaved_network_linking_summary">Activa els intents de connexió automàtica a un nou SSID WPA / WPA2-PSK de 5 GHz amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la concordança parcial SSID i BSSID</string>
     <string name="wifi_unspecified">(sense especificar)</string>
     <string name="wifi_update">Actualitza les estadístiques</string>
     <string name="wifi_use_system_certs">Utilitza certificats del sistema</string>
@@ -8363,6 +8377,8 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_cert">Certificat d\'usuari</string>
     <string name="wifi_wapi_user_certificate">Certificat d’usuari</string>
+    <string name="wifi_whitelist_roaming">Pont SSID: lliurament ràpid</string>
+    <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSPA WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="wifi_wps_available_first_item">WPS disponible</string>
     <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
     <string name="wifi_wps_connected">S\'ha connectat a xarxa Wi-Fi %s</string>
@@ -8424,6 +8440,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud sincronitza les teves fotos, fa una còpia de seguretat de les aplicacions i de la configuració i l\'ajuda a trobar el telèfon mitjançant Troba el dispositiu.</string>
     <string name="xiaomi_cloud_service_disabled">Desactivat</string>
     <string name="xiaomi_cloud_service_unknown">Desconegut</string>
+    <string name="xiaomi_custom_input_method">Personalitzat per a Xiaomi</string>
     <string name="xiaomi_money_service">Les meves monedes</string>
     <string name="xiaomi_router_available_notif_summary">Toqueu per veure més informació.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
@@ -8470,9 +8487,11 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_all_callers">Totes les trucades</string>
     <string name="zen_mode_all_calls_summary">Totes les trucades poden arribar-hi</string>
     <string name="zen_mode_all_messages_summary">Tots els missatges us poden arribar</string>
+    <string name="zen_mode_always">Sempre</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Aquesta configuració no es pot canviar ara mateix. Una aplicació (%1$s) ha activat automàticament No molestar amb un comportament personalitzat."</string>
     <string name="zen_mode_apps_bypassing_list_count">%d més</string>
+    <string name="zen_mode_auto_rule">Programa les sessions del MDN</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Programació</string>
     <string name="zen_mode_automation_settings_page_title">Horaris</string>
     <string name="zen_mode_automation_settings_title">Regles automàtiques</string>
@@ -8568,6 +8587,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_from_sms">"Missatges de "</string>
     <string name="zen_mode_from_starred">Contactes destacats</string>
     <string name="zen_mode_important_category">Configuració</string>
+    <string name="zen_mode_lockscreen">Quan està bloquejat</string>
     <string name="zen_mode_media">Sona multimèdia</string>
     <string name="zen_mode_media_list">multimèdia</string>
     <string name="zen_mode_media_list_first">Mitjans de comunicació</string>
@@ -8578,6 +8598,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_messages_list">missatges</string>
     <string name="zen_mode_messages_title">Missatges</string>
     <string name="zen_mode_miui_silent_category">Permet</string>
+    <string name="zen_mode_more_actions">Més opcions de DND</string>
     <string name="zen_mode_no_exceptions">Cap</string>
     <string name="zen_mode_none_calls">Cap</string>
     <string name="zen_mode_none_messages">Cap</string>
@@ -8660,6 +8681,7 @@ Quan desactiveu No molestar, trobareu les notificacions perdudes lliscant avall 
     <string name="zen_mode_starred_contacts_title">Contactes destacats</string>
     <string name="zen_mode_start_time">Hora d\'inici</string>
     <string name="zen_mode_summary">Reduïu les trucades entrades, les notificacions, els suports i desactiveu les vibracions</string>
+    <string name="zen_mode_summary2">Silencieu les trucades i les notificacions, desactiveu les vibracions</string>
     <string name="zen_mode_summary_alarms_only_by_time">Canvia al mode Només alarmes fins a %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Canviar a només les alarmes per temps indefinit</string>
     <string name="zen_mode_summary_always">Canvia al mode Interromp sempre</string>

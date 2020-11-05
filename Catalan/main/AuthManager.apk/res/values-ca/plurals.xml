@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Es permet que %1$s accedeixi automàticament als elements del porta-retalls %2$d vegada</item>
+        <item quantity="one">Es permet que %1$s accedeixi automàticament als elements del porta-retalls %2$d vegada</item>
+    </plurals>
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">S\'han accedit %1$s elements al porta-retalls %2$d vegada</item>
+        <item quantity="one">S\'han accedit %1$s elements al porta-retalls %2$d vegada</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Ja heu permès que %2$s accedeixi al porta-retalls %1$d vegada. Voleu permetre sempre que %3$s accedeixi al porta-retalls"</item>
+        <item quantity="one">"Ja heu permès que %2$s accedeixi al porta-retalls %1$d vegada. Voleu permetre sempre que %3$s accedeixi al porta-retalls?"</item>
+    </plurals>
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Ja heu restringit l'accés al porta-retalls durant %2$s %1$d vegades. Voleu restringir l'accés al porta-retalls per a %3$s manera permanent?"</item>
+        <item quantity="one">"Ja heu restringit l'accés al porta-retalls durant %2$s %1$d vegades. Voleu restringir l'accés al porta-retalls per a %3$s manera permanent?"</item>
+    </plurals>
+</resources>

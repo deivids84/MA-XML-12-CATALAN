@@ -234,7 +234,7 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"S'han omès %1$d fotos que no s'han pogut renderitzar."</item>
-        <item quantity="one">"S'ha omès una foto que no s'ha pogut renderitzar."</item>
+        <item quantity="one">"S'ha omès %1$d foto que no s'ha pogut renderitzar."</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d fitxers</item>
@@ -274,7 +274,7 @@
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotos</item>
-        <item quantity="one">1 foto</item>
+        <item quantity="one">%1$d foto</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">Còpia de seguretat pendent per a %1$d fotos</item>
@@ -294,7 +294,7 @@
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d vídeos</item>
-        <item quantity="one">1 vídeo</item>
+        <item quantity="one">%1$d vídeo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">Còpia de seguretat pendent per a %1$d vídeos</item>
@@ -329,8 +329,8 @@
         <item quantity="one">"La foto seleccionada no es troba al dispositiu. Es baixarà."</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">"Les fotos seleccionades (%dMB) no es troben al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</item>
-        <item quantity="one">"La foto seleccionada (%dMB) no es troba al dispositiu. Voleu baixar-la utilitzant les dades mòbils?"</item>
+        <item quantity="other">"Les fotos seleccionades (%d MB) no són al dispositiu. Els voleu baixar mitjançant les dades mòbils?"</item>
+        <item quantity="one">"La foto seleccionada (%d MB) no és al dispositiu. El voleu baixar mitjançant les dades mòbils?"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">"Encara no s'han baixat %d fitxers. Voleu cancel·lar-ho de totes maneres?"</item>
@@ -341,24 +341,24 @@
         <item quantity="one">S\'està baixant %d fitxer restant</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"No es poden baixar %1$d fotos, connecteu-vos a la xarxa i torneu-ho a provar"</item>
-        <item quantity="one">"No es pot baixar la foto, connecteu-vos a la xarxa i torneu-ho a provar"</item>
+        <item quantity="other">"No s'han pogut baixar %1$d fotos, connectar-se a la xarxa i tornar-ho a provar"</item>
+        <item quantity="one">"No s'ha pogut descarregar %1$d foto, connectar-se a la xarxa i torna a intentar-ho"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">"No s'han pogut baixar %1$d fitxers (%2$d MB). Connecteu-vos a la xarxa i torneu-ho a provar."</item>
-        <item quantity="one">"No s'ha pogut baixar %1$d fitxer (%2$d MB). Connecteu-vos a la xarxa i torneu-ho a provar."</item>
+        <item quantity="one">"No s'ha pogut descarregar %1$d arxiu (%2$d MB). Connecteu-vos a la xarxa i torneu-ho a provar."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"Encara no s'han baixat %1$d fitxers (%2$d MB). Voleu baixar-los utilitzant dades mòbils?"</item>
-        <item quantity="one">"Encara no s'ha baixat %1$d fitxer (%2$d MB). Voleu baixar-lo utilitzant dades mòbils?"</item>
+        <item quantity="other">"%1$d fitxers (%2$d MB) encara no s'han baixat. Voleu baixar-les mitjançant dades mòbils?"</item>
+        <item quantity="one">"%1$d fitxer (%2$d MB) encara no s'ha baixat. Voleu baixar-les mitjançant dades mòbils?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"No es poden baixar %1$d fotos. Voleu provar-ho de nou?"</item>
-        <item quantity="one">"No es pot baixar la foto. Voleu provar-ho de nou?"</item>
+        <item quantity="other">"No s'han pogut baixar %1$d fotos, torna-ho a provar?"</item>
+        <item quantity="one">"No s'ha pogut descarregar %1$d foto, intentar-ho de nou?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"No es poden baixar %1$d fotos (%2$dMB). Voleu provar-ho de nou?"</item>
-        <item quantity="one">"No es pot baixar la foto (%2$dMB). Voleu provar-ho de nou?"</item>
+        <item quantity="other">"No s'han pogut baixar %1$d fotos (%2$d MB). Torneu-ho a provar?"</item>
+        <item quantity="one">"No s'ha pogut descarregar %1$d foto (%2$d MB), intentar-ho de nou?"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">"S'han omès %d fotos que no estan al dispositiu."</item>
@@ -366,7 +366,7 @@
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">S\'han trobat %1$d fotos noves</item>
-        <item quantity="one">S\'ha trobat una foto nova</item>
+        <item quantity="one">S\'ha trobat %1$d foto nova</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">%d fotos en total</item>

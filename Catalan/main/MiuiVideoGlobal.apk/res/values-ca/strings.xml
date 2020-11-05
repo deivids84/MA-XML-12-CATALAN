@@ -72,7 +72,11 @@
     <string name="ad_download">descarregar</string>
     <string name="ad_join">Unir-se a la comunitat</string>
     <string name="ad_more">Més</string>
+    <string name="add_search_channel_link">URL</string>
+    <string name="add_search_channel_name">Nom</string>
+    <string name="add_search_channel_tip">Cerqueu \"%s\" al lloc web de destinació i, a continuació, copieu i enganxeu l\'URL aquí.</string>
     <string name="add_to_trust_device">Aquest és un dispositiu de confiança</string>
+    <string name="add_website">Afegiu un lloc web</string>
     <string name="agree">D\'acord</string>
     <string name="agree_and_continue">D\'acord</string>
     <string name="ai_animation_music_text">Banda sonora de AI</string>
@@ -93,6 +97,7 @@
     <string name="alert_dialog_download_progress">"Baixant l'aplicació: "</string>
     <string name="all">Mostrar tots</string>
     <string name="app_name">Mi Vídeo</string>
+    <string name="auth_again">Acordar</string>
     <string name="auth_fail_warning">Sessió expirada. Inicieu la sessió de nou.</string>
     <string name="auto_play_next_off">La reproducció automàtica està desactivada</string>
     <string name="auto_play_next_on">La reproducció automàtica està activada</string>
@@ -153,6 +158,8 @@
     <string name="choose_to_signup">"No, en crearé un"</string>
     <string name="click_to_reload_more">Toqueu per carregar-ne més</string>
     <string name="click_to_retry">Torna-ho a provar</string>
+    <string name="cloud_auto_pip_play_switch">Utilitzeu la imatge en imatge automàticament</string>
+    <string name="cloud_online_player">Jugador</string>
     <string name="cloud_online_switch">Recomanacions personalitzades</string>
     <string name="cloud_online_switch_close_time">Podeu activar les recomanacions de contingut personalitzades en %s</string>
     <string name="cloud_online_switch_open_time">Mostra recomanacions personalitzades de contingut</string>
@@ -242,6 +249,7 @@
     <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
     <string name="default_filedownloader_notification_title">FileDownloader</string>
     <string name="description">Descripció</string>
+    <string name="detail_select_source">Seleccioneu la font de reproducció</string>
     <string name="diagnosis_log_send_failed">"No s'han pogut enviar els registres. Torneu-ho a provar."</string>
     <string name="diagnosis_log_sent_format">"Els registres s’han enviat correctament.
 ID: %s
@@ -335,6 +343,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="file_cant_rename">El fitxer amb el nom %1$s ja existeix. Canvieu el nom</string>
     <string name="find_psw">Contrasenya oblidada</string>
     <string name="finish">Fet</string>
+    <string name="firework_privacy">Política de privadesa de Firework</string>
     <string name="for_diagnosis_usage_only">Els registres només s’utilitzen per als diagnòstics.</string>
     <string name="for_you">PER TU</string>
     <string name="friday">Divendres</string>
@@ -459,6 +468,12 @@ Envieu aquest codi al supervisor."</string>
     <string name="input_size_tips">Podeu introduir fins a 1000 caràcters</string>
     <string name="isornot_your_mi_account">Aquest és el vostre compte?</string>
     <string name="issue">Assumpte</string>
+    <string name="item_card_all_replies">Totes les respostes</string>
+    <string name="item_card_continue_play">Reproducció automàtica</string>
+    <string name="item_card_more_trailers">Més tràilers</string>
+    <string name="item_card_open_in">"Obre a "</string>
+    <string name="item_card_related">Relacionat</string>
+    <string name="item_setting_go_back">Retirada del consentiment</string>
     <string name="just_a_second">Un moment…</string>
     <string name="language_later_setting_tips">Podeu canviar les preferències d’idioma a Idioma del perfil &gt;.</string>
     <string name="language_select_tips">"Quines són les vostres preferències d'idioma pels vídeos? Podeu seleccionar múltiples idiomes."</string>
@@ -677,7 +692,9 @@ Envieu aquest codi al supervisor."</string>
     <string name="notification_recall_desc">Mi Video us pot notificar sobre els vídeos populars i les vostres subscripcions.</string>
     <string name="notification_recall_title">Activa les notificacions</string>
     <string name="notify_apk_installed">S\'ha baixat correctament</string>
+    <string name="off_tip_firework_recommend">"No rebràs recomanacions de contingut personalitzat de Firework"</string>
     <string name="ok">D\'acord</string>
+    <string name="on_tip_firework_recommend">"Rebràs recomanacions de contingut personalitzat de Firework"</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
     <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>
@@ -882,11 +899,16 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="phone_number">Número de telèfon</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="pip">PiP</string>
+    <string name="playlist_create">Crear</string>
     <string name="playlist_detail_recomm_title">Llistes de reproducció recomanades</string>
+    <string name="playlist_finish">Fet</string>
     <string name="playlist_hot">Popular</string>
+    <string name="playlist_name">Introduïu el títol de la llista de reproducció</string>
     <string name="playlist_new">Nou</string>
     <string name="playlist_no_more">No hi ha més vídeos aquí</string>
+    <string name="playlist_no_videos">No hi ha vídeos aquí</string>
     <string name="playlist_offline">Aquesta llista de reproducció ja no està disponible.</string>
+    <string name="playlist_remove">Elimina</string>
     <string name="playlist_title">Llista de reproducció</string>
     <string name="playlist_view_more">Més llistes de reproducció</string>
     <string name="plus_add_shortcut">Crea la drecera de la pantalla inicial</string>
@@ -1077,6 +1099,8 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="search_hot_words">Popular</string>
     <string name="search_key_not_null">"Les sol·licituds de cerca no poden estar buides"</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="search_result_download_error">"No s'ha pogut baixar"</string>
+    <string name="search_result_startdownload">S\'està baixant…</string>
     <string name="selectall">Seleccionar tot</string>
     <string name="selectnull">Deseleccionar tot</string>
     <string name="send_diagnosis_log">Envia els registres</string>
@@ -1170,8 +1194,11 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="ticket_hint">Codi de verificació</string>
     <string name="ticket_invalid">El codi que heu introduït no és correcte</string>
     <string name="ticket_sign_in">Inicieu la sessió mitjançant SMS</string>
+    <string name="tip_auth_again">"Com que no heu acceptat prèviament els termes de la corresponent Política de privadesa del proveïdor de contingut de tercers, no podem mostrar contingut de vídeo a Moments. Toqueu el botó següent per acceptar la política de privadesa i accedir a aquesta funció."</string>
     <string name="tip_author_click">Toqueu per veure més vídeos d’aquest compte</string>
+    <string name="tip_pop"><Data>contingut de Moments el proporciona Firework. Per millorar la vostra experiència de visualització i rebre recomanacions de contingut més rellevants, permeteu a Firework recopilar, processar i utilitzar la vostra informació personal d’acord amb la seva Política de privadesa. Llegiu i accepteu la &lt;a href=\"%1$s\"&gt;Política de privadesa de Firework&lt;/a&gt; abans d’utilitzar els seus serveis.</Data></string>
     <string name="tip_topic_click">Toqueu per trobar més vídeos sobre aquest tema</string>
+    <string name="title_firework_recommend">Recomanacions de focs artificials</string>
     <string name="title_publisher">Creadors</string>
     <string name="title_subscribe">Subscripcions</string>
     <string name="toast_no_data">"Aquest element no està disponible ara. Torna després."</string>

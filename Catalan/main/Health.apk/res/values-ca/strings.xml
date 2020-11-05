@@ -67,7 +67,6 @@ per afegir targetes"</string>
     <string name="altitude">Altitud</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
-    <string name="app_name">TrackingTree</string>
     <string name="app_setting">Aplicacions</string>
     <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
     <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
@@ -992,7 +991,7 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="sleep_deep_light_no_data_improvement">"No es poden detectar les fases de son. Estem millorant els nostres algorismes. Estigueu atents!"</string>
     <string name="sleep_detection_enable">Analitza el cicle del son</string>
     <string name="sleep_detection_feedback">Comentaris</string>
-    <string name="sleep_detection_guide_four_description">El seguiment del son consumirà al voltant d’un 1% de la bateria diàriament.</string>
+    <string name="sleep_detection_guide_four_description">El seguiment del son consumirà aproximadament l’1% de la bateria diàriament.</string>
     <string name="sleep_detection_guide_four_high_power_description">Assegureu-vos que el dispositiu està prou carregat abans d’anar a dormir. Una bateria baixa pot interrompre el seguiment del son.</string>
     <string name="sleep_detection_guide_four_high_power_title">Manteniu el dispositiu carregat</string>
     <string name="sleep_detection_guide_four_title">Consum energètic baix</string>
@@ -1473,7 +1472,7 @@ Voleu actualitzar-ho ara?</string>
     <string name="user_age_unit">Anys</string>
     <string name="user_agreement">Acord d\'usuari</string>
     <string name="user_birthday_display_format">dd/MM/yyyy</string>
-    <string name="user_center">Centre d\'usuaris</string>
+    <string name="user_center">Centre d\'usuari</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="value_error_correct">Edita el registre</string>

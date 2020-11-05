@@ -459,13 +459,13 @@
     <string name="discard">Descarta</string>
     <string name="discard_drafts">Descarta projecte</string>
     <string name="dismiss_tip_hover_text">Descarta consell</string>
-    <string name="disturb_switch">No molestar</string>
+    <string name="disturb_switch">No molestis</string>
     <string name="done">Fet</string>
     <string name="done_action">Fet</string>
     <string name="donot_disturb_endtime_title">Per</string>
     <string name="donot_disturb_starttime_title">De</string>
     <string name="donot_disturb_summary">Les notificacions dels correus electrònics que arriben seran silenciades</string>
-    <string name="donot_disturb_title">No molestar</string>
+    <string name="donot_disturb_title">No molestis</string>
     <string name="downlaod_cancel_confirm_download">Atura</string>
     <string name="downlaod_cancel_continue_download">"Cancel·la"</string>
     <string name="downlaod_confirm_download">Baixa</string>
@@ -854,7 +854,7 @@ Proveu una safata d'entrada diferent."</string>
     <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
     <string name="notification_exchange_calendar_added">Calendari d\'intercanvi afegit</string>
     <string name="notify_channel_new_mail">Notifica els missatges nous</string>
-    <string name="notify_channel_no_disterb">Mode No molestar</string>
+    <string name="notify_channel_no_disterb">Mode No molestis</string>
     <string name="notify_channel_permission_notice">Permisos necessaris</string>
     <string name="notify_channel_send_fail">Notifica el lliurament fallit</string>
     <string name="notify_channel_service">Notifica la sincronització de fons</string>
@@ -1252,7 +1252,7 @@ Espereu fins que se sincronitzi completament o visualitzeu el missatge al vostre
     <string name="show_server_cet">Mostra el certificat</string>
     <string name="signature">" %s"</string>
     <string name="signature_black_shark">Enviat des del meu telèfon Blackshark</string>
-    <string name="silent_ringtone">Silenciós</string>
+    <string name="silent_ringtone">Silenci</string>
     <string name="single_new_message_notification_big_text">"%1$s 
 %2$s"</string>
     <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>

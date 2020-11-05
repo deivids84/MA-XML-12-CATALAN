@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Còpia de seguretat cada %d dies</item>
+        <item quantity="one">Còpia de seguretat cada dia</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s còpies de seguretat (%2$s)</item>
         <item quantity="one">%1$s còpia de seguretat (%2$s)</item>

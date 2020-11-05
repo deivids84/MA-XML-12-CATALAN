@@ -531,9 +531,11 @@
     <string name="download_tip">Baixa</string>
     <string name="download_title">S\'estan preparant els fitxers&#8230;</string>
     <string name="download_type_origin">Fitxers originals</string>
-    <string name="download_type_origin_desc">Fitxers originals</string>
+    <string name="download_type_origin_subtitle_china">Les imatges originals ocupen més espai d’emmagatzematge i només es poden descarregar mitjançant Wi-Fi</string>
+    <string name="download_type_origin_title">Original</string>
     <string name="download_type_thumbnail">Qualitat alta</string>
-    <string name="download_type_thumbnail_desc">Qualitat alta</string>
+    <string name="download_type_thumbnail_subtitle">Les imatges d’alta qualitat tenen un aspecte pràcticament idèntic a les originals, però ocupen menys espai d’emmagatzematge</string>
+    <string name="download_type_thumbnail_title">Alta qualitat</string>
     <string name="download_type_title">Qualitat de la baixada</string>
     <string name="download_with_metered_network_msg">La baixada de fitxers originals pot generar despeses de l\'operadora addicionals. Voleu baixar-los de totes maneres?</string>
     <string name="download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
@@ -1113,7 +1115,7 @@ per personalitzar la galeria"</string>
     <string name="movie_download">Baixa</string>
     <string name="movie_download_failed">"No s'ha pogut baixar"</string>
     <string name="movie_download_failed_for_notwork">"No s'ha pogut baixar. Connecteu-vos a la xarxa i torneu-ho a provar."</string>
-    <string name="movie_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat per wifi. Voleu baixar el connector necessari (3MB) utilitzant dades mòbils?"</string>
+    <string name="movie_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector necessari (%2$d MB) mitjançant dades mòbils?"</string>
     <string name="movie_download_sdk_without_wifi_title">Baixada utilitzant dades mòbils</string>
     <string name="movie_download_with_metered_network_msg">La baixada de fitxers originals pot generar despeses addicionals de l\'operadora. Voleu baixar-los de totes maneres?</string>
     <string name="movie_download_with_metered_network_title">"Esteu connectat a una xarxa de pagament"</string>
@@ -1157,6 +1159,7 @@ per personalitzar la galeria"</string>
     <string name="need_to_turn_on_sync_first">Cal que primer activeu la sincronització amb Mi Cloud</string>
     <string name="need_to_turn_on_wlan">Connecteu-vos primer a una Wi-Fi</string>
     <string name="network_connected_rescan">"No es pot connectar a la xarxa"</string>
+    <string name="new_album_invalid_byte">Aquest nom és massa llarg</string>
     <string name="new_album_invalid_char">"Els noms no poden contenir \"%s\". Introduïu una lletra o un número."</string>
     <string name="new_album_invalid_name">\"%s\" és un àlbum del sistema, escolliu un altre nom.</string>
     <string name="new_album_invalid_prefix">"No utilitzeu \".\" o \"_\" al principi del nom de l'àlbum."</string>
@@ -1174,6 +1177,7 @@ per personalitzar la galeria"</string>
     <string name="not_remind_again">"No ho mostris més"</string>
     <string name="not_remind_any_more">"No ho mostris més"</string>
     <string name="not_set">Sense especificar</string>
+    <string name="notice_click_lock_orientation">Toqueu per bloquejar l\'orientació</string>
     <string name="ocr_abnormal">"No s'ha pogut reconèixer el text."</string>
     <string name="ocr_abnormal_pic_format">"No s'ha pogut reconèixer el text. Aquest format d'imatge no és compatible."</string>
     <string name="ocr_abnormal_pic_too_large">"No s'ha pogut reconèixer el text. Aquesta imatge és massa gran."</string>
@@ -1244,6 +1248,9 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="operation_remove_rubbish">Restaura</string>
     <string name="operation_remove_secret">Suprimeix de l\'àlbum privat</string>
     <string name="operation_rename">Reanomena</string>
+    <string name="operation_replace_album_cover">Canvia la portada de l\'àlbum</string>
+    <string name="operation_replace_album_cover_custom_mode">Personalitzat</string>
+    <string name="operation_replace_album_cover_default_mode">Per defecte</string>
     <string name="operation_save">Desa</string>
     <string name="operation_send">Envia</string>
     <string name="operation_set_contact_photo">Estableix-la com a foto de contacte</string>
@@ -1321,7 +1328,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_editor_miui_beauty_no_face">"No es pot detectar la cara"</string>
     <string name="photo_editor_mosaic">Mosaic</string>
     <string name="photo_editor_navigator_cancel">Cancel·la</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">La baixada de %s requereix aproximadament 4 Mb de dades mòbils. Voleu baixar-ho?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">La baixada de %s requereix aproximadament %2$d MB de dades mòbils. Descarrega ara?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Avís d\'ús de dades</string>
     <string name="photo_editor_navigator_export">Desa</string>
     <string name="photo_editor_navigator_module_download_failed">"No s'ha pogut baixar %s"</string>
@@ -1370,6 +1377,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_movie_module_finish">S\'ha carregat Clips correctament</string>
     <string name="photo_movie_module_loading">S\'està carregant Clips…</string>
     <string name="photo_movie_select_image_range">Els clips poden contenir entre 3 i 20 fotos</string>
+    <string name="photo_page_lock_screen">Orientació de bloqueig</string>
     <string name="photo_page_rotate_screen">Gira la pantalla</string>
     <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
     <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
@@ -1414,7 +1422,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="picker_image_need_download">"%d de les fotos seleccionades no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
     <string name="picker_image_will_download">"%d de les fotos seleccionades no són al dispositiu. Es baixaran."</string>
     <string name="picker_no_network_message">Connecteu a la xarxa per baixar</string>
-    <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$d MB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
+    <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$d MB) no estan al dispositiu. Voleu baixar-les mitjançant dades mòbils?"</string>
     <string name="picker_origin_request_progress_fail">"No s'ha pogut descarregar la imatge original a causa d'un error de xarxa."</string>
     <string name="picker_origin_request_progress_message">S\'estan preparant els fitxers originals (%1$d/%2$d)…</string>
     <string name="picker_title_format">Seleccioneu %1$d a %2$d fotos</string>
@@ -1689,10 +1697,10 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="slim_cost_time_minute">%d min restants</string>
     <string name="slim_cost_time_minute_and_second">%1$d min %2$d s restants</string>
     <string name="slim_cost_time_second">%d s restants</string>
-    <string name="slim_description_dialog_detail">Redueix la mida del fitxer de les fotos locals. Els fitxers originals s\'emmagatzemaran al Mi Cloud.</string>
+    <string name="slim_description_dialog_detail">Comprimiu fotos i deixeu còpies més petites d’alta qualitat en aquest dispositiu mantenint fitxers originals al núvol.</string>
     <string name="slim_description_dialog_ok">Entesos</string>
     <string name="slim_description_dialog_slim_after">"Després:  167 KB"</string>
-    <string name="slim_description_dialog_slim_before">"Abans:  3,07 MB"</string>
+    <string name="slim_description_dialog_slim_before">Abans: %2$d MB</string>
     <string name="slim_exit_dialog_positive">Atura</string>
     <string name="slim_exit_dialog_title">Atura l\'optimització</string>
     <string name="slim_running">S\'està optimitzant…</string>
@@ -1893,6 +1901,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="to_enable_sync_dialog_title">Sincronització</string>
     <string name="toast_invalid_char">"Els noms de fitxer no poden contenir \"%s\""</string>
     <string name="toast_invalid_prefix">"Els noms de fitxers no poden començar per \".\" o \"_\""</string>
+    <string name="toast_orientation_locked">S\'ha bloquejat l\'orientació correctament</string>
     <string name="toast_rename_exit">Aquest fitxer ja existeix</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
@@ -1948,7 +1957,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="video_compress_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="video_compress_encode_video">S\'està comprimint el vídeo…</string>
     <string name="video_compress_lib_download">Baixeu el complement de compressió de vídeo</string>
-    <string name="video_compress_lib_download_without_wifi">"Sembla que el dispositiu no està connectat a la Wi-Fi. Podeu utilitzar les dades mòbils per baixar el complement de compressió de vídeo (1,3 MB)."</string>
+    <string name="video_compress_lib_download_without_wifi">"Sembla que el dispositiu no està connectat a la Wi-Fi. Podeu utilitzar dades mòbils per descarregar el connector de compressió de vídeo (%2$d MB)."</string>
     <string name="video_compress_not_with_8k">"No es poden comprimir els vídeos 8K"</string>
     <string name="video_compress_not_with_format">"La compressió de vídeo no és compatible amb aquest format"</string>
     <string name="video_compress_not_with_low_quality">La resolució actual és la més baixa</string>
@@ -2220,6 +2229,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="vlog_video_selected_not_support">"No es pot editar el vídeo seleccionat"</string>
     <string name="vlog_video_trans_code_cons">S\'està processant un fitxer d\'alta resolució…</string>
     <string name="voice_assistant">Entrada de veu</string>
+    <string name="watch_all_photo">Galeria</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>

@@ -1155,17 +1155,21 @@ una captura de pantalla en desplaçament"</string>
     <string name="miui_guide_dialog_message">Els sons multimèdia (música, vídeos, etc.) se seguiran reproduint en mode Silenci. Podeu canviar-ho a la Configuració.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
     <string name="miui_ringer_count_down">Compte enrere</string>
-    <string name="miui_ringer_standard">Silenciós</string>
+    <string name="miui_ringer_standard">Silenci</string>
     <string name="miui_ringer_standard_description">Silencia l\'avís acústic de trucades i notificacions entrants</string>
     <string name="miui_ringer_total">No molesteu</string>
     <string name="miui_ringer_total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
     <string name="miui_screen_rotation_freeze_message">Orientació de pantalla bloquejada en mode horitzontal</string>
     <string name="miui_toast_zen_dnd_to_off">Els sons i la vibració han tornat a la normalitat</string>
+    <string name="miui_toast_zen_dnd_to_off_version_R">DND està desactivat. Els sons i les vibracions de la notificació tornen a activar-se.</string>
     <string name="miui_toast_zen_standard_to_off">S\'ha restablert el so de les trucades</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Es farà sonar l\'avís de trucades, així com les notificacions i els multimèdia.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">El mode silenciós està desactivat. Les notificacions, els sons multimèdia i les vibracions han tornat a activar-se.</string>
     <string name="miui_toast_zen_to_dnd">So silenciat i vibració inactiva</string>
+    <string name="miui_toast_zen_to_dnd_version_R">DND està activat. Es silenciaran les notificacions i es desactivaran les vibracions.</string>
     <string name="miui_toast_zen_to_standard">S\'ha silenciat l\'avís de trucades i notificacions</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Es silenciarà l\'avís de trucades, així com les notificacions i els multimèdia.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">El mode silenci està activat. Es silenciaran les notificacions i els suports i es desactivaran les vibracions.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1876,6 +1880,7 @@ d MMM"</string>
     <string name="torch_closed">Llanterna apagada</string>
     <string name="torch_high_temperature_warning">"El dispositiu s'ha sobreescalfat. Ara no es pot utilitzar la llum."</string>
     <string name="torch_opened">Llanterna encesa</string>
+    <string name="touch_filtered_warning">Com que una aplicació oculta una sol·licitud de permís, la configuració no pot verificar la vostra resposta.</string>
     <string name="track_frame_time">Perfil de la renderització de la GPU</string>
     <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
     <string name="tts_default_lang_summary">Estableix l\'idioma per defecte per a la síntesi de text a veu</string>
@@ -2028,7 +2033,7 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="volume_stream_content_description_vibrate">%1$s. Toqueu per activar la vibració. Els serveis d’accessibilitat poden estar silenciats.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toqueu per activar la vibració.</string>
     <string name="volume_stream_limited_dnd">%s — Només prioritats</string>
-    <string name="volume_stream_muted">%s silenciós</string>
+    <string name="volume_stream_muted">%s silenci</string>
     <string name="volume_stream_muted_dnd">%s silenciós — Silenci total</string>
     <string name="volume_stream_suppressed">%1$s en silenci — %2$s</string>
     <string name="volume_stream_vibrate">%s en vibració</string>
@@ -2078,6 +2083,16 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="wifi_connected_no_internet">No hi ha internet</string>
     <string name="wifi_coverage_extend">Activa l’extensió de cobertura Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Amplieu la cobertura Wi-Fi mitjançant un punt d\'accés</string>
+    <string name="wifi_debugging_allow">Permet</string>
+    <string name="wifi_debugging_always">Permet sempre aquesta xarxa</string>
+    <string name="wifi_debugging_message">"Nom de xarxa (SSID)
+%1$s
+
+Adreça WLAN (BSSID)
+%2$s"</string>
+    <string name="wifi_debugging_secondary_user_message">L\'usuari que ha iniciat la sessió en aquest dispositiu no pot activar la depuració sense fils. Per utilitzar aquesta funció, canvieu a l\'usuari principal.</string>
+    <string name="wifi_debugging_secondary_user_title">No es permet la depuració sense fils</string>
+    <string name="wifi_debugging_title">Vols permetre la depuració sense fils en aquesta xarxa?</string>
     <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
     <string name="wifi_disabled_generic">Desactivat</string>
     <string name="wifi_disabled_network_failure">"No s'ha pogut configurar la IP"</string>
@@ -2115,6 +2130,8 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="wifi_status_no_internet">No hi ha internet</string>
     <string name="wifi_status_sign_in_required">Cal que inicieu la sessió</string>
     <string name="wifi_unmetered_label">Sense mesurat</string>
+    <string name="wifi_unsaved_network_linking">Pont SSID: connexió automàtica</string>
+    <string name="wifi_unsaved_network_linking_summary">Activa els intents de connexió automàtica a un nou SSID WPA / WPA2-PSK de 5 GHz amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la concordança parcial SSID i BSSID</string>
     <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
     <string name="wifi_verbose_logging_summary">Incrementeu el nivell de registre de WLAN (mostra per RSS SSID al selector WLAN)</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
@@ -2126,6 +2143,8 @@ Assegureu-vos que els vostres certificats siguin vàlids."</string>
 Sembla que l’emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d’usuari</string>
+    <string name="wifi_whitelist_roaming">Pont SSID: lliurament ràpid</string>
+    <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSPA WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="wireless_change_to_ac_charging">S\'ha canviat a la càrrega per cable</string>
     <string name="wireless_charge_current">S\'està carregant</string>

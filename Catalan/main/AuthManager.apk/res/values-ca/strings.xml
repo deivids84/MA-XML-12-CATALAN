@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Restringir i esborrar el porta-retalls</string>
     <string name="HIPS_Action_Accept">Permet</string>
     <string name="HIPS_Action_Accept_Once">Permet-ho un cop</string>
+    <string name="HIPS_Action_Accept_This">Permet-ho una vegada</string>
     <string name="HIPS_Action_Reject">Denega</string>
     <string name="HIPS_Action_Reject_Once">Denega-ho un cop</string>
+    <string name="HIPS_Action_Reject_This">Restringeix una vegada</string>
     <string name="HIPS_Perm_AudioRecorder">Enregistrar àudio</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio i trucades telefòniques</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
@@ -89,6 +92,8 @@
     <string name="HIPS_Perm_process_nfc_Desc">accedir al maquinari de comunicacions de camp proper (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accedir a l\'aplicació Telèfon</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorar les trucades entrants</string>
+    <string name="HIPS_Perm_read_clipboard">Accedir als elements del porta-retalls</string>
+    <string name="HIPS_Perm_read_clipboard_Desc">Permetre que les aplicacions accedeixin als elements del porta-retalls</string>
     <string name="HIPS_Perm_read_notification_sms">SMS de servei</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">llegir SMS de servei</string>
     <string name="HIPS_Perm_recognition">Accediu a la informació de l\'activitat</string>
@@ -99,15 +104,28 @@
     <string name="HIPS_Perm_show_when_locked_Desc">mostrar-se a la pantalla de bloqueig</string>
     <string name="HIPS_Perm_use_sip">Serveis de vídeo</string>
     <string name="HIPS_Perm_use_sip_Desc">utilitzar SIP per a la transmissió de vídeo</string>
+    <string name="HIPS_Perm_write_clipboard">Desar els elements al porta-retalls</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Permet que les aplicacions desin elements al porta-retalls</string>
     <string name="HIPS_SecurityPrompt_Caption">Avís de seguretat</string>
     <string name="HIPS_SecurityPrompt_Reject">Denega (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restringir i esborrar el porta-retalls (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Denega-ho un cop (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_This">Restringeix-ho una vegada (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s està intentant de %2$s</string>
     <string name="Su_Package_Forbidden2">"no té accés d'administrador."</string>
     <string name="app_name">Permisos</string>
     <string name="background_location_access_reminder_notification_content">Aquesta aplicació sempre pot accedir a la vostra ubicació. Toqueu per canviar-ho.</string>
     <string name="background_location_access_reminder_notification_title">%s ha estat utilitzant la vostra ubicació</string>
+    <string name="clipboard_ai_allow_once">Es permet que %1$s accedeixi automàticament als elements del porta-retalls</string>
+    <string name="clipboard_data">Elements del porta-retalls</string>
+    <string name="clipboard_data_request">%1$s està intentant accedir als elements del porta-retalls</string>
+    <string name="clipboard_deny_notification_content">Aquest intent s\'ha bloquejat. Toqueu per gestionar els permisos.</string>
+    <string name="clipboard_deny_notification_operation">Gestiona</string>
+    <string name="clipboard_deny_notification_title">%1$s està intentant accedir als elements del porta-retalls</string>
+    <string name="clipboard_may_sensitive">Informació possiblement sensible</string>
+    <string name="clipboard_read_allow_once">%1$s ha accedit als elements del porta-retalls</string>
     <string name="default_permission_description">realitzar accions desconegudes</string>
+    <string name="go_perm_manager">Gestiona els permisos</string>
     <string name="grant_dialog_button_allow">Permet</string>
     <string name="grant_dialog_button_allow_always">Permet permanentment</string>
     <string name="grant_dialog_button_allow_background">Permet permanentment</string>
@@ -120,9 +138,12 @@
     <string name="location_settings">Configuració d\'ubicació</string>
     <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació d\'aquest dispositiu. L’accés a la ubicació es pot modificar des de la configuració d’ubicació.</string>
     <string name="never_ask_again">"No ho tornis a preguntar després de restringir-ho"</string>
+    <string name="no">No</string>
     <string name="ok">D\'acord</string>
     <string name="perm_action_allow">Permet</string>
     <string name="perm_action_deny">No ho permetis mai</string>
+    <string name="perm_manager_suggest_operation">Gestiona els permisos</string>
+    <string name="perm_manager_suggest_title">Voleu ajustar els permisos?</string>
     <string name="perm_modem_location">Accés a la vostra ubicació</string>
     <string name="perm_modem_location_desc">El vostre operador intenta accedir a la informació de la ubicació. Voleu compartir la informació de la ubicació amb l\'operador?</string>
     <string name="permdesc_camera">Fer fotos i enregistrar vídeos</string>
@@ -168,4 +189,5 @@
     <string name="virtual_reject_notice_title_contacts">Accés als contactes per %1$s</string>
     <string name="virtual_reject_notice_title_phonestate">Accés a la informació del dispositiu per %1$s</string>
     <string name="virtual_reject_notice_title_sms">Accés als missatges per %1$s</string>
+    <string name="yes">Sí</string>
 </resources>

@@ -34,7 +34,7 @@
     <string name="activating">S\'està activant…</string>
     <string name="add_short_cut">Afegeix</string>
     <string name="added_successfully">S\'ha afegit correctament</string>
-    <string name="antispam_sync">Configuració de \"No molestar\"</string>
+    <string name="antispam_sync">Configuració de \"No molestis\"</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Compte o contrasenya no vàlids</string>
     <string name="btn_return">Enrere</string>
@@ -331,7 +331,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_request_permission_content">Per poder sincronitzar esdeveniments, contactes, missatges, historial de trucades, fotos, vídeos i altres elements del calendari, Xiaomi Cloud necessita permisos per accedir al vostre calendari, contactes, comptes, estat de la SIM, historial de trucades, missatges, fotos i vídeos.</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud necessita permisos</string>
     <string name="micloud_request_sync_too_frequent">Hi ha massa sol·licituds. Espereu un minut o dos i torneu-ho a provar.</string>
-    <string name="micloud_setting_antispam_summary">Excepcions per No Molestar i números de telèfon bloquejats.</string>
+    <string name="micloud_setting_antispam_summary">Excepcions i números de telèfon bloquejats</string>
     <string name="micloud_setting_browser_summary">Marcadors, historial i pestanyes</string>
     <string name="micloud_setting_calendar_summary">Esdeveniments</string>
     <string name="micloud_setting_calllog_summary">Historial de trucades</string>

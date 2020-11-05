@@ -373,7 +373,6 @@
     <string name="from_pkg_name">Des de l\'aplicació:</string>
     <string name="ft_cfs_dialog_content">"No es poden entregar els fitxers mitjançant RCS. Voleu enviar un enllaç en un missatge de text?"</string>
     <string name="ft_cfs_dialog_title">Transferència de fitxers alternativa</string>
-    <string name="go_to">"Obre "</string>
     <string name="google_message_promo_content">Xiaomi recomana actualitzar Google a Missatges. Instal·leu-la ara per compartir fotografies d’alta qualitat, xatejar per Wi-Fi i molt més. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Més informació</a></font></string>
     <string name="google_message_promo_title">Actualitzeu l\'aplicació de missatgeria</string>
     <string name="group_already_kicked_hint">"No es poden enviar els missatges. No ets membre d'aquest xat de grup."</string>
@@ -453,12 +452,18 @@
     <string name="menu_unlock">Suprimeix dels preferits</string>
     <string name="menu_view_contact">Mostra el contacte</string>
     <string name="menu_view_group_info">Informació del grup</string>
+    <string name="message_cannot_send_air_mode">"No es poden enviar missatges.
+Desactiveu primer el mode d'avió."</string>
+    <string name="message_cannot_send_sim_unavailable">"No es poden enviar missatges.
+Comproveu la targeta SIM."</string>
     <string name="message_class_label">"Classe de missatge: "</string>
     <string name="message_contact">Contacte:</string>
     <string name="message_details_title">Detalls del missatge</string>
     <string name="message_download_failed_title">Missatge no baixat</string>
     <string name="message_expired">Caducat</string>
     <string name="message_failed">Ha fallat</string>
+    <string name="message_failed_and_cotanct_operator">Hi ha hagut un error. <font color="#1c86ee">Poseu-vos en contacte amb el vostre operador</font>.</string>
+    <string name="message_failed_and_feedback">Hi ha hagut un error. <font color="#1c86ee">Informeu del problema</font>.</string>
     <string name="message_failed_body">Toqueu per revisar el missatge i torneu-ho a provar.</string>
     <string name="message_number">Número de telèfon:</string>
     <string name="message_pending">S\'està enviant</string>
@@ -479,9 +484,20 @@
     <string name="messaging">Missatgeria</string>
     <string name="mi_message_title">Mi Message</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
+    <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
+    <string name="miuix_appcompat_cancel_description">Cancel · lar</string>
     <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol correctament</string>
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
+    <string name="miuix_appcompat_confirm_description">Confirmeu</string>
+    <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancel · lar</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>

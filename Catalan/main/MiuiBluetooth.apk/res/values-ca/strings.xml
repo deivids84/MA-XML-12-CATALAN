@@ -701,6 +701,8 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_status_no_internet">No hi ha internet</string>
     <string name="wifi_status_sign_in_required">Cal que inicieu la sessió</string>
     <string name="wifi_unmetered_label">No modificat</string>
+    <string name="wifi_unsaved_network_linking">Pont SSID: connexió automàtica</string>
+    <string name="wifi_unsaved_network_linking_summary">Activa els intents de connexió automàtica a un nou SSID WPA / WPA2-PSK de 5 GHz amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la concordança parcial SSID i BSSID</string>
     <string name="wifi_verbose_logging">Activa el registre de verbosa WLAN</string>
     <string name="wifi_verbose_logging_summary">Incrementeu el nivell de registre de WLAN (mostra per RSS SSID al selector WLAN)</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
@@ -712,6 +714,8 @@ Assegureu-vos que els vostres certificats siguin vàlids."</string>
 Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d’usuari</string>
+    <string name="wifi_whitelist_roaming">Pont SSID: lliurament ràpid</string>
+    <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSPA WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="zen_alarm_warning">"No sentireu la vostra següent alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la vostra següent alarma %1$s a menys que desactiveu aquesta opció abans"</string>

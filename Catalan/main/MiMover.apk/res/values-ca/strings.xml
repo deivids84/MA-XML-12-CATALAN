@@ -16,6 +16,7 @@
     <string name="am">am</string>
     <string name="antispam">Llista de bloqueig</string>
     <string name="app_name">Mi Mover</string>
+    <string name="appname_app_data_suffix">%1$s dades de l\'aplicació</string>
     <string name="audio">Àudio</string>
     <string name="audio_video_document">Àudio, vídeo i documents</string>
     <string name="back">Enrere</string>
@@ -43,7 +44,7 @@
     <string name="ble_waiting_verify_code">S\'està verificant el codi…</string>
     <string name="ble_waiting_verify_code_error">El codi que heu introduït no és correcte</string>
     <string name="btn_got_it">Entesos</string>
-    <string name="btn_install_complete">Instal·lat. Inicieu la transferència.</string>
+    <string name="btn_install_complete">Instal·lat</string>
     <string name="btn_mi_cloud_install_complete">"He instal·lat l’aplicació"</string>
     <string name="btn_restore_data_to_device_complete">Inicia la sessió</string>
     <string name="btn_sync_data_to_mi_cloud_complete">S\'ha sincronitzat correctament</string>
@@ -160,6 +161,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="error_title">"No s'ha pogut sincronitzar"</string>
     <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de molts intents d\'inici de sessió.</string>
     <string name="evening">PM</string>
+    <string name="fail_list_tips">"No s'han pogut transferir els elements següents al dispositiu nou."</string>
     <string name="failed_description">Fracassat</string>
     <string name="faq">FAQ</string>
     <string name="finished">Acabat</string>
@@ -176,7 +178,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="fmt_date_numeric_year_month">M/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">Aaaaaaaaa</string>
     <string name="fmt_date_short_year_month_day">MMM d, aaaa</string>
     <string name="fmt_date_time">TD</string>
@@ -219,7 +221,9 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="friday_shortest">F</string>
     <string name="get_known_tip">Torna-ho a provar</string>
     <string name="group_info_scanning">Calculant…</string>
-    <string name="guest_hint_connect_new_device">Toqueu el dispositiu nou per connectar-vos.</string>
+    <string name="guest_connect_dialog_ensure_text">Connecteu-vos</string>
+    <string name="guest_connect_dialog_fail_message">"No es pot connectar. Torna-ho a provar."</string>
+    <string name="guest_hint_connect_new_device">Seleccioneu un dispositiu nou</string>
     <string name="guest_install_app_hint_ensure">descarregar</string>
     <string name="guest_install_app_hint_summary">"La nova versió de Mi Mover no és compatible amb la instal·lada en aquest dispositiu. Baixeu i instal·leu la nova versió."</string>
     <string name="guest_install_app_hint_title">Descarregueu la nova versió de Mi Mover</string>
@@ -247,6 +251,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="host_dialog_known_button">Ho tinc</string>
     <string name="host_dialog_message">Assegureu-vos que la versió més recent de Mi Mover estigui instal·lada a l\'altre dispositiu; en cas contrari, dos dispositius no podrien connectar-se.</string>
     <string name="host_dialog_title">"No es pot connectar durant molt de temps"</string>
+    <string name="host_install_hint">"Mi Mover no està instal·lat?"</string>
     <string name="host_manual_connect_link_text">Si el dispositiu antic triga massa a trobar el punt d\'accés, proveu de connectar-vos manualment.</string>
     <string name="host_memory_insuff_cancel">Cancel · lar</string>
     <string name="host_memory_insuff_confirm">Torna a seleccionar</string>
@@ -321,6 +326,10 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="main_chooser_item_android_others">Importa des d\'un altre telèfon Android</string>
     <string name="main_chooser_item_ios">Importa des d\'un iPhone</string>
     <string name="main_chooser_title">Seleccioneu dispositiu antic</string>
+    <string name="main_receiver_summary">Toqueu per rebre articles</string>
+    <string name="main_receiver_title">Novetat</string>
+    <string name="main_sender_summary">Toca per enviar elements</string>
+    <string name="main_sender_title">Vell</string>
     <string name="manual_connection_content1">1. Toqueu \"Connecta al dispositiu nou manualment\" al dispositiu antic.</string>
     <string name="manual_connection_content2">2. Seleccioneu el següent punt d\'accés WLAN.</string>
     <string name="manual_connection_content3">3. Introduïu aquesta contrasenya al dispositiu antic per connectar-vos.</string>
@@ -523,6 +532,10 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="qq_app_send_fail">"No s'ha pogut enviar QQ"</string>
     <string name="qq_data_external">Dades de la targeta SD QQ</string>
     <string name="quit_now">Deixar</string>
+    <string name="receiver_finish_detail_button">Mostra l\'informe</string>
+    <string name="receiver_finish_detail_fail">"No s'ha pogut transferir"</string>
+    <string name="receiver_finish_detail_success">Elements transferits</string>
+    <string name="receiver_finish_title">"Tot està a punt!"</string>
     <string name="reconnect">Connecta de nou</string>
     <string name="recreate_soft_ap_tips">Toqueu el botó següent per tornar-ho a provar.</string>
     <string name="restore_data_to_device_content">"Els vostres elements es van sincronitzar amb Xiaomi Cloud.
@@ -550,15 +563,19 @@ Allibereu almenys %s."</string>
     <string name="scanner_send_dialog_btn">Ho tinc</string>
     <string name="scanner_send_dialog_message">"No desactiveu la WLAN ni canvieu les xarxes durant la transferència."</string>
     <string name="scanner_size_selected">Seleccionat: %s</string>
-    <string name="scanner_time_remained">Temps previst: %s</string>
+    <string name="scanner_time_remained">Temps de transferència estimat: %s</string>
     <string name="scanner_title_tip">Seleccioneu els elements que voleu transferir</string>
     <string name="scanner_wechat_overwrite_hit">A causa de les restriccions d’aplicacions de tercers, les històries de xat i altres dades d’aplicacions del nou dispositiu se substituiran per les de l’antiga un cop finalitzada la transferència.</string>
     <string name="search_action_mode_cancel">Cancel · lar</string>
     <string name="search_input_description">Cerca</string>
     <string name="search_mode_button_back_description">esquena</string>
-    <string name="searching_for_new_device">Cerqueu dispositius propers a…</string>
+    <string name="searching_for_new_device">S\'està cercant el nou dispositiu…</string>
     <string name="select_all">Seleccionar tot</string>
     <string name="select_all_description">Seleccionar tot</string>
+    <string name="select_android_summary">Huawei, OPPO, vivo i molt més</string>
+    <string name="select_android_title">Android</string>
+    <string name="select_apple_summary">iPhone</string>
+    <string name="select_apple_title">Apple</string>
     <string name="select_empty">Seleccioneu primer els elements que voleu importar</string>
     <string name="select_item">Selecciona elements</string>
     <string name="select_item_calendar">Calendari</string>
@@ -568,12 +585,17 @@ Allibereu almenys %s."</string>
     <string name="select_item_photos">Fotografies</string>
     <string name="select_item_remind">Recordatoris</string>
     <string name="select_item_summary_loading">Només un segon…</string>
+    <string name="select_mi_summary">Xiaomi i Redmi</string>
+    <string name="select_mi_title">Xiaomi</string>
+    <string name="select_old_device_title">Seleccioneu el model del dispositiu antic</string>
     <string name="selected">Seleccionat</string>
     <string name="send">Envia</string>
     <string name="send_sms_for_sync_notice">Pot ser necessari un missatge SMS sortint per activar aquest servei. El vostre operador us cobrarà per aquest missatge.</string>
     <string name="send_sms_for_sync_title">Advertència d’ús de dades</string>
     <string name="send_verification_code_fail">"No s'ha pogut enviar el codi de verificació"</string>
     <string name="send_verification_code_fail_tips">"Assegureu-vos que heu iniciat la sessió amb aquest compte al dispositiu Apple. En cas contrari, no podreu rebre el codi."</string>
+    <string name="sender_finish_bottom_tips">"Assegureu-vos que heu fet una còpia de seguretat de tots els elements importants abans d’esborrar les dades d’aquest dispositiu."</string>
+    <string name="sender_finish_title">S\'ha transferit correctament</string>
     <string name="settings_phone">Configuració del telèfon</string>
     <string name="settings_powerkeeper">Dades de comptador de passos</string>
     <string name="settings_sms">Configuració de missatgeria</string>
@@ -587,7 +609,7 @@ Allibereu almenys %s."</string>
     <string name="sim_unavailable">La targeta SIM no està disponible.</string>
     <string name="sip_phone">Telèfon SIP</string>
     <string name="skip_underline">Ometi aquest pas</string>
-    <string name="soft_ap_create_failed">"No es pot crear el punt hotspot"</string>
+    <string name="soft_ap_create_failed">"No s'ha pogut crear el punt d'accés Wi-Fi. Torneu-ho a provar."</string>
     <string name="soft_ap_creating">Creació d’hotspot…</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
@@ -688,18 +710,18 @@ Baixeu i instal·leu Mi Mover."</string>
 2. Baixeu i instal·leu Mi Mover.
 3. Toqueu el botó de sota un cop finalitzada la instal·lació."</string>
     <string name="trans_intro_title">PMF</string>
-    <string name="trans_main_activity_tutor_first">"Moveu les fotos, contactes, missatges, historial de trucades,
-àudio, vídeo, documents i aplicacions a un dispositiu nou"</string>
+    <string name="trans_main_activity_tutor_first">Transfereix els elements a un dispositiu nou</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_receive_time_remained">Rebut: %1$s | Restant: %2$s</string>
     <string name="trans_send_time_remained">Enviat: %1$s | Restant: %2$s</string>
-    <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
+    <string name="trans_show_qr_code_label">Obriu Mi Mover al dispositiu antic</string>
     <string name="trans_sync_transfer_data_list">Seleccioneu al dispositiu antic els elements que voleu transferir</string>
     <string name="trans_time_format_second">Menys d\'un minut</string>
     <string name="trans_time_spent">Temps: %s</string>
     <string name="transfer_bottom_tip">"No podreu utilitzar la WLAN ni el Bluetooth durant la transferència. No sortiu d'aquesta pàgina."</string>
     <string name="transfer_connect_fail_summary">Toqueu el botó següent per connectar-vos manualment</string>
     <string name="transfer_finish_bottom_tip">"Si ja no podreu utilitzar el vostre vell dispositiu, podeu esborrar totes les dades després d'haver confirmat que tots els elements importants s'han transferit correctament."</string>
+    <string name="transfer_finish_summary">S\'ha transferit %1$s (%2$s)</string>
     <string name="transfer_lose_connect_summary">Sembla que la connexió es va interrompre. Connecta de nou.</string>
     <string name="transfer_lose_connect_title">La connexió s\'ha interromput</string>
     <string name="transfer_multi_connect_summary">La vostra transferència s\'ha interromput per motius de seguretat. Podeu tocar \"Connecta de nou\" per continuar de totes maneres.</string>

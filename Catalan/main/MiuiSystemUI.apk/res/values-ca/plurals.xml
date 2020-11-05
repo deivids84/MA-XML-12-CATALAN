@@ -124,10 +124,6 @@
         <item quantity="other">%1$d commutadors es mostraran al panell de notificacions</item>
         <item quantity="one">%1$d commutador es mostrarà al panell de notificacions</item>
     </plurals>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d aplicacions recents</item>
-        <item quantity="one">1 aplicació recent</item>
-    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Serè</item>
         <item quantity="one">Assolellat</item>

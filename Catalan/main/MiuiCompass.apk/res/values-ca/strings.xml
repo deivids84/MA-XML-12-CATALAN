@@ -76,6 +76,7 @@
     <string name="location_enabled">Podeu desactivar els serveis d’ubicació en qualsevol moment a Configuració.</string>
     <string name="location_north">LN</string>
     <string name="location_not_enabled_summary">La brúixola necessita accedir a la vostra ubicació per mostrar les coordenades i l\'altitud.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">La brúixola ha d’accedir a la vostra ubicació per mostrar les coordenades actuals.</string>
     <string name="location_not_enabled_title">Serveis d\'ubicació</string>
     <string name="location_south">LS</string>
     <string name="location_west">LO</string>

@@ -136,7 +136,7 @@
     <string name="delete_selected_timer_item">Voleu suprimir la tasca del temporitzador seleccionada?</string>
     <string name="delete_timer_item_title">Suprimeix la tasca del temporitzador</string>
     <string name="delete_timezone_title">Suprimeix la zona horària</string>
-    <string name="deskclock_sleep_no_disturbance">Rellotge - Gestiona l’hora de dormir - Mode No molestar</string>
+    <string name="deskclock_sleep_no_disturbance">Rellotge - Gestiona l’hora d’anar a dormir - Mode No molestis</string>
     <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
     <string name="dialog_legal_off_day"><Data>\"Sembla que feu servir alarmes de vacances. Aquesta funció ha de connectar-se a Internet per funcionar amb normalitat. Abans d\'utilitzar aquesta funció, heu d\'acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;Accepteu?\"</Data></string>
     <string name="dialog_legal_off_day_desc">"No es pot connectar el rellotge a Internet per actualitzar la informació sobre els festius. Les alarmes de festius sonaran el dissabte i el diumenge."</string>
@@ -337,7 +337,7 @@
     <string name="shutdown_alarm_disable_summary">"L'alarma no sonarà amb el dispositiu apagat"</string>
     <string name="shutdown_alarm_enable_summary">"L'alarma sonarà amb el dispositiu apagat"</string>
     <string name="shutdown_alarm_title">Atura l\'alarma</string>
-    <string name="silent_alarm_summary">Silenciosa</string>
+    <string name="silent_alarm_summary">Silenci</string>
     <string name="skip_alarm_once_hint">Atura una vegada el %s</string>
     <string name="sleep_analysis">Estadístiques</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>

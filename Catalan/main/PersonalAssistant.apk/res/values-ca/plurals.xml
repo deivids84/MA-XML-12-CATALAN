@@ -56,6 +56,10 @@
         <item quantity="other">Comença d\'aquí a %1$d minuts</item>
         <item quantity="one">Comença d\'aquí a %1$d minut</item>
     </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">Comença d\'aquí a %1$d minuts</item>
+        <item quantity="one">Comença d\'aquí a %1$d min</item>
+    </plurals>
     <plurals name="app_express_content_title_1">
         <item quantity="other">%d paquets en camí</item>
         <item quantity="one">%d paquet està en camí</item>

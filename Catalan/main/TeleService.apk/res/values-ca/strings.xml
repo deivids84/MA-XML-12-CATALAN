@@ -1636,6 +1636,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
     <string name="preference_auto_ip_summary_disable">Desactivat</string>
     <string name="preference_category_ringtone">So i vibració</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="preference_countrycode_title">Codi de país</string>
     <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
     <string name="preference_dial_pad_touch_tone_off">Desactivat</string>
     <string name="preference_dial_pad_touch_tone_piano">Tecles de piano</string>

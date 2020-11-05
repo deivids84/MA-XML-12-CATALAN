@@ -31,11 +31,15 @@
     <string name="accessibility_battery_level">%d per cent de bateria.</string>
     <string name="accessibility_battery_level_charging">S\'està carregant la bateria, %d per cent.</string>
     <string name="actionbar_button_up_description">Enrere</string>
+    <string name="add_custom_image">Imatge personalitzada</string>
     <string name="add_from_album">Afegeix des de la Galeria</string>
     <string name="afternoon">Tarda</string>
     <string name="align_type">Alinea</string>
     <string name="always_style">Sempre</string>
+    <string name="always_style_symmary">Consumeix més energia</string>
     <string name="am">am</string>
+    <string name="ambient_display_screen_title">Sempre en pantalla</string>
+    <string name="ambient_display_screen_title_sp">Pantalla ambiental</string>
     <string name="aod_close_color_inversion">"Aquesta funció no es pot combinar amb la inversió del color. Desactiveu primer la inversió de color."</string>
     <string name="aod_component">Elements visualitzats</string>
     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
@@ -262,6 +266,8 @@ dd/MM"</string>
     <string name="notification_anim_star">Llum de les estrelles</string>
     <string name="notification_nothing">Cap</string>
     <string name="notification_screen_on">Il·lumina la pantalla</string>
+    <string name="off">Desactivat</string>
+    <string name="on">Activat</string>
     <string name="only_show_bg_description">"No mostris ni l'hora, ni la data ni altres elements"</string>
     <string name="only_show_bg_title">Mostra només el fons</string>
     <string name="open_aod_mode">Activa</string>
@@ -281,12 +287,15 @@ dd/MM"</string>
     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Període actiu: %s</string>
     <string name="scheduled_style">Planificat</string>
+    <string name="scheduled_style_summary">Estableix l’hora personalitzada</string>
     <string name="scope_des">Cada calidoscopi conté 5 patrons diferents que es mostraran al seu torn cada vegada que s\'il·lumini la pantalla.</string>
     <string name="scope_icon">Estil del calidoscopi</string>
     <string name="scope_time">Calidoscopi</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_notification_animation_style">Seleccioneu l\'efecte especial</string>
     <string name="select_notification_notify_style">Seleccioneu l\'efecte de les notificacions</string>
+    <string name="share">Comparteix</string>
+    <string name="share_to_community">Comparteix a Mi Community</string>
     <string name="show_battery">Mostra l\'estat de la bateria</string>
     <string name="show_battery_status">Mostra l\'estat de la bateria</string>
     <string name="show_lunar">Mostra el calendari xinès tradicional</string>
@@ -326,6 +335,7 @@ meravellosa està a punt de passar"</string>
     <string name="step_component_info_active_tip">Xiaomi Health proporciona el recompte de passes. Accepteu els termes i condicions de Xiaomi Health per continuar.</string>
     <string name="step_component_info_desc">El recompte de passes es convertirà en un trofeu quan el vostre objectiu sigui assolit. Xiaomi Health proporciona el recompte de passes.</string>
     <string name="step_component_info_tip">Xiaomi Health proporciona el recompte de passes. Instal·leu o actualitzeu Xiaomi Health i accepteu els seus termes i condicions per continuar.</string>
+    <string name="step_to_image_community">Trobeu més informació a Mi Community</string>
     <string name="summary">"Per reduir el consum d'energia, els elements no es mostraran quan el dispositiu estigui a les fosques durant molt de temps."</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
@@ -335,6 +345,7 @@ dd/M"</string>
     <string name="super_wallpaper_date_inter">"EEEE
 M / dd"</string>
     <string name="temporary_style">Durant 10 segons després de tocar-lo</string>
+    <string name="temporary_style_summary">Recomanat</string>
     <string name="text_color">Color del text</string>
     <string name="text_length_exceed_limit_alert">* El text que heu introduït és massa llarg</string>
     <string name="text_size">Mida del text</string>

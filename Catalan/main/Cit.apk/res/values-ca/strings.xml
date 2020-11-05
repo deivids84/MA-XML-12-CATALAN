@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ANT_set_title">establir formiga</string>
+    <string name="DSI_configuration_set">estableix el DSI</string>
+    <string name="DSI_setting">DSI</string>
+    <string name="DSI_value_get">obtenir DSI</string>
     <string name="SDCard">Targeta SD</string>
     <string name="SD_INTERNAL_SDCard_mounted">Detecta la targeta SD interna</string>
     <string name="SD_INTERNAL_SDCard_unmounted">La targeta SD interna no està disponible</string>
@@ -38,9 +42,11 @@
     <string name="action_nothing">esperant el resultat de la prova</string>
     <string name="add">Afegeix</string>
     <string name="allow_gpu_maxfreq_summary">El mode experimental de sobrefreq de la GPU podria introduir problemes de consum o problemes encara més greus. Tanmateix, es restauraran un cop desactivat aquest mode. Vols activar el mode maxfreq de la GPU?</string>
+    <string name="ant_setting">formiga</string>
     <string name="audio_spk_cal_wait">Calibratge...</string>
     <string name="audio_spk_def">Calibreu dels altaveus</string>
     <string name="back_mic_check_record_tip">Enregistrament, digueu alguna cosa al MIC a la part posterior del telèfon</string>
+    <string name="band_config_setting">BANDA</string>
     <string name="battery_dual_connector">Segon connector de la bateria</string>
     <string name="battery_id">Identificador de la bateria:</string>
     <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
@@ -81,10 +87,12 @@ Final de la prova del carregador, endolleu el carregador"</string>
     <string name="cit_OTG_waiting_in_charge">Connecteu el dispositiu USB OTG ara</string>
     <string name="cit_OTG_waiting_out">Desconnecteu el dispositiu USB OTG ara</string>
     <string name="cit_Reserse_charge_check_title">Prova de càrrega inversa</string>
+    <string name="cit_SAR_TEST_TOOL">INICI DE LA PROVA SAR</string>
     <string name="cit_abnormal_reboot_summary">Espereu... S\'està llegint les dades d\'estabilitat del dispositiu.</string>
     <string name="cit_abnormal_reboot_title">Dades d\'estabilitat del dispositiu</string>
     <string name="cit_ac_charger_in">Càrrega per AC</string>
     <string name="cit_ac_charger_out">Carregador CA desconnectat</string>
+    <string name="cit_accdata_second_sensor_check_title">El Segon Acceleròmetre</string>
     <string name="cit_accdata_sensor_check_summary">Els valors per les coordenades X, Y, Z han de figurar a continuació</string>
     <string name="cit_accdata_sensor_check_title">Acceleròmetre</string>
     <string name="cit_accelermeter_sensor_check_summary">"Moveu ràpidament el dispositiu en una direcció. Tot seguit es mostren els valors de les coordenades X, Y, Z. (si el telèfon està en moviment: X representa esquerra/dreta, Y representa davant i darrera, Z representa amunt i avall). 
@@ -104,6 +112,7 @@ Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</s
     <string name="cit_audio_cali_file_existed">El fitxer de música no existeix, no es pot fer el calibratge!</string>
     <string name="cit_audio_cali_playing">Verifica les dades de calibratge</string>
     <string name="cit_audio_cali_summary">Calibra l\'altaveu PA</string>
+    <string name="cit_audio_cali_test_summary">Abans de calibrar l’altaveu, assegureu-vos que l’altaveu no estigui reproduint</string>
     <string name="cit_audio_cali_title">Prova de calibratge de l\'altaveu PA</string>
     <string name="cit_audio_calibrating">Calibratge en curs...</string>
     <string name="cit_audio_get_temp_fail">Ha fallat la obtenció de dades temporals</string>
@@ -290,6 +299,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
     <string name="cit_gps_satellite_count">Numero de satèl·lits: %d</string>
     <string name="cit_gps_satellite_prn">PRN: %s</string>
     <string name="cit_gps_satellite_snr">SNR: %s</string>
+    <string name="cit_gyrodata_second_sensor_check_title">El Segon Giroscopi</string>
     <string name="cit_gyrodata_sensor_check_summary">Els valors per les coordenades X, Y, Z han de figurar a continuació</string>
     <string name="cit_gyrodata_sensor_check_title">Giroscopi</string>
     <string name="cit_gyroscope_sensor_check_summary">Els valors per a les coordenades X, Y, Z, s\'han d\'introduir a continuació</string>
@@ -403,7 +413,9 @@ No apagueu la pantalla durant la prova"</string>
     <string name="cit_rgb_check_blue_light">RGB blau</string>
     <string name="cit_rgb_check_green_light">RGB verd</string>
     <string name="cit_rgb_check_red_light">RGB vermell</string>
+    <string name="cit_sar_get_status_title">OBTÉ EL VALOR DSI</string>
     <string name="cit_sar_sensor_check_summary">Els valors per als canals del sensor sar han d\'aparèixer a continuació, cobriu el botó del telèfon, si les dades han canviat, funciona correctament, no realitzeu el calibratge amb el cable USB connectat!</string>
+    <string name="cit_sar_setting_config_title">CONFIGURACIÓ DE LA PROVA SAR</string>
     <string name="cit_sd_fail">S\'ha produït un error.</string>
     <string name="cit_sd_mount">Munta la targeta SD</string>
     <string name="cit_sd_mount_sucess">S\'ha muntat la targeta SD</string>
@@ -651,6 +663,7 @@ En la segona línia es mostra el nom i el número de versió de MBN predetermina
     <string name="cit_tool_prx_drx_start_test">Inicia la prova</string>
     <string name="cit_tool_prx_drx_stop_test">Atura la prova</string>
     <string name="cit_tool_rf_ant">Eines d\'RF/antena</string>
+    <string name="cit_tool_sar_test_tool_title">EINA DE PROVA SAR</string>
     <string name="cit_tool_select_all">Selecciona-ho tot</string>
     <string name="cit_tool_select_none">No seleccionis res</string>
     <string name="cit_tool_select_opposite">Selecciona l\'oposat</string>
@@ -781,6 +794,7 @@ la posició especificada"</string>
     <string name="fpc_app_name">Eina de prova dels sensors</string>
     <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
     <string name="front_mic_check_record_tip">Enregistrament, digueu alguna cosa al MIC a la part frontal del telèfon</string>
+    <string name="get_DSI_result">Resultat DSI</string>
     <string name="get_sensor_info">OBTENIU INFORMACIÓ DEL SENSOR</string>
     <string name="get_template_finger">Extreu la imatge: Obté la plantilla del dit</string>
     <string name="gpu_maxfreq_title">Mode de sobrefrequencia de la GPU per experimentar</string>
@@ -867,6 +881,7 @@ Feu clic al botó push de la càmera per veure si entra la càmera"</string>
     <string name="push_camera">Càmera Push</string>
     <string name="radio_boy">Veu d\'home</string>
     <string name="radio_chinese">Xinès</string>
+    <string name="radio_configuration_set">configurar la configuració de ràdio</string>
     <string name="radio_english">Anglès</string>
     <string name="radio_gril">Veu de dona</string>
     <string name="radio_info_asdiv_switch_label">Estat de l\'ASDiv:</string>
@@ -900,6 +915,7 @@ Feu clic al botó push de la càmera per veure si entra la càmera"</string>
     <string name="radio_info_unknown">No indicat</string>
     <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
     <string name="radio_no">No es pot escoltar</string>
+    <string name="rat_config_setting">RAT</string>
     <string name="reboot_times">Vegades reiniciat:</string>
     <string name="receiver_off">Receptor desactivat</string>
     <string name="receiver_on">Receptor activat</string>
@@ -943,6 +959,8 @@ Després que el valor de CS0 sigui inferior a 500 i el valor de CS2 superior a 5
 Mantingueu l’altra mà a prop de la part inferior del telèfon
 Mireu el valor de CS0
 El valor de CS0 oscil·la entre 3000 i 30000, es destaca el botó de passada"</string>
+    <string name="sar_sensor_set">configurar el sensor sar</string>
+    <string name="sar_sensor_setting">estat del sensor sar</string>
     <string name="sar_sensor_test_description">Recopila dades i calibra el sensor Sar</string>
     <string name="sar_sensor_test_err_angle">El telèfon no està situat a l\'angle correcte</string>
     <string name="sar_sensor_test_next_step">El deflector de control a prop del telèfon mòbil</string>
@@ -1018,6 +1036,7 @@ Feu clic al botó adequat segons el número que escolteu"</string>
     <string name="tp_rawdate_summery">Prova TP Rawdata(ITO), No toqueu la pantalla durant la prova</string>
     <string name="tp_version">Versió del TP:</string>
     <string name="transmitter_receiver_confirm">Heu sentit el so?</string>
+    <string name="tx_max_power_result">POTÈNCIA TX</string>
     <string name="unlock">Desbloca</string>
     <string name="unplug_headset">Traieu l\'auricular</string>
     <string name="verified_boot_lock">Blocat</string>

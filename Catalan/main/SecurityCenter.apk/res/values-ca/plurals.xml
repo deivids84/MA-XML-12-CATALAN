@@ -184,6 +184,28 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"No s'ha pogut rebre una prova gratuïta de %ddies"</item>
+        <item quantity="one">"No s'ha pogut rebre una prova gratuïta de %ddies"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Hem rebut una prova gratuïta de %ddies amb èxit</item>
+        <item quantity="one">Hem rebut una prova gratuïta de %ddies amb èxit</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
+        <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Les vostres subscripcions han caducat.
+Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
+        <item quantity="one">"Les vostres subscripcions han caducat.
+Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
+        <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d caràcters més</item>
         <item quantity="one">    +%1$d caràcter més</item>
@@ -311,6 +333,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d aplicacions, inclosa %1$s, estan drenant la bateria</item>
         <item quantity="one">%2$d aplicació, inclosa %1$s, està drenant la bateria</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Suprimiu %d paquets d\'instal·lació</item>
+        <item quantity="one">Suprimiu %d paquets d\'instal·lació</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dies des de l\'última comprovació</item>

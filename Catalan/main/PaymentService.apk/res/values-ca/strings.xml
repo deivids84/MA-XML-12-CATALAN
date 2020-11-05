@@ -249,7 +249,7 @@ Comproveu la vostra data local i torneu a provar."</string>
     <string name="mibi_menu_shotcut">Posa-ho a la pantalla d\'inici</string>
     <string name="mibi_mili_center">Crèdit Mi</string>
     <string name="mibi_milicenter_title">Crèdit Mi</string>
-    <string name="mibi_mipay_error">El pagament Mi ha fallat</string>
+    <string name="mibi_mipay_error">ha fallat el pagament de Airstar</string>
     <string name="mibi_more_operation">Més operacions</string>
     <string name="mibi_msg_denomination_type">Crèdit Mi</string>
     <string name="mibi_msg_error">La recàrrega ha fallat</string>
@@ -298,6 +298,7 @@ Comproveu la vostra data local i torneu a provar."</string>
     <string name="mibi_paytool_app_not_installed">"No heu instal·lat %1$s. Voleu baixar-lo i instal·lar-lo ara?"</string>
     <string name="mibi_paytool_error_install">No ha pogut instal·lar el connector de seguretat mòbil %1$s</string>
     <string name="mibi_paytool_error_msp">%1$s ha fallat</string>
+    <string name="mibi_paytool_mipay">Airstar de pagament</string>
     <string name="mibi_paytool_msp_not_installed">No teniu instal·lat el connector de seguretat mòbil %1$s, voleu instal·lar-lo ara?</string>
     <string name="mibi_paytool_paypal">PayPal</string>
     <string name="mibi_paytool_wechat_return_cancel">Cancel·la la devolució de WeChat</string>

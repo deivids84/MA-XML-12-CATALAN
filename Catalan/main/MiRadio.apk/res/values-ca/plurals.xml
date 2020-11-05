@@ -229,8 +229,8 @@
         <item quantity="one">Aquí hi ha %1$d actualització:</item>
     </plurals>
     <plurals name="toast_channel_searched">
-        <item quantity="other">%1$d estacions escanejades</item>
-        <item quantity="one">%1$d estació escanejada</item>
+        <item quantity="other">%1$d emissores detectades</item>
+        <item quantity="one">%1$d emissora detectada</item>
     </plurals>
     <plurals name="total_chapter_count">
         <item quantity="other">%1$d episodis</item>

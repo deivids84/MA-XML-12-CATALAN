@@ -135,6 +135,7 @@
     <string name="network_unavailable_tip">Connecteu-vos a la xarxa i torneu-ho a provar.</string>
     <string name="new_record_name">Gravació nova</string>
     <string name="no_file">No hi ha gravacions</string>
+    <string name="no_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="not_set">Sense definir</string>
     <string name="notification_message_all_paused">S\'està esperant el Wi-Fi.</string>
     <string name="notification_playback">S\'està reproduint&#8230;</string>

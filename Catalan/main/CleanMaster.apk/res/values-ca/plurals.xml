@@ -126,6 +126,10 @@
         <item quantity="other">%1$d minuts</item>
         <item quantity="one">%1$d minut</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Suprimiu %d paquets d\'instal·lació</item>
+        <item quantity="one">Suprimiu %d paquets d\'instal·lació</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Baixat per %1$d persones</item>
         <item quantity="one">Baixat per %1$d persona</item>
