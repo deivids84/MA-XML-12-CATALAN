@@ -334,7 +334,6 @@
     <string name="v7_preference_off">DESACTIVA</string>
     <string name="v7_preference_on">Activat</string>
     <string name="volume_dialog_accessibility_dismissed_message">Controls de volum ocults</string>
-    <string name="volume_dialog_accessibility_shown_message">%s mostren %s controls de volum. Llisca cap amunt per ignorar.</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
