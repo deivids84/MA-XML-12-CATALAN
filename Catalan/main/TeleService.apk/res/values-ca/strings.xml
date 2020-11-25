@@ -994,6 +994,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_icon_type1">Tipus Nr Icon :</string>
     <string name="fiveg_infos">Informació 5G</string>
     <string name="fiveg_network_config_type1">Tipus de configuració de la xarxa :</string>
+    <string name="fiveg_network_mode_title">Seleccioneu el mode de xarxa 5G</string>
     <string name="fiveg_network_title">Xarxes 5G</string>
     <string name="fiveg_plmn_info_list1">Llista d\'informació de PLMN :</string>
     <string name="fiveg_restrict_dcnr1">Restringeix DCNR :</string>
@@ -1001,7 +1002,10 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenció</string>
     <string name="fiveg_sa_switch_summary">Permet la connexió a xarxes 5G en mode autònom</string>
     <string name="fiveg_sa_switch_title">Mode SA</string>
+    <string name="fiveg_sa_switch_title_slot0">Mode SIM 1 SA</string>
+    <string name="fiveg_sa_switch_title_slot1">Mode SIM 2 SA</string>
     <string name="fiveg_sa_switch_warning_toast">Reinicieu el telèfon perquè tingui efecte.</string>
+    <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>
     <string name="fiveg_switch_status1">Estat del commutador 5G:</string>
     <string name="fiveg_switch_title">Utilitzeu xarxes 5G</string>
@@ -1070,7 +1074,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="incall_error_out_of_service_kr">Només disponible trucada d\'emergència.</string>
     <string name="incall_error_out_of_service_wfc">La xarxa mòbil no està disponible. Connecteu amb una xarxa sense fil per fer una trucada.</string>
     <string name="incall_error_outgoing_call_failed">"No s'ha pogut fer la trucada"</string>
-    <string name="incall_error_power_off">Desactiveu el mode avió per fer una trucada.</string>
+    <string name="incall_error_power_off">Desactiveu el mode d\'avió per fer una trucada.</string>
     <string name="incall_error_power_off_wfc">Sortiu del mode avió o connecteu a una xarxa sense fil per fer una trucada.</string>
     <string name="incall_error_promote_wfc">Activeu les trucades Wi-Fi per fer una trucada.</string>
     <string name="incall_error_supp_service_conference">No es poden fer trucades multiconferència.</string>

@@ -40,6 +40,18 @@
         <item quantity="other">Voleu suprimir %1$d contactes?</item>
         <item quantity="one">Voleu suprimir %1$d contacte?</item>
     </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" dies"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Suprimeix %1$d contactes</item>
         <item quantity="one">Suprimeix %1$d contacte</item>
@@ -47,6 +59,14 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Ha sonat durant %1$d tons</item>
         <item quantity="one">Ha sonat durant %1$d to</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d números de telèfon</item>
+        <item quantity="one">%d número de telèfon</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Voleu suprimir %d números de telèfon?</item>
+        <item quantity="one">Voleu suprimir %d número de telèfon?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Hi ha %d contactes o fotos que no s'han sincronitzat"</item>
@@ -175,6 +195,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">S\'han trobat %d</item>
         <item quantity="one">S\'ha trobat %d</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s resultats</item>
+        <item quantity="one">%s resultat</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"No seleccioneu més de %1$d, no podeu seleccionar-ho tot"</item>

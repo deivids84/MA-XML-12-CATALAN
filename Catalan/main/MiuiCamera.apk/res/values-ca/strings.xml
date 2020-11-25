@@ -140,6 +140,12 @@
     <string name="accessibility_portrait_depth_effect_panel_on">Retratat</string>
     <string name="accessibility_preview_button">Vista prèvia</string>
     <string name="accessibility_preview_effect_button">Efecte de previsualització</string>
+    <string name="accessibility_preview_expand">Apropar</string>
+    <string name="accessibility_preview_front">Previsualització de la càmera frontal</string>
+    <string name="accessibility_preview_select_tip">Posició %1$d</string>
+    <string name="accessibility_preview_selected">Seleccionat</string>
+    <string name="accessibility_preview_shrink">Disminuir el zoom</string>
+    <string name="accessibility_preview_zoom_tip">Previsualització del zoom %1$.1fX</string>
     <string name="accessibility_pro_video_simple_mode">Mode Lite</string>
     <string name="accessibility_protrait">Vertical</string>
     <string name="accessibility_pull_down_to_open_camera">Llisqueu cap avall per obrir la càmera</string>
@@ -520,6 +526,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="config_name_super_resolution">Resolució súper</string>
     <string name="config_name_tilt">Canvi d\'inclinació</string>
     <string name="config_name_timer">Temporitzador</string>
+    <string name="confirm_fastmotion_reset_manually_parameter_message">Voleu restablir els paràmetres ara?</string>
     <string name="confirm_install_scanner_message">"L'escàner us permet escanejar codis QR, codis de barres i molt més. No cal connectar-se a Internet per instal·lar-lo."</string>
     <string name="confirm_install_scanner_title">Instal·la l\'escàner</string>
     <string name="confirm_location_alert">Recorda la ubicació de les fotos</string>
@@ -1034,7 +1041,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_auto_capture_when_stable_title">Capturar objectes seleccionats quan estan fixos</string>
     <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
     <string name="pref_camera_auto_hibernation">Dispara amb la pantalla apagada</string>
-    <string name="pref_camera_auto_hibernation_description">Apagueu la pantalla després de %d minuts de tret per estalviar energia</string>
+    <string name="pref_camera_auto_hibernation_description">Mentre feu la foto, apagueu la pantalla després de %d minuts d’inactivitat per estalviar energia</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada al centre</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Mitjana del fotograma</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Mesura puntual</string>
@@ -1275,6 +1282,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_customization_title">Personalitza</string>
     <string name="pref_document_mode">Documents</string>
     <string name="pref_dual_camera_video">Vídeo dual</string>
+    <string name="pref_e_p_k">blau</string>
     <string name="pref_face_beauty_title">Embellidor</string>
     <string name="pref_fingerprint_capture_title">Obturador d\'empremtes dactilars</string>
     <string name="pref_front_denoise_summary">Reduir els sorolls generats darrere de la càmera frontal</string>
@@ -1290,6 +1298,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
     <string name="pref_hdr10_video_mode_description">Optimitza els colors i el contrast de vídeos de 4K i 8K de forma automàtica. Els vídeos optimitzats només es poden reproduir en dispositius compatibles amb HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
+    <string name="pref_hdr10plus_video_mode_description">Optimitzeu els colors i ajusteu el contrast per als vídeos 4K i 8K. Aquesta funció només funciona en dispositius compatibles amb HDR10 +.</string>
     <string name="pref_lens_dirty_detect_summary">Rebreu una notificació quan la lent està bruta</string>
     <string name="pref_lens_dirty_detect_title">Notifica sobre les lents brutes</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
@@ -1328,7 +1337,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_video_focusmode_entry_auto">Toqueu</string>
     <string name="pref_video_focusmode_entry_continuous">AF-C</string>
     <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
-    <string name="pref_video_hfr_title">Vídeo HFR</string>
+    <string name="pref_video_hfr_title">Velocitat de fotogrames</string>
+    <string name="pref_video_quality_hfr_title">Velocitat de fotogrames &amp; qualitat d\'imatge</string>
     <string name="pref_video_quality_sub_120fps">120 fps</string>
     <string name="pref_video_quality_sub_24fps">24 fps</string>
     <string name="pref_video_quality_sub_30fps">30 fps</string>
@@ -1441,6 +1451,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="timbre_normal">Original</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">"No es pot fer servir aquesta mida de vídeo en un enregistrament a càmera ràpida"</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timer_burst">Esclat temporal</string>
     <string name="timer_burst_manu_param_interval">Interval sense exposició</string>
     <string name="timer_burst_param_interval">Interval</string>

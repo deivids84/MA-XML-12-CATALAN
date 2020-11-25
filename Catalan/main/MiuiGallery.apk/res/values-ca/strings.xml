@@ -1936,6 +1936,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="unrecognized_model">Dispositiu desconegut</string>
     <string name="unsupport_raw">"%s no funciona amb imatges RAW"</string>
     <string name="unsupport_raw_and_video">"%s no funciona amb vídeos i imatges RAW"</string>
+    <string name="unsupport_type">"Aquest tipus de fitxer no s'admet"</string>
     <string name="unsupport_video">"%s no funciona amb vídeos"</string>
     <string name="unsupported_media_downloading_tip_common">"La visualització d’imatges originals en aquest format no és compatible amb aquesta versió d’Android. Voleu baixar-ho de totes maneres?"</string>
     <string name="unsupported_media_downloading_tip_format">"La visualització d’imatges %s originals no és compatible amb aquesta versió d’Android. Voleu baixar-ho de totes maneres?"</string>

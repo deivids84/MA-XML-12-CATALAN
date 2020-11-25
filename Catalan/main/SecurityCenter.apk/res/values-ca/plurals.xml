@@ -128,10 +128,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">fa %d dies</item>
         <item quantity="one">fa %d dia</item>
     </plurals>
-    <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">&lt;Data&gt;Tancar &lt;font color=#0099ff&gt;%d&lt;/font&gt; aplicacions per accelerar el dispositiu?&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Tancar l\'aplicació &lt;font color=#0099ff&gt;%d&lt;/font&gt; per accelerar el dispositiu?&lt;/Data&gt;</item>
-    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>
         <item quantity="one">Cerca entre %d aplicació</item>
@@ -266,6 +262,18 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
         <item quantity="other">Sense seguiment d\'us de dades a %d aplicacions</item>
         <item quantity="one">Sense seguiment d\'us de dades a %d aplicació</item>
     </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Voleu eliminar %d imatges permanentment?</item>
+        <item quantity="one">Voleu eliminar %d imatge permanentment?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d imatges se suprimiran permanentment després de sortir d\'aquesta pàgina. Voleu suprimir-ho de totes maneres?</item>
+        <item quantity="one">%d imatge se suprimirà definitivament després de sortir d\'aquesta pàgina. Voleu suprimir-ho de totes maneres?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Esborra %d imatges</item>
+        <item quantity="one">Esborra %d imatge</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
@@ -337,6 +345,14 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Suprimiu %d paquets d\'instal·lació</item>
         <item quantity="one">Suprimiu %d paquets d\'instal·lació</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problemes d\'ús de la bateria</item>
+        <item quantity="one">%d problema d\'ús de la bateria</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimitzeu %d elements per estalviar bateria</item>
+        <item quantity="one">Optimitzeu %d elements per estalviar bateria</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dies des de l\'última comprovació</item>
@@ -446,13 +462,53 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
         <item quantity="other">Baixat per %1$d persones</item>
         <item quantity="one">Baixat per %1$d persona</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">vegades</item>
+        <item quantity="one">vegada</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problemes d\'ús de la bateria</item>
+        <item quantity="one">%d problema d\'ús de la bateria</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dies "</item>
         <item quantity="one">"%d dia "</item>
     </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" h"</item>
+        <item quantity="one">" h"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Carregueu completament el dispositiu almenys %2$d vegades per obtenir estadístiques precises</item>
+        <item quantity="one">Carregueu completament el dispositiu almenys %2$d vegades per obtenir estadístiques precises</item>
+    </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d h "</item>
         <item quantity="one">"%d h "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Solucioneu %d problemes d’ús de la bateria</item>
+        <item quantity="one">Solucioneu el problema d\'ús de la bateria de %d</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Podeu solucionar %d problemes d’ús de la bateria</item>
+        <item quantity="one">Pot corregir %d problema d\'ús de la bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" Es poden optimitzar %d elements"</item>
+        <item quantity="one">" Es pot optimitzar %d element"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimitzeu %d elements per estalviar bateria</item>
+        <item quantity="one">Optimitzeu %d elements per estalviar bateria</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Podeu optimitzar %d elements per estalviar bateria</item>
+        <item quantity="one">Podeu optimitzar %d elements per estalviar bateria</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Afegeix %d minuts</item>
@@ -482,6 +538,18 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
         <item quantity="other">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
         <item quantity="one">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
     </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplicacions s\'inicien automàticament amb freqüència</item>
+        <item quantity="one">%d aplicacions s\'inicien automàticament amb freqüència</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplicacions esgoten la bateria</item>
+        <item quantity="one">%d aplicacions drenen la bateria</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s vegades</item>
+        <item quantity="one">%s temps</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d icones d\'aplicacions ocultes</item>
         <item quantity="one">%d icona d\'aplicació oculta</item>
@@ -497,6 +565,50 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s vegades</item>
         <item quantity="one">%s temps</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">%d aplicació</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">S\'han concedit %d permisos d\'alt risc</item>
+        <item quantity="one">%d permís d\'alt risc concedit</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">S\'han trobat %d aplicacions de risc</item>
+        <item quantity="one">S\'ha trobat %d aplicació arriscada</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">S\'han detectat %d riscos de divulgar informació d\'ubicació</item>
+        <item quantity="one">S\'ha detectat %d risc de divulgar informació d\'ubicació</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d riscos detectats</item>
+        <item quantity="one">%d risc detectat</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">S\'han trobat %d possibles riscos</item>
+        <item quantity="one">S\'ha trobat %d risc possible</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotos poden contenir la informació privada o confidencial</item>
+        <item quantity="one">%d fotos poden contenir la informació privada o confidencial</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d funcions que protegeixen la vostra privadesa estan desactivades</item>
+        <item quantity="one">%d funció %d que protegeix la vostra privadesa està desactivada</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">S\'han concedit %d permisos delicats</item>
+        <item quantity="one">S\'ha concedit %d permís sensible</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Desinstal·la %d aplicacions</item>
+        <item quantity="one">Desinstal·la l\'aplicació %d</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d articles necessiten protecció addicional</item>
+        <item quantity="one">%d article necessita protecció addicional</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemes de bateria</item>

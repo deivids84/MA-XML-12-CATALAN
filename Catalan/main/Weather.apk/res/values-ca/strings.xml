@@ -88,12 +88,10 @@
     <string name="button_confirm">D\'acord</string>
     <string name="button_exit">"No hi estic d'acord"</string>
     <string name="button_settings_cancel">Cancel·la</string>
-    <string name="button_settings_confirm">Revoca</string>
-    <string name="button_settings_confirm_to_revoke_msg">"No podreu utilitzar El temps després d’haver revocat l’autorització."</string>
-    <string name="button_settings_confirm_to_revoke_title">Voleu revocar l\'autorització?</string>
+    <string name="button_settings_confirm">Retirar-se</string>
+    <string name="button_settings_confirm_to_revoke_msg">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la Política de privadesa de Weather. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. Weather necessita recopilar la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la seva Política de privadesa es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida.</string>
     <string name="card_vote_item_vs">CONTRA</string>
     <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
-    <string name="china_version_first_start_network_msg">"Per poder utilitzar el clima, heu d’acceptar el %1$s i la %2$s de Xiaomi. El temps necessita accedir a la vostra ubicació i connectar-se a Internet per funcionar amb normalitat. Hi esteu d'acord?"</string>
     <string name="city_exceeded_warning">"No es poden afegir més ciutats. Per afegir-ne una, elimineu primer una ciutat que ja es troba a la llista."</string>
     <string name="clear_net_mock_success">S\'ha esborrat la xarxa simulada correctament</string>
     <string name="common_google_play_services_enable_button">Habilita</string>
@@ -121,6 +119,7 @@
     <string name="content_desc_activity_main_more_settings">Més configuracions</string>
     <string name="content_desc_back_button">Enrere</string>
     <string name="content_desc_city_manage_del">Suprimeix</string>
+    <string name="content_desc_close_button">Tanca</string>
     <string name="copy">Copia</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
     <string name="daily_forcast_whirl_wind">Tornado</string>
@@ -130,15 +129,17 @@
     <string name="daily_forecast_add_city_title">Seguiu el temps a %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="data_provided_by">Dades subministrades parcialment per</string>
+    <string name="dialog_internet_error_title">Hi ha hagut un error</string>
     <string name="dialog_msg_score_midrop">Com et sents del clima?</string>
     <string name="dialog_msg_score_not_good">També ens podríeu proporcionar els vostres comentaris?</string>
     <string name="dialog_msg_score_perfect">Bonic! Valoreu també el temps a Play Store?</string>
     <string name="dialog_title_score">Valora el temps</string>
+    <string name="download_rsc_tips">S\'està carregant l\'àudio de fons…</string>
+    <string name="dynamic_weather">El temps</string>
     <string name="edit_city">Gestiona les ciutats</string>
     <string name="empty_view_net_loading">S\'està actualitzant…</string>
     <string name="empty_view_net_unavailable">"No s'ha pogut connectar a la xarxa"</string>
     <string name="empty_view_refresh">Torna-ho a provar</string>
-    <string name="eu_region_version_first_start_network_msg">"En utilitzar aquest producte, accepteu que aquest producte es connectarà la xarxa, recollirà, processarà i usarà informació personal, incloses les coordenades de les ciutats que cerqueu i altres tipus de dades especificades a la nostra Política de privadesa. Consulteu la nostra política de privadesa per obtenir la informació sobre com recopilem i processem la informació. Si toqueu \"D'acord\", accepteu el %1$s i la %2$s de Xiaomi."</string>
     <string name="exo_controls_fastforward_description">Avanç ràpid</string>
     <string name="exo_controls_fullscreen_description">Mode de pantalla completa</string>
     <string name="exo_controls_next_description">Pista següent</string>
@@ -185,7 +186,6 @@
     <string name="feedback_sandy">Sorra</string>
     <string name="feedback_sunny">Serè</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
-    <string name="first_start_network_title">Connexió a Internet i accés a la ubicació</string>
     <string name="global_aqi">IQA: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ara</string>
     <string name="hourly_forecast_date">d/M</string>
@@ -222,17 +222,16 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
     <string name="more_details">Més detalls</string>
-    <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
     <string name="night_not_disturb_settings_summary">Bloqueja les alertes entre les 23:00 i les 7:00</string>
     <string name="night_not_disturb_settings_title">"No molestis per la nit"</string>
     <string name="no_data">Sense dades</string>
-    <string name="no_network_btn">Torna-ho a provar</string>
+    <string name="no_internet_message">El vostre dispositiu ha de connectar-se a la xarxa perquè pugueu retirar el consentiment. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
+    <string name="non_wifi_environment">Connecteu-vos a la Wi-Fi per baixar efectes d\'àudio</string>
     <string name="not_set">Sense especificar</string>
     <string name="notif_aqi_title">L\'IQA és avui de %1$d en %2$s</string>
     <string name="notif_weather_title">Avui %1$s en %2$s</string>
-    <string name="open_browser">Obre al navegador</string>
     <string name="other_settings">Altres configuracions</string>
     <string name="particulate_matter_exceeded">Alta</string>
     <string name="particulate_matter_serious_exceeded">Massa alta</string>
@@ -245,9 +244,11 @@
     <string name="permission_storage_introduce">Per accedir a elements del dispositiu i desar fitxers</string>
     <string name="permission_user_protocol">Acord d\'usuari (obligatori)</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
-    <string name="privacy_grant_or_revoke_settings">Atorgar i revocar l\'autorització</string>
+    <string name="privacy_grant_or_revoke_settings">Retirada del consentiment</string>
     <string name="privacy_grant_success">Autorització obtinguda amb èxit</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_policy_msg"><Data>Aquesta aplicació conté les funcions següents:&lt;br/&gt;• Informació meteorològica específica de la vostra ubicació&lt;br/&gt;• Previsions meteorològiques&lt;br/&gt;• Avisos meteorològics&lt;br/&gt;&lt;br/&gt;temps ha de recollir la informació personal necessària per proporcionar-vos serveis bàsics. Vostè pot aprendre com fem servir la informació que obtenim en la nostra &lt;a href=\"%1$s\"&gt;de Privacitat Política&lt;/a&gt;. Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar Weather. Podeu retirar el vostre consentiment a la política de privadesa de Weather a la configuració en qualsevol moment.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Aquesta aplicació conté les funcions següents:&lt;br/&gt;• Informació meteorològica específica per a la vostra ubicació&lt;br/&gt;• Previsions meteorològiques&lt;br/&gt;• Advertències meteorològiques&lt;br/&gt;&lt;br/&gt;temps necessita recopilar la informació personal necessària, incloses les dades d’ubicació, perquè aquestes funcions estiguin disponibles, fins i tot quan l’aplicació estigui tancada o no en ús. Vostè pot aprendre com fem servir la informació que obtenim en la nostra &lt;a href=\"%1$s\"&gt;de Privacitat Política&lt;/a&gt;. Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar Weather. Podeu retirar el vostre consentiment a la política de privadesa de Weather a la configuració en qualsevol moment.</Data></string>
     <string name="privacy_revoke_success">Autorització revocada correctament</string>
     <string name="privacy_settings">Política de privadesa</string>
     <string name="pull_fresh_updated">S\'ha actualitzat correctament</string>
@@ -266,7 +267,6 @@
     <string name="realtime_temperature_no_data">N/D</string>
     <string name="realtime_wind_default_title">Vent</string>
     <string name="receive_net_mock_success">Simulacre de xarxa rebut amb èxit</string>
-    <string name="refresh_empty_data">"No s'han pogut carregar les dades. Espereu un minut o dos i torna-ho a provar."</string>
     <string name="refresh_fail">"No s'ha pogut connectar a la xarxa"</string>
     <string name="reminder_from_xiaomi_weather_app">Alerta Mi Weather</string>
     <string name="request_cta_connect_net">Permeteu a aquesta aplicació connectar-se a Internet i concediu els permisos obligatoris enumerats anteriorment.</string>
@@ -274,6 +274,11 @@
     <string name="request_permission_main_purpose">Per mostrar informació meteorològica</string>
     <string name="request_permission_storage_dialog_content">Per compartir informació meteorològica en format d\'imatge</string>
     <string name="retry">Torna-ho a provar</string>
+    <string name="revoke_fail">"No es pot connectar a la xarxa"</string>
+    <string name="revoke_privacy_policy_title">Retirada del consentiment</string>
+    <string name="save_to_gallery_failure_message">"No s'ha pogut desar a la galeria"</string>
+    <string name="save_to_gallery_icon_name">Desa a la galeria</string>
+    <string name="save_to_gallery_success_message">S\'ha desat a la galeria correctament</string>
     <string name="search_menu_title">Cerca</string>
     <string name="settings">Configuració</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera (atm)</string>
@@ -283,7 +288,6 @@
     <string name="settings_atmospheric_pressure_mbar">Mil·libar (mbar)</string>
     <string name="settings_atmospheric_pressure_mmhg">Mil·límetre de mercuri (mmHg)</string>
     <string name="settings_atmospheric_pressure_title">Unitats de pressió atmosfèrica</string>
-    <string name="share">Comparteix</string>
     <string name="share_button">Comparteix</string>
     <string name="share_menu_title">Comparteix</string>
     <string name="share_subject">Comparteix</string>
@@ -319,7 +323,6 @@
     <string name="suggestion_for_zhongxue">Abrigueu-vos i conduïu amb cura</string>
     <string name="sunrise">Sol ixent</string>
     <string name="sunset">Ocàs</string>
-    <string name="title_share_link">Comparteix l\'URL</string>
     <string name="traffic_control_daty_after_tomorrow_numbers">Demà passat: %1$s</string>
     <string name="traffic_control_today_numbers">Avui: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Demà: %1$s</string>
@@ -347,11 +350,15 @@
     <string name="warning_weather_day_and_night_settings_summary">Rebreu resums diaris amb informació meteorològica a les 7 del matí i a les 7 de la tarda</string>
     <string name="warning_weather_day_and_night_settings_title">Resums diaris</string>
     <string name="weather_alert_channel_name">Alertes</string>
+    <string name="weather_aqi_full_air_quality_forcast">Previsió completa de la qualitat de l\'aire</string>
     <string name="weather_introduce">Sempre amb tu, amb pluja o sol.</string>
+    <string name="weather_main_aqi_desc">IQA</string>
     <string name="weather_main_minute_hour">Precipitació de %dhores</string>
     <string name="weather_main_speak_tips">Feu clic per transmetre la veu per veu</string>
+    <string name="weather_more_air_quality">Més informació sobre la qualitat de l\'aire</string>
     <string name="weather_permission_agree">Accepta</string>
     <string name="weather_service_channel_name">Serveis en segon pla</string>
+    <string name="welcome_app_title">Benvingut a Weather!</string>
     <string name="wind_direction_no_data">Vent</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">"El temps us proporciona informació meteorològica precisa. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d’aquestes funcions abans de desinstal·lar l’aplicació."</string>

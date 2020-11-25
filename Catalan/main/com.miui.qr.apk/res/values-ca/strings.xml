@@ -29,8 +29,8 @@
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="close">Tanca</string>
     <string name="close_hit_again">Torneu a prémer per sortir de la pantalla</string>
-    <string name="important_ration_info">Important informació quantitativa</string>
-    <string name="no_important_ration_info">Informació quantitativa poc rellevant</string>
+    <string name="important_ration_info">Informació important</string>
+    <string name="no_important_ration_info">Informació de depuració</string>
     <string name="qr_load">S\'està carregant... Espereu...</string>
     <string name="qualitative_info">Informació qualitativa</string>
     <string name="qualitative_title">Informació de solidesa</string>

@@ -33,6 +33,8 @@
     <string name="bluetooth_sap_notif_message">Voleu sol·licitar que el client es desconnecti?</string>
     <string name="bluetooth_sap_notif_ticker">Accés a la SIM per Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Accés a la SIM per Bluetooth</string>
+    <string name="bt_audio_share_notification_content">Toqueu per veure les opcions</string>
+    <string name="bt_audio_share_notification_title">Compartir àudio</string>
     <string name="bt_enable_cancel">Cancel·la</string>
     <string name="bt_enable_line1">Per utilitzar els serveis Bluetooth, primer cal que activeu el Bluetooth.</string>
     <string name="bt_enable_line2">Voleu activar el Bluetooth?</string>
@@ -89,6 +91,7 @@
     <string name="not_exist_file">No hi ha cap fitxer</string>
     <string name="not_exist_file_desc">"El fitxer no existeix. 
 "</string>
+    <string name="notice_audio_share_disconnected">Ja no es comparteix àudio a causa de la connexió interrompuda</string>
     <string name="notification_received">Bluetooth: %1$s rebut</string>
     <string name="notification_received_fail">Bluetooth: No s\'ha rebut el fitxer %1$s</string>
     <string name="notification_receiving">Bluetooth: S\'està rebent %1$s</string>

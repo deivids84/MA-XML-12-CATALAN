@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>Combo de pantalla</item>
+        <item>Compartiment de connexió &amp; / combinat de pantalla</item>
+        <item>Combo de pantalla; multipantalla; duplicació de pantalla; PC; ordinador</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Desactiveu el punt d'accés portàtil, Mi Share o el càsting al vostre dispositiu mòbil abans d'utilitzar Screen Combo.
+2. Desactiveu la Wi-Fi tant al dispositiu mòbil com a l'ordinador.
+3. Assegureu-vos que el dispositiu mòbil estigui a prop de l'ordinador."</item>
+        <item>L’ordinador utilitza Bluetooth per detectar dispositius mòbils que s’hagin connectat prèviament. Comproveu si el Bluetooth està activat al dispositiu mòbil.</item>
+        <item>"Els dispositius mòbils no poden sincronitzar les dades amb els ordinadors quan la pantalla està bloquejada. Per defecte, Screen Combo no permet bloquejar la pantalla quan el dispositiu mòbil està connectat a un ordinador. Podeu canviar-ho a la configuració."</item>
+        <item>"1. Els telèfons Xiaomi seleccionats amb Android Q o versions posteriors admeten Screen Combo. Si veieu el lloc web MIUI després d’escanejar el codi QR, el vostre dispositiu encara no és compatible.
+2. Per utilitzar Screen Combo a l'ordinador, instal·leu primer la versió més recent de Mi Smart Share."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"No us podeu connectar mitjançant el codi QR?"</item>
+        <item>"No trobeu dispositius mòbils amb l'ordinador?"</item>
+        <item>"No podeu bloquejar el dispositiu mòbil?"</item>
+        <item>Compatibilitat</item>
+    </string-array>
+</resources>

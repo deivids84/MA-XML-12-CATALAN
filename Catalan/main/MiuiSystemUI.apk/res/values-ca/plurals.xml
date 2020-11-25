@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Recentment obertes, aplicacions disponibles: %d.</item>
-        <item quantity="one">Recentment obertes, aplicacions disponibles: %d.</item>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">Fa %d dies</item>
+        <item quantity="one">Fa %d dia</item>
     </plurals>
-    <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Obertes fa poc, aplicacions disponibles: %d. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
-        <item quantity="one">Oberta fa poc, aplicació disponible: 1. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa %d min</item>
     </plurals>
-    <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Penjant en %1$d segons</item>
-        <item quantity="one">Penjant en %1$d segon</item>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">Fa %d anys</item>
+        <item quantity="one">Fa %d anys</item>
     </plurals>
-    <plurals name="fold_tips_title">
-        <item quantity="other">%d notificacions no importants</item>
-        <item quantity="one">%d notificació no important</item>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">S\'han afegit %s controls.</item>
+        <item quantity="one">S\'ha afegit %s control.</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Codi PIN incorrecte, encara queden %d intents</item>
@@ -65,8 +65,12 @@
         <item quantity="one">Queda: %1$d h %2$d m</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Introduïu el PIN de la SIM, us queden %d intents.</item>
-        <item quantity="one">Introduïu el PIN de la SIM, us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>
+        <item quantity="other">Introduïu el PIN de la SIM. Us queden %d intents.</item>
+        <item quantity="one">Introduïu el PIN de la SIM. Us queda %d intent abans de contactar amb el vostre operador per desbloquejar el dispositiu.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Introduïu el PIN de la SIM%1$d , us queden %2$d intents.</item>
+        <item quantity="one">Introduïu el PIN de la SIM%1$d , us queda %2$d intent abans de posar-vos en contacte amb el vostre operador per desbloquejar el dispositiu.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">La SIM ara està deshabilitada. Introduïu el codi PUK per restaurar-la. Us queden %d intents abans que la SIM s\'inutilitzi permanentment. Contacteu amb el vostre operador per a més detalls.</item>
@@ -75,6 +79,10 @@
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">El codi PIN de la SIM no és correcte, encara us queden %d intents.</item>
         <item quantity="one">El codi PIN de la SIM no és correcte, encara us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Codi PIN de la SIM%1$d incorrecte, us queden %2$d intents.</item>
+        <item quantity="one">Codi PIN de la SIM%1$d incorrecte, us queda %2$d intent abans de posar-vos en contacte amb el vostre operador per desbloquejar el dispositiu.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Codi PUK incorrecte, us queden %d intents abans que el SIM es bloquegi permanentment.</item>
@@ -92,25 +100,17 @@
         <item quantity="other">"El dispositiu no s'ha desblocat des de fa %d hores. Confirmeu el PIN."</item>
         <item quantity="one">"El dispositiu no s'ha desblocat des de fa %d hora. Confirmeu el PIN."</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Torneu-ho a provar d\'aquí a %d segons.</item>
+        <item quantity="one">Torneu-ho a provar d\'aquí a 1 segon.</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d noves notificacions</item>
         <item quantity="one">%d nova notificació</item>
     </plurals>
-    <plurals name="notification_channels_list_desc_2_and_others">
-        <item quantity="other">%1$s, %2$s, i %3$d altres</item>
-        <item quantity="one">%1$s, %2$s, i %3$d altra</item>
-    </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s notificacions més dins.</item>
         <item quantity="one">%s notificació més dins.</item>
-    </plurals>
-    <plurals name="notification_num_channels">
-        <item quantity="other">%d categories de notificacions</item>
-        <item quantity="one">%d categoria de notificacions</item>
-    </plurals>
-    <plurals name="notification_num_channels_desc">
-        <item quantity="other">1 categoria de notificacions de %d d\'aquesta aplicació</item>
-        <item quantity="one">1 categoria de notificacions de %d d\'aquesta aplicació</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Torneu a provar-ho en %d minuts</item>
@@ -120,13 +120,21 @@
         <item quantity="other">Torneu-ho a provar en %d segons</item>
         <item quantity="one">Torneu-ho a provar en %d segons</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d commutadors es mostraran al panell de notificacions</item>
-        <item quantity="one">%1$d commutador es mostrarà al panell de notificacions</item>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d dispositius</item>
+        <item quantity="one">%d dispositiu</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Serè</item>
-        <item quantity="one">Assolellat</item>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Podeu afegir fins a %d usuaris.</item>
+        <item quantity="one">Només es pot crear un usuari.</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d dispositius connectats</item>

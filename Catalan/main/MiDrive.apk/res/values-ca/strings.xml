@@ -141,6 +141,7 @@
     <string name="exception_move_file_exist">"L'element que esteu movent ja es troba a la carpeta de destinació"</string>
     <string name="exception_move_sub_path">"No es poden moure els elements a la mateixa carpeta"</string>
     <string name="exception_net_not_available">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="exception_not_support_modify_for_overseas_user">"Aquesta funció no està disponible fora de la Xina continental"</string>
     <string name="exception_param_error">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="exception_rename_conflict">"No s'ha pogut canviar el nom. Ja existeix un element amb aquest nom."</string>
     <string name="exception_rename_illegal_char">"Els noms de fitxers no poden contenir caràcters especials"</string>
@@ -225,6 +226,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="navigation_my">Perfil</string>
     <string name="navigation_transport">Transferències</string>
     <string name="not_set">Sense definir</string>
+    <string name="not_support_upload_file_for_overseas_users">"La càrrega no està disponible fora de la Xina continental"</string>
     <string name="notification_channel_remind">Recordatoris</string>
     <string name="notification_channel_service">Serveis</string>
     <string name="operation_copy">Copia</string>
@@ -304,6 +306,8 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="shortcut_dialog_content">Voleu crear una drecera de pantalla d\'inici per a Mi Drive?</string>
     <string name="start_download">S\'està iniciant la baixada…</string>
     <string name="start_upload">Començant a penjar…</string>
+    <string name="stay_tuned">Estigueu atents</string>
+    <string name="stay_tuned_sub_desc">Actualment, aquest servei només està disponible a la Xina continental</string>
     <string name="storage_internal">Emmagatzematge intern</string>
     <string name="storage_manage_list_title">Xiaomi Cloud</string>
     <string name="storage_manage_list_title_action">més</string>

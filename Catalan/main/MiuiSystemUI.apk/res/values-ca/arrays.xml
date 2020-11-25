@@ -158,17 +158,14 @@
         <item>Només comprova si el contingut té DRM</item>
         <item>Comprova-ho sempre</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Desactivat</item>
-        <item>30 minuts</item>
-        <item>1 hora</item>
-        <item>2 hores</item>
-        <item>8 hores</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Es tracta de contingut recomanat.</item>
+        <item>Aquest és un anunci.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Porta-retalls</item>
         <item>Codi clau</item>
-        <item>Commutador de teclat</item>
+        <item>Gireu confirmació, commutador de teclat</item>
         <item>Cap</item>
     </string-array>
     <string-array name="nav_bar_layouts">
@@ -176,23 +173,6 @@
         <item>Compacta</item>
         <item>Inclinat a l\'esquerra</item>
         <item>Inclinat a la dreta</item>
-    </string-array>
-    <string-array name="origin_carrier_names">
-        <item>"CHINA  MOBILE"</item>
-        <item>CMCC</item>
-        <item>CHN-UNICOM</item>
-        <item>China Mobile</item>
-        <item>China Mobile (HD)</item>
-        <item>China Unicom</item>
-        <item>China Telecom</item>
-        <item>CHN-CT</item>
-        <item>中国移动</item>
-        <item>中国联通</item>
-        <item>中国电信</item>
-        <item>中國移動</item>
-        <item>中國聯通</item>
-        <item>中國電信</item>
-        <item>Cercant el servei</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Cap</item>
@@ -287,35 +267,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Font d’àudio</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Serè</item>
-        <item>Ennuvolat</item>
-        <item>Cobert</item>
-        <item>Emboirat</item>
-        <item>Temporal fort</item>
-        <item>Aiguat</item>
-        <item>Temporal</item>
-        <item>Tempesta</item>
-        <item>Xàfec</item>
-        <item>Pluja forta</item>
-        <item>Pluja moderada</item>
-        <item>Pluja feble</item>
-        <item>Aiguaneu</item>
-        <item>Torb</item>
-        <item>Neu</item>
-        <item>Neu forta</item>
-        <item>Neu moderada</item>
-        <item>Nevada lleugera</item>
-        <item>Temporal fort de sorra</item>
-        <item>Temporal de sorra</item>
-        <item>Sorra</item>
-        <item>Ventós</item>
-        <item>Pedra</item>
-        <item>Pols</item>
-        <item>Calitja</item>
-        <item>Pluja gelant</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

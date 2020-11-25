@@ -7,6 +7,8 @@
     <string name="HIPS_Action_Reject">Denega</string>
     <string name="HIPS_Action_Reject_Once">Denega-ho un cop</string>
     <string name="HIPS_Action_Reject_This">Restringeix una vegada</string>
+    <string name="HIPS_Perm_Access_Gallery">Accés a la galeria</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi a elements de la vostra galeria</string>
     <string name="HIPS_Perm_AudioRecorder">Enregistrar àudio</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio i trucades telefòniques</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
@@ -102,6 +104,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">serveis en primer pla</string>
     <string name="HIPS_Perm_show_when_locked">Mostrar a la pantalla de bloqueig</string>
     <string name="HIPS_Perm_show_when_locked_Desc">mostrar-se a la pantalla de bloqueig</string>
+    <string name="HIPS_Perm_tencentControl">Accés als missatges de les aplicacions de xarxes socials</string>
+    <string name="HIPS_Perm_tencentControl_Desc">Permet que aquesta aplicació accedeixi als vostres missatges de WeChat i QQ</string>
     <string name="HIPS_Perm_use_sip">Serveis de vídeo</string>
     <string name="HIPS_Perm_use_sip_Desc">utilitzar SIP per a la transmissió de vídeo</string>
     <string name="HIPS_Perm_write_clipboard">Desar els elements al porta-retalls</string>
@@ -109,6 +113,7 @@
     <string name="HIPS_SecurityPrompt_Caption">Avís de seguretat</string>
     <string name="HIPS_SecurityPrompt_Reject">Denega (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">Restringir i esborrar el porta-retalls (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Never">"Negar i no tornar a preguntar (%d)"</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Denega-ho un cop (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Restringeix-ho una vegada (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s està intentant de %2$s</string>
@@ -135,6 +140,9 @@
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Denega i no ho tornis a preguntar"</string>
     <string name="grant_dialog_button_deny_background">Només mentre s\'utilitza l\'aplicació</string>
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Sempre, però només utilitzant l’aplicació</string>
+    <string name="grant_dialog_storage_category_title">Aquesta aplicació requereix permisos per accedir a la galeria i als missatges de les aplicacions de xarxes socials</string>
+    <string name="grant_dialog_storage_gallery_title">Galeria</string>
+    <string name="grant_dialog_storage_sociality_title">Missatges en aplicacions de xarxes socials</string>
     <string name="location_settings">Configuració d\'ubicació</string>
     <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació d\'aquest dispositiu. L’accés a la ubicació es pot modificar des de la configuració d’ubicació.</string>
     <string name="never_ask_again">"No ho tornis a preguntar després de restringir-ho"</string>
@@ -183,6 +191,11 @@
     <string name="screen_overlay_button">Obre la configuració</string>
     <string name="screen_overlay_message">Per canviar aquest permís, heu de desactivar la superposició de la pantalla a Configuració &gt; Aplicacions.</string>
     <string name="screen_overlay_title">S\'ha detectat una superposició de pantalla</string>
+    <string name="storage_policy_notify_both_title">"%1$s no té permís per accedir a la galeria i als missatges de les aplicacions de xarxes socials"</string>
+    <string name="storage_policy_notify_content">Toqueu per ajustar els permisos</string>
+    <string name="storage_policy_notify_gallery_title">"%1$s no té permís per accedir a la galeria"</string>
+    <string name="storage_policy_notify_sociality_title">"%1$s no té permís per accedir als missatges de les aplicacions de xarxes socials"</string>
+    <string name="storage_policy_notify_title">"%1$s no té permís per accedir a la galeria"</string>
     <string name="virtual_reject_notice_content">S\'ha enviat una resposta en blanc a l\'aplicació per protegir les vostres dades personals</string>
     <string name="virtual_reject_notice_title_calendar">Accés al calendari per %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Accés a l\'historial de trucades per %1$s</string>

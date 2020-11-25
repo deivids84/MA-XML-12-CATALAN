@@ -111,6 +111,10 @@
     <string name="backup_theme_name">Còpia de seguretat del tema</string>
     <string name="backup_theme_progress_message">S\'està fent la còpia de seguretat&#8230;</string>
     <string name="backup_theme_success_message">S\'ha realitzat la còpia de seguretat del tema.</string>
+    <string name="boot_audio_dialog_cancel">Cancel·la</string>
+    <string name="boot_audio_dialog_confirm">D\'acord</string>
+    <string name="boot_audio_dialog_content">L’àudio d’arrencada està desactivat ara. Voleu tornar a activar-lo i aplicar aquest so?</string>
+    <string name="boot_audio_dialog_title">Atenció</string>
     <string name="both_all_apply_failured">"No es pot aplicar el fons de pantalla"</string>
     <string name="both_all_apply_success">S\'ha aplicat el fons de pantalla</string>
     <string name="browser_local_resource">Recursos locals</string>
@@ -427,7 +431,7 @@ Per desactivar aquesta funció, aneu a Configuració &gt; So i vibració &gt; V�
     <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
     <string name="lockscreen_magazine_system_title">Local</string>
     <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
-    <string name="lockscreen_wallpaper">Bloqueja la pantalla</string>
+    <string name="lockscreen_wallpaper">Pantalla de bloqueig</string>
     <string name="lockstyle_personal_settings">Personalitza</string>
     <string name="long_click_can_hide_resource">Mantingueu premut per ocultar els elements</string>
     <string name="material_slider_range_end">Final de gamma,</string>
@@ -1056,7 +1060,7 @@ Veureu una imatge nova cada hora."</string>
     <string name="theme_component_title_icon">Icones</string>
     <string name="theme_component_title_launcher">Safata de favorits</string>
     <string name="theme_component_title_lockstyle">Estil de bloqueig</string>
-    <string name="theme_component_title_lockwallpaper">Bloqueja la pantalla</string>
+    <string name="theme_component_title_lockwallpaper">Pantalla de bloqueig</string>
     <string name="theme_component_title_miwallpaper">Fons de pantalla de MIUI</string>
     <string name="theme_component_title_mms">Missatgeria</string>
     <string name="theme_component_title_notification">Notificació</string>

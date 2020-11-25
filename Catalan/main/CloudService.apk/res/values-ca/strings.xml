@@ -133,8 +133,8 @@
     <string name="last_sync_time_yesterday">Ahir</string>
     <string name="license_host_unreachable">"No s'ha pogut connectar a la xarxa. Per veure aquesta informació ara, aneu a %s."</string>
     <string name="loading">Un moment…</string>
-    <string name="low_battery_locate_summary">Informeu automàticament de la informació d’ubicació quan la bateria estigui baixa</string>
-    <string name="low_battery_locate_title">Informeu de la ubicació quan la bateria és baixa</string>
+    <string name="low_battery_locate_summary">Informa automàticament de la informació d\'ubicació quan la bateria és baixa</string>
+    <string name="low_battery_locate_title">Informa de la ubicació quan la bateria és baixa</string>
     <string name="master_alert_notif_content">No es pot sincronitzar</string>
     <string name="master_alert_notif_title">Activa Xiaomi Cloud</string>
     <string name="member_entrance_title_free_high_case_a">Obteniu més espai d’emmagatzematge</string>
@@ -204,7 +204,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_dspt_provision_china">Utilitzeu Xiaomi Cloud per sincronitzar dades, localitzar el dispositiu i compartir coses amb els amics.</string>
     <string name="micloud_dspt_provision_xms">Utilitzeu Xiaomi Cloud per sincronitzar dades.</string>
     <string name="micloud_dspt_provision_xms_china">Utilitzeu Xiaomi Cloud per sincronitzar les dades.</string>
-    <string name="micloud_find_device_close_alert_content">"Si desactiveu aquesta funció, no podreu localitzar el dispositiu en cas que es perdi."</string>
+    <string name="micloud_find_device_close_alert_content">"Si desactiveu Troba el dispositiu, no podreu localitzar el dispositiu mitjançant aquesta funció. Si el vostre dispositiu admet NFC, totes les vostres targetes bancàries i claus se suprimiran de Mi Pay. Les persones amb qui compartiu la ubicació no podran rebre actualitzacions sobre el vostre parador."</string>
     <string name="micloud_find_device_close_alert_negtive">Desactiva-ho de totes maneres</string>
     <string name="micloud_find_device_close_alert_positive">Mantén</string>
     <string name="micloud_find_device_close_alert_title">Voleu desactivar troba el dispositiu?</string>
@@ -432,9 +432,9 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="picker_list_empty">No hi ha contactes aquí</string>
     <string name="picker_search_empty">"No s'han pogut trobar contactes"</string>
     <string name="picker_search_hint">Cerca</string>
-    <string name="power_off_locate_summary">"Per informar de la informació de la ubicació prement el botó d’engegada durant molt de temps.
-possible que no s'informi d'informació d'ubicació quan la connexió de xarxa sigui deficient."</string>
-    <string name="power_off_locate_title">Informeu de la ubicació abans d\'apagar-la</string>
+    <string name="power_off_locate_summary">"Informa de la ubicació amb una pulsació llarga el botó d’engegada.
+És possible que no s'informi de la ubicació quan la connexió de xarxa sigui deficient."</string>
+    <string name="power_off_locate_title">Informa de la ubicació abans d\'apagar-se</string>
     <string name="pre_privacy_policy">Política de privadesa</string>
     <string name="pre_user_agreement">Acord d\'usuari</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Només sincronitza les imatges de perfil dels contactes quan estigui connectat a una xarxa Wi-Fi"</string>
@@ -465,7 +465,7 @@ possible que no s'informi d'informació d'ubicació quan la connexió de xarxa s
     <string name="share_location_dialog_confirm">D\'acord</string>
     <string name="share_location_dialog_content">Ara podeu utilitzar la drecera de la pantalla d\'inici per accedir a la configuració més ràpidament.</string>
     <string name="share_location_dialog_title">Atenció</string>
-    <string name="share_location_guide1_desc">Localitzeu, bloquegeu i esborreu les dades dels dispositius que falten</string>
+    <string name="share_location_guide1_desc">Localitzeu, bloquegeu i esborreu les dades dels dispositius perduts</string>
     <string name="share_location_guide1_title">Cerqueu dispositius</string>
     <string name="share_location_guide2_desc">Ajudeu altres persones a fer front als dispositius que falten</string>
     <string name="share_location_guide2_title">Ajudeu els amics i la família</string>
@@ -482,7 +482,9 @@ possible que no s'informi d'informació d'ubicació quan la connexió de xarxa s
     <string name="share_sdk_btn_quit_share_text">Deixa de compartir</string>
     <string name="share_sdk_btn_resend_share_text">Reenvia</string>
     <string name="share_sdk_btn_send_share_text">Envia la invitació</string>
+    <string name="share_sdk_btn_stop_share_confirm_text">Voleu deixar de compartir articles amb aquesta persona?</string>
     <string name="share_sdk_btn_stop_share_text">Deixa de compartir</string>
+    <string name="share_sdk_btn_undo_invitation_confirm_text">Recordeu la invitació ara?</string>
     <string name="share_sdk_btn_undo_invitation_text">Recorda la invitació</string>
     <string name="share_sdk_business_btn_grant_permission_text">Accepta i continua</string>
     <string name="share_sdk_business_family_invite_preference_summary">"Comparteix la ubicació i controla els dispositius dels altres"</string>

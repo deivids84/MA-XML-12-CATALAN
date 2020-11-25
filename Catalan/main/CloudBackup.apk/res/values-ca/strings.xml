@@ -107,7 +107,7 @@ Nota: No es farà còpia de seguretat a Xiaomi Cloud de les dades de les aplicac
 * Configuració de MIUI i del sistema
 Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de seguretat de Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programeu còpia</string>
-    <string name="cloud_back_up_frequence_long">Cada 7 dies</string>
+    <string name="cloud_back_up_frequence_long">Cada %d dies</string>
     <string name="cloud_back_up_frequence_short">Cada dia</string>
     <string name="cloud_back_up_ok_btn">D\'acord</string>
     <string name="cloud_back_up_opening">Un moment…</string>
@@ -118,6 +118,8 @@ Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de se
     <string name="cloud_backup">Còpies de seguretat del núvol</string>
     <string name="cloud_backup_derail_size_summary">Mida: %s</string>
     <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Còpia de seguretat cada %d dies</string>
+    <string name="cloud_backup_detail_frequence_every_day">Còpia de seguretat cada dia</string>
     <string name="cloud_backup_detail_manage">Gestiona les còpies de seguretat</string>
     <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
     <string name="cloud_backup_detail_state_summary">Creeu còpies de seguretat de Xiaomi Cloud automàticament quan estigueu connectats a la Wi-Fi.</string>

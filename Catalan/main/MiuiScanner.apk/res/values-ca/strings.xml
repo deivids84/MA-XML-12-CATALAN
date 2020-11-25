@@ -52,7 +52,6 @@
     <string name="black_and_white">Blanc i negre</string>
     <string name="blog">Weibo</string>
     <string name="business_card">Targeta comercial</string>
-    <string name="business_card_result_title">Targeta comercial</string>
     <string name="business_card_title">Col·loqueu la vostra tarja comercial dins el marc</string>
     <string name="business_card_with_qr_code">Col·loqueu la vostra tarja comercial o codi QR dins el marc</string>
     <string name="business_copy">Copia</string>
@@ -210,6 +209,7 @@
     <string name="history">Historial</string>
     <string name="history_empty">Encara no hi ha elements</string>
     <string name="hold_down">Mantén premut per agafar la paraula</string>
+    <string name="identify_the_results">Identifiqueu els resultats</string>
     <string name="if_open_result">Mostra el resultat de l\'escaneig quan tornes a l\'aplicació</string>
     <string name="if_to_open_milogo_scanning">Reconèixer el logotip de Xiaomi</string>
     <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
@@ -309,6 +309,7 @@
     <string name="pdf_save_sucess">Desat</string>
     <string name="phone">Telèfon:</string>
     <string name="phone_storage">Emmagatzematge intern</string>
+    <string name="picture_is_being_saved">S\'està desant la imatge</string>
     <string name="place_barcode_into_rectangle">Centreu el codi dins del marc</string>
     <string name="plant_fail">"No s'ha pogut reconèixer"</string>
     <string name="plant_loading">S\'està identificant…</string>

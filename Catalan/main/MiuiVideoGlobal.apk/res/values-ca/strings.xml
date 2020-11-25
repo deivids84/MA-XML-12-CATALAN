@@ -341,6 +341,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="feedback_tag_title">Categoria</string>
     <string name="feedback_text_empty_toast">Escriviu els vostres comentaris primer.</string>
     <string name="file_cant_rename">El fitxer amb el nom %1$s ja existeix. Canvieu el nom</string>
+    <string name="file_space_not_enough_tip">No hi ha prou espai d\'emmagatzematge. Allibereu com a mínim %d MB i torneu a iniciar l\'aplicació.</string>
     <string name="find_psw">Contrasenya oblidada</string>
     <string name="finish">Fet</string>
     <string name="firework_privacy">Política de privadesa de Firework</string>
@@ -371,6 +372,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_already_cloud_member">Utilitzant la subscripció VIP per reproduir-ho</string>
     <string name="galleryplus_check_network">Configuració</string>
     <string name="galleryplus_chose_play_speed">Juga a %1$.1fX de velocitat</string>
+    <string name="galleryplus_chose_play_speed_2">Jugant a %1$.2fX velocitat</string>
     <string name="galleryplus_chose_play_speed_failure">"No s'ha pogut ajustar la velocitat de reproducció"</string>
     <string name="galleryplus_click_to_higher_definition">Toca dos cops per obrir una vista prèvia en alta definició</string>
     <string name="galleryplus_copyright_unsported_audio">"No es pot reproduir vídeo de pista d'àudio a causa de restriccions de copyright"</string>
@@ -428,6 +430,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_subtitle_edit_edit">Edita els subtítols</string>
     <string name="galleryplus_subtitle_edit_hide">Amagueu els subtítols</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Edita el text</string>
+    <string name="galleryplus_subtitle_edit_reminder">El text que heu introduït és massa llarg</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">"No s'ha pogut reconèixer la parla durant l'enregistrament"</string>
     <string name="galleryplus_v_agree">Acordar</string>
     <string name="galleryplus_v_cancel">Cancel · lar</string>
@@ -1205,6 +1208,8 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="toast_request_too_frequently">No molt ràpid!</string>
     <string name="toast_share_failed">"No s'ha pogut compartir Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="today">Avui</string>
+    <string name="tool_bar_notification_setting_sub_title">Mostra la barra d\'eines a l\'ombra de notificacions</string>
+    <string name="tool_bar_notification_setting_title">Barra d\'eines d\'ombra de notificacions</string>
     <string name="top_bar_game_desc">Descobriu aquí molts jocs frescos</string>
     <string name="top_bar_game_title">Canal de jocs</string>
     <string name="tuesday">Dimarts</string>

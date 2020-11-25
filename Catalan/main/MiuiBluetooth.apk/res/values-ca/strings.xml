@@ -280,6 +280,8 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="disabled_by_admin">Inhabilitat per l\'administrador</string>
     <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
     <string name="disconnect">desconnecta</string>
+    <string name="disconnect_Channel">desconnecta el canal</string>
+    <string name="disconnect_device">desconnecteu el dispositiu</string>
     <string name="enable_adb">Depuració de l\'USB</string>
     <string name="enable_adb_summary">Canvieu al mode de depuració quan hi ha connectat USB</string>
     <string name="enable_adb_wireless">Depuració sense fils</string>
@@ -328,6 +330,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="force_resizable_activities_summary">Fes que totes les activitats es facin redimensionables per a múltiples finestres, independentment dels valors manifestos.</string>
     <string name="force_rtl_layout_all_locales">Força la direcció de la disposició de dreta a esquerra</string>
     <string name="force_rtl_layout_all_locales_summary">Força la direcció de la pantalla de dreta a esquerra per a tots els llocs</string>
+    <string name="get_target_info">Obteniu informació de destinació</string>
     <string name="goto_package">Obre %1$s</string>
     <string name="guest_exit_guest">Elimina el convidat</string>
     <string name="guest_new_guest">Afegir convidat</string>
@@ -543,7 +546,9 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="speed_label_very_fast">Molt ràpid</string>
     <string name="speed_label_very_slow">Molt lent</string>
     <string name="standby_bucket_summary">Estat d\'espera de l\'aplicació: %s</string>
+    <string name="start_speech">Inicia la parla</string>
     <string name="status_unavailable">No disponible</string>
+    <string name="stop_speech">Atura la parla</string>
     <string name="storage_category">Emmagatzematge</string>
     <string name="strict_mode">Mode estricte</string>
     <string name="strict_mode_summary">Il·lumina la pantalla quan les aplicacions fan operacions llargues en el procés principal</string>

@@ -221,6 +221,7 @@
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="preview">Previsualització</string>
     <string name="primary_color_region">Original</string>
+    <string name="primary_color_region_chinese_only">naturalesa</string>
     <string name="primary_color_region_summary">Identifiqueu automàticament la gamma de colors mitjançant la calibració del color</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="reset_edit">Descarta els canvis</string>

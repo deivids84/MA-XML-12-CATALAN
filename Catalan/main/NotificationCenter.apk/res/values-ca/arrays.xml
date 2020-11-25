@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="config_xmsfNotificationChannel">
+        <item>84</item>
+        <item>61</item>
+        <item>72</item>
+        <item>213</item>
+        <item>102</item>
+        <item>233</item>
+        <item>54</item>
+        <item>96</item>
+        <item>VoIP</item>
+        <item>Recordatori</item>
+        <item>FloatAndKeyguard</item>
+    </string-array>
     <string-array name="drop_down_menu">
         <item>Ordena per hora de recepció</item>
         <item>Ordena per nombre de notificacions</item>

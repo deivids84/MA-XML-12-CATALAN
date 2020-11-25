@@ -29,11 +29,15 @@
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
+    <string name="aggregate_title">Normes per agrupar les notificacions</string>
     <string name="am">am</string>
     <string name="app_name">Notificacions</string>
     <string name="back">esquena</string>
     <string name="cancel">Cancel · lar</string>
     <string name="category_other">Altres</string>
+    <string name="channel_keyguard_hide_content">Mostra totes les notificacions però amaga el contingut</string>
+    <string name="channel_keyguard_show_content">Mostra totes les notificacions i el seu contingut</string>
+    <string name="channel_keyguard_show_nothing">"No mostris cap notificació"</string>
     <string name="channel_name_aggregation">Notificacions agrupades</string>
     <string name="channel_name_notification">Notificacions de l\'aplicació</string>
     <string name="channel_name_recovered">Notificacions restaurades</string>
@@ -118,6 +122,10 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_importance_default">Recomanat</string>
+    <string name="fold_importance_important">Important</string>
+    <string name="fold_importance_unimportant">Sense importància</string>
+    <string name="fold_title">Normes per a notificacions agrupades</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -237,6 +245,9 @@
     <string name="notification_display_style">Estil de notificació</string>
     <string name="notification_fold_summary">Agrupa les notificacions sense importància automàticament</string>
     <string name="notification_fold_title">Notificacions en grup</string>
+    <string name="notification_keyguard_hide_content">Mostra les notificacions però amaga el contingut</string>
+    <string name="notification_keyguard_show_content">Mostra la notificació i el contingut</string>
+    <string name="notification_keyguard_show_nothing">"No mostris les notificacions de pantalla de bloqueig"</string>
     <string name="notification_manager">Notificacions de les aplicacions</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
@@ -245,6 +256,7 @@
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pm">pm</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="rule_keyguard_display">Format</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
@@ -253,6 +265,7 @@
     <string name="settings_guide_title">Necessiteu altres configuracions?</string>
     <string name="show_badge_notifications">Insígnies de les notificacions</string>
     <string name="show_badge_notifications_short">Insígnies</string>
+    <string name="show_weather">Mostra informació meteorològica</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Clar i lluminós</string>
@@ -278,6 +291,8 @@
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="status_bar_setting">Barra d\'estat</string>
+    <string name="summary_aggregate_default">Les notificacions push promocionals i relacionades amb el contingut s’agruparan</string>
+    <string name="summary_aggregate_home">"Les notificacions automàtiques no s’agruparan"</string>
     <string name="summary_disable_float_notification">"No es permeten les notificacions flotants"</string>
     <string name="summary_disable_lockscreen_notification">"No es permeten les notificacions a la pantalla de bloqueig"</string>
     <string name="summary_disable_show_badge_notification">"No es permeten les insígnies de les notificacions"</string>
@@ -285,6 +300,9 @@
     <string name="summary_enable_lockscreen_notification">Es permeten les notificacions a la pantalla de bloqueig</string>
     <string name="summary_enable_show_badge_notification">Es permeten les insígnies de les notificacions</string>
     <string name="summary_float_enable_notification_first">Permeteu que les notificacions puguin activar les notificacions flotants</string>
+    <string name="summary_fold_importance_default">MIUI decidirà quines notificacions apareixeran directament</string>
+    <string name="summary_fold_importance_important">La notificació apareixerà a l\'ombra Notificació</string>
+    <string name="summary_fold_importance_unimportant">La notificació apareixerà en una carpeta independent</string>
     <string name="summary_lock_screen_enable_notification_first">Permeteu que les notificacions puguin activar les notificacions a la pantalla de bloqueig</string>
     <string name="summary_show_badge_enable_notification_first">Permeteu que les notificacions puguin activar les insígnies de les notificacions</string>
     <string name="sunday">Diumenge</string>
@@ -338,6 +356,8 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tip_feedback_thanks">Gràcies pels vostres comentaris!</string>
+    <string name="title_aggregate_default">Notificacions de grup</string>
+    <string name="title_aggregate_home">"No agrupeu les notificacions"</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="tuesday">Dimarts</string>

@@ -1399,7 +1399,7 @@ per al compte %s"</string>
     <string name="policylab_disableKeyguardFeatures">Desactiva algunes de les característiques de bloqueig de pantalla</string>
     <string name="policylab_encryptedStorage">Estableix el xifrat d\'emmagatzematge</string>
     <string name="policylab_expirePassword">Estableix la caducitat de la contrasenya de bloqueig de pantalla</string>
-    <string name="policylab_forceLock">Bloquejar la pantalla</string>
+    <string name="policylab_forceLock">Bloqueja la pantalla</string>
     <string name="policylab_limitPassword">Establir regles de contrasenya</string>
     <string name="policylab_resetPassword">Canviar el bloqueig de pantalla</string>
     <string name="policylab_setGlobalProxy">Establir el servidor intermediari global del dispositiu</string>

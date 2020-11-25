@@ -330,6 +330,8 @@
     <string name="trash_box">Elements eliminats recentment</string>
     <string name="trash_box_close_tip">Tanca l\'indicador</string>
     <string name="trash_box_delete_all">Vols suprimir tots els elements de la paperera de manera permanent?</string>
+    <string name="uninstall_warning_content">"Recorder és una aplicació del sistema. No podreu enregistrar i transcriure trucades d'àudio i de veu després de desinstal·lar-les."</string>
+    <string name="uninstall_warning_title">Voleu desinstal·lar Recorder?</string>
     <string name="usage_description">Transcripció d\'àudio i sincronització d\'elements amb el núvol</string>
     <string name="user_feedback">Comentaris</string>
     <string name="v7_preference_off">DESACTIVAT</string>

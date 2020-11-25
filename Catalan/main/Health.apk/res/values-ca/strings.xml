@@ -67,12 +67,22 @@ per afegir targetes"</string>
     <string name="altitude">Altitud</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
+    <string name="app_name">ILogger</string>
     <string name="app_setting">Aplicacions</string>
     <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
     <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
     <string name="audio_record_perm_description">Per enregistrar els roncs i converses mentre s’analitza el cicle del son</string>
     <string name="audio_record_permission_description">Per enregistrar converses i roncs mentre s\'analitza el cicle de son</string>
     <string name="auth_description">Permet a %1$s sincronitzar dades des dels dispositius següents</string>
+    <string name="auth_dialog_description">"Voleu activar les recomanacions?
+
+Per proporcionar-vos recomanacions, compartirem les vostres dades de salut amb un proveïdor de serveis aliè. Els elements que compartirem inclouen informació personal (edat, sexe), estadístiques de salut (alçada, pes, rutina d’entrenament), dades de comportament (hora d’inici i finalització, així com la durada dels entrenaments).
+
+Processarem aquests elements abans de compartir-los per evitar que tercers proveïdors de serveis us identifiquin personalment en funció de les dades que rebin.
+
+Si no voleu accedir a les classes recomanades, podeu utilitzar els entrenaments habituals."</string>
+    <string name="auth_dialog_link">Per entendre els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Acord d’usuari&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="auth_dialog_title">Classes recomanades</string>
     <string name="auto_start_fail">"No s'han pogut autoritzar el permís"</string>
     <string name="auto_start_success">El permís s\'ha autoritzat correctament</string>
     <string name="auto_start_tips">Toqueu \"Configuració\" a continuació per obrir la configuració de Xiaomi Health i doneu els permisos necessaris.</string>
@@ -153,6 +163,7 @@ per afegir targetes"</string>
     <string name="butterfly_stroke">Papallona</string>
     <string name="button_record_menstruation">Registre</string>
     <string name="buy">Compra</string>
+    <string name="calories">calories</string>
     <string name="camera_permission_desc">Per configurar les fotos de perfil</string>
     <string name="cancel">Cancel·la</string>
     <string name="cancel_edit">Descarta els canvis</string>
@@ -268,6 +279,8 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
     <string name="delete_record">Suprimeix els registres</string>
     <string name="delete_wear_data_toast">"No es poden suprimir les dades proporcionades per %1$s"</string>
     <string name="description">Detalls</string>
+    <string name="detail_record_pace_describe">Ritme (temps que recorre 1 km)</string>
+    <string name="detail_record_pace_title">Segments de ritme</string>
     <string name="detection_has_no_data">No hi ha dades</string>
     <string name="detection_not_start">"Encara no heu començat"</string>
     <string name="detection_not_start_detail">"No us quedeu despert fins tard"</string>
@@ -291,6 +304,7 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_account_perm_desc">Per accedir i iniciar sessió al compte del sistema</string>
     <string name="dialog_agree">D\'acord</string>
     <string name="dialog_agree_and_continue">D\'acord</string>
+    <string name="dialog_agree_permission">Permet</string>
     <string name="dialog_allow">Permet</string>
     <string name="dialog_auto_start_detail">"Permeteu que Xiaomi Health s’iniciï automàticament per poder rebre notificacions.
 Xiaomi Health només us notificarà sobre elements importants."</string>
@@ -320,9 +334,11 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
     <string name="dialog_ok">D\'acord</string>
     <string name="dialog_open">Permet</string>
     <string name="dialog_permission_loading_msg">S\'està comprovant…</string>
+    <string name="dialog_permission_title">Es requereixen permisos</string>
     <string name="dialog_privacy_policy_statement">Declaració de la Política de Privadesa</string>
     <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_read_phone_perm_desc">Per identificar les funcions del dispositiu mitjançant OAID o Android ID</string>
+    <string name="dialog_reject">Restringir</string>
     <string name="dialog_request_network">Permet que aquesta aplicació es connecti a Internet.</string>
     <string name="dialog_sleep_goal_setting">Estableix l\'objectiu de la durada del son</string>
     <string name="dialog_sleep_goal_subtitle">Dormiu de 7 a 9 hores cada dia</string>
@@ -417,6 +433,10 @@ Si el vostre dispositiu apareix a la llista, podeu afegir les fonts de dades man
     <string name="exercise_sum">Informe d’exercicis</string>
     <string name="exercise_time">Durada</string>
     <string name="exercise_walk_description">Segons les directrius dietètiques per a residents xinesos, l’activitat física activa hauria de durar almenys 40 minuts al dia, cosa que equival a caminar 6.000 passos. Aquí es resumeixen els passos que feu cada dia caminant, corrent i pujant escales.</string>
+    <string name="exit_running_tips_cancel">Sí</string>
+    <string name="exit_running_tips_confirm">No</string>
+    <string name="exit_running_tips_desc">"Sembla que encara no heu començat a treballar. Voleu acabar aquest entrenament?"</string>
+    <string name="exit_running_tips_title">Acaba l\'entrenament</string>
     <string name="expand_all">Mostra-ho tot</string>
     <string name="expand_button_title">Avançat</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
@@ -489,6 +509,10 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="goal_sleep_time">Objectiu de la durada del son</string>
     <string name="goal_title">Manteniu-vos saludables</string>
     <string name="goto_setting_auto_start">Configuració</string>
+    <string name="gps">GPS</string>
+    <string name="gps_no_signal_hint">"El senyal GPS actual no permet fer el seguiment de l’entrenament i registrar rutes. Aneu a una zona exterior plana i oberta."</string>
+    <string name="gps_unauthorized">Es requereixen permisos GPS</string>
+    <string name="gps_unopened">El GPS està apagat</string>
     <string name="group">Cicles</string>
     <string name="guide_data_cloud_sync_tip">Podeu desactivar la sincronització a Configuració &gt; Serveis al núvol.</string>
     <string name="guide_exit">Surt de Xiaomi Health</string>
@@ -545,7 +569,20 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_detect_state_regular_desc">Treball diari i estat d’estudi</string>
     <string name="hr_detect_state_reseting">Estat de repòs</string>
     <string name="hr_detect_state_reseting_desc">Només cal despertar-se o relaxar-se completament</string>
+    <string name="hr_disable_in_split_screen">"No es pot mesurar la freqüència cardíaca mentre s'utilitza la pantalla dividida"</string>
     <string name="hr_disturb_detect">Interrupció de detecció</string>
+    <string name="hr_finger_permission_desc">Per mesurar la freqüència cardíaca, aquesta funció ha d’accedir a l’escàner d’empremtes digitals per poder detectar canvis en el flux sanguini. Permetre?</string>
+    <string name="hr_fp_area">Escàner d’empremtes digitals</string>
+    <string name="hr_fp_detect_desc">La sang flueix als dits amb cada batec del cor. La llum brillant a la zona de l’escàner d’empremtes dactilars que hi ha a la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca.</string>
+    <string name="hr_fp_detect_principle_desc">"La sang no és del tot opaca; per tant, la llum pot passar-hi. Amb cada batec del cor, la sang flueix cap als dits, bloquejant més llum que entre els batecs del cor. La llum brillant a la zona de l’escàner d’empremtes dactilars que hi ha a sota de la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Nota: assegureu-vos que el dit cobreixi completament la icona d’empremtes digitals durant el mesurament. No apliqueu força, ja que pot bloquejar el flux sanguini a la punta dels dits i fer que els resultats siguin inexactes. Aquesta mesura només es proporciona com a referència. No pot substituir les proves mèdiques."</string>
+    <string name="hr_fp_detect_principle_desc_3">Les nostres proves demostren que aquest mètode mesura la freqüència cardíaca amb un error de només ≤3 BPM.</string>
+    <string name="hr_fp_detect_start_desc">"Premeu lleugerament la icona d’empremtes digitals.
+No mous el dit."</string>
+    <string name="hr_fp_detecting">Mesurant…</string>
+    <string name="hr_fp_not_put_well">"El dit es va moure.
+Torna a començar."</string>
+    <string name="hr_fp_report_common_desc">La freqüència cardíaca normal oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
     <string name="hr_heart_rate_unit">Freqüència cardíaca (BPM)</string>
     <string name="hr_in_detect">No deixeu anar els dits mentre feu la prova</string>
     <string name="hr_input_heart_rate">Registrar la freqüència cardíaca</string>
@@ -629,6 +666,17 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="light_sleep_time_increase_description">El vostre son lleuger és massa llarg</string>
     <string name="light_sleep_time_normal_description">Teniu una quantitat suficient de son lleuger</string>
     <string name="load_failed">"No s'han pogut carregar els elements. Espereu un minut o dos i torneu-ho a provar."</string>
+    <string name="loading">Només un segon…</string>
+    <string name="location_permission_dialog_content">Permet que Xiaomi Health accedeixi a la vostra ubicació a \"Xiaomi Health\" &gt; \"Gestiona els permisos\" per poder fer un seguiment dels vostres entrenaments a l\'aire lliure.</string>
+    <string name="location_permission_dialog_negative">Ara no</string>
+    <string name="location_permission_dialog_positive">Permet</string>
+    <string name="location_permission_dialog_title">Es requereixen permisos d\'ubicació</string>
+    <string name="location_service_dialog_content">Activeu els serveis d\'ubicació a la configuració per poder fer un seguiment dels vostres entrenaments a l\'aire lliure.</string>
+    <string name="location_service_dialog_negative">Ara no</string>
+    <string name="location_service_dialog_positive">Encendre</string>
+    <string name="location_service_dialog_title">Els serveis d’ubicació estan desactivats</string>
+    <string name="location_service_ntfc_content">Salut de Xiaomi</string>
+    <string name="location_service_ntfc_title">S\'està cercant el GPS…</string>
     <string name="login_and_open_sync">Inicieu la sessió i activeu la sincronització</string>
     <string name="login_and_open_sync2">Inicieu la sessió i activeu la sincronització</string>
     <string name="low">Baixa</string>
@@ -717,10 +765,20 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="min_pace">Ritme mínim</string>
     <string name="minimum">Mínim</string>
     <string name="minute">M</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
+    <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
+    <string name="miuix_appcompat_cancel_description">Cancel·la</string>
     <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol amb èxit</string>
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
+    <string name="miuix_appcompat_confirm_description">Confirmeu</string>
+    <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -794,6 +852,7 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="need_unrestricted_permission">Per obtenir estadístiques més precises, permeteu que Xiaomi Health funcioni sempre en segon pla.</string>
     <string name="network_connect_failure">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="network_not_available">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
+    <string name="network_not_available2">"No s'ha pogut connectar a la xarxa"</string>
     <string name="next_step">Següent</string>
     <string name="night">Vespre</string>
     <string name="no_available_data_source">No hi ha fonts de dades disponibles</string>
@@ -852,12 +911,21 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="permission_check_result_failed">"No s'ha pogut configurar"</string>
     <string name="permission_manage">Gestiona els permisos</string>
     <string name="permission_tip">Doneu-li a Xiaomi Health els següents permisos per permetre-li realitzar un seguiment del son amb precisió</string>
+    <string name="personal_course_recommend_subtitle">Obteniu accés a les classes que us recomanem en funció de la vostra informació personal, estadístiques de salut i preferències</string>
+    <string name="personal_course_recommend_title">Classes recomanades</string>
     <string name="phone_detection">Detectat automàticament</string>
     <string name="photograph">Càmera</string>
     <string name="picker_day">Dia seleccionat: %1$d. Feu lliscar verticalment per seleccionar-ho.</string>
     <string name="picker_month">Mes seleccionat: %1$d. Feu lliscar verticalment per seleccionar-ho.</string>
     <string name="picker_year">Any seleccionat: %1$d. Feu lliscar verticalment per seleccionar-ho.</string>
+    <string name="placement_tips_recommend">Recomanat</string>
+    <string name="placement_tips_recommend_1">Motxilla</string>
+    <string name="placement_tips_recommend_2">Pack Fanny</string>
+    <string name="placement_tips_title">On heu de posar el telèfon?</string>
+    <string name="placement_tips_warn">No es recomana</string>
+    <string name="placement_tips_warn_1">Cinta de córrer</string>
     <string name="play">Reprodueix</string>
+    <string name="please_choose">Selecciona</string>
     <string name="pm">pm</string>
     <string name="pool_swimming">Natació en piscina</string>
     <string name="predict_menstruation">Període previst</string>
@@ -875,6 +943,7 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="preference_update_find_new_version">Comprova si hi ha actualitzacions</string>
     <string name="preference_update_find_newer_version">Hi ha una actualització disponible: %1$s</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_setting">Privadesa</string>
     <string name="prompt_more_than_3h">Més de 3 hores</string>
     <string name="prompt_sleep_time_night">Son nocturn</string>
     <string name="prompt_sleep_time_noon">La migdiada diürna</string>
@@ -905,7 +974,7 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="reference">Materials de referència</string>
     <string name="relationship_with_contact">Relació</string>
     <string name="rem_Duration_increase_description">El son REM és massa llarg</string>
-    <string name="rem_duration">Durada del son REM</string>
+    <string name="rem_duration">REM</string>
     <string name="rem_duration_decrease_description">El son REM és massa curt</string>
     <string name="rem_duration_description">REM es refereix al ràpid moviment ocular. El son es pot dividir en son de moviment ràpid dels ulls (REM) i son de moviment ocular no ràpid (NREM). El son ràpid per moviment ocular representa aproximadament entre 20 i 25%% de la durada total del son. Quan la gent es desperta en aquesta etapa, de 74 a 95%% d\'ells dir que han estat somiant i són capaços de recordar els seus somnis. El cervell és molt actiu i el cos està completament relaxat durant el son REM, cosa que fa que aquesta fase del son sigui essencial per mantenir les funcions cognitives.</string>
     <string name="rem_duration_normal_description">La durada del son REM és normal</string>
@@ -969,11 +1038,14 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="setting_avatar">Foto de perfil</string>
     <string name="setting_birthday">Estableix la data de naixement</string>
     <string name="setting_blood_type">Estableix el grup sanguini</string>
+    <string name="setting_cycling_goals">Establir objectius en bicicleta</string>
     <string name="setting_data_cloud_sync_tip">Feu servir aquesta funció per fer una còpia de seguretat dels elements d’aquest dispositiu i sincronitzar les dades de salut d’altres dispositius</string>
     <string name="setting_gender">Estableix el sexe</string>
+    <string name="setting_running_goals">Establir objectius de carrera</string>
     <string name="setting_sedentary_off">DESACTIVAT</string>
     <string name="setting_sedentary_on">ACTIVAT</string>
     <string name="setting_sedentary_title">Recordeu que us heu de moure</string>
+    <string name="setting_walking_goals">Establir objectius per caminar</string>
     <string name="severe_abnormal">Crisis hipertensives</string>
     <string name="severe_abnormal_tip">Cada dia després d\'aixecar-se, després de dinar i abans d\'anar a dormir</string>
     <string name="share">Comparteix</string>
@@ -984,14 +1056,16 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="sleep_chart_empty">No hi ha dades</string>
     <string name="sleep_chart_loading">Un moment…</string>
     <string name="sleep_day">Dia</string>
+    <string name="sleep_day_multi_short_title">Siesta %1$d</string>
+    <string name="sleep_day_single_short_title">Migdiada</string>
+    <string name="sleep_day_title">Son de dia</string>
     <string name="sleep_deep">Son profund</string>
     <string name="sleep_deep_light_analysis">Son lleuger i son profund</string>
     <string name="sleep_deep_light_close_tip">L’anàlisi del son profund està desactivada</string>
-    <string name="sleep_deep_light_no_data">Encara no hi ha dades</string>
-    <string name="sleep_deep_light_no_data_improvement">"No es poden detectar les fases de son. Estem millorant els nostres algorismes. Estigueu atents!"</string>
+    <string name="sleep_deep_light_no_data">Si col·loqueu el dispositiu mòbil al costat del coixí, les dades de son seran més precises</string>
     <string name="sleep_detection_enable">Analitza el cicle del son</string>
     <string name="sleep_detection_feedback">Comentaris</string>
-    <string name="sleep_detection_guide_four_description">El seguiment del son consumirà aproximadament l’1% de la bateria diàriament.</string>
+    <string name="sleep_detection_guide_four_description">El seguiment del son només consumeix aproximadament l’1% de la bateria per nit</string>
     <string name="sleep_detection_guide_four_high_power_description">Assegureu-vos que el dispositiu està prou carregat abans d’anar a dormir. Una bateria baixa pot interrompre el seguiment del son.</string>
     <string name="sleep_detection_guide_four_high_power_title">Manteniu el dispositiu carregat</string>
     <string name="sleep_detection_guide_four_title">Consum energètic baix</string>
@@ -1022,7 +1096,7 @@ Si aquest problema es produeix freqüentment, comproveu si el dispositiu té tas
     <string name="sleep_detector_title">Seguiment del son</string>
     <string name="sleep_detector_unopened">"Encara no heu començat a fer el seguiment del son."</string>
     <string name="sleep_duration">Durada del son</string>
-    <string name="sleep_duration_description">La durada del son és el temps entre que aneu a dormir i us aixequeu. Resten els períodes en què us desperteu i després torneu a dormir durant la nit.</string>
+    <string name="sleep_duration_description">"La durada del son és el moment en què no està despert durant el dia. En general, els adults han de dormir entre 7 i 9 hores, mentre que els adolescents han de dormir més que els adults. Dormir prou és essencial per a una bona salut i benestar."</string>
     <string name="sleep_duration_enough_description">"Heu dormit prou."</string>
     <string name="sleep_duration_everyday">Durada diària del son</string>
     <string name="sleep_duration_fewer_description">"Heu dormit menys de 7 hores. Dormir més us seria millor."</string>
@@ -1036,7 +1110,6 @@ Si aquest problema es produeix freqüentment, comproveu si el dispositiu té tas
     <string name="sleep_goal_not_compliance">Son insuficient</string>
     <string name="sleep_goal_not_upto_standard">"No heu dormit prou."</string>
     <string name="sleep_health_model_hint">Recomanacions d’avaluació del son proporcionades per Miao Health</string>
-    <string name="sleep_incomplete_deep_light_data_tip">Per què la informació sobre el son lleuger i profund està incompleta?</string>
     <string name="sleep_keep_hard">Problemes per quedar-se adormit</string>
     <string name="sleep_light">Son lleuger</string>
     <string name="sleep_management_content1">Estableix els recordatoris per anar a dormir i aixecar-se</string>
@@ -1046,6 +1119,7 @@ Si aquest problema es produeix freqüentment, comproveu si el dispositiu té tas
     <string name="sleep_need_auto_start">Permeteu que s\'iniciï automàticament Xiaomi Health perquè les dades de son siguin més precises</string>
     <string name="sleep_need_background_run">Seleccioneu \"Sense restriccions\" perquè les dades de son siguin més precises</string>
     <string name="sleep_need_necessary_permissions">Concediu els permisos necessaris perquè les dades de son siguin més precises</string>
+    <string name="sleep_night_title">Son nocturn</string>
     <string name="sleep_no_data_info">"Passeu per un complet
 cicle del son"</string>
     <string name="sleep_no_deep_light_data_tip">"Per què no es registra el son lleuger i profund?"</string>
@@ -1077,6 +1151,8 @@ les dades de son"</string>
     <string name="sleep_snore_detection_desc">Detecta els roncs i les converses per obtenir més informació sobre el son</string>
     <string name="sleep_sober">Despert</string>
     <string name="sleep_sober_times_title">Us heu despertat</string>
+    <string name="sleep_state_this_month">"La son d’aquest mes"</string>
+    <string name="sleep_state_this_week">"El son d’aquesta setmana"</string>
     <string name="sleep_status">Estat del son</string>
     <string name="sleep_time_edit">Edita</string>
     <string name="sleep_time_standard_pattern">Estàndard: %1$dh</string>
@@ -1098,6 +1174,7 @@ les dades de son"</string>
     <string name="snore_detection_abnormal_state">La sessió s\'ha interromput</string>
     <string name="snore_detection_abnormal_state_description">El micròfon està desactivat</string>
     <string name="snore_detection_close_prompt">La detecció de roncs i converses està desactivada</string>
+    <string name="snore_detection_close_prompt_desc">"Fa temps que no detecteu roncs i converses. Hem desactivat aquesta funció per estalviar bateria. Toqueu per comprovar la configuració."</string>
     <string name="snore_detection_close_title">Voleu desactivar la detecció dels roncs i les converses?</string>
     <string name="snore_detection_enable">Detecta els roncs i les converses</string>
     <string name="snore_detection_guide_one_description">El so es gravarà mentre dormiu. L’aprenentatge automàtic permet a Xiaomi Health detectar els roncs, les converses i els sorolls forts, i desar els enregistraments al dispositiu.</string>
@@ -1151,7 +1228,61 @@ les dades de son"</string>
     <string name="solar_term_white_dews">Rosada</string>
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
+    <string name="sport_btn_continue">Resum</string>
+    <string name="sport_btn_finish">Final</string>
+    <string name="sport_btn_lock">Bloqueig</string>
+    <string name="sport_btn_pause">Pausa</string>
+    <string name="sport_btn_unlock">Descobrir</string>
+    <string name="sport_counter_begin">Comença ara</string>
+    <string name="sport_home_begin">Començar</string>
+    <string name="sport_home_set_goal">Estableix l’objectiu</string>
+    <string name="sport_invalid_dialog_distance_content">La distància que heu recorregut durant aquest entrenament és massa curta per crear un historial. Voleu acabar aquest entrenament de totes maneres?</string>
+    <string name="sport_invalid_dialog_time_content">Aquest entrenament va durar menys de 5 segons. Acabeu ara sense gravar-lo?</string>
+    <string name="sport_invalid_dialog_title">Massa ràpid!</string>
+    <string name="sport_menu_share">Compartir</string>
+    <string name="sport_no_internet_toast">"No es pot accedir a la vostra ubicació precisa a causa d'un senyal de xarxa deficient."</string>
+    <string name="sport_pace_chart_last_km">Menys d’1 km</string>
+    <string name="sport_pace_step_unit">SPM</string>
+    <string name="sport_pref_category_voice">Àudio</string>
+    <string name="sport_pref_gps_voice_title">Indicacions de veu del senyal GPS</string>
+    <string name="sport_pref_voice_assist_summary">Escolteu informació i suggeriments durant els entrenaments</string>
+    <string name="sport_pref_voice_assist_title">Sol·licituds de veu</string>
+    <string name="sport_settings_title">Entrenaments</string>
+    <string name="sport_share_fail">"No s'ha pogut compartir. Torna-ho a provar"</string>
+    <string name="sport_share_save_local">S\'ha desat correctament</string>
+    <string name="sport_share_save_local_fail">"No s'ha pogut desar. Torna-ho a provar."</string>
+    <string name="sport_share_save_local_success">S\'ha desat correctament</string>
+    <string name="sport_share_success">S\'ha compartit correctament</string>
+    <string name="sport_share_title">Compartir</string>
+    <string name="sport_step_average_frequency">Mitjana</string>
+    <string name="sport_step_max_frequency">El més alt</string>
+    <string name="sport_step_min_frequency">El més baix</string>
+    <string name="sport_title_step_frequency">Cadència</string>
+    <string name="sport_tts_begin_riding">Comença a pedalar</string>
+    <string name="sport_tts_begin_running">Comença a córrer</string>
+    <string name="sport_tts_begin_walking">Comença a caminar</string>
+    <string name="sport_tts_finish_by_user">Va ser un bon entrenament.</string>
+    <string name="sport_tts_goal_finish">Heu assolit el vostre objectiu. Felicitats!</string>
+    <string name="sport_tts_goal_finish_half">Estàs a mig camí! Seguiu endavant!</string>
+    <string name="sport_tts_last_km_spent">"Heu recorregut l’últim quilòmetre en %s"</string>
+    <string name="sport_tts_pause_by_user">L\'entrenament s\'ha posat en pausa</string>
     <string name="sport_type">Tipus d’entrenament</string>
+    <string name="sporting_content_speed">Ritme actual: %1$s %2$s per quilòmetre</string>
+    <string name="sporting_content_time">Durada de l\'entrenament: %1$s %2$s</string>
+    <string name="sporting_goal">Objectiu</string>
+    <string name="sporting_hint_exit_map">Tanca el mapa</string>
+    <string name="sporting_hint_long_press">Mantén premut per acabar</string>
+    <string name="sporting_hint_switch_to_map">Canvia al mapa</string>
+    <string name="sporting_key_calories">Cal</string>
+    <string name="sporting_key_km">KM</string>
+    <string name="sporting_key_speed">Ritme</string>
+    <string name="sporting_key_step">Passos</string>
+    <string name="sporting_key_time">Durada</string>
+    <string name="sporting_location">Localitza</string>
+    <string name="sporting_title_outdoor_riding">Ciclisme</string>
+    <string name="sporting_title_pause">En pausa</string>
+    <string name="sporting_title_running">Córrer</string>
+    <string name="sporting_title_waking">Caminant</string>
     <string name="stand">De peu</string>
     <string name="stand_assistant">De peu</string>
     <string name="stand_detection">Seguiment quan estigueu drets</string>
@@ -1171,6 +1302,9 @@ les dades de son"</string>
     <string name="stand_stop_reminding">"No ho tornis a mostrar"</string>
     <string name="standard_format">(estàndard: %1s)</string>
     <string name="standing_already">" Us heu aixecat"</string>
+    <string name="start_cycling">Comença a pedalar</string>
+    <string name="start_running">Comença a córrer</string>
+    <string name="start_walking">Comença a caminar</string>
     <string name="state_agree">D\'acord</string>
     <string name="state_auto_run_disenable">Desactivat</string>
     <string name="state_auto_run_enable">Activat</string>
@@ -1280,11 +1414,11 @@ les dades de son"</string>
     <string name="tb_home_exercise_card_speed_of_progress">Exercici. %1$s. Completat: %2$s. Objectiu: %3$s. Progrés: %4$s.</string>
     <string name="tb_home_heart_rate_card">Ritme cardíac. %1$d pulsacions per minut. Gravat el dia %2$s</string>
     <string name="tb_home_heart_rate_card_no_data">Ritme cardíac. No hi ha dades.</string>
-    <string name="tb_home_sleep_card">Son. %1$s avui. Vau anar al llit a les %2$s. Us vau despertar a les %3$s. %4$s.</string>
+    <string name="tb_home_sleep_card">"Dormit d'avui: %1$s, %2$s"</string>
     <string name="tb_home_sleep_card_no_data">Son. Sense dades avui.</string>
     <string name="tb_home_sleep_card_not_open_trace">Son. L’anàlisi del cicle de son està desactivat.</string>
     <string name="tb_home_tip_open_data_sync">Sincronitza els elements de Xiaomi Health amb Xiaomi Cloud per accedir-hi des d\'altres dispositius. Toqueu dos cops per començar.</string>
-    <string name="tb_home_weight_card">Pes. %1$.1f quilograms. Hora de pesatge: %2$s. Estat: %3$s.</string>
+    <string name="tb_home_weight_card">Pes. %1$.2f quilograms. Hora de pesatge: %2$s. Estat: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Pes. No hi ha dades.</string>
     <string name="tb_manage_home">Aquí podeu suprimir o reorganitzar les targetes que es mostren a la pàgina d\'inici.</string>
     <string name="tb_mens_mark_success">S\'ha marcat correctament</string>
@@ -1472,7 +1606,7 @@ Voleu actualitzar-ho ara?</string>
     <string name="user_age_unit">Anys</string>
     <string name="user_agreement">Acord d\'usuari</string>
     <string name="user_birthday_display_format">dd/MM/yyyy</string>
-    <string name="user_center">Centre d\'usuari</string>
+    <string name="user_center">Perfil</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="value_error_correct">Edita el registre</string>

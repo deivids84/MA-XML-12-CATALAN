@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="HomePageTabTitle">
+        <item>Salut</item>
+        <item>Entrenaments</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Corrent</item>
+        <item>Caminant</item>
+        <item>Ciclisme</item>
+        <item>Cinta de córrer</item>
+        <item>Entrenament</item>
+    </string-array>
     <string-array name="arr_prompt_label">
         <item>Raonable</item>
         <item>Llarg</item>

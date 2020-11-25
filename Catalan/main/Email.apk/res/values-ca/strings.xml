@@ -294,6 +294,8 @@
     <string name="body_forward_email_text">[Reenvia]</string>
     <string name="body_hint">Escriure un correu electrònic</string>
     <string name="body_inline_pic_text">[Imatge]</string>
+    <string name="bottom_bar_more_pdf">Exporta a PDF</string>
+    <string name="bottom_bar_more_pdf_exporting">S\'està exportant…</string>
     <string name="bottom_bar_more_quickreply">Resposta ràpida</string>
     <string name="bottom_bar_more_share">Compartir</string>
     <string name="bottom_bar_no_quickreply_toast">Sense respostes ràpides</string>
@@ -375,6 +377,7 @@
     <string name="contact_list_title">Contactes</string>
     <string name="contact_permission_error">"L'accés als contactes del telèfon està restringit"</string>
     <string name="contact_select">Selecciona contactes</string>
+    <string name="contain_view_all_body">Veure el text complet del missatge</string>
     <string name="content_description">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
     <string name="content_description_today">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
     <string name="contextmenu_add">Afegeix als contactes</string>
@@ -416,6 +419,7 @@
     <string name="conversation_view">Vista de conversa</string>
     <string name="conversation_view_keywords">vista de conversa;conversa del correu</string>
     <string name="copied">Copiat</string>
+    <string name="copy">Copia</string>
     <string name="copy_email">Copia l\'adreça del correu electrònic</string>
     <string name="copy_number">Copia el número telefònic</string>
     <string name="create_action">Nou</string>
@@ -484,6 +488,10 @@
     <string name="drawer_close">Tancar el calaix de navegació</string>
     <string name="drawer_contacts">Contactes</string>
     <string name="drawer_open">Obre calaix de navegació</string>
+    <string name="drive_card_button_tips">Copieu el codi extret i obteniu el contingut compartit</string>
+    <string name="drive_card_code">codi d\'extracció</string>
+    <string name="drive_card_tips">S\'ha trobat l\'enllaç per compartir de %s</string>
+    <string name="drive_card_title">Enllaç de disc</string>
     <string name="dtend">Acaba</string>
     <string name="dtstart">Comença</string>
     <string name="due">Venciment</string>
@@ -509,6 +517,7 @@
 %s "</string>
     <string name="exception_updated">Els detalls d\'aquest esdeveniment s\'han canviat per: %s</string>
     <string name="exchange_name">Corporatiu</string>
+    <string name="expand_button_title">Avançat</string>
     <string name="expand_recipient_details">Ampliar detalls del destinatari</string>
     <string name="expand_slide">Mostra el menú lateral</string>
     <string name="fail_get_email_message">Recuperació de missatge fallida.</string>
@@ -655,6 +664,13 @@
     <string name="interact_with_server_error">"No s'ha pogut connectar amb el servidor"</string>
     <string name="invalid_recipient">L\'adreça %s no és vàlida.</string>
     <string name="invalid_recipient_title">Error amb destinatari</string>
+    <string name="invoice_card_amount">quantitat</string>
+    <string name="invoice_card_buyer">comprador</string>
+    <string name="invoice_card_date">data</string>
+    <string name="invoice_card_open">obre la factura</string>
+    <string name="invoice_card_save">desa la factura</string>
+    <string name="invoice_card_seller">venedor</string>
+    <string name="invoice_card_title">factura electrònica</string>
     <string name="kilobytes">%s KB</string>
     <string name="list_empty_to_fresh">Encara no hi ha correus.</string>
     <string name="load_from_remote">Continua la recerca al servidor</string>
@@ -681,6 +697,8 @@
     <string name="login_des_yahoo">Inicieu la sessió a Yahoo Mail</string>
     <string name="login_des_yangdex">Inicieu la sessió a Yandex Mail</string>
     <string name="login_err_message">Utilitzeu els codis de pas autoritzats per iniciar la sessió a %1$s si heu seleccionat anteriorment aquesta opció. Aneu a https://email.163.com/ per restablir la contrasenya o el codi de pas.</string>
+    <string name="login_err_outlook_msg">"%s
+Confirmeu si la contrasenya de l'aplicació està activada; si està activada, aneu al lloc web de Microsoft per restablir la contrasenya de l'aplicació."</string>
     <string name="login_err_sina_message">Utilitzeu els codis de pas autoritzats per iniciar la sessió a %1$s si heu seleccionat anteriorment aquesta opció. Aneu a https://mail.sina.com.cn/ per restablir la contrasenya o el codi de pas.</string>
     <string name="login_failed_ticker">%s inici de sessió infructuós.</string>
     <string name="login_failed_tip">"Contacteu-nos a WeChat per obtenir ajuda: "</string>
@@ -701,7 +719,8 @@
     <string name="mail_login_help_details2">2. Els codis d’autorització de tercers es poden utilitzar per iniciar la sessió en clients de correu de tercers quan els serveis POP3/IMAP/SMTP estan habilitats.</string>
     <string name="mail_login_help_title">Contrasenya del correu/Client de tercers:</string>
     <string name="mail_outlook_login_tips">"Se us redirigirà a Microsoft per introduir la contrasenya"</string>
-    <string name="mail_outlook_oauth_login">Inicia la sessió amb OAuth</string>
+    <string name="mail_outlook_oauth_login">"Inicieu la sessió amb OAuth
+(els usuaris personals de l'Outlook no poden sincronitzar els calendaris quan inicien sessió amb OAuth)"</string>
     <string name="mail_outlook_psw_login">Inicia la sessió mitjançant la contrasenya</string>
     <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
     <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
@@ -784,6 +803,7 @@
     <string name="menu_search">Cerca</string>
     <string name="menu_settings">Configuració</string>
     <string name="merged_mailbox_compose_select_account">Seleccioneu un Compte</string>
+    <string name="message_all_body">Text complet</string>
     <string name="message_body_load_set_description">Mida de la càrrega de nous correus en utilitzar dades mòbils</string>
     <string name="message_compose_insert_quick_response_list_title">Inseriu una resposta ràpida</string>
     <string name="message_decode_error">"No es pot desxifrar el missatge"</string>
@@ -842,6 +862,7 @@ Proveu a canviar a un compte de correu diferent."</string>
     <string name="no_recognize_describe">"No s'han pogut trobar correus electrònics que continguin entrades o reserves. 
 Proveu una safata d'entrada diferent."</string>
     <string name="no_search_results">Cerca en el servidor</string>
+    <string name="not_set">No configurat</string>
     <string name="not_subject">(Sense assumpte)</string>
     <string name="not_synced_title">Compte no sincronitzat</string>
     <string name="notification_action_archive">Fitxer</string>
@@ -942,6 +963,9 @@ Proveu una safata d'entrada diferent."</string>
     <string name="pdf_has_signature_prompt_cancel">Obriu el fitxer original</string>
     <string name="pdf_has_signature_prompt_confirm">Còpia oberta</string>
     <string name="pdf_has_signature_prompt_message">S\'ha detectat una còpia signada d\'aquest fitxer adjunt. Obert o no？</string>
+    <string name="pdf_save_error">El cos és massa gran i no es pot exportar com a fitxer PDF</string>
+    <string name="pdf_save_no_body">Espereu que el text es carregui correctament i torneu-ho a provar</string>
+    <string name="pdf_save_to">Desat a</string>
     <string name="pdf_signature_create_title">Crea una signatura</string>
     <string name="pdf_signature_manager_max_count">Nombre màxim de signatures. Suprimiu la signatura existent i torneu-ho a provar</string>
     <string name="pdf_signature_manager_title">Gestor de signatures</string>
@@ -1004,6 +1028,7 @@ Proveu una safata d'entrada diferent."</string>
     <string name="policy_screen_timeout">Espera que el dispositiu estigui inactiu per blocar la pantalla</string>
     <string name="policy_text_truncation">Restringeix la mida del text email</string>
     <string name="prefDefault_autoAdvance">llista</string>
+    <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="preference_eas_tips">La següent pàgina d\'activació és requerida pel servidor de correus, si us plau, permeti que s\'activi.</string>
     <string name="preference_pop_tips">Els adjunts es baixaran amb el contingut del correu ja que el protocol POP3 ho requereix obligatòriament. Aneu amb compte si feu servir les dades mòbils.</string>
     <string name="preference_sender_image_description">"Mostrar al costat del nom a la llista de conversa"</string>
@@ -1324,6 +1349,11 @@ Espereu fins que se sincronitzi completament o visualitzeu el missatge al vostre
     <string name="toolbar_part_symbol">Punt de paràgraf</string>
     <string name="topic_merge">Mostra la configuració</string>
     <string name="topic_merge_summary">Agrupa per tema</string>
+    <string name="train_card_title">El bitllet de tren s’ha comprat amb èxit</string>
+    <string name="train_card_title_alternate">S\'està esperant el bitllet de tren amb èxit</string>
+    <string name="train_card_title_change">El bitllet de tren s’ha canviat correctament</string>
+    <string name="train_card_title_change_arrival">El bitllet de tren s’ha canviat correctament</string>
+    <string name="train_card_title_refund">Reembossament reeixit del bitllet de tren</string>
     <string name="translation_loading">Un moment…</string>
     <string name="translation_no_result">No s\'han trobat resultats</string>
     <string name="translation_pronunciation_am">ArE</string>
@@ -1369,6 +1399,8 @@ Voleu aturar-ho?"</string>
     <string name="user_privacy_settings_path">Per revocar l’autorització, aneu a Configuració &gt; Configuració de privadesa.</string>
     <string name="user_privacy_settings_summary">"Recopilarem la vostra ID d’Android en forma xifrada i l’utilitzarem com a identificador d’usuari únic a Correu. També podríem recopilar els registres d’ús. Podeu revocar l’autorització a configuració de privadesa en qualsevol moment."</string>
     <string name="user_privacy_settings_title">Declaració de privadesa del correu</string>
+    <string name="v7_preference_off">DESACTIVAT</string>
+    <string name="v7_preference_on">ACTIVAT</string>
     <string name="validation_failed_prompt">"Error de validació, si us plau configureu el servidor %s"</string>
     <string name="verify_code">Verifica el codi</string>
     <string name="version_string">Versió: %s</string>
@@ -1390,6 +1422,9 @@ Toqueu\"<b>Sincronitza ara</b> per sincronitzar el correu una vegada o <b>Canvie
     <string name="wipe_account_fail_description">Permet</string>
     <string name="wipe_account_fail_description_remind">A causa de les restriccions d\'ús de dades, poden haver-hi dades residuals al Calendari i a Contactes després de suprimir el compte. Elimineu aquests elements manualment.</string>
     <string name="wipe_account_fail_title">"No s'ha pogut eliminar la informació personal"</string>
+    <string name="wps_card_button_tips">Obriu el document de Kingsoft</string>
+    <string name="wps_card_tips">S\'ha trobat l\'enllaç per compartir de \"%s\"</string>
+    <string name="wps_card_title">Document de Kingsoft</string>
     <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">La contrasenya és incorrecta</string>
     <string name="xiaomi_auth_toastbar">Inicieu la sessió per autoritzar el dispositiu</string>

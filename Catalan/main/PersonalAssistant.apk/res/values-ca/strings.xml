@@ -155,7 +155,7 @@
     <string name="app_debug_settings_vaid">VAID</string>
     <string name="app_debug_settings_vaid_summary">(Feu clic per copiar el VAID)</string>
     <string name="app_disclaimer_content">Aquesta funció està proporcionada per %1$s. %1$s assumirà tota la responsabilitat relacionada amb els serveis que ofereix. Podeu contactar amb %1$s si teniu cap pregunta.</string>
-    <string name="app_disclaimer_title">Descàrrec</string>
+    <string name="app_disclaimer_title">Exempció de responsabilitat</string>
     <string name="app_display_linkage_default">Innovació per a tothom</string>
     <string name="app_display_setting_edit_hint">Toqueu aquí per editar</string>
     <string name="app_display_setting_edit_instruction">Els títols es mostren a la part superior del magatzem d\'aplicacions. Poden contenir fins a 14 caràcters xinesos o fins a 28 lletres.</string>
@@ -503,6 +503,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="card_expand_note_dialog_title">S\'estan desant les notes</string>
     <string name="card_expand_note_sure_clear_all">Esborra ara</string>
     <string name="card_expand_note_toast_clear_null">S\'ha netejat amb èxit</string>
+    <string name="card_expand_note_toast_install">Instal·leu Notes per poder utilitzar aquesta funció</string>
     <string name="card_expand_note_toast_save_done">S\'ha desat a Notes</string>
     <string name="card_expand_note_toast_save_dup">S\'ha desat amb èxit</string>
     <string name="card_expand_note_toast_share_null">Aquesta nota està buida</string>

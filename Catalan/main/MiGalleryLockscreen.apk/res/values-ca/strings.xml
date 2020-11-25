@@ -205,6 +205,7 @@
     <string name="detail_menu_history">Historial</string>
     <string name="detail_menu_home">Vés a la pàgina d\'inici</string>
     <string name="detail_menu_setting">Configuració de l\'aplicació</string>
+    <string name="detail_menu_settingbtn_save">Desa a la galeria</string>
     <string name="detail_menu_settingbtn_setting">Configuració</string>
     <string name="detail_menu_settingbtn_share">Comparteix</string>
     <string name="detail_menu_wall">"Fons de pantalla d’avui"</string>

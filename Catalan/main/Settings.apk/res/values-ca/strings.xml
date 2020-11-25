@@ -266,6 +266,7 @@ Per canviar de funcions, feu lliscar el dit cap amunt amb 3 dits i manteniu prem
     <string name="accessibility_vibration_summary_low">So de trucada i notificació baix</string>
     <string name="accessibility_vibration_summary_medium">So de trucada i notificació mitjà</string>
     <string name="accessibility_vibration_summary_off">So de trucada i notificació desactivat</string>
+    <string name="accessibility_voice_access_title">Controls de veu</string>
     <string name="accessibility_vpn_settings_info">Configuració VPN</string>
     <string name="accessibility_wifi_off">WLAN està desactivada.</string>
     <string name="accessibility_wifi_one_bar">WLAN una barra.</string>
@@ -664,6 +665,8 @@ Canvieu la configuració ara?"</string>
     <string name="audio_files_title">Fitxers d\'àudio</string>
     <string name="audio_profile_settings_title">Perfils d\'àudio</string>
     <string name="audio_record_proc_title">Redueix la fressa de fons</string>
+    <string name="audio_share_cancel">No gràcies</string>
+    <string name="audio_share_confirm">Compartir</string>
     <string name="auto_adjst_effect_summary">Ajusteu la temperatura del color a la llum ambiental automàticament per mantenir un nivell de confort òptim</string>
     <string name="auto_adjust_effect_title">Ajusteu la temperatura del color automàticament</string>
     <string name="auto_brightness_default_title">Per defecte</string>
@@ -1037,6 +1040,8 @@ Aplicacions:
     <string name="bluetooth_ask_enablement_no_name">Una aplicació vol activar el Bluetooth</string>
     <string name="bluetooth_ask_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicació vol fer que el telèfon estigui visible per a altres dispositius Bluetooth. Podeu canviar això més tard a la configuració del Bluetooth.</string>
+    <string name="bluetooth_audio_share_feature_notice_summary">Voleu compartir àudio amb altres dispositius connectats?</string>
+    <string name="bluetooth_audio_share_feature_notice_title">Comparteix àudio</string>
     <string name="bluetooth_battery_level">%1$s de bateria</string>
     <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
     <string name="bluetooth_broadcasting">Difusió</string>
@@ -1362,7 +1367,7 @@ Selecció"</string>
     <string name="bootloader_status_locked">Bloquejat</string>
     <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
     <string name="bootloader_status_locked_summary">El telèfon està assegurat</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Unlock necessita accés al vostre compte Mi, l\'identificador de la CPU, IMEI, IMSI per funcionar amb normalitat. Recopilem, utilitzem i processem les vostres dades d’acord amb els nostres %s. Hi esteu d\'acord?</string>
+    <string name="bootloader_status_privacy_dialog_message">Mi Desbloqueig necessita accés al vostre compte Mi, identificador de CPU, IMSI per funcionar amb normalitat. Recopilem, fem servir i processem les vostres dades d’acord amb el nostre %s. Acordar?</string>
     <string name="bootloader_status_privacy_dialog_no">Cancel·la</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos necessaris</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de privadesa</string>
@@ -1396,6 +1401,9 @@ Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius
     <string name="bt_absVolume_open_dialog_title">Atenció</string>
     <string name="bt_absVolume_pre_title">Volum absolut</string>
     <string name="bt_absVolume_summary">"Mantingueu el volum dels dispositius Bluetooth i del telèfon estrictament coherents. Podeu activar i desactivar aquesta funció quan el contingut multimèdia no es reprodueix en segon pla."</string>
+    <string name="bt_audio_share_property">Compartir</string>
+    <string name="bt_audio_share_switch_summary">Comparteix àudio amb dispositius Bluetooth connectats</string>
+    <string name="bt_audio_share_switch_title">Comparteix àudio</string>
     <string name="bt_dialog_remember_choice">"No es torni a mostrar"</string>
     <string name="bt_dialog_settings">Configuració</string>
     <string name="bt_hci_snoop_log">Activa HCI Snoop log Bluetooth</string>
@@ -1624,7 +1632,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="clear_adb_keys">Revoca les autoritzacions de depuració USB</string>
     <string name="clear_all_data">Esborra totes les dades</string>
     <string name="clear_cache_btn_text">Esborra la memòria cau</string>
-    <string name="clear_data_alert_info">Totes les còpies de seguretat emmagatzemades en aquest dispositiu se suprimeixen de manera permanent. Faci una còpia de seguretat d’elements importants al vostre ordinador i Xiaomi Cloud abans de continuar.</string>
+    <string name="clear_data_alert_info">Totes les còpies de seguretat emmagatzemades en aquest dispositiu se suprimiran permanentment. Feu una còpia de seguretat d’elements importants a l’ordinador i a Xiaomi Cloud abans de realitzar un restabliment de fàbrica.</string>
     <string name="clear_data_dlg_text">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
     <string name="clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
     <string name="clear_failed_dlg_text">No s\'han pogut suprimir les dades de l\'aplicació.</string>
@@ -1831,7 +1839,7 @@ Aquesta informació identifica si els vostres contactes poden utilitzar determin
     <string name="control_center">Centre de control</string>
     <string name="control_center_style">Estil del centre de control</string>
     <string name="control_center_style_summary">"Seleccioneu com voleu mostrar les activacions i les notificacions"</string>
-    <string name="control_panel_switch_side">Control central d’interruptor lateral</string>
+    <string name="control_panel_switch_side">Canvia el costat del centre de control</string>
     <string name="controls_label">Controls</string>
     <string name="controls_subtitle">Ajusta l\'ús d\'energia</string>
     <string name="convenience_key_category_title">Control del sistema</string>
@@ -1964,8 +1972,10 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
     <string name="dark_color_mode">Mode fosc</string>
     <string name="dark_color_summary_lcd">"Utilitza una paleta de colors més fosca per als fons de sistema i aplicacions compatibles. El mode fosc us pot ajudar a alleujar la tensió dels ulls quan utilitzeu el dispositiu a les fosques."</string>
     <string name="dark_color_summary_oled">Utilitza una paleta de colors més fosca per als fons de sistema i aplicacions compatibles. El mode fosc redueix el consum d’energia i ajuda a alleujar la tensió ocular.</string>
+    <string name="dark_mode_apps_header">Aplicacions individuals</string>
     <string name="dark_mode_contrast">Ajusteu el contrast automàticament</string>
     <string name="dark_mode_contrast_hint">Ajusteu els colors i reduïu el contrast automàticament quan es redueix la brillantor</string>
+    <string name="dark_mode_font_background_title">Ajusteu text i fons automàticament</string>
     <string name="dark_theme_slice_subtitle">Ajuda a allargar la durada de la bateria</string>
     <string name="dark_theme_slice_title">Proveu el tema fosc</string>
     <string name="dark_ui_activation_off_auto">Apagueu fins al capvespre</string>
@@ -2268,6 +2278,7 @@ Aquesta configuració afecta tots els usuaris d’aquest dispositiu."</string>
     <string name="device_oaid">Gestiona l\'ID virtual</string>
     <string name="device_oaid_desc">En lloc del vostre identificador únic, MIUI proporcionarà un ID virtual (OAID) a les aplicacions instal·lades. Evita que les aplicacions segueixin el vostre comportament i preferències i protegeix la vostra privadesa.</string>
     <string name="device_oaid_title">Identificador virtual</string>
+    <string name="device_opcust_version">Versió per a operador</string>
     <string name="device_picker">Tria un dispositiu Bluetooth</string>
     <string name="device_rear_camera">Càmera</string>
     <string name="device_screen_resolution">Resolució de pantalla</string>
@@ -2289,7 +2300,7 @@ Aquesta configuració afecta tots els usuaris d’aquest dispositiu."</string>
 Per intentar solucionar aquest problema, podeu aturar %1$s i evitar que s'executi en segon pla."</string>
     <string name="dialog_background_check_ok">Desactiva</string>
     <string name="dialog_background_check_title">Voleu desactivar l’ús en segon pla i aturar l’aplicació?</string>
-    <string name="dialog_backup_title">Vols actualitzar les còpies de seguretat abans de realitzar el restabliment de fàbrica?</string>
+    <string name="dialog_backup_title">Voleu fer una còpia de seguretat d’elements primer?</string>
     <string name="dialog_chose_item">Seleccioneu un element per visualitzar-lo</string>
     <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
     <string name="dialog_location_message">"El telèfon no pot gestionar la bateria amb normalitat perquè %1$s manté la sol·licitud de la ubicació quan no està utilitzant l'aplicació.
@@ -2686,6 +2697,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="erase_sure">Dades personals</string>
     <string name="error_adding_apn_type">L\'operador no permet afegir APN del tipus %s.</string>
     <string name="error_apn_empty">L\'APN no pot quedar buit.</string>
+    <string name="error_apn_restrict_string">"El camp APN no pot contenir %1$s"</string>
     <string name="error_capturing_system_heap_dump_message">No s\'ha pogut capturar el bolcat de sistemes</string>
     <string name="error_mcc_not3">El camp MCC ha de tenir 3 dígits.</string>
     <string name="error_mnc_not23">El camp MNC ha de tenir 2 o 3 dígits.</string>
@@ -2705,6 +2717,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
     <string name="extended_power_menu">Menú ampliat d\'energia</string>
+    <string name="exterior">Esquema de colors</string>
     <string name="external_code_size_label">Codi a la memòria externa</string>
     <string name="external_data_size_label">Dades a la memòria externa</string>
     <string name="external_source_switch_title">Permet d\'aquesta font</string>
@@ -2770,7 +2783,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_unlock_success_show_message_dialog_msg">Permet bloquejar les notificacions de la pantalla per poder-les visualitzar a la pantalla de bloqueig.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">No gràcies</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Permetre</string>
-    <string name="face_unlock_success_show_message_dialog_title">Bloquejar les notificacions de la pantalla</string>
+    <string name="face_unlock_success_show_message_dialog_title">Notificacions de la pantalla de bloqueig</string>
     <string name="face_unlock_success_show_message_msg">Mostra només l’origen de notificació quan el dispositiu està bloquejat i afegeix detalls de notificació després de verificar les dades de la cara</string>
     <string name="face_unlock_success_show_message_title">Mostra els detalls de les notificacions després de verificar les dades de la cara</string>
     <string name="face_unlock_success_show_message_toast">Les notificacions es mostraran a la pantalla de bloqueig</string>
@@ -3581,7 +3594,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="led_settings">Llum LED</string>
     <string name="left_edge">Borde esquerre</string>
     <string name="left_function_key">Drecera de l\'esquerra</string>
-    <string name="legacy_control_center_desc">Estireu la barra d\'estat cap avall per veure les activacions i les notificacions</string>
+    <string name="legacy_control_center_desc">Estireu la barra d\'estat cap avall per veure els commutadors i les notificacions</string>
     <string name="legacy_control_center_title">Versió antiga</string>
     <string name="legacy_navigation_summary">Torneu enrere, aneu a Inici i canvieu les aplicacions amb els botons de la part inferior de la pantalla.</string>
     <string name="legacy_navigation_title">Navegació amb 3 botons</string>
@@ -3593,6 +3606,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="legal_written_offer">Oferta escrita</string>
     <string name="license_title">Llicència</string>
     <string name="lift_to_wake_title">Aixeca\'l per reactivar-lo</string>
+    <string name="light_color_mode">Mode llum</string>
     <string name="lights_title">Llum LED</string>
     <string name="line_breaking_summary">Optimitza els salts de línia del paràgraf</string>
     <string name="line_breaking_title">Optimitza el text</string>
@@ -4269,7 +4283,7 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
     <string name="model_name">Nom del model</string>
     <string name="model_number">Dispositiu</string>
     <string name="model_summary">Model: %1$s</string>
-    <string name="modern_control_center_desc">Tireu cap avall la barra d\'estat de l\'esquerra per veure les notificacions. Tireu cap avall la barra d\'estat de la dreta per obrir el centre de control.</string>
+    <string name="modern_control_center_desc">Estireu cap avall a l\'esquerra de la barra d\'estat per veure les notificacions. Estireu cap avall a la dreta de la barra d\'estat per obrir el Centre de control.</string>
     <string name="modern_control_center_title">Versió nova</string>
     <string name="modify_default_browser_message">Si configureu una aplicació de tercers com a navegador predeterminat, pot començar a recopilar l’historial de navegació i altres dades. Voleu establir-lo de totes maneres?</string>
     <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
@@ -4278,6 +4292,7 @@ Si canvieu a %1$s, no cancel·lareu el servei de %2$s."</string>
     <string name="module_version">Actualització del sistema de Google Play</string>
     <string name="more_account_settings_title">Altres comptes</string>
     <string name="more_dangerous_option_hint">Les funcions d’alt risc incloses \"%1$s\" estan habilitades. Toqueu per canviar la configuració.</string>
+    <string name="more_dark_mode_settings">Més opcions de mode fosc</string>
     <string name="more_installed_services_title">Serveis més baixats</string>
     <string name="move_app">Desplaça</string>
     <string name="move_app_failed_dlg_text">"No s'ha pogut moure l'aplicació. %1$s"</string>
@@ -5427,7 +5442,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="repeat_days_in_week">Repetir</string>
     <string name="repeat_never">Mai</string>
     <string name="repeat_title">Repeteix</string>
-    <string name="requires_modern_control_center">Funciona amb la nova versió de Control Center</string>
+    <string name="requires_modern_control_center">Funciona amb la nova versió del Centre de control</string>
     <string name="reset_aaid">Reinicia l\'identificador de publicitat</string>
     <string name="reset_app_preferences">Reinicia les preferències de les aplicacions</string>
     <string name="reset_app_preferences_button">Restableix les aplicacions</string>
@@ -5479,6 +5494,7 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="reset_title">Restabliment</string>
     <string name="resetting_second_space_passwd">Restableix la contrasenya del Segon espai</string>
     <string name="resident_timezone_summary">Segon rellotge</string>
+    <string name="resolution_qhd_summary">3200 × 1440 (consumeix més energia)</string>
     <string name="resolver_settings_label">Ordena</string>
     <string name="restore_default_apn">S\'està restaurant la configuració APN per defecte.</string>
     <string name="restore_default_apn_completed">S\'ha restablert la configuració APN per defecte.</string>
@@ -5579,6 +5595,8 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="rx_wifi_speed">Velocitat d\'enllaç</string>
     <string name="safety_and_regulatory_info">Manual de seguretat i regulació</string>
     <string name="save">Desa</string>
+    <string name="save_battery_mode">Estalvieu energia amb QHD +</string>
+    <string name="save_battery_mode_summary">Canvieu la resolució automàticament per estalviar energia</string>
     <string name="saved_network">Desat per %1$s</string>
     <string name="saved_wifi">Xarxes desades</string>
     <string name="saved_wifi_delete">Elimina</string>
@@ -5597,15 +5615,28 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_compatibility_label">Compatibilitat de pantalla</string>
     <string name="screen_compatibility_text">Aquesta aplicació no està pensada per aquesta pantalla. Configureu-ho des d\'aquí.</string>
     <string name="screen_confirm">Activa</string>
-    <string name="screen_dark_mode_advanced_title">Avançat</string>
     <string name="screen_dark_mode_select_time_error_summary">"L’hora d’inici i acabament no pot ser el mateix"</string>
-    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplicacions de tercers</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Algunes aplicacions es podrien mostrar incorrectament en mode fosc. Podeu restringir l\'ús del mode fosc per a aplicacions individuals aquí.</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_title">Aplicacions individuals</string>
-    <string name="screen_dark_mode_smart_dark_summary">Apliqueu també el mode Dark a aplicacions de tercers. És possible que algunes aplicacions es mostrin de manera incorrecta.</string>
     <string name="screen_dark_mode_smart_dark_title">Mode fosc global</string>
-    <string name="screen_dark_mode_time_title">Programació</string>
+    <string name="screen_dark_mode_time_title">Programa el mode fosc</string>
     <string name="screen_effect">Contrast i colors</string>
+    <string name="screen_enhance_engine_ai_note">"Per assegurar-vos que la vostra experiència de visualització sigui natural, aquesta funció no funcionarà si la imatge consta de colors primaris o conté ajustaments avançats."</string>
+    <string name="screen_enhance_engine_ai_open">Millorar les imatges</string>
+    <string name="screen_enhance_engine_ai_pic_summary">Identifiqueu objectes (per exemple, plantes, animals, edificis) i ajusteu dinàmicament els efectes de visualització. Aquesta característica augmenta lleugerament el consum d\'energia.</string>
+    <string name="screen_enhance_engine_ai_title">Millora de la imatge AI</string>
+    <string name="screen_enhance_engine_memc_open">MEMC</string>
+    <string name="screen_enhance_engine_memc_pic_summary">Afegiu fotogrames addicionals als vídeos per fer que el contingut sembli suau i faci una transició animada.</string>
+    <string name="screen_enhance_engine_memc_title">MEMC</string>
+    <string name="screen_enhance_engine_s2h_open">Millora AI HDR</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">Processar vídeos amb efectes HDR per obtenir més detalls a les zones més clares i fosques i fer que els colors siguin més vibrants. Aquesta funció és compatible amb les aplicacions seleccionades.</string>
+    <string name="screen_enhance_engine_s2h_title">Millora AI HDR</string>
+    <string name="screen_enhance_engine_sr_for_pic">Millorar les imatges</string>
+    <string name="screen_enhance_engine_sr_for_video">Millorar els vídeos</string>
+    <string name="screen_enhance_engine_sr_pic_summary">Amplia la resolució d’imatges o vídeos fins a 1440p. Aquesta funció és compatible amb les aplicacions seleccionades i augmenta lleugerament el consum d\'energia.</string>
+    <string name="screen_enhance_engine_sr_title">Super resolució</string>
+    <string name="screen_enhance_engine_title">Motor d\'imatges AI</string>
+    <string name="screen_enhance_status_disable">Desactivat</string>
+    <string name="screen_enhance_status_enable">Activat</string>
     <string name="screen_fps_summary_power_save">L\'ús d\'una taxa fixa consumeix menys energia</string>
     <string name="screen_fps_summary_smooth">Algunes aplicacions augmentaran la taxa de refresc automàticament per millorar la qualitat de la imatge</string>
     <string name="screen_fps_title">Freqüència de refresc</string>
@@ -5717,7 +5748,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="screen_resolution_normal_format">Normal (%1$s)</string>
     <string name="screen_resolution_summary">"Baixar la resolució de la pantalla pot estalviar la bateria i accelerar el sistema, però les imatges de la pantalla quedaran menys clares."</string>
     <string name="screen_resolution_switch">Canvia la resolució</string>
-    <string name="screen_resolution_title">Resolució</string>
+    <string name="screen_resolution_title">Resolució de pantalla</string>
     <string name="screen_resolution_ultrahigh_format">Molt alta (%1$s)</string>
     <string name="screen_saturation">Saturació de color</string>
     <string name="screen_shot">Fes una captura de pantalla</string>
@@ -6420,7 +6451,6 @@ Toqueu dos cops per obrir Recents."</string>
     <string name="smart_home_value_none">Mai</string>
     <string name="smart_home_value_unknown">Desconeguda</string>
     <string name="smart_notifications_title">Notificacions adaptatives</string>
-    <string name="smart_space_clock">En un cop d’ull</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
     <string name="smartcover_sensitive_summary">Bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
     <string name="smartcover_sensitive_title">Mode Smartcover</string>
@@ -6531,7 +6561,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
     <string name="status_bar_settings_notification_use_app_icon">Utilitza les icones de l\'aplicació per a notificacions</string>
     <string name="status_bar_settings_qs_layout">Disposició de la configuració ràpida</string>
     <string name="status_bar_settings_show_lte_for_4g">Mostra la icona LTE per al 4G</string>
-    <string name="status_bar_settings_show_weather">Mostra informació meteorològica</string>
     <string name="status_bar_settings_status_bar">Barra d\'estat</string>
     <string name="status_bar_title">Centre de control i barra d\'estat</string>
     <string name="status_bt_address">Adreça del Bluetooth</string>
@@ -6845,6 +6874,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="swipe_up_to_switch_apps_suggestion_title">Proveu el nou botó d\'Inici</string>
     <string name="swipe_up_to_switch_apps_summary">Per canviar d\'aplicació, llisqueu cap amunt al botó d\'Inici. Per veure totes les aplicacions, feu lliscar cap amunt novament. Per tornar, toqueu el botó Enrere.</string>
     <string name="swipe_up_to_switch_apps_title">Navegació de 2 botons</string>
+    <string name="switchNetworkToast">La connexió a xarxes mòbils pot generar tarifes addicionals</string>
     <string name="switch_access_service_on">Canvia l’accés</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
@@ -6906,7 +6936,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tap_to_wake">Toca per activar-lo</string>
     <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">Durant 10 segons després de tocar-lo</string>
+    <string name="temporary_style">10 segons després de tocar la pantalla</string>
     <string name="terms_title">Termes i condicions</string>
     <string name="testing">S\'està provant</string>
     <string name="testing_phone_info">Informació del telèfon</string>
@@ -6928,6 +6958,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tether_over_limit_dialog_title">Avís d\'ús de dades</string>
     <string name="tether_over_limit_warning_notify_message">Desactiva el punt d\'accés portàtil.</string>
     <string name="tether_over_limit_warning_notify_title">S\'ha arribat al límit de dades del punt d\'accés</string>
+    <string name="tether_password_illegal_character">La contrasenya conté caràcters il·legals. torneu a entrar</string>
     <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés portàtil</string>
     <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre l\'estalvi de dades està activat</string>
     <string name="tether_settings_summary_all">Hotspot, USB, Bluetooth, Ethernet</string>
@@ -7192,7 +7223,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
     <string name="unlock_set_unlock_password_title">Contrasenya</string>
     <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
     <string name="unlock_set_unlock_pattern_title">Patró</string>
-    <string name="unlock_set_unlock_pin_summary">Introdueixi %1$d-%2$d dígits a dispositiu de desbloqueig</string>
+    <string name="unlock_set_unlock_pin_summary">Introdueixi %1$d-%2$d números de dispositiu de desbloqueig</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
     <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>

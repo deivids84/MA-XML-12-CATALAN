@@ -7,14 +7,6 @@
         <item>accessibility_control_autoclick_1sec</item>
         <item>accessibility_control_autoclick_custom</item>
     </string-array>
-    <string-array name="aggregate_entries">
-        <item>Grup</item>
-        <item>"No agrupeu"</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>S\'agruparan les notificacions promocionals i les relacionades amb el contingut</item>
-        <item>"Les notificacions automàtiques no s’agruparan"</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Xarxa domèstica</item>
         <item>Totes les xarxes</item>
@@ -493,7 +485,7 @@
         <item>false</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Bloqueja la pantalla</item>
+        <item>Pantalla de bloqueig</item>
         <item>Mode d\'infants</item>
         <item>Mode de mainada</item>
         <item>Gestor de fitxers</item>
@@ -586,16 +578,6 @@
     <string-array name="fluency_mode_summaries">
         <item>"Accelera el rendiment del dispositiu"</item>
         <item>"Pot alentir el rendiment del dispositiu"</item>
-    </string-array>
-    <string-array name="fold_entries">
-        <item>Recomanat</item>
-        <item>Important</item>
-        <item>Sense importància</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>MIUI decidirà quines notificacions han d’aparèixer directament</item>
-        <item>Les notificacions apareixeran a l\'àrea de notificacions</item>
-        <item>Les notificacions apareixeran en una carpeta independent</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 polzades</item>

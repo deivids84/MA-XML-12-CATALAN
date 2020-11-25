@@ -218,6 +218,11 @@
     <string name="delete_screen">Elimina la pantalla</string>
     <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
     <string name="deselect_all">Desselecciona-ho tot</string>
+    <string name="dialog_work_profile_button_1">Pròxim</string>
+    <string name="dialog_work_profile_button_2">Ho tinc</string>
+    <string name="dialog_work_profile_content_1">Les dades personals estan &amp; ocultes de les aplicacions de la feina</string>
+    <string name="dialog_work_profile_content_2">Treball aplicacions &amp; són visibles per a l\'administrador de TI de dades</string>
+    <string name="dialog_work_profile_title">Perfil laboral</string>
     <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
     <string name="double_tap_to_lock_title">Premeu dos cops per a blocar la pantalla</string>
     <string name="download_action">Baixa</string>
@@ -486,6 +491,9 @@
     <string name="recents_exit_multi_window_mode">Surt</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"No es pot utilitzar la pantalla dividida durant l'emissió"</string>
     <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
+    <string name="recents_layout_style">Organitzeu elements a Recents</string>
+    <string name="recents_layout_style_horizontal">Horitzontalment</string>
+    <string name="recents_layout_style_vertical">Verticalment</string>
     <string name="recents_smallwindow_text">Deixeu anar per afegir-ho</string>
     <string name="recents_task_screening">En emissió</string>
     <string name="recents_title_app_manager">Gestiona les aplicacions</string>

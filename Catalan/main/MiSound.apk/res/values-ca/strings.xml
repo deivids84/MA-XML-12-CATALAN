@@ -31,6 +31,7 @@
     <string name="app_name">Auriculars</string>
     <string name="apply_sound">Aplica</string>
     <string name="can_you_here">Podeu sentir el so?</string>
+    <string name="choose_bluetooth_device">Seleccioneu el dispositiu</string>
     <string name="complete_dialog_button">Entesos</string>
     <string name="complete_dialog_message">"Heu completat la prova amb èxit."</string>
     <string name="complete_dialog_title">Resultats de la prova</string>
@@ -39,6 +40,7 @@
     <string name="customization_continue">Continua</string>
     <string name="customization_pause_tip">Voleu aturar la prova? Connecteu els auriculars per continuar.</string>
     <string name="customization_quit">Surt</string>
+    <string name="end_wireless_transmission">Atura</string>
     <string name="eq_auto">Personalitzat</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Cancel·la</string>
@@ -188,8 +190,13 @@
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Aquest dispositiu</string>
     <string name="switch_audio_dialog_title">Canvia l’àudio a</string>
+    <string name="switch_bluetooth_device">Canvia de dispositiu</string>
     <string name="third_note">Trobeu un lloc tranquil.</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
+    <string name="wireless_transmission">Altaveu sense fil</string>
     <string name="wireless_transmission_cancel">Cancel·la</string>
+    <string name="wireless_transmission_confirm">Encendre</string>
+    <string name="wireless_transmission_definition">"Transmet el feed de micròfon del telèfon a un dispositiu Bluetooth extern"</string>
+    <string name="wireless_transmission_prompt">Per transmetre àudio, l’altaveu sense fils ha d’activar el Bluetooth. Voleu activar-lo ara?</string>
 </resources>

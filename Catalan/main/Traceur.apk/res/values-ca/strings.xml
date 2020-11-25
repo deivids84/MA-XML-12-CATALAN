@@ -254,7 +254,6 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="debug_monitoring_category">Monitoratge</string>
     <string name="debug_networking_category">Xarxes</string>
     <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
-    <string name="default_buffer_size">16384</string>
     <string name="default_categories">Per defecte</string>
     <string name="default_categories_restored">S\'han restaurat les categories per defecte</string>
     <string name="delete_blob_confirmation_text">Esteu segur que voleu suprimir aquestes dades compartides?</string>

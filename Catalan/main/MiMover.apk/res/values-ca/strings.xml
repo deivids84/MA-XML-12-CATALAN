@@ -527,6 +527,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="prompt_before_transmission_message4_title">Manteniu-vos connectat durant tot el trasllat</string>
     <string name="prompt_before_transmission_message5_summary">"La transferència de grans quantitats de dades sense fils pot provocar un lleuger sobreescalfament que no és anormal. El dispositiu es refredarà aviat un cop finalitzada la transferència."</string>
     <string name="prompt_before_transmission_message5_title">El vostre dispositiu pot escalfar-se durant les transferències.</string>
+    <string name="provision_receiver_finish_button">Pròxim</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">"No s'ha pogut rebre el QQ"</string>
     <string name="qq_app_send_fail">"No s'ha pogut enviar QQ"</string>

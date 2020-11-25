@@ -64,7 +64,7 @@
     <string name="app_clean_group_image_send">Imatges enviades</string>
     <string name="app_description_content">El netejador troba la brossa del dispositiu i allibera espai d\'emmagatzematge. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
     <string name="app_description_title">Quan al Netejador</string>
-    <string name="app_name">JunkEngine</string>
+    <string name="app_name">Preferència</string>
     <string name="app_usage_never">No utilitzada recentment</string>
     <string name="app_usage_recently">Utilitzada recentment</string>
     <string name="appcleaner_g_audio_summary_qq">Suprimeix permanentment els missatges de veu de QQ</string>
@@ -133,6 +133,8 @@
     <string name="auto_clean_time_three_day">Cada 3 dies</string>
     <string name="auto_cleaner_open">Activa</string>
     <string name="back">Enrere</string>
+    <string name="browser_scan_history_desc">Historial de navegació</string>
+    <string name="browser_search_history_desc">Elements cercats</string>
     <string name="btn_text_done">Fet</string>
     <string name="btn_text_quick_cleanup">Neteja</string>
     <string name="btn_text_quick_cleanup_apk">Esborra els %1$s APK seleccionats</string>
@@ -176,6 +178,7 @@
     <string name="cache_title_empty_folder2">Carpeta buida</string>
     <string name="cache_title_system_cache">Memòria cau del sistema</string>
     <string name="cached_garbage">Memòria cau</string>
+    <string name="call_log">Registre de trucades</string>
     <string name="cancel">Cancel·la</string>
     <string name="cd_back">enrere</string>
     <string name="cd_check_box_checked">comprovat</string>
@@ -204,7 +207,9 @@
     <string name="clean_summary">S\'han netejat %1$s</string>
     <string name="clear_bigfiles">Elimineu fitxers grans, fotos duplicades i altres elements obsolets</string>
     <string name="clear_immediately">Neteja-ho ara</string>
-    <string name="clear_safe_notify">Barra de notificacions de seguretat</string>
+    <string name="clear_safe_notify">Giny de l\'àrea de notificacions</string>
+    <string name="clip_board_history_desc">Contingut copiat/retallat</string>
+    <string name="clipboard">Porta-retalls</string>
     <string name="close">Tanca</string>
     <string name="confirm_auto_cleaner">D\'acord</string>
     <string name="conn_of_function_safe">Connexió de xarxa per a Seguretat</string>
@@ -500,7 +505,7 @@
     <string name="msg_update_error_code_unknown_error">Error desconegut</string>
     <string name="name_debuglog_dir">Registre de depuració Bsp</string>
     <string name="name_optimizer">Política de privadesa</string>
-    <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
+    <string name="nb_clear_set">Netegeu la memòria cau, visualitzeu la informació de la bateria i de la llista de bloqueig a l\'àrea de notificacions</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="news_change">Canvia</string>
     <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
@@ -556,7 +561,7 @@
     <string name="notification_wechat_clean_high_level_text_b">"La paperera de WeChat alenteix el dispositiu"</string>
     <string name="notification_wechat_clean_low_level_hint">Allibereu espai d’emmagatzematge</string>
     <string name="notification_wechat_clean_low_level_text">"Esborra les escombraries de WeChat"</string>
-    <string name="notification_wechat_clean_middle_level_hint">Esborreu la paperera per rebre notificacions sense demores</string>
+    <string name="notification_wechat_clean_middle_level_hint">Netegeu la paperera per rebre notificacions sense retards</string>
     <string name="notification_wechat_clean_middle_level_text_a">"Les escombraries de WeChat ocupen molt d'espai d'emmagatzematge"</string>
     <string name="notification_wechat_clean_middle_level_text_b">"La paperera de WeChat alenteix l'aplicació"</string>
     <string name="notification_whatsapp_clean_button_text">Esborra</string>
@@ -582,6 +587,7 @@
     <string name="permission_dialog_storage_btn2">Surt</string>
     <string name="permission_dialog_storage_content">Cleaner necessita permís per accedir a l’emmagatzematge intern per poder funcionar amb normalitat. Toqueu \"Configuració\" per gestionar els permisos d\'emmagatzematge.</string>
     <string name="permission_dialog_storage_title">Permisos necessaris</string>
+    <string name="phone_search">Cerca de Google</string>
     <string name="positive_confirm">D\'acord</string>
     <string name="pref_about_privacy_title">Política de privadesa</string>
     <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
@@ -619,6 +625,7 @@
     <string name="privacy_app_desc_message">Compte, contrasenyes i missatges</string>
     <string name="privacy_app_desc_search">Compte, contrasenyes i historial de cerca</string>
     <string name="privacy_app_desc_setting">Compte, contrasenyes i configuració</string>
+    <string name="privacy_appdata_chrome_history_des">Llocs web visitats</string>
     <string name="privacy_browser_desc">Elements cercats</string>
     <string name="privacy_cache_desc">Compte, contrasenya, historial, configuració i més</string>
     <string name="privacy_cache_empty">Sense dades privades</string>
@@ -650,6 +657,7 @@
     <string name="sc_allow_network_dialog_button">Permet</string>
     <string name="sc_allow_network_dialog_message">Permet que aquesta aplicació es connecti a internet per rebre actualitzacions?</string>
     <string name="scanning">S\'està escanejant&#8230;</string>
+    <string name="search_history">Historial de cerques</string>
     <string name="search_menu_title">Cerca</string>
     <string name="security_center_slogan">Seguretat. Sempre vigilant.</string>
     <string name="see_more">Més</string>
