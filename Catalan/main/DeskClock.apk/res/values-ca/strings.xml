@@ -291,7 +291,7 @@
     <string name="menu_item_sort_by_name">Ordena pel nom</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
-    <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
     <string name="miuix_appcompat_cancel_description">Cancel·la</string>
@@ -455,7 +455,7 @@
     <string name="shortcut_stop_watch">Inicia el cronòmetre</string>
     <string name="shut_down_keep_screen">"La pantalla no es mantindrà encesa"</string>
     <string name="shutdown_alarm_alert_enable_summary">Les alarmes sonaran almenys 10 minuts després d’apagar el dispositiu</string>
-    <string name="shutdown_alarm_alert_title">Alarma d\'apagat</string>
+    <string name="shutdown_alarm_alert_title">Alarma apagat</string>
     <string name="shutdown_alarm_disable_summary">"L'alarma no sonarà amb el dispositiu apagat"</string>
     <string name="shutdown_alarm_enable_summary">"L'alarma sonarà amb el dispositiu apagat"</string>
     <string name="shutdown_alarm_title">Atura l\'alarma</string>

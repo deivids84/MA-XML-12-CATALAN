@@ -64,6 +64,10 @@
         <item quantity="other">%d xarxes WLAN</item>
         <item quantity="one">%d xarxa WLAN</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Torneu-ho a provar d\'aquí a %d segons</item>
+        <item quantity="one">Torneu-ho a provar d\'aquí a %d segon</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Elements esperant per a sincronitzar-se: %d</item>
         <item quantity="one">Element esperant per a sincronitzar-se: %d</item>

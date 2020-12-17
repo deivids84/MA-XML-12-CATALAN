@@ -129,9 +129,9 @@ Parleu al micròfon frontal, haureu d'escoltar la vostra veu per l'altaveu"</str
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prova de funcionament del micròfon principal. 
 
 Sostingueu el telèfon com si vostè estigués fent una trucada, parleu pel micròfon principal, ha d'escoltar la veu amb ressò"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Test de trucada simulada.
+    <string name="cit_audio_lb_summary_phonecall">"Prova de trucada simulada.
 
-Sostingui el telèfon com si fes una trucada i parleu al micròfon principal, hauríeu sentir la seva veu amb ressò. Feu la prova en un ambient silenciós"</string>
+Mantingueu el telèfon com si féssiu una trucada i parleu pel micròfon principal, hauríeu de sentir la veu a l'altaveu. Feu la prova en un entorn silenciós"</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"Prova de funcionament del micròfon posterior. 
 
 Gireu el telèfon, parleu al micròfon, hauríeu d'escoltar la vostra veu per l'altaveu"</string>
@@ -578,15 +578,16 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
     <string name="cit_tool_bluetooth_not_on">El Bluetooth NO està activat</string>
     <string name="cit_tool_bluetooth_off">Desactiva el Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Activa el Bluetooth</string>
+    <string name="cit_tool_bluetooth_rse">Inicia el mode de prova Bluetooth RSE</string>
+    <string name="cit_tool_bluetooth_rse_chain">antena:</string>
+    <string name="cit_tool_bluetooth_rse_channel">canal:</string>
     <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
     <string name="cit_tool_bluetooth_tx_burst_run">EXECUTA</string>
     <string name="cit_tool_bluetooth_tx_chain">antena:</string>
     <string name="cit_tool_bluetooth_tx_channel">canal:</string>
-    <string name="cit_tool_bluetooth_tx_h">Entra al mode de prova del Bluetooth BR/EDR 2.480GHz</string>
-    <string name="cit_tool_bluetooth_tx_l">Entra al mode de prova del Bluetooth BR/EDR 2.402GHz</string>
     <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
-    <string name="cit_tool_bluetooth_tx_m">Entra al mode de prova Freq de Bluetooth BR / EDR 2.441GHz</string>
     <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
+    <string name="cit_tool_bluetooth_tx_rse_run">Executa</string>
     <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
     <string name="cit_tool_cal_accelerometer">Eina de calibració Acc</string>
     <string name="cit_tool_cal_camera">Eina de calibratge de la càmera</string>

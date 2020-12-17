@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="accessibility_back">Enrere</string>
     <string name="accessibility_desc_close">Tanca</string>
     <string name="accessibility_desc_edit">Edita\'l</string>
     <string name="accessibility_menu">Menú</string>
@@ -149,15 +150,15 @@
     <string name="miui_guide_dialog_button_positive_text">Ho tinc</string>
     <string name="miui_guide_dialog_message">Els sons multimèdia (música, vídeos, etc.) encara es reproduiran en mode silenci. Podeu canviar-ho a la configuració.</string>
     <string name="miui_ringer_count_down">Compte enrere</string>
-    <string name="miui_ringer_standard">Silenciós</string>
+    <string name="miui_ringer_standard">Silenci</string>
     <string name="miui_ringer_standard_description">Silencia els tons de trucada per a les trucades i notificacions entrants</string>
     <string name="miui_ringer_status_close">Desactivat</string>
     <string name="miui_ringer_status_open">Activat</string>
     <string name="miui_ringer_total">No molestis</string>
     <string name="miui_ringer_total_description">Silencia els sons i desactiva la vibració de tots els elements, excepte el despertador</string>
     <string name="miui_toast_zen_dnd_to_off">DND està desactivat ara. Els sons i les vibracions es restableixen a la normalitat.</string>
-    <string name="miui_toast_zen_standard_to_off">El mode silenciós està desactivat ara. Els tons de trucada es restableixen a la normalitat.</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">El mode silenciós està desactivat ara. Es reproduiran tons de trucada, així com notificacions i sons multimèdia.</string>
+    <string name="miui_toast_zen_standard_to_off">El mode Silenci està desactivat. Els tons de trucada es restableixen a la normalitat.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">El mode Silenci està desactivat. Es reproduiran els tons de trucada, així com les notificacions i sons multimèdia.</string>
     <string name="miui_toast_zen_to_dnd">S\'ha canviat a DND. Els sons es silencien i la vibració està desactivada ara.</string>
     <string name="miui_toast_zen_to_standard">S\'ha canviat al mode de silenci. Els tons de trucada i les notificacions es silencien ara.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S\'ha canviat al mode de silenci. Els tons de trucada, així com les notificacions i els sons multimèdia, ara es silencien.</string>
@@ -218,10 +219,10 @@
     <string name="no_avaliable_application">No hi ha aplicacions disponibles</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>
-    <string name="notification_control_center">Notificacions &amp; Centre de control</string>
+    <string name="notification_control_center">Notificacions i Centre de control</string>
     <string name="online">En línia</string>
     <string name="pm">pm</string>
-    <string name="power_off">Apagar</string>
+    <string name="power_off">Apaga</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="quick_controls_subtitle">Afegiu controls pels vostres dispositius connectats</string>
     <string name="quick_controls_title">Controls del dispositiu</string>
@@ -238,15 +239,19 @@
     <string name="quick_settings_tiles_default">vowifi1, vowifi2, cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobrightness, avió, bloqueig de pantalla, gps, rotació, escàner, mode de paper, nit, quietmode, batterysaver, extremebatterysaver, custom (com.miui.securitycenter / com.miui superpower.notification.SuperPowerTileService), personalitzat (com.milink.service / com.milink.ui.service.MiLinkTileService), pcmode, custom (com.miui.mishare.connectivity / .tile.MiShareTileService), powermode, freeformhang, custom ( com.miui.screenrecorder / .service.QuickService), vibració, punt d\'accés, sincronització, personalitzat (com.google.android.gms / .nearby.sharing.SharingTileService), botó de pantalla, wirelesspower, nfc, edita</string>
     <string name="quick_settings_tiles_stock">vowifi1, vowifi2, cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobrightness, avió, bloqueig de pantalla, gps, rotació, escàner, mode de paper, nit, mode tranquil, estalvi de bateria, extremebatterysaver, pcmode, powermode, freeformhang, vibrar, punt d\'accés, sincronització, botó de pantalla, wirelesspower, nfc, edit, drivemode</string>
     <string name="quick_settings_wireless_label">Càrrega inversa sense fils</string>
-    <string name="reboot_info_auto_boot">El dispositiu està encès a %s</string>
-    <string name="reboot_info_shutdown_alarm">Alarma d\'apagada: %s</string>
+    <string name="reboot_info_auto_boot">Propera alarma: %s</string>
+    <string name="reboot_info_shutdown_alarm">Alarma apagat: %s</string>
     <string name="reset">Restableix</string>
-    <string name="restart">Reinicieu</string>
+    <string name="restart">Reinicia</string>
+    <string name="safe_media_volume_warning">"Voleu augmentar el volum per sobre del nivell recomanat?
+
+L'exposició llarga a sons forts pot causar problemes d'audició."</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="save">Desa</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="slider_view_content_description">Feu lliscar cap amunt per apagar o lliscar cap avall per reiniciar</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Clar i lluminós</string>
@@ -334,6 +339,7 @@
     <string name="v7_preference_off">DESACTIVA</string>
     <string name="v7_preference_on">Activat</string>
     <string name="volume_dialog_accessibility_dismissed_message">Controls de volum ocults</string>
+    <string name="volume_dialog_accessibility_shown_message">Es mostren %s controls de volum. Llisqueu amunt per amagar-los.</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>

@@ -222,6 +222,10 @@
     <string name="call_record_text_auto_delete_half_year">Després de %d mesos</string>
     <string name="call_record_text_auto_delete_never">Mai</string>
     <string name="call_record_text_auto_delete_one_month">Després de %d mes</string>
+    <string name="call_record_user_notice_all_purpose">Troba les trucades durant les quals s\'han esmentat certes paraules</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Per enregistrar trucades</string>
+    <string name="call_record_user_notice_permission_desc_storage">Per desar els enregistraments</string>
+    <string name="call_record_user_notice_title">Cerca de trucades de veu</string>
     <string name="call_record_whitelist_custom">Trucades seleccionades</string>
     <string name="call_recording_notification_summary">Rebeu una notificació després de registrar una trucada</string>
     <string name="call_recording_notification_title">Notifiqueu les trucades enregistrades</string>
@@ -419,7 +423,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="description_quick_dial_button">Marcació ràpida</string>
     <string name="description_send_message">Envia el missatge a %1$s</string>
     <string name="deselect_all">Desselecciona-ho tot</string>
-    <string name="device_import_account_dialog_title">Triar un compte</string>
+    <string name="device_import_account_dialog_title">Trieu un compte</string>
     <string name="device_import_account_dialog_title_suffix">"
 (trobats %1$s contactes)"</string>
     <string name="device_import_local_account">Compte local</string>
@@ -602,6 +606,8 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="groups_list_empty">No hi ha grups</string>
     <string name="heduohao_fuhao_call_menu_title">Marca a la sub%d</string>
     <string name="heduohao_main_call_menu_title">Marca a la principal</string>
+    <string name="hide_app_description_content">"Contactes és una aplicació del sistema. Encara la podreu utilitzar mitjançant l'aplicació Telèfon després de suprimir la drecera de la pantalla d'inici."</string>
+    <string name="hide_app_description_title">Voleu suprimir \"Contactes\" de la pantalla d\'inici?</string>
     <string name="hint_findContacts">Trobar contactes</string>
     <string name="hint_more_contact">Combinar contactes duplicats</string>
     <string name="hybrid_check_network">Configuració de la xarxa</string>
@@ -942,6 +948,10 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="remove_duplicate">"MIUI t'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
+    <string name="restore_app_btn_cancel">Cancel·la</string>
+    <string name="restore_app_btn_restore">D\'acord</string>
+    <string name="restore_app_description_content">Afegiu una drecera a la pantalla d\'inici per poder accedir més ràpidament als vostres contactes.</string>
+    <string name="restore_app_description_title">Voleu afegir \"Contactes\" a la pantalla d\'inici?</string>
     <string name="restore_nickname">Restaurar</string>
     <string name="return_call">Toqueu per tornar a trucar</string>
     <string name="return_call_calling">Trucada en curs</string>
@@ -1207,5 +1217,5 @@ Trieu una de les següents opcions: "</string>
     <string name="yellowpage_provider_label">Assistència tècnica per al reconeixement de l\'identificador de l\'emissor/remitent de trucada</string>
     <string name="yellowpage_search_the_yellowpage">Cerca en les pàgines grogues</string>
     <string name="yesterday">Ahir</string>
-    <string name="zero_items_selected">Seleccionar elements</string>
+    <string name="zero_items_selected">Seleccioneu els elements</string>
 </resources>

@@ -1,12 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d min</item>
+        <item quantity="one">d\'aquí a 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">fa %d min</item>
+        <item quantity="one">fa 1 minut</item>
+    </plurals>
     <plurals name="clipboard_ai_allow_more">
         <item quantity="other">Es permet que %1$s accedeixi automàticament als elements del porta-retalls %2$d vegada</item>
         <item quantity="one">Es permet que %1$s accedeixi automàticament als elements del porta-retalls %2$d vegada</item>
     </plurals>
+    <plurals name="clipboard_read_ai_deny_more">
+        <item quantity="other">S\'han bloquejat %2$d intents d\'accés al porta-retalls durant %1$s</item>
+        <item quantity="one">S\'ha bloquejat %2$d intent d\'accés al porta-retalls durant %1$s</item>
+    </plurals>
     <plurals name="clipboard_read_allow_more">
         <item quantity="other">S\'han accedit %1$s elements al porta-retalls %2$d vegada</item>
         <item quantity="one">S\'han accedit %1$s elements al porta-retalls %2$d vegada</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">D\'aquí a 1 hora</item>
+        <item quantity="other">D\'aquí a 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">D\'aquí a mitja hora</item>
+        <item quantity="other">D\'aquí a mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">d\'aquí a %d minuts</item>
+        <item quantity="one">d\'aquí a 1 minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">fa %d minuts</item>
+        <item quantity="one">fa 1 minut</item>
     </plurals>
     <plurals name="perm_manager_suggest_allow_content">
         <item quantity="other">"Ja heu permès que %2$s accedeixi al porta-retalls %1$d vegada. Voleu permetre sempre que %3$s accedeixi al porta-retalls"</item>

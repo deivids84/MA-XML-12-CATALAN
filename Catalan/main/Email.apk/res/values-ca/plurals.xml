@@ -92,17 +92,9 @@
         <item quantity="other">%s resultatats als missatges sincronitzats</item>
         <item quantity="one">%s resultat als missatges sincronitzats</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d mesos</item>
-        <item quantity="one">%d mes</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">Queden %1$d fitxers adjunts</item>
         <item quantity="one">Queda %1$d fitxer adjunt</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">Mou %1$d converses</item>
-        <item quantity="one">Mou la conversa</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostra %1$d missatges nous.</item>
@@ -155,10 +147,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d setmanes abans</item>
         <item quantity="one">%1$d setmana abans</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Respon a %1$d persones</item>
-        <item quantity="one">Respon a %1$d persona</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s resultats en tots els comptes</item>

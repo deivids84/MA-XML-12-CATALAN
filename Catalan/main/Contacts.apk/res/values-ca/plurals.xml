@@ -120,6 +120,10 @@
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactes</item>
         <item quantity="one">%1$d contacte</item>

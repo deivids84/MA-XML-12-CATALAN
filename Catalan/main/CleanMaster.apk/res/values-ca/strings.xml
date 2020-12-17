@@ -663,7 +663,7 @@
     <string name="see_more">Més</string>
     <string name="set_immediately">Aplica</string>
     <string name="seton_immediately">Activa</string>
-    <string name="share">Compartir</string>
+    <string name="share">Comparteix</string>
     <string name="similar_image_desc">Eliminar fotos similars</string>
     <string name="similar_image_empty">No s\'han trobat duplicades</string>
     <string name="similar_image_scaning">S\'està comprovant&#8230;</string>
@@ -712,7 +712,7 @@
     <string name="title_of_package_set">Configuració del pla de dades </string>
     <string name="title_of_traffic_notification">Barra d\'estadístiques de dades</string>
     <string name="title_optimizer">Termes i condicions</string>
-    <string name="title_share_link">Compartir URL</string>
+    <string name="title_share_link">Comparteix l\'URL</string>
     <string name="toast_add_white_list_success"> afegit a excepcions</string>
     <string name="toast_app_no_residual_on_sdcard">"L'aplicació no té cap fitxer emmagatzemat en la SD"</string>
     <string name="toast_backup_is_running">La còpia de seguretat ja s\'està executant. Espereu un moment i torneu-ho a provar</string>

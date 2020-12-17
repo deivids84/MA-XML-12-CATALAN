@@ -242,7 +242,7 @@
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
     <string name="user_agreement">Condicions d\'ús</string>
-    <string name="user_experience_program">Programa de satisfacció d\'usuaris</string>
+    <string name="user_experience_program">Programa d’experiència d’usuari</string>
     <string name="user_manual">Guia de l\'usuari</string>
     <string name="web_sso_login_fail">Ha d\'iniciar la sessió de nou</string>
     <string name="web_sso_login_message">Iniciant sessió&#8230;</string>

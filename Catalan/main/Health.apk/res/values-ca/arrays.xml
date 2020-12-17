@@ -8,7 +8,7 @@
         <item>Corrent</item>
         <item>Caminant</item>
         <item>Ciclisme</item>
-        <item>Cinta de córrer</item>
+        <item>Salt a la corda</item>
         <item>Entrenament</item>
     </string-array>
     <string-array name="arr_prompt_label">
@@ -119,6 +119,15 @@
         <item>Dissabte</item>
     </string-array>
     <string-array name="week_label">
+        <item>Dg.</item>
+        <item>Dl.</item>
+        <item>Dt.</item>
+        <item>Dc.</item>
+        <item>Dj.</item>
+        <item>Dv.</item>
+        <item>Ds.</item>
+    </string-array>
+    <string-array name="week_short">
         <item>Dg.</item>
         <item>Dl.</item>
         <item>Dt.</item>

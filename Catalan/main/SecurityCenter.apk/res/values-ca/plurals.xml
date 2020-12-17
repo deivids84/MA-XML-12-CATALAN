@@ -491,8 +491,8 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
         <item quantity="one">"%d h "</item>
     </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Solucioneu %d problemes d’ús de la bateria</item>
-        <item quantity="one">Solucioneu el problema d\'ús de la bateria de %d</item>
+        <item quantity="other">Soluciona %d problemes d’ús de la bateria</item>
+        <item quantity="one">Soluciona %d problema d\'ús de la bateria</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
         <item quantity="other">Podeu solucionar %d problemes d’ús de la bateria</item>

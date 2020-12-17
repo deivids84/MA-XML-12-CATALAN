@@ -120,10 +120,6 @@
         <item quantity="other">%1$d h</item>
         <item quantity="one">%1$d h</item>
     </plurals>
-    <plurals name="hr_fp_detect_time_remainder">
-        <item quantity="other">Queden %1$d segons</item>
-        <item quantity="one">Queden %1$d segons</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">D\'aquí a 1 hora</item>
         <item quantity="other">D\'aquí a 1 hora</item>

@@ -126,7 +126,7 @@
     <string name="cast_forward_10">Endavant deu segons</string>
     <string name="cast_forward_30">Endavant trenta segons</string>
     <string name="cast_live_label">EN DIRECTE</string>
-    <string name="cast_mute">Silenciar</string>
+    <string name="cast_mute">Silenci</string>
     <string name="cast_notification_connected_message">Connectat a %1$s</string>
     <string name="cast_notification_connecting_message">S\'està connectant a %1$s</string>
     <string name="cast_notification_default_channel_name">Repartiment</string>

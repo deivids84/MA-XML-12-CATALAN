@@ -38,7 +38,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Només en mode Silenciós</item>
+        <item>Només en mode Silenci</item>
         <item>Mai</item>
     </string-array>
     <string-array name="rcs_ft_fallback">

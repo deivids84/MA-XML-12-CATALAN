@@ -123,6 +123,8 @@
     <string name="download">Baixades</string>
     <string name="download_auth">Obtenint autorització&#8230;</string>
     <string name="download_complete">BAIXADES COMPLETADES</string>
+    <string name="download_description_content">"Baixades és una aplicació del sistema. No podreu gestionar les baixades després de suprimir-la."</string>
+    <string name="download_description_title">Voleu suprimir \"Baixades\" de la pantalla d\'inici?</string>
     <string name="download_detail">Detalls</string>
     <string name="download_error">"No s'ha pogut baixar"</string>
     <string name="download_error_download_file_not_exists">"El fitxer no existeix"</string>
@@ -235,7 +237,7 @@
     <string name="menu_des_vip">Subscripció de Xunlei</string>
     <string name="menu_enter_edit_mode">Editor</string>
     <string name="menu_preferences">Configuració de les baixades</string>
-    <string name="menu_title_fileexplore">Gestor d\'arxius</string>
+    <string name="menu_title_fileexplore">Gestor de fitxers</string>
     <string name="menu_title_pause_all">Pausa-ho tot</string>
     <string name="menu_title_resume_all">Inicia-ho tot</string>
     <string name="menu_title_settings">Configuració</string>
@@ -494,6 +496,9 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="web_dialog_cancel">Cancel·la</string>
     <string name="web_dialog_confirm">D\'acord</string>
     <string name="xiaomi_account_not_exist_message">"Aquest compte Mi no existeix"</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="xl_annual_vip_open">Subscripció anual (%1$s Crèdits Mi o %2$s mensuals)</string>
     <string name="xl_annual_vip_renew">Renova 1 any (%1$s Crèdits Mi o %2$s mensuals)</string>
     <string name="xl_bind_account">Afegeix compte Xunlei existent</string>

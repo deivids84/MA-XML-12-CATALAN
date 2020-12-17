@@ -331,7 +331,11 @@
     <string name="horoscope_select_activity_label">Seleccioneu el signe zodiacal</string>
     <string name="hotel_detail_title">Detalls de l\'hotel</string>
     <string name="hotel_event_delete_successfully">S\'ha suprimit la reserva d\'hotel correctament</string>
+    <string name="icon_add_description">Afegeix una drecera a la pantalla d\'inici</string>
     <string name="icon_content_description">Icona de diàleg</string>
+    <string name="icon_remove_confirm">Suprimeix</string>
+    <string name="icon_remove_description_content">"El Calendari és una aplicació del sistema. Permet crear esdeveniments i gestionar-los. Encara podreu utilitzar el Calendari mitjançant el giny de la pantalla d’inici o el Tauler d'aplicacions després de suprimir la drecera de la pantalla d’inici."</string>
+    <string name="icon_remove_description_title">Voleu suprimir el \"Calendari\" de la pantalla d\'inici?</string>
     <string name="ics_file_not_found">No hi ha fitxers de calendari per importar</string>
     <string name="ics_import_from_local_file">Importa fitxers de calendari</string>
     <string name="ics_import_from_url">Afegiu una subscripció URL</string>
@@ -538,6 +542,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="pm">pm</string>
     <string name="portrait_week_view">Agenda setmanal en orientació vertical</string>
     <string name="prefDialogTitle_vibrateWhen">Vibració</string>
+    <string name="pref_default_popup_alert_value">cap</string>
     <string name="pref_reminder_time">Hora de recordatori</string>
     <string name="pref_title_alarm_remind">Alarma de recordatoris</string>
     <string name="pref_title_no_remind">No hi ha recordatoris</string>

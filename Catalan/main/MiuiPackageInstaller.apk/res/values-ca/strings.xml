@@ -134,6 +134,7 @@ Es mantindran totes les dades d'usuari prèvies."</string>
     <string name="install_confirm_question_update_system">"Voleu instal·lar una actualització d'aquesta aplicació integrada? Les vostres dades actuals no es perdran. L'aplicació actualitzada obtindrà accés a:"</string>
     <string name="install_confirm_question_update_system_no_perms">"Voleu instal·lar una actualització d'aquesta aplicació integrada? Les vostres dades actuals no es perdran. No demana cap accés especial."</string>
     <string name="install_confirm_text_gms">Aquesta aplicació està feta per Google. Instal·leu els serveis de Google Play abans d’instal·lar aquesta aplicació. Sense aquest marc, l’aplicació pot no funcionar correctament.</string>
+    <string name="install_continue">Instal·la</string>
     <string name="install_control_cancel_install">"No ho instal·lis"</string>
     <string name="install_control_cancel_vip_account_install">Cancel·la</string>
     <string name="install_control_continue_install">Instal·la-ho de totes maneres</string>
@@ -210,12 +211,13 @@ També podeu desactivar el mode Lite i tornar-ho a provar."</string>
     <string name="miui_failed_solution_3">Proveu de desar el paquet d\'instal·lació en una ubicació diferent.</string>
     <string name="miui_failed_solution_4">Allibereu emmagatzematge a Seguretat &gt; Netejador i torneu-ho a provar.</string>
     <string name="miui_failed_solution_5">Proveu d\'utilitzar un paquet d\'instal·lació compatible.</string>
-    <string name="miui_failed_solution_6">Desinstal·leu aquesta aplicació del Segon espai i torneu-ho a provar.</string>
+    <string name="miui_failed_solution_6">Suprimiu la versió ja instal·lada i torneu a instal·lar-la.</string>
     <string name="miui_failed_solution_7">Descarregueu la versió més recent d\'aquesta aplicació a GetApps.</string>
+    <string name="miui_failed_solution_8">Baixeu l\'aplicació de GetApps.</string>
     <string name="miui_failed_system_incompatible">Paquet d\'instal·lació incompatible</string>
     <string name="miui_failed_update_incompatible">Signatures d\'aplicacions en conflicte</string>
     <string name="miui_failed_version_downgrade">"No es poden rebaixar les aplicacions"</string>
-    <string name="miui_failed_version_downgrade_space">"Hi ha una versió més recent d'aquesta aplicació al Segon espai."</string>
+    <string name="miui_failed_version_downgrade_space">"Hi ha una versió més recent d'aquesta aplicació instal·lada en el segon espai o a l'espai per a nens."</string>
     <string name="miui_help_feedback_label">Ajuda i comentaris</string>
     <string name="miui_install_confirm_question">Voleu instal·lar aquesta aplicació?</string>
     <string name="miui_install_confirm_question_update">Voleu sobreescriure l\'aplicació existent?</string>

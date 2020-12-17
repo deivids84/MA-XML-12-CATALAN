@@ -337,8 +337,8 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="guest_nickname">Convidat</string>
     <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
     <string name="hdcp_checking_title">Comprovació HDCP</string>
-    <string name="help_feedback_label">Ajuda i suggeriments</string>
-    <string name="help_label">Ajuda amb &amp; comentaris</string>
+    <string name="help_feedback_label">Ajuda i comentaris</string>
+    <string name="help_label">Ajuda i comentaris</string>
     <string name="home">Configuració de la pantalla d\'inici</string>
     <string name="ime_security_warning">Aquest mètode d’entrada pot ser capaç de recopilar tot el text que escriviu, incloses dades personals com contrasenyes i números de targeta de crèdit. Prové de %1$s. Feu servir aquest mètode d’entrada?</string>
     <string name="ime_security_warning_global">És possible que els mètodes d’entrada puguin recopilar tot el text que escriviu, incloses les dades personals com ara la contrasenya i els números de la targeta de crèdit. Voleu utilitzar %1$s?</string>
@@ -385,7 +385,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="mi_home_device_find">Descobreix dispositius</string>
     <string name="mi_home_device_ignore">Ignora</string>
     <string name="mi_home_device_start_binding">Vincula-ho ara</string>
-    <string name="mi_key_alert_dialog_message">Premeu \"D\'acord\" per silenciar l\'alarma.</string>
+    <string name="mi_key_alert_dialog_message">Toqueu D\'acord per silenciar l\'alarma.</string>
     <string name="mi_key_alert_dialog_title">Alarma de Mi-Key</string>
     <string name="mi_key_find_mikey">Troba la Mi-Key</string>
     <string name="mi_key_find_phone">Troba el dispositiu</string>

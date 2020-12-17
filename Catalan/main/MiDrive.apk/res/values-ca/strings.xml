@@ -357,6 +357,9 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="waiting_upload">Pendent</string>
     <string name="warning_bar_title_cloud_space_already_full">L’emmagatzematge al núvol està gairebé ple. És possible que les fotos no se sincronitzin.</string>
     <string name="warning_bar_title_cloud_space_full">"L’emmagatzematge al núvol està ple. No es poden sincronitzar fotos, historial de trucades ni altres elements."</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="year_month_day_format">dd MMMM yyyy</string>
     <string name="yesterday">Ahir</string>
 </resources>

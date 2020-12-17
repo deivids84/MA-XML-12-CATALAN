@@ -317,6 +317,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="launcher">Disposició de la pantalla d\'inici</string>
     <string name="less_than_1_minute">Menys d’un minut</string>
     <string name="loading_data">Només un segon…</string>
+    <string name="location_permission_request">Per connectar-se a altres dispositius propers</string>
     <string name="login">Inicieu la sessió</string>
     <string name="login_failed">"No s'ha pogut iniciar la sessió. Proveu de nou."</string>
     <string name="logining">Inici de sessió…</string>
@@ -335,7 +336,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="manual_connection_content3">3. Introduïu aquesta contrasenya al dispositiu antic per connectar-vos.</string>
     <string name="manual_connection_summary2">"Si no trobeu aquest punt d'accés, actualitzeu la llista de les xarxes WLAN disponibles i torneu-ho a provar."</string>
     <string name="manual_connection_title">Connecteu-vos manualment al dispositiu antic</string>
-    <string name="message_request_package_stats_perm">Toqueu \"Continuar\" per obrir la configuració i concediu a Mi Mover els permisos necessaris.</string>
+    <string name="message_request_package_stats_perm">Mi Mover necessita aquest permís per saber quines aplicacions estan instal·lades en un dispositiu i transferir-les a un altre.</string>
     <string name="midnight">AM</string>
     <string name="miui_need_location_permission_summary">"Permet a Mi Mover accedir a la vostra ubicació per trobar dispositius propers. No podreu utilitzar Mi Mover si no concediu aquest permís."</string>
     <string name="miui_need_location_permission_title">Permet l\'accés a la ubicació</string>
@@ -637,6 +638,9 @@ Allibereu almenys %s."</string>
     <string name="solar_term_winter_begins">Comença l’hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="succ_description">Fet</string>
+    <string name="summary_open_wlan">Mi Mover necessita aquest permís per garantir l\'estabilitat del procés de transferència.</string>
+    <string name="summary_request_alert_window_prem">Mi Mover necessita aquest permís per garantir l\'estabilitat del procés de transferència.</string>
+    <string name="summary_request_write_settings_prem">Mi Mover necessita aquest permís per activar la WLAN i crear un punt d\'accés per transferir fitxers.</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Sol</string>
     <string name="sunday_shortest">S</string>
@@ -697,8 +701,10 @@ Allibereu almenys %s."</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_spent">Temps: <g id="time">%1$s</g></string>
+    <string name="title_open_wlan">Activar la WLAN</string>
+    <string name="title_request_alert_window_perm">Permet les finestres flotants</string>
     <string name="title_request_package_stats_perm">Permisos necessaris</string>
-    <string name="title_request_write_settings_perm">Permís per canviar la configuració del sistema</string>
+    <string name="title_request_write_settings_perm">Permet canviar la configuració del sistema</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="trans_detail_item_app_data_skip_data">"No es poden transferir les dades de l'aplicació"</string>
@@ -768,7 +774,8 @@ Baixeu i instal·leu Mi Mover."</string>
     <string name="user_name_null">"L'identificador d'Apple no pot estar buit"</string>
     <string name="video">Vídeo</string>
     <string name="view_password_description">Ensenya la contrasenya</string>
-    <string name="waiting_restore_desktop">Transferència d\'aplicacions de tercers per restaurar la disposició de la pantalla d\'inici…</string>
+    <string name="waiting_restore_aod">S\'està restaurant la pantalla sempre activa…</string>
+    <string name="waiting_restore_desktop">S\'està restaurant la disposició de la pantalla d\'inici…</string>
     <string name="web_sso_login_fail">Cal tornar a iniciar la sessió</string>
     <string name="web_sso_login_message">Inici de sessió…</string>
     <string name="website">Lloc web</string>

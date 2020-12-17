@@ -30,7 +30,7 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
     <string name="find_device_noise_title">Alarma de troba el dispositiu</string>
     <string name="find_device_notice">Aneu a&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;per localitzar, bloquejar o restaurar el dispositiu.</string>
     <string name="find_device_notice_sms_alert">Si canvieu les targetes SIM, es pot enviar un altre SMS automàticament per reactivar aquesta funció.</string>
-    <string name="find_device_stop_noise">Premeu D\'acord per silenciar</string>
+    <string name="find_device_stop_noise">Toqueu D\'acord per silenciar</string>
     <string name="find_device_storage_corrupted">L\'emmagatzematge de troba el dispositiu està malmès. Ara mateix el vostre dispositiu no és segur.</string>
     <string name="find_device_success_title">Troba el dispositiu</string>
     <string name="find_device_telephony_fault">Troba el dispositiu: Problema telefònic (%s).</string>

@@ -101,6 +101,7 @@
     <string name="currency_update_support">Webull proporciona els tipus de canvi.</string>
     <string name="currency_update_time_format">Webull proporciona els tipus de canvi (%s)</string>
     <string name="currency_update_updating">S\'estan actualitzant les taxes…</string>
+    <string name="date_format">dd, MMM yyyy</string>
     <string name="date_time_picker_dialog_title">Definiu la data i l\'hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">dia</string>
@@ -111,6 +112,9 @@
     <string name="deselect_all">Desselecciona</string>
     <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
     <string name="dialog_privacy_content"><Data>A més de les funcions bàsiques d’una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor polivalent. Algunes funcions necessiten connectar-se a Internet per funcionar amb normalitat. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar la Calculadora.</Data></string>
+    <string name="dialog_privacy_disagree_msg">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la política de privadesa de la Calculadora. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. La Calculadora ha de recopilar la informació personal necessària per proporcionar-li serveis bàsics. La retirada del consentiment a la seva Política de privadesa es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Retira</string>
+    <string name="dialog_privacy_revoke_title">Retirada del consentiment</string>
     <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_rating_desc_ask">Què en penseu de la Calculadora?</string>
     <string name="dialog_rating_desc_less">Podria donar-nos la seva opinió?</string>
@@ -207,6 +211,7 @@
     <string name="item_title_vel_conversion">Velocitat</string>
     <string name="item_title_volume_conversion">Volum</string>
     <string name="item_title_weight_conversion">Massa</string>
+    <string name="l_name_discount">Descompte (%s menys)</string>
     <string name="label_about">Quant a</string>
     <string name="label_clear_history">Neteja-ho tot</string>
     <string name="label_date_difference">Diferència</string>
@@ -347,6 +352,7 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
     <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessita connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
     <string name="network_confirm_title">Permisos necessaris</string>
     <string name="network_purpose">Benvingut a la Calculadora! Calculadora us permet convertir monedes, calcular les amortitzacions d’hipoteca i molt més.</string>
+    <string name="new_privacy_string"><Data>\"Benvinguts a calculadora!&lt;br/&gt;Aquesta aplicació conté les següents característiques:&lt;br/&gt;• Calculadora bàsica&lt;br/&gt;• Calculadora científica&lt;br/&gt;• Convertidor universal (per exemple, moneda, unitats de mesura, etc.)&lt;br/&gt;• Plantilles de càlcul de préstecs, inversió, EMI, i molt més&lt;br/&gt;La Calculaodra necessita recollir la informació personal necessària per proporcionar-li els serveis bàsics. Podeu saber com gestionem la informació que recopilem a la nostra&lt;a href= \"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;\'Acord d\'usuari&lt;/a&gt; i la nostra&lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar la Calculadora. Podeu retirar el vostre consentiment a la Política de privadesa de la Calculadora a la Configuració en qualsevol moment. Si no accepteu la nostra Política de privadesa, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vostè.\"</Data></string>
     <string name="none">Cap</string>
     <string name="not_supported_due_to_language">Aquesta funció només està disponible en Xinès</string>
     <string name="ok">D\'acord</string>
@@ -375,10 +381,11 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
     <string name="preference_use_voice_summary">Activeu-la per utilitzar la sortida de veu durant els càlculs</string>
     <string name="preference_use_voice_title">Sortida de veu</string>
     <string name="preference_user_feedback_title">Comentaris</string>
-    <string name="privacy_disagree">Quan no estigueu d\'acord amb els nostres termes i condicions de la política de privadesa, Mi Calculator deixarà de recopilar dades i se suprimiran totes les dades relacionades dels servidors. És possible que no pugueu utilitzar determinades funcions de l\'aplicació. No hi esteu d\'acord de totes maneres?</string>
+    <string name="privacy_dialog_title">Privadesa</string>
     <string name="privacy_policy">Política de privadesa</string>
-    <string name="privacy_switch">Accepteu la política de privadesa</string>
-    <string name="privacy_switch_disagree">No hi estic d\'acord</string>
+    <string name="privacy_revoke_error">"No s'ha pogut retirar. Torneu-ho a provar."</string>
+    <string name="privacy_revoke_progress">S\'està retirant…</string>
+    <string name="privacy_switch">Retirada del consentiment</string>
     <string name="rate_data_provider">Hexun.com els proporciona els tipus d\'interès</string>
     <string name="reciprocalDesc">Recíproc</string>
     <string name="rightParenDesc">parèntesi dret</string>
@@ -731,6 +738,7 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
     <string name="unit_year_format">Any %s</string>
     <string name="updating">S\'està actualitzant la calculadora…</string>
     <string name="user_agreement">Acord d\'usuari</string>
+    <string name="user_experience_program_title">Programa d\'experiència d\'usuari</string>
     <string name="view_float_window_move">Mou la Calculadora minimitzada</string>
     <string name="voiceDesc">Controls de veu</string>
     <string name="voice_guide_text">Podeu activar la sortida de veu aquí</string>
@@ -740,6 +748,7 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
     <string name="wednesday_shortest">dc.</string>
     <string name="weight_prompt">Pes</string>
     <string name="wf_word_figure">Caràcters financers</string>
+    <string name="withdraw_network_error">El dispositiu s\'ha de connectar a la xarxa perquè pugueu retirar el consentiment. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="word_figure_guide_text">Mantingueu premut el text per convertir entre majúscules i minúscules.</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut connectar amb Baixades. Comproveu si aquesta aplicació té tots els permisos necessaris a Configuració &gt; Aplicacions instal·lades."</string>
     <string name="xiaomi_external_storage_unavailable">"L'emmagatzematge no està disponible. Comproveu la targeta SD."</string>

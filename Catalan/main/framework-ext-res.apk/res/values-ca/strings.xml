@@ -37,7 +37,7 @@
     <string name="bluetooth_enable_notification_content">%s activar el Bluetooth</string>
     <string name="bluetooth_enable_notification_title">El Bluetooth està activat</string>
     <string name="bluetooth_open">Aquesta aplicació va activar el Bluetooth</string>
-    <string name="bottom_bar_smallwindow_text">Allibera per afegir</string>
+    <string name="bottom_bar_smallwindow_text">Deixeu anar per fixar-ho</string>
     <string name="btn_cancel">Cancel·la</string>
     <string name="btn_sure">D\'acord</string>
     <string name="button_text_cancel">Cancel·la</string>
@@ -71,10 +71,14 @@
     <string name="device_status_success">S\'ha enviat correctament</string>
     <string name="device_status_waiting">S\'està esperant…</string>
     <string name="device_type_pc">Ordinador</string>
+    <string name="disable_nfc">S\'ha desactivat l\'NFC per a la càrrega sense fils</string>
+    <string name="disable_nfc_reverse">S\'ha desactivat l\'NFC per a la càrrega sense fils inversa</string>
     <string name="eighthours">8 hores</string>
     <string name="enable_livetalk_summary">Estalvieu fins a un 70% en les trucades</string>
     <string name="enable_livetalk_title">Activa el paquet de recàrrega</string>
     <string name="enable_midrop">Activa</string>
+    <string name="enable_nfc">Ja no es carrega. L\'NFC torna a activar-se.</string>
+    <string name="enable_nfc_reverse">Ja no es carrega inversament. L\'NFC torna a activar-se.</string>
     <string name="fc_dialog_body">Voleu enviar un informe d\'error a Mi per a la seva anàlisi? Aquest informe pot contenir informació personal. L\'informe serà utilitzat per ajudar a solucionar l\'error i mai serà compartit en un context comercial.</string>
     <string name="fc_dialog_jump_to_preview">Veure resum</string>
     <string name="file_cannot_print">"No es pot imprimir aquest element."</string>
@@ -119,6 +123,7 @@
     <string name="lockscreen_access_pattern_cleared">S\'ha eliminat el patró</string>
     <string name="lockscreen_access_pattern_detected">S\'ha completat el patró</string>
     <string name="lockscreen_access_pattern_start">S\'ha iniciat el patró</string>
+    <string name="magic_window_toast">Multiplicador d\'aplicacions habilitat.</string>
     <string name="maml_component_customization_title">Configuració</string>
     <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
     <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
@@ -214,6 +219,7 @@
     <string name="security_share_text">Protecció de la privadesa</string>
     <string name="select">Selecciona</string>
     <string name="select_all">Selecciona-ho tot</string>
+    <string name="send_files_by">Comparteix els fitxers mitjançant</string>
     <string name="send_files_to">Envia els elements a</string>
     <string name="service_not_subscribed">SENSE SUBSCRIPCIÓ AL SERVEI -33-</string>
     <string name="set_password_action">Estableix una contrasenya</string>
@@ -274,7 +280,7 @@
     <string name="talk_back_water_mark_string2">Mantingueu premut \"Volum +\" i \"Volum-\" durant 3 segons per desactivar-ho</string>
     <string name="throwing_print">Imprimeix</string>
     <string name="throwing_screen">Emet</string>
-    <string name="tips_prompt_enable_midrop">Compartiu fitxers amb dispositius propers</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">No molestis</string>
     <string name="total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
     <string name="total_title">No molestis...</string>
