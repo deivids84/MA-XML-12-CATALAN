@@ -107,10 +107,6 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Netegeu %s de la memòria cau WeChat per alliberar espai d’emmagatzematge</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No oblidis esborrar la memòria cau"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recorda a esborrar la memòria cau de WeChat</string>
-    <string name="appcleaner_wechat_pref_size_100_MB">100 MB</string>
-    <string name="appcleaner_wechat_pref_size_1_GB">1 GB</string>
-    <string name="appcleaner_wechat_pref_size_300_MB">300 MB</string>
-    <string name="appcleaner_wechat_pref_size_500_MB">500 MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Cada dia</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Cada 15 dies</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Cada 7 dies</string>
@@ -198,10 +194,10 @@
     <string name="clean_master_icon_recall_button_text">Afegeix</string>
     <string name="clean_master_icon_recall_dialog_button_negative">No gràcies</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Afegeix</string>
-    <string name="clean_master_icon_recall_dialog_summary">Afegiu una drecera a la pantalla d\'inici per buidar la paperera quan us calgui.</string>
+    <string name="clean_master_icon_recall_dialog_summary">Afegiu una drecera a la pantalla d\'inici per netejar la brossa sempre que ho necessiteu.</string>
     <string name="clean_master_icon_recall_dialog_title">Netegeu la brossa més ràpidament</string>
     <string name="clean_master_icon_recall_hint">Afegeix una drecera a la pantalla d\'inici</string>
-    <string name="clean_master_icon_recall_summary">Afegiu una drecera a la pantalla d\'inici per buidar la paperera quan us calgui.</string>
+    <string name="clean_master_icon_recall_summary">Afegiu una drecera a la pantalla d\'inici per netejar la brossa sempre que ho necessiteu.</string>
     <string name="clean_master_icon_recall_title">Netegeu la brossa més ràpidament</string>
     <string name="clean_master_icon_recall_toast_text">S\'ha afegit una drecera de pantalla d\'inici per al Netejador correctament</string>
     <string name="clean_summary">S\'han netejat %1$s</string>

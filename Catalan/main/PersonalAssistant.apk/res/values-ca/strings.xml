@@ -500,11 +500,15 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="card_expand_note_clear_all">Neteja</string>
     <string name="card_expand_note_dialog_button">D\'acord</string>
     <string name="card_expand_note_dialog_message">Es crearà una nova nota cada cop que toqueu el botó «Desa» al Tauler d\'aplicacions.</string>
+    <string name="card_expand_note_dialog_message_new">Es crea una nota nova cada vegada que toqueu el botó \"Desa\" al magatzem d\'aplicacions.</string>
     <string name="card_expand_note_dialog_title">S\'estan desant les notes</string>
+    <string name="card_expand_note_dialog_title_new">Desar notes</string>
     <string name="card_expand_note_sure_clear_all">Esborra ara</string>
     <string name="card_expand_note_toast_clear_null">S\'ha netejat amb èxit</string>
     <string name="card_expand_note_toast_install">Instal·leu Notes per poder utilitzar aquesta funció</string>
+    <string name="card_expand_note_toast_install_new">Instal·leu Notes per poder utilitzar aquesta funció</string>
     <string name="card_expand_note_toast_save_done">S\'ha desat a Notes</string>
+    <string name="card_expand_note_toast_save_done_new">Desat a Notes</string>
     <string name="card_expand_note_toast_save_dup">S\'ha desat amb èxit</string>
     <string name="card_expand_note_toast_share_null">Aquesta nota està buida</string>
     <string name="card_hint_noteboard">Premeu aquí per prendre una nota.</string>
@@ -1458,6 +1462,7 @@ Comproveu el número de seguiment."</string>
     <string name="save">Desa</string>
     <string name="save_edit">Desa els canvis</string>
     <string name="save_to_note">Desa les notes</string>
+    <string name="save_to_note_new">Desa a Notes</string>
     <string name="scan">Escaneja</string>
     <string name="scan_app">Escaneja</string>
     <string name="scan_card">Targeta de visita</string>
@@ -1729,6 +1734,7 @@ Comproveu el número de seguiment."</string>
     <string name="toast_function_add_limit">Podeu afegir fins a %d dreceres</string>
     <string name="toast_function_remove_not_allowed">Heu d\'afegir com a mínim 1 drecera</string>
     <string name="toast_reach_text_limit_truncate">La nota és massa llarga. S\'ha truncat l\'excés de contingut.</string>
+    <string name="toast_reach_text_limit_truncate_new">La vostra nota és massa llarga. L’excés de contingut s’ha truncat.</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="total_month_desc_text">Aquest mes</string>

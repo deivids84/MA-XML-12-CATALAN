@@ -17,12 +17,6 @@
         <item>Com a màxim 3 processos</item>
         <item>Com a màxim 4 processos</item>
     </string-array>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-        <item>Xiaomi Wear</item>
-    </string-array>
     <string-array name="ble_profile_mi_band">
         <item>Vibra quan soni</item>
         <item>Vibra quan es rebi un missatge</item>
@@ -177,26 +171,6 @@
         <item>4K (escalat)</item>
         <item>4K (escalat, segur)</item>
         <item>720p, 1080p (pantalla doble)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142, segur</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,segur</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,segur</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,segur</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320 | 3840x2160/640,segur</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Desactivat</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>

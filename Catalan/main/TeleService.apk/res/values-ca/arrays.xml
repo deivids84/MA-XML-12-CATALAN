@@ -145,11 +145,6 @@
         <item>Systrace (gràfics)</item>
         <item>Pila de trucades a glGetError</item>
     </string-array>
-    <string-array name="enhanced_4g_lte_mode_title_variant">
-        <item>@string/enhanced_4g_lte_mode_title</item>
-        <item>Trucades avançades</item>
-        <item>Trucades 4G</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>No utilitzis mai la comprovació HDCP</item>
         <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
@@ -223,12 +218,6 @@
         <item>Global</item>
         <item>LTE/CDMA</item>
         <item>LTE / GSM / UMTS</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Inactiu</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Inactiu</item>

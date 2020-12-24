@@ -61,13 +61,6 @@
         <item>Moderada</item>
         <item>Lleugera</item>
     </string-array>
-    <string-array name="settings_atmospheric_pressure_unit_values">
-        <item>2</item>
-        <item>3</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Serè</item>
         <item>Ennuvolat</item>

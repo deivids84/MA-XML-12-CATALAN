@@ -147,8 +147,8 @@
         <item quantity="one">%1$d segon</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d vistes</item>
-        <item quantity="one">%1$d vista</item>
+        <item quantity="other">%1$s visualitzacions</item>
+        <item quantity="one">%1$s visualització</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
         <item quantity="other">"No s'han pogut exportar %d vídeos. Allibereu espai i torneu-ho a provar."</item>

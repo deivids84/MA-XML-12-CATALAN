@@ -90,6 +90,7 @@
     <string name="classes_isNull">"Encara no heu afegit cap classe"</string>
     <string name="classes_titlt">Horari de classe</string>
     <string name="classes_topTitle">Escanegeu el vostre horari de classes</string>
+    <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close_hotspot_when_connecting_to_wifi">El punt d\'accés està activat. Activa la WLAN.</string>
     <string name="common_retake_picture">Repeteix</string>
     <string name="common_retry">Torna-ho a provar</string>
@@ -205,6 +206,9 @@
     <string name="general_title">Feu una foto d’un objecte a reconèixer</string>
     <string name="got_it">Entesos</string>
     <string name="gps">Navega</string>
+    <string name="gravity_center">centre</string>
+    <string name="gravity_left">esquerra</string>
+    <string name="gravity_right">dreta</string>
     <string name="grayscale">Escala de grisos</string>
     <string name="history">Historial</string>
     <string name="history_empty">Encara no hi ha elements</string>
@@ -456,6 +460,7 @@
     <string name="wechatcode_auto_processing_function_requires_permissions">La funció de processament automàtic del codi WeChat requereix que WeChat tingui permisos de càmera i permisos d\'emmagatzematge.</string>
     <string name="weixin_code_tip">Utilitzeu el WeChat per escanejar aquest codi QR</string>
     <string name="welcome_to_thesweepversion">Us donem la benvinguda a l\'Escàner Beta!</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="wifi_details">WLAN:</string>
     <string name="wifi_exist_fail">El punt d\'accés \"%1$s\" ja existeix. Suprimiu-lo i torneu a escanejar el codi per connectar-vos.</string>
     <string name="wifi_low_version_prompt">sol·licitud de wifi</string>

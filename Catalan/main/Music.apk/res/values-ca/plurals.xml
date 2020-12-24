@@ -146,6 +146,14 @@ Nota: El fitxer també se suprimirà d'aquest dispositiu."</item>
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d seguidors</item>
+        <item quantity="one">%d seguidors</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Seguint %d persones</item>
+        <item quantity="one">Seguint %d persones</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>

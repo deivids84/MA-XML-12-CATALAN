@@ -126,6 +126,8 @@
     <string name="storage_location">Emmagatzematge</string>
     <string name="storage_location_summary">Seleccioneu l’opció d’emmagatzematge preferida</string>
     <string name="unchecked">No seleccionat</string>
+    <string name="uninstall_warning_content">"L'Enregistrador de Pantalla és una aplicació del sistema. No podreu enregistrar vídeos de pantalla després de desinstal·lar-la."</string>
+    <string name="uninstall_warning_title">Voleu desinstal·lar l\'Enregistrador de Pantalla?</string>
     <string name="using_record_confirm_cancel">Restringeix</string>
     <string name="using_record_confirm_ok">Permet</string>
     <string name="v7_preference_off">DESACTIVAT</string>

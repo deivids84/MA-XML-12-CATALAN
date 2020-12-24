@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MediaControlView_ad_remaining_time">Anunci · %1$s restant</string>
+    <string name="MediaControlView_ad_skip_wait_time">Podeu ometre l\'anunci d\'aquí a %1$ds</string>
+    <string name="MediaControlView_ad_text">Visiteu l\'anunciant</string>
+    <string name="MediaControlView_audio_track_none_text">Cap</string>
+    <string name="MediaControlView_audio_track_number_text">Pista %1$d</string>
+    <string name="MediaControlView_audio_track_text">Pista d\'àudio</string>
+    <string name="MediaControlView_playback_speed_normal">Normal</string>
+    <string name="MediaControlView_playback_speed_text">Velocitat de reproducció</string>
+    <string name="MediaControlView_subtitle_off_text">Desactivat</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Pista %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Pista %1$d</string>
+    <string name="MediaControlView_video_quality_auto_text">Auto</string>
     <string name="abc_action_bar_home_description">Navega a l\'inici</string>
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
@@ -65,9 +77,9 @@ per afegir targetes"</string>
     <string name="allergic_drugs_hint">Introduïu la medicació i la reacció a la mateixa</string>
     <string name="allow_notice_periods">Període de temps actiu</string>
     <string name="altitude">Altitud</string>
+    <string name="altitude_pressure_hint">*Calculat per la pressió de l’aire, hi ha alguns errors</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
-    <string name="app_name">ILogger</string>
     <string name="app_setting">Aplicacions</string>
     <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
     <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
@@ -78,9 +90,9 @@ per afegir targetes"</string>
 
 Per proporcionar-vos recomanacions, compartirem les vostres dades de salut amb un proveïdor de serveis aliè. Els elements que compartirem inclouen informació personal (edat, sexe), estadístiques de salut (alçada, pes, rutina d’entrenament), dades de comportament (hora d’inici i finalització, així com la durada dels entrenaments).
 
-Processarem aquests elements abans de compartir-los per evitar que tercers proveïdors de serveis us identifiquin personalment en funció de les dades que rebin.
+Anonimitzarem aquests elements abans de compartir-los per evitar que tercers proveïdors de serveis us identifiquin personalment en funció de les dades que rebin.
 
-Si no voleu accedir a les classes recomanades, podeu utilitzar els entrenaments habituals."</string>
+Si no voleu accedir a les classes recomanades, podeu utilitzar els entrenaments normals."</string>
     <string name="auth_dialog_link">Per entendre els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Acord d’usuari&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="auth_dialog_title">Classes recomanades</string>
     <string name="auto_start_fail">"No s'han pogut autoritzar el permís"</string>
@@ -261,6 +273,7 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
     <string name="deep_sleep_duration_description">"Quan la gent dorm, es produeixen moviments oculars ràpids periòdics. El son es pot dividir en son de moviment ràpid dels ulls (REM) i son de moviment ocular no ràpid (NREM). El son profund es produeix durant els períodes de son NREM, que representen aproximadament 20 a 25%% de la durada total del son. El cervell descansa durant el son profund, mostrant nivells baixos d’activitat conscient, de manera que despertar no és fàcil."</string>
     <string name="deep_sleep_duration_increase_description">El vostre son profund és massa llarg</string>
     <string name="deep_sleep_duration_normal_description">Teniu una quantitat suficient de son profund</string>
+    <string name="default_notification_channel_name">Reproducció en curs</string>
     <string name="delete">Suprimeix</string>
     <string name="delete_aid_file">Suprimeix</string>
     <string name="delete_aid_file_desc">Si continueu, la vostra identificació mèdica d’emergència se suprimirà permanentment d’aquest dispositiu.</string>
@@ -371,6 +384,12 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
     <string name="enable_right_now">Activa</string>
     <string name="enough">Suficient</string>
     <string name="enter_mi_health">Obre Xiaomi Health</string>
+    <string name="environment_detection_again">Torna-ho a provar</string>
+    <string name="environment_detection_fail">"Sembla que aquí hi ha massa soroll"</string>
+    <string name="environment_detection_fail_hint">Moveu-vos a un lloc tranquil i torneu-ho a provar.</string>
+    <string name="environment_detection_hint_one">Eviteu els llocs sorollosos per fer les estadístiques més precises.</string>
+    <string name="environment_detection_hint_two">El vostre entrenament es posarà en pausa i es reprendrà automàticament en funció dels sons que produïu.</string>
+    <string name="environment_detection_ing">S\'esta comprovant l\'entorn de l\'entrenament…</string>
     <string name="equivalent_exercise">≈%1$s km caminant (%2$s kcal)</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
@@ -534,6 +553,8 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="health_score">Puntuació de salut</string>
     <string name="health_score_tips">La puntuació de salut es calcula en funció del vostre IMC (índex de massa corporal), així com dels vostres passos i son. Com més a prop estigueu d’aconseguir els vostres objectius, més alt serà la vostra puntuació de salut.</string>
     <string name="health_setting">Configuració de Salut</string>
+    <string name="health_uninstall_dialog_content">"Xiaomi Health és una aplicació del sistema. Podeu utilitzar aquesta aplicació per comptar els passos, fer un seguiment de la son, els períodes i el pes, així com sincronitzar les estadístiques amb el núvol. No podreu utilitzar aquesta aplicació després de desinstal·lar-la."</string>
+    <string name="health_uninstall_dialog_title">Voleu desinstal·lar Xiaomi Health?</string>
     <string name="heart_rate">Ritme cardíac</string>
     <string name="height">Alt</string>
     <string name="high">Alta</string>
@@ -571,18 +592,6 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_detect_state_reseting_desc">Només cal despertar-se o relaxar-se completament</string>
     <string name="hr_disable_in_split_screen">"No es pot mesurar la freqüència cardíaca mentre s'utilitza la pantalla dividida"</string>
     <string name="hr_disturb_detect">Interrupció de detecció</string>
-    <string name="hr_finger_permission_desc">Per mesurar la freqüència cardíaca, aquesta funció ha d’accedir a l’escàner d’empremtes digitals per poder detectar canvis en el flux sanguini. Permetre?</string>
-    <string name="hr_fp_area">Escàner d’empremtes digitals</string>
-    <string name="hr_fp_detect_desc">La sang flueix als dits amb cada batec del cor. La llum brillant a la zona de l’escàner d’empremtes dactilars que hi ha a la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca.</string>
-    <string name="hr_fp_detect_principle_desc">"La sang no és del tot opaca; per tant, la llum pot passar-hi. Amb cada batec del cor, la sang flueix cap als dits, bloquejant més llum que entre els batecs del cor. La llum brillant a la zona de l’escàner d’empremtes dactilars que hi ha a sota de la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca."</string>
-    <string name="hr_fp_detect_principle_desc_2">"Nota: assegureu-vos que el dit cobreixi completament la icona d’empremtes digitals durant el mesurament. No apliqueu força, ja que pot bloquejar el flux sanguini a la punta dels dits i fer que els resultats siguin inexactes. Aquesta mesura només es proporciona com a referència. No pot substituir les proves mèdiques."</string>
-    <string name="hr_fp_detect_principle_desc_3">Les nostres proves demostren que aquest mètode mesura la freqüència cardíaca amb un error de només ≤3 BPM.</string>
-    <string name="hr_fp_detect_start_desc">"Premeu lleugerament la icona d’empremtes digitals.
-No mous el dit."</string>
-    <string name="hr_fp_detecting">Mesurant…</string>
-    <string name="hr_fp_not_put_well">"El dit es va moure.
-Torna a començar."</string>
-    <string name="hr_fp_report_common_desc">La freqüència cardíaca normal oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
     <string name="hr_heart_rate_unit">Freqüència cardíaca (BPM)</string>
     <string name="hr_in_detect">No deixeu anar els dits mentre feu la prova</string>
     <string name="hr_input_heart_rate">Registrar la freqüència cardíaca</string>
@@ -592,9 +601,20 @@ Torna a començar."</string>
     <string name="hr_phone_detect_records">Registre de detecció de telèfons mòbils</string>
     <string name="hr_pre_detect">Cobriu completament el flaix i la càmera amb un dit</string>
     <string name="hr_pre_detect_finger">Comprovant&#8230;</string>
-    <string name="hr_re_detect_title">Torna a començar</string>
+    <string name="hr_re_detect_title">Comença de nou</string>
     <string name="hr_report_active_desc">Mesurar la freqüència cardíaca immediatament després de fer exercici us pot ajudar a ajustar els hàbits d’exercici, ja que els entrenaments de diferent intensitat tenen diferents zones de freqüència cardíaca òptimes. Si la freqüència cardíaca és massa alta, l’activitat pot perjudicar la vostra salut i provocar marejos, opressió al pit i altres riscos. La freqüència cardíaca baixa pot ser un signe de baixa efectivitat d’un entrenament concret.</string>
+    <string name="hr_report_active_high_desc">La freqüència cardíaca actual és una freqüència cardíaca d’exercici d’alta intensitat. S\'estimularà la funció cardiopulmonar.</string>
+    <string name="hr_report_active_higher_desc">La freqüència cardíaca actual és una freqüència cardíaca d’exercici d’alta intensitat. La funció cardíaca i pulmonar obté una forta estimulació, al mateix temps, presteu atenció a la condició física, si hi ha molèsties, haureu d\'acabar l\'exercici com més aviat millor.</string>
+    <string name="hr_report_active_lower_mid_desc">La freqüència cardíaca actual és una freqüència cardíaca d’exercici d\'intensitat baixa. Es pot escalfar. Se suggereix que les persones amb mala salut haurien d’exercir amb intensitat baixa a moderada.</string>
+    <string name="hr_report_active_lowest_desc">La freqüència cardíaca actual és una freqüència cardíaca d’exercici de baixa intensitat. Pot produir certa estimulació al cos, però la intensitat de l’exercici és petita.</string>
+    <string name="hr_report_active_mid_desc">La freqüència cardíaca actual és moderada. Es recomana que la majoria d’adults sans facin exercici d’intensitat moderada a alta durant 150 minuts a la setmana.</string>
     <string name="hr_report_common_desc">El cos humà manté la freqüència cardíaca normal durant les activitats diàries i oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
+    <string name="hr_report_regular_fast_desc">Taquicàrdia actual. Esports greus, beure, mà d\'obra física pesada, tensió, ansietat o prendre alguns medicaments pot causar taquicàrdia fisiològica, mentre que la malaltia cardiovascular, anèmia, hipertiroïdisme, hipòxia, insuficiència cardíaca i altres malalties poden causar taquicàrdia patològica. Si us sentiu malament, consulteu el vostre metge.</string>
+    <string name="hr_report_regular_normal_desc">La freqüència cardíaca està en el rang normal. Pel vostre cor és bo per fer front a l’estrès i pel vostre cos pot resistir l’estrès extern. El canvi de la freqüència cardíaca està estretament relacionat amb les malalties del cor. Presteu atenció al canvi de ritme cardíac en qualsevol moment, especialment durant l’exercici.</string>
+    <string name="hr_report_regular_slow_desc">La freqüència cardíaca actual és massa lenta. La freqüència de bradicàrdia va ser inferior a la freqüència cardíaca normal (aproximadament el 60%). Si la bradicàrdia no provoca marejos, amaurosi, marejos, síncopes i altres símptomes, no interfereix, es pot fer un seguiment regular. Però si teniu opressió toràcica, marejos i altres símptomes, consulteu el vostre metge a temps.</string>
+    <string name="hr_report_resting_fast_desc">La freqüència cardíaca en repòs és superior a la normal, cosa que pot provocar fatiga o taquicàrdia. Es recomana millorar el seu estil de vida, com una dieta baixa en sal i menys oli, la pèrdua de pes, el tabaquisme i l’abandonament de l’alcohol, l’ajust psicològic i emocional, especialment augmentant progressivament l’exercici físic, que pot ajudar a reduir la freqüència cardíaca en repòs.</string>
+    <string name="hr_report_resting_normal_desc">La freqüència cardíaca en repòs està en l\'interval normal. La freqüència cardíaca en repòs fa referència al nombre de batecs cardíacs per minut de persones normals en un estat tranquil. El millor moment per mesurar la freqüència cardíaca en repòs és en despertar-se al matí, encara estirat al llit i sense fer cap activitat física. Abans de mesurar la freqüència cardíaca en repòs, respireu profundament per relaxar completament el cos.</string>
+    <string name="hr_report_resting_slow_desc">La freqüència cardíaca en repòs està per sota de l\'interval normal i és possible que hi hagi bradicàrdia. Si la freqüència cardíaca és massa lenta durant molt de temps, és fàcil causar isquèmia i hipòxia dels òrgans, especialment dels vasos càrdio cerebrals. La freqüència cardíaca en repòs està estretament relacionada amb la dieta, l’exercici, l’estrès, el son i la condició física. Es recomana mantenir un estil de vida saludable i bo i prestar atenció a les reaccions físiques a temps. Si teniu símptomes com marejos, fatiga, desmais i opressió toràcica, consulteu el metge a temps.</string>
     <string name="hr_see_report">Visualitza l\'informe</string>
     <string name="hr_start_detect">Comenceu a experimentar</string>
     <string name="hr_state">Estat</string>
@@ -675,7 +695,7 @@ Torna a començar."</string>
     <string name="location_service_dialog_negative">Ara no</string>
     <string name="location_service_dialog_positive">Encendre</string>
     <string name="location_service_dialog_title">Els serveis d’ubicació estan desactivats</string>
-    <string name="location_service_ntfc_content">Salut de Xiaomi</string>
+    <string name="location_service_ntfc_content">Xiaomi Health</string>
     <string name="location_service_ntfc_title">S\'està cercant el GPS…</string>
     <string name="login_and_open_sync">Inicieu la sessió i activeu la sincronització</string>
     <string name="login_and_open_sync2">Inicieu la sessió i activeu la sincronització</string>
@@ -683,6 +703,7 @@ Torna a començar."</string>
     <string name="low_intensity">Baixa</string>
     <string name="low_intensity_description">Una freqüència respiratòria regular que us permet mantenir la conversa</string>
     <string name="low_pressure">Diastòlica (inferior)</string>
+    <string name="lowest_freq">Freqüència mínima</string>
     <string name="lowest_jump">Salt més baix</string>
     <string name="manage_home">Gestiona la pàgina d’inici</string>
     <string name="manual_add">Afegeix manualment</string>
@@ -700,6 +721,28 @@ Torna a començar."</string>
     <string name="max_low_pressure">Diastòlica màxima (inferior)</string>
     <string name="maximum">Màxim</string>
     <string name="maximum_pace">Ritme màxim</string>
+    <string name="mcv2_back_button_desc">Enrere</string>
+    <string name="mcv2_cc_is_off">Els subtítols estan desactivats. Feu clic per mostrar-los.</string>
+    <string name="mcv2_cc_is_on">Els subtítols estan activats. Feu clic per amagar-los.</string>
+    <string name="mcv2_error_dialog_button">D\'acord</string>
+    <string name="mcv2_ffwd_button_desc">Avança 30 segons</string>
+    <string name="mcv2_full_screen_button_desc">Pantalla completa</string>
+    <string name="mcv2_launch_button_desc">Inicia l\'enllaç</string>
+    <string name="mcv2_music_artist_unknown_text">Artista desconegut</string>
+    <string name="mcv2_music_title_unknown_text">Títol de la cançó desconegut</string>
+    <string name="mcv2_next_button_desc">Següent</string>
+    <string name="mcv2_non_music_title_unknown_text">Títol del vídeo desconegut</string>
+    <string name="mcv2_overflow_left_button_desc">Torna a la llista de botons anterior</string>
+    <string name="mcv2_overflow_right_button_desc">Mostra més botons</string>
+    <string name="mcv2_pause_button_desc">Pausa</string>
+    <string name="mcv2_play_button_desc">Reprodueix</string>
+    <string name="mcv2_playback_error_text">"No s'ha pogut reproduir l'element que heu sol·licitat"</string>
+    <string name="mcv2_previous_button_desc">Anterior</string>
+    <string name="mcv2_replay_button_desc">Torna a reproduir</string>
+    <string name="mcv2_rewind_button_desc">Rebobina 10 segons</string>
+    <string name="mcv2_seek_bar_desc">Progrés de la reproducció</string>
+    <string name="mcv2_settings_button_desc">Configuració</string>
+    <string name="mcv2_video_quality_button_desc">Selecció de qualitat de vídeo</string>
     <string name="measure_date">Temps de mesurament</string>
     <string name="measure_time">Temps de mesurament</string>
     <string name="medical_file_desc1">Informació mèdica important, imprescindible en cas d’emergència</string>
@@ -787,6 +830,11 @@ Torna a començar."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
+    <string name="miuix_search_action_mode_cancel">Cancel·la</string>
+    <string name="miuix_search_history_clear">Neteja l\'historial de cerques</string>
+    <string name="miuix_search_history_default_title">Historial de cerques</string>
+    <string name="miuix_search_recommendation_default_title">Pot ser que us interessin</string>
+    <string name="miuix_search_recommendation_item_del_des">Suprimeix</string>
     <string name="model_card_setting">Configuració de la targeta</string>
     <string name="moderately_abnormal">Hipertensió etapa 2</string>
     <string name="moderately_abnormal_tip">Cada dia després d\'aixecar-se i abans d\'anar a dormir</string>
@@ -851,6 +899,7 @@ Torna a començar."</string>
     <string name="need_auto_start_permission">Per obtenir estadístiques més precises, permeteu que Xiaomi Health s\'iniciï automàticament.</string>
     <string name="need_unrestricted_permission">Per obtenir estadístiques més precises, permeteu que Xiaomi Health funcioni sempre en segon pla.</string>
     <string name="network_connect_failure">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="network_name_china">WLAN</string>
     <string name="network_not_available">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
     <string name="network_not_available2">"No s'ha pogut connectar a la xarxa"</string>
     <string name="next_step">Següent</string>
@@ -893,7 +942,7 @@ Torna a començar."</string>
     <string name="origin">Font</string>
     <string name="other_can_add_data_source">Fonts disponibles</string>
     <string name="other_optional_data_sources">Altres fonts de dades disponibles</string>
-    <string name="other_question">Altres raons</string>
+    <string name="other_question">Altres</string>
     <string name="outdoor_hiking">Senderisme</string>
     <string name="outdoor_riding">Ciclisme a l\'aire lliure</string>
     <string name="outdoor_running">Córrer</string>
@@ -903,6 +952,7 @@ Torna a començar."</string>
     <string name="passport_oauth_sucess_tip">Autoritzat amb èxit</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="pause">Pausa</string>
+    <string name="pause_button_content_description">Pausa</string>
     <string name="per_time_minutes">%d per minut</string>
     <string name="per_time_minutes1">" per minut"</string>
     <string name="per_time_minutes_heart_rate">" BPM"</string>
@@ -925,6 +975,7 @@ Torna a començar."</string>
     <string name="placement_tips_warn">No es recomana</string>
     <string name="placement_tips_warn_1">Cinta de córrer</string>
     <string name="play">Reprodueix</string>
+    <string name="play_button_content_description">Reprodueix</string>
     <string name="please_choose">Selecciona</string>
     <string name="pm">pm</string>
     <string name="pool_swimming">Natació en piscina</string>
@@ -1006,6 +1057,8 @@ Torna a començar."</string>
     <string name="retry">Torna-ho a provar</string>
     <string name="revert_to_default">Restaura els valors per defecte</string>
     <string name="rope_skipping">Corda de saltar</string>
+    <string name="rope_skipping_environment_warning">Eviteu els entorns sorollosos</string>
+    <string name="rope_skipping_ways">Identifiqueu saltar la corda per veu</string>
     <string name="rowing_machine">Remera</string>
     <string name="run">Córrer</string>
     <string name="saturday">Dissabte</string>
@@ -1050,6 +1103,26 @@ Torna a començar."</string>
     <string name="severe_abnormal_tip">Cada dia després d\'aixecar-se, després de dinar i abans d\'anar a dormir</string>
     <string name="share">Comparteix</string>
     <string name="skip">Omet</string>
+    <string name="skip_to_next_item_button_content_description">Salta a l\'element següent</string>
+    <string name="skip_to_previous_item_button_content_description">Salta a l\'element anterior</string>
+    <string name="skipping_count">Salts</string>
+    <string name="skipping_detection_no">"No s'ha pogut detectar l'entrenament."</string>
+    <string name="skipping_detection_no_hint">Eviteu llocs sorollosos i mantingueu aquest dispositiu a prop.</string>
+    <string name="skipping_kcal">Calories</string>
+    <string name="skipping_pause">Saltant en pausa</string>
+    <string name="skipping_pause_tips">En pausa | Repreneu l\'entrenament per continuar el seguiment automàticament</string>
+    <string name="skipping_ready">Ja podeu començar l’entrenament</string>
+    <string name="skipping_ready_hint_one">Mantingueu aquest dispositiu a no més d’un metre de distància.</string>
+    <string name="skipping_ready_hint_two">El vostre entrenament es posarà en pausa i es reprendrà automàticament en funció dels sons que produïu.</string>
+    <string name="skipping_ready_toast">"Hem augmentat el volum perquè escolteu millor les instruccions."</string>
+    <string name="skipping_reset_time">Descans</string>
+    <string name="skipping_start_counting">Comença</string>
+    <string name="skipping_time">Durada</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Accepta i puja-ho</string>
+    <string name="skipping_upload_dialog_msg">Per tal de proporcionar una experiència de recompte de salts més precisa, Xiaomi Health pujarà l\'arxiu d\'enregistrament del salt de corda en condicions %s per optimitzar l\'efecte de reconeixement del salt de corda. Per protegir la vostra privadesa, la pujada i l\'emmagatzematge dels fitxers d\'enregistrament s\'encriptaran estrictament.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Rebutja-ho i no tornis a demanar-ho</string>
+    <string name="skipping_upload_dialog_title">Puja l\'enregistrament del salt de corda per optimitzar el reconeixement</string>
+    <string name="skipping_upload_tips">Puja aquest enregistrament de salt de corda per ajudar a millorar l\'efecte de reconeixement</string>
     <string name="sleep">Dormir</string>
     <string name="sleep_and_get_up_time">Horari de dormir</string>
     <string name="sleep_auto_start_perm_grant">Permisos concedits</string>
@@ -1228,25 +1301,29 @@ les dades de son"</string>
     <string name="solar_term_white_dews">Rosada</string>
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
     <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
+    <string name="sport_audio_permission_dialog_content">Aquesta aplicació necessita permisos per enregistrar l\'àudio per poder fer un seguiment dels entrenaments en funció dels sons que produïu.</string>
+    <string name="sport_audio_permission_dialog_desc">Per fer un seguiment dels entrenaments basats en els sons que produïu</string>
+    <string name="sport_audio_permission_dialog_title">Permisos necessaris</string>
     <string name="sport_btn_continue">Resum</string>
     <string name="sport_btn_finish">Final</string>
     <string name="sport_btn_lock">Bloqueig</string>
     <string name="sport_btn_pause">Pausa</string>
     <string name="sport_btn_unlock">Descobrir</string>
     <string name="sport_counter_begin">Comença ara</string>
-    <string name="sport_home_begin">Començar</string>
+    <string name="sport_home_begin">Comença</string>
     <string name="sport_home_set_goal">Estableix l’objectiu</string>
     <string name="sport_invalid_dialog_distance_content">La distància que heu recorregut durant aquest entrenament és massa curta per crear un historial. Voleu acabar aquest entrenament de totes maneres?</string>
     <string name="sport_invalid_dialog_time_content">Aquest entrenament va durar menys de 5 segons. Acabeu ara sense gravar-lo?</string>
     <string name="sport_invalid_dialog_title">Massa ràpid!</string>
     <string name="sport_menu_share">Compartir</string>
     <string name="sport_no_internet_toast">"No es pot accedir a la vostra ubicació precisa a causa d'un senyal de xarxa deficient."</string>
+    <string name="sport_outdoor_running">Cursa</string>
     <string name="sport_pace_chart_last_km">Menys d’1 km</string>
     <string name="sport_pace_step_unit">SPM</string>
     <string name="sport_pref_category_voice">Àudio</string>
     <string name="sport_pref_gps_voice_title">Indicacions de veu del senyal GPS</string>
-    <string name="sport_pref_voice_assist_summary">Escolteu informació i suggeriments durant els entrenaments</string>
-    <string name="sport_pref_voice_assist_title">Sol·licituds de veu</string>
+    <string name="sport_pref_voice_assist_summary">Sentireu informació i suggeriments durant els entrenaments</string>
+    <string name="sport_pref_voice_assist_title">Indicacions de veu</string>
     <string name="sport_settings_title">Entrenaments</string>
     <string name="sport_share_fail">"No s'ha pogut compartir. Torna-ho a provar"</string>
     <string name="sport_share_save_local">S\'ha desat correctament</string>
@@ -1333,6 +1410,8 @@ les dades de son"</string>
     <string name="sustain_title">"No us heu mogut durant "</string>
     <string name="swim">Natació</string>
     <string name="swim_type">Estil</string>
+    <string name="swipe_right_to_end">Llisqueu el dit cap a la dreta per acabar</string>
+    <string name="swipe_up_to_end">Llisqueu el dit cap amunt per acabar</string>
     <string name="sync_health_data">Sincronitza les dades de Salut</string>
     <string name="sync_immediately">Sincronització</string>
     <string name="sync_is_not_closed">La sincronització està activada</string>
@@ -1414,7 +1493,7 @@ les dades de son"</string>
     <string name="tb_home_exercise_card_speed_of_progress">Exercici. %1$s. Completat: %2$s. Objectiu: %3$s. Progrés: %4$s.</string>
     <string name="tb_home_heart_rate_card">Ritme cardíac. %1$d pulsacions per minut. Gravat el dia %2$s</string>
     <string name="tb_home_heart_rate_card_no_data">Ritme cardíac. No hi ha dades.</string>
-    <string name="tb_home_sleep_card">"Dormit d'avui: %1$s, %2$s"</string>
+    <string name="tb_home_sleep_card">"El son d'avui: %1$s, %2$s"</string>
     <string name="tb_home_sleep_card_no_data">Son. Sense dades avui.</string>
     <string name="tb_home_sleep_card_not_open_trace">Son. L’anàlisi del cicle de son està desactivat.</string>
     <string name="tb_home_tip_open_data_sync">Sincronitza els elements de Xiaomi Health amb Xiaomi Cloud per accedir-hi des d\'altres dispositius. Toqueu dos cops per començar.</string>
@@ -1573,6 +1652,8 @@ les dades de son"</string>
     <string name="total_distance_label">Distància total</string>
     <string name="total_slip">Nombre de cops</string>
     <string name="total_time_label">Temps total</string>
+    <string name="treadmill">Cinta de córrer</string>
+    <string name="try_again">Torna-ho a provar</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>
     <string name="tuesday_shortest">dt.</string>
@@ -1612,6 +1693,7 @@ Voleu actualitzar-ho ara?</string>
     <string name="value_error_correct">Edita el registre</string>
     <string name="visceral_fat">Greix visceral</string>
     <string name="visceral_fat_descripe_content">El greix visceral és fonamental per estabilitzar i protegir els òrgans interns. Tot i això, un greix visceral elevat augmenta el risc de malalties cardiovasculars i metabòliques.</string>
+    <string name="voice_remind">"Hem augmentat el volum perquè escolteu millor les instruccions."</string>
     <string name="walk">Caminar</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>

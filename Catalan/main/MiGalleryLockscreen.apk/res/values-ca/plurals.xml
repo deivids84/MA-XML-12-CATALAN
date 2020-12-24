@@ -5,8 +5,8 @@
         <item quantity="one">%d article</item>
     </plurals>
     <plurals name="feed_article_entrance_title">
-        <item quantity="other">%d articles sobre aquest tema</item>
-        <item quantity="one">%d article sobre aquest tema</item>
+        <item quantity="other">Veure %s articles recomanats</item>
+        <item quantity="one">Veure %s article recomanat</item>
     </plurals>
     <plurals name="llks_tools_remote_control_data">
         <item quantity="other">%s elements</item>

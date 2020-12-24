@@ -66,6 +66,7 @@
     <string name="ad_setting">Configuració d\'anuncis</string>
     <string name="add_music">Afegeix cançons</string>
     <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
+    <string name="add_to_playlist">Afegeix a la cua</string>
     <string name="add_to_playlist_successful">S\'ha afegit amb èxit</string>
     <string name="added_next_play">S\'ha afegit per reproduir-lo a continuació</string>
     <string name="afternoon">Tarda</string>
@@ -90,7 +91,6 @@
     <string name="always_use_metered">Utilitza sempre dades mòbils</string>
     <string name="am">am</string>
     <string name="app_label">Baixades</string>
-    <string name="app_name">Preferències</string>
     <string name="app_permission_confirm">Entesos</string>
     <string name="app_permission_optional">Permisos opcionals</string>
     <string name="app_permission_require">Permisos obligatoris</string>
@@ -127,6 +127,7 @@
     <string name="back">Enrere</string>
     <string name="back_confirm">Toqueu una altre vegada per sortir</string>
     <string name="bluetooth_device">Dispositiu d\'àudio Bluetooth</string>
+    <string name="btn_text_edit">Edita</string>
     <string name="buffering">S\'està omplint la memòria intermèdia&#8230;</string>
     <string name="button_cancel_download">Cancel·la</string>
     <string name="button_download_now">Baixa ara</string>
@@ -178,7 +179,6 @@
     <string name="connect_now">Connecta</string>
     <string name="connecting_apk">S\'està connectant…</string>
     <string name="copy">Copia</string>
-    <string name="count_format">%2$1.1f K</string>
     <string name="create_playlist">Crea una llista de reproducció</string>
     <string name="create_playlist_failure">"No s'ha pogut crear la llista de reproducció "</string>
     <string name="create_playlist_input_hint">Introduïu el nom de la llista de reproducció</string>
@@ -222,6 +222,7 @@
     <string name="dialog_insufficient_space_on_cache">"No es pot completar la baixada, no hi ha prou emmagatzematge intern."</string>
     <string name="dialog_insufficient_space_on_external">"No es pot acabar la baixada. No hi ha prou espai a la targeta SD."</string>
     <string name="dialog_media_not_found">"No es pot baixar. La targeta SD no està disponible."</string>
+    <string name="dialog_message_unfollow">Voleu deixar de seguir aquesta persona?</string>
     <string name="dialog_my_playlist_online_changed_merge">Manté</string>
     <string name="dialog_my_playlist_online_changed_message">Sembla que aquesta llista de reproducció ha canviat. Podeu substituir-la per la nova versió o conservar-ne l’antiga.</string>
     <string name="dialog_my_playlist_online_changed_replace">Reemplaça</string>
@@ -249,6 +250,7 @@
     <string name="dialog_song_view_type_artist">Per artista</string>
     <string name="dialog_song_view_type_folder">Per carpeta</string>
     <string name="dialog_song_view_type_song">Per cançó</string>
+    <string name="dialog_subtitle_make_playlist_public">Les llistes de reproducció públiques estan disponibles per a altres persones. Les llistes de reproducció privades només són visibles a tots els dispositius sincronitzats.</string>
     <string name="dialog_title_clearlist_tracks">Esborra la llista de reproducció</string>
     <string name="dialog_title_delete_tracks">Esborra</string>
     <string name="dialog_title_name_playlist">Nom de la llista de reproducció</string>
@@ -406,11 +408,13 @@
     <string name="fail_to_play">"No es pot reproduir la cançó"</string>
     <string name="failed_not_access_sd_card">Permet primer l\'accés a la targeta SD</string>
     <string name="failed_obtain_permissions">"No s'han pogut obtenir els permisos"</string>
+    <string name="fans">Seguidors</string>
     <string name="fav_login_msg">Inicieu sessió al Compte Mi per baixar cançons</string>
     <string name="favorite_canceled">Eliminada de preferides</string>
     <string name="favorite_playlist">Preferides</string>
     <string name="favorite_singer">Artistes favorits</string>
     <string name="favorite_succeed">Afegida a preferides</string>
+    <string name="favorite_to_playlist">Afegir a la llista de reproducció</string>
     <string name="favorite_tracks">Preferides</string>
     <string name="favorites">Preferides</string>
     <string name="fcm_fallback_notification_channel_label">Miscel·lània</string>
@@ -600,7 +604,6 @@
     <string name="joox_category_vip">Ventilador</string>
     <string name="joox_download_title">Descàrregues de JOOX</string>
     <string name="joox_privacy_desc">Política de privadesa de JOOX (opcional)</string>
-    <string name="joox_privacy_policy_url">http://www.tencent.com/en-us/privacy-policy.html</string>
     <string name="joox_privacy_tips_content">Llegiu i accepteu <a href="/link/click">Joox política de privacitat</a> abans d\'utilitzar els serveis en línia.</string>
     <string name="joox_privacy_tips_title">Política de privadesa de JOOX</string>
     <string name="joox_recommend_artist_title">Artistes recomanats</string>
@@ -753,8 +756,10 @@
     <string name="no_album_info">No hi ha informació de l\'àlbum</string>
     <string name="no_artist_info">No hi ha informació de l\'artista</string>
     <string name="no_downloads">Sense baixades</string>
+    <string name="no_fans_empty_title">"Encara no teniu seguidors"</string>
     <string name="no_favorites_songs">Buit</string>
     <string name="no_file_picker_find">"El gestor de fitxers no està instal·lat."</string>
+    <string name="no_follow_empty_title">"Encara no segueixes ningú"</string>
     <string name="no_local_songs">Buit</string>
     <string name="no_local_songs_selected">"No es poden enviar les cançons perquè no han estat baixades"</string>
     <string name="no_local_source_find">"No s'ha pogut trobar la cançó"</string>
@@ -882,7 +887,6 @@
     <string name="privacy_authorize_revoking">S\'està revocant l\'autorització…</string>
     <string name="privacy_desc">Política de privacitat (obligatori)</string>
     <string name="privacy_policy">Política de privadesa</string>
-    <string name="privacy_policy_url">https://privacy.mi.com/all/ca_ES</string>
     <string name="privacy_request_desc"><Data>\"La meva música necessita per recopilar informació personal necessària per oferir-li els serveis en línia de streaming. Vostè pot aprendre com fem servir la informació que obtenim en la nostra &lt;a href=\"%1$s\"&gt;Política de privacitat&lt;/a&gt;. Pot retirar el seu consentiment a la política de privacitat de La meva Música als ajustos
 Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar Mi Music.
 Si no accepteu utilitzar els serveis esmentats, no podreu utilitzar algunes funcions d’aquesta aplicació. ; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vosaltres. \"</Data></string>
@@ -997,6 +1001,7 @@ Sigues Feliç"</string>
     <string name="share_end_note">Des de Música Mi</string>
     <string name="share_failed">"No s'ha pogut compartir"</string>
     <string name="share_image_error">"No s'ha pogut compartir la imatge a causa d'un error amb la baixada"</string>
+    <string name="share_song">Comparteix</string>
     <string name="share_text_list">"Llista de reproducció de Música Mi: "</string>
     <string name="share_text_song">"Cançó a Música Mi: "</string>
     <string name="show_float_first_hint">Minimitza el reproductor</string>
@@ -1157,11 +1162,14 @@ Sigues Feliç"</string>
     <string name="title_online_recommend">Llistes de reproducció recomanades</string>
     <string name="title_search_history">Històric de cerca</string>
     <string name="title_search_hot">Popular</string>
+    <string name="toast_cant_collect_mine_playlist">"No es poden afegir les vostres pròpies llistes de reproducció als preferits"</string>
     <string name="toast_cant_commit_without_title">Introduïu el títol de la cançó</string>
     <string name="toast_download_error_by_count_limit">Heu esgotat el límit de baixades per a aquest mes.</string>
     <string name="toast_download_error_by_not_login">Inicieu la sessió al Compte Mi i torneu-ho a provar.</string>
     <string name="toast_download_error_by_vip_required">Obtén el paquet de cançons prèmium per baixar aquesta cançó.</string>
     <string name="toast_download_in_process">S\'està baixant</string>
+    <string name="toast_favorite_has_been_added">S\'ha afegit a la llista de reproducció correctament</string>
+    <string name="toast_follow_success">S\'ha seguit correctament</string>
     <string name="toast_is_pro">"Ja ets membre PRO."</string>
     <string name="toast_my_playlist_illegal_name">"El títol d'aquesta llista de reproducció no és vàlid. Canvia el nom de la llista de reproducció."</string>
     <string name="toast_my_playlist_set_to_private">"Aquesta llista de reproducció ara és privada. Les altres persones no la poden veure."</string>
@@ -1172,6 +1180,9 @@ Sigues Feliç"</string>
     <string name="toast_normal_songs_for_download">S\'ha establert la qualitat de baixada a estàndard</string>
     <string name="toast_normal_songs_for_stream">S\'ha establert la qualitat de transmissió a estàndard</string>
     <string name="toast_not_pro">Aquesta funció només està disponible per als membres PRO.</string>
+    <string name="toast_playlist_has_been_added">S\'ha afegit a la cua correctament</string>
+    <string name="toast_playlist_has_been_private">Aquesta llista de reproducció és privada</string>
+    <string name="toast_playlist_has_been_public">Aquesta llista de reproducció és pública</string>
     <string name="toast_playmode_loop_playback">La llista de reproducció actual està en bucle</string>
     <string name="toast_playmode_shuffle_play">La reproducció es barreja</string>
     <string name="toast_playmode_single_cycle">La cançó actual està en bucle</string>
@@ -1203,12 +1214,15 @@ Sigues Feliç"</string>
     <string name="upload_playlist_to_hungama_title">Sincronitzeu les cançons en línia amb l\'Hungama per poder-les escoltar en altres dispositius on utilitzeu el Compte Mi.</string>
     <string name="upload_playlist_to_hungama_toast">Les cançons en línia es sincronitzaran amb l\'Hungama</string>
     <string name="user_agreement">Acord d\'usuari</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=es</string>
+    <string name="user_playlist_plaza">Llistes de reproducció</string>
     <string name="user_privacy_dialog_negative_text">Cancel·lada</string>
     <string name="user_privacy_dialog_positive_count_down_text">Retirar (%ss)</string>
     <string name="user_privacy_dialog_positive_text">Retirar-se</string>
     <string name="user_privacy_setting_group_title">Retirada del consentiment</string>
     <string name="user_privacy_setting_title">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la política de privadesa de Mi Music.</string>
+    <string name="user_profile_created_playlist_title">Llistes de reproducció personalitzades</string>
+    <string name="user_profile_fans_count">Seguidors: %s</string>
+    <string name="user_profile_follow_count">Seguint: %s</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="version_info">Versió</string>
@@ -1226,7 +1240,6 @@ Sigues Feliç"</string>
 
 Premeu %s per iniciar aquesta baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
     <string name="wifi_required_title">Heu de connectar-vos a Wi-Fi per baixar aquest fitxer</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Ha fallat la connexió del Gestor de baixades, comproveu l\'estat del Gestor de baixades al Gestor d\'aplicacions.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
@@ -1234,8 +1247,6 @@ Mida: %2$s"</string>
 Mida de l'actualització Delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Actualització de %1$s!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">L\'emmagatzematge no està disponible. Comproveu la targeta SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">Ahir</string>
     <string name="you_can_switch_mode_in_settings">Podeu canviar entre els modes a la Configuració</string>
     <string name="you_may_like">També us pot agradar</string>

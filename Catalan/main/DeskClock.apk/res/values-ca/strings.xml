@@ -583,7 +583,7 @@
     <string name="time_settings">Configuració del rellotge</string>
     <string name="timer_alarm_cancel_pad">Toqueu la pantalla per aturar l\'alarma</string>
     <string name="timer_alarm_dot_matrix_label">TEMPORITZADOR</string>
-    <string name="timer_alert_alert_silenced">Temporitzador silenciat després de %d minuts.</string>
+    <string name="timer_alert_alert_silenced">Temporitzador silenciat després de %1$s.</string>
     <string name="timer_alert_mute_off">L\'alarma sonarà quan el temporitzador s\'aturi</string>
     <string name="timer_alert_mute_on">"L'alarma no sonarà quan el temporitzador s'aturi"</string>
     <string name="timer_alert_mute_remind">Premeu per silenciar l\'alarma</string>

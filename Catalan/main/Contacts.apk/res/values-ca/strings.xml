@@ -950,7 +950,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
     <string name="restore_app_btn_cancel">Cancel·la</string>
     <string name="restore_app_btn_restore">D\'acord</string>
-    <string name="restore_app_description_content">Afegiu una drecera a la pantalla d\'inici per poder accedir més ràpidament als vostres contactes.</string>
+    <string name="restore_app_description_content">Afegiu una drecera a la pantalla d\'inici per poder accedir més ràpidament als contactes.</string>
     <string name="restore_app_description_title">Voleu afegir \"Contactes\" a la pantalla d\'inici?</string>
     <string name="restore_nickname">Restaurar</string>
     <string name="return_call">Toqueu per tornar a trucar</string>

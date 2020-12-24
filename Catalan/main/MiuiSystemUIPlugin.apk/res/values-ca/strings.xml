@@ -236,8 +236,6 @@
     <string name="quick_settings_pcmode_label">Mode PC</string>
     <string name="quick_settings_pcmode_ok_button">D\'ACORD</string>
     <string name="quick_settings_scanner_label">Escàner</string>
-    <string name="quick_settings_tiles_default">vowifi1, vowifi2, cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobrightness, avió, bloqueig de pantalla, gps, rotació, escàner, mode de paper, nit, quietmode, batterysaver, extremebatterysaver, custom (com.miui.securitycenter / com.miui superpower.notification.SuperPowerTileService), personalitzat (com.milink.service / com.milink.ui.service.MiLinkTileService), pcmode, custom (com.miui.mishare.connectivity / .tile.MiShareTileService), powermode, freeformhang, custom ( com.miui.screenrecorder / .service.QuickService), vibració, punt d\'accés, sincronització, personalitzat (com.google.android.gms / .nearby.sharing.SharingTileService), botó de pantalla, wirelesspower, nfc, edita</string>
-    <string name="quick_settings_tiles_stock">vowifi1, vowifi2, cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobrightness, avió, bloqueig de pantalla, gps, rotació, escàner, mode de paper, nit, mode tranquil, estalvi de bateria, extremebatterysaver, pcmode, powermode, freeformhang, vibrar, punt d\'accés, sincronització, botó de pantalla, wirelesspower, nfc, edit, drivemode</string>
     <string name="quick_settings_wireless_label">Càrrega inversa sense fils</string>
     <string name="reboot_info_auto_boot">Propera alarma: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarma apagat: %s</string>

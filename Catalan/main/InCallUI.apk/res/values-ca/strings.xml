@@ -2,6 +2,9 @@
 <resources>
     <string name="ai_assistant">Assistent de trucades AI</string>
     <string name="ai_assistant_not_installed">Instal·leu primer l\'Assistent de trucades AI</string>
+    <string name="ai_mode_auto">Auto</string>
+    <string name="ai_mode_manual">Manualment</string>
+    <string name="ai_mode_subtitles">Subtítols</string>
     <string name="antispam_local_marked">Marcada localment</string>
     <string name="antispam_notification_title">Número desconegut</string>
     <string name="antispam_provider">Identificat per %s</string>
@@ -101,6 +104,7 @@
     <string name="description_image_button_tools">Opcions</string>
     <string name="description_image_button_two">dos</string>
     <string name="description_image_button_video_answer">Vídeotrucada</string>
+    <string name="description_incoming_video">Perfil de vídeo per trucades entrants</string>
     <string name="description_message_list_title">Llista de respostes ràpides</string>
     <string name="description_target_answer">Respondre</string>
     <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>

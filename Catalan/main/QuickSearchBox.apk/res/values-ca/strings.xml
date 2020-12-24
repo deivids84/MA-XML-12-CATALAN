@@ -6,7 +6,6 @@
     <string name="appindex_search_label">Funcions de les aplicacions</string>
     <string name="application_desc">Aplicació</string>
     <string name="applications_search_label">Aplicacions</string>
-    <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
     <string name="barcode_install_back">Enrera</string>
     <string name="barcode_install_cancel">Cancel · lar</string>
     <string name="barcode_install_confirm">Instal·leu</string>

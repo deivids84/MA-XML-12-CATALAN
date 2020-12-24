@@ -60,7 +60,7 @@
     <string name="accessibility_battery_full">Bateria carregada.</string>
     <string name="accessibility_battery_level">Percentatge de bateria %d.</string>
     <string name="accessibility_battery_level_charging">S\'està carregant la bateria, %d per cent.</string>
-    <string name="accessibility_battery_level_with_estimate">Bateria del %1$s %, en queda aproximadament %2$s segons el vostre ús</string>
+    <string name="accessibility_battery_level_with_estimate">Bateria del %1$s per cent, en queda aproximadament %2$s segons el vostre ús</string>
     <string name="accessibility_battery_one_bar">Una ratlla de bateria.</string>
     <string name="accessibility_battery_three_bars">Tres ratlles de bateria.</string>
     <string name="accessibility_battery_two_bars">Dues ratlles de bateria.</string>
@@ -145,7 +145,7 @@
     <string name="accessibility_no_wimax">Sense WiMAX.</string>
     <string name="accessibility_not_connected">Sense connexió.</string>
     <string name="accessibility_notification_dismissed">Notificació descartada.</string>
-    <string name="accessibility_notification_section_header_gentle_clear_all">Esborra totes les notificacions silencioses</string>
+    <string name="accessibility_notification_section_header_gentle_clear_all">Neteja totes les notificacions silencioses</string>
     <string name="accessibility_notifications_button">Notificacions.</string>
     <string name="accessibility_one_bar">Una barra.</string>
     <string name="accessibility_output_chooser">Canvia el dispositiu de sortida</string>
@@ -324,7 +324,7 @@
     <string name="app_accessed_mic">%1$s accedit al vostre micròfon</string>
     <string name="app_info">Informació de l\'aplicació</string>
     <string name="app_label">Interfície de sistema</string>
-    <string name="app_name">Pantalla de blocatge</string>
+    <string name="app_name">Teclat</string>
     <string name="app_process_limit_title">Límit de processos en segon pla</string>
     <string name="appops_camera">Aquesta aplicació utilitza la càmera.</string>
     <string name="appops_camera_mic">Aquesta aplicació utilitza el micròfon i la càmera.</string>
@@ -584,7 +584,6 @@ Selecció"</string>
     <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
     <string name="connected_via_passpoint">Connectat a través de %1$s</string>
     <string name="content_description_menu_button">Menú</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de pantalla,vibració</string>
     <string name="controls_added_tooltip">Manteniu premut el botó d\'engegada per veure nous controls</string>
     <string name="controls_confirmation_confirming">Confirmant…</string>
     <string name="controls_confirmation_message">Confirmeu el canvi per a %s</string>
@@ -699,7 +698,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
     <string name="disconnect_vpn">Desconnecta la VPN</string>
     <string name="dnd_is_off">No molestar està desactivat</string>
-    <string name="dnd_notification_warnings_title">DND està activat. Les notificacions es silencien i les vibracions estan desactivades.</string>
+    <string name="dnd_notification_warnings_title">No molestis està activat. Les notificacions es silencien i la vibració està desactivada.</string>
     <string name="dnd_suppressing_shade_text">Notificacions en pausa per No molestar</string>
     <string name="do_disclosure_generic">Aquest dispositiu és gestionat per l\'organització</string>
     <string name="do_disclosure_with_name">Aquest dispositiu és gestionat per %s</string>
@@ -755,11 +754,11 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="face_unlock_fail_retry_global">Toqueu a sobre per al desbloqueig facial</string>
     <string name="face_unlock_not_found">"No se us ha pogut reconèixer"</string>
     <string name="face_unlock_open_eye">Obriu una mica més els vostres ulls</string>
+    <string name="face_unlock_password_and_fingerprint">Introduïu la contrasenya o utilitzeu l\'empremta digital per desbloquejar-la</string>
     <string name="face_unlock_passwork">Utilitzeu la contrasenya</string>
     <string name="face_unlock_passwork_and_fingerprint">Utilitzeu la contrasenya o l\'empremta</string>
-    <string name="face_unlock_passwork_and_fingerprint_v11">Introduïu la contrasenya o utilitzeu l\'empremta digital per desbloquejar-la</string>
-    <string name="face_unlock_pattern_and_fingerprint_v11">Dibuixa un patró o fes servir empremta digital per desbloquejar-lo</string>
-    <string name="face_unlock_pin_and_fingerprint_v11">Introduïu el PIN o utilitzeu l\'empremta digital per desbloquejar-lo</string>
+    <string name="face_unlock_pattern_and_fingerprint">Dibuixa un patró o fes servir empremta digital per desbloquejar-lo</string>
+    <string name="face_unlock_pin_and_fingerprint">Introduïu el PIN o utilitzeu l\'empremta digital per desbloquejar-lo</string>
     <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
     <string name="face_unlock_reveal_mouth">Feu visible els llavis</string>
     <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
@@ -849,8 +848,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="hdcp_checking_title">S\'està comprovant HDCP</string>
     <string name="headset">Auriculars</string>
     <string name="heap_dump_tile_name">Abocament de SysUI Heap</string>
-    <string name="help_feedback_label">Ajuda i suggeriments</string>
-    <string name="help_label">Ajuda amb &amp; comentaris</string>
+    <string name="help_feedback_label">Ajuda i comentaris</string>
+    <string name="help_label">Ajuda i comentaris</string>
     <string name="hidden_notifications_cancel">No gràcies</string>
     <string name="hidden_notifications_setup">Configura</string>
     <string name="hidden_notifications_text">Mostra-les abans de desbloquejar</string>
@@ -901,22 +900,22 @@ Voleu continuar mostrant-los?"</string>
     <string name="inline_ok_button">Aplicar</string>
     <string name="inline_silent_button_alert">Alerta</string>
     <string name="inline_silent_button_keep_alerting">Seguiu avisant</string>
-    <string name="inline_silent_button_silent">Silenciós</string>
+    <string name="inline_silent_button_silent">Silenci</string>
     <string name="inline_silent_button_stay_silent">Queda callat</string>
     <string name="inline_stop_button">Atura les notificacions</string>
     <string name="inline_turn_off_notifications">Desactiva les notificacions</string>
     <string name="inline_undo">Desfés</string>
+    <string name="input_lockscreen_password_hint_text">Introduïu la contrasenya</string>
+    <string name="input_lockscreen_pattern_hint_text">Patró de dibuix</string>
+    <string name="input_lockscreen_pin_hint_text">Introduïu el PIN</string>
     <string name="input_password_after_boot_msg">Per desbloquejar el dispositiu, introduïu la vostra contrasenya</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No es pot canviar entre els espais durant una trucada"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"No es pot canviar entre espais quan els controls parentals estan activats"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No es pot permutar els espais mentre l'estalvi de bateria Ultra estigui activat"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Heu d\'entrar al Primer espai després del reinici del dispositiu</string>
     <string name="input_password_hint_text">Introduïu la contrasenya</string>
-    <string name="input_password_hint_text_v11">Introduïu la contrasenya</string>
     <string name="input_pattern_hint_text">Dibuixeu el patró de desbloqueig</string>
-    <string name="input_pattern_hint_text_v11">Patró de dibuix</string>
     <string name="input_pin_code">Introduïu el PIN</string>
-    <string name="input_pin_hint_text_v11">Introduïu el pin</string>
     <string name="input_puk_code">Introduïu el PUK</string>
     <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
     <string name="installer_cd_button_title">Instal·leu l\'aplicació Transferència de fitxers d\'Android per a Mac</string>
@@ -941,6 +940,7 @@ total"</string>
     <string name="invalid_sim_puk_hint">El PUK hauria de tenir com a mínim 8 números</string>
     <string name="keep_screen_on">"No bloquegeu la pantalla"</string>
     <string name="keep_screen_on_summary">"La pantalla no s'adormirà mentre es carrega"</string>
+    <string name="keyboard_key_back">Enrere</string>
     <string name="keyboard_key_backspace">Retrocés</string>
     <string name="keyboard_key_button_template">Botó %1$s</string>
     <string name="keyboard_key_dpad_center">Centre</string>
@@ -964,6 +964,7 @@ total"</string>
     <string name="keyboard_key_numpad_template">Teclat numèric de %1$s</string>
     <string name="keyboard_key_page_down">Av Pàg</string>
     <string name="keyboard_key_page_up">Re Pàg</string>
+    <string name="keyboard_key_space">Espai</string>
     <string name="keyboard_key_tab">Tabulador</string>
     <string name="keyboard_shortcut_group_applications">Aplicacions</string>
     <string name="keyboard_shortcut_group_applications_assist">Assistència</string>
@@ -986,7 +987,7 @@ total"</string>
     <string name="keyguard_accessibility_pin_area">Àrea del PIN</string>
     <string name="keyguard_accessibility_sim_pin_area">Àrea del PIN de la SIM</string>
     <string name="keyguard_accessibility_sim_puk_area">Àrea del PUK de la SIM</string>
-    <string name="keyguard_carrier_default">Sense servei</string>
+    <string name="keyguard_carrier_default">Sense servei.</string>
     <string name="keyguard_charged">Carregat</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna a la pantalla de blocatge</string>
     <string name="keyguard_charging_info_battery_used_time_text">Amb bateria</string>
@@ -1026,21 +1027,21 @@ total"</string>
     <string name="keyguard_missing_sim_instructions_long">Falta la targeta SIM o no es pot llegir. Inseriu una targeta SIM.</string>
     <string name="keyguard_missing_sim_message">No hi ha cap targeta SIM al telèfon.</string>
     <string name="keyguard_missing_sim_message_short">Sense targeta SIM</string>
-    <string name="keyguard_network_locked_message">La xarxa està bloquejada</string>
-    <string name="keyguard_password_enter_password_code">Introduïu la contrasenya per desblocar</string>
-    <string name="keyguard_password_enter_pin_code">Introduïu el codi PIN</string>
-    <string name="keyguard_password_enter_pin_password_code">Introduïu el PIN per desbloquejar</string>
+    <string name="keyguard_network_locked_message">La xarxa està blocada</string>
+    <string name="keyguard_password_enter_password_code">Escriviu la contrasenya per desbloquejar-la</string>
+    <string name="keyguard_password_enter_pin_code">Escriviu el codi PIN</string>
+    <string name="keyguard_password_enter_pin_password_code">Escriviu el PIN per desbloquejar</string>
     <string name="keyguard_password_enter_pin_prompt">Nou codi PIN de la SIM</string>
-    <string name="keyguard_password_enter_puk_code">Introduïu el PUK de la SIM i el nou codi PIN</string>
+    <string name="keyguard_password_enter_puk_code">Escriviu PUK SIM i codi PIN nou</string>
     <string name="keyguard_password_enter_puk_prompt">Codi PUK de la SIM</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Toqueu per introduir la contrasenya</font></string>
-    <string name="keyguard_password_wrong_pin_code">El codi PIN és incorrecte.</string>
+    <string name="keyguard_password_wrong_pin_code">El codi PIN no és correcte.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"La targeta SIM s'ha desactivat definitivament.
  Poseu-vos en contacte amb el proveïdor de serveis sense fils per obtenir una altra targeta SIM."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Targeta SIM inutilitzable.</string>
-    <string name="keyguard_plugged_in">S\'està carregant</string>
-    <string name="keyguard_plugged_in_charging_fast">Càrrega ràpida</string>
-    <string name="keyguard_plugged_in_charging_slowly">Càrrega lenta</string>
+    <string name="keyguard_plugged_in">%s • Càrrega</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Càrrega ràpida</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Càrrega lenta</string>
     <string name="keyguard_plugged_in_wireless">%s • Càrrega sense fils</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Càrrega ràpida. Toqueu per veure els detalls.</string>
     <string name="keyguard_retry">Feu lliscar el dit cap amunt per tornar-ho a provar</string>
@@ -1051,7 +1052,7 @@ total"</string>
     <string name="keyguard_torch_cover_text">Manteniu el lot encès, prement el botó d\'engegada</string>
     <string name="keyguard_unlock">Feu lliscar el dit cap amunt per obrir-lo</string>
     <string name="keywords_adb_wireless">adb, depuració, dev</string>
-    <string name="kg_enter_confirm_pin_hint">Confirmeu el nou codi PIN</string>
+    <string name="kg_enter_confirm_pin_hint">Confirmeu el PIN que voleu</string>
     <string name="kg_face_not_recognized">No reconegut</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Heu intentat desbloquejar el telèfon incorrectament %1$d vegades. Després de %2$d intents infructuosos més, el perfil de feina serà suprimit, el que suprimirà totes les dades del perfil.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Heu intentat desbloquejar el telèfon incorrectament %1$d vegades. Després de %2$d intents infructuosos més, aquest usuari serà suprimit, el que suprimirà totes les dades de l\'usuari.</string>
@@ -1063,24 +1064,21 @@ total"</string>
     <string name="kg_failed_attempts_now_erasing_user">Heu intentat desbloquejar el telèfon %d vegades incorrectament. S\'eliminarà aquest usuari, cosa que eliminarà totes les dades de l\'usuari.</string>
     <string name="kg_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades incorrectament. Es restablirà aquest telèfon, cosa que eliminarà totes les vostres dades.</string>
     <string name="kg_fingerprint_not_recognized">No reconegut</string>
-    <string name="kg_forgot_pattern_button_text">He oblidat el patró</string>
+    <string name="kg_forgot_pattern_button_text">Patró oblidat</string>
     <string name="kg_invalid_confirm_pin_hint">Els codis PIN no coincideixen</string>
-    <string name="kg_invalid_puk">Torneu a introduir el codi PUK correcte. Els intents repetits desactivaran de forma permanent la SIM.</string>
-    <string name="kg_invalid_sim_pin_hint">Introduïu un PIN d\'entre 4 i 8 números.</string>
+    <string name="kg_invalid_puk">Torneu a introduir el codi PUK correcte. Els intents repetits desactivaran permanentment la SIM.</string>
+    <string name="kg_invalid_sim_pin_hint">Escriviu un PIN que tingui entre 4 i 8 números.</string>
     <string name="kg_invalid_sim_puk_hint">El codi PUK ha de tenir 8 números o més.</string>
     <string name="kg_login_too_many_attempts">Massa intents de patró</string>
     <string name="kg_password_instructions">Introduïu la contrasenya</string>
-    <string name="kg_password_pin_failed">"No s'ha pogut desbloquejar mitjançant el PIN de la SIM"</string>
-    <string name="kg_password_puk_failed">"No s'ha pogut desbloquejar mitjançant el PUK de la SIM"</string>
-    <string name="kg_password_wrong_pin_code_pukked">El codi PIN de la SIM és incorrecte. Poseu-vos en contacte amb el vostre operador per desbloquejar el vostre dispositiu.</string>
+    <string name="kg_password_pin_failed">L\'operació amb el PIN de la SIM ha fallat!</string>
+    <string name="kg_password_puk_failed">L\'operació amb el PUK de la SIM ha fallat!</string>
+    <string name="kg_password_wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb la vostra operadora per desblocar el vostre dispositiu.</string>
     <string name="kg_password_wrong_puk_code_dead">La SIM no es pot utilitzar. Contacteu amb la vostra operadora.</string>
     <string name="kg_pattern_instructions">Dibuixeu el patró</string>
-    <string name="kg_pin_accepted">S\'ha acceptat el codi</string>
+    <string name="kg_pin_accepted">S\'ha acceptat el codi!</string>
     <string name="kg_pin_instructions">Introduïu el PIN</string>
     <string name="kg_prompt_reason_device_admin">Dispositiu bloquejat per l\'administrador</string>
-    <string name="kg_prompt_reason_prepare_for_update_password">Cal una contrasenya per preparar l’actualització</string>
-    <string name="kg_prompt_reason_prepare_for_update_pattern">Patró necessari per preparar l\'actualització</string>
-    <string name="kg_prompt_reason_prepare_for_update_pin">Cal un PIN per preparar l’actualització</string>
     <string name="kg_prompt_reason_restart_password">Es requereix una contrasenya després de reiniciar el dispositiu</string>
     <string name="kg_prompt_reason_restart_pattern">Es requereix un patró després de reiniciar el dispositiu</string>
     <string name="kg_prompt_reason_restart_pin">Es necessita un PIN després de reiniciar el dispositiu</string>
@@ -1091,23 +1089,22 @@ total"</string>
     <string name="kg_prompt_reason_timeout_pattern">Es necessita un patró per una major seguretat</string>
     <string name="kg_prompt_reason_timeout_pin">Es necessita un PIN per una major seguretat</string>
     <string name="kg_prompt_reason_user_request">El dispositiu s\'ha bloquejat manualment</string>
-    <string name="kg_puk_enter_pin_hint">Introduïu un nou codi PIN</string>
-    <string name="kg_puk_enter_puk_hint">La SIM està desactivada. Introduïu el codi PUK per continuar. Poseu-vos en contacte amb el vostre operador per obtenir més informació.</string>
-    <string name="kg_puk_enter_puk_hint_multi">La SIM \"%1$s\" està desactivada. Introduïu el codi PUK per continuar. Poseu-vos en contacte amb el vostre operador per obtenir més informació.</string>
+    <string name="kg_puk_enter_pin_hint">Introduïu el codi PIN que voldríeu</string>
+    <string name="kg_puk_enter_puk_hint">La SIM està desactivada. Introduïu el codi PUK per continuar. Contacteu amb l\'operadora per més detalls.</string>
+    <string name="kg_puk_enter_puk_hint_multi">La SIM \"%1$s\" està desactivada. Introduïu el codi PUK per continuar. Poseu-vos en contacte amb l’operador per obtenir més informació.</string>
     <string name="kg_sim_lock_esim_instructions">%1$s Desactiveu eSIM per utilitzar el dispositiu sense servei mòbil.</string>
-    <string name="kg_sim_pin_instructions">Introduïu el PIN de la SIM</string>
-    <string name="kg_sim_pin_instructions_multi">Introduïu el PIN de la SIM per a \"%1$s\"</string>
+    <string name="kg_sim_pin_instructions">Introduïu el PIN de la SIM.</string>
+    <string name="kg_sim_pin_instructions_multi">Introduïu el PIN de la SIM per a \"%1$s\".</string>
     <string name="kg_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Torneu-ho a provar en %d segons.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"Heu introduït incorrectament la vostra contrasenya %1$d vegades. 
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"No heu introduït correctament la vostra contrasenya %1$d cops. 
 
 Torneu-ho a provar en %2$d segons."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Heu dibuixat incorrectament el patró de desbloqueig %1$d vegades. 
 
 Torneu-ho a provar en %2$d segons."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Heu introduït incorrectament el vostre PIN %1$d vegades. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Heu escrit incorrectament el PIN %1$d vegades. 
 
-Torneu-ho a provar en %2$d segons."</string>
+Torneu-ho a provar d'aquí a %2$d segons."</string>
     <string name="kg_wrong_password">Contrasenya incorrecta</string>
     <string name="kg_wrong_pattern">Patró incorrecte</string>
     <string name="kg_wrong_pin">PIN incorrecte</string>
@@ -1188,7 +1185,6 @@ d MMMM"</string>
     <string name="lockscreen_none">Cap</string>
     <string name="lockscreen_shortcut_left">Drecera esquerra</string>
     <string name="lockscreen_shortcut_right">Drecera dreta</string>
-    <string name="lockscreen_sim_error_message_short">La targeta SIM no és vàlida.</string>
     <string name="lockscreen_unlock_left">La drecera de l\'esquerra també desbloqueja</string>
     <string name="lockscreen_unlock_right">La drecera de la dreta també desbloqueja</string>
     <string name="magnification_controls_title">Controls de la finestra d’ampliació</string>
@@ -1222,8 +1218,6 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Fet</string>
     <string name="miui_notification_menu_snooze">Dormitar</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
-    <string name="miui_quick_settings_tiles_default">vowifi1, vowifi2, cel, wifi, llanterna, silenci, captura de pantalla, bt, autobrightness, avió, bloqueig de pantalla, gps, rotació, mode de paper, nit, quietmode, batterysaver, extremebatterysaver, custom (com.miui.securitycenter / com.miui.superpower. notification.SuperPowerTileService), personalitzat (com.milink.service / com.milink.ui.service.MiLinkTileService), personalitzat (com.miui.mishare.connectivity / .tile.MiShareTileService), powermode, custom (com.miui.screenrecorder / .service.QuickService), vibrar, hotspot, sincronitzar, botó de pantalla, wirelesspower, nfc, editar</string>
-    <string name="miui_quick_settings_tiles_stock">vowifi1, vowifi2, cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobrightness, avió, bloqueig de pantalla, gps, rotació, mode de paper, nit, mode tranquil, estalvi de bateria, extremebatterysaver, powermode, vibrar, punt d\'accés, sincronització, botó de pantalla, potència sense fils, nfc, edit, drivemode, workmode</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1363,7 +1357,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="notification_channel_unsilenced">Aquestes notificacions us avisaran</string>
     <string name="notification_content_gesture_nav_available">Aneu a Configuració per actualitzar la navegació del sistema</string>
     <string name="notification_content_system_nav_changed">S\'ha actualitzat la navegació del sistema. Per fer canvis, aneu a Configuració.</string>
-    <string name="notification_control_center">Centre de control i notificacions</string>
+    <string name="notification_control_center">Notificacions i Centre de control</string>
     <string name="notification_conversation_bubble">Mostrar bombolla</string>
     <string name="notification_conversation_channel_settings">Configuració</string>
     <string name="notification_conversation_favorite">Conversa important</string>
@@ -1387,9 +1381,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="notification_priority_title">Prioritat</string>
     <string name="notification_section_header_alerting">Notificacions</string>
     <string name="notification_section_header_conversations">Converses</string>
-    <string name="notification_section_header_gentle">Silenciós</string>
+    <string name="notification_section_header_gentle">Silenci</string>
     <string name="notification_section_header_incoming">Novetat</string>
-    <string name="notification_silence_title">Silenciós</string>
+    <string name="notification_silence_title">Silenci</string>
     <string name="notification_tap_again">Toqueu de nou per obrir-ho</string>
     <string name="notification_unblockable_desc">"Aquestes notificacions no es poden modificar."</string>
     <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
@@ -1657,12 +1651,6 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_settings_label">Configuració</string>
     <string name="quick_settings_sync_label">Sincronització</string>
     <string name="quick_settings_tethering_label">Compartició de xarxa</string>
-    <string name="quick_settings_tiles">per defecte</string>
-    <string name="quick_settings_tiles_default">wifi, bt, dnd, llanterna, rotació, bateria, cel·la, avió, repartiment, registre de pantalla, autobrightness</string>
-    <string name="quick_settings_tiles_old_mode">cel·la,wifi,bt,llanterna,bateria,captura de pantalla,edita</string>
-    <string name="quick_settings_tiles_retail_mode">nit, fosc, dnd, llanterna, rotació, ubicació</string>
-    <string name="quick_settings_tiles_stock">wifi, cel·la, bateria, dnd, llanterna, rotació, BT, avió, ubicació, punt d\'accés, inversió, estalviador, fosc, treball, repartiment, nit, registre de pantalla, invers</string>
-    <string name="quick_settings_tiles_super_save">cel·la,wifi,bt,gps,vibra</string>
     <string name="quick_settings_time_label">Temps</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per afegir un element, premeu-lo continuadament i llavors arrossegueu-lo a la part superior del panell.</string>
     <string name="quick_settings_ui_mode_night_label">Tema fosc</string>
@@ -2039,7 +2027,7 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="volume_ringer_hint_unmute">activa el so</string>
     <string name="volume_ringer_hint_vibrate">vibració</string>
     <string name="volume_ringer_status_normal">Anell</string>
-    <string name="volume_ringer_status_silent">Silencia</string>
+    <string name="volume_ringer_status_silent">Silenci</string>
     <string name="volume_ringer_status_vibrate">Vibrar</string>
     <string name="volume_stream_content_description_mute">%1$s. Toqueu per silenciar. Els serveis d’accessibilitat poden estar silenciats.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. Toqueu per silenciar.</string>
@@ -2048,7 +2036,7 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Toqueu per activar la vibració.</string>
     <string name="volume_stream_limited_dnd">%s — Només prioritats</string>
     <string name="volume_stream_muted">%s silenci</string>
-    <string name="volume_stream_muted_dnd">%s silenciós — Silenci total</string>
+    <string name="volume_stream_muted_dnd">%s silenci — Silenci total</string>
     <string name="volume_stream_suppressed">%1$s en silenci — %2$s</string>
     <string name="volume_stream_vibrate">%s en vibració</string>
     <string name="volume_stream_vibrate_dnd">%s vibració — Només prioritats</string>

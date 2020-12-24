@@ -92,7 +92,9 @@
     <string name="album_from_format">Des de %s</string>
     <string name="album_hidden_item_button_title">Mostra</string>
     <string name="album_hidden_page_title">Oculta</string>
+    <string name="album_homepage_show_all_photos">Mostra totes les fotos</string>
     <string name="album_jump_failed">Espereu fins que els àlbums se sincronitzin amb Mi Cloud i torneu-ho a provar</string>
+    <string name="album_lockscreen_wallpapers">Fons de la pantalla de bloqueig</string>
     <string name="album_member">Membres de l\'àlbum %s</string>
     <string name="album_midrop">Mi Drop</string>
     <string name="album_name">Nom de l\'àlbum</string>
@@ -241,7 +243,7 @@
     <string name="backup_only_wifi_dialog_message">Voleu fer servir les dades mòbils per fer una còpia de seguretat de les fotos i vídeos?</string>
     <string name="backup_pause">Pausa la còpia de seguretat</string>
     <string name="backup_pause_dialog_title">Atura la sincronització</string>
-    <string name="backup_pause_title">Còpia de seguretat en %s</string>
+    <string name="backup_pause_title">La sincronització està en pausa</string>
     <string name="backup_pending">Es farà una còpia de seguretat automàticament</string>
     <string name="backup_stop">Atura la còpia de seguretat</string>
     <string name="backup_sync_dialog_confirm">Activa</string>
@@ -521,7 +523,7 @@
     <string name="document_provider_guide_step_4">4. Seleccioneu \"Targeta SD\".</string>
     <string name="document_provider_guide_step_5">5. Toqueu \"Selecciona\".</string>
     <string name="double_tap_for_hr_preview_108m">Toqueu de nou una altra vegada per canviar a la previsualització de 108 MP</string>
-    <string name="double_tap_to_higher_definition">Toqueu dues vegades novament per la vista prèvia en HD</string>
+    <string name="double_tap_to_higher_definition">Torneu a fer doble toc per obrir la previsualització en HD</string>
     <string name="download_canceled">Baixada cancel·lada</string>
     <string name="download_error_format">"No s'ha pogut baixar %s"</string>
     <string name="download_error_tip">. S\'han interromput les baixades.</string>
@@ -1027,9 +1029,17 @@ per personalitzar la galeria"</string>
     <string name="messagelist_sender_self">Jo</string>
     <string name="micloud_introduce">Còpia de seguretat automàtica de fotos i vídeos (es necessita un compte Mi)</string>
     <string name="midnight">Nit</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol correctament</string>
-    <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
+    <string name="miuix_appcompat_cancel_description">Cancel·la</string>
+    <string name="miuix_appcompat_confirm_description">Confirma</string>
+    <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1405,7 +1415,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="pic_to_pdf_exit_notice">"Aquest PDF no es desarà si sortiu ara. Vols sortir igualment?"</string>
     <string name="pic_to_pdf_not_support_video">"Els vídeos no es poden desar com a PDF"</string>
     <string name="pic_to_pdf_preview_loading">S\'està carregant la vista prèvia…</string>
-    <string name="pic_to_pdf_save_in">PDF desat a %s</string>
+    <string name="pic_to_pdf_saved_in_fileexplorer">S\'ha desat correctament. Consulteu l\'element al Gestor de fitxers.</string>
     <string name="pick_from_contact">Trieu dels contactes</string>
     <string name="pick_people_cover_fail">Hi ha hagut un error. Torneu-ho a provar.</string>
     <string name="pick_people_cover_page_title">Seleccioneu la foto de la portada</string>
@@ -1636,6 +1646,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="select_item_face">"És '%s'?"</string>
     <string name="select_origin_tip">Fitxer original (%s)</string>
     <string name="send_file_beautify_failed">"No s'ha pogut compartir"</string>
+    <string name="send_files_by">Comparteix els fitxers mitjançant</string>
     <string name="send_files_to">Envia els elements a</string>
     <string name="send_heif_summary">Convertiu les imatges HEIF a JPEG per garantir la compatibilitat</string>
     <string name="send_heif_title">Converteix de HEIF a JPEG abans d\'enviar</string>
@@ -1734,6 +1745,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="special_type_8k">IA 8K</string>
     <string name="special_type_ai_audio">Àudio AI</string>
     <string name="special_type_eye_repair">S\'han solucionat els ulls tancats mitjançant la IA</string>
+    <string name="special_type_hdr10">HDR</string>
     <string name="special_type_heif">HEIF</string>
     <string name="special_type_night_beauty">Retrat de baixa llum IA</string>
     <string name="special_type_night_mode">Mode nocturn IA</string>
@@ -1890,7 +1902,6 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_not_download">No es troba al dispositiu. Es baixarà de Mi Cloud mentre es reprodueix.</string>
     <string name="tip_screenshot_package_info">Nom de l\'aplicació:</string>
-    <string name="tips_prompt_enable_midrop">Compartiu els fitxers amb els dispositius propers</string>
     <string name="title_set_name">Introduïu el nom</string>
     <string name="title_tip">Pista</string>
     <string name="title_warn">Advertència</string>
@@ -1902,6 +1913,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="toast_invalid_char">"Els noms de fitxer no poden contenir \"%s\""</string>
     <string name="toast_invalid_prefix">"Els noms de fitxers no poden començar per \".\" o \"_\""</string>
     <string name="toast_orientation_locked">S\'ha bloquejat l\'orientació correctament</string>
+    <string name="toast_orientation_unlock">L\'orientació de la pantalla està desbloquejada</string>
     <string name="toast_rename_exit">Aquest fitxer ja existeix</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
@@ -1936,7 +1948,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="unrecognized_model">Dispositiu desconegut</string>
     <string name="unsupport_raw">"%s no funciona amb imatges RAW"</string>
     <string name="unsupport_raw_and_video">"%s no funciona amb vídeos i imatges RAW"</string>
-    <string name="unsupport_type">"Aquest tipus de fitxer no s'admet"</string>
+    <string name="unsupport_type">"No s'admet quest format"</string>
     <string name="unsupport_video">"%s no funciona amb vídeos"</string>
     <string name="unsupported_media_downloading_tip_common">"La visualització d’imatges originals en aquest format no és compatible amb aquesta versió d’Android. Voleu baixar-ho de totes maneres?"</string>
     <string name="unsupported_media_downloading_tip_format">"La visualització d’imatges %s originals no és compatible amb aquesta versió d’Android. Voleu baixar-ho de totes maneres?"</string>

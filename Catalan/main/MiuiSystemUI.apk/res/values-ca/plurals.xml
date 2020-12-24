@@ -77,8 +77,8 @@
         <item quantity="one">La SIM ara està deshabilitada. Introduïu el codi PUK per restaurar-la. Us queda %d intent abans que la SIM s\'inutilitzi permanentment. Contacteu amb el vostre operador per a més detalls.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">El codi PIN de la SIM no és correcte, encara us queden %d intents.</item>
-        <item quantity="one">El codi PIN de la SIM no és correcte, encara us queda %d intent abans que hàgiu de contactar amb el vostre proveïdor per desblocar el dispositiu.</item>
+        <item quantity="other">Codi PIN de la SIM incorrecte, us queden %d intents.</item>
+        <item quantity="one">El codi PIN de la SIM és incorrecte. Us queda %d intent abans de posar-vos en contacte amb el vostre operador per desbloquejar el dispositiu.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code_multi_sim">
         <item quantity="other">Codi PIN de la SIM%1$d incorrecte, us queden %2$d intents.</item>
@@ -102,7 +102,7 @@
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">Torneu-ho a provar d\'aquí a %d segons.</item>
-        <item quantity="one">Torneu-ho a provar d\'aquí a 1 segon.</item>
+        <item quantity="one">Torneu-ho a provar d\'aquí a %d segon.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d noves notificacions</item>

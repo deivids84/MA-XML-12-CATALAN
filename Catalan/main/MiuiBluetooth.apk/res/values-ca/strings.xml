@@ -222,7 +222,6 @@ Selecció"</string>
     <string name="charge_length_format">Fa %1$s</string>
     <string name="choose_profile">Trieu un perfil</string>
     <string name="clear_adb_keys">Revoca les autoritzacions de depuració USB</string>
-    <string name="config_schedules_provider_caller_package">ajustaments com.android.</string>
     <string name="confirm_enable_oem_unlock_text">"ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran en aquest dispositiu mentre aquesta opció està activa."</string>
     <string name="confirm_enable_oem_unlock_title">Voleu permetre el desbloqueig de l\'OEM?</string>
     <string name="connected_via_app">Connectat mitjançant %1$s</string>

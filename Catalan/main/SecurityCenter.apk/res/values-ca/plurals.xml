@@ -89,8 +89,8 @@
         <item quantity="one">Podeu protegir almenys %s aplicació</item>
     </plurals>
     <plurals name="applock_one_key_lock">
-        <item quantity="other">Es protegiran %s aplicacions amb el bloqueig d\'aplicacions</item>
-        <item quantity="one">%s aplicació %s es protegirà amb el bloqueig de l\'aplicació</item>
+        <item quantity="other">%s aplicacions estan protegides amb el bloqueig d\'aplicacions</item>
+        <item quantity="one">%s aplicació està protegida amb el bloqueig d\'aplicacions</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicacions poden connectar-se a la xarxa en segon pla</item>
@@ -560,7 +560,7 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
     </plurals>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s aplicacions tenen accés permanent</item>
-        <item quantity="one">%s aplicació %s té accés permanent</item>
+        <item quantity="one">%s aplicació té accés permanent</item>
     </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s vegades</item>
@@ -596,7 +596,7 @@ Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
         <item quantity="other">%d funcions que protegeixen la vostra privadesa estan desactivades</item>
-        <item quantity="one">%d funció %d que protegeix la vostra privadesa està desactivada</item>
+        <item quantity="one">%d funció que protegeix la vostra privadesa està desactivada</item>
     </plurals>
     <plurals name="privacy_risk_sensitive_permissions_tip">
         <item quantity="other">S\'han concedit %d permisos delicats</item>

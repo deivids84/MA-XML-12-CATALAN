@@ -13,6 +13,7 @@
     <string name="foreground_title">Servei en primer pla</string>
     <string name="hello_world">Hola món!</string>
     <string name="lab_switch_server">Canvia de servidor</string>
+    <string name="not_resurge_title">Ressorgint</string>
     <string name="not_support_forbidden_fakecell">"El vostre dispositiu no incorpora protecció a nivell de xip contra estacions base falses."</string>
     <string name="open_cta">Permet a aquesta aplicació connectar-se a internet a Seguretat.</string>
     <string name="permstep_description">Permet llegir a l\'aplicació la vostra informació de passes al telèfon</string>
@@ -20,6 +21,8 @@
     <string name="restart_details">Activar o desactivar aquesta funció requereix reiniciar el vostre dispositiu. Voleu reiniciar ara?</string>
     <string name="restart_later">Més tard</string>
     <string name="restart_now">Reinicia ara</string>
+    <string name="resurged_content">Vinga!</string>
+    <string name="resurged_title">Ressorgit</string>
     <string name="stop_sync">Voleu aturar la sincronització automàtica?</string>
     <string name="support_forbidden_fakecell">Nota: Impedint la connexió a estacions base falses pot reduir el senyal en àrees amb cobertura dolenta.</string>
     <string name="switch_international">Canvia a un servidor de l\'estranger</string>

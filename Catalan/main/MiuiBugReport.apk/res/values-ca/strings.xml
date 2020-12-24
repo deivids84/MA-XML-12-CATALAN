@@ -785,7 +785,6 @@ Mida: %2$s"</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Error en connectar-se al Gestor de baixades. Comproveu l\'estat del Gestor de baixades al Gestor d\'aplicacions.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
@@ -793,7 +792,5 @@ Mida: %2$s"</string>
 Mida de l'actualització Delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s actualització!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">L\'emmagatzematge no està disponible. Comproveu la targeta SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">Ahir</string>
 </resources>

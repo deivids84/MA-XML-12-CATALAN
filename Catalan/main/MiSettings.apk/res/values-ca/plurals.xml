@@ -168,6 +168,10 @@
         <item quantity="other">%d vegades</item>
         <item quantity="one">%d vegada</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Mitjana %.2f vegades</item>
+        <item quantity="one">Mitjana %.2f vegada</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Caps de setmana: %d hores</item>
         <item quantity="one">Caps de setmana: %d hora</item>

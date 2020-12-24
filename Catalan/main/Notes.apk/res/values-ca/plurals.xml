@@ -96,6 +96,14 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">S\'han trobat %1$s notes</item>
+        <item quantity="one">S\'ha trobat %1$s nota</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">S\'han trobat %1$s tasques</item>
+        <item quantity="one">S\'ha trobat %1$s tasca</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Queden %d segons</item>
         <item quantity="one">Queda %d segon</item>

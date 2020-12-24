@@ -90,6 +90,10 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="icon_add_description">Afegeix una drecera a la pantalla d\'inici</string>
+    <string name="icon_remove_confirm">Suprimeix</string>
+    <string name="icon_remove_description_content">"\"Serveis i comentaris\" és una aplicació del sistema. La podreu utilitzar des de la Configuració després de suprimir la drecera de la pantalla d’inici."</string>
+    <string name="icon_remove_description_title">Voleu suprimir \"Serveis i comentaris\" de la pantalla d\'inici?</string>
     <string name="mi_service_app_name">Serveis i comentaris</string>
     <string name="midnight">Nit</string>
     <string name="miservice_channel_boot_name">arrencada</string>

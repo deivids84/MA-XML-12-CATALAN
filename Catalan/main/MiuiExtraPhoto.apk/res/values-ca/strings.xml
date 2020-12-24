@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cancel">Cancel·la</string>
     <string name="doc_photo_adjust_section_title">Arrossegueu per ajustar-ho</string>
     <string name="doc_photo_cancel">Cancel·la</string>
     <string name="doc_photo_confirm">Surt</string>
@@ -13,6 +14,8 @@
     <string name="doc_photo_idcard_portrait">Frontal</string>
     <string name="doc_photo_not_support">"No es pot editar aquesta imatge com a document"</string>
     <string name="doc_photo_view_effect">Previsualització</string>
+    <string name="exit_alert_msg">Es perdran tots els canvis no desats.</string>
+    <string name="exit_alert_title">Voleu descartar els canvis?</string>
     <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_save_fail">"No s'ha pogut desar"</string>
     <string name="extra_photo_common_saving">S\'està desant…</string>
@@ -28,11 +31,36 @@
     <string name="motion_photo_toast_default">Per defecte</string>
     <string name="motion_photo_toast_long_press_play">Mantingueu premuda la fotografia per reproduir-la</string>
     <string name="motion_photo_toast_suggest">Recomanat</string>
+    <string name="ok">D\'acord</string>
     <string name="refocus_discard_confirm_message">Voleu desar els canvis?</string>
     <string name="refocus_discard_negative_btn">Descarta</string>
     <string name="refocus_discard_positive_btn">Desa</string>
+    <string name="refocus_dynamic_luoxuan">Remolí</string>
+    <string name="refocus_dynamic_tongxin">Abraçada</string>
+    <string name="refocus_dynamic_xiantiao">Línies</string>
+    <string name="refocus_dynamic_xingxing">Estrelles</string>
+    <string name="refocus_dynamic_xinxing">Cors</string>
+    <string name="refocus_dynamic_yuanxing">Cercles</string>
+    <string name="refocus_movie_banlan">Bigarrada</string>
+    <string name="refocus_movie_caihong">Arc de Sant Martí</string>
+    <string name="refocus_movie_huaijiu">Nostàlgia</string>
+    <string name="refocus_movie_lanshan">Decadència</string>
+    <string name="refocus_movie_meiying">Fantasma</string>
+    <string name="refocus_movie_mengjing">Terra dels somnis</string>
+    <string name="refocus_movie_niying">Neó</string>
+    <string name="refocus_movie_xuanying">Bigues</string>
+    <string name="refocus_movie_yanhong">Escarlata</string>
+    <string name="refocus_none">Cap</string>
     <string name="refocus_photo_not_support">"No es pot aplicar el difuminat en aquesta foto"</string>
+    <string name="refocus_relighting_baiyechuang">Persianes</string>
+    <string name="refocus_relighting_bodian">Onades</string>
+    <string name="refocus_relighting_caihong">Arc de Sant Martí</string>
+    <string name="refocus_relighting_dianying">Pel·lícula</string>
+    <string name="refocus_relighting_sahongjie">Holi</string>
+    <string name="refocus_relighting_shuye">Fulles</string>
     <string name="refocus_relighting_toast">Desplaça el cercle per ajustar l\'angle d\'il·luminació</string>
+    <string name="refocus_relighting_wutai">Escenari</string>
+    <string name="refocus_relighting_ziran">Natural</string>
     <string name="refocus_save_cancel">Cancel·la</string>
     <string name="refocus_save_title">Seleccioneu el format</string>
     <string name="refocus_save_to_photo">Desa com a imatge</string>
@@ -40,9 +68,9 @@
     <string name="refocus_saving">S\'està desant…</string>
     <string name="refocus_title">Difuminat</string>
     <string name="refocus_type_movie_relighting">Cinemàtica</string>
-    <string name="refocus_type_relighting">Il·luminació d’estudi</string>
+    <string name="refocus_type_relighting">Estudi</string>
     <string name="refocus_type_relighting_no_face">"No s'ha pogut trobar la cara"</string>
     <string name="refocus_type_relighting_small_face">La il·luminació d’estudi funciona a fotografies on les cares ocupen més espai que aquí.</string>
-    <string name="refocus_type_static">Nivell de difuminat</string>
+    <string name="refocus_type_static">Entelar</string>
     <string name="refocus_type_video">Traçat de llum</string>
 </resources>

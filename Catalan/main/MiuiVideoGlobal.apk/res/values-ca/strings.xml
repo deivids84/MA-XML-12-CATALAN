@@ -483,10 +483,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="language_setting_tips">S\'ha desat correctament. Podeu modificar les preferències d\'idioma a la configuració.</string>
     <string name="language_setting_tips_dialog">Podeu seleccionar preferències d\'idioma per al contingut del llenguatge del compte &gt;.</string>
     <string name="later">No desactivar-ho</string>
-    <string name="library_roundedimageview_author">Vince Mi</string>
-    <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView ràpid (i dibuixable) que admet les cantonades arrodonides (i ovals o cercles) basat en l\'exemple original de Romain Guy.</string>
-    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
     <string name="live_now">Viu ara</string>
     <string name="live_title">En directe</string>
     <string name="live_tv_title">TV en directe</string>

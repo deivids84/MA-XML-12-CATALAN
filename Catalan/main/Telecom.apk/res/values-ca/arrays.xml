@@ -154,12 +154,6 @@
         <item>4K (sobredimensionat, segur)</item>
         <item>720p, 1080p (pantalla doble)</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Desactivat</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
         <item>64K per registre de memòria</item>

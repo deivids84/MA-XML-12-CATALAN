@@ -357,8 +357,8 @@
     <string name="manager_group_settings">Gestiona les categories de les aplicacions</string>
     <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
     <string name="memory_clear_result">%1$sB netejats</string>
-    <string name="memory_clear_result_giga">S\'han netejat %1$sGB</string>
-    <string name="memory_clear_result_mega">S\'han netejat %1$s MB</string>
+    <string name="memory_clear_result_giga">%1$sGB netejats</string>
+    <string name="memory_clear_result_mega">%1$sMB netejats</string>
     <string name="menu_add">Afegeix</string>
     <string name="menu_auto_fill_of_uninstall">Omple les cel·les de les aplicacions desinstal·lades</string>
     <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>

@@ -80,11 +80,6 @@
         <item>Nous amics i vells amics</item>
         <item>"Trobades de l'any passat"</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Mou</item>
-        <item>Copia</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Gener</item>
         <item>Febrer</item>

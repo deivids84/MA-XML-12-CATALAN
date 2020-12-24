@@ -71,8 +71,6 @@
     <string name="close_twice_auth_btn">Desactiveu l\'autenticació de dos factors</string>
     <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la data de naixement, es desactivarà l'autenticació de dos factors d'Apple ID. Si no veieu l’opció de desactivar l’autenticació de dos factors a la pàgina del compte Apple ID, no la podeu desactivar."</string>
-    <string name="close_twice_auth_operation">"URL:
-Visiteu https://appleid.apple.com/#!&amp;pàgina = inicieu la sessió per desactivar-la"</string>
     <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Inicieu la sessió a l’ID d’Apple que voleu desactivar l’autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i trieu \"Edita\".</string>
     <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
@@ -799,7 +797,5 @@ Mida: %2$s"</string>
 Mida de l'actualització Delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Actualització de %1$s!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">L\'emmagatzematge no està disponible. Comproveu la targeta SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">Ahir</string>
 </resources>

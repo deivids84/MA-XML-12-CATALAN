@@ -126,7 +126,7 @@
     <string name="magic_window_toast">Multiplicador d\'aplicacions habilitat.</string>
     <string name="maml_component_customization_title">Configuració</string>
     <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
-    <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
+    <string name="memory_clear_result">%1$sB netejats</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>

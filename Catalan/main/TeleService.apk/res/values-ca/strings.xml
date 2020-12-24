@@ -188,7 +188,6 @@
     <string name="advanced_mobile_settings">Configuració avançada</string>
     <string name="advanced_options_title">Avançat</string>
     <string name="advanced_settings">Paràmetres opcionals</string>
-    <string name="advanced_settings_container">contenidor de configuracions avançades</string>
     <string name="advanced_settings_hide">▽ Toqueu per amagar-ho tot</string>
     <string name="advanced_settings_show">▷ Toqueu per mostrar-ho tot</string>
     <string name="advertisements_disable">Anuncis desactivats</string>
@@ -246,8 +245,8 @@
     <string name="auto_answer_summary_not_enabled">Desactivat</string>
     <string name="auto_connect_disable">La connexió automàtica està desactivada</string>
     <string name="auto_record_yellowpage">Directori</string>
-    <string name="auto_redial_pref_summary">Tornar a trucar automàticament si la línia està ocupada</string>
-    <string name="auto_redial_pref_title">Tornar a trucar automàticament</string>
+    <string name="auto_redial_pref_summary">Torna a trucar automàticament si la línia està ocupada</string>
+    <string name="auto_redial_pref_title">Torna a trucar automàticament</string>
     <string name="auto_retry_mode_summary">Torna a provar-ho automàticament</string>
     <string name="auto_retry_mode_title">Reintent automàtic</string>
     <string name="autoip">Marcació automàtica IP</string>
@@ -532,7 +531,7 @@ Taxa de mostreig"</string>
     <string name="call_description_recording">S\'està enregistrant&#8230;</string>
     <string name="call_forward_option">Opcions de desviament de trucades</string>
     <string name="call_forwarding_number_hint">Desvia les trucades a</string>
-    <string name="call_forwarding_settings">Desviament de trucada</string>
+    <string name="call_forwarding_settings">Desviament de trucades</string>
     <string name="call_forwarding_settings_with_label">Configuració del desviament de trucades (%s)</string>
     <string name="call_record_add_numbers">Afegeix números</string>
     <string name="call_record_auto_always">Tots els números</string>
@@ -842,7 +841,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="dialog_report">Notifica</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
     <string name="disable">Apaga</string>
-    <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucada</string>
+    <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucades</string>
     <string name="disable_cfb_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està ocupat."</string>
     <string name="disable_cfnrc_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està fora de cobertura."</string>
     <string name="disable_cfnry_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon no respon."</string>
@@ -989,7 +988,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_bearer_status1">Estat de l\'operador 5G :</string>
     <string name="fiveg_endc_available1">NR ENDC disponible :</string>
     <string name="fiveg_endc_status1">Estat Endc :</string>
-    <string name="fiveg_hosted_mode_summary">Canvia automàticament a les millors xarxes disponibles quan la connectivitat 5G sigui pobra</string>
+    <string name="fiveg_hosted_mode_summary">Seleccioneu automàticament la millor xarxa per estalviar bateria</string>
     <string name="fiveg_hosted_mode_title">Commutador intel·ligent 5G</string>
     <string name="fiveg_icon_type1">Tipus Nr Icon :</string>
     <string name="fiveg_infos">Informació 5G</string>
@@ -1525,7 +1524,6 @@ Torneu-ho a provar o truqueu al servei d’atenció al client per obtenir més o
     <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
     <string name="overseas_roaming_setting">Itinerància de dades</string>
     <string name="pane_title_emergency_dialpad">Marcador d\'emergència</string>
-    <string name="password">Contraseya</string>
     <string name="password_changed">La contrasenya s\'ha canviat</string>
     <string name="password_title">Contrasenya</string>
     <string name="path_answer_state_setting_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants</string>
@@ -1534,7 +1532,7 @@ Torneu-ho a provar o truqueu al servei d’atenció al client per obtenir més o
     <string name="path_auto_answer_pref_title">Aplicacions de sistema/Telèfon/Resposta automàtica</string>
     <string name="path_auto_retry_mode_title">Aplicacions de sistema/Telèfon/Configuració avançada/Reintent automàtic</string>
     <string name="path_call_advanced_settings_title">Aplicacions de sistema/Telèfon/Configuració avançada</string>
-    <string name="path_call_forwarding_settings">Aplicacions de sistema/Telèfon/Paràmetres de desviament de trucada</string>
+    <string name="path_call_forwarding_settings">Aplicacions de sistema/Telèfon/Desviament de trucades</string>
     <string name="path_call_record_auto_title">Aplicacions de sistema/Telèfon/Enregistrament de trucades/Enregistra trucades automàticament</string>
     <string name="path_call_record_setting">Aplicacions de sistema/Telèfon/Enregistrament de trucades</string>
     <string name="path_call_recording_notification_toggle_title">Aplicacions de sistema/Telèfon/Enregistrament de trucades/Notificació d\'enregistrament de trucades</string>
@@ -1615,7 +1613,6 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d'un altre intent 
     <string name="pointer_location">Ubicació del punter</string>
     <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
     <string name="police_type_description">Policia</string>
-    <string name="port">Port</string>
     <string name="port_title">Número de port</string>
     <string name="power_charging_duration">%1$s - %2$s fins cobrar</string>
     <string name="power_discharge_by">Hauria de durar fins a aproximadament %1$s (%2$s)</string>
@@ -2183,7 +2180,6 @@ El període següent comença en %2$d dies (%3$s)"</string>
     <string name="traffic_mode_summary">Prioritza la connexió de xarxa mòbil per a les aplicacions que s’utilitzen actualment. És possible que les aplicacions en segon pla no puguin connectar-se.</string>
     <string name="traffic_mode_switch_title">Mode extrem</string>
     <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Tipus de transport</string>
     <string name="trigger_carrier_provisioning">Subministrament de portadors de disparador</string>
     <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
@@ -2260,7 +2256,6 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="user_setup_dialog_title">Voleu configurar l\'usuari ara?</string>
     <string name="user_setup_profile_dialog_message">Voleu configurar el perfil ara?</string>
     <string name="user_switch_to_user">Canvia a %s</string>
-    <string name="username">Nom d\'usuari</string>
     <string name="username_title">Nom d\'usuari</string>
     <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
     <string name="ut_not_support">L\'UT no està disponible</string>
@@ -2334,6 +2329,8 @@ Aquesta tauleta no té auricular. Podeu canviar al mode de mans lliures o utilit
     <string name="volte_switch_title">Activa VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Els serveis VoLTE de China Telecom només es proporcionen a les zones amb cobertura de xarxa LTE.</string>
+    <string name="vonr_switch_summary">Utilitzeu VoNR per millorar la qualitat de les trucades de veu</string>
+    <string name="vonr_switch_title">Utilitzeu VoNR</string>
     <string name="vowifi_emergency_notification_channel">Avis de Trucada d\'emergencia WLAN</string>
     <string name="vowifi_emergency_notification_content">Trucades d’emergència només a zones amb cobertura cel·lular</string>
     <string name="vowifi_emergency_notification_title">Trucada WLAN de Vodafone</string>
@@ -2344,6 +2341,7 @@ El dispositiu passa automàticament a una xarxa mòbil (2G/3G) per fer una truca
 
 Les trucades d’emergència només són possibles en zones amb cobertura cel·lular."</string>
     <string name="vowifi_emergency_warning_title">Trucades d’emergència mitjançant Trucades WLAN</string>
+    <string name="vowifi_welcome_notification_channel">wifiCallWelcomeNotification</string>
     <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
     <string name="vt_provisioned_switch_string">Prova de trucades de vídeo prevista</string>
     <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
@@ -2398,7 +2396,7 @@ Si escolliu preferir les xarxes mòbils, s’utilitzaran per defecte per fer tru
     <string name="wifi_call_setting_vodafone_de">Trucades WLAN</string>
     <string name="wifi_call_setting_vodafone_uk">Trucada WLAN</string>
     <string name="wifi_call_welcome_settings">Trucades WLAN</string>
-    <string name="wifi_calling">Trucada Wi-Fi</string>
+    <string name="wifi_calling">Trucades WLAN</string>
     <string name="wifi_calling_settings_title">Trucades WLAN</string>
     <string name="wifi_cant_connect">"No es pot connectar"</string>
     <string name="wifi_cant_connect_to_ap">"No es pot connectar a '%1$s'"</string>

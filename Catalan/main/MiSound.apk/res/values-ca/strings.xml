@@ -132,6 +132,8 @@
     <string name="music_headset_calibrate_volume_up">Augmenta el volum</string>
     <string name="music_headset_calibrate_wrong_key">"Us heu equivocat de botó"</string>
     <string name="music_headset_control_setting">Controls dels auriculars</string>
+    <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+    <string name="music_headset_effect_harman_kardon_summary">Àudio professional certificat</string>
     <string name="music_headset_effect_settings">Efectes de so</string>
     <string name="music_headset_improve_sound">Ajusta el so als auriculars</string>
     <string name="music_headset_is_open">Activat</string>

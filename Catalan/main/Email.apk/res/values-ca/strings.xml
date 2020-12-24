@@ -34,7 +34,6 @@
     <string name="about_go_to_update">Ves a actualitzar</string>
     <string name="about_lasted_version">És la darrera edició</string>
     <string name="account_add_title">Seleccioneu el servei de correu</string>
-    <string name="account_cache_provider">Proveïdor de memòria cau del compte</string>
     <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Compte duplicat</string>
     <string name="account_failure">La sessió ha expirat</string>
@@ -262,7 +261,6 @@
     <string name="back">Enrere</string>
     <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Configuració de la facturació</string>
     <string name="bill_center_setting_head">Importa informació d\'aquests comptes</string>
     <string name="bill_cycle_text">Cicle de facturació</string>
@@ -370,7 +368,6 @@
     <string name="conversation_cert_info_tips">Aquest correu es va signar amb un certificat de confiança</string>
     <string name="conversation_cert_info_title">Signat</string>
     <string name="conversation_cert_trust">De confiança</string>
-    <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
     <string name="conversation_detail_hide">Amaga</string>
     <string name="conversation_detail_show">Detalls</string>
     <string name="conversation_folder_moved">Es va moure a %1$s</string>
@@ -566,7 +563,6 @@
     <string name="forward_attribution_no_headers">---------- Missatge reenviat ----------</string>
     <string name="forward_download_failed_ticker">"No s'ha pogut reenviar un o més fitxers adjunts."</string>
     <string name="forward_download_failed_title">Fitxer adjunt no reenviat</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="free_period_text">Període sense interessos</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmeu abans d\'eliminar</string>
@@ -923,7 +919,6 @@ Proveu a canviar a un compte de correu diferent."</string>
     <string name="policy_require_sd_encryption">Requerir xifrat de targeta SD</string>
     <string name="policy_require_smime">Requerir missatges SMIME</string>
     <string name="policy_text_truncation">Restringeix la mida del text email</string>
-    <string name="prefDefault_autoAdvance">llista</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="preference_eas_tips">La següent pàgina d\'activació és requerida pel servidor de correus, si us plau, permeti que s\'activi.</string>
     <string name="preference_pop_tips">Els adjunts es baixaran amb el contingut del correu ja que el protocol POP3 ho requereix obligatòriament. Aneu amb compte si feu servir les dades mòbils.</string>
@@ -1027,7 +1022,6 @@ Espereu fins que se sincronitzi completament o visualitzeu el missatge al vostre
     <string name="reply_add_bodycontent">Voleu afegiu la resposta al cos del missatge?</string>
     <string name="reply_all">Respon a tots</string>
     <string name="reply_attribution">%2$s va escriure a %1$s:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Denunciar phishing</string>
     <string name="report_spam">Denunciar spam</string>
     <string name="request_copy_db_to_disk">El correu sol·licita copiar la vostra base de dades en un fitxer</string>

@@ -103,8 +103,9 @@
     <string name="next_fingerprint">Següent</string>
     <string name="note_introduction">Aquesta aplicació us permet crear, veure i editar notes.</string>
     <string name="other_settings">Configuració addicional</string>
-    <string name="other_settings_ad_dialog_content">"Després de desactivat aquesta funció, deixareu de rebre anuncis personalitzats. Tot i això, encara rebreu anuncis són irrellevants per als vostres interessos. Podeu obtenir més informació sobre els anuncis personalitzats a la Política de privadesa de Xiaomi. 
-De totes maneres, voleu desactivar els anuncis personalitzats?"</string>
+    <string name="other_settings_ad_dialog_agree">Encendre</string>
+    <string name="other_settings_ad_dialog_content">"Quan les recomanacions d'anuncis personalitzats estiguin desactivades, encara veureu la mateixa quantitat d'anuncis que quan la funció està activada. Tanmateix, els anuncis deixaran de ser rellevants, ja que no es basaran en les vostres preferències personals."</string>
+    <string name="other_settings_ad_dialog_disagree">Tanca</string>
     <string name="other_settings_ad_disable_summary">Activeu-ho per personalitzar els anuncis</string>
     <string name="other_settings_ad_enable">Recomanació d\'anuncis personalitzats</string>
     <string name="other_settings_ad_enable_summary">Rebeu anuncis personalitzats segons les dades del comportament</string>
