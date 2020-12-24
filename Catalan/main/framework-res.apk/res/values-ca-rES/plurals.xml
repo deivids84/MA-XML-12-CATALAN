@@ -104,14 +104,6 @@
         <item quantity="other">S\'han instal·lat les autoritats de certificats</item>
         <item quantity="one">S\'ha instal·lat l\'autoritat del certificat</item>
     </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">Xarxes Wi-Fi disponibles</item>
-        <item quantity="one">Xarxa Wi-Fi disponible</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">Xarxes Wi-Fi obertes disponibles</item>
-        <item quantity="one">Xarxa Wi-Fi oberta disponible</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Durant %d hores</item>
         <item quantity="one">Durant 1 hora</item>

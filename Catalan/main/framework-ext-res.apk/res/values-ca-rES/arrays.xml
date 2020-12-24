@@ -1,2 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Torna-ho a provar</item>
+        <item></item>
+        <item></item>
+        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
+        <item></item>
+        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
+        <item>Netegeu el sensor d’empremtes digitals i torneu-ho a provar</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
+        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
+        <item>"Massa ràpid! No s'ha pogut reconèixer l'empremta digital"</item>
+        <item>Mou una mica el dit i torna-ho a provar</item>
+        <item>Aixequeu el dit i torneu-lo a col·locar a l’escàner</item>
+        <item>Mantingueu el dit a l’escàner una mica més de temps</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mou el dit lleugerament</item>
+        <item>S\'ha afegit aquesta empremta digital, feu servir un dit diferent</item>
+    </string-array>
+</resources>

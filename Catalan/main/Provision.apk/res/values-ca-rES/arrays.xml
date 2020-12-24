@@ -2,7 +2,7 @@
 <resources>
     <string-array name="other_settings_auto_update_entries">
         <item>Wi-Fi i dades mòbils</item>
-        <item>Només Wi-Fi</item>
+        <item>Només wifi</item>
         <item>Desactivat</item>
     </string-array>
 </resources>
