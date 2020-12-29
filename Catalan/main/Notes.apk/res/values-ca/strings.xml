@@ -138,7 +138,6 @@
     <string name="doodle_saving">Desant</string>
     <string name="doodle_setting_show_grid_background">Doodle de línies de graella</string>
     <string name="doodle_setting_show_grid_background_desc">Mostra línies de quadrícula de doodle</string>
-    <string name="doodle_tool_background">Canvia el fons</string>
     <string name="doodle_tool_eraser">Goma d\'esborrar</string>
     <string name="doodle_tool_eraser_element_mode">Goma d\'esborrar traços</string>
     <string name="doodle_tool_eraser_pixel_mode">Goma d\'esborrar píxels</string>
@@ -411,7 +410,6 @@
     <string name="pc_note_edit_text_format_title_level1">Títol</string>
     <string name="pc_note_edit_text_format_title_level2">Encapçalament</string>
     <string name="pc_note_trash_folder_remind">Aquesta nota s\'ha suprimit. Restaura per editar.</string>
-    <string name="pc_todo_fast_create_hint">Premeu \"Retorn\" per afegir una tasca sense acabar</string>
     <string name="pc_todo_set_remind_time_hint">Estableix l’hora</string>
     <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
     <string name="permission_get_account_desc">Sincronitzar les notes amb el núvol</string>

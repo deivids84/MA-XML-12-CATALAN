@@ -30,13 +30,11 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="am">AM</string>
-    <string name="app_name">Combo de pantalla</string>
     <string name="cancel">Cancel·la</string>
     <string name="clearable_edittext_clear_description">Clar</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="default_boss_terminal_name">Mi Notebook</string>
-    <string name="display_max_screen_count_toast">Podeu obrir fins a 2 finestres en aquesta versió</string>
     <string name="display_not_support_secondary_toast">"No es pot obrir aquesta aplicació en una finestra nova"</string>
     <string name="download_cancel">Cancel·la</string>
     <string name="download_canceled">La baixada s\'ha cancel·lat</string>
@@ -46,8 +44,6 @@
     <string name="downloading">S\'està baixant…</string>
     <string name="early_morning">Matí</string>
     <string name="enable_wifi_alert_cancel">Cancel·la</string>
-    <string name="enable_wifi_alert_message">Screen Combo necessita Wi-Fi per poder connectar-vos a un ordinador. Voleu activar-lo ara?</string>
-    <string name="enable_wifi_alert_message_china">Screen Combo necessita WLAN per poder connectar-vos a un ordinador. Voleu activar-lo ara?</string>
     <string name="enable_wifi_alert_ok">Encendre</string>
     <string name="enable_wifi_alert_title">Activeu la Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Activeu la WLAN</string>
@@ -113,9 +109,6 @@
     <string name="log_warning">"Canviar els commutadors de registre pot augmentar els riscos de seguretat i afectar el rendiment. Utilitzeu aquests commutadors només quan sigui necessari."</string>
     <string name="message_log">Registres de missatges</string>
     <string name="midnight">Nit</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol amb èxit</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sincronització amb el núvol…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualitzant…</string>
@@ -176,7 +169,6 @@
     <string name="ok">D\'acord</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
-    <string name="privacy_all_purpose">Benvingut a Screen Combo. Aquesta aplicació us permet transferir fitxers i interactuar amb el vostre telèfon mitjançant un ordinador.</string>
     <string name="privacy_describe_change_wifi_state">Per connectar dispositius i transferir fitxers mitjançant Wi-Fi</string>
     <string name="privacy_describe_location">Per trobar equips propers i transferir fitxers</string>
     <string name="privacy_describe_record_audio">Per redirigir la reproducció d\'àudio a l\'ordinador</string>
@@ -191,7 +183,6 @@
     <string name="search_menu_title">Cerca</string>
     <string name="settings_connect">Com connectar-se</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
-    <string name="settings_connect_summary1">Obriu Mi Smart Share a l\'ordinador i seleccioneu \"Combo de pantalla\". Podeu descarregar Mi Smart Share des de https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Escaneja el codi QR a la pantalla de l\'ordinador amb el dispositiu mòbil. Podeu utilitzar diverses aplicacions del sistema (per exemple, escàner, càmera, navegador Mi) per fer-ho.</string>
     <string name="settings_connect_title1">Pas 1</string>
     <string name="settings_connect_title2">Pas 2</string>
@@ -207,7 +198,6 @@
     <string name="settings_feature_multi_window_title">Obriu diverses finestres</string>
     <string name="settings_feature_pc_edit_files_summary">Feu clic amb el botó dret als elements de la Galeria o del Gestor de fitxers per editar-los a l\'ordinador.</string>
     <string name="settings_feature_pc_edit_files_title">Editeu elements del telèfon a l\'ordinador</string>
-    <string name="settings_home">Combo de pantalla</string>
     <string name="settings_home_device_disconnect">Desconnecta</string>
     <string name="settings_home_device_group">Dispositiu connectat</string>
     <string name="settings_home_tips">"Screen Combo col·loca una còpia de la pantalla del telèfon en un ordinador connectat, cosa que us permet transferir fitxers i interactuar-hi amb el vostre dispositiu mòbil."</string>
@@ -302,7 +292,6 @@
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
     <string name="worker_authorization_loading">Només un segon…</string>
-    <string name="worker_authorization_message">Screen Combo us permet transferir fitxers i interactuar amb el vostre telèfon mitjançant un ordinador.</string>
     <string name="worker_authorization_title">Voleu connectar-vos ara?</string>
     <string name="worker_authorized">%1$s acceptat la vostra sol·licitud</string>
     <string name="worker_connect_cancel_tips">Cancel·la</string>

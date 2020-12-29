@@ -215,10 +215,13 @@ Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de se
     <string name="other_device_second_space">Segon espai</string>
     <string name="preference_copied">S\'ha copiat \"%1$s\" al porta-retalls.</string>
     <string name="process_whole_recovery">Restaurant «%s»</string>
+    <string name="provision_back">Enrere</string>
     <string name="provision_background_restore_more_data">Restaura més elements en segon pla</string>
     <string name="provision_error_connect_msg">"Podeu provar la xarxa i tornar-ho a provar. La funció de còpia de seguretat no estarà disponible sense una xarxa vàlida."</string>
     <string name="provision_error_connect_title">"No es pot connectar"</string>
+    <string name="provision_next">Següent</string>
     <string name="provision_restore_data">Restauració d’elements</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="query_restore_description">Restaura les aplicacions de la pantalla d\'inici i configuració usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses a la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
     <string name="query_restore_summary">S\'ha trobat una còpia de seguretat de Xiaomi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions i configuracions de la pantalla d\'inici o voleu utilitzar-lo com a dispositiu nou i esborrar les còpies de seguretat anteriors de Xiaomi Cloud?</string>
     <string name="recover_home_settings">Restaura la configuració de la pantalla d\'inici</string>

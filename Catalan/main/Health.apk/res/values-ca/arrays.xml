@@ -4,6 +4,11 @@
         <item>Salut</item>
         <item>Entrenaments</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imatge</item>
+        <item>Ruta</item>
+        <item>Targeta</item>
+    </string-array>
     <string-array name="SportTabTitle">
         <item>Corrent</item>
         <item>Caminant</item>

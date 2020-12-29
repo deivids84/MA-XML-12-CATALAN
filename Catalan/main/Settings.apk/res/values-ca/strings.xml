@@ -573,7 +573,6 @@ Canvieu la configuració ara?"</string>
     <string name="app_list_preference_none">Cap</string>
     <string name="app_memory_use">Memoria en ús</string>
     <string name="app_mobile">Dades mòbils</string>
-    <string name="app_name">Preferència</string>
     <string name="app_name_label">Aplicació</string>
     <string name="app_name_na">Ús de dades</string>
     <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
@@ -3439,7 +3438,6 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="keyboard_shortcuts_helper">Dreceres de teclat</string>
     <string name="keyboard_shortcuts_helper_summary">Mostra les dreceres disponibles</string>
     <string name="keyguard_advance_setting_title">Configuració avançada</string>
-    <string name="keyguard_notification_status_title">Quan arriben les notificacions i la pantalla està apagada</string>
     <string name="keyguard_security_setting_others">Altres</string>
     <string name="keyguard_security_setting_privacy_policy">Política de privacitat</string>
     <string name="keywords_accounts">compte, afegir un compte, perfil de treball, afegir compte</string>
@@ -3825,7 +3823,6 @@ com el PIN del primer espai. "</string>
     <string name="lockpassword_clear_label">Neteja</string>
     <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
     <string name="lockpassword_confirm_label">Confirma</string>
-    <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
     <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
     <string name="lockpassword_confirm_workspace_password">Verifiqueu la contrasenya d\'espai de treball</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirmeu la contrasenya</string>
@@ -4165,7 +4162,6 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_equalizer">Equalitzador</string>
     <string name="miheadset_game_mode">Mode de joc</string>
     <string name="miheadset_game_mode_summary">Reduïu el retard d’àudio mentre jugueu</string>
-    <string name="miheadset_ignore">Suprimiu aquest dispositiu</string>
     <string name="miheadset_in_ear_check">Detecta la presència de l\'oïda</string>
     <string name="miheadset_in_ear_check_summary">Poseu en pausa i repreneu la reproducció automàticament mentre porteu o traieu els auriculars</string>
     <string name="miheadset_last_version">El firmware està actualitzat</string>
@@ -5035,7 +5031,6 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="picture_color_mode">Mode de color de la imatge</string>
     <string name="picture_color_mode_desc">Utilitza sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permet a aquesta aplicació crear una finestra d'imatge dins d'imatge mentre l'aplicació estigui oberta o després que la deixeu (per exemple, per seguir veient un vídeo). Aquesta finestra es mostrarà sobre d'altres aplicacions que utilitzeu."</string>
-    <string name="picture_in_picture_app_detail_switch">Permet imatge dins d\'imatge</string>
     <string name="picture_in_picture_app_detail_title">Imatge dins d\'imatge</string>
     <string name="picture_in_picture_empty_text">No hi ha cap aplicació instal·lada compatible amb imatge dins d\'imatge</string>
     <string name="picture_in_picture_keywords">imatge en imatge imatge en</string>
@@ -5146,7 +5141,6 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="power_usage_old_debug">%1$s restants (Vella est)</string>
     <string name="power_usage_summary">Elements que han utilitzat la bateria</string>
     <string name="power_usage_summary_title">Bateria i rendiment</string>
-    <string name="power_usage_summary_title_new">Bateria i rendiment</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicacions pre-instal·lades</string>
     <string name="pref_bg_network_title">Connexió en segon pla</string>
@@ -5670,22 +5664,16 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_dark_mode_smart_dark_title">Mode fosc global</string>
     <string name="screen_dark_mode_time_title">Programa el mode fosc</string>
     <string name="screen_effect">Contrast i colors</string>
-    <string name="screen_enhance_engine_ai_note">"Per assegurar-vos que la vostra experiència de visualització sigui natural, aquesta funció no funcionarà si la imatge consta de colors primaris o conté ajustaments avançats."</string>
     <string name="screen_enhance_engine_ai_open">Millorar les imatges</string>
-    <string name="screen_enhance_engine_ai_pic_summary">Identifiqueu objectes (per exemple, plantes, animals, edificis) i ajusteu dinàmicament els efectes de visualització. Aquesta característica augmenta lleugerament el consum d\'energia.</string>
     <string name="screen_enhance_engine_ai_title">Millora de la imatge AI</string>
     <string name="screen_enhance_engine_memc_note">"No es poden millorar els vídeos quan la super resolució està activada. Si activeu els vídeos millorats, desactivareu la super resolució."</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
-    <string name="screen_enhance_engine_memc_pic_summary">Afegiu fotogrames addicionals als vídeos per fer que el contingut sembli suau i faci una transició animada.</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Millora AI HDR</string>
-    <string name="screen_enhance_engine_s2h_pic_summary">Processar vídeos amb efectes HDR per obtenir més detalls a les zones més clares i fosques i fer que els colors siguin més vibrants. Aquesta funció és compatible amb les aplicacions seleccionades.</string>
     <string name="screen_enhance_engine_s2h_title">Millora AI HDR</string>
     <string name="screen_enhance_engine_sr_for_pic">Millorar les imatges</string>
     <string name="screen_enhance_engine_sr_for_video">Millorar els vídeos</string>
     <string name="screen_enhance_engine_sr_for_video_note">"La super resolució no funciona amb els vídeos millorats. Si activeu la super resolució, desactivareu els vídeos millorats."</string>
-    <string name="screen_enhance_engine_sr_pic_summary">Amplia la resolució d’imatges o vídeos fins a 1440p. Aquesta funció és compatible amb les aplicacions seleccionades i augmenta lleugerament el consum d\'energia.</string>
-    <string name="screen_enhance_engine_sr_pic_summary_video_only">Amplia la resolució de vídeos fins a 1440p. Aquesta funció és compatible amb les aplicacions seleccionades i augmenta lleugerament el consum d\'energia.</string>
     <string name="screen_enhance_engine_sr_title">Super resolució</string>
     <string name="screen_enhance_engine_title">Motor d\'imatges AI</string>
     <string name="screen_enhance_status_disable">Desactivat</string>
@@ -6988,7 +6976,6 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tap_to_wake">Toca per activar-lo</string>
     <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">10 segons després de tocar la pantalla</string>
     <string name="terms_title">Termes i condicions</string>
     <string name="testing">S\'està provant</string>
     <string name="testing_phone_info">Informació del telèfon</string>
@@ -7555,7 +7542,6 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="user_exit_guest_dialog_remove">Suprimeix</string>
     <string name="user_exit_guest_title">Suprimeix el convidat</string>
     <string name="user_experience_program">Programa d\'experiència d\'usuari</string>
-    <string name="user_experience_program_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús</string>
     <string name="user_experience_program_title">Inscriviu-vos al programa d’experiència d’usuari</string>
     <string name="user_guest">Convidat</string>
     <string name="user_image_choose_photo">Selecciona una foto de la galeria</string>
@@ -7638,7 +7624,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="virus_scan_app_uninstall">Desinstal·la (%d)</string>
     <string name="virus_scan_app_waiting">S\'està esperant…</string>
     <string name="virus_scanner_auto_update">Actualitza automàticament</string>
-    <string name="virus_scanner_date_formater">MMMM dd, aaaa</string>
+    <string name="virus_scanner_date_formater">dd MMMM yyyy</string>
     <string name="virus_scanner_lib_already_latest">Esteu fent servir les definicions més actuals</string>
     <string name="virus_scanner_lib_update_failed">"No s'ha pogut actualitzar"</string>
     <string name="virus_scanner_lib_updating">S\'estan actualitzant les definicions&#8230;</string>

@@ -9,7 +9,6 @@
     <string name="atlantis">Atlantis (estèreo)</string>
     <string name="beep">Pip</string>
     <string name="bells">Campanes</string>
-    <string name="birdcicada_preview">Natura - Ocells i cuques de llum</string>
     <string name="blues">Blues</string>
     <string name="bottle">Ampolla</string>
     <string name="breeze">Brisa</string>
@@ -139,7 +138,6 @@ mm"</string>
     <string name="wallpaper_group_natural_texture_title">Patrons de natura</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitat d’Arizona</string>
     <string name="wallpaper_group_red_mars_title">Mart</string>
-    <string name="waterdrop_preview">Natura - Gotetes</string>
     <string name="windchime">Campanes de vent</string>
     <string name="yellow_page_module_sms_sent">SMS enviat</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">"No es poden enviar missatges en mode Convidat"</string>

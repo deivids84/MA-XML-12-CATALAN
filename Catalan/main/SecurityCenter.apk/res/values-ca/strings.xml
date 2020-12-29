@@ -143,7 +143,6 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
     <string name="adjust_traffic_data">Estableix l\'ús de dades</string>
     <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
-    <string name="ai_allow_all">Notifiqueu quan s\'utilitza el permís per a tots</string>
     <string name="alert_back_diving_mode_summary">Voleu desactivar el mode Immersió?</string>
     <string name="alert_back_diving_mode_title">Mode Immersió</string>
     <string name="alert_back_milink_hangup_tips_content">"L’emissió no s’interromp mentre finalitzeu una trucada. Podeu prémer el botó d'encesa per encendre la pantalla."</string>
@@ -242,7 +241,6 @@
     <string name="app_behavior_key_camera">Fent fotos</string>
     <string name="app_behavior_key_location">Ubicació</string>
     <string name="app_behavior_key_protect">Protegiu la informació personal</string>
-    <string name="app_behavior_link_start">Inici desencadenat</string>
     <string name="app_behavior_list_load_more">S\'està carregant…</string>
     <string name="app_behavior_location">%1s ha accedit a la vostra ubicació</string>
     <string name="app_behavior_location_bg">%1s ha accedit a la vostra ubicació en segon pla</string>
@@ -304,8 +302,6 @@
     <string name="app_behavior_settings_category_privacy">Protegiu la informació personal</string>
     <string name="app_behavior_settings_perm_tips">Mostra una alerta a la barra d\'estat quan les aplicacions accedeixin a la ubicació, enregistren l\'àudio o fan fotos</string>
     <string name="app_behavior_settings_privacy_tips">Rebeu notificacions quan les aplicacions accedeixen als vostres contactes, historial de trucades o realitzen altres accions delicades</string>
-    <string name="app_behavior_share_file">Comparteix el fitxer</string>
-    <string name="app_behavior_share_picture">Comparteix la imatge</string>
     <string name="app_behavior_sms_read">%1s ha llegit els SMS</string>
     <string name="app_behavior_sms_read_single">Aquesta aplicació ha llegit els SMS</string>
     <string name="app_behavior_sms_send">%1s ha enviat SMS</string>
@@ -1394,7 +1390,6 @@ targeta mèdica"</string>
     <string name="fw_blocked_join">" i "</string>
     <string name="fw_oversea">Bloqueja trucades des de l\'estranger</string>
     <string name="fw_oversea_content">Bloqueja les trucades entrants dels números de telèfon estrangers</string>
-    <string name="gallery_confirm_start_activity">%s intenta accedir a les imatges mitjançant una altra aplicació. Permetre?</string>
     <string name="game_ad_recommendation">Tothom està jugant</string>
     <string name="game_anti_disturb_msg">Joc no molestis</string>
     <string name="game_booster">Accelerador de velocitat dels jocs</string>
@@ -1584,7 +1579,6 @@ per obtenir una prova gratuïta de 3 dies."</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Proveu el canviador de veu.
 Canvia entre diferents personatges i efectes especials."</string>
     <string name="gb_voice_changer_toast_window_open">S\'ha activat l\'efecte \"%s\"</string>
-    <string name="gb_voice_changer_toast_window_vip_expire">La vostra subscripció està a punt de caducar. Renoveu la subscripció ara per obtenir avantatges.</string>
     <string name="gb_voice_changer_trial_gender_dialog">Hem rebut una prova gratuïta amb èxit. Seleccioneu el gènere per ajustar els efectes i les recomanacions en conseqüència.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Prova gratuïta</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Rebre una prova gratuïta…</string>
@@ -1594,7 +1588,6 @@ i exploreu el nostre Canviador de veu."</string>
     <string name="gb_voice_changer_user_status_no_login">Inicia la sessió al Compte Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Data de caducitat: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renova</string>
-    <string name="gb_voice_changer_user_tips_info_vip_expire">Les vostres subscripcions han caducat. Renoveu la subscripció ara per obtenir avantatges.</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Registra els moments clau
 de les teves sessions de joc"</string>
     <string name="gb_wonderful_video_cancel">Cancel·la</string>
@@ -1805,7 +1798,6 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="lockpattern_pattern_confirmed_header">El seu nou patró de desbloqueig</string>
     <string name="lockpattern_pattern_entered_header">Patró afegit</string>
     <string name="lockpattern_recording_inprogress">"Treure el dit després que el patró és completi"</string>
-    <string name="lockpattern_recording_intro_header">Connectar almenys 4 punts per crear un patró</string>
     <string name="lockpattern_retry_button_text">Torneu a dibuixar-ho</string>
     <string name="lockpattern_settings_help_how_to_record">Com dibuixar un patró</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
@@ -2340,7 +2332,6 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permgroupdesc_sms">Llegir o enviar SMS</string>
     <string name="permgroupdesc_storage">Accedir a fotos i fitxers del dispositiu</string>
     <string name="permission_action_accept">D\'acord</string>
-    <string name="permission_action_ai_prompt">Notifiqueu quan s’utilitza el permís</string>
     <string name="permission_action_always">Permet sempre</string>
     <string name="permission_action_desc">Doneu permisos però torneu missatges en blanc a l\'aplicació per protegir la privadesa</string>
     <string name="permission_action_desc_always">Aquest permís es pot utilitzar en qualsevol moment</string>
@@ -2461,7 +2452,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_battery_app_detail">Ús de la bateria de l\'aplicació</string>
     <string name="power_center_battery_charge_night">Estalvieu la bateria mentre es carrega a la nit</string>
     <string name="power_center_battery_charge_times">Carregada avui</string>
-    <string name="power_center_battery_chargefull_time">Fins que estigui completament carregat</string>
+    <string name="power_center_battery_chargefull_time">Fins a la càrrega completa</string>
     <string name="power_center_battery_detail">Detalls</string>
     <string name="power_center_battery_duration">Temps restant</string>
     <string name="power_center_battery_hardware">Maquinari %s</string>
@@ -3025,7 +3016,6 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="read_clipboard_ai_close_no">Ara no</string>
     <string name="read_clipboard_ai_close_tip">"Ja no rebreu notificacions quan les aplicacions accedeixin al porta-retalls. En lloc d’això, se’ls permetrà utilitzar aquest permís només mentre utilitzeu l’aplicació. Voleu ajustar els permisos?"</string>
     <string name="read_clipboard_ai_close_yes">Ajustar</string>
-    <string name="read_clipboard_op_content">"En lloc de donar el permís només quan utilitzeu l'aplicació, rebreu una notificació cada vegada que les aplicacions accedeixin al porta-retalls."</string>
     <string name="read_clipboard_op_title">Notifiqueu quan les aplicacions accedeixen als elements del porta-retalls</string>
     <string name="read_clipboard_tip_content">Aquest permís permet a les aplicacions llegir qualsevol contingut que copieu, que pot incloure informació privada (per exemple, detalls del compte, números de targeta bancària i contrasenyes).</string>
     <string name="read_clipboard_tip_title">Accés als elements del porta-retalls</string>
@@ -3875,9 +3865,7 @@ Dades extres en ús"</string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduïu la contrasenya per activar l\'empremta</string>
     <string name="unlock_set_unlock_password_summary">Combina diferents caràcters</string>
     <string name="unlock_set_unlock_password_title">Contrasenya</string>
-    <string name="unlock_set_unlock_pattern_summary">Connecteu almenys 4 punts</string>
     <string name="unlock_set_unlock_pattern_title">Patró</string>
-    <string name="unlock_set_unlock_pin_summary">Introduïu 4 dígits</string>
     <string name="usage_sorted_activity_lable">Ús de dades</string>
     <string name="usage_sorted_empty_text">Buit</string>
     <string name="usage_sorted_loading_text">Un moment…</string>

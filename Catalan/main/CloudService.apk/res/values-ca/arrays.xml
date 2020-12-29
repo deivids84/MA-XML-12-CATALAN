@@ -26,6 +26,18 @@
         <item>Feu una còpia de seguretat de la configuració important, inclosa la WLAN i la pantalla</item>
         <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sincronitza els vostres contactes, missatges, notes, calendari i molt més</item>
+        <item>Feu una còpia de seguretat de les aplicacions, el disseny de la pantalla d\'inici i el fons de pantalla</item>
+        <item>Feu una còpia de seguretat de les configuracions importants, incloses la WLAN i la pantalla</item>
+        <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sincronitzeu els contactes, els missatges, les notes, el calendari i molt més</item>
+        <item>Feu una còpia de seguretat de les aplicacions, del disseny de la pantalla d\'inici i del fons de pantalla</item>
+        <item>Feu una còpia de seguretat de les configuracions importants, inclosa la Wi-Fi i la pantalla</item>
+        <item>"Bloquegeu el dispositiu remotament si es perd"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronitza les dades de l\'aplicació</item>
         <item>Còpia de seguretat del disseny de la pantalla d\'inici</item>
@@ -98,6 +110,11 @@
         <item>Sincronitza les notes amb Xiaomi Cloud</item>
         <item>Activa la sincronització</item>
         <item>Notes;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sincronitzeu les notes amb Xiaomi Cloud</item>
+        <item>Activeu la sincronització</item>
+        <item>Notes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Sincronitza el Tauler d\'aplicacions amb Xiaomi Cloud</item>

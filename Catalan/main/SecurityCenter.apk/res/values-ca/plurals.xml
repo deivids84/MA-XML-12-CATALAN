@@ -192,12 +192,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
     </plurals>
-    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Les vostres subscripcions han caducat.
-Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
-        <item quantity="one">"Les vostres subscripcions han caducat.
-Vostè pot obtenir un %dassaig lliure -dia ara!"</item>
-    </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>

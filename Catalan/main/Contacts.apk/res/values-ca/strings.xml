@@ -63,7 +63,6 @@
     <string name="auto_nickname">Automàtic</string>
     <string name="auto_record_yellowpage">Pàgines grogues</string>
     <string name="auto_set_nickname">Automàtic</string>
-    <string name="back">Enrere</string>
     <string name="back_description">Enrere</string>
     <string name="back_view_description">Anar enrere</string>
     <string name="batch_delete">Elimina el lot</string>
@@ -76,6 +75,7 @@
     <string name="bh_adjusting">S\'està calibrant…</string>
     <string name="bh_app_name">Serveis de l\'operador Mi</string>
     <string name="bh_app_name_short">Serveis de l\'operador</string>
+    <string name="bh_back">Enrere</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recàrrega saldo</string>
     <string name="bh_bugreport">Comentaris empresarials</string>
@@ -90,6 +90,7 @@
     <string name="bh_charge_number">Recàrrega %1$s</string>
     <string name="bh_charged_phone_number">Número de telèfon: %1$s</string>
     <string name="bh_close_traffic_package">Tanca els detalls del pla de l\'operador</string>
+    <string name="bh_confirm">D\'acord</string>
     <string name="bh_contact_number">%1$s dels vostres contactes</string>
     <string name="bh_current_no_sim">"La targeta SIM no està inserida"</string>
     <string name="bh_current_sim_number">Número de telèfon de la SIM actual %1$s</string>
@@ -102,7 +103,7 @@
     <string name="bh_exchange_number">Canvia de número</string>
     <string name="bh_fetch_balance">Comproveu el saldo</string>
     <string name="bh_flow_exceed">Va superar el límit</string>
-    <string name="bh_funtion_desc">Benvingut a Mi Carrier Services. Podeu utilitzar aquesta aplicació per comprovar el saldo del telèfon, comprar minuts de trucades i dades mòbils i molt més.</string>
+    <string name="bh_funtion_desc">Us donem la benvinguda a Mi Carrier Services. Podeu utilitzar aquesta aplicació per comprovar el saldo del telèfon, comprar minuts de trucades i dades mòbils i molt més. Aquesta aplicació ha de connectar-se a la xarxa per poder funcionar amb normalitat.</string>
     <string name="bh_get_balance_success">S\'ha comprovat correctament. La informació es pot actualitzar amb un retard aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccioneu un dels contactes</string>
     <string name="bh_goto_set">Conjunt</string>
@@ -273,7 +274,6 @@
     <string name="callrecordview_menu_show_missed">Trucades perdudes</string>
     <string name="callrecordview_menu_show_sim">%s trucades</string>
     <string name="callrecordview_menu_show_stranger">Trucades de números desconeguts</string>
-    <string name="cancel">Cancel·la</string>
     <string name="cancel_confirmation_dialog_message">Descarteu els canvis?</string>
     <string name="cancel_confirmation_dialog_title">Cancel·la</string>
     <string name="cancel_export_confirmation_message">Voleu cancel·lar l\'exportació de %s?</string>
@@ -306,7 +306,6 @@
     <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
     <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
     <string name="conference_call_disable_tip">"No es poden fer trucades. Assegureu-vos que el vostre dispositiu està connectat a una xarxa 4G amb suport VoLTE."</string>
-    <string name="confirm">D\'acord</string>
     <string name="confirm_call_log_dial_summary">Demanar confirmació abans de marcar des dels registres de trucades per evitar trucades accidentals.</string>
     <string name="confirm_call_log_dial_title">Confirma els marcatges des del registre de trucades</string>
     <string name="confirm_delete_contact_all_call_logs">"Esborrar registre de trucades?"</string>

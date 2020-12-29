@@ -139,9 +139,6 @@ dd/M"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol correctament</string>
-    <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>

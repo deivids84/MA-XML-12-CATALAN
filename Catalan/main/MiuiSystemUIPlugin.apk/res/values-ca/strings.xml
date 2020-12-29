@@ -229,12 +229,13 @@
     <string name="quick_settings_hang_label">Finestres flotants</string>
     <string name="quick_settings_hang_on">Ja podeu utilitzar les finestres flotants</string>
     <string name="quick_settings_pcmode_cancel_button">Surt</string>
-    <string name="quick_settings_pcmode_dialog_description">El mode PC admet tasques de diverses finestres i es pot utilitzar amb el teclat i el ratolí. Si canvieu a aquest mode, es tancaran totes les aplicacions llançades. És possible que algunes aplicacions no admetin el mode PC.</string>
     <string name="quick_settings_pcmode_dialog_message_turnoff">Desactiveu el mode de PC</string>
     <string name="quick_settings_pcmode_dialog_message_turnon">Activeu el mode PC</string>
     <string name="quick_settings_pcmode_dialog_remember_text">"No ho tornis a mostrar"</string>
     <string name="quick_settings_pcmode_label">Mode PC</string>
     <string name="quick_settings_pcmode_ok_button">D\'ACORD</string>
+    <string name="quick_settings_pcmode_turn_off_description">Després de sortir del mode PC, utilitzareu l\'escriptori Mi a la pantalla més gran. Esteu segur que voleu sortir?</string>
+    <string name="quick_settings_pcmode_turn_on_description">Després d\'entrar al mode PC, utilitzarà l\'escriptori PC a la pantalla més gran. Esteu segur que voleu entrar?</string>
     <string name="quick_settings_scanner_label">Escàner</string>
     <string name="quick_settings_wireless_label">Càrrega inversa sense fils</string>
     <string name="reboot_info_auto_boot">Propera alarma: %s</string>

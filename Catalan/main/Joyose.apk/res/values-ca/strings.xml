@@ -7,6 +7,7 @@
     <string name="cc_version">"Versió actual: "</string>
     <string name="connect_wifi">No està connectat a la Wi-Fi</string>
     <string name="detect_fakecell">Reconeix els SMS de falses estacions base</string>
+    <string name="end_title">Fi del joc</string>
     <string name="forbidden_fakecell">"No et connectis a estacions base falses"</string>
     <string name="forbidden_fakecell_summary">Eviteu que el vostre telèfon es connecti a estacions base falses</string>
     <string name="foreground_text">Utilitza el servei en primer pla per incrementar el nivell actiu</string>

@@ -54,7 +54,7 @@
     <string name="mtrl_chip_close_icon_content_description">Elimina %1$s</string>
     <string name="mtrl_picker_cancel">Cancel · lar</string>
     <string name="mtrl_picker_confirm">Desa</string>
-    <string name="mtrl_picker_date_format">MMM dd, aaaa</string>
+    <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Escolliu una data</string>
     <string name="mtrl_picker_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_prompt">Trieu un interval de dates</string>

@@ -58,6 +58,7 @@
     <string name="error_ap_or_screen_already_hosting">"No es poden enviar articles a altres dispositius mentre es llança o es fa servir un hotspot portàtil."</string>
     <string name="error_device_lost">Sembla que l’altre dispositiu està fora d’abast. Espere un minut o dos i torna-ho a provar.</string>
     <string name="error_has_occurred">S\'ha produït un error</string>
+    <string name="error_mirror_working">"No es poden compartir elements mentre compartiu la pantalla"</string>
     <string name="error_msg_network_error">S\'ha produït un error de xarxa. Torneu-ho a provar.</string>
     <string name="error_receive_file_cannot_read">"No s'ha pogut rebre el fitxer"</string>
     <string name="error_receive_file_changed">"No es pot rebre L’element ha canviat."</string>
@@ -68,6 +69,7 @@
     <string name="error_receive_user_interrupted">L’altra persona ha cancel·lat la transferència</string>
     <string name="error_refuse_receive">Transferència cancel·lada</string>
     <string name="error_remote_busy">Sembla que l’altre dispositiu està ocupat. Espere un minut o dos i torna-ho a provar.</string>
+    <string name="error_remote_mirror_working">"L'altre dispositiu no pot acceptar elements mentre comparteix la pantalla"</string>
     <string name="error_self_busy">El dispositiu està ocupat. Espere un minut o dos i torna-ho a provar.</string>
     <string name="error_send_file_cannot_read">"No s'ha pogut enviar el fitxer. Torna-ho a provar."</string>
     <string name="error_send_file_no_enough_space">"No es pot enviar No hi ha prou espai d'emmagatzematge a l'altre dispositiu."</string>
@@ -142,6 +144,7 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="scanning_only_xiaomi_device">Aquest element només es pot transferir a dispositius Xiaomi o Black Shark</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send_file">ENVIAR FITXER</string>
+    <string name="send_files_by">Comparteix els fitxers mitjançant</string>
     <string name="send_files_to">Envia els elements a</string>
     <string name="send_files_to_remote_success">S\'han enviat articles a %1$s amb èxit</string>
     <string name="send_files_to_remote_success_title">S\'ha enviat correctament</string>
@@ -162,7 +165,7 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="tile_state_active">Encén</string>
     <string name="tile_state_inactive">Apaga</string>
     <string name="tile_state_unavailable">No disponible</string>
-    <string name="tips_prompt_enable_midrop">Compartiu els fitxers amb els dispositius propers</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Informa</string>
     <string name="transfer_intercept_to_remote">"No s'ha pogut enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"La versió més recent del programari AIoT instal·lat als quaderns Mi és compatible amb Mi Share. Podeu consultar la llista de models portàtils compatibles al lloc web de MIUI. Si el portàtil es troba a la llista, però AIoT no hi ha instal·lat, actualitzeu el BIOS i el controlador de l'adaptador de xarxa del vostre portàtil i descarregueu AIoT."</string>

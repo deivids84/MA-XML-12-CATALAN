@@ -1001,8 +1001,6 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenció</string>
     <string name="fiveg_sa_switch_summary">Permet la connexió a xarxes 5G en mode autònom</string>
     <string name="fiveg_sa_switch_title">Mode SA</string>
-    <string name="fiveg_sa_switch_title_slot0">Mode SIM 1 SA</string>
-    <string name="fiveg_sa_switch_title_slot1">Mode SIM 2 SA</string>
     <string name="fiveg_sa_switch_warning_toast">Reinicieu el telèfon perquè tingui efecte.</string>
     <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>

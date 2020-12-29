@@ -669,5 +669,8 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">Igual que l’hora local</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="yesterday">Ahir</string>
 </resources>

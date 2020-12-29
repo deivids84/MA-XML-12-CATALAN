@@ -722,9 +722,6 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_summary_ad_mms_recognition">Col·loqueu missatges promocionals en una pestanya independent</string>
     <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>
     <string name="pref_summary_auto_delete">Elimina missatges antics a mesura que s\'assoleixen els límits</string>
-    <string name="pref_summary_collapse_ad_notification">Mostra tots els missatges promocionals en una carpeta d\'ombra de notificació independent</string>
-    <string name="pref_summary_collapse_ad_notification_mms">Mostra tots els missatges promocionals en una pestanya independent</string>
-    <string name="pref_summary_collapse_ad_notification_mms_new">Agrupeu els missatges promocionals i marqueu-los com a no importants a l’ombra Notificació</string>
     <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
     <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
     <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
@@ -746,7 +743,6 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_title_allow_si_sl_push">Permeteu missatges WAP (SI/SL)</string>
     <string name="pref_title_auto_delete">Elimina missatges antics</string>
     <string name="pref_title_card_format">Format de targeta compartida</string>
-    <string name="pref_title_collapse_ad_notification">Notificacions en grup sobre missatges promocionals</string>
     <string name="pref_title_delivery_reports">Estat de lliurament</string>
     <string name="pref_title_enable_classify">Agrupa els missatges automàticament</string>
     <string name="pref_title_fwd_sender_info">Reenvia informació del remitent</string>
