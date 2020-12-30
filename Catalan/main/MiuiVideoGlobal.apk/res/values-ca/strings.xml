@@ -398,7 +398,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creació de vídeo…</string>
     <string name="galleryplus_gallery_video_slow_edit">Càmera lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostra les marques</string>
-    <string name="galleryplus_is_higher_definition">S\'ha obert la previsualització en HD</string>
     <string name="galleryplus_network_connect_check">"No s'ha pogut connectar a la xarxa"</string>
     <string name="galleryplus_network_connect_confirm">Connecta’t a Wi-Fi o activa les dades mòbils a la configuració de la xarxa.</string>
     <string name="galleryplus_network_error">"No s'ha pogut connectar a la xarxa"</string>
@@ -661,7 +660,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="my_favorite_channels">Els meus canals preferits</string>
     <string name="my_feedback_title">El meu comentari</string>
     <string name="need_update_app">Actualitza Mi Video per utilitzar totes les seves funcions</string>
-    <string name="network_connect_info">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="network_failed">"No s'ha pogut connectar a la xarxa"</string>
     <string name="neverthink_player_loading">S\'està carregant el vídeo …desvetllar</string>
     <string name="new_channel_tip">Doneu un cop d\'ull als nous canals.</string>

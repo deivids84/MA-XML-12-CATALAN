@@ -304,8 +304,13 @@ mm"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">Súper fons de pantalla</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Més</string>
     <string name="wallpaper_setting_title">Fons de pantalla</string>
+    <string name="weather_super_wallpaper_label">El temps</string>
+    <string name="weather_title">El temps</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="yesterday">Ahir</string>
 </resources>
