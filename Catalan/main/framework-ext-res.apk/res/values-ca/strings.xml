@@ -94,6 +94,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ara no</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ves a la Configuració</string>
     <string name="fp_nav_center_action_choose_dlg_title">Premeu ràpid per accedir a l\'escriptori</string>
+    <string name="freeform_exchange_tip2">Arrossegueu-ho a la cantonada per cancel·lar-ho</string>
     <string name="frequent_email">Correu d’ús freqüent</string>
     <string name="frequent_phrases">Frases freqüents</string>
     <string name="functions_are_being_developed">Aquesta funció estarà disponible ben aviat. Estigueu atents!</string>

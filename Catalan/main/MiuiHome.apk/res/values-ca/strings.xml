@@ -325,8 +325,11 @@
     <string name="home_screen">Pantalla d\'inici</string>
     <string name="home_slide_up_action">Llisqueu amunt a la Pantalla d\'inici</string>
     <string name="home_switch_personal_assistant">Pantalla -1</string>
+    <string name="icon_customize_summary">Seleccioneu l\'estil i ajusteu la mida</string>
+    <string name="icon_form">Icones</string>
     <string name="icon_reorganize_channel">Organitza les icones</string>
     <string name="icon_size">Mida de la icona</string>
+    <string name="icon_style">Estil</string>
     <string name="image_too_small_message">"La imatge original no és prou gran"</string>
     <string name="install">Instal·la</string>
     <string name="invalid_contact_shortcut">El contacte no és vàlid</string>
@@ -343,6 +346,7 @@
     <string name="launcher_slide_up_title">Llisqueu amunt a la Pantalla d\'inici</string>
     <string name="launcher_sliding_up_gesture">Llisqueu amunt a la Pantalla d\'inici per obrir la cerca</string>
     <string name="launcher_title">Pantalla d\'inici i recents</string>
+    <string name="lib_name">Filament Android</string>
     <string name="like">Preferit</string>
     <string name="liked">S\'ha agregat als favorits</string>
     <string name="loading_desktop">Un moment…</string>
@@ -515,6 +519,8 @@
     <string name="recommend_loading">S\'està carregant</string>
     <string name="recommend_refresh">Actualitza</string>
     <string name="recommend_xout">"No ho mostris"</string>
+    <string name="remove_dialog_message">Les aplicacions seleccionades contenen funcions essencials del sistema. Només podeu suprimir les dreceres de la pantalla d\'inici.</string>
+    <string name="remove_dialog_title_format">Voleu suprimir \"%s\" de la pantalla d\'inici?</string>
     <string name="remove_invalidate_gadget_tips">Un dels ginys que utilitzeu ja no està disponible. Podeu afegir-ne un altre.</string>
     <string name="reset_cate_tip_content">Si continueu, es restauraran els grups d\'aplicacions per defecte. Voleu continuar de totes maneres?</string>
     <string name="reset_cate_tip_title">Restaura els grups per defecte</string>

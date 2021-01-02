@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
+    <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">suprimeix</string>
+    <string name="abc_menu_enter_shortcut_label">retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
+    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="accessibility_enabled">S\'ha activat l\'accessibilitat.</string>
     <string name="agree">D\'acord</string>
     <string name="agree_and_next">D\'acord</string>
@@ -20,12 +47,14 @@
     <string name="application_permissions">Permisos de l\'aplicació</string>
     <string name="back">Enrere</string>
     <string name="backup_introduction">Podeu utilitzar aquesta aplicació per fer una còpia de seguretat i restaurar els elements del vostre dispositiu.</string>
+    <string name="boot_video_replay">Torna a reproduir</string>
+    <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
     <string name="camera_introduction">Podeu utilitzar la Càmera per fer fotos i enregistrar vídeos.</string>
-    <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament informació sobre la versió del vostre dispositiu, dades d’identificació del dispositiu (inclosa l’adreça IMEI / IMSI / MSISDN / MAC, MEID / ICCID) i informació d’ubicació aproximada (inclosa l’ID de l’estació base) a la operador mitjançant Wi-Fi, xarxa de dades mòbils o SMS gratuïts. El transportista es compromet a analitzar informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no divulgarà informació rellevant a tercers en cap forma que us identifiqui personalment. Prevaldrà la declaració específica del transportista. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
+    <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament la informació de la versió del dispositiu, les dades d'identificació del dispositiu (incloent-hi IMEI/IMSI/MSISDN/l'adreça MAC, MEID/ICCID) i la informació d'ubicació aproximada (inclòs l'ID de l'estació base) a l'operadora mitjançant la WLAN, la xarxa de dades mòbils o SMS gratuït. L'operadora es compromet a analitzar la informació rellevant només per millorar la qualitat dels serveis o per proporcionar serveis o tecnologies personalitzades, i no revelarà la informació rellevant a tercers de cap manera que l'identifiqui personalment. Prevaldrà la declaració específica de l'operadora. Consulti a la seva operadora sobre el cost d'utilitzar aquest servei."</string>
     <string name="clock_introduction">Podeu utilitzar aquesta aplicació per veure l\'hora, així com utilitzar el temporitzador, el rellotge mundial, el cronòmetre, configurar les alarmes i més.</string>
     <string name="close_location_service_setting">Podeu triar entre desactivar l’accés a la ubicació a Configuració &gt; Configuració addicional &gt; Privadesa o restringir els permisos per a aplicacions individuals a Seguretat.</string>
-    <string name="cm_terms_content">"Per tal de millorar els serveis que us proporcionen, l’operador de xarxa mòbil que escolliu pot carregar les vostres dades personals i la informació d’aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades mòbils. Aquesta informació només s’utilitzarà amb finalitats estadístiques per tal de millorar la qualitat dels serveis i proporcionar contingut més personalitzat. Aquesta informació no s’utilitzarà per identificar-vos personalment i no es divulgarà a tercers."</string>
+    <string name="cm_terms_content">"Per tal de millorar els serveis que se us proporcionen, l'operadora de la xarxa mòbil que trieu pot carregar les vostres dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes WLAN o connexió de dades mòbils. Aquesta informació només s’utilitzarà amb finalitats estadístiques per tal de millorar la qualitat dels serveis i proporcionar contingut més personalitzat. Aquesta informació no s'utilitzarà per identificar-lo personalment i no es revelarà a tercers."</string>
     <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
     <string name="compass_introduction">Podeu utilitzar aquesta aplicació per la navegació, així com per veure les coordenades, la pressió atmosfèrica i l\'altitud.</string>
     <string name="congratulation_label">"Gaudiu del nou telèfon :)"</string>
@@ -36,7 +65,7 @@
     <string name="content_description_start">Inicia</string>
     <string name="content_introduction">El Centre de Contingut agrega contingut i serveis de diversos canals. Aquí podeu llegir articles, veure vídeos, veure articles destacats diàriament i rebre recomanacions de contingut.</string>
     <string name="continue_to_enable_accessibility">Mantén premuts els dos dits avall per activar l\'accessibilitat.</string>
-    <string name="data_traffic_enable_dialog_title">"Si no esteu connectats a Wi-Fi ara, el vostre dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar despeses de transportistes addicionals."</string>
+    <string name="data_traffic_enable_dialog_title">"Si ara no esteu connectat a la WLAN, el dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar càrrecs addicionals de l’operador."</string>
     <string name="desc_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
     <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
     <string name="diagnose_report">Envieu les dades de diagnòstic per localitzar i analitzar els problemes del sistema i millorar l’experiència d\'usuari. Aquestes dades poden incloure informació personal (per exemple, IP, ubicació, etc.)</string>
@@ -74,6 +103,7 @@
     <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
     <string name="item_fingerprint">Empremta</string>
     <string name="item_lock_screen_password">Només bloqueig de pantalla</string>
+    <string name="item_lock_screen_password_only">Bloqueig de pantalla</string>
     <string name="ktlocation_U">(Agent de servei KT)</string>
     <string name="ktposition_header">Compartir informació sobre localització amb agències de rescat d’emergència</string>
     <string name="language_picker_other_languages_title">Més idiomes</string>
@@ -94,6 +124,8 @@
     <string name="move_data_dialog_cancel">Cancel · lar</string>
     <string name="move_data_dialog_title">Més endavant podeu restringir la connexió de dades per a mòbils a la configuració</string>
     <string name="move_data_dialog_use">Utilitzeu</string>
+    <string name="msim_setting_default_data">SIM de dades</string>
+    <string name="msim_setting_default_voice">SIM per defecte per a trucades</string>
     <string name="multisim_settings_category">Configuració de targeta SIM</string>
     <string name="multisim_settings_title">S\'han detectat 2 targetes SIM</string>
     <string name="navigation_picker_gesture_guide">Guia de gestos</string>
@@ -175,13 +207,17 @@
     <string name="pref_title_voice_slot">Targeta SIM de veu preferida</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="protect_persoanl_info_statement">Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.</string>
+    <string name="provision_back">Enrere</string>
     <string name="provision_inputmethod_policy_description">"
 Vegeu la política de privadesa del teclat seleccionat."</string>
     <string name="provision_inputmethod_policy_description1">Política de privadesa</string>
+    <string name="provision_next">Següent</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="recorder_introduction">Podeu utilitzar aquesta aplicació per enregistrar àudio i fer còpies de seguretat al núvol.</string>
     <string name="require_authority_statement">Per permetre’ns proporcionar-vos serveis bàsics, heu de concedir els següents permisos per tal que puguem recopilar la vostra informació personal:</string>
     <string name="require_network_authority_statement">Per permetre’ns proporcionar-vos serveis bàsics, us heu de connectar a Internet i atorgar els permisos següents per tal que puguem recopilar la vostra informació personal:</string>
     <string name="screen_recording_introduction">"Aquesta aplicació us permet enregistrar el que passa a la pantalla."</string>
+    <string name="search_menu_title">Cerca</string>
     <string name="security_introduction">Podeu utilitzar aquesta aplicació per netejar la brossa del dispositiu, trobar i neutralitzar els virus, optimitzar el rendiment per a jocs, estalviar bateria, gestionar les aplicacions, permisos i molt més.</string>
     <string name="security_mobile_account_introduction">Per iniciar la sessió i gestionar els comptes del sistema</string>
     <string name="service_agreement">"He llegit i he acceptat els termes i condicions."</string>
@@ -214,7 +250,6 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
     <string name="sim_card_detecting">S\'està comprovant la targeta SIM&#8230;</string>
     <string name="sim_card_detecting_check">"No s'ha pogut trobar la targeta SIM. Assegureu-vos que la targeta SIM estigui instal·lada correctament i que disposi de prou saldo."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Voleu permetre la connexió a la xarxa de dades mòbils? Si ho fa, la targeta SIM que introduïu s\'utilitzarà per connectar-se a la xarxa de dades mòbils.</string>
-    <string name="sim_card_detecting_title">Comprova si hi ha targeta SIM</string>
     <string name="sim_card_detection">Inseriu una targeta SIM</string>
     <string name="sim_card_detection_info">Per inserir la targeta SIM, llegiu les instruccions subministrades amb el dispositiu.</string>
     <string name="sim_card_detection_mobile_not_available">"La targeta SIM no s'ha pogut connectar a la xarxa"</string>

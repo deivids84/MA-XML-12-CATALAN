@@ -102,6 +102,9 @@
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="game_view_content_description">Vista del joc</string>
+    <string name="geometry_summary">Formes, llum i colors</string>
+    <string name="geometry_super_wallpaper_label">Geometria</string>
+    <string name="geometry_title">Geometria</string>
     <string name="install_failed">"No s'ha pogut instal·lar"</string>
     <string name="mars_id">mart</string>
     <string name="mars_position_content_0">"Aquesta regió conté penya-segats, altiplans i àmplies valls plans, que es creu que van ser causades per glaceres cobertes de runes. Aquí també s'han detectat minerals d'argila, que són de gran interès en la recerca de proves de vida a l'antic Mart.
@@ -139,6 +142,17 @@ dd/M"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
+    <string name="miuix_appcompat_cancel_description">Cancel·la</string>
+    <string name="miuix_appcompat_confirm_description">Confirma</string>
+    <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -205,6 +219,9 @@ mm"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Anells llunyans</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="snowmountain_summary">Vessants de la muntanya Siguniang il·luminats pel sol</string>
+    <string name="snowmountain_super_wallpaper_label">Cims nevats</string>
+    <string name="snowmountain_title">Cims nevats</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Clar i lluminós</string>
@@ -304,6 +321,7 @@ mm"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">Súper fons de pantalla</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Més</string>
     <string name="wallpaper_setting_title">Fons de pantalla</string>
+    <string name="weather_summary">Informació meteorològica local</string>
     <string name="weather_super_wallpaper_label">El temps</string>
     <string name="weather_title">El temps</string>
     <string name="wednesday">Dimecres</string>

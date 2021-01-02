@@ -1194,6 +1194,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_google_lens_summary">Enfoqueu la càmera a dades de contacte, URL\'s hi ha codis QR per veure les opcions disponibles</string>
     <string name="pref_google_lens_title">Suggeriments de lents</string>
     <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
+    <string name="pref_hdr10_hdr10plus_video_mode_description">Optimitzeu els colors per als vídeos 4K (HDR10+) i 8K (HDR10). Aquesta funció només funciona en dispositius compatibles amb HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">Optimitza els colors i el contrast de vídeos de 4K i 8K de forma automàtica. Els vídeos optimitzats només es poden reproduir en dispositius compatibles amb HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="pref_hdr10plus_video_mode_description">Optimitzeu els colors i ajusteu el contrast per als vídeos 4K i 8K. Aquesta funció només funciona en dispositius compatibles amb HDR10 +.</string>

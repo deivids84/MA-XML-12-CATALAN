@@ -100,6 +100,10 @@
         <item quantity="other">"El dispositiu no s'ha desblocat des de fa %d hores. Confirmeu el PIN."</item>
         <item quantity="one">"El dispositiu no s'ha desblocat des de fa %d hora. Confirmeu el PIN."</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Torneu-ho a provar d\'aquí a %d segons.</item>
+        <item quantity="one">Torneu-ho a provar d\'aquí a 1 segon.</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d noves notificacions</item>
         <item quantity="one">%d nova notificació</item>

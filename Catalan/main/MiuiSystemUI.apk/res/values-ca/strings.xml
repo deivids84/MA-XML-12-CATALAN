@@ -259,7 +259,7 @@
     <string name="accessibility_vpn_on">VPN activat.</string>
     <string name="accessibility_waiting_for_fingerprint">En espera de l’empremta</string>
     <string name="accessibility_wifi_name">Connectat a %s.</string>
-    <string name="accessibility_wifi_off">WLAN està desactivada.</string>
+    <string name="accessibility_wifi_off">La WLAN està desactivada.</string>
     <string name="accessibility_wifi_one_bar">WLAN una barra.</string>
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
@@ -1398,6 +1398,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="output_title">Sortida multimèdia</string>
     <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
     <string name="overview">Descripció general</string>
+    <string name="owner_info_settings_edit_text_hint">"Per exemple, l'Android d'en David."</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="phone_hint">Llisca des de la icona del telèfon</string>
     <string name="phone_label">obre el telèfon</string>
@@ -1559,6 +1560,11 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_cellular_detail_data_usage">Ús de dades</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilitzats</string>
     <string name="quick_settings_cellular_detail_data_warning">Advertència de %s</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Les dades mòbils (WCDMA/LTE) quedaran desactivades. Tret que utilitzeu la WLAN, ja no podreu utilitzar les aplicacions que requereixin una connexió de dades. L\'enviament o recepció de missatges multimèdia estarà restringit.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Les dades mòbils s\'activaran. La connexió a xarxes mòbils pot comportar càrrecs addicionals en funció del vostre pla de pagament.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancel·la</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">D\'acord</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Desactiva</string>
     <string name="quick_settings_cellular_detail_over_limit">Per sobre del límit</string>
     <string name="quick_settings_cellular_detail_remaining_data">Dades disponibles</string>
     <string name="quick_settings_cellular_detail_title">Dades mòbils</string>
@@ -1647,7 +1653,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
     <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
-    <string name="quick_settings_wifi_label">Wifi</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wifi_no_network">Sense xarxa</string>
     <string name="quick_settings_wifi_not_connected">No connectat</string>
     <string name="quick_settings_wifi_off_label">WLAN desactivada</string>
@@ -1875,6 +1881,7 @@ d MMM"</string>
     <string name="time_unit_just_now">Ara mateix</string>
     <string name="title_convert_fbe">Convertint en xifrat basat en fitxers…</string>
     <string name="title_usb_accessory">Accessori USB</string>
+    <string name="torch_high_temperature_warning">"El dispositiu està sobreescalfat. Ara no es pot utilitzar el lot."</string>
     <string name="touch_filtered_warning">Com que una aplicació oculta una sol·licitud de permís, la configuració no pot verificar la vostra resposta.</string>
     <string name="track_frame_time">Perfil de la renderització de la GPU</string>
     <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>

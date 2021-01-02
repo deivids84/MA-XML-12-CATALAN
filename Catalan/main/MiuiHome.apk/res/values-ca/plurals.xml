@@ -16,6 +16,10 @@
         <item quantity="other">%1$d elements seleccionats</item>
         <item quantity="one">%1$d element seleccionat</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Voleu suprimir %1$d aplicacions de la pantalla d\'inici?</item>
+        <item quantity="one">Voleu suprimir %1$d aplicació de la pantalla d\'inici?</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">Pàgina %1$d, %2$d aplicacions.</item>
         <item quantity="one">Pàgina %1$d, %2$d aplicació.</item>

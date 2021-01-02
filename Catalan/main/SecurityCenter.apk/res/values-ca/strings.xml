@@ -965,6 +965,7 @@ Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de
     <string name="dialog_roaming_warning_checkbox">"No ho tornis a mostrar"</string>
     <string name="dialog_roaming_warning_message">L\'operador us cobrarà una quota després d\'activar la itinerància de dades internacionals. Voleu activar-la de totes maneres?</string>
     <string name="dialog_roaming_warning_ok">Activa</string>
+    <string name="dialog_skt_roaming_warning_ok">D\'acord</string>
     <string name="dialog_title_attention">Atenció</string>
     <string name="dialog_title_auto_start_declare">Quant a l\'inici automàtic</string>
     <string name="dialog_title_stop_virus_scan">Atura l\'escaneig de seguretat</string>

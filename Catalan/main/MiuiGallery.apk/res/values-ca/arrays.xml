@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Blanc</item>
+        <item>Blau fosc</item>
+        <item>Blau clar</item>
+        <item>Vermell</item>
+        <item>Verd</item>
+        <item>Rosa</item>
+        <item>Marró</item>
+        <item>Gris</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Seleccioneu la imatge</item>
+        <item>Fons transparent</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Dia especial</item>
         <item>Dia per recordar</item>
@@ -79,6 +93,128 @@
     <string-array name="last_year_group_people">
         <item>Nous amics i vells amics</item>
         <item>"Trobades de l'any passat"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Oci</item>
+        <item>Brisa</item>
+        <item>Somnis</item>
+        <item>Núvols</item>
+        <item>Pensaments</item>
+        <item>Brots</item>
+        <item>Metamorfosi</item>
+        <item>Profunditat</item>
+        <item>Reflexions</item>
+        <item>Minimalista</item>
+        <item>Misteri</item>
+        <item>Boira</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Converteix els fons en esbossos</item>
+        <item>Fons d\'estil aquarel·la</item>
+        <item>Cyberpunk retro</item>
+        <item>Segments verticals desplaçats</item>
+        <item>Difuminat borrós</item>
+        <item>Sensació futurista</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Esbós</item>
+        <item>Aquarel·la</item>
+        <item>RGB</item>
+        <item>Persianes</item>
+        <item>Finestra de boira</item>
+        <item>Tecnologia</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Contorn de colors</item>
+        <item>Contorn amb guions</item>
+        <item>Contorn fluorescent</item>
+        <item>Ombra de colors</item>
+        <item>Ona elèctrica</item>
+        <item>Actual</item>
+        <item>Text</item>
+        <item>Ales</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>General</item>
+        <item>Viatges</item>
+        <item>Feina</item>
+        <item>Documents</item>
+        <item>Educació</item>
+        <item>Exàmens</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Seguretat Social</item>
+        <item>Declaració de salut</item>
+        <item>Assegurança mèdica</item>
+        <item>ID</item>
+        <item>Permís de residència</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Un cun</item>
+        <item>Dos cuns</item>
+        <item>Més petit que un cun</item>
+        <item>Més petit que dos cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Sol·licitud d’admissió</item>
+        <item>Xarxa d\'estudiants</item>
+        <item>Xarxa d\'estudiants per a escoles de primària</item>
+        <item>Perfil de la xarxa d\'estudiants</item>
+        <item>Admissió universitària</item>
+        <item>NCEE</item>
+        <item>Reprèn</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Prova d\'anglès universitari 1</item>
+        <item>Prova d’anglès universitari 2</item>
+        <item>Prova d\'anglès universitari 3</item>
+        <item>Prova de competència Putonghua 1</item>
+        <item>Prova de competència Putonghua 2</item>
+        <item>Prova d’anglès del grau</item>
+        <item>PET per a col·legis</item>
+        <item>PETS Nivell 3</item>
+        <item>Examen nacional de classificació informàtica 1</item>
+        <item>Examen nacional de classificació informàtica 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Certificació de professor de primària i secundària</item>
+        <item>Certificació del professorat</item>
+        <item>"Permís de conduir"</item>
+        <item>Permís de guia</item>
+        <item>Permís de guia electrònic</item>
+        <item>Examen judicial nacional</item>
+        <item>Certificat electrònic de constructor de primera classe</item>
+        <item>Certificat de constructor de segona classe</item>
+        <item>Examen de títol de comptabilitat junior</item>
+        <item>Comptable públic certificat</item>
+        <item>Permís de guia de Pequín</item>
+        <item>Examen intermedi de títol comptable</item>
+        <item>Examen de títol comptable sènior</item>
+        <item>Certificat de qualificació comptable</item>
+        <item>Examen del certificat de comptable públic</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Estats Units</item>
+        <item>Vietnam</item>
+        <item>Japó</item>
+        <item>Hong Kong i Macau</item>
+        <item>Corea del Sud</item>
+        <item>Tailàndia (turista)</item>
+        <item>Tailàndia (a l\'arribada)</item>
+        <item>Índia</item>
+        <item>Israel</item>
+        <item>Taiwan</item>
+        <item>Malàisia</item>
+        <item>Nova Zelanda</item>
+        <item>Itàlia</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Islàndia</item>
+        <item>Kenya</item>
     </string-array>
     <string-array name="month">
         <item>Gener</item>

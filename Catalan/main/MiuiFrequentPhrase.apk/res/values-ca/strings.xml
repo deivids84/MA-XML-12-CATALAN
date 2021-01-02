@@ -6,6 +6,7 @@
     <string name="edit_frequent_phrases">Edita les frases freqüents</string>
     <string name="frequent_phrases_des">Introduïu frases freqüents amb només uns quants tocs mentre editeu text</string>
     <string name="frequent_phrases_size_exceeded">Podeu afegir fins a %1$d frases freqüents. Suprimiu les innecessaries per afegir-ne més.</string>
+    <string name="input_method_clipboard_add_to_phrase_success">Afegit a frases freqüents</string>
     <string name="input_method_clipboard_check_more_add_to_phrase">Afegeix una frase freqüent</string>
     <string name="input_method_clipboard_check_more_copy">Copia</string>
     <string name="input_method_clipboard_check_more_delete">Suprimeix</string>

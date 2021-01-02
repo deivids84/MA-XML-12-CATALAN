@@ -32,6 +32,7 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Contrau</string>
+    <string name="access_denied_info">Massa intents. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="account_bind_secure_email_title">Afegiu un correu electrònic de recuperació</string>
     <string name="account_bind_secure_phone_title">Afegiu un número de telèfon de recuperació</string>
     <string name="account_crop_user_avatar">Escapça la foto</string>
@@ -68,6 +69,8 @@
     <string name="activate_email_notice">Assegureu-vos d’activar el vostre compte en 24 hores</string>
     <string name="activity_not_found_notice">"No trobo l'aplicació"</string>
     <string name="ad">Anunci</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostra els esdeveniments a l\'area de notificacions</string>
+    <string name="ad_bar_notification_setting_title">Esdeveniments</string>
     <string name="ad_buy">Compra</string>
     <string name="ad_download">descarregar</string>
     <string name="ad_join">Unir-se a la comunitat</string>
@@ -149,6 +152,7 @@
     <string name="cast_tracks_chooser_dialog_ok">D\'acord</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Subtítols</string>
     <string name="cast_unmute">No activa</string>
+    <string name="catchplay_video">Catchplay</string>
     <string name="change_activate_email">Canvia l\'adreça de correu electrònic</string>
     <string name="change_password">Canvia la contrasenya</string>
     <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
@@ -398,6 +402,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_gallery_video_save_video">Creació de vídeo…</string>
     <string name="galleryplus_gallery_video_slow_edit">Càmera lenta</string>
     <string name="galleryplus_gallery_view_tags">Mostra les marques</string>
+    <string name="galleryplus_is_higher_definition">Vista prèvia en HD</string>
     <string name="galleryplus_network_connect_check">"No s'ha pogut connectar a la xarxa"</string>
     <string name="galleryplus_network_connect_confirm">Connecta’t a Wi-Fi o activa les dades mòbils a la configuració de la xarxa.</string>
     <string name="galleryplus_network_error">"No s'ha pogut connectar a la xarxa"</string>
@@ -407,6 +412,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_online_cta_disagree">"No estic d'acord"</string>
     <string name="galleryplus_online_cta_title">Termes i condicions</string>
     <string name="galleryplus_online_video_loading">Un moment…</string>
+    <string name="galleryplus_orientation_lock">S\'ha bloquejat l\'orientació correctament</string>
+    <string name="galleryplus_orientation_unlock">L\'orientació de la pantalla està desbloquejada</string>
     <string name="galleryplus_permission_content">Doneu a Mi Video els permisos necessaris per poder utilitzar aquesta funció.</string>
     <string name="galleryplus_permission_content2">"Per poder utilitzar aquesta funció, aneu a Configuració &gt; Aplicacions &gt; Mi Video &gt; Permisos d'aplicacions i permetre a Mi Video fer el següent:
 
@@ -461,6 +468,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="history_local_video">Local</string>
     <string name="history_online_video">En línia</string>
     <string name="hot">Popular</string>
+    <string name="i_know">Entesos</string>
     <string name="id_namespace">Hungama</string>
     <string name="identity">Identificació</string>
     <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
@@ -482,6 +490,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="language_setting_tips">S\'ha desat correctament. Podeu modificar les preferències d\'idioma a la configuració.</string>
     <string name="language_setting_tips_dialog">Podeu seleccionar preferències d\'idioma per al contingut del llenguatge del compte &gt;.</string>
     <string name="later">No desactivar-ho</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite d\'Android basada en SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per a Android</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView ràpid (i dibuixable) que admet les cantonades arrodonides (i ovals o cercles) basat en l\'exemple original de Romain Guy.</string>
     <string name="live_now">Viu ara</string>
     <string name="live_title">En directe</string>
@@ -660,7 +670,10 @@ Envieu aquest codi al supervisor."</string>
     <string name="my_favorite_channels">Els meus canals preferits</string>
     <string name="my_feedback_title">El meu comentari</string>
     <string name="need_update_app">Actualitza Mi Video per utilitzar totes les seves funcions</string>
+    <string name="network_connect_info">"No s'ha pogut connectar a la xarxa."</string>
+    <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
     <string name="network_failed">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="network_timeout_info">"No s'ha pogut connectar a la xarxa. Torneu-ho a provar."</string>
     <string name="neverthink_player_loading">S\'està carregant el vídeo …desvetllar</string>
     <string name="new_channel_tip">Doneu un cop d\'ull als nous canals.</string>
     <string name="next">Pròxim</string>
@@ -693,6 +706,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="off_tip_firework_recommend">"No rebràs recomanacions de contingut personalitzat de Firework"</string>
     <string name="ok">D\'acord</string>
     <string name="on_tip_firework_recommend">"Rebràs recomanacions de contingut personalitzat de Firework"</string>
+    <string name="open_settings">Configuració</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
     <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>
@@ -934,6 +948,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="plus_menu_delete_popup_text">Vols suprimir ara?</string>
     <string name="plus_menu_properties">Propietats</string>
     <string name="plus_menu_rename">Canviar el nom</string>
+    <string name="plus_menu_rename_cant_empty">"El nom del fitxer no pot estar buit"</string>
     <string name="plus_menu_rename_fail">"El nom de fitxer no pot contenir \"/\""</string>
     <string name="plus_menu_share">Compartir</string>
     <string name="plus_mine_gallery">Els meus àlbums</string>
@@ -1029,6 +1044,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="plus_sort_type_time">Temps</string>
     <string name="plus_tab_gallery">Carpetes</string>
     <string name="plus_tab_time">Cronologia</string>
+    <string name="progressbar_title">S\'està comprovant si hi ha problemes de seguretat…</string>
     <string name="psw_hint">Contrasenya</string>
     <string name="psw_sign_in">Inicieu sessió utilitzant la contrasenya</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Estireu per actualitzar…</string>
@@ -1066,6 +1082,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="report_content_violence">El discurs de l\'odi</string>
     <string name="report_fail">"No s'ha pogut informar Torna-ho a provar."</string>
     <string name="report_success">S\'ha informat correctament</string>
+    <string name="request_camera_permission_message">"Protegirem la vostra informació personal d’acord amb les lleis i regulacions pertinents. Aquesta aplicació necessita els permisos següents per funcionar amb normalitat:&lt;br&gt;&lt;br&gt;&lt;b&gt;Utilitzar la càmera (per configurar la foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no accepteu concedir aquests permisos, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vosaltres. Sempre podeu restringir els permisos o revocar la vostra autorització a la configuració."</string>
     <string name="resend_active_email">Reenvia</string>
     <string name="resend_email_reach_limit_message">"Heu sol·licitat massa correus de verificació. Assegureu-vos que el correu de verificació no estigui a la carpeta de correu brossa de la safata d'entrada."</string>
     <string name="resend_email_reach_limit_title">Massa intents</string>
@@ -1162,6 +1179,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="sync_favorites_limit">"Hi ha més de 500 vídeos als teus favorits. Per continuar sincronitzant, hem de suprimir alguns dels vídeos anteriors."</string>
     <string name="sync_favorites_message">Sincronitzar els favorits d’aquest dispositiu amb el vostre compte? Els elements que ja no estan disponibles seran eliminats.</string>
     <string name="sync_favorites_title">Sincronitza els favorits</string>
+    <string name="system_error_info">El sistema està ocupat. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="t_check_hide_file">Seleccioneu els elements que voleu amagar</string>
     <string name="t_check_unhide_file">Seleccioneu els elements que voleu publicar</string>
     <string name="t_downloading">Descàrrega:</string>
@@ -1214,6 +1232,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="ugc_no_net">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="ui_log_tip">Toqueu aquesta àrea per ocultar-la, manteniu premuda per eliminar els registres antics. Arrossegueu els registres manualment.</string>
     <string name="unknow">Desconegut</string>
+    <string name="unknown_error_info">Error desconegut</string>
     <string name="update">Actualitza</string>
     <string name="update_email_address_dialog_message">Heu de verificar la vostra identitat abans d’actualitzar el correu de recuperació.</string>
     <string name="update_email_address_dialog_title">Actualitza el correu de recuperació</string>

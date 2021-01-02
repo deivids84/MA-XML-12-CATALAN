@@ -24,7 +24,11 @@
     <string name="change_passwork_dialog_title">Voleu actualitzar la contrasenya?</string>
     <string name="delete">Suprimeix</string>
     <string name="invalid_package_signature">La signatura de l\'aplicació no és vàlida</string>
+    <string name="login_mi_account_alert">Recordatori</string>
+    <string name="login_mi_account_summary">Per activar el gestor de contrasenyes, heu d’iniciar sessió al compte de Xiaomi; voleu iniciar la sessió?</string>
     <string name="ok">D\'acord</string>
+    <string name="password_manager">Gestor de contrasenyes</string>
+    <string name="password_manager_summary">Gestor de contrasenyes al núvol, fa una còpia de seguretat al compte de Xiaomi</string>
     <string name="save_content_tip">"Es desaran els següents elements: "</string>
     <string name="search">Cerca</string>
     <string name="settings_clear_data_confirmation_description">"Si suprimiu les contrasenyes ara, les haureu d’introduir manualment la pròxima vegada que inicieu la sessió.

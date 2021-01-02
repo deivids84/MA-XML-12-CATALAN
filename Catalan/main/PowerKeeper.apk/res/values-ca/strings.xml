@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_extreme_mode">Estalvi extrem de bateria</string>
     <string name="about_hide_mode">Quant a l\'estalvi de bateria</string>
+    <string name="accessibility_service_description">Estalvi de bateria</string>
     <string name="active_classify">Ordena per estat de l’activitat</string>
     <string name="adaptive_battery_summary">"Limiteu l'ús de bateria en aplicacions que no utilitzeu sovint"</string>
     <string name="adaptive_battery_title">Utilitza la bateria adaptativa</string>

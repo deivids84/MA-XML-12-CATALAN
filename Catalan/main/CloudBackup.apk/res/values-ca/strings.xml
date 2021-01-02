@@ -177,7 +177,7 @@ Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de se
     <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
     <string name="help_and_feedback">Ajuda i comentaris</string>
     <string name="hint_restore_cross_space">La disposició de la pantalla inicial pot sortir incorrecta si transferiu elements entre espais.</string>
-    <string name="home_hint_global_launcher">Interfície d\'inici Poco</string>
+    <string name="home_hint_global_launcher">Llançador POCO</string>
     <string name="home_hint_other_launcher">Un altre llançador</string>
     <string name="home_restore_error">"No s'ha pogut restaurar la pantalla d'inici"</string>
     <string name="lack_of_storage">No hi ha prou espai d\'emmagatzematge</string>

@@ -725,6 +725,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
     <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
     <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
+    <string name="pref_summary_enable_ad_notification">Activeu les agrupacions de notificacions sobre els missatges promocionals a l\'area de notificacions</string>
     <string name="pref_summary_enable_classify">Mou els missatges promocionals i financers a pestanyes separades</string>
     <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
     <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
@@ -744,6 +745,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_title_auto_delete">Elimina missatges antics</string>
     <string name="pref_title_card_format">Format de targeta compartida</string>
     <string name="pref_title_delivery_reports">Estat de lliurament</string>
+    <string name="pref_title_enable_ad_notification">Missatges promocionals</string>
     <string name="pref_title_enable_classify">Agrupa els missatges automàticament</string>
     <string name="pref_title_fwd_sender_info">Reenvia informació del remitent</string>
     <string name="pref_title_manage_sim_messages">Emmagatzematge de la targeta SIM</string>

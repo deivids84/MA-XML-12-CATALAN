@@ -5,6 +5,11 @@
         <item>Fons de pantalla/Súper fons de pantalla/Casa</item>
         <item>Terra;Súper fons de pantalla;Edició Terra;Fons de pantalla</item>
     </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Wallpaper/Super wallpapers/Geometry</item>
+        <item>Geometry;Abstract;Super wallpaper;Wallpaper</item>
+    </string-array>
     <string-array name="settings_search_mars">
         <item>El planeta vermell</item>
         <item>Fons de pantalla/Súper fons de pantalla/El planeta vermell</item>
