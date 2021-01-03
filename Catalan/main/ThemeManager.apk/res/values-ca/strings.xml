@@ -980,6 +980,7 @@ Veureu una imatge nova cada hora."</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
     <string name="super_wallpaper">Súper fons de pantalla</string>
+    <string name="super_wallpaper_list_footer_text">Estigueu atents a les nostres novetats!</string>
     <string name="super_wallpaper_list_label">Súper fons de pantalla</string>
     <string name="super_wallpaper_setting_apply_success_toast">S\'ha aplicat correctament</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Aplica</string>

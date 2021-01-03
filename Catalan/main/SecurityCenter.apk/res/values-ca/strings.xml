@@ -143,6 +143,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
     <string name="adjust_traffic_data">Estableix l\'ús de dades</string>
     <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
+    <string name="ai_allow_all">Decideix per mi en tots els casos</string>
     <string name="alert_back_diving_mode_summary">Voleu desactivar el mode Immersió?</string>
     <string name="alert_back_diving_mode_title">Mode Immersió</string>
     <string name="alert_back_milink_hangup_tips_content">"L’emissió no s’interromp mentre finalitzeu una trucada. Podeu prémer el botó d'encesa per encendre la pantalla."</string>
@@ -196,6 +197,10 @@
     <string name="app_behavior_about_content_no_link">"MIUI pot mostrar quan les aplicacions van obrir altres aplicacions, es van iniciar automàticament, van utilitzar permisos i van realitzar accions delicades. A causa dels problemes de compatibilitat amb la versió d'Android, és possible que alguns d'aquests registres no siguin exactes. Si trobeu un registre de comportament d’una aplicació que no sigui exacte, informeu-nos mitjançant l’aplicació \"Serveis i comentaris\"."</string>
     <string name="app_behavior_about_negative">Informa de les inexactituds</string>
     <string name="app_behavior_about_positive">Entesos</string>
+    <string name="app_behavior_access_gallery">%1s ha accedit a la galeria</string>
+    <string name="app_behavior_access_gallery_single">Aquesta aplicació ha accedir a la galeria</string>
+    <string name="app_behavior_access_sociality">%1s ha accedit als missatges de les aplicacions de xarxes socials</string>
+    <string name="app_behavior_access_sociality_single">Aquesta aplicació ha accedit als missatges de les aplicacions de xarxes socials</string>
     <string name="app_behavior_allowed">Permet</string>
     <string name="app_behavior_audio">%1s ha enregistrat àudio</string>
     <string name="app_behavior_audio_bg">%1s ha enregistrat àudio en segon pla</string>
@@ -229,6 +234,8 @@
     <string name="app_behavior_contacts_bg">%1s ha accedit als vostres contactes en segon pla</string>
     <string name="app_behavior_contacts_bg_single">Aquesta aplicació ha accedit als vostres contactes en segon pla</string>
     <string name="app_behavior_contacts_single">Aquesta aplicació ha accedit als vostres contactes</string>
+    <string name="app_behavior_delete_pic">%1s elements suprimits de la Galeria</string>
+    <string name="app_behavior_delete_pic_single">Aquesta aplicació ha suprimit elements de la Galeria</string>
     <string name="app_behavior_denied">Restringeix</string>
     <string name="app_behavior_desc_allow_once">Es permet a %1$s</string>
     <string name="app_behavior_desc_deny_once">Es restringeix a %1$s</string>
@@ -241,6 +248,7 @@
     <string name="app_behavior_key_camera">Fent fotos</string>
     <string name="app_behavior_key_location">Ubicació</string>
     <string name="app_behavior_key_protect">Protegiu la informació personal</string>
+    <string name="app_behavior_link_start">Inici de la cadena</string>
     <string name="app_behavior_list_load_more">S\'està carregant…</string>
     <string name="app_behavior_location">%1s ha accedit a la vostra ubicació</string>
     <string name="app_behavior_location_bg">%1s ha accedit a la vostra ubicació en segon pla</string>
@@ -302,6 +310,8 @@
     <string name="app_behavior_settings_category_privacy">Protegiu la informació personal</string>
     <string name="app_behavior_settings_perm_tips">Mostra una alerta a la barra d\'estat quan les aplicacions accedeixin a la ubicació, enregistren l\'àudio o fan fotos</string>
     <string name="app_behavior_settings_privacy_tips">Rebeu notificacions quan les aplicacions accedeixen als vostres contactes, historial de trucades o realitzen altres accions delicades</string>
+    <string name="app_behavior_share_file">Compartir fitxers</string>
+    <string name="app_behavior_share_picture">Compartir imatges</string>
     <string name="app_behavior_sms_read">%1s ha llegit els SMS</string>
     <string name="app_behavior_sms_read_single">Aquesta aplicació ha llegit els SMS</string>
     <string name="app_behavior_sms_send">%1s ha enviat SMS</string>
@@ -965,7 +975,14 @@ Es podrien esborrar totes les dades del dispositiu i restablir la contrasenya de
     <string name="dialog_roaming_warning_checkbox">"No ho tornis a mostrar"</string>
     <string name="dialog_roaming_warning_message">L\'operador us cobrarà una quota després d\'activar la itinerància de dades internacionals. Voleu activar-la de totes maneres?</string>
     <string name="dialog_roaming_warning_ok">Activa</string>
+    <string name="dialog_skt_roaming_warning_cancel">No estic d\'acord</string>
+    <string name="dialog_skt_roaming_warning_message">"Llegiu i accepteu les condicions següents per utilitzar la itinerància de dades. Es poden aplicar càrrecs internacionals en itinerància de dades. Sense un pla d’itinerància de dades, es poden aplicar càrrecs importants a les aplicacions que s’actualitzen automàticament, com ara les aplicacions relacionades amb les xarxes socials, el correu electrònic i el temps.
+ * Si no esteu d'acord en utilitzar la itinerància de dades, es desactivarà la itinerància de dades.
+ * HD Voice s'utilitza per defecte a les xarxes compatibles.
+ * La itinerància de dades 5G només està disponible a les nostres xarxes associades.
+"</string>
     <string name="dialog_skt_roaming_warning_ok">D\'acord</string>
+    <string name="dialog_skt_roaming_warning_title">Acord d\'itinerància de dades</string>
     <string name="dialog_title_attention">Atenció</string>
     <string name="dialog_title_auto_start_declare">Quant a l\'inici automàtic</string>
     <string name="dialog_title_stop_virus_scan">Atura l\'escaneig de seguretat</string>
@@ -1252,6 +1269,7 @@ targeta mèdica"</string>
     <string name="face_unlock_verity_dialog_summary">Verifiqueu les dades facials</string>
     <string name="face_unlock_verity_dialog_title_failed">"No us podem reconèixer"</string>
     <string name="face_unlock_verity_dialog_title_succeed">S\'ha verificat correctament</string>
+    <string name="file_confirm_start_activity">"%s no té permís per accedir a la Galeria ni a les aplicacions de xarxes socials. Aquesta aplicació vol accedir als fitxers emmagatzemats en aquest dispositiu per compartir elements. Ho voleu permetre?"</string>
     <string name="finger_remind_message">Afegiu primer la vostra empremta. Toqueu per obrir Configuració.</string>
     <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
     <string name="fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta. Introduïu la contrasenya"</string>
@@ -1391,6 +1409,7 @@ targeta mèdica"</string>
     <string name="fw_blocked_join">" i "</string>
     <string name="fw_oversea">Bloqueja trucades des de l\'estranger</string>
     <string name="fw_oversea_content">Bloqueja les trucades entrants dels números de telèfon estrangers</string>
+    <string name="gallery_confirm_start_activity">"%s no té permís per accedir a la Galeria ni a les aplicacions de xarxes socials. Aquesta aplicació vol accedir a les imatges emmagatzemades en aquest dispositiu per compartir elements. Ho voleu permetre?"</string>
     <string name="game_ad_recommendation">Tothom està jugant</string>
     <string name="game_anti_disturb_msg">Joc no molestis</string>
     <string name="game_booster">Accelerador de velocitat dels jocs</string>
@@ -1589,6 +1608,7 @@ i exploreu el nostre Canviador de veu."</string>
     <string name="gb_voice_changer_user_status_no_login">Inicia la sessió al Compte Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Data de caducitat: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renova</string>
+    <string name="gb_voice_changer_user_tips_info_vip_expire">La subscripció ha caducat. Renoveu la subscripció ara per obtenir avantatges!</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Registra els moments clau
 de les teves sessions de joc"</string>
     <string name="gb_wonderful_video_cancel">Cancel·la</string>
@@ -2333,6 +2353,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permgroupdesc_sms">Llegir o enviar SMS</string>
     <string name="permgroupdesc_storage">Accedir a fotos i fitxers del dispositiu</string>
     <string name="permission_action_accept">D\'acord</string>
+    <string name="permission_action_ai_prompt">Decideix per mi</string>
     <string name="permission_action_always">Permet sempre</string>
     <string name="permission_action_desc">Doneu permisos però torneu missatges en blanc a l\'aplicació per protegir la privadesa</string>
     <string name="permission_action_desc_always">Aquest permís es pot utilitzar en qualsevol moment</string>
@@ -2995,6 +3016,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="prompt_input_time_illegal">"No es pot establir aquesta hora, canvia-la i intenta-ho de nou"</string>
     <string name="protocol_exception_title">Diagnòstics de protocol de xarxa</string>
     <string name="protocol_loop_back_exception_summary">La prova de bucle local ha fallat de nou. Per informar sobre aquesta qüestió a MIUI, aneu a l\'aplicació d\'informe d\'errors i envia un registre del dispositiu.</string>
+    <string name="provision_back">Enrere</string>
+    <string name="provision_next">Següent</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="qucick_replay_instrument">Utilitza respostes ràpides a les notificacions dels missatgers seleccionats (per exemple, WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">S\'està escanejant</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"No s'ha pogut allargar la vida útil de la bateria"</string>
@@ -3014,12 +3038,16 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
     <string name="read_all_sms">Tot llegit</string>
     <string name="read_and_write_clipboard">Accediu i guardeu elements al porta-retalls</string>
+    <string name="read_clipboard_ai_action_desc">Rebeu notificacions sempre que es permeti o restringeixi l\'accés</string>
     <string name="read_clipboard_ai_close_no">Ara no</string>
     <string name="read_clipboard_ai_close_tip">"Ja no rebreu notificacions quan les aplicacions accedeixin al porta-retalls. En lloc d’això, se’ls permetrà utilitzar aquest permís només mentre utilitzeu l’aplicació. Voleu ajustar els permisos?"</string>
     <string name="read_clipboard_ai_close_yes">Ajustar</string>
+    <string name="read_clipboard_op_content">Rebeu notificacions sempre que es permeti o restringeixi l\'accés</string>
     <string name="read_clipboard_op_title">Notifiqueu quan les aplicacions accedeixen als elements del porta-retalls</string>
     <string name="read_clipboard_tip_content">Aquest permís permet a les aplicacions llegir qualsevol contingut que copieu, que pot incloure informació privada (per exemple, detalls del compte, números de targeta bancària i contrasenyes).</string>
     <string name="read_clipboard_tip_title">Accés als elements del porta-retalls</string>
+    <string name="real_location_off">La ubicació aproximada està activada</string>
+    <string name="real_location_on">La ubicació aproximada està desactivada</string>
     <string name="receive_now">Rebre</string>
     <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
     <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
@@ -3945,6 +3973,7 @@ Dades extres en ús"</string>
     <string name="videobox_settings_switch_desc">Efectes especials i funcions per a la reproducció de vídeo</string>
     <string name="videobox_settings_switch_title">Caixa d\'eines de vídeo</string>
     <string name="videobox_settings_title">Caixa d\'eines de vídeo</string>
+    <string name="view_traffic_detail">Mostra els detalls</string>
     <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
     <string name="virus_update_tips_title">Advertència</string>
     <string name="virus_wait_network_dialog_message">"El vostre telèfon ja no està connectat a Wi-Fi. Feu servir la connexió de dades mòbils?"</string>

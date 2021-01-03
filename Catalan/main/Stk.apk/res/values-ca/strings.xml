@@ -71,5 +71,7 @@
     <string name="stk_dialog_accept">SÍ</string>
     <string name="stk_dialog_reject">NO</string>
     <string name="stk_dialog_title">Eines SIM</string>
+    <string name="stk_ic_remove_content">"Després de suprimir la drecera de la pantalla d'inici, encara podreu utilitzar el joc d'eines USIM mitjançant l'aplicació Configuració."</string>
+    <string name="stk_ic_remove_title">Voleu suprimir el joc d\'eines USIM de la pantalla d\'inici?</string>
     <string name="stk_no_service">No hi ha cap servei disponible</string>
 </resources>

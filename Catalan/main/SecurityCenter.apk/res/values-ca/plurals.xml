@@ -180,6 +180,12 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"Proveu el canviador de veu ara
+per obtenir %d dia de prova gratuïta!"</item>
+        <item quantity="other">"Proveu el canviador de veu ara
+per obtenir %d dies de prova gratuïta!"</item>
+    </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">"No s'ha pogut rebre una prova gratuïta de %ddies"</item>
         <item quantity="one">"No s'ha pogut rebre una prova gratuïta de %ddies"</item>
@@ -191,6 +197,12 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="gb_voice_changer_user_status_get_trial_card">
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"La subscripció ha caducat.
+Podeu obtenir %d dies de prova gratuïta ara!"</item>
+        <item quantity="one">"La subscripció ha caducat.
+Podeu obtenir %d dia de prova gratuïta ara!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
@@ -287,6 +299,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Connecteu almenys %d punts</item>
         <item quantity="one">Connecteu almenys %d punt</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Connecteu almenys %s punts</item>
+        <item quantity="one">Connecteu almenys %s punt</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Espera %d segons i torneu-ho a provar."</item>
@@ -691,6 +707,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"No s'han afegit %d jocs"</item>
         <item quantity="one">"No s'ha afegit %d joc"</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Connecteu almenys %s punts</item>
+        <item quantity="one">Connecteu almenys %s punt</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Introduïu %s dígits</item>
+        <item quantity="one">Introduïu %s dígit</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d aplicacions</item>

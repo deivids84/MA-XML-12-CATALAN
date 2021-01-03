@@ -1001,6 +1001,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenció</string>
     <string name="fiveg_sa_switch_summary">Permet la connexió a xarxes 5G en mode autònom</string>
     <string name="fiveg_sa_switch_title">Mode SA</string>
+    <string name="fiveg_sa_switch_title_slot0">Mode SIM %d SA</string>
+    <string name="fiveg_sa_switch_title_slot1">Mode SIM %d SA</string>
     <string name="fiveg_sa_switch_warning_toast">Reinicieu el telèfon perquè tingui efecte.</string>
     <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>
@@ -2043,6 +2045,7 @@ Interface UT: %5$s"</string>
     <string name="stk_cc_ss_to_dial_video_error">La sol·licitud de SS ha canviat a videotrucada</string>
     <string name="stk_cc_ss_to_ss_error">La sol·licitud SS s\'ha transformat en una nova sol·licitud SS.</string>
     <string name="stk_cc_ss_to_ussd_error">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>
+    <string name="stk_name">Joc d\'eines USIM</string>
     <string name="stock_quotes_disable">Cotitzacions de borsa desactivades</string>
     <string name="stock_quotes_enable">Cotitzacions de borsa activades</string>
     <string name="storage_category">Emmagatzematge</string>

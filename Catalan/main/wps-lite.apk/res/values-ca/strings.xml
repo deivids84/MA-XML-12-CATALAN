@@ -328,6 +328,7 @@
     <string name="reader_writer_table_edit_add_column">afegir columna</string>
     <string name="reader_writer_table_edit_add_row">afegir fila</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="ss_card_mode_filter_title_text">Seleccioneu els elements que es mostraran</string>
     <string name="wps_lite_xiaomi_app_packageName">Visor de documents Mi (amb tecnologia WPS)</string>
     <string name="writer_characters">Personatges (sense espais)</string>
     <string name="writer_characters_with_spaces">Personatges (amb espais)</string>

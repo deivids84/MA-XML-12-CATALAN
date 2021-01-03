@@ -7,8 +7,8 @@
     </string-array>
     <string-array name="settings_search_geometry">
         <item>Geometria</item>
-        <item>Wallpaper/Super wallpapers/Geometry</item>
-        <item>Geometry;Abstract;Super wallpaper;Wallpaper</item>
+        <item>Fons de pantalla/Super fons de pantalla/Geometria</item>
+        <item>Geometria;Abstracte;Súper fons de pantalla;Fons de pantalla</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>El planeta vermell</item>
@@ -20,9 +20,19 @@
         <item>Fons de pantalla / Super fons de pantalla / Anells de Saturn</item>
         <item>Planeta; Saturn; Super paper pintat; Fons de pantalla</item>
     </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Cims nevats</item>
+        <item>Fons de pantalla/Super fons de pantalla/Cims nevats</item>
+        <item>Terra;Muntanyes;Súper fons de pantalla;Fons de pantalla</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>Súper fons de pantalla</item>
         <item>Fons de pantalla/Súper fons de pantalla</item>
         <item>Súper fons de pantlla;Fons de pantalla;Fons de pantalla dinàmic;Fons de pantalla 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>El temps</item>
+        <item>Fons de pantalla/Súper fons de pantalla/El temps</item>
+        <item>El Temps;Informació del temps;Súper fons de pantalla;Fons de pantalla</item>
     </string-array>
 </resources>

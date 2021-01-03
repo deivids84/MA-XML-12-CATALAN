@@ -244,12 +244,14 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
     <string name="service_policy"><Data>Llegiu i accepteu la nostra &lt;a href=%1$s&gt;Política de privadesa&lt;/a &gt;.</Data></string>
     <string name="service_policy_download"><Data>Abans d’utilitzar els nostres serveis, llegiu i accepteu &lt;a href=%1$s&gt;Política de privadesa de Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Política de privadesa</string>
+    <string name="service_security_over_r"><Data>Llegiu i accepteu la nostra &lt;a href=%1$s&gt;Política de privadesa&lt;/a &gt; abans d\'utilitzar Seguretat.&lt;br/&gt;&lt;br/&gt;D\'acord amb els estàndards d\'Android 11, es retirarà un permís únic en un termini de 5 segons després que l\'aplicació corresponent deixi de funcionar. Si obriu l\'aplicació durant aquest curt període de temps, es retirarà el permís.</Data></string>
     <string name="servicestate_title">Declaració sobre els serveis bàsics</string>
     <string name="setting_locale">S\'està ajustant la configuració regional&#8230;</string>
     <string name="shut_down">Tanca</string>
     <string name="sim_card_detecting">S\'està comprovant la targeta SIM&#8230;</string>
     <string name="sim_card_detecting_check">"No s'ha pogut trobar la targeta SIM. Assegureu-vos que la targeta SIM estigui instal·lada correctament i que disposi de prou saldo."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Voleu permetre la connexió a la xarxa de dades mòbils? Si ho fa, la targeta SIM que introduïu s\'utilitzarà per connectar-se a la xarxa de dades mòbils.</string>
+    <string name="sim_card_detecting_title">S\'està comprovant la targeta SIM…</string>
     <string name="sim_card_detection">Inseriu una targeta SIM</string>
     <string name="sim_card_detection_info">Per inserir la targeta SIM, llegiu les instruccions subministrades amb el dispositiu.</string>
     <string name="sim_card_detection_mobile_not_available">"La targeta SIM no s'ha pogut connectar a la xarxa"</string>

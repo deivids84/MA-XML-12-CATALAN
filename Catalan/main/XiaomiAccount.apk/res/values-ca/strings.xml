@@ -172,6 +172,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="diagnosis_log_sent_format">"S'ha enviat el registre correctament.
 ID:%s
 Envieu aquest codi al supervisor."</string>
+    <string name="download_file">S\'està baixant %s…</string>
     <string name="empty_device_list_notice">No hi ha dispositius</string>
     <string name="ep_unsupported">"No es pot iniciar la sessió al compte Mi al dispositiu"</string>
     <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
@@ -389,6 +390,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_login_instead_reg">Utilitza aquest número</string>
     <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
     <string name="passport_login_other_account">Un altre compte</string>
+    <string name="passport_login_other_phone">Utilitzeu un altre compte</string>
     <string name="passport_login_prompt">Tots els serveis Mi. Un compte Mi.</string>
     <string name="passport_login_recycle_account_yes">Sí</string>
     <string name="passport_login_title">Inicieu la sessió al vostre compte de Mi</string>
@@ -404,6 +406,10 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_prev">Enrere</string>
     <string name="passport_privacy_policy">Política de privadesa</string>
     <string name="passport_privacy_policy_required">Política de privadesa (obligatòria)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">Les vostres dades personals s’emmagatzemaran d’acord amb les lleis i regulacions de la regió que seleccioneu.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caràcters d\'almenys <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dels tipus següents: lletres, dígits, símbols especials</string>
     <string name="passport_pwd_generate_failure">"No s'ha pogut generar la contrasenya"</string>
     <string name="passport_pwd_generating">S\'està generant…</string>
     <string name="passport_querying_phone_info">S\'està sol·licitant la informació del compte…</string>
@@ -439,6 +445,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_register_restricted_title">"No es pot fer servir aquest número de telèfon"</string>
     <string name="passport_register_using_other_ways">Altres formes de crear un compte</string>
     <string name="passport_registered_phone_num">Telèfon: %s</string>
+    <string name="passport_registered_phone_num_v2">Número de telèfon</string>
     <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
     <string name="passport_registered_phone_user_name">Nom d\'usuari: %s</string>
     <string name="passport_reject_recycle_account">No</string>
@@ -520,6 +527,9 @@ Envieu aquest codi al supervisor."</string>
     <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="provision_back">Enrere</string>
+    <string name="provision_next">Següent</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="push_notification_content">Obtén el codi de verificació</string>
     <string name="push_notification_title">Heu iniciat la sessió al vostre compte Mi en un dispositiu desconegut</string>
     <string name="push_notify_dialog_message">"S'utilitza un dispositiu desconegut per iniciar la sessió al vostre compte de Mi. Introduïu aquest codi de verificació al dispositiu. Si no fos així, canvieu la contrasenya del compte Mi de seguida. No divulgueu el codi de verificació a altres persones."</string>

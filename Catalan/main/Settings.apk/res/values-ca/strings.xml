@@ -103,6 +103,7 @@ No totes les aplicacions admeten aquesta configuració."</string>
     <string name="accessibility_feature_state_off">Apaga</string>
     <string name="accessibility_feature_state_on">Activat</string>
     <string name="accessibility_global_gesture_preference_title">Drecera de Facilitat d\'accés</string>
+    <string name="accessibility_haptic">Accessibilitat</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s actiu</string>
     <string name="accessibility_hearingaid_adding_summary">Afegeix audiòfons</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Continua</string>
@@ -160,6 +161,7 @@ No podeu ampliar el teclat ni la barra de navegació."</string>
     <string name="accessibility_screen_magnification_summary">Feu un zoom ràpid a la pantalla per visualitzar el contingut amb més claredat.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Per fer zoom:&lt;/b&gt;&lt;br/&gt; 1. Utilitzeu la drecera per iniciar la ampliació&lt;br/&gt; 2. Toqueu la pantalla&lt;br/&gt; 3. Arrossegueu dos dits per desplaçar-vos per la pantalla&lt;br/&gt; 4. Poseu amb 2 dits per ajustar el zoom&lt;br/&gt; 5. Utilitzeu la drecera per aturar la ampliació.&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Per fer zoom de manera temporal:&lt;/b&gt;&lt;br/&gt; 1. Utilitzeu la drecera per iniciar la ampliació&lt;br/&gt; 2. Toqueu &amp; manteniu premut qualsevol part de la pantalla&lt;br/&gt; 3. Arrossegueu el dit per desplaçar-vos per la pantalla&lt;br/&gt; 4. Aixequeu el dit per aturar la ampliació.</string>
     <string name="accessibility_screen_magnification_title">Gestos per fer zoom</string>
     <string name="accessibility_screen_option">Opcions</string>
+    <string name="accessibility_screen_reader_haptic_title">Lector de pantalla</string>
     <string name="accessibility_service_action_perform_description">Es pot realitzar un seguiment de les seves interaccions amb una aplicació o un sensor del maquinari i interactuar amb aplicacions en nom seu.</string>
     <string name="accessibility_service_action_perform_title">Mostra i realitza accions</string>
     <string name="accessibility_service_default_description">Sense descripció.</string>
@@ -391,6 +393,8 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="additional_permissions_more">%1$d més</string>
     <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
     <string name="adjust_3d_depth_title">"Ajusta la profunditat dels jocs 3D"</string>
+    <string name="adjust_font_size_answer_cn">Proveu d’ajustar la mida del text i el pes de la lletra mitjançant els control lliscants que hi ha a continuació.</string>
+    <string name="adjust_font_size_answer_global">Proveu d’ajustar la mida del text mitjançant el control lliscant que hi ha a continuació.</string>
     <string name="adjust_temperature_title">Temperatura del color</string>
     <string name="admin_device_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb aquest dispositiu, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
     <string name="admin_disabled_other_options">L\'administrador ha desactivat altres opcions.</string>
@@ -536,6 +540,7 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="app_and_notification_dashboard_summary">Permisos, aplicacions per defecte</string>
     <string name="app_and_notification_dashboard_title">Aplicacions i notificacions</string>
     <string name="app_backup">Còpia de seguretat</string>
+    <string name="app_bluetooth_device_blacklist">Llista de bloqueig Bluetooth</string>
     <string name="app_cellular_data_usage">Ús de dades de l\'aplicació</string>
     <string name="app_default_dashboard_title">Aplicacions per defecte</string>
     <string name="app_detail">Detalls</string>
@@ -757,6 +762,7 @@ Darrera execució el %2$s"</string>
     <string name="average_used">Mitjana d\'ús (%)</string>
     <string name="avoid_ui">Resposta de tacte bloqueig</string>
     <string name="awake">Hora d\'inici del dispositiu</string>
+    <string name="back">Enrere</string>
     <string name="back_button">Enrere</string>
     <string name="back_double_tap">Feu doble toc</string>
     <string name="back_key">Enrere</string>
@@ -1046,6 +1052,8 @@ Aplicacions:
     <string name="bluetooth_audio_share_feature_notice_title">Comparteix àudio</string>
     <string name="bluetooth_battery_level">%1$s de bateria</string>
     <string name="bluetooth_battery_level_untethered">E: %1$s de bateria, D: %2$s de bateria</string>
+    <string name="bluetooth_blacklist_cancel_remove_device">Cancel·la</string>
+    <string name="bluetooth_blacklist_remove_device">Desbloqueja</string>
     <string name="bluetooth_broadcasting">Difusió</string>
     <string name="bluetooth_confirm_passkey_msg">Per a vincular amb:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Comproveu que es mostra el codi:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
     <string name="bluetooth_connect_failed">"No s'ha pogut connectar. Torneu-ho a provar."</string>
@@ -3203,6 +3211,16 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="haptic_generate_small_window_gestures_09_content_description">Finestra flotant</string>
     <string name="haptic_icon_sorting_12_content_description">Reorganització de les icones</string>
     <string name="haptic_index_bar_10_content_description">Barra de desplaçament</string>
+    <string name="haptic_lock_screen_11_content_description">Dispositiu de bloqueig</string>
+    <string name="haptic_multitasking_card_long_press_03_content_description">Manteniu premuda una previsualització de l\'aplicació</string>
+    <string name="haptic_multitasking_gestures_04_content_description">Obertures recents</string>
+    <string name="haptic_preview">Demostracions</string>
+    <string name="haptic_return_gesture_05_content_description">Torna enrere</string>
+    <string name="haptic_shutdown_menu_06_content_description">Menú d’aturada</string>
+    <string name="haptic_single_selection_02_content_description">Element seleccionat</string>
+    <string name="haptic_text_edit_popup_13_content_description">Menú emergent</string>
+    <string name="haptic_upper_right_menu_15_content_description">Menú desplegable</string>
+    <string name="haptic_volume_adjustment_14_content_description">Ajust del volum</string>
     <string name="hardkeyboard_category">Configuració de teclat físic</string>
     <string name="hardware_info">Model i maquinari</string>
     <string name="hardware_revision">Versió del maquinari</string>
@@ -3263,6 +3281,7 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="homepage_all_settings">Tots els paràmetres</string>
     <string name="homepage_condition_footer_content_description">Redueix</string>
     <string name="homepage_personal_settings">Suggeriments</string>
+    <string name="how_adjust_font_size">Com puc ajustar la mida del text?</string>
     <string name="how_backup_content">"Podeu desar les còpies de seguretat localment o al núvol. Les còpies de seguretat locals es poden emmagatzemar al vostre dispositiu mòbil, ordinador o unitat USB.
 
 Dispositiu mòbil
@@ -3442,6 +3461,8 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="interact_across_profiles_switch_enabled">Connectat</string>
     <string name="interact_across_profiles_title">Treball connectat &amp; aplicacions personals</string>
     <string name="interaction_control_category_title">Controls d\'interacció</string>
+    <string name="interesting_text">Les sensacions tàctils realistes fan que la vostra interacció amb la pantalla sigui més clara i articulada.</string>
+    <string name="interesting_title">Tacte realista</string>
     <string name="internal_memory">Emmagatzematge intern</string>
     <string name="internal_storage">Emmagatzematge intern</string>
     <string name="internet_connectivity_panel_title">Connectivitat a Internet</string>
@@ -3872,6 +3893,7 @@ com el PIN del primer espai. "</string>
     <string name="lockpassword_clear_label">Neteja</string>
     <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
     <string name="lockpassword_confirm_label">Confirma</string>
+    <string name="lockpassword_confirm_passwords_dont_match">"Les contrasenyes no coincideixen"</string>
     <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
     <string name="lockpassword_confirm_workspace_password">Verifiqueu la contrasenya d\'espai de treball</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirmeu la contrasenya</string>
@@ -4037,6 +4059,11 @@ com el PIN del primer espai. "</string>
     <string name="manual">Manual</string>
     <string name="manual_mode_disallowed_summary">No disponible quan es connecta a %1$s</string>
     <string name="manually_add_network">Afegeix una xarxa</string>
+    <string name="mashup_sound">Barreja de natura</string>
+    <string name="mashup_sound_africa">Sabana</string>
+    <string name="mashup_sound_amazon">Selva</string>
+    <string name="mashup_sound_arctic">L’Àrtic</string>
+    <string name="mashup_sound_australia">Austràlia</string>
     <string name="master_clear_accounts">"«
 
 Heu iniciat la sessió als següents comptes:
@@ -4194,6 +4221,13 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">potent</string>
+    <string name="miheadset_audio_mode">mode d\'àudio</string>
+    <string name="miheadset_audio_mode_high">alta qualitat</string>
+    <string name="miheadset_audio_mode_listen">escolta</string>
+    <string name="miheadset_audio_mode_normal">mode normal</string>
+    <string name="miheadset_audio_mode_summary">canvia el mode d\'àudio</string>
+    <string name="miheadset_auto_ack_mode">mode auto ack</string>
+    <string name="miheadset_auto_ack_mode_summary">accediu automàticament al telèfon</string>
     <string name="miheadset_bright">brillant</string>
     <string name="miheadset_call_assist">truca ai</string>
     <string name="miheadset_cancel_device">Cancel·la</string>
@@ -4204,6 +4238,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_define_self">defineix-te</string>
     <string name="miheadset_disconnect">Desconnecta</string>
     <string name="miheadset_disconnect_device">Voleu desconnectar aquest dispositiu?</string>
+    <string name="miheadset_double_click_key_mode">mode de tecla de doble clic</string>
+    <string name="miheadset_double_click_key_mode_summary">canvia el mapa de tecles de doble clic</string>
     <string name="miheadset_double_click_left">Feu doble toc a l\'auricular esquerre</string>
     <string name="miheadset_double_click_right">Feu doble toc a l\'auricular esquerre</string>
     <string name="miheadset_enhence_high">per tant elevat</string>
@@ -4211,18 +4247,27 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_equalizer">Equalitzador</string>
     <string name="miheadset_game_mode">Mode de joc</string>
     <string name="miheadset_game_mode_summary">Reduïu el retard d’àudio mentre jugueu</string>
+    <string name="miheadset_ignore">Desemparella</string>
     <string name="miheadset_in_ear_check">Detecta la presència de l\'oïda</string>
     <string name="miheadset_in_ear_check_summary">Poseu en pausa i repreneu la reproducció automàticament mentre porteu o traieu els auriculars</string>
     <string name="miheadset_last_version">El firmware està actualitzat</string>
+    <string name="miheadset_minus">menys</string>
     <string name="miheadset_moreSettingsInAi">Configuració addicional</string>
+    <string name="miheadset_multi_connect_mode">mode de connexió múltiple</string>
+    <string name="miheadset_multi_connect_mode_summary">connecteu més d\'un dispositiu alhora</string>
     <string name="miheadset_next">següent</string>
     <string name="miheadset_ok_device">D\'acord</string>
     <string name="miheadset_openAnc">Cancel·lació de soroll</string>
     <string name="miheadset_play_pause">reproduir/pausar</string>
+    <string name="miheadset_plus">més</string>
     <string name="miheadset_rename">Canvia el nom</string>
     <string name="miheadset_rename_device">Canvia el nom</string>
     <string name="miheadset_soft">suau</string>
     <string name="miheadset_transparent">Transparència</string>
+    <string name="miheadset_triple_click_key_mode">mode de tecla de triple clic</string>
+    <string name="miheadset_triple_click_key_mode_summary">mapa de tecles de triple clic</string>
+    <string name="miheadset_unpair_device">cancel·lar l\'emparellament?</string>
+    <string name="miheadset_unpair_device_text">Tots els dispositius associats amb aquest compte de Xiaomi se suprimiran</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fitxers diversos</string>
     <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
@@ -4458,6 +4503,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Trieu una data</string>
     <string name="mtrl_picker_range_header_prompt">Trieu un interval de dates</string>
+    <string name="muffled_text">Les freqüències baixes accentuen suaument les transicions visuals i fan que els gestos siguin més naturals</string>
     <string name="multi_face_delete_message">Atenció</string>
     <string name="multi_face_delete_show_message">Vols suprimir les dades de la cara ara?</string>
     <string name="multi_face_input">Afegiu dades de cara</string>
@@ -4483,6 +4529,8 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="my_device_info_account_preference_title">Compte</string>
     <string name="my_device_info_device_name_preference_title">Nom del dispositiu</string>
     <string name="n_cacrts">%d certificats de CA</string>
+    <string name="natural_haptic">Tacte natural</string>
+    <string name="natural_haptic_summary">Els nous patrons de retroalimentació hàptica aporten una dimensió addicional a tot el que veieu i toqueu a la pantalla.</string>
     <string name="nature_color">Per defecte</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Llisqueu cap amunt des de la part inferior de la pantalla i feu lliscar cap a l’esquerra o la dreta</string>
     <string name="navigation_guide_app_quick_switch_summary">Llisqueu cap a l’esquerra o a la dreta des de l’indicador de pantalla completa o a la part inferior de la pantalla</string>
@@ -5070,6 +5118,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="personal_data_section_title">Dades personals</string>
     <string name="personal_profile_app_subtext">Personal</string>
     <string name="personal_section_title">Personalització</string>
+    <string name="personalize_title">Personalització i fons de pantalla</string>
     <string name="phone_backup_summary">Fa una còpia de seguretat i restaura els elements d\'aquest dispositiu</string>
     <string name="phone_backup_title">Dispositiu mòbil</string>
     <string name="phone_call_noise_suppression">Supressió de fressa durant la trucada</string>
@@ -5080,6 +5129,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="picture_color_mode">Mode de color de la imatge</string>
     <string name="picture_color_mode_desc">Utilitza sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Permet a aquesta aplicació crear una finestra d'imatge dins d'imatge mentre l'aplicació estigui oberta o després que la deixeu (per exemple, per seguir veient un vídeo). Aquesta finestra es mostrarà sobre d'altres aplicacions que utilitzeu."</string>
+    <string name="picture_in_picture_app_detail_switch">Permet Imatge en imatge</string>
     <string name="picture_in_picture_app_detail_title">Imatge dins d\'imatge</string>
     <string name="picture_in_picture_empty_text">No hi ha cap aplicació instal·lada compatible amb imatge dins d\'imatge</string>
     <string name="picture_in_picture_keywords">imatge en imatge imatge en</string>
@@ -5190,6 +5240,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="power_usage_old_debug">%1$s restants (Vella est)</string>
     <string name="power_usage_summary">Elements que han utilitzat la bateria</string>
     <string name="power_usage_summary_title">Bateria i rendiment</string>
+    <string name="power_usage_summary_title_new">Bateria</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicacions pre-instal·lades</string>
     <string name="pref_bg_network_title">Connexió en segon pla</string>
@@ -5447,6 +5498,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="provision_next">Següent</string>
     <string name="provision_page_layout_confirm_message">Per aplicar aquests canvis el dispositiu s\'ha de reiniciar. Trigarà aproximadament 1 minut.</string>
     <string name="provision_skip">Omet</string>
+    <string name="provision_skip_underline">Omet</string>
     <string name="proxy_action_text">Fet</string>
     <string name="proxy_clear_text">Esborra</string>
     <string name="proxy_defaultView_text">Restaura els valors per defecte</string>
@@ -5713,16 +5765,26 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_dark_mode_smart_dark_title">Mode fosc global</string>
     <string name="screen_dark_mode_time_title">Programa el mode fosc</string>
     <string name="screen_effect">Contrast i colors</string>
+    <string name="screen_enhance_engine_ai_note">%d. Aquesta funció augmenta lleugerament el consum d\'energia.</string>
+    <string name="screen_enhance_engine_ai_note_2">%d. Només es poden millorar les imatges de l\'aplicació Galeria.</string>
+    <string name="screen_enhance_engine_ai_note_3">"%d. Aquesta funció no funcionarà si decidiu mostrar colors originals o aplicar-hi ajustos avançats."</string>
     <string name="screen_enhance_engine_ai_open">Millorar les imatges</string>
+    <string name="screen_enhance_engine_ai_pic_summary">"Identifica objectes (per exemple, plantes, animals, edificis) i ajusta dinàmicament els efectes de visualització. "</string>
     <string name="screen_enhance_engine_ai_title">Millora de la imatge AI</string>
     <string name="screen_enhance_engine_memc_note">"No es poden millorar els vídeos quan la super resolució està activada. Si activeu els vídeos millorats, desactivareu la super resolució."</string>
+    <string name="screen_enhance_engine_memc_note_1">Aquesta funció augmenta lleugerament el consum d\'energia.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
+    <string name="screen_enhance_engine_memc_pic_summary">"Afegeix fotogrames addicionals als vídeos per fer que el contingut sembli suau i faci una transició animada. "</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
     <string name="screen_enhance_engine_s2h_open">Millora AI HDR</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">"Processa els vídeos amb efectes HDR per obtenir més detalls a les zones més clares i fosques. "</string>
     <string name="screen_enhance_engine_s2h_title">Millora AI HDR</string>
     <string name="screen_enhance_engine_sr_for_pic">Millorar les imatges</string>
     <string name="screen_enhance_engine_sr_for_video">Millorar els vídeos</string>
     <string name="screen_enhance_engine_sr_for_video_note">"La super resolució no funciona amb els vídeos millorats. Si activeu la super resolució, desactivareu els vídeos millorats."</string>
+    <string name="screen_enhance_engine_sr_note">Aquesta funció augmenta lleugerament el consum d\'energia.</string>
+    <string name="screen_enhance_engine_sr_pic_summary">"Amplia la resolució d’imatges i vídeos. "</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">"Amplia la resolució dels vídeos. "</string>
     <string name="screen_enhance_engine_sr_title">Super resolució</string>
     <string name="screen_enhance_engine_title">Motor d\'imatges AI</string>
     <string name="screen_enhance_status_disable">Desactivat</string>
@@ -6364,6 +6426,8 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="show_background_processes">Mostra els processos en memòria cau</string>
     <string name="show_badge_notifications_short">Insígnies</string>
     <string name="show_carrier_under_keyguard_title">Mostra l\'operador quan el dispositiu està bloquejat</string>
+    <string name="show_charging_in_non_lockscreen_animation">Mostra l\'animació de càrrega després de desbloquejar el dispositiu</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">Continua mostrant l\'animació de càrrega després de desbloquejar el dispositiu, amagant-la només per a la reproducció de vídeo i altres escenes de pantalla completa similars</string>
     <string name="show_connected_devices_summary">Mostra els dispositius connectats</string>
     <string name="show_connected_devices_title">Dispositius connectats</string>
     <string name="show_dev_already">No cal, ja sou un desenvolupador.</string>
@@ -6596,12 +6660,15 @@ Abans d’utilitzar els nostres serveis, llegiu i accepteu els nostres %s."</str
     <string name="sound_category_system_title">Sistema</string>
     <string name="sound_dashboard_summary">Volum, vibració, no molestis</string>
     <string name="sound_effects_enable_title">Sons en tocar</string>
+    <string name="sound_haptic_settings">So i tacte</string>
     <string name="sound_mode">Mode silenci i No molestis</string>
     <string name="sound_settings">So</string>
     <string name="sound_settings_example_summary">Volum de notificació del número &amp; al 80%</string>
     <string name="sound_settings_summary">Volum de notificació &amp; anella %1$s</string>
     <string name="sound_settings_summary_silent">S\'ha silenciat el timbre</string>
     <string name="sound_settings_summary_vibrate">El timbre s\'ha configurat per vibrar</string>
+    <string name="sound_settings_tab_haptic">Tacte</string>
+    <string name="sound_settings_tab_sound">So</string>
     <string name="sound_stereo_mode_summary">Només disponible quan es reprodueixi so amb l\'altaveu</string>
     <string name="sound_stereo_mode_title">So estèreo</string>
     <string name="sound_title">So</string>
@@ -6611,6 +6678,7 @@ Abans d’utilitzar els nostres serveis, llegiu i accepteu els nostres %s."</str
     <string name="speaker_clean">Neteja l\'altaveu</string>
     <string name="special_access">Accés especial</string>
     <string name="special_access_more">Mostra\'n més</string>
+    <string name="special_preview">Demostracions</string>
     <string name="speed_label_fast">Ràpida</string>
     <string name="speed_label_medium">Mitjana</string>
     <string name="speed_label_okay">D\'acord</string>
@@ -6965,6 +7033,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="swipe_up_to_switch_apps_title">Navegació de 2 botons</string>
     <string name="switchNetworkToast">La connexió a xarxes mòbils pot generar tarifes addicionals</string>
     <string name="switch_access_service_on">Canvia l’accés</string>
+    <string name="switch_bootup_sound">Àudio d\'arrencada</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
     <string name="switch_screen_button_order">Simetria dels botons</string>
@@ -7014,6 +7083,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="system_print_service_help">Quant a la impressió</string>
     <string name="system_shortcut_wake">Desperta amb els botons de drecera</string>
     <string name="system_storage">Emmagatzematge del sistema</string>
+    <string name="system_touch">Resposta hàptica</string>
     <string name="system_ui_settings">Mostra el SystemUI Tuner</string>
     <string name="system_update_settings_list_item_title">Actualitzacions del sistema</string>
     <string name="take_call_on_title">Atendre la trucada</string>
@@ -7025,6 +7095,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tap_to_wake">Toca per activar-lo</string>
     <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_style">Durant 10 segons després de tocar-ho</string>
     <string name="terms_title">Termes i condicions</string>
     <string name="testing">S\'està provant</string>
     <string name="testing_phone_info">Informació del telèfon</string>
@@ -7106,6 +7177,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_font2">Maquetació de lletra &amp;</string>
     <string name="title_font_current">Tipus de lletra del sistema</string>
     <string name="title_font_current2">Font</string>
+    <string name="title_font_settings">Configuració del tipus de lletra</string>
     <string name="title_font_size">Mida de la lletra</string>
     <string name="title_hdmi_color_calibration">Correcció predeterminada de color</string>
     <string name="title_layout_current">Mida del text</string>
@@ -7114,6 +7186,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_miui_music_mute_by_user">Mode silenci</string>
     <string name="title_of_auto_launch_manage">Inici automàtic</string>
     <string name="to_close">Desactiva</string>
+    <string name="toast_apply_font_fail">"No es pot definir el tipus de lletra"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
     <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"No es pot emetre quan s'estableix la connexió WLAN i el punt d'accés està activat."</string>
@@ -7590,7 +7663,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="user_exit_guest_confirm_title">Voleu suprimir el convidat?</string>
     <string name="user_exit_guest_dialog_remove">Suprimeix</string>
     <string name="user_exit_guest_title">Suprimeix el convidat</string>
+    <string name="user_experience_open_url">Més informació sobre el Programa d\'experiència de l\'usuari</string>
     <string name="user_experience_program">Programa d\'experiència d\'usuari</string>
+    <string name="user_experience_program_summary">Permet que Xiaomi recopili i analitzi les dades dels usuaris per millorar els productes i serveis. Llegiu els termes i condicions del nostre Programa d’experiència d’usuari per obtenir més informació.</string>
     <string name="user_experience_program_title">Inscriviu-vos al programa d’experiència d’usuari</string>
     <string name="user_guest">Convidat</string>
     <string name="user_image_choose_photo">Selecciona una foto de la galeria</string>

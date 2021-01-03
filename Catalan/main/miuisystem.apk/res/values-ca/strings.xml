@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="acousticguitar">Guitarra acústica</string>
+    <string name="africaanimals_preview">Sabana</string>
     <string name="alarmclock">Despertador</string>
+    <string name="amazonanimals_preview">Selva</string>
     <string name="android_ringtone_default_with_actual">So de trucada per defecte (%1$s)</string>
     <string name="android_ringtone_silent">Cap</string>
     <string name="android_ringtone_unknown">So de trucada desconegut</string>
+    <string name="arcticanimals_preview">L’Àrtic</string>
     <string name="asend">Envia</string>
     <string name="atlantis">Atlantis (estèreo)</string>
+    <string name="australiaanimals_preview">Austràlia</string>
     <string name="beep">Pip</string>
     <string name="bells">Campanes</string>
+    <string name="birdcicada_preview">Aus i lampírids</string>
     <string name="blues">Blues</string>
     <string name="bottle">Ampolla</string>
     <string name="breeze">Brisa</string>
@@ -115,8 +120,10 @@ mm"</string>
     <string name="reveries">Reveries (estèreo)</string>
     <string name="robot">Robot</string>
     <string name="secretgarden">El jardí secret</string>
+    <string name="southwestmountain_preview">Muntanyes</string>
     <string name="spaceage">Era espacial</string>
     <string name="spring">Primavera</string>
+    <string name="stoneskimming_preview">Passos lleugers</string>
     <string name="sunrise">Sol ixent</string>
     <string name="surprise">Sorpresa</string>
     <string name="swoosh">Xiulet</string>
@@ -128,6 +135,7 @@ mm"</string>
     <string name="vip_not_login">No s\'ha iniciat sessió</string>
     <string name="vip_sign">Signatura:</string>
     <string name="wallpaper_group_black_white_title">Blanc i negre</string>
+    <string name="wallpaper_group_color_move_title">Colors líquids</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebulosa dinàmica</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
