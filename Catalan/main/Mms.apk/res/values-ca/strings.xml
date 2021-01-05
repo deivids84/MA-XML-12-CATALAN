@@ -642,6 +642,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar√
     <string name="no_block_button_msg">Desbloqueja</string>
     <string name="no_conversations">No hi ha converses</string>
     <string name="no_delivery_report">No hi ha cap informe de lliurament</string>
+    <string name="no_dialogue_yet">Seleccioneu una conversa</string>
     <string name="no_longer_recommend">"No ho tornis a mostrar"</string>
     <string name="no_network_description">"No s'ha pogut connectar a la xarxa. Comproveu la configuraci√≥ de la xarxa i torneu-ho a provar."</string>
     <string name="no_subject">(Sense assumpte)</string>

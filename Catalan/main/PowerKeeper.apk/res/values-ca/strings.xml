@@ -52,7 +52,7 @@
     <string name="config_mode_title">Configuració de segon pla</string>
     <string name="config_no_restrict_description">"L'estalvi de bateria no restringeix l'activitat de les aplicacions"</string>
     <string name="config_no_restrict_title">Sense restriccions</string>
-    <string name="config_restrict_function_description">"Algunes característiques (p. ex. les notificacions push) es poden veure afectades, però les aplicacions no es tancaran"</string>
+    <string name="config_restrict_function_description">Tanca les aplicacions després de 10 minuts d\'activitat en segon pla</string>
     <string name="config_restrict_function_title">Restringeix les aplicacions en segon pla</string>
     <string name="config_restrict_running_description">Les aplicacions es tancaran per estalviar bateria</string>
     <string name="config_restrict_running_title">Restringeix l\'activitat en segon pla</string>

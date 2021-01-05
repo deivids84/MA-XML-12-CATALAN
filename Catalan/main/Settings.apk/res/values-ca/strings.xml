@@ -469,7 +469,6 @@ L'Administrador pot supervisar i administrar la configuració, els accessos, les
     <string name="always">Sempre</string>
     <string name="always_allow_bind_appwidgets_text">Heu triat de permetre que l\'aplicació creï ginys i accedeixi a les dades.</string>
     <string name="always_running">Executa sempre (%s)</string>
-    <string name="always_style">Sempre</string>
     <string name="amber_alerts_summary">Rebre informacions sobre segrestos de nens</string>
     <string name="amber_alerts_title">Avisos AMBER</string>
     <string name="ambient_display_category_triggers">Quan mostrar</string>
@@ -2728,6 +2727,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="erase_sure">Dades personals</string>
     <string name="error_adding_apn_type">L\'operador no permet afegir APN del tipus %s.</string>
     <string name="error_apn_empty">L\'APN no pot quedar buit.</string>
+    <string name="error_apn_not_allowed">"Aquest APN no està permès en aquest dispositiu. Proveu-ne un altre."</string>
     <string name="error_apn_restrict_string">"El camp APN no pot contenir %1$s"</string>
     <string name="error_capturing_system_heap_dump_message">No s\'ha pogut capturar el bolcat de sistemes</string>
     <string name="error_mcc_not3">El camp MCC ha de tenir 3 dígits.</string>
@@ -3432,6 +3432,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="instruction_privacy_password">Aquesta contrasenya protegeix els següents elements</string>
     <string name="instruction_title">Informació important de seguretat</string>
     <string name="insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
+    <string name="intelligence_suppression_summary">Ajusta dinàmicament la mida de la zona propera a les vores on s’ignorarà el tacte accidental en funció de la vostra adherència</string>
     <string name="intelligence_suppression_title">Automàtic (recomanat)</string>
     <string name="intent_sender_account_label">Compte:</string>
     <string name="intent_sender_action_label">Acció:</string>
@@ -4245,6 +4246,11 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_enhence_high">per tant elevat</string>
     <string name="miheadset_enhence_low">per tant, freq baixa</string>
     <string name="miheadset_equalizer">Equalitzador</string>
+    <string name="miheadset_fitness_check">comprovació de la forma física</string>
+    <string name="miheadset_fitness_check_result_not_ok">mal estat físic</string>
+    <string name="miheadset_fitness_check_result_ok">bon estat físic</string>
+    <string name="miheadset_fitness_check_result_unkown">estat físic desconegut</string>
+    <string name="miheadset_fitness_check_start">inici de comprovació de forma física, espereu</string>
     <string name="miheadset_game_mode">Mode de joc</string>
     <string name="miheadset_game_mode_summary">Reduïu el retard d’àudio mentre jugueu</string>
     <string name="miheadset_ignore">Desemparella</string>
@@ -5750,7 +5756,6 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="scanning_status_text_wifi_off_ble_on">L\'escaneig Bluetooth està activat, l\'escaneig WLAN està desactivat</string>
     <string name="scanning_status_text_wifi_on_ble_off">L\'escaneig WLAN està activat, l\'escaneig Bluetooth està desactivat</string>
     <string name="scanning_status_text_wifi_on_ble_on">Tant l\'escaneig WLAN com el Bluetooth estan activats</string>
-    <string name="scheduled_style">Programat</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancel·la</string>
     <string name="screen_color_and_optimize">Colors i contrast</string>
@@ -6132,6 +6137,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
     <string name="search_system_app_settings">Aplicacions del sistema</string>
     <string name="search_theme_settings_title">Temes;Tema;Personalització;Personalitzat</string>
+    <string name="search_title_font_settings">mida de la lletra;pes de la lletra;estil de lletra</string>
     <string name="search_touch_assistant">Bola de dreceres;Assistent tàctil</string>
     <string name="search_touch_sensitive_title">Mode guants</string>
     <string name="search_trusted_credentials">Certificats de confiança</string>
@@ -7095,7 +7101,6 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="tap_to_wake">Toca per activar-lo</string>
     <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">Durant 10 segons després de tocar-ho</string>
     <string name="terms_title">Termes i condicions</string>
     <string name="testing">S\'està provant</string>
     <string name="testing_phone_info">Informació del telèfon</string>
@@ -7216,6 +7221,8 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="traffic_none">Cap</string>
     <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
     <string name="trigger_carrier_provisioning">Trigger Carrier Provisioning</string>
+    <string name="truetone_summary">Ajusta els colors a la llum ambiental</string>
+    <string name="truetone_title">Colors adaptatius</string>
     <string name="trust_lost_locks_screen_summary">Si està habilitat, el dispositiu es bloquejarà quan l’últim agent de confiança perdi la confiança</string>
     <string name="trust_lost_locks_screen_title">Bloqueja la pantalla quan es perd la confiança</string>
     <string name="trusted_credentials">Certificats de confiança</string>
@@ -7891,6 +7898,7 @@ Durant una trucada de veu, no podeu utilitzar Internet i és possible que algune
     <string name="wake_suppression_title">Àrea petita</string>
     <string name="wakeup_and_sleep_settings_category_name">Configuració de la pantalla de bloqueig</string>
     <string name="wakeup_for_keyguard_notification_title">Activa la pantalla de bloqueig en rebre notificacions</string>
+    <string name="wallet_header_title">Moneders i pagaments</string>
     <string name="wallet_reset">Només podeu retirar les vostres targetes bancàries, targetes de transport i claus Mi Pay a Mi Wallet. Voleu obrir Mi Wallet ara?</string>
     <string name="wallet_reset_cancel_btn">Ometre</string>
     <string name="wallet_reset_ok_btn">Obre</string>

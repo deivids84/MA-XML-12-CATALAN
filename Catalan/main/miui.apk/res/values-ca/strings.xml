@@ -28,12 +28,14 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Notes</string>
     <string name="com_miui_screenrecorder">Gravadora de pantalla</string>
+    <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">El temps</string>
     <string name="com_xiaomi_drivemode">Mode de cotxe</string>
     <string name="com_xiaomi_gamecenter">Jocs</string>
     <string name="com_xiaomi_jr">Finances del meu</string>
     <string name="com_xiaomi_scanner">Escàner</string>
     <string name="com_xiaomi_shop">La meva botiga</string>
+    <string name="com_xiaomi_vipaccount">Mi Community</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Confirma</string>
     <string name="copyright">Drets d\'autor</string>
@@ -53,6 +55,7 @@
     <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
     <string name="error_title">"No s'ha pogut sincronitzar"</string>
     <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'iniciar sessió.</string>
+    <string name="experience_new_system_app">Mireu les noves funcions!</string>
     <string name="fmt_date_long_month_day">MMMM d</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -193,6 +196,7 @@
     <string name="system_app_restore_failed">Hi ha hagut un error</string>
     <string name="system_app_restore_failed_detail">"No s'han pogut restaurar els elements del sistema. Comproveu la configuració de la xarxa i no reinicieu ni apagueu el dispositiu fins que no es recuperin totalment els elements. Toqueu el botó següent per tornar-ho a provar."</string>
     <string name="system_restore">Restaura els elements</string>
+    <string name="tap_to_update_system_app">Toqueu per actualitzar les aplicacions del sistema</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia de la no-agressió</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
@@ -245,6 +249,7 @@
     <string name="user_agreement">Condicions d\'ús</string>
     <string name="user_experience_program">Programa d’experiència d’usuari</string>
     <string name="user_manual">Guia de l\'usuari</string>
+    <string name="wait_for_wlan_china">A l\'espera de la WLAN</string>
     <string name="web_sso_login_fail">Ha d\'iniciar la sessió de nou</string>
     <string name="web_sso_login_message">Iniciant sessió&#8230;</string>
     <string name="website">Pàgina web</string>

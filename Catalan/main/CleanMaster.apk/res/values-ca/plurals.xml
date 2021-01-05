@@ -142,9 +142,21 @@
         <item quantity="other">&lt;Data&gt;\"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicacions no s\'han utilitzat durant molt de temps, doneu-li un cop d\'ull.\"&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;\"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicació no s\'ha utilitzat durant molt de temps, doneu-li un cop d\'ull.\"&lt;/Data&gt;</item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Suficient per a %d fotos</item>
+        <item quantity="one">Suficient per a %d foto</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Suficient per a %d cançons</item>
+        <item quantity="one">Suficient per a %d cançó</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d segons</item>
         <item quantity="one">%1$d segon</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d aplicacions amb vídeos a la memòria cau</item>
+        <item quantity="one">%d aplicació amb vídeos a la memòria cau</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s visualitzacions</item>

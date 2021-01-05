@@ -435,6 +435,7 @@
     <string name="hints_quick_cleanning">S\'està netejant&#8230;</string>
     <string name="hints_quick_cleanuping">S\'està optimitzant&#8230;</string>
     <string name="hints_quick_deep_clean">Neteja ara</string>
+    <string name="hints_quick_deep_clean2">Allibera %s</string>
     <string name="hints_quick_deep_scanning">S\'està escanejant</string>
     <string name="hints_quick_deep_uninstall">Elimina ara</string>
     <string name="hints_quick_prepare">S\'està preparant&#8230;</string>
@@ -587,6 +588,19 @@
     <string name="permission_dialog_storage_title">Permisos necessaris</string>
     <string name="phone_search">Cerca de Google</string>
     <string name="positive_confirm">D\'acord</string>
+    <string name="powerful_acceleration">Desfragmentació</string>
+    <string name="powerful_acceleration_after">Després</string>
+    <string name="powerful_acceleration_before">Abans</string>
+    <string name="powerful_acceleration_enable_summary">"La desfragmentació es realitzarà automàticament mentre no utilitzeu el dispositiu"</string>
+    <string name="powerful_acceleration_enable_title">Realitzar la desfragmentació en segon pla</string>
+    <string name="powerful_acceleration_item_button">Activa</string>
+    <string name="powerful_acceleration_item_tip_normal">El vostre emmagatzematge es veu bé!</string>
+    <string name="powerful_acceleration_notification_summary">Toqueu per alliberar més espai</string>
+    <string name="powerful_acceleration_notification_title">S\'ha completat la desfragmentació</string>
+    <string name="powerful_acceleration_tip">L\'emmagatzematge intern pateix fragmentació, la qual cosa pot alentir significativament el dispositiu. La desfragmentació organitza físicament els fitxers en el menor nombre de fragments reduint el retard.</string>
+    <string name="powerful_acceleration_tip_high"><Data>Emmagatzematge &lt;font color=#ff0000 &gt;severament&lt;/font&gt; fragmentat. La desfragmentació pot resoldre el problema.</Data></string>
+    <string name="powerful_acceleration_tip_middle"><Data>Emmagatzematge &lt;font color=#ff0000 &gt;lleugerament&lt;/font&gt; fragmentat. La desfragmentació pot resoldre el problema.</Data></string>
+    <string name="powerful_acceleration_toast">"La desfragmentació es realitzarà quan no utilitzeu el dispositiu"</string>
     <string name="pref_about_privacy_title">Política de privadesa</string>
     <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
     <string name="pref_category_title_auto_update_cleanup_db">Configuració addicional</string>
@@ -652,6 +666,9 @@
     <string name="resutl_function_deep_clean_summary">Es poden esborrar <Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; fitxers més. Allibereu més espai.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Podeu esborrar &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de la memòria cau generada per QQ</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; de la memòria cau de WeChat. Allibereu més espai.</Data></string>
+    <string name="rs_clean_size_free_space">Allibera %s</string>
+    <string name="rs_clean_size_storage_size">Ocupat %1$s/%2$s</string>
+    <string name="rs_clean_size_storage_title">Emmagatzematge</string>
     <string name="sc_allow_network_dialog_button">Permet</string>
     <string name="sc_allow_network_dialog_message">Permet que aquesta aplicació es connecti a internet per rebre actualitzacions?</string>
     <string name="scanning">S\'està escanejant&#8230;</string>
@@ -738,6 +755,26 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
+    <string name="video_clean">Neteja els vídeos emmagatzemats a la memòria cau</string>
+    <string name="video_clean_auto_clean">Neteja automàticament</string>
+    <string name="video_clean_auto_clean_summary">Neteja els vídeos emmagatzemats a la memòria cau automàticament després d’escanejar-los</string>
+    <string name="video_clean_cache_tip">Els vídeos netejats es poden tornar a carregar després</string>
+    <string name="video_clean_create_desktop_icon">Drecera a la pantalla d’inici</string>
+    <string name="video_clean_create_desktop_icon_summary">Afegiu una drecera a la pantalla d\'inici per netejar els vídeos emmagatzemats a la memòria cau amb un sol toc</string>
+    <string name="video_clean_desktop_icon_created">S\'ha afegit una drecera a la pantalla d\'inici correctament</string>
+    <string name="video_clean_garbage">Vídeos emmagatzemats a la memòria cau</string>
+    <string name="video_clean_garbage_cleared">S\'han netejat els vídeos emmagatzemats a la memòria cau correctament</string>
+    <string name="video_clean_notification_summary">Neteja els vídeos emmagatzemats a la memòria cau de les aplicacions</string>
+    <string name="video_clean_notification_title">Allibera %s</string>
+    <string name="video_clean_personal_settings_title">Configuració addicional</string>
+    <string name="video_clean_qq_clean_summary">Neteja les escombraries per alliberar espai d\'emmagatzematge</string>
+    <string name="video_clean_qq_clean_title">Netejador de QQ</string>
+    <string name="video_clean_remind_settings_title">Recordatori de neteja</string>
+    <string name="video_clean_scan_app_tip">Escaneig d\'aplicacions %1$d/%2$d</string>
+    <string name="video_clean_video_manager_summary">Gestioneu tots els vídeos emmagatzemats al dispositiu</string>
+    <string name="video_clean_video_manager_title">Gestor de vídeos</string>
+    <string name="video_clean_wechat_clean_summary">Neteja la brossa per augmentar la velocitat</string>
+    <string name="video_clean_wechat_clean_title">Netejador WeChat</string>
     <string name="virus_scan">Escaneig de seguretat</string>
     <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>

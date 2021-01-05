@@ -307,6 +307,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_pa_setting_title">Configuració de xarxa</string>
     <string name="app_pa_setting_version">Versió: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
+    <string name="app_screen_time_auth">Temps de pantalla</string>
     <string name="app_screen_time_support_false">Actualment no s\'admet el temps de pantalla</string>
     <string name="app_screen_time_time">%1$d hores %2$d min</string>
     <string name="app_screen_time_time_minute">%1$d min</string>
