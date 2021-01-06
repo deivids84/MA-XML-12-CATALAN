@@ -2784,7 +2784,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_intro_error_max">Heu afegit el nombre màxim de cares</string>
     <string name="face_intro_error_unknown">No es poden afegir més cares</string>
     <string name="face_lock_screen_setup_skip_dialog_text">En protegir el telèfon amb una opció de bloqueig de pantalla, ningú no podrà utilitzar-lo si es perd o es roba. També necessiteu una opció de bloqueig de pantalla per configurar el desbloqueig de cara. Per tornar enrere, toqueu Cancel·la.</string>
-    <string name="face_unlock">Desbloqueig de cara</string>
+    <string name="face_unlock">Desbloqueig facial</string>
     <string name="face_unlock_be_on_the_screen">Agafeu el dispositiu davant de la cara</string>
     <string name="face_unlock_by_notification_screen_on_msg">Podeu desbloquejar el dispositiu amb les dades de la cara sempre que la pantalla s\'il·lumini per a les notificacions entrants. Això pot drenar la bateria més ràpidament.</string>
     <string name="face_unlock_by_notification_screen_on_title">Permet que es desbloqueixi la cara quan s\'il·lumini la pantalla</string>
@@ -2808,9 +2808,9 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_unlock_rotated_left">Gireu el cap a la dreta</string>
     <string name="face_unlock_rotated_right">Gireu el cap a l’esquerra</string>
     <string name="face_unlock_sc_status">Premeu la pantalla cap avall per obrir la càmera</string>
-    <string name="face_unlock_set_unlock_password">Desbloqueig de cara + Contrasenya</string>
-    <string name="face_unlock_set_unlock_pattern">Desbloqueig de cara + patró</string>
-    <string name="face_unlock_set_unlock_pin">Desbloqueig de cara + PIN</string>
+    <string name="face_unlock_set_unlock_password">Desbloqueig facial + Contrasenya</string>
+    <string name="face_unlock_set_unlock_pattern">Desbloqueig facial + Patró</string>
+    <string name="face_unlock_set_unlock_pin">Desbloqueig facial + PIN</string>
     <string name="face_unlock_skip_face">Continuar sense desbloqueig facial</string>
     <string name="face_unlock_stay_away_screen">Manteniu-vos entre 25 i 40cm de la pantalla</string>
     <string name="face_unlock_success_show_message_dialog_msg">Permet bloquejar les notificacions de la pantalla per poder-les visualitzar a la pantalla de bloqueig.</string>
@@ -3855,9 +3855,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="lock_settings_profile_unification_dialog_body">També podeu utilitzar el bloqueig del perfil professional per al bloqueig de pantalla del dispositiu. Si ho feu, les polítiques del bloqueig professional també s\'aplicaran al bloqueig de pantalla.</string>
     <string name="lock_settings_profile_unification_dialog_confirm">Canvia el bloqueig del dispositiu</string>
     <string name="lock_settings_profile_unification_dialog_title">Voleu utilitzar el mateix bloqueig?</string>
-    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"\"\"\"\"El bloqueig del perfil professional no compleix els requisits de seguretat de l'empresa.
-
-Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil professional, però les polítiques del bloqueig professional també s'aplicaran al bloqueig de pantalla.\"\"\"\""</string>
+    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"El bloqueig del perfil de treball no compleix els requisits de seguretat de la vostra organització. Podeu utilitzar el mateix bloqueig per a la pantalla del dispositiu i el perfil de treball, però s'aplicaran les polítiques de bloqueig de treball."</string>
     <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Canvia el bloqueig</string>
     <string name="lock_settings_profile_unification_summary">Canvia el bloqueig de pantalla del dispositiu perquè coincideixi amb el del perfil professional</string>
     <string name="lock_settings_profile_unification_title">Utilitza el mateix bloqueig</string>
@@ -5570,7 +5568,9 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="recommend_item_3">Bateria externa</string>
     <string name="recommend_item_4">Auriculars</string>
     <string name="recommend_item_title">Accessoris</string>
+    <string name="recommend_text_wakeup_xiaoai">Configuració</string>
     <string name="recommend_tip">Necessiteu una altra configuració?</string>
+    <string name="recommend_tip_wakeup_xiaoai">L’ús de botons per interactuar amb Mi AI requereix desactivar els gestos de pantalla completa i seleccionar botons com a mètode de navegació.</string>
     <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
     <string name="regional_screen_shot">Captura de pantalla parcial</string>
     <string name="register_automatically">Registre automàtic…</string>
@@ -8639,6 +8639,10 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="write_system_settings">Modifica la configuració del sistema</string>
     <string name="wrong_pin_code_one">El codi PIN SIM incorrecta, queda un altre intent abans de contactar amb el transportista per desbloquejar el dispositiu.</string>
     <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
+    <string name="xiaoai_global_shortcut">General</string>
+    <string name="xiaoai_key_shortcut">Botons</string>
+    <string name="xiaoai_other_shortcut">Altres mètodes</string>
+    <string name="xiaoai_shortcut_settings_title">Activa Mi AI mitjançant botons i gestos</string>
     <string name="xiaomi_account">Compte Mi</string>
     <string name="xiaomi_cloud_find_device">Troba el dispositiu</string>
     <string name="xiaomi_cloud_service_description">Xiaomi Cloud sincronitza els vostres contactes i fotos, fa una còpia de seguretat de les aplicacions i de la configuració i us ajuda a trobar el telèfon mitjançant Troba el dispositiu.</string>

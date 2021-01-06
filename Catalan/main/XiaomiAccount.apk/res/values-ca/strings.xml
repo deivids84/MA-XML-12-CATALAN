@@ -391,6 +391,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
     <string name="passport_login_other_account">Un altre compte</string>
     <string name="passport_login_other_phone">Utilitzeu un altre compte</string>
+    <string name="passport_login_other_way">Altres maneres d\'iniciar la sessió</string>
     <string name="passport_login_prompt">Tots els serveis Mi. Un compte Mi.</string>
     <string name="passport_login_recycle_account_yes">Sí</string>
     <string name="passport_login_title">Inicieu la sessió al vostre compte de Mi</string>

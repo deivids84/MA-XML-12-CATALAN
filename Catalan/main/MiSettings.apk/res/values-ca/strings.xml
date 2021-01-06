@@ -40,6 +40,7 @@
     <string name="animal_branch">Família</string>
     <string name="animal_class">Classe</string>
     <string name="animal_item">Ordre</string>
+    <string name="animal_select_alert_info">Podeu seleccionar fins a 5 elements</string>
     <string name="anti_flicker_mode">Anti-parpelleig</string>
     <string name="anti_flicker_mode_categroy">Modes</string>
     <string name="anti_flicker_mode_summary">Eviteu els parpellejos extensius i reduïu la tensió ocular en condicions de poca llum</string>
@@ -83,6 +84,7 @@
     <string name="branch_platypus">Ornitorrínquids</string>
     <string name="branch_quollidae">Dasiúrids</string>
     <string name="branch_raccoon">Prociònids</string>
+    <string name="branch_ramphastos">Tucans</string>
     <string name="branch_rhinoceros">Rinoceròtids</string>
     <string name="branch_seal">Foques</string>
     <string name="branch_toucan">Tucans</string>
@@ -279,6 +281,7 @@
     <string name="item_chick">Gal·liformes</string>
     <string name="item_crane_form">Gruïformes</string>
     <string name="item_hayabusa">Falcònids</string>
+    <string name="item_liebird">Piciformes</string>
     <string name="item_long_nose">Proboscidis</string>
     <string name="item_marsupial">Marsupials</string>
     <string name="item_meat">Carnívors</string>
@@ -410,6 +413,7 @@
     <string name="primary_color_region_summary">Identifiqueu automàticament la gamma de colors mitjançant la calibració del color</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="puffin">Fraret atlàntic</string>
+    <string name="random_play_sound_alert">"Sentireu els sons dels animals d'aquesta regió quan rebeu notificacions"</string>
     <string name="red_billed_hornbill">Calau becvermell</string>
     <string name="reset_edit">Descarta els canvis</string>
     <string name="restore_default">Restaura els valors per defecte</string>
