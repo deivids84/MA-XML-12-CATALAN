@@ -225,7 +225,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="health_state_not_activated">No està activat</string>
     <string name="health_state_not_installed">No està instal·lat</string>
     <string name="health_state_not_support">No és compatible amb aquesta versió</string>
-    <string name="help_center">Consells:</string>
+    <string name="help_center">Ajuda</string>
     <string name="i_agree">D\'acord</string>
     <string name="i_agree_continue">D\'acord</string>
     <string name="identity">Identificació</string>

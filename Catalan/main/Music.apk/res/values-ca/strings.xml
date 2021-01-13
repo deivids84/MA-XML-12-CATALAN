@@ -360,6 +360,8 @@
     <string name="equalizer">Equalitzador</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
+    <string name="error_message_no_internet_connection">No s\'ha pogut connectar a Internet. Comproveu la connexió a Internet i torneu-ho a provar.</string>
+    <string name="error_message_something_went_wrong">S\'ha produït un error, torneu-ho a provar.</string>
     <string name="error_not_support">No compatible</string>
     <string name="evening">Tarda</string>
     <string name="exo_controls_fastforward_description">Avanç ràpid</string>
@@ -563,10 +565,11 @@
     <string name="input_hint_prefix">Introduïu %1$s</string>
     <string name="installing_apk">S\'està instal·lant…</string>
     <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del vostre dispositiu"</string>
+    <string name="invalid_number">El número no és vàlid</string>
     <string name="is_latest_version">Música està al dia.</string>
     <string name="is_scanning">S\'està comprovant l\'emmagatzematge&#8230;</string>
-    <string name="is_scanning_support_online">"«S'està comprovant l'emmagatzematge&#8230;
-(Mentrestant podeu fer la transmissió de música en línia)»"</string>
+    <string name="is_scanning_support_online">"S'està comprovant l'emmagatzematge…
+(Mentrestant podeu reproduir la música en línia)"</string>
     <string name="joox_account_bind_mi_account">Afegeix el meu compte</string>
     <string name="joox_account_cancel_login">Cancel · lar</string>
     <string name="joox_account_continue_login">Inicieu la sessió</string>
@@ -626,6 +629,7 @@
     <string name="list_item_play_all_tracks">Reprodueix tot</string>
     <string name="load_shuffle">S\'està carregant&#8230;</string>
     <string name="loadercontainer_loading">Un moment…</string>
+    <string name="loading">Carregant</string>
     <string name="loading_hint">Un moment…</string>
     <string name="loading_reached_the_bottom">"Això és tot per ara."</string>
     <string name="local_header_title">Música local</string>
@@ -682,6 +686,12 @@
     <string name="modify_progress_helper">Feu lliscar amunt o avall per ajustar l\'avançament de la lletra.</string>
     <string name="modify_song_info">Edita la informació de la cançó</string>
     <string name="modify_song_info_success">La informació de la cançó s\'ha actualitzat</string>
+    <string name="moe_inbox_name">Centre de notificacions</string>
+    <string name="moe_message_to_register">Feu clic al botó de registre per registrar-vos a la validació d’integració.</string>
+    <string name="moe_message_to_unregister">El dispositiu està registrat per a la verificació de la integració. Feu clic al botó per donar-vos de baixa</string>
+    <string name="moe_notification_center_empty">Centre de notificacions buit</string>
+    <string name="moe_register">REGISTREU-VOS</string>
+    <string name="moe_unregister">DONEU-VOS DE BAIXA</string>
     <string name="monday">Dilluns</string>
     <string name="monday_short">Dl.</string>
     <string name="monday_shortest">dl.</string>

@@ -128,8 +128,8 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
     <string name="confirm_exit_link_msg">"Si sortiu de l'aplicació, s'interromp la transferència en curs i haureu de tornar a establir la connexió entre els dos dispositius. Voleu sortir de l'aplicació?"</string>
     <string name="confirm_exit_link_title">Interrompre la transferència</string>
     <string name="connect_soft_ap_label">S\'està connectant a un nou dispositiu…</string>
-    <string name="connect_wifi">Connecta a la Wi-Fi</string>
-    <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos a la Wi-Fi per importar elements d’iCloud."</string>
+    <string name="connect_wifi">Connecteu-vos a la Wi-Fi</string>
+    <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos a la Wi-Fi per importar elements de l'iCloud."</string>
     <string name="contact_title">Contactes</string>
     <string name="copy">Copia</string>
     <string name="current_account">Hola %s</string>
@@ -237,8 +237,8 @@ No canvieu el nom dels fitxers de còpia de seguretat."</string>
     <string name="icloud_login_title">Inicia la sessió a l\'iCloud</string>
     <string name="icloud_need_sync">"Per importar dades de iOS,
 primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
-    <string name="icloud_need_wifi_message">"En aquest moment no esteu connectats a la Wi-Fi. Per importar dades d'iCloud, connecteu-vos a la Wi-Fi."</string>
-    <string name="icloud_need_wifi_title">Connecta a la Wi-Fi</string>
+    <string name="icloud_need_wifi_message">"En aquest moment no esteu connectats a la Wi-Fi. Per importar dades des d'iCloud, connecteu-vos a la Wi-Fi."</string>
+    <string name="icloud_need_wifi_title">Connecteu-vos a la Wi-Fi</string>
     <string name="import_again">Importa de nou</string>
     <string name="import_data_from_icloud">Importa les dades de l\'iCloud</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
@@ -378,7 +378,7 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
     <string name="notif_icloud_loaded_summary">S\'està esperant…</string>
     <string name="notif_icloud_loading_summary">S\'estan carregant les dades…</string>
     <string name="notif_icloud_logining">S\'està iniciant sessió a l\'iCloud de l\'antic dispositiu iOS…</string>
-    <string name="notif_icloud_need_wifi_summary">S\'està esperant una Wi-Fi</string>
+    <string name="notif_icloud_need_wifi_summary">S\'està esperant la Wi-Fi</string>
     <string name="notif_icloud_saved_summary">S\'ha importat correctament</string>
     <string name="notif_icloud_saving_summary">S\'estan restaurant les dades…</string>
     <string name="notif_miasist_try_to_connect">Mi PC Suite està intentant connectar-se al vostre dispositiu</string>
@@ -443,7 +443,7 @@ primer hauríeu de crear una còpia de seguretat d’iCloud."</string>
     <string name="router_backup_hint">Manteniu el dispositiu encès</string>
     <string name="save_finish_with_failing_items">"S'ha interromput la transferència.
 Les dades que no s'han importat s'han de tornar a importar. "</string>
-    <string name="saving_data">"S'estan important les dades d'iCloud…
+    <string name="saving_data">"S'estan important dades des de l’iCloud…r
 No desactiveu la Wi-Fi"</string>
     <string name="saving_data_no_time">S\'estan restaurant les dades…</string>
     <string name="saving_data_space_low">"No hi ha prou espai d'emmagatzematge.
@@ -588,11 +588,11 @@ per baixar i instal·lar Mi Mover."</string>
     <string name="trans_install_guide_step1_title">Pas 1</string>
     <string name="trans_install_guide_step2_content">Un cop finalitzada la instal·lació, toqueu el botó «Inicia».</string>
     <string name="trans_install_guide_step2_title">Pas 2</string>
-    <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la Wi-Fi i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a iCloud i importeu les dades."</string>
+    <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la Wi-Fi i toqueu \"Soc el destinatari\". Seleccioneu el dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
     <string name="trans_intro_desc_10">Toqueu \"Connecta\'t mitjançant el codi QR\" al dispositiu nou i escanegeu el codi QR per establir una connexió.</string>
     <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i comenceu de nou. Els fitxers duplicats seran sobreescrits durant la nova transferència.</string>
-    <string name="trans_intro_desc_4">"Mi Mover utilitza la Wi-Fi per transferir fitxers. És per això que no podeu connectar-vos a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu utilitzar les dades mòbils. Tot i això, alguns dispositius més nous (per exemple, Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover utilitza la Wi-Fi per transferir fitxers. És per això que no podeu connectar-vos a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu utilitzar les dades mòbils."</string>
+    <string name="trans_intro_desc_4">"Mi Mover utilitza la Wi-Fi per transferir fitxers. És per això que no podeu connectar-vos a Internet mitjançant la Wi-Fi en cap dels dos dispositius durant una transferència, però podeu utilitzar les dades mòbils. Tot i això, alguns dispositius més nous (per exemple, Mi 6) poden connectar-se a Internet mitjançant la Wi-Fi durant les transferències."</string>
+    <string name="trans_intro_desc_4_market">"Mi Mover utilitza la Wi-Fi per transferir fitxers. És per això que no podeu connectar-vos a Internet mitjançant la Wi-Fi en cap dels dos dispositius durant una transferència, però podeu utilitzar les dades mòbils."</string>
     <string name="trans_intro_desc_5">L’espai d’emmagatzematge en dispositius antics s’utilitza per crear paquets de transferència. Assegureu-vos que tingueu almenys 500 Mb - 1 Gb d’emmagatzematge disponible al vostre telèfon antic abans d’iniciar la transferència.</string>
     <string name="trans_intro_desc_6">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
     <string name="trans_intro_desc_7">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu d’esborrar les dades de l’aplicació o torneu a instal·lar l’aplicació en un dispositiu nou.</string>
@@ -668,9 +668,9 @@ A continuació, toqueu «Torna a connectar» per escanejar el codi QR."</string>
     <string name="trans_progress_subdescript_transingsddata_sender">S\'estan enviant %1$s fitxers de la targeta SD, %2$s completat</string>
     <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
     <string name="trans_receiver">"Sóc el destinatari"</string>
-    <string name="trans_receiver_time_remained">"%s restant.
+    <string name="trans_receiver_time_remained">"Queden %s.
 No desactiveu el punt d'accés Wi-Fi.
-Mantingueu els dispositius propers l'un de l'altre."</string>
+Mantingueu els dispositius a prop l'un de l'altre."</string>
     <string name="trans_receiving_completed">S\'ha rebut correctament</string>
     <string name="trans_restoring">S\'està restaurant…</string>
     <string name="trans_restoring_no_items">S\'està obtenint informació…</string>
@@ -696,9 +696,9 @@ Seleccioneu només elements importants per fer la transferència més ràpida."<
     <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
     <string name="trans_sender_searching_ensurance">"Assegureu-vos que el dispositiu antic està activat
 S'està esperant que el dispositiu antic es connecti…"</string>
-    <string name="trans_sender_time_remained">"%s restant.
+    <string name="trans_sender_time_remained">"Queden %s.
 No desactiveu la Wi-Fi.
-Mantingueu els dispositius propers l'un de l'altre."</string>
+Mantingueu els dispositius a prop l'un de l'altre."</string>
     <string name="trans_sending_completed">S\'ha enviat correctament</string>
     <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
     <string name="trans_show_qr_code_tips">Escanegeu el codi QR utilitzant el dispositiu antic</string>
@@ -720,7 +720,7 @@ S'està esperant la transferència…"</string>
     <string name="trans_waiting_ensurance">"Assegureu-vos que el dispositiu antic està activat
 i s'ha activat Mi Mover"</string>
     <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
-    <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
+    <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir les dades."</string>
     <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
     <string name="unknown_hint">Desconeguda</string>
     <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB tingui prou espai d'emmagatzematge.
@@ -746,7 +746,7 @@ Allibereu espai o transferiu només elements importants."</string>
 toqueu \"Sóc el remitent\" i seleccioneu un punt d'accés per connectar-vos.
 No tanqueu la pàgina fins que s'hagi establert la connexió."</string>
     <string name="waiting">Un moment…</string>
-    <string name="wifi_title">Configuració de Wi-Fi</string>
+    <string name="wifi_title">Configuració de la Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
     <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
     <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s

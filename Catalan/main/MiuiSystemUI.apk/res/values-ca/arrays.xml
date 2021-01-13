@@ -197,7 +197,7 @@
         <item>16 MB per buffer de registre</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Inactiu</item>
+        <item>Desactivat</item>
         <item>64 KB</item>
         <item>256 KB</item>
         <item>1 MB</item>

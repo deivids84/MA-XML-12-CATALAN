@@ -181,6 +181,7 @@
     <string name="change_wallpaper">Canvia</string>
     <string name="choose_wallpaper">Trieu un fons de pantalla</string>
     <string name="chooser_wallpaper">Trieu un fons de pantalla nou</string>
+    <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="cloud_app_restore_title">Pendent</string>
     <string name="common_home_search_delete">S\'està suprimint la barra de cerca</string>
     <string name="common_home_search_delete_cancle">Cancel · lar</string>

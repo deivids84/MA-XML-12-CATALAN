@@ -583,7 +583,7 @@
     <string name="usage_app_limit_reach_summay">Resten %s</string>
     <string name="usage_app_limit_reach_summay_new">Toqueu per afegir %d minuts</string>
     <string name="usage_app_limit_reach_title">%s està arribant al seu límit de temps de pantalla</string>
-    <string name="usage_app_limit_reach_title_new" formatted="false">Resta el temps de la pantalla per a %1s: %2s</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Temps restant de pantalla per a %1s: %2s</string>
     <string name="usage_app_limit_summary">"Les aplicacions seleccionades no estaran disponibles quan s'arribi al límit"</string>
     <string name="usage_app_limit_title">Limita el temps de pantalla</string>
     <string name="usage_app_other_settings">Configuració addicional</string>
@@ -649,13 +649,13 @@ Aquesta aplicació també necessita connectar-se a internet i requereix els perm
     <string name="usage_new_home_dashboard">Tauler de control</string>
     <string name="usage_new_home_date_day_title">%s | Durada de l’ús</string>
     <string name="usage_new_home_day_category_title">Categories d\'aplicacions</string>
-    <string name="usage_new_home_day_category_title_new">Temps de pantalla de les categories d\'aplicacions el %s</string>
+    <string name="usage_new_home_day_category_title_new">Temps de pantalla per a categories d\'aplicacions a %s</string>
     <string name="usage_new_home_day_title">Dia</string>
     <string name="usage_new_home_day_usage_title">Aplicacions individuals</string>
     <string name="usage_new_home_day_usage_title_new">Temps de pantalla a %s</string>
     <string name="usage_new_home_first_unlock">Primer desbloqueig: %s</string>
     <string name="usage_new_home_name">Nom</string>
-    <string name="usage_new_home_show_more_data_summary">També podeu limitar el temps de la pantalla per a aplicacions individuals</string>
+    <string name="usage_new_home_show_more_data_summary">També podeu limitar el temps de pantalla per a aplicacions individuals</string>
     <string name="usage_new_home_show_more_data_title">Veure més estadístiques</string>
     <string name="usage_new_home_sys_no_limit_summary">"No es pot limitar el temps de pantalla a les aplicacions del sistema"</string>
     <string name="usage_new_home_unlock_equals_text">Igual que el dia anterior</string>
@@ -704,7 +704,7 @@ Aquesta aplicació necessita connectar-se a Internet i requereix els permisos se
     <string name="usage_state_app_timer">Temps de pantalla</string>
     <string name="usage_state_app_usage_detail_title">Detalls de l\'ús de l\'aplicació</string>
     <string name="usage_state_app_usage_limit">Límits de temps de pantalla de l\'aplicació</string>
-    <string name="usage_state_app_usage_limit_summary">Establiu els límits diaris de temps de pantalla per a les aplicacions</string>
+    <string name="usage_state_app_usage_limit_summary">Establiu límits diaris de temps de pantalla per a les aplicacions</string>
     <string name="usage_state_app_usage_list_title">"Temps de pantalla de les aplicacions"</string>
     <string name="usage_state_app_usage_list_week_title">"Temps de pantalla de les aplicacions"</string>
     <string name="usage_state_app_usage_tip_title">Temps de pantalla entre les %1$d:00 i les %2$d:00</string>
@@ -716,7 +716,7 @@ Aquesta aplicació necessita connectar-se a Internet i requereix els permisos se
     <string name="usage_state_channel_mouth">Últims 30 dies</string>
     <string name="usage_state_channel_week">Últims 7 dies</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_limit_summary">Establiu els límits diaris de temps de pantalla per al dispositiu</string>
+    <string name="usage_state_device_limit_summary">Establiu límits diaris de temps de pantalla per al dispositiu</string>
     <string name="usage_state_device_limit_title">Límits de temps de pantalla del dispositiu</string>
     <string name="usage_state_device_noti_today_tip_title">Notificacions entre les %1$d:00 i les %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Dispositiu desbloquejat entre les %1$d:00 i les %2$d:00</string>
@@ -784,7 +784,7 @@ Aquesta aplicació necessita connectar-se a Internet i requereix els permisos se
     <string name="usage_state_work_day">Entre setmana</string>
     <string name="usage_state_work_day_hour_minute">Entre setmana: %1$dh %2$dm</string>
     <string name="usage_stats_device_limit">Límit diari de temps de pantalla</string>
-    <string name="usage_stats_device_limit_summary">Establiu els límits diaris d’ús</string>
+    <string name="usage_stats_device_limit_summary">Establiu límits diaris d’ús</string>
     <string name="usage_stats_experience_text">Toqueu per provar-ho (1 min)</string>
     <string name="usage_stats_limit_time_accuracy_title">Precisió de l\'estimació del temps restant</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">Mostra el temps restant amb una precisió de fins a un minut. Això augmenta el consum d\'energia.</string>

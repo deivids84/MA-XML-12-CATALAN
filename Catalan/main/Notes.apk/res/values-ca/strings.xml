@@ -62,6 +62,7 @@
     <string name="audio_toast_file_invalid">El fitxer d\'àudio no és vàlid</string>
     <string name="audio_toast_file_undownload">"El fitxer d'àudio no està totalment baixat o és inexistent"</string>
     <string name="audio_toast_network_is_not_available">"No s'ha pogut connectar a la xarxa"</string>
+    <string name="blackboard_note">Pissarra intel·ligent</string>
     <string name="btn_next">Pròxim</string>
     <string name="call_folder_name">Notes de trucada</string>
     <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
@@ -95,6 +96,7 @@
     <string name="db_downgrade_clear_button">Esborra les dades de l\'aplicació</string>
     <string name="db_downgrade_clear_date_reminder">"Canviar a una versió diferent de MIUI requereix esborrar les dades de l'aplicació Notes. Abans de fer això, assegureu-vos que heu copiat les notes al Mi Cloud."</string>
     <string name="default_folder_name">Carpeta sense nom</string>
+    <string name="default_update_documents">Hi ha disponible una actualització. Voleu actualitzar ara?</string>
     <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
     <string name="dialog_button_cancel">Cancel·la</string>
     <string name="dialog_button_close">Tanca</string>
@@ -394,7 +396,9 @@
     <string name="note_link_tel">Trucada</string>
     <string name="note_link_web">Navegar per la web</string>
     <string name="note_mindnote_entrance_hint">"Comenceu a escriure "</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Comenceu a escriure "</string>
     <string name="note_mindnote_entrance_icon_text">Creeu un mapa mental</string>
+    <string name="note_mindnote_entrance_icon_text_newversion">Crea un mapa mental</string>
     <string name="note_sort_way">Seleccioneu com voleu ordenar les notes</string>
     <string name="notealert_enter">Fer una ullada</string>
     <string name="notealert_ok">Ignorar</string>

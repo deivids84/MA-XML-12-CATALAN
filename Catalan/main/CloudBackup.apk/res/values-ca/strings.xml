@@ -70,7 +70,7 @@ Torna-ho a provar"</string>
     <string name="btn_restore_resume">Reprèn</string>
     <string name="btn_restore_retry">Torna-ho a provar</string>
     <string name="btn_restore_wait">Esperant una connexió Wi-Fi</string>
-    <string name="btn_restore_wait_china">Espereu a la WLAN</string>
+    <string name="btn_restore_wait_china">A l\'espera de la Wi-Fi</string>
     <string name="btn_retry">Torna-ho a provar</string>
     <string name="btn_skip">Omet aquest pas</string>
     <string name="button_cancel">Cancel·la</string>
@@ -100,12 +100,12 @@ Torna-ho a provar"</string>
 * Configuració de les notificacions 
 * Configuració del sistema i MIUI 
 Nota: No es farà còpia de seguretat a Xiaomi Cloud de les dades de les aplicacions que hàgiu instal·lat."</string>
-    <string name="cloud_back_up_detail_discription_china">"Aquests elements es desaran a una còpia de seguretat de Xiaomi Cloud quan el dispositiu estigui connectat a la WLAN:
-* Aplicacions, disseny de la pantalla d’inici i fons de pantalla
-* Configuració de l’alarma, el rellotge i l’hora
-* Configuració de les notificacions
-* Configuració de MIUI i del sistema
-Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de seguretat de Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"Es farà una còpia de seguretat d’aquests elements a Xiaomi Cloud quan el dispositiu estigui connectat a la Wi-Fi: 
+* Aplicacions, disposició de la pantalla d’inici i fons de pantalla 
+* Configuració de l'alarma, rellotge i hora 
+* Configuració de les notificacions 
+* MIUI i configuració del sistema 
+Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies de seguretat a Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programeu còpia</string>
     <string name="cloud_back_up_frequence_long">Cada %d dies</string>
     <string name="cloud_back_up_frequence_short">Cada dia</string>
@@ -123,7 +123,7 @@ Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de se
     <string name="cloud_backup_detail_manage">Gestiona les còpies de seguretat</string>
     <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
     <string name="cloud_backup_detail_state_summary">Creeu còpies de seguretat de Xiaomi Cloud automàticament quan estigueu connectats a la Wi-Fi.</string>
-    <string name="cloud_backup_detail_state_summary_china">Creeu còpies de seguretat de Xiaomi Cloud automàticament quan esteu connectats a la WLAN.</string>
+    <string name="cloud_backup_detail_state_summary_china">Creeu còpies a seguretat de Xiaomi Cloud automàticament quan estigueu connectats a la Wi-Fi.</string>
     <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
     <string name="cloud_backup_detail_title">Pantalla d\'inici, aplicacions i configuració.</string>
     <string name="cloud_backup_have_data">S\'ha trobat una còpia de seguretat a Xiaomi Cloud</string>
@@ -159,9 +159,9 @@ Nota: Les dades de les aplicacions instal·lades no es desaran a la còpia de se
     <string name="dialog_cancel_backup_title">Voleu cancel·lar la còpia de seguretat en curs?</string>
     <string name="dialog_msg_overwrite_backup">La còpia de seguretat local és diferent de la de Xiaomi Cloud. Si continueu, la còpia de seguretat actual substituirà l\'anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Per restaurar les còpies de seguretat requereix connectar-se a la Wi-Fi.</string>
-    <string name="dialog_msg_restore_require_wlan_china">La restauració de les còpies de seguretat requereix una connexió WLAN.</string>
+    <string name="dialog_msg_restore_require_wlan_china">La restauració de còpies de seguretat requereix connectar-se a la Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Connecta a la Wi-Fi</string>
-    <string name="dialog_title_require_wlan_china">Connecta a la WLAN</string>
+    <string name="dialog_title_require_wlan_china">Connecteu-vos a la Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">S\'està calculant la mida…</string>
     <string name="doing_restore_home">S\'està restaurant la pantalla d\'inici i la configuració…</string>

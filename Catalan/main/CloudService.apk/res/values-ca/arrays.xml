@@ -23,13 +23,13 @@
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>Sincronitzeu els vostres contactes, missatges, notes, calendari i molt més</item>
         <item>Còpia de seguretat d\'aplicacions, disseny de la pantalla d\'inici i fons de pantalla</item>
-        <item>Feu una còpia de seguretat de la configuració important, inclosa la WLAN i la pantalla</item>
+        <item>Feu una còpia de seguretat de la configuració important, inclosa la Wi-Fi i la pantalla</item>
         <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>Sincronitza els vostres contactes, missatges, notes, calendari i molt més</item>
         <item>Feu una còpia de seguretat de les aplicacions, el disseny de la pantalla d\'inici i el fons de pantalla</item>
-        <item>Feu una còpia de seguretat de les configuracions importants, incloses la WLAN i la pantalla</item>
+        <item>Feu una còpia de seguretat de la configuració important, inclosa la Wi-Fi i la pantalla</item>
         <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
@@ -164,12 +164,12 @@
     <string-array name="settings_search_wlan">
         <item>Sincronitza la configuració de la Wi-Fi amb Xiaomi Cloud</item>
         <item>Activa la sincronització</item>
-        <item>WLAN;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Sincronitza la configuració de la WLAN amb Xiaomi Cloud</item>
+        <item>Sincronitzeu la configuració de la Wi-Fi amb Xiaomi Cloud</item>
         <item>Activeu la sincronització</item>
-        <item>WLAN;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>Mostra els elements sincronitzats</item>

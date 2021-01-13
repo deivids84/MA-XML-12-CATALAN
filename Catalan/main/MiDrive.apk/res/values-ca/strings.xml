@@ -83,6 +83,8 @@
     <string name="delete_file_success">S\'ha eliminat correctament</string>
     <string name="delete_record_only">"Els elements als quals fan referència els registres seleccionats no se suprimiran."</string>
     <string name="delete_success">S\'ha eliminat correctament</string>
+    <string name="detail_download_path">"Ubicació: "</string>
+    <string name="detail_download_time">"Baixat: "</string>
     <string name="dialog_content_delete_pdf_content">Voleu suprimir aquest PDF ara?</string>
     <string name="dialog_copy_storage_full_desc">"No es poden copiar elements perquè no hi ha prou espai d'emmagatzematge al núvol. Actualitzeu el vostre pla per obtenir més espai d'emmagatzematge."</string>
     <string name="dialog_copy_storage_full_title">"No es pot copiar"</string>
@@ -347,7 +349,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="upload_metered_network_dialog_title">Utilitza les dades mòbils</string>
     <string name="uploading">S\'està pujant</string>
     <string name="user_agreement_title">Acord d\'usuari de Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol">"He llegit i he acceptat l'acord d'usuari i la política de privadesa."</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;\".</Data></string>
     <string name="v7_preference_off">DESACTIVA</string>
     <string name="v7_preference_on">Activat</string>
     <string name="video_picker_title">Selecciona vídeos</string>

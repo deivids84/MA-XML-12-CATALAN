@@ -119,7 +119,7 @@
     <string name="appcleaner_wechat_scanning_chat">Fitxers enviats</string>
     <string name="appcleaner_wechat_scanning_trash">Paperera</string>
     <string name="apps_sort_type_item_size">Mida</string>
-    <string name="apps_sort_type_item_time">Usats sovint</string>
+    <string name="apps_sort_type_item_time">Ús freqüent</string>
     <string name="apps_sort_type_title">Ordena</string>
     <string name="auto_clean_switch_off">Apaga</string>
     <string name="auto_clean_switch_on">Encén</string>
@@ -517,7 +517,7 @@
     <string name="notification_checker_picture_text_a">Esborreu les imatges emmagatzemades a la memòria cau</string>
     <string name="notification_checker_picture_text_b">Esborreu %s de les imatges emmagatzemades a la memòria cau</string>
     <string name="notification_garbage_clean_botton_text">Neteja</string>
-    <string name="notification_garbage_clean_botton_text_new">Serè</string>
+    <string name="notification_garbage_clean_botton_text_new">Neteja</string>
     <string name="notification_garbage_clean_hint">Neteja l\'espai d’emmagatzematge</string>
     <string name="notification_garbage_clean_hint_new">Deixeu que el dispositiu es dispari</string>
     <string name="notification_garbage_clean_size">Allibera %s</string>
@@ -764,6 +764,8 @@
     <string name="video_clean_desktop_icon_created">S\'ha afegit una drecera a la pantalla d\'inici correctament</string>
     <string name="video_clean_garbage">Vídeos emmagatzemats a la memòria cau</string>
     <string name="video_clean_garbage_cleared">S\'han netejat els vídeos emmagatzemats a la memòria cau correctament</string>
+    <string name="video_clean_image_clean_summary">Suprimiu les fotos duplicades per alliberar espai d\'emmagatzematge</string>
+    <string name="video_clean_image_clean_title">Suprimir fotos duplicades</string>
     <string name="video_clean_notification_summary">Neteja els vídeos emmagatzemats a la memòria cau de les aplicacions</string>
     <string name="video_clean_notification_title">Allibera %s</string>
     <string name="video_clean_personal_settings_title">Configuració addicional</string>

@@ -910,7 +910,7 @@ Torneu a començar."</string>
     <string name="need_auto_start_permission">Per obtenir estadístiques més precises, permeteu que Xiaomi Health s\'iniciï automàticament.</string>
     <string name="need_unrestricted_permission">Per obtenir estadístiques més precises, permeteu que Xiaomi Health funcioni sempre en segon pla.</string>
     <string name="network_connect_failure">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
-    <string name="network_name_china">WLAN</string>
+    <string name="network_name_china">Wi-Fi</string>
     <string name="network_not_available">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
     <string name="network_not_available2">"No s'ha pogut connectar a la xarxa"</string>
     <string name="next_step">Següent</string>

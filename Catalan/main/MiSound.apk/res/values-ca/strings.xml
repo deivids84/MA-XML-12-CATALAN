@@ -197,6 +197,7 @@
     <string name="sound_transmission_dialog_message">Assistent de so</string>
     <string name="sound_transmission_dialog_title">Activa el Bluetooth</string>
     <string name="sound_transmission_end">Atura</string>
+    <string name="sound_transmission_function_generalize">"Transmet l’àudio del micròfon del telèfon a un dispositiu Bluetooth extern"</string>
     <string name="sound_transmission_processing">Micròfon</string>
     <string name="sound_transmission_prompt">Permet que aquesta funció activi el Bluetooth per poder utilitzar el micròfon sense fils.</string>
     <string name="sound_transmission_scenes">Escena</string>

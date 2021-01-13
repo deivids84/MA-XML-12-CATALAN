@@ -509,7 +509,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="hint_frequency">Freqüència: %1$s ~ %2$s</string>
     <string name="hint_label">Etiqueta</string>
     <string name="history">Historial</string>
-    <string name="history_clear">Serè</string>
+    <string name="history_clear">Neteja</string>
     <string name="history_clear_fm">Voleu esborrar l\'historial de reproducció de ràdio?</string>
     <string name="history_clear_music">Voleu esborrar l\'historial de reproducció de música?</string>
     <string name="hot_icon_in_fast_indexer">H</string>
@@ -1053,7 +1053,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="settings_search_key_desktop_lyric">Lletres de la pantalla d\'inici; Lletres; Música; Cançons</string>
     <string name="settings_search_key_download_quality">Qualitat de descàrrega; Qualitat; Música; Descàrrega; Cançons</string>
     <string name="settings_search_key_download_when_favorite">Baixa els preferits; Baixa; Preferits; Música; Cançons</string>
-    <string name="settings_search_key_main">Música; Cançons; Cançó</string>
+    <string name="settings_search_key_main">Música;Cançons;Cançó</string>
     <string name="settings_search_key_notification">Notificacions de música;Música;Notificacions;cançons</string>
     <string name="settings_search_key_vip_service">Cançons premium; VIP; Pack de cançons; Premium Song Pack; Membre; Subscripció; Música; Cançons</string>
     <string name="settings_search_path_advance">Aplicacions del sistema/Música/Servei i configuració/Configuració avançada</string>
