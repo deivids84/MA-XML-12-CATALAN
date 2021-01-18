@@ -35,7 +35,7 @@
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close_hotspot_hint">Apagueu el punt d\'accés portàtil abans d\'emetre</string>
     <string name="close_slave_wifi_hint">Desconnecteu-vos de les xarxes Wi-Fi auxiliars abans d\'emetre</string>
-    <string name="close_slave_wifi_hint_china">Desconnecteu les xarxes WLAN auxiliars abans d\'emetre</string>
+    <string name="close_slave_wifi_hint_china">Desconnecteu-vos de les xarxes Wi-Fi auxiliars abans d\'emetre</string>
     <string name="console_guide_btn_got_it">Entesos</string>
     <string name="console_guide_subtitle_hang_up">Podeu continuar emetent amb la pantalla del dispositiu apagada. Aquesta característica disminueix el consum d\'energia.</string>
     <string name="console_guide_subtitle_private">"No mostris notificacions flotants, trucades entrants i altres elements privats en monitors externs"</string>
@@ -56,7 +56,7 @@
     <string name="dialog_miplay_permission_title">Permisos necessaris</string>
     <string name="dialog_nfc_cast_wifi_off">Activeu la connexió Wi-Fi per poder emetre mitjançant NFC. Voleu activar-la ara?</string>
     <string name="dialog_no_device_message"><Data>1. Connecteu tant el telèfon com el televisor a la mateixa xarxa Wi-Fi.&lt;br&gt;&lt;br&gt;2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Vegeu &lt;a href=milink://com.milink.service/specification&gt;\"Ajuda\"&lt;/a&gt; per obtenir més informació.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>1. Connecteu el telèfon i el televisor a la mateixa xarxa WLAN.&lt;br&gt;&lt;br&gt;2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Vegeu &lt;a href=milink://com.milink.service/specification&gt;\"Ajuda\"&lt;/a&gt; per obtenir més informació.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Connecteu tant el telèfon com el televisor a la mateixa xarxa Wi-Fi.&lt;br&gt;&lt;br&gt;2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Consulteu &lt;a href=milink://com.milink.service/specification&gt;\"Ajuda\"&lt;/a&gt; per obtenir més informació.</Data></string>
     <string name="dialog_ok">D\'acord</string>
     <string name="dialog_only_suport_content">Emeteu fotos, vídeos o música</string>
     <string name="dialog_open_wifi_bt">Activa</string>
@@ -67,9 +67,9 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
     <string name="dialog_scan_message">"1. Connecteu el telèfon i la televisió a la mateixa xarxa Wi-Fi.
 
 2. En alguns models de televisió, aquesta funció només està disponible quan la pantalla de pantalla es troba activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
-    <string name="dialog_scan_message_china">"1. Connecteu el telèfon i el televisor a la mateixa xarxa WLAN.
+    <string name="dialog_scan_message_china">"1. Connecteu el telèfon i el televisor a la mateixa xarxa Wi-Fi.
 
-2. En alguns models de televisió, aquesta funció només està disponible quan la pantalla de pantalla es troba activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
+2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
     <string name="dialog_scanning_device">S\'estan cercant dispositius propers…</string>
     <string name="dialog_scanning_precondition">Activeu la Wi-Fi i el Bluetooth al telèfon per utilitzar la pantalla sense fils.</string>
     <string name="dialog_select_tv">Seleccioneu el dispositiu (%d)</string>
@@ -306,7 +306,7 @@ Si heu d'activar el Miracast, premeu el botó [MENU] i seleccioneu Les meves apl
     <string name="privacy_permission_optional">Permisos opcionals</string>
     <string name="privacy_permission_optional_desc">"S'utilitza per a funcions addicionals mentre les utilitzeu"</string>
     <string name="privacy_permission_wlan">Activant i desactivant la connexió</string>
-    <string name="privacy_permission_wlan_china">Activant i desactivant la WLAN</string>
+    <string name="privacy_permission_wlan_china">Activació i desactivació de la Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Per trobar dispositius disponibles a prop</string>
     <string name="privacy_permission_wlan_desc_china">Per trobar dispositius disponibles a prop</string>
     <string name="privacy_positive">Acordar</string>

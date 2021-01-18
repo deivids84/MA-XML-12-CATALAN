@@ -508,9 +508,9 @@
         <item>"Avui (dades)"</item>
         <item>"Aquest mes (dades)"</item>
         <item>"Darrer mes (dades)"</item>
-        <item>"Wi-Fi d'avui"</item>
-        <item>"Wi-Fi d'aquest mes"</item>
-        <item>"Wi-Fi del darrer mes"</item>
+        <item>"Avui (Wi-Fi) "</item>
+        <item>"Aquest mes (Wi-Fi) "</item>
+        <item>"El mes passat (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Avui "</item>
@@ -954,7 +954,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>简体中文 (中国)</item>
         <item>繁體中文 (台灣)</item>
         <item>繁體中文 (香港)</item>
-        <item>Espanyol (Amèrica)</item>
+        <item>Español (América)</item>
         <item>Portuguès (Brasil)</item>
     </string-array>
     <string-array name="startup_hips_action">
@@ -1029,18 +1029,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Normal</item>
         <item>Ràpida</item>
         <item>Més ràpida</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TDSCDMA</item>
-        <item>LTE</item>
-        <item>Mode triple</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Mode triple</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Temps d\'ús</item>
@@ -1122,9 +1110,9 @@ Nota: Només per a Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
         <item>Preferència IMS</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Mòbil</item>
-        <item>Només per WLAN</item>
+        <item>Només Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
@@ -1132,7 +1120,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
         <item>Preferència IMS</item>
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Mòbil</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">

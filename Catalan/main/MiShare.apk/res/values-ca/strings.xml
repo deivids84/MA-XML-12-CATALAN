@@ -78,7 +78,7 @@
     <string name="error_send_transfer_error">"No es poden transferir articles. Torna-ho a provar."</string>
     <string name="error_send_transfer_pc_error">La transferència ha transcorregut el temps Actualitzeu l\'aplicació per compartir fitxers al vostre ordinador i proveu-la de nou.</string>
     <string name="error_slave_wifi_in_use">"Mi Share no funcionarà quan hi hagi Wi-Fi dual activada. Desactiveu la connexió Wi-Fi dual a la configuració i torneu-ho a provar."</string>
-    <string name="error_slave_wifi_in_use_china">"El meu Share no funcionarà quan la WLAN dual estigui activada. Desactiveu la WLAN dual a la configuració i torneu-ho a provar."</string>
+    <string name="error_slave_wifi_in_use_china">"Mi Share no funcionarà quan la Wi-Fi dual estigui activada. Desactiveu la Wi-Fi dual a la Configuració i torneu-ho a provar."</string>
     <string name="error_timeout">La sessió ha expirat. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="error_user_refuse">"No es pot enviar La transferència s'ha rebutjat."</string>
     <string name="error_wifi_display_in_use">"No es poden enviar fitxers a altres dispositius mentre es publiquen"</string>
@@ -111,7 +111,7 @@ Mi Share és compatible amb els telèfons Mi i Redmi.
 OPPO, vivo, realme i altres marques aviat seran compatibles amb Mi Share també. Podeu consultar la llista de dispositius compatibles al nostre lloc web."</string>
     <string name="mishare_state_protection">Activa automàticament Mi Share</string>
     <string name="mishare_state_protection_summary">Torneu a activar automàticament Mi Share quan es tornen a activar el Bluetooth o la Wi-Fi</string>
-    <string name="mishare_state_protection_summary_china">Torneu a activar automàticament Mi Share quan torni a activar Bluetooth o WLAN</string>
+    <string name="mishare_state_protection_summary_china">Torneu a activar Mi Share quan es torni a activar el Bluetooth o la Wi-Fi</string>
     <string name="mishare_transefer_channel_desc">Notificacions sobre articles enviats i rebuts per Mi Share</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
@@ -182,5 +182,5 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="wait_receive_file">En espera de rebre el…</string>
     <string name="wait_remote_receive_tips">S\'està esperant…</string>
     <string name="wifi_is_not_enabled">En primer lloc, activeu la wifi</string>
-    <string name="wifi_is_not_enabled_china">Engegueu primer la WLAN</string>
+    <string name="wifi_is_not_enabled_china">Activeu primer la Wi-Fi</string>
 </resources>

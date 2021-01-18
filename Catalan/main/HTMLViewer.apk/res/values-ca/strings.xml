@@ -19,7 +19,7 @@ aneu a %s»"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
-    <string name="open_wifi_connect_and_use_data_summary">S\'estan utilitzant les dades mòbils. Toqueu per canviar a la WLAN.</string>
+    <string name="open_wifi_connect_and_use_data_summary">Utilitzant les dades mòbils. Toqueu per canviar a la Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Toqueu per veure els detalls.</string>
     <string name="open_wifi_connect_title">Connecta\'t a %1$s</string>
     <string name="permdesc_accessDrm">Permet a l\'aplicació l\'accés a contingut protegit per DRM.</string>

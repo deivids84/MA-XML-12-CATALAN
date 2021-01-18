@@ -114,7 +114,7 @@
     <string name="gb_advance_settings_edge_gear4">Gran</string>
     <string name="gb_advance_settings_edge_suppression">Àrea resistent al tacte</string>
     <string name="gb_advance_settings_edge_suppression_summary">Redueix la sensibilitat tàctil prop de les vores per evitar que els controls s\'activin accidentalment. Manteniu el vostre dispositiu en les àrees ressaltades per no tapar els altaveus.</string>
-    <string name="gb_advance_settings_finger_up">Sensibilitat als tocs repetits</string>
+    <string name="gb_advance_settings_finger_up">Sensibilitat als cops continus</string>
     <string name="gb_advance_settings_follow_up">Resposta tàctil</string>
     <string name="gb_advance_settings_reset">Restaura la configuració per defecte</string>
     <string name="gb_advance_settings_reset_button">Restaura una còpia de seguretat</string>

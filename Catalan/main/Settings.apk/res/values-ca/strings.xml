@@ -41,7 +41,7 @@
     <string name="abc_slices_permission_request">%1$s vol mostrar les llesques de %2$s</string>
     <string name="abc_toolbar_collapse_description">Redueix</string>
     <string name="about_ad_service_instructions">Quant als serveis de publicitat i privacitat</string>
-    <string name="about_phone_device_name_warning">El nom del dispositiu és visible per a les aplicacions del telèfon. Altres persones també poden veure\'l quan us connecteu a dispositius Bluetooth o configureu un punt d’accés WLAN.</string>
+    <string name="about_phone_device_name_warning">Les aplicacions del telèfon poden veure el nom del dispositiu. També el poden veure altres persones quan us connecteu a dispositius Bluetooth o configureu un punt d\'accés Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Aprèn més</string>
     <string name="about_settings">Quant al telèfon</string>
     <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
@@ -133,7 +133,7 @@ Activeu aquesta funció i toqueu el botó Accessibilitat de la part inferior de 
     <string name="accessibility_more_settings">Configuració addicional</string>
     <string name="accessibility_no_service_selected">No s\'ha seleccionat cap servei</string>
     <string name="accessibility_no_services_installed">No s\'ha instal·lat cap servei</string>
-    <string name="accessibility_no_wifi">Desconnectat de WLAN.</string>
+    <string name="accessibility_no_wifi">Desconnectat de la Wi-Fi.</string>
     <string name="accessibility_notification_vibration_title">Notificació per vibració</string>
     <string name="accessibility_personal_account_title">Compte personal - %s</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">El botó d\'engegar penja la trucada</string>
@@ -270,13 +270,13 @@ Per canviar de funcions, feu lliscar el dit cap amunt amb 3 dits i manteniu prem
     <string name="accessibility_vibration_summary_off">So de trucada i notificació desactivat</string>
     <string name="accessibility_voice_access_title">Controls de veu</string>
     <string name="accessibility_vpn_settings_info">Configuració VPN</string>
-    <string name="accessibility_wifi_off">WLAN està desactivada.</string>
-    <string name="accessibility_wifi_one_bar">WLAN una barra.</string>
+    <string name="accessibility_wifi_off">La Wi-Fi està desactivada.</string>
+    <string name="accessibility_wifi_one_bar">Una barra de Wi-Fi.</string>
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
-    <string name="accessibility_wifi_signal_full">Senyal WLAN ple.</string>
-    <string name="accessibility_wifi_three_bars">WLAN tres barres.</string>
-    <string name="accessibility_wifi_two_bars">WLAN dues barres.</string>
+    <string name="accessibility_wifi_signal_full">Senyal de la Wi-Fi complet.</string>
+    <string name="accessibility_wifi_three_bars">Tres barres de Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dues barres de Wi-Fi.</string>
     <string name="accessibility_work_account_title">Compte de la feina - %s</string>
     <string name="accessibility_work_profile_app_description">Treball %s</string>
     <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
@@ -793,7 +793,7 @@ Per restringir l’aplicació, activeu primer l’optimització de la bateria."<
     <string name="backup_configure_account_title">Compte de la còpia de seguretat</string>
     <string name="backup_data">Còpies de seguretat</string>
     <string name="backup_data_management_title">Gestiona el compte de la còpia de seguretat</string>
-    <string name="backup_data_summary">Feu una còpia de seguretat de les dades de les aplicacions, contrasenyes de Wi-Fi i altres ajustos en els servidors de Google</string>
+    <string name="backup_data_summary">Feu una còpia de seguretat de les dades de les aplicacions, de les contrasenyes Wi-Fi i d\'altres paràmetres als servidors de Google</string>
     <string name="backup_data_title">Còpia de seguretat de les meves dades</string>
     <string name="backup_difference_content">"Còpies de seguretat locals:
 Les còpies de seguretat locals poden incloure dades d'aplicacions i normalment contenen més elements. Els fitxers de la còpia de seguretat s’emmagatzemen a MIUI-Backup-AllBackup i s’han de copiar a un ordinador un cop finalitzi el procés de la còpia de seguretat.
@@ -803,7 +803,7 @@ Les còpies de seguretat s’emmagatzemen a Xiaomi Cloud i s'hi pot accedir sens
 "</string>
     <string name="backup_difference_title">En què es diferencien les còpies de seguretat locals de les còpies de seguretat del núvol?</string>
     <string name="backup_disabled">Còpia de seguretat desactivada</string>
-    <string name="backup_erase_dialog_message">Deixeu de fer una còpia de seguretat de les vostres contrasenyes de WLAN, les adreces d\'interès, altres configuracions i dades de l\'aplicació i esborreu totes les còpies dels servidors de Google?</string>
+    <string name="backup_erase_dialog_message">Voleu deixar de fer una còpia de seguretat de les contrasenyes Wi-Fi, les adreces d\'interès, altres configuracions i les dades de les aplicacions i esborrar totes les còpies dels servidors de Google?</string>
     <string name="backup_inactive_title">"S'ha deshabilitat el servei de còpies de seguretat."</string>
     <string name="backup_more_settings">Configuració</string>
     <string name="backup_pw_cancel_button_text">Cancel·la</string>
@@ -842,7 +842,7 @@ Les còpies de seguretat s’emmagatzemen a Xiaomi Cloud i s'hi pot accedir sens
     <string name="battery_action_bluetooth">Configuració del Bluetooth</string>
     <string name="battery_action_display">Configuració de la pantalla</string>
     <string name="battery_action_stop">Força l\'aturada</string>
-    <string name="battery_action_wifi">Configuració de Wi-Fi</string>
+    <string name="battery_action_wifi">Configuració de la Wi-Fi</string>
     <string name="battery_active_for">Actiu durant ^ 1</string>
     <string name="battery_auto_restriction_summary">Detecta quan les aplicacions drenen la bateria</string>
     <string name="battery_auto_restriction_title">Utilitza el gestor de bateria</string>
@@ -857,7 +857,7 @@ Les còpies de seguretat s’emmagatzemen a Xiaomi Cloud i s'hi pot accedir sens
     <string name="battery_desc_unaccounted">Diversos usos de l\'energia</string>
     <string name="battery_desc_users">Bateria utilitzada per l\'usuari</string>
     <string name="battery_desc_voice">Bateria utilitzada per les trucades de veu</string>
-    <string name="battery_desc_wifi">Bateria utilitzada pel Wi-Fi</string>
+    <string name="battery_desc_wifi">Bateria utilitzada per la Wi-Fi</string>
     <string name="battery_detail_background">Mentre en segon pla</string>
     <string name="battery_detail_foreground">Mentre està en ús actiu</string>
     <string name="battery_detail_info_title">Des de la càrrega completa</string>
@@ -960,7 +960,7 @@ Les còpies de seguretat s’emmagatzemen a Xiaomi Cloud i s'hi pot accedir sens
     <string name="battery_sugg_bluetooth_headset">Proveu de connectar-ho a un altre dispositiu</string>
     <string name="battery_sugg_display">Reduiu la brillantor de la pantalla i/o el temps d\'apagada</string>
     <string name="battery_sugg_radio">Per estalviar energia en zones sense cobertura activeu el mode d\'avió</string>
-    <string name="battery_sugg_wifi">"Apagueu el Wi-Fi quan no l'utilitzeu o no sigui disponible"</string>
+    <string name="battery_sugg_wifi">"Desactiveu la Wi-Fi quan no la feu servir o quan no estigui disponible"</string>
     <string name="battery_suggestion_title">"Millora la durada de la bateria del telèfon"</string>
     <string name="battery_summary">%1$s d\'ús des de l\'última càrrega completa</string>
     <string name="battery_tip_dialog_message">"El vostre telèfon s'ha utilitzat més del que és habitual. La vostra bateria pot esgotar-se abans del previst.
@@ -1135,6 +1135,8 @@ Aplicacions:
     <string name="bluetooth_enable_alphanumeric_pin">El PIN conté lletres o símbols</string>
     <string name="bluetooth_enable_gabeldorsche">Activa Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Activa la pila de funcions Gabeldorsche Bluetooth.</string>
+    <string name="bluetooth_enable_page_scan">habilita l\'escaneig de pàgines bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">inhabilita/habilita l\'escaneig de pàgina per a la prova Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Escriviu el codi de sincronització i premeu Retorn o Enter</string>
     <string name="bluetooth_enter_passkey_other_device">També heu de teclejar el codi a l\'altre dispositiu.</string>
     <string name="bluetooth_enter_pin_other_device">També heu de teclejar el PIN a l\'altre dispositiu.</string>
@@ -1173,7 +1175,7 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_message_move_out_of_blacklist">Voleu desbloquejar %1$s ara?</string>
     <string name="bluetooth_mi_fast_connect">Vincula els dispositius compatibles</string>
     <string name="bluetooth_mi_fast_connect_summary">Connecteu-vos a dispositius propers mitjançant un procés de sincronització simplificat</string>
-    <string name="bluetooth_middle_name">Caixa</string>
+    <string name="bluetooth_middle_name">Estoig</string>
     <string name="bluetooth_move_out_of_blacklist">Desbloqueja el dispositiu</string>
     <string name="bluetooth_name_not_set">No s\'ha definit cap nom; s\'utilitza el nom del compte</string>
     <string name="bluetooth_no_devices_found">No s\'han trobat dispositius Bluetooth a prop.</string>
@@ -1182,7 +1184,7 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_notif_ticker">Petició de vinculació Bluetooth</string>
     <string name="bluetooth_notif_title">Sol·licitud de vinculació</string>
     <string name="bluetooth_off_footer">Activeu el Bluetooth per connectar-vos a altres dispositius.</string>
-    <string name="bluetooth_on_time">WLAN puntual</string>
+    <string name="bluetooth_on_time">Temps en Wi-Fi</string>
     <string name="bluetooth_only_visible_to_paired_devices">Només visible per a dispositius vinculats</string>
     <string name="bluetooth_opp_profile_summary_connected">S\'ha connectat al servidor de transferència de fitxers</string>
     <string name="bluetooth_opp_profile_summary_not_connected">No s\'ha connectat al servidor de transferència de fitxers</string>
@@ -1360,7 +1362,7 @@ Selecció"</string>
     <string name="bootloader_device_bind_fail">"No s'ha pogut verificar, espereu un o dos minuts i torneu-ho a provar"</string>
     <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
     <string name="bootloader_device_bind_no_account">Primer inicia la sessió al Compte Mi</string>
-    <string name="bootloader_device_bind_no_data_network">Desactiveu la WLAN i afegiu el compte i el dispositiu mitjançant dades mòbils.</string>
+    <string name="bootloader_device_bind_no_data_network">Desactiveu la Wi-Fi i afegiu el compte i el dispositiu mitjançant les dades mòbils.</string>
     <string name="bootloader_device_bind_no_network">Connecteu-vos a la xarxa i torneu-ho a provar</string>
     <string name="bootloader_device_bind_no_sim">Inseriu la targeta SIM i torneu-ho a provar.</string>
     <string name="bootloader_device_bind_server_code">"No s'ha pogut afegir. Codi d'error:"</string>
@@ -1369,10 +1371,10 @@ Selecció"</string>
     <string name="bootloader_device_bind_sim_invalid">La targeta SIM no és vàlida. Reemplaceu-la i torneu-ho a provar.</string>
     <string name="bootloader_locked_answer_1">"Bloquegem dispositius per assegurar-nos que estiguin segurs i que la vostra informació personal no es reveli a tercers. Si necessiteu accedir al mode Fastboot i flaixejar el dispositiu, desbloqueu-lo primer."</string>
     <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
-    <string name="bootloader_locked_answer_2">"1. Assegureu-vos que ja heu inserit una targeta SIM al vostre dispositiu.
-2. Desactiveu la WLAN i activeu les dades mòbils. Assegureu-vos que el vostre dispositiu es pugui connectar a Internet mitjançant les dades mòbils.
-3. Toqueu a continuació \"Afegir compte\" per associar el compte Mi amb aquest dispositiu.
-4. Baixeu l’eina de desbloqueig del nostre lloc web. Tingueu en compte que hauríeu de desbloquejar els dispositius amb un ordinador. Baixeu-ho aquí:"</string>
+    <string name="bootloader_locked_answer_2">"1. Assegureu-vos que ja heu inserit una targeta SIM al dispositiu.
+2. Desactiveu la Wi-Fi i activeu les dades mòbils. Assegureu-vos que el dispositiu es pugui connectar a Internet mitjançant dades mòbils.
+3. Toqueu \"Afegeix un compte\" a continuació per associar el vostre compte Mi a aquest dispositiu.
+4. Baixeu l'eina de desbloqueig del nostre lloc web. Tingueu en compte que haureu de desbloquejar els dispositius mitjançant un ordinador. Baixeu-ho aquí:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Toqueu \"Afegeix compte\" a continuació per associar el vostre compte Mi a aquest dispositiu.
 2. Baixeu l'eina de desbloqueig del nostre lloc web. Tingueu en compte que hauríeu de desbloquejar els dispositius amb un ordinador. Baixeu-ho aquí:"</string>
     <string name="bootloader_locked_check_status">Afegeix un compte i el dispositiu</string>
@@ -1609,9 +1611,9 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="change_security_lock">Prova altres formes de desbloqueig</string>
     <string name="change_storage">Canvia l\'emmagatzematge</string>
     <string name="change_theme_reboot">Caldrà reiniciar per canviar el tema.</string>
-    <string name="change_wifi_state_app_detail_summary">Permet a aquesta aplicació activar o desactivar la WLAN, escanejar i connectar-se a xarxes WLAN, afegir o suprimir xarxes o iniciar un punt d\'accés només local</string>
-    <string name="change_wifi_state_app_detail_switch">Permet que l\'aplicació controli la WLAN</string>
-    <string name="change_wifi_state_title">Control WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">Permet que aquesta aplicació activi o desactivi la Wi-Fi, escanegi i es connecti a xarxes Wi-Fi, afegeixi o elimini xarxes o iniciï un punt d\'accés només local</string>
+    <string name="change_wifi_state_app_detail_switch">Permet que l\'aplicació controli la Wi-Fi</string>
+    <string name="change_wifi_state_title">Control de la Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">A petició seva, Android està bloquejant l\'aparició d\'aquest grup de notificacions en aquest dispositiu</string>
     <string name="channel_notifications_off_desc">L\'Android està bloquejant que aquesta categoria de notificacions aparegui en aquest dispositiu</string>
     <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
@@ -1667,7 +1669,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="close_optimization_message">La disposició de text, els comptes i altres parts de MIUI poden veure\'s afectats un cop desactivada aquesta funció.</string>
     <string name="close_optimization_option">Desactivat</string>
     <string name="close_privacy_thumbnail_blur_title">"Les previsualitzacions no es difuminen"</string>
-    <string name="close_slave_wifi_hint">Desconnecteu les xarxes WLAN auxiliars abans d\'emetre</string>
+    <string name="close_slave_wifi_hint">Desconnecteu-vos de les xarxes Wi-Fi auxiliars abans d\'emetre</string>
     <string name="cloud_backup_section_title">Còpies de seguretat de Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Còpia de seguretat de la configuració</string>
     <string name="cloud_category_text">Núvol</string>
@@ -1884,7 +1886,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="create">Crea</string>
     <string name="credential_contains">Aquesta entrada conté:</string>
     <string name="credential_for_vpn_and_apps">Instal·lat per a VPN i aplicacions</string>
-    <string name="credential_for_wifi">Instal·lat per Wi-Fi</string>
+    <string name="credential_for_wifi">Instal·lat per a la Wi-Fi</string>
     <string name="credential_storage_type">Tipus d\'emmagatzematge</string>
     <string name="credential_storage_type_hardware">Només maquinari</string>
     <string name="credential_storage_type_software">Només programari</string>
@@ -1961,7 +1963,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
     <string name="custom_carrier_title">Edita el nom de l\'operador</string>
     <string name="custom_color">Personalitzat</string>
     <string name="custom_gesture_title">Gestos personalitzats</string>
-    <string name="custom_wifi_name_title">Edita el nom de la WLAN</string>
+    <string name="custom_wifi_name_title">Edita el nom de la Wi-Fi</string>
     <string name="cutout_mode_always">Mostra sempre el notch</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Algunes aplicacions es poden mostrar incorrectament si personalitzeu la forma en què es mostra el notch.</string>
@@ -2073,7 +2075,7 @@ Alguns comptes també poden copiar automàticament els canvis que feu des del te
     <string name="data_usage_disable_4g_limit">Estableix el límit de dades 4G</string>
     <string name="data_usage_disable_mobile">Voleu desactivar les dades mòbils?</string>
     <string name="data_usage_disable_mobile_limit">Defineix el límit de dades</string>
-    <string name="data_usage_disable_wifi_limit">Estableix el límit de dades Wi-Fi</string>
+    <string name="data_usage_disable_wifi_limit">Estableix un límit de dades Wi-Fi</string>
     <string name="data_usage_disclaimer">El recompte de dades de l\'operador de telefonia mòbil pot ser diferent del calculat pel dispositiu.</string>
     <string name="data_usage_empty">Cap aplicació no ha utilitzat dades en aquest període.</string>
     <string name="data_usage_enable_3g">Dades 2G-3G</string>
@@ -2097,25 +2099,25 @@ Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l'oper
     <string name="data_usage_menu_restrict_background">Restringeix les dades en segon pla</string>
     <string name="data_usage_menu_roaming">Itinerància de dades</string>
     <string name="data_usage_menu_show_ethernet">Mostra l\'ús d\'Ethernet</string>
-    <string name="data_usage_menu_show_wifi">Mostra l\'ús del Wi-Fi</string>
+    <string name="data_usage_menu_show_wifi">Mostra l\'ús de la Wi-Fi</string>
     <string name="data_usage_menu_sim_cards">Targetes SIM</string>
     <string name="data_usage_menu_split_4g">Separa l\'ús de 4G</string>
     <string name="data_usage_metered_auto">Automàtic</string>
-    <string name="data_usage_metered_body">Indiqueu quines xarxes Wi-Fi són punts d\'accés portàtils. Les aplicacions poden restringir-se a utilitzar aquestes xarxes en segon pla. Les aplicacions també li notificaran abans d\'usar aquestes xarxes per a baixades grans.</string>
+    <string name="data_usage_metered_body">Indiqueu quines xarxes Wi-Fi són punts d\'accés portàtils. Es pot restringir l’ús d’aquestes xarxes en segon pla a les aplicacions. Les aplicacions també us avisaran abans d\'utilitzar aquestes xarxes per a baixades grans.</string>
     <string name="data_usage_metered_mobile">Xarxes mòbils</string>
     <string name="data_usage_metered_no">Sense mesurar</string>
     <string name="data_usage_metered_title">Restriccions de la xarxa</string>
     <string name="data_usage_metered_wifi">Xarxes Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Per seleccionar punts d\'accés mòbils, activeu el Wi-Fi.</string>
+    <string name="data_usage_metered_wifi_disabled">Per seleccionar els punts d\'accés, activeu la Wi-Fi.</string>
     <string name="data_usage_metered_yes">Mesurat</string>
     <string name="data_usage_ota">Actualitzacions del sistema</string>
     <string name="data_usage_other_apps">Altres aplicacions que utilitzen dades</string>
     <string name="data_usage_pick_cycle_day">Dia del mes per a restablir el cicle d\'ús de dades:</string>
     <string name="data_usage_received_sent">%1$s rebuts, %2$s enviats</string>
-    <string name="data_usage_restrict_background">"Si restringiu les dades mòbils en segon pla, algunes aplicacions i serveis no funcionaran si no esteu connectat a una xarxa Wi-Fi."</string>
-    <string name="data_usage_restrict_background_multiuser">"Si restringiu les dades mòbils de fons, algunes aplicacions i serveis no funcionaran correctament tret que estiguis connectat a una xarxa WLAN.
+    <string name="data_usage_restrict_background">"Si restringiu les dades mòbils en segon pla, algunes aplicacions i serveis no funcionaran tret que estigueu connectats a una xarxa Wi-Fi."</string>
+    <string name="data_usage_restrict_background_multiuser">"Si restringiu les dades mòbils en segon pla, algunes aplicacions i serveis no funcionaran correctament tret que estigueu connectats a una xarxa Wi-Fi.
 
-Aquesta configuració afecta tots els usuaris d’aquest dispositiu."</string>
+Aquesta configuració afecta tots els usuaris d'aquest dispositiu."</string>
     <string name="data_usage_restrict_background_title">Voleu restringir l\'ús de dades en segon pla?</string>
     <string name="data_usage_restrict_denied_dialog">Només es pot restringir les dades en segon pla quan heu establert un límit de dades mòbils.</string>
     <string name="data_usage_summary_format">%1$s de dades utilitzades</string>
@@ -2507,17 +2509,17 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="doze_always_on_title">Pantalla ambiental</string>
     <string name="doze_summary">Quan la pantalla està fosca, s’activa per a les noves notificacions</string>
     <string name="doze_title">Pantalla despertada per a notificacions</string>
-    <string name="dpp_before_share_summary">Voleu compartir la xarxa WLAN \"%1$s\" amb una altra persona?</string>
+    <string name="dpp_before_share_summary">Voleu compartir la xarxa Wi-Fi \"%1$s\" amb una altra persona?</string>
     <string name="dpp_cannot_connect_target">"No es pot connectar a la xarxa de destinació"</string>
     <string name="dpp_connect_success">S\'ha connectat correctament</string>
     <string name="dpp_not_support">"No es pot compartir aquesta xarxa"</string>
-    <string name="dpp_qr_code_summary">Connecteu-vos a una xarxa WLAN escanejant aquest codi QR.</string>
+    <string name="dpp_qr_code_summary">Connecteu-vos a la xarxa Wi-Fi escanejant aquest codi QR.</string>
     <string name="dpp_qrcode_generator_summary">Escaneja aquest codi QR amb un dispositiu compatible amb Easy Connect</string>
     <string name="dpp_scanner_summary">Col·loqueu el codi QR dins del marc</string>
-    <string name="dpp_shared_fail">"No s'ha pogut compartir la WLAN"</string>
-    <string name="dpp_shared_success">WLAN compartida correctament</string>
-    <string name="dpp_sharing_wifi_summary">S\'està compartint la WLAN…</string>
-    <string name="dpp_theme_title">WLAN compartida</string>
+    <string name="dpp_shared_fail">"No s'ha pogut compartir la Wi-Fi"</string>
+    <string name="dpp_shared_success">S\'ha compartit la Wi-Fi correctament</string>
+    <string name="dpp_sharing_wifi_summary">S\'està compartint la Wi-Fi…</string>
+    <string name="dpp_theme_title">Wi-Fi compartit</string>
     <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
     <string name="dsu_is_running">El DSU s\'està executant</string>
     <string name="dsu_loader_description">Carregueu una imatge d’actualització de sistema dinàmic</string>
@@ -2531,22 +2533,22 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="dual_clock_hint">El rellotge dual requereix utilitzar el giny del rellotge del sistema i el tema per defecte</string>
     <string name="dual_clock_ok">Entesos</string>
     <string name="dual_clock_open_message">El rellotge doble es mostrarà a la pantalla de bloqueig i a la pantalla inicial.</string>
-    <string name="dual_wifi">Impuls de velocitat WLAN de doble banda</string>
+    <string name="dual_wifi">Augment de la velocitat Wi-Fi de doble banda</string>
     <string name="dual_wifi_acceleration">Potencia la velocitat</string>
     <string name="dual_wifi_auto_disable">Deixa d’incrementar la velocitat automàticament</string>
-    <string name="dual_wifi_auto_disable_summary">Desconnecta de les xarxes WLAN auxiliars quan la pantalla s’apagui per estalviar energia</string>
+    <string name="dual_wifi_auto_disable_summary">Desconnecta de les xarxes Wi-Fi auxiliars quan la pantalla estigui apagada per estalviar energia</string>
     <string name="dual_wifi_avaliable_slave_wifi">Xarxes auxiliars disponibles</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Xarxes auxiliars disponibles (banda de 2,4 GHz)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Xarxes auxiliars disponibles (banda de 5 GHz)</string>
-    <string name="dual_wifi_enabler_summary">Potenciar la velocitat WLAN combinant xarxes</string>
+    <string name="dual_wifi_enabler_summary">Augmenta la velocitat de la Wi-Fi combinant les xarxes</string>
     <string name="dual_wifi_off">Desactivat</string>
     <string name="dual_wifi_on">Activat</string>
-    <string name="dual_wifi_primary_wifi_connected">Xarxa WLAN principal</string>
-    <string name="dual_wifi_slave_wifi_connected">Xarxa WLAN auxiliar</string>
-    <string name="dual_wifi_summary">Potenciar la velocitat WLAN connectant-se a xarxes auxiliars</string>
+    <string name="dual_wifi_primary_wifi_connected">Xarxa Wi-Fi principal</string>
+    <string name="dual_wifi_slave_wifi_connected">Xarxa Wi-Fi auxiliar</string>
+    <string name="dual_wifi_summary">Augmenta la velocitat de la Wi-Fi mitjançant la connexió a xarxes auxiliars</string>
     <string name="dual_wifi_switching_not_remind">"No tornis a mostrar-ho"</string>
     <string name="dual_wifi_switching_prompt">Canvi entre xarxes</string>
-    <string name="dual_wifi_switching_summary">La velocitat WLAN de doble banda necessita utilitzar dues bandes WLAN diferents. Si us connecteu a una xarxa principal diferent, es perdrà la connexió auxiliar.</string>
+    <string name="dual_wifi_switching_summary">L’augment de velocitat de la Wi-Fi de doble banda ha d’utilitzar dues bandes Wi-Fi diferents. Si us connecteu a una xarxa principal diferent, es perd la connexió auxiliar.</string>
     <string name="dump_log">Obté registres relacionats amb els problemes</string>
     <string name="dump_log_summary">"Aquesta característica està dissenyada per generar el registre %s a la versió beta de MIUI. Utilitzeu-lo amb precaució.
 Podeu veure els registres generats al Gestor de fitxers."</string>
@@ -2758,7 +2760,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="extreme_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
     <string name="extreme_threats_title">Amenaces extremes</string>
     <string name="face_add_max">Podeu afegir fins a %d cares</string>
-    <string name="face_data_apply_for_category_title">Desbloquegeu l’ús de les dades de cara</string>
+    <string name="face_data_apply_for_category_title">Desbloqueja amb dades facials</string>
     <string name="face_data_apply_for_keyguard_title">Pantalla de bloqueig</string>
     <string name="face_data_input_camera_fail">"No s'ha pogut carregar la càmera"</string>
     <string name="face_data_input_camera_ok">S\'està carregant la càmera…</string>
@@ -2774,9 +2776,9 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_data_manage_delete_msg">Suprimeix les dades de la cara</string>
     <string name="face_data_manage_delete_sure">"No podreu desbloquejar el dispositiu utilitzant les dades de la vostra cara després de suprimir-les."</string>
     <string name="face_data_manage_unlock_liftcamera_msg">Després que la pantalla s\'il·lumini, feu lliscar el dit cap amunt per desbloquejar el dispositiu mitjançant les dades de la cara.</string>
-    <string name="face_data_manage_unlock_msg">Desbloquegeu el dispositiu mitjançant les dades de la vostra cara</string>
+    <string name="face_data_manage_unlock_msg">Desbloqueja el dispositiu mitjançant les dades de la cara</string>
     <string name="face_data_manage_unlock_slide_msg">Substituïu les dreceres lliscants per desbloqueig facial</string>
-    <string name="face_data_manage_unlock_title">Desbloquegeu l’ús de les dades de cara</string>
+    <string name="face_data_manage_unlock_title">Desbloqueja amb dades facials</string>
     <string name="face_data_siggesstion_next">Pròxim</string>
     <string name="face_data_siggesstion_next_time">Següent (%ds)</string>
     <string name="face_data_suggesstion_first">Problemes de seguretat: el desbloqueig facial és menys segur que un PIN, una contrasenya o un patró. És possible que el vostre dispositiu es pugui desbloquejar amb la vostra foto, així com per persones o objectes que semblin similars.</string>
@@ -2786,7 +2788,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_lock_screen_setup_skip_dialog_text">En protegir el telèfon amb una opció de bloqueig de pantalla, ningú no podrà utilitzar-lo si es perd o es roba. També necessiteu una opció de bloqueig de pantalla per configurar el desbloqueig de cara. Per tornar enrere, toqueu Cancel·la.</string>
     <string name="face_unlock">Desbloqueig facial</string>
     <string name="face_unlock_be_on_the_screen">Agafeu el dispositiu davant de la cara</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Podeu desbloquejar el dispositiu amb les dades de la cara sempre que la pantalla s\'il·lumini per a les notificacions entrants. Això pot drenar la bateria més ràpidament.</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Podeu desbloquejar el dispositiu mitjançant les dades facials sempre que la pantalla s\'il·lumini per rebre notificacions entrants. Això pot esgotar la bateria més ràpidament.</string>
     <string name="face_unlock_by_notification_screen_on_title">Permet que es desbloqueixi la cara quan s\'il·lumini la pantalla</string>
     <string name="face_unlock_category_title">Opcions de la pantalla de bloqueig</string>
     <string name="face_unlock_check_failed">"No us podria reconèixer"</string>
@@ -2817,8 +2819,8 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="face_unlock_success_show_message_dialog_negative_btn">No gràcies</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Permetre</string>
     <string name="face_unlock_success_show_message_dialog_title">Notificacions de la pantalla de bloqueig</string>
-    <string name="face_unlock_success_show_message_msg">Mostra només l’origen de notificació quan el dispositiu està bloquejat i afegeix detalls de notificació després de verificar les dades de la cara</string>
-    <string name="face_unlock_success_show_message_title">Mostra els detalls de les notificacions després de verificar les dades de la cara</string>
+    <string name="face_unlock_success_show_message_msg">Mostra només la font de les notificacions quan el dispositiu està bloquejat i afegiu els detalls de la notificació després de verificar les dades facials</string>
+    <string name="face_unlock_success_show_message_title">Mostra els detalls de les notificacions després de verificar les dades facials</string>
     <string name="face_unlock_success_show_message_toast">Les notificacions es mostraran a la pantalla de bloqueig</string>
     <string name="face_unlock_success_stay_screen_msg">Quedeu-vos a la pantalla de bloqueig una vegada verificada la vostra cara. Feu lliscar el dit cap amunt per obrir la pantalla d\'inici.</string>
     <string name="face_unlock_success_stay_screen_title">Manteniu-vos a la pantalla de bloqueig després del desbloqueig</string>
@@ -2934,7 +2936,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="firewall_set_bg_firewall_default_dialog_title">Restricció de la connexió de fons per a noves aplicacions</string>
     <string name="firewall_temp_rule_reason">%2$s va restringir la connexió a Internet per a %1$s</string>
     <string name="firewall_wifi">Wi-Fi</string>
-    <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat."</string>
+    <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no es podrà connectar a Internet mitjançant la Wi-Fi quan aquest commutador estigui desactivat."</string>
     <string name="firmware_version">Android</string>
     <string name="flash_drive_backup_disable">Connecteu primer la unitat USB</string>
     <string name="flash_drive_backup_enable">Utilitzeu una unitat USB per fer còpies de seguretat o restaurar elements</string>
@@ -3050,12 +3052,12 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
     <string name="free_wifi_confirm">Ho tinc</string>
     <string name="free_wifi_connect">Connecta</string>
     <string name="free_wifi_connect_dialog_summary">%1$s és proporcionat per %2$s i Xiaomi.</string>
-    <string name="free_wifi_connect_dialog_title">Disponible de WLAN gratuïta</string>
+    <string name="free_wifi_connect_dialog_title">Hi ha Wi-Fi gratuïta</string>
     <string name="free_wifi_connect_fail">"No s'ha pogut connectar a la xarxa. Torna-ho a provar."</string>
     <string name="free_wifi_connect_fail2">"No s'ha pogut iniciar la sessió. Espere un minut o dos i torna-ho a provar."</string>
     <string name="free_wifi_connect_summary">Proporcionat per %1$s i Xiaomi. Toqueu per connectar-vos.</string>
     <string name="free_wifi_connect_title">Wi-Fi disponible</string>
-    <string name="free_wifi_connected">S\'ha connectat a Wi-Fi oberta</string>
+    <string name="free_wifi_connected">Connectat a Wi-Fi gratuït</string>
     <string name="free_wifi_connected_time">Durada: %1$s</string>
     <string name="free_wifi_connecting">S\'està connectant&#8230;</string>
     <string name="free_wifi_login_again">Torna a iniciar la sessió</string>
@@ -3087,13 +3089,13 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
     <string name="full_screen_keyboard_optimization">Teclat millorat</string>
     <string name="full_screen_keyboard_settings">Configuració del teclat de pantalla completa</string>
     <string name="full_transparent_smarrcover_title">Tapa frontal transparent</string>
-    <string name="fullbackup_data_summary">"Fa una còpia de seguretat automàticament de les dades del dispositiu (com ara contrasenyes de la WLAN i historial de trucades) i de les dades de les aplicacions (com ara la configuració i els fitxers emmagatzemats per les aplicacions) de forma remota.
+    <string name="fullbackup_data_summary">"Feu una còpia de seguretat automàticament de les dades del dispositiu (com ara contrasenyes Wi-Fi i historial de trucades) i de les dades de les aplicacions (com ara la configuració i els fitxers emmagatzemats per les aplicacions) de forma remota.
 
 Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de les aplicacions es desen periòdicament de forma remota. Les dades de l'aplicació poden ser qualsevol dada que una aplicació hagi desat (segons la configuració del desenvolupador), incloses les dades potencialment sensibles, com ara contactes, missatges i fotos."</string>
-    <string name="fullbackup_erase_dialog_message">Voleu deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades Wi-Fi) i dades d\'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d\'esborrar totes les còpies a Google Drive?</string>
+    <string name="fullbackup_erase_dialog_message">Voleu deixar de fer una còpia de seguretat de les dades del dispositiu (com ara contrasenyes Wi-Fi i historial de trucades) i de les dades de les aplicacions (com ara la configuració i els fitxers emmagatzemats per les aplicacions), a més d\'esborrar totes les còpies dels servidors remots?</string>
     <string name="function_description">Sobre aquesta funció</string>
     <string name="gadget_picker_title">Trieu un giny</string>
-    <string name="gadget_toggle_wifi">Actualització de la configuració Wi-Fi</string>
+    <string name="gadget_toggle_wifi">S\'està actualitzant la configuració de la Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Les fotos privades es desaran aquí.</string>
     <string name="game_booster">Joc;Jocs;Turbo;Jocs;Mode de joc</string>
@@ -3148,7 +3150,7 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="graphics_driver_dashboard_summary">Modifiqueu la configuració del controlador gràfic</string>
     <string name="graphics_driver_dashboard_title">Preferències del controlador gràfic</string>
     <string name="graphics_driver_footer_text">Quan hi hagi diversos controladors gràfics, podeu triar el controlador gràfic actualitzat per a aplicacions instal·lades al dispositiu.</string>
-    <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
+    <string name="gsm_to_wifi_connect_type_title">De GSM a Wi-Fi</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Mode de xarxa</string>
     <string name="gsm_umts_network_preferences_title">Mode de xarxa</string>
     <string name="guest_exit_guest">Elimina el convidat</string>
@@ -3620,7 +3622,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="keywords_voice_input">reconeixedor entrada veu parlar idioma mans lliures mans-lliures gratuït reconeixement paraula ofensiva àudio historial bluetooth auriculars</string>
     <string name="keywords_vr_listener">RV realitat virtual processador estèreo servei ajuda</string>
     <string name="keywords_wallpaper">fons, pantalla, pantalla de bloqueig, tema</string>
-    <string name="keywords_wifi">wifi;wi-fi;WLAN;WLAN;wlan;WLAN</string>
+    <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;Wi-Fi;wlan;Wi-Fi</string>
     <string name="keywords_wifi_calling">wifi, wi-fi, trucada, trucar</string>
     <string name="keywords_wifi_data_usage">ús de dades</string>
     <string name="keywords_wifi_display_settings">mirall</string>
@@ -3661,6 +3663,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="launch_wechat_scanner">Escàner WeChat</string>
     <string name="launch_wifi_text">Mostra els detalls</string>
     <string name="launcher_icon">Icones</string>
+    <string name="launcher_icon_management">Gestioneu les dreceres de la pantalla d\'inici</string>
     <string name="launcher_title">Pantalla d\'inici</string>
     <string name="launching_cit">Llançament del CIT…</string>
     <string name="launching_pho">Obertura de la informació del dispositiu…</string>
@@ -3696,7 +3699,7 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="lights_title">Llum LED</string>
     <string name="line_breaking_summary">Optimitza els salts de línia del paràgraf</string>
     <string name="line_breaking_title">Optimitza el text</string>
-    <string name="link_turbo_prompt">"Les estadístiques d'aquesta pàgina mostren només la quantitat de dades que s'utilitza per augmentar la velocitat de connexió WLAN. Aquestes estadístiques no reflecteixen l’ús real de dades mòbils."</string>
+    <string name="link_turbo_prompt">"Les estadístiques d'aquesta pàgina només mostren la quantitat de dades utilitzades per augmentar la velocitat de la connexió Wi-Fi. Aquestes estadístiques no reflecteixen l'ús real de dades mòbils."</string>
     <string name="link_turbo_settings_all_app_display_loading">Un moment…</string>
     <string name="link_turbo_settings_all_app_reach_max">Podeu seleccionar fins a 15 aplicacions</string>
     <string name="link_turbo_usage_state_month">Aquest mes</string>
@@ -3759,9 +3762,9 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="location_gps">Satèl·lits GPS</string>
     <string name="location_high_battery_use">Ús de bateria elevat</string>
     <string name="location_low_battery_use">Poc ús de bateria</string>
-    <string name="location_mode_battery_saving_description">Utilitza el senyal Wi-Fi i xarxes mòbils per a determinar la ubicació</string>
+    <string name="location_mode_battery_saving_description">Utilitza les xarxes Wi-Fi, Bluetooth o mòbils per determinar la ubicació</string>
     <string name="location_mode_battery_saving_title">Estalvi de la bateria</string>
-    <string name="location_mode_high_accuracy_description">Utilitza el GPS, Wi-Fi i xarxes mòbils per a determinar la ubicació</string>
+    <string name="location_mode_high_accuracy_description">Utilitza les xarxes GPS, Wi-Fi, Bluetooth o mòbils per determinar la ubicació</string>
     <string name="location_mode_high_accuracy_title">Alta precisió</string>
     <string name="location_mode_location_off_title">Ubicació desactivada</string>
     <string name="location_mode_screen_title">Mode d\'ubicació</string>
@@ -3769,9 +3772,9 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="location_mode_sensors_only_title">Només el dispositiu</string>
     <string name="location_modem_summary">Els operadors coneixeran la vostra ubicació mitjançant estacions base</string>
     <string name="location_modem_title">Compartiu informació d’ubicació amb el transportista</string>
-    <string name="location_neighborhood_level">Permet que les aplicacions utilitzin xarxes mòbils i WLAN per estimar la vostra ubicació</string>
-    <string name="location_neighborhood_level_wifi">Ubicació determinada per Wi-Fi</string>
-    <string name="location_network_based">Xarxes mòbils WLAN &amp;</string>
+    <string name="location_neighborhood_level">Permet que les aplicacions utilitzin les xarxes Wi-Fi i mòbils per calcular la vostra ubicació</string>
+    <string name="location_neighborhood_level_wifi">Ubicació determinada per la Wi-Fi</string>
+    <string name="location_network_based">Wi-Fi i xarxes mòbils</string>
     <string name="location_no_recent_accesses">Cap aplicació ha accedit recentment a la ubicació</string>
     <string name="location_no_recent_apps">Cap aplicació no ha sol·licitat la ubicació recentment</string>
     <string name="location_recent_location_access_view_details">Mostra els detalls</string>
@@ -4284,8 +4287,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miui_allow_vibrate">Vibració</string>
     <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
     <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
-    <string name="miui_face_enroll_success">"Ja podeu desbloquejar aquest dispositiu mitjançant les vostres dades de cara.
-Continua per accedir a la configuració addicional."</string>
+    <string name="miui_face_enroll_success">"Ja podeu desbloquejar aquest dispositiu mitjançant les vostres dades facials.
+Continueu per accedir a la configuració addicional."</string>
     <string name="miui_input_method_settings">Configuració del mètode d\'entrada</string>
     <string name="miui_lab_ai_cloud_closed">"La precàrrega IA encara no està disponible."</string>
     <string name="miui_lab_ai_preload_desc">La precàrrega IA accelera l\'arrencada de les aplicacions</string>
@@ -4325,7 +4328,7 @@ Continua per accedir a la configuració addicional."</string>
     <string name="miui_sos_emergency_contacts">Contactes d\'emergència</string>
     <string name="miui_sos_emergency_delete">Suprimeix</string>
     <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) ha rebut el missatge</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">%1$s rebut el missatge</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1$s ha rebut el missatge</string>
     <string name="miui_sos_emergency_failed_sms">"No s'ha pogut enviar el missatge a %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"No s'ha pogut enviar el missatge a %1s."</string>
     <string name="miui_sos_enable_switch_summary">Premeu 5 cops seguits el botó d\'engegada, ràpidament, per enviar un missatge de text de SOS amb la vostra ubicació als vostres contactes d\'emergència</string>
@@ -4378,7 +4381,7 @@ Continua per accedir a la configuració addicional."</string>
     <string name="mobile_connect_to_internet">Connecteu-vos a internet</string>
     <string name="mobile_data_active">Dades mòbils actives</string>
     <string name="mobile_data_always_on">Mantingueu sempre les dades mòbils activades</string>
-    <string name="mobile_data_always_on_summary">Mantén les dades mòbils sempre actives, fins i tot quan la Wi‑Fi està activada (per canviar de xarxa ràpidament).</string>
+    <string name="mobile_data_always_on_summary">Manté sempre actives les dades mòbils, fins i tot quan la Wi-Fi està activa (per canviar ràpidament de xarxa).</string>
     <string name="mobile_data_ap_mode_disabled">No disponible durant el mode avió</string>
     <string name="mobile_data_off">Dades mòbils desactivades</string>
     <string name="mobile_data_settings_summary">Accedeix a les dades mitjançant la xarxa mòbil</string>
@@ -4610,7 +4613,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="network_reset_not_available">Aquest usuari no pot restaurar-ho a configuració de fàbrica</string>
     <string name="network_restrictions">Restriccions de xarxa</string>
     <string name="network_scorer_change_active_dialog_text">Voleu utilitzar %1$s en comptes de %2$s per a gestionar les connexions de xarxa?</string>
-    <string name="network_scorer_change_active_dialog_title">Voleu canviar l’assistent de Wi-Fi?</string>
+    <string name="network_scorer_change_active_dialog_title">Voleu canviar l’assistent de la Wi-Fi?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Voleu utilitzar %s per a gestionar les connexions de xarxa?</string>
     <string name="network_scorer_picker_none_preference">Cap</string>
     <string name="network_scorer_picker_title">Proveïdor de qualificació de xarxa</string>
@@ -4734,10 +4737,10 @@ Es substitueix a %2$s com a aplicació de pagament predeterminada."</string>
     <string name="no_default_home">No seleccionat</string>
     <string name="no_device_admins">No hi ha cap administrador del dispositiu disponible</string>
     <string name="no_internet_access_remember">No ho tornis a preguntar en aquesta xarxa</string>
-    <string name="no_internet_access_text">La xarxa WiFi %1$s no té accés a internet. Voleu continuar connectats?</string>
+    <string name="no_internet_access_text">La xarxa Wi-Fi %1$s no té accés a Internet. Voleu mantenir-vos connectats?</string>
     <string name="no_media_button_receiver">No</string>
     <string name="no_memory_use_summary">No s\'ha utilitzat memòria durant les darreres 3 hores</string>
-    <string name="no_nearby_wifi">"No s'han pogut trobar xarxes WLAN a prop. Proveu d’afegir xarxes manualment."</string>
+    <string name="no_nearby_wifi">"No s'han pogut trobar xarxes Wi-Fi a prop. Proveu d'afegir les xarxes manualment."</string>
     <string name="no_notification_assistant">Cap</string>
     <string name="no_notification_listeners">Cap aplicació instal·lada ha sol·licitat accés a les notificacions.</string>
     <string name="no_running_services">No s\'està executant res.</string>
@@ -5077,7 +5080,7 @@ OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
     <string name="partial_connectivity_text">És possible que algunes aplicacions i serveis no funcionin a causa de la connectivitat limitada. Voleu fer-ho servir de totes maneres?</string>
     <string name="passpoint_content">%1$s certificats</string>
     <string name="passpoint_label">S\'ha desat mitjançant</string>
-    <string name="passpoint_r1_privacy_dialog_message">"Aquest servei de WLAN el proporcionen exands. Us permet connectar-vos automàticament a punts d'accés propers compatibles.
+    <string name="passpoint_r1_privacy_dialog_message">"Aquest servei de Wi-Fi és proporcionat per exands. Us permet connectar-vos automàticament a punts d'accés propers compatibles.
 
 Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="passpoint_r1_privacy_dialog_no">Cancel·la</string>
@@ -5277,7 +5280,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="preferred_application_warning_replace">Reemplaça</string>
     <string name="preferred_application_warning_title">Reemplaça l\'aplicació %s per defecte</string>
     <string name="preferred_application_warning_use_system">Utilitza %s</string>
-    <string name="preferred_media_app_summary">Selecciona el reproductor de música</string>
+    <string name="preferred_media_app_summary">Seleccioneu un reproductor de música</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Mode de xarxa preferit: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Mode de xarxa preferit: CDMA / EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Mode de xarxa preferit: només CDMA</string>
@@ -5542,7 +5545,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="radioInfo_service_off">Ràdio apagada</string>
     <string name="radioInfo_service_out">Sense servei</string>
     <string name="radioInfo_unknown">desconegut</string>
-    <string name="radio_controls_summary">Gestiona la xarxa WLAN, Bluetooth, mode avió, xarxes mòbils, &amp; VPN</string>
+    <string name="radio_controls_summary">Gestioneu Wi-Fi, Bluetooth, mode avió, xarxes mòbils i VPN</string>
     <string name="radio_controls_title">Més</string>
     <string name="radio_info_asdiv_switch_label">Estat ASDiv:</string>
     <string name="radio_info_http_client_test">Prova de client HTTP:</string>
@@ -5552,7 +5555,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="rank_title">Classificacions</string>
     <string name="rarely_running">S\'executa poques vegades (%s)</string>
     <string name="reading_data">S\'està obtenint informació&#8230;</string>
-    <string name="reading_settings">Configuració de lectura…</string>
+    <string name="reading_settings">S\'està llegint la configuració…</string>
     <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
     <string name="really_remove_account_title">Voleu eliminar el compte?</string>
     <string name="rebootiing_for_updates">S\'està actualitzant…</string>
@@ -5632,8 +5635,8 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="reset_network_final_button_text">Reinicia la configuració</string>
     <string name="reset_network_final_desc">"Voleu reiniciar tots els paràmetres de la xarxa? No podreu recuperar-los!"</string>
     <string name="reset_network_final_desc_esim">Voleu restablir totes les configuracions de xarxa i esborrar les SIM baixades? No podreu desfer aquesta acció.</string>
-    <string name="reset_network_title">Reinicia WLAN, xarxes mòbils i Bluetooth</string>
-    <string name="reset_network_wifi">WLAN</string>
+    <string name="reset_network_title">Restableix la Wi-Fi, les xarxes mòbils i el Bluetooth</string>
+    <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Tots els elements esmentats anteriorment s’esborraran permanentment. Feu una còpia de seguretat de tots els elements importants a l\'ordinador o a Xiaomi Cloud abans de continuar.</string>
     <string name="reset_second_space_passwd">Restableix la contrasenya del Segon espai</string>
     <string name="reset_second_space_passwd_cancel">Cancel·la</string>
@@ -5679,7 +5682,7 @@ Reinicieu el dispositiu i torneu-ho a provar."</string>
     <string name="restriction_nfc_enable_summary_config">Permet l\'intercanvi de dades quan %1$s toca un altre dispositiu NFC</string>
     <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_settings_title">Restriccions</string>
-    <string name="restriction_wifi_config_summary">Permet modificar la configuració de la Wi-Fi i de la xarxa mòbil</string>
+    <string name="restriction_wifi_config_summary">Permet modificar la configuració de la xarxa Wi-Fi i mòbil</string>
     <string name="restriction_wifi_config_title">Wi-Fi i xarxes mòbils</string>
     <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
     <string name="retail_demo_reset_next">Següent</string>
@@ -5752,10 +5755,10 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="saved_wifi">Xarxes desades</string>
     <string name="saved_wifi_delete">Elimina</string>
     <string name="scan_list_label">Resultats de l\'escaneig:</string>
-    <string name="scanning_status_text_wifi_off_ble_off">Tant l\'escaneig WLAN com el Bluetooth estan desactivats</string>
-    <string name="scanning_status_text_wifi_off_ble_on">L\'escaneig Bluetooth està activat, l\'escaneig WLAN està desactivat</string>
-    <string name="scanning_status_text_wifi_on_ble_off">L\'escaneig WLAN està activat, l\'escaneig Bluetooth està desactivat</string>
-    <string name="scanning_status_text_wifi_on_ble_on">Tant l\'escaneig WLAN com el Bluetooth estan activats</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Tant l\'escaneig per Wi-Fi com per Bluetooth estan desactivats</string>
+    <string name="scanning_status_text_wifi_off_ble_on">L’escaneig per Bluetooth està activat, l’escaneig per Wi-Fi està desactivat</string>
+    <string name="scanning_status_text_wifi_on_ble_off">L’escaneig per Wi-Fi està activat i l’escaneig per Bluetooth està desactivat</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Tant l\'escaneig per Wi-Fi com per Bluetooth estan activats</string>
     <string name="screen">Pantalla</string>
     <string name="screen_cancel">Cancel·la</string>
     <string name="screen_color_and_optimize">Colors i contrast</string>
@@ -5991,7 +5994,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="search_accessibility_settings">Facilitat d\'accés</string>
     <string name="search_account_list">Altres comptes;Comptes;Comptes</string>
     <string name="search_add_facerecoginition_text">Desbloqueig facial;Reconeixement facial</string>
-    <string name="search_advanced_settings">Configuració avançada; Wi-Fi;Configuració de la Wi-Fi;Configuració de la xarxa sense fils</string>
+    <string name="search_advanced_settings">Configuració avançada;Wifi;Configuració de Wifi;Configuració de Wi-Fi</string>
     <string name="search_airplane_mode">Mode avió;Mode avió;Mode de vol;Avió;Avió;Vol</string>
     <string name="search_alarm_sound_title">So de l\'alarma;to d\'alarma;alarma</string>
     <string name="search_ambient_display_screen_title">Pantalla ambiental; Sempre en pantalla</string>
@@ -6081,7 +6084,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="search_oldman_mode_entry_name">Mode bàsic;Mode gent gran;Mode bàsic</string>
     <string name="search_onekey_migrate">Transferència; Mi Mover</string>
     <string name="search_other_advanced_settings">Configuració addicional;Configuració avançada</string>
-    <string name="search_other_settings_sync_settings">Sincronització;Auto;Només WLAN</string>
+    <string name="search_other_settings_sync_settings">Sincronització;Automàtic;Només Wi-Fi</string>
     <string name="search_owner_info_settings_title">Informació del propietari</string>
     <string name="search_page_layout_settings">Mida del text</string>
     <string name="search_permission_manager">Permisos;Accés Root</string>
@@ -6134,7 +6137,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Redueix després de tocar</string>
     <string name="search_status_bar_settings_toggle_position">Posicions dels commutadors;Commutadors;commutador;canvi de commutador</string>
     <string name="search_storage_settings">Emmagatzematge;Memòria</string>
-    <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
+    <string name="search_sync_settings">Sincronització;Automàtic;Només Wi-Fi</string>
     <string name="search_system_app_settings">Aplicacions del sistema</string>
     <string name="search_theme_settings_title">Temes;Tema;Personalització;Personalitzat</string>
     <string name="search_title_font_settings">mida de la lletra;pes de la lletra;estil de lletra</string>
@@ -6156,20 +6159,20 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="search_vpn_settings_title">VPN;Afegeix VPN;Inicia VPN</string>
     <string name="search_wakeup_for_keyguard_notification_title">Activa la pantalla de bloqueig per a les notificacions;activa la pantalla;activa el dispositiu;activa el telèfon</string>
     <string name="search_wallpaper_settings_title">Fons de pantalla;Pantalla inicial;Pantalla de bloqueig</string>
-    <string name="search_wfd_settings_title">Pantalla sense fils;Activació de la pantalla sense fils</string>
+    <string name="search_wfd_settings_title">Pantalla sense fils;Activa la pantalla sense fils;WiDi;Emet;Pantalla Wi-Fi;Pantalla remota;Pantalla</string>
     <string name="search_wifi_advanced_ip_address_title">Adreça IP</string>
-    <string name="search_wifi_advanced_mac_address_title">Adreça MAC Wi-Fi</string>
-    <string name="search_wifi_enable">Wi-Fi;Wi-Fi;Wi-Fi;Activa la Wifi;Activa la WiFi;Activa la Wi-Fi</string>
+    <string name="search_wifi_advanced_mac_address_title">Adreça MAC Wi-Fi;Adreça MAC Wi-Fi</string>
+    <string name="search_wifi_enable">Wi-Fi;Wi-Fi;Wi-Fi;Activa el Wifi;Activa el Wi-Fi;Activa el Wi-Fi</string>
     <string name="search_wifi_install_credentials">Instal·la certificats</string>
-    <string name="search_wifi_menu_p2p">Wi-Fi Directe</string>
+    <string name="search_wifi_menu_p2p">Wi-Fi Direct;Wi-Fi Direct</string>
     <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS;WPS;PIN WPS</string>
-    <string name="search_wifi_scan_always_available">Escaneig sempre disponible</string>
-    <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi;Freqüència WiFi;Freqüència Wi-Fi;Freqüència Wifi;banda de freqüències</string>
-    <string name="search_wifi_setting_sleep_policy_title">Mantenir Wi-Fi durant el son</string>
-    <string name="search_wifi_settings_title">Wi-Fi;WLAN;Configuració avançada;WLAN;Xarxes sense fils;Sense fils</string>
+    <string name="search_wifi_scan_always_available">Escaneig sempre disponible;Escaneja xarxes;Escaneja Wifi;Escaneja Wi-Fi</string>
+    <string name="search_wifi_setting_frequency_band_title">Banda de freqüència Wi-Fi;Freqüència WIFI;Freqüència WI-FI;Freqüència Wi-Fi;Banda de freqüència</string>
+    <string name="search_wifi_setting_sleep_policy_title">Manté la connexió Wi-Fi durant la suspensió;Manté la connexió Wi-Fi durant la suspensió;Manté la Wi-Fi durant la suspensió;Wi-Fi durant la suspensió;Wi-Fi durant la suspensió;Wi-Fi durant la suspensió</string>
+    <string name="search_wifi_settings_title">Wifi;Wi-Fi;Configuració avançada;Wi-Fi;Xarxes sense fils;Sense fils</string>
     <string name="search_wifi_tether_checkbox">Punt d\'accés mòbil;punt d\'accés;mòbil</string>
     <string name="search_wifi_tether_configure_ap_text">Configura el punt d\'accés portàtil;Configura el punt d\'accés;afegeix un punt d\'accés</string>
-    <string name="search_wifi_tether_settings_title">Connexió compartida d\'Internet &amp;Punt d\'accés Wi-Fi;Internet compartit;Zona Wi-Fi,Punt d\'accés Wi-Fi</string>
+    <string name="search_wifi_tether_settings_title">Tethering;punt d\'accés portàtil;Tether;Compartir internet;Punt d\'accés Wi-Fi;Punt d\'accés Wifi;Punt d\'accés Wi-Fi</string>
     <string name="search_wifi_wapi_cert_install">Instal·la el certificat WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Desinstal·la el certificat WAPI</string>
     <string name="search_wps_connect_title">Polsador WPS</string>
@@ -6227,9 +6230,9 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="security_settings_face_enroll_error_generic_dialog_message">"La inscripció facial no va funcionar."</string>
     <string name="security_settings_face_enroll_error_timeout_dialog_message">S\'ha arribat al límit de temps d\'inscripció facial. Torneu-ho a provar.</string>
     <string name="security_settings_face_enroll_finish_title">Tot llest. Se\'t veu bé.</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"Suprimeix les dades de la cara actuals per configurar de nou el desbloqueig facial.
+    <string name="security_settings_face_enroll_improve_face_alert_body">"Suprimiu les dades facials actuals per tornar a configurar el desbloqueig facial.
 
-Les dades de cara utilitzades pel desbloqueig facial se suprimiran de forma permanent i segura. Després de suprimir-lo, necessitareu el PIN, el patró o la contrasenya per desbloquejar el telèfon, inicieu la sessió a les aplicacions i confirmeu els pagaments."</string>
+Les dades facials utilitzades pel desbloqueig facial se suprimiran de forma permanent i segura. Després de suprimir-les, necessitareu el vostre PIN, patró o contrasenya per desbloquejar el telèfon, iniciar la sessió a les aplicacions i confirmar els pagaments."</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Configura el desbloqueig de cara</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Utilitza la configuració d’accessibilitat</string>
     <string name="security_settings_face_enroll_introduction_agree">Acordar</string>
@@ -6417,7 +6420,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="share_remote_bugreport_dialog_message">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes del dispositiu. És possible que es comparteixin aplicacions, dades i que el dispositiu funcioni més a poc a poc durant una estona.</string>
     <string name="share_remote_bugreport_dialog_message_finished">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes del dispositiu. És possible que es comparteixin aplicacions i dades.</string>
     <string name="share_remote_bugreport_dialog_title">Voleu compartir l\'informe d\'errors?</string>
-    <string name="share_this_wifi">Amplia la cobertura WLAN</string>
+    <string name="share_this_wifi">Amplia la cobertura Wi-Fi</string>
     <string name="shared_data_delete_failure_text">S\'ha produït un error en suprimir les dades compartides.</string>
     <string name="shared_data_no_accessors_dialog_text">No hi ha arrendaments adquirits per a aquestes dades compartides. Voleu suprimir-lo?</string>
     <string name="shared_data_no_blobs_text">No hi ha dades compartides per a aquest usuari.</string>
@@ -6470,7 +6473,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="show_touches">Mostra els tocs</string>
     <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
     <string name="show_user_info_on_lockscreen_label">Mostra informació de l’usuari a la pantalla de bloqueig</string>
-    <string name="show_wifi_name_title">Mostra WLAN</string>
+    <string name="show_wifi_name_title">Mostra la Wi-Fi</string>
     <string name="shut_down_find_device_failure_confirm">D\'acord</string>
     <string name="shut_down_find_device_network_failure_content">"No s'ha pogut desactivar el dispositiu de cerca. Assegureu-vos que el vostre dispositiu està connectat a Internet."</string>
     <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
@@ -6756,7 +6759,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
     <string name="status_unavailable">No disponible</string>
     <string name="status_up_time">Temps actiu</string>
     <string name="status_voice_network_type">Tipus de xarxa de veu mòbil</string>
-    <string name="status_wifi_mac_address">Adreça MAC del Wi-Fi</string>
+    <string name="status_wifi_mac_address">Adreça MAC Wi-Fi</string>
     <string name="storage_category">Emmagatzematge</string>
     <string name="storage_detail_apps">Aplicacions</string>
     <string name="storage_detail_audio">Àudio</string>
@@ -6968,11 +6971,11 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="structure_face_data_input_timeout_title">Torna-ho a provar</string>
     <string name="structure_face_data_input_up">Cercar</string>
     <string name="structure_face_data_introduction_back">esquena</string>
-    <string name="structure_face_data_introduction_msg">Les dades de cara 3D permeten desbloquejar el dispositiu i verificar-ne la identitat. Heu d’establir una contrasenya abans d’utilitzar aquesta funció.</string>
+    <string name="structure_face_data_introduction_msg">Les dades facials 3D permeten desbloquejar el dispositiu i verificar-ne la identitat. Heu d’establir una contrasenya abans d’utilitzar aquesta funció.</string>
     <string name="structure_face_data_introduction_title">Afegiu dades de cara 3D</string>
     <string name="structure_face_data_ir_input_face">Mou lleugerament el cap</string>
     <string name="structure_face_data_manage_delete_msg">Suprimeix les dades de la cara 3D</string>
-    <string name="structure_face_data_suggestion_text">"Assegureu-vos que totes les parts de la vostra cara siguin clarament visibles. No utilitzeu barrets, ulleres de sol o altres accessoris que us cobrin la cara mentre enregistreu dades de la cara 3D. Assegureu-vos que la vostra cara estigui igualment il·luminada."</string>
+    <string name="structure_face_data_suggestion_text">"Assegureu-vos que totes les parts de la cara siguin ben visibles. No porteu barrets, ulleres de sol ni altres accessoris que us puguin tapar la cara mentre enregistreu les dades facials en 3D. Assegureu-vos que la vostra cara també estigui il·luminada de manera uniforme."</string>
     <string name="structure_face_data_suggestion_warning_text">Nota: l\'ús de dades de cara 3D és lleugerament menys segur que si feu servir una contrasenya. Podeu desbloquejar el vostre dispositiu amb persones o objectes que semblin molt similars.</string>
     <string name="structure_face_delete_data_dialog_msg">"No s'ha pogut llançar Camera i obtenir una vista prèvia. Torna-ho a provar."</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Torna-ho a provar</string>
@@ -7040,6 +7043,9 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="switchNetworkToast">La connexió a xarxes mòbils pot generar tarifes addicionals</string>
     <string name="switch_access_service_on">Canvia l’accés</string>
     <string name="switch_bootup_sound">Àudio d\'arrencada</string>
+    <string name="switch_headset_anti_lost">Alerta de pèrdua d\'auricular</string>
+    <string name="switch_headset_anti_lost_summary">Rebeu una alerta sempre que un dels auriculars estigui allunyat de l\'orella o de l\'estoig de càrrega durant més d\'un minut</string>
+    <string name="switch_headset_anti_lost_title">Alerta de pèrdua d\'auricular</string>
     <string name="switch_off_text">Apagat</string>
     <string name="switch_on_text">Activat</string>
     <string name="switch_screen_button_order">Simetria dels botons</string>
@@ -7059,7 +7065,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="sync_in_progress">S\'està sincronitzant…</string>
     <string name="sync_is_failing">Hi ha problemes amb la sincronització. Aviat tornarà a estar disponible.</string>
     <string name="sync_menu_sync_cancel">Cancel·la la sincronització</string>
-    <string name="sync_menu_sync_now">Sincronitza\'l ara</string>
+    <string name="sync_menu_sync_now">Sincronitza ara</string>
     <string name="sync_now">Sincronitza</string>
     <string name="sync_one_time_sync">"Toqueu per a sincronitzar ara
 %1$s"</string>
@@ -7068,7 +7074,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="sync_settings">Comptes i sincronització</string>
     <string name="sync_success">S\'ha sincronitzat correctament</string>
     <string name="sync_wifi_label">Wi-Fi</string>
-    <string name="sync_wifi_only">Només per Wi-Fi</string>
+    <string name="sync_wifi_only">Només Wi-Fi</string>
     <string name="system">Sistema</string>
     <string name="system_alert_window_access_title">Visualització a sobre d\'altres aplicacions</string>
     <string name="system_alert_window_apps_title">Aplicacions</string>
@@ -7106,7 +7112,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="testing_phone_info">Informació del telèfon</string>
     <string name="testing_sim_toolkit">Eines SIM</string>
     <string name="testing_usage_stats">Estadístiques d\'ús</string>
-    <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
+    <string name="testing_wifi_info">Informació de la Wi-Fi</string>
     <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
     <string name="tether_auto_disable_summary">Desactiva automàticament el punt d\'accés quan no hi hagi cap dispositiu connectat</string>
     <string name="tether_auto_disable_title">Desactiva automàticament el punt d\'accés</string>
@@ -7194,7 +7200,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="toast_apply_font_fail">"No es pot definir el tipus de lletra"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
     <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
-    <string name="toast_sta_ap_works_wifi_display_disable">"No es pot emetre quan s'estableix la connexió WLAN i el punt d'accés està activat."</string>
+    <string name="toast_sta_ap_works_wifi_display_disable">"No es pot emetre quan s'estableix la connexió Wi-Fi i el punt d'accés està activat."</string>
     <string name="toggle_auto_speaker_preference_summary">El dispositiu canviarà a l\'altaveu quan l’allunyeu de l’orella durant les trucades. Aquesta funció només funciona quan TalkBack està activat.</string>
     <string name="toggle_auto_speaker_preference_title">Canvia a l\'altaveu automàticament</string>
     <string name="toggle_collapse_after_clicked_title">Redueix després de tocar-ho</string>
@@ -7484,7 +7490,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
     <string name="usage_type_data_recv">Paquets de dades mòbils rebuts</string>
     <string name="usage_type_data_send">Paquets de dades mòbils enviats</string>
     <string name="usage_type_data_wifi_recv">Dades Wi-Fi rebudes</string>
-    <string name="usage_type_data_wifi_send">Dades Wi-Fi enviades </string>
+    <string name="usage_type_data_wifi_send">Dades Wi-Fi enviades</string>
     <string name="usage_type_flashlight">Llanterna</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_no_coverage">Temps sense senyal</string>
@@ -7494,7 +7500,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
     <string name="usage_type_total_battery_capacity">Capacitat total de la bateria</string>
     <string name="usage_type_video">Vídeo</string>
     <string name="usage_type_wake_lock">Mantén actiu</string>
-    <string name="usage_type_wifi_running">WLAN s\'està executant</string>
+    <string name="usage_type_wifi_running">La Wi-Fi s’està executant</string>
     <string name="usagestats_app_category_miui_financial">Finances</string>
     <string name="usagestats_app_category_miui_game">Jocs</string>
     <string name="usagestats_app_category_miui_life">Estil de vida</string>
@@ -7613,11 +7619,11 @@ o auriculars amb endolls de 3,5 mm."</string>
     <string name="user_add_user_item_summary">Els usuaris tenen les seves aplicacions i el seu contingut</string>
     <string name="user_add_user_item_title">Usuari</string>
     <string name="user_add_user_menu">Afegeix un usuari</string>
-    <string name="user_add_user_message_long">"Podeu compartir aquest dispositiu amb altres persones creant usuaris addicionals. Cada usuari té el seu propi espai, que poden personalitzar amb les seves pròpies aplicacions, fons de pantalla, etc. Els usuaris també poden ajustar la configuració del dispositiu com la WLAN que afecta a tothom.
+    <string name="user_add_user_message_long">"Podeu compartir aquest dispositiu amb altres persones creant usuaris addicionals. Cada usuari té el seu propi espai, que pot personalitzar amb les seves pròpies aplicacions, fons de pantalla, etc. Els usuaris també poden ajustar la configuració del dispositiu, com ara la Wi-Fi, que afecta tothom.
 
-Després de crear un usuari nou, haureu de passar per un procés d’instal·lació.
+Després de crear un usuari nou, aquesta persona ha de passar per un procés de configuració.
 
-Qualsevol usuari pot acceptar permisos d'aplicacions actualitzats en nom de tots els usuaris."</string>
+Qualsevol usuari pot acceptar permisos d’aplicacions actualitzades en nom de tots els usuaris."</string>
     <string name="user_add_user_message_short">"«Després de crear un nou usuari cada persona ha de configurar el seu espai.
 
 Qualsevol usuari pot acceptar una actualització de permisos d'una aplicació en nom de tots els altres usuaris.»"</string>
@@ -7969,7 +7975,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wfd_disconnect_diag_msg">Voleu desconnectar-lo de %1$s?</string>
     <string name="wfd_disconnect_diag_title">Voleu desconnectar la pantalla?</string>
     <string name="wfd_disconnect_multiple_diag_message">Voleu desconnectar altres dispositius de %1$s i %2$s?</string>
-    <string name="wfd_enable_wifi_diag_title">Voleu activar el Wi-Fi?</string>
+    <string name="wfd_enable_wifi_diag_title">Voleu activar la Wi-Fi?</string>
     <string name="wfd_enabler_title">Pantalla sense fil</string>
     <string name="wfd_menu_search">Cerca dispositius</string>
     <string name="wfd_menu_searching">S\'està cercant&#8230;</string>
@@ -8003,7 +8009,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_advanced_randomized_mac_address_title">Adreça MAC aleatòria</string>
     <string name="wifi_advanced_settings_label">Configuració IP</string>
     <string name="wifi_advanced_ssid_title">SSID</string>
-    <string name="wifi_advanced_titlebar">Configuració avançada de Wi-Fi</string>
+    <string name="wifi_advanced_titlebar">Wi-Fi avançat</string>
     <string name="wifi_advanced_toggle_description">Llista desplegable Opcions avançades</string>
     <string name="wifi_advanced_toggle_description_collapsed">ampliar</string>
     <string name="wifi_ap_2G">2,4 GHz</string>
@@ -8020,37 +8026,37 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_ap_ssid_off">Desactivat</string>
     <string name="wifi_ap_ssid_on">Encès</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
-    <string name="wifi_api_test">API de Wi-Fi</string>
+    <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_ask_disable">%s vol desactivar la Wi-Fi</string>
     <string name="wifi_ask_enable">%s vol activar la Wi-Fi</string>
-    <string name="wifi_assist">Assistent de Wi-Fi</string>
+    <string name="wifi_assist">Assistent de la Wi-Fi</string>
     <string name="wifi_assistant">Selecciona les millors xarxes automàticament</string>
-    <string name="wifi_assistant_auto_confirm_data_help">Podeu desactivar aquesta funció a Ajudant de configuració &gt; WLAN &gt; WLAN.</string>
-    <string name="wifi_assistant_auto_confirm_data_message">"Utilitzeu xarxes de dades mòbils quan el vostre dispositiu no es pugui connectar a Internet mitjançant WLAN."</string>
+    <string name="wifi_assistant_auto_confirm_data_help">Podeu desactivar aquesta funció a Configuració &gt; Wi-Fi &gt; Assistent de la Wi-Fi.</string>
+    <string name="wifi_assistant_auto_confirm_data_message">"Utilitza xarxes de dades mòbils quan el dispositiu no es pugui connectar a Internet mitjançant la Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"No es torni a mostrar"</string>
     <string name="wifi_assistant_confirm_connection_title">Selecciona automàticament les millors xarxes</string>
     <string name="wifi_assistant_data_prompt">Avisa</string>
     <string name="wifi_assistant_data_prompt_summary">Mostra l\'advertència d\'ús de dades en canviar a dades mòbils</string>
-    <string name="wifi_assistant_description">"A continuació es mostra com funciona aquesta funció:
-1. Quan la connexió WLAN sigui deficient, el dispositiu intentarà connectar-se automàticament a altres xarxes WLAN disponibles.
-2. Si resulta que totes les connexions WLAN disponibles són pobres i que les dades mòbils estan activades, el dispositiu seleccionarà la millor connexió de xarxa disponible."</string>
+    <string name="wifi_assistant_description">"Així és com funciona aquesta funció:
+1. Quan la connexió Wi-Fi és deficient, el dispositiu intentarà connectar-se automàticament a altres xarxes Wi-Fi disponibles.
+2. Si resulta que totes les connexions Wi-Fi disponibles són pobres i que les dades mòbils estan activades, el dispositiu seleccionarà la millor connexió de xarxa disponible."</string>
     <string name="wifi_assistant_disconnect">Desconnecta</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">"Ja no es pot connectar a Internet via WLAN. Voleu canviar a les dades mòbils?"</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">"No es pot connectar a Internet mitjançant WLAN. Desconnecteu ara?"</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">"Ja no es pot connectar a Internet via WLAN. Voleu canviar a una xarxa WLAN diferent?"</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">"Ara no es pot connectar a Internet mitjançant la Wi-Fi. Voleu canviar a les dades mòbils?"</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">"No es pot connectar a Internet mitjançant la Wi-Fi. Voleu desconnectar-vos ara?"</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">"Ara no es pot connectar a Internet mitjançant la Wi-Fi. Voleu canviar a una altra xarxa Wi-Fi?"</string>
     <string name="wifi_assistant_keep_connection">No gràcies</string>
     <string name="wifi_assistant_off">Desactivat</string>
     <string name="wifi_assistant_ok">D\'acord</string>
     <string name="wifi_assistant_on">Activat</string>
     <string name="wifi_assistant_setup_wifi_assistant">Configuració</string>
-    <string name="wifi_assistant_summary">Seleccioneu les xarxes de dades WLAN o mòbils automàticament quan la connexió WLAN és deficient</string>
+    <string name="wifi_assistant_summary">Selecciona la xarxa Wi-Fi o de dades mòbils automàticament si la connexió Wi-Fi és deficient</string>
     <string name="wifi_assistant_switch_data">Utilitza les dades mòbils</string>
     <string name="wifi_assistant_switch_wifi">Interruptor</string>
     <string name="wifi_auto_connect">Connecta’t automàticament</string>
     <string name="wifi_auto_connect_summary">Permet que el telèfon es connecti automàticament a prop d\'aquesta xarxa</string>
     <string name="wifi_auto_connect_title">Connexió automàtica</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
-    <string name="wifi_available_title">Connexió amb Wi-Fi</string>
+    <string name="wifi_available_title">Connecteu-vos a la Wi-Fi</string>
     <string name="wifi_avoid_poor_network_detection_summary">Utilitza només les xarxes amb una bona connexió a Internet</string>
     <string name="wifi_band_24ghz">2,4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
@@ -8062,12 +8068,12 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_calling_mode_wifi_only_summary">Trucada per Wi-Fi. Si es perd la connexió Wi-Fi, la trucada s’acabarà.</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Si la connexió no està disponible, utilitzeu xarxa mòbil</string>
     <string name="wifi_calling_not_supported">La trucada Wi-Fi no és compatible amb %1$s</string>
-    <string name="wifi_calling_off_explanation">Quan les trucades per Wi-Fi estan activades, el telèfon pot dirigir trucades per les xarxes Wi-Fi o per la xarxa de l\'operador de telefonia mòbil segons la vostra preferència i la intensitat del senyal. Abans d\'activar aquesta funció, comproveu amb l\'operador si hi ha cap càrrec i altres detalls.</string>
+    <string name="wifi_calling_off_explanation">Quan les trucades per Wi-Fi estan activades, el telèfon pot encaminar trucades a través de les xarxes Wi-Fi o de la xarxa del vostre operador, segons les vostres preferències i quin senyal sigui més fort. Abans d’activar aquesta funció, consulteu amb el vostre operador les tarifes i altres detalls.%1$s</string>
     <string name="wifi_calling_pref_managed_by_carrier">Configuració gestionada per l\'operador</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Preferència d\'itinerància</string>
     <string name="wifi_calling_roaming_mode_title">Preferència d\'itinerància</string>
     <string name="wifi_calling_settings_activation_instructions">Activa les trucades Wi-Fi</string>
-    <string name="wifi_calling_settings_title">Trucades WLAN</string>
+    <string name="wifi_calling_settings_title">Trucades per Wi-Fi</string>
     <string name="wifi_calling_suggestion_summary">Activa la trucada Wi-Fi per ampliar la cobertura</string>
     <string name="wifi_calling_suggestion_title">Amplia les trucades amb Wi-Fi</string>
     <string name="wifi_calling_summary">Utilitzeu Wi-Fi per a trucades per millorar la qualitat</string>
@@ -8083,32 +8089,32 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_check_password_try_again">Comproveu la contrasenya i torneu-ho a provar</string>
     <string name="wifi_click_login_wlan">Cal autorització</string>
     <string name="wifi_click_share_wlan">Toqueu per compartir la contrasenya</string>
-    <string name="wifi_config_info">Configura Wi-Fi</string>
+    <string name="wifi_config_info">Configuració de la Wi-Fi</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_off">"La Wi-Fi no es torna a activar automàticament"</string>
     <string name="wifi_configure_settings_preference_summary_wakeup_on">La Wi-Fi es torna a activar automàticament</string>
     <string name="wifi_configure_settings_preference_title">Preferències de Wi-Fi</string>
     <string name="wifi_configured_ap_list">APs configurades anteriorment</string>
     <string name="wifi_connect">Connecta</string>
-    <string name="wifi_connect_channel">Canal WLAN:</string>
+    <string name="wifi_connect_channel">Canal Wi-Fi:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Cancel·la</string>
     <string name="wifi_connect_cmcc_dialog_confirm">D\'acord</string>
     <string name="wifi_connect_cmcc_dialog_content">"S'ha connectat ara la xarxa mòbil de dades. Si passeu de límit contractat, podria ser que l'operadora ho cobri apart."</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">"No ho tornis a mostrar"</string>
     <string name="wifi_connect_cmcc_dialog_title">S\'ha connectat CMCC</string>
-    <string name="wifi_connect_failed_message">"El telèfon no s'ha pogut connectar a aquesta xarxa Wi-Fi."</string>
-    <string name="wifi_connect_frequency">Freqüència WLAN:</string>
+    <string name="wifi_connect_failed_message">"No s'ha pogut connectar a la xarxa Wi-Fi"</string>
+    <string name="wifi_connect_frequency">Freqüència de la Wi-Fi:</string>
     <string name="wifi_connected_mac_randomization">Aleatorització MAC connectada</string>
     <string name="wifi_connected_no_internet">No hi ha internet</string>
     <string name="wifi_connected_to_message">Connectat a %1$s</string>
     <string name="wifi_connecting">S\'està connectant…</string>
-    <string name="wifi_connection_management">Gestiona la connexió WLAN</string>
+    <string name="wifi_connection_management">Gestioneu la connexió Wi-Fi</string>
     <string name="wifi_context_menu_change_password">Canvia la contrasenya</string>
     <string name="wifi_context_menu_change_wapi_certificate">Canvia el certificat WAPI</string>
     <string name="wifi_context_menu_connect">Connecta</string>
     <string name="wifi_context_menu_forget">Oblida-la</string>
-    <string name="wifi_coverage_extend">Activa l’extensió de cobertura WLAN</string>
-    <string name="wifi_coverage_extend_summary">Amplieu la cobertura WLAN mitjançant un punt d\'accés</string>
-    <string name="wifi_data_template">^ 1 dades WLAN</string>
+    <string name="wifi_coverage_extend">Activeu l\'extensió de cobertura Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Amplieu la cobertura Wi-Fi mitjançant un punt d\'accés Wi-Fi</string>
+    <string name="wifi_data_template">^1 Dades Wi-Fi</string>
     <string name="wifi_data_usage">Ús de dades Wi-Fi</string>
     <string name="wifi_datanetwork_switch_not_remind">"No ho tornis a mostrar"</string>
     <string name="wifi_details_dns">DNS</string>
@@ -8116,19 +8122,19 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_details_subnet_mask">Màscara de subxarxa</string>
     <string name="wifi_details_title">Detalls de la xarxa</string>
     <string name="wifi_dialog_remind_type_title">Xarxa de dades mòbils</string>
-    <string name="wifi_direct_close_hotspot_hint">Desactiveu el punt d\'accés portàtil abans d’utilitzar Wi-Fi Direct</string>
+    <string name="wifi_direct_close_hotspot_hint">Desactiveu el punt d\'accés portàtil abans d\'utilitzar Wi-Fi Direct</string>
     <string name="wifi_direct_close_slave_wifi_hint">Desconnecteu-vos de la Wi-Fi auxiliar abans d’utilitzar Wi-Fi Direct</string>
     <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
     <string name="wifi_disabled_generic">Desactivat</string>
-    <string name="wifi_disabled_help">WLAN es va desconnectar a causa de la mala connexió. Podeu desactivar aquesta funció a Configuració &gt; WLAN &gt; Paràmetres addicionals.</string>
+    <string name="wifi_disabled_help">La connexió Wi-Fi s\'ha desconnectat a causa d\'una connexió deficient. Podeu desactivar aquesta funció a Configuració &gt; Wi-Fi &gt; Configuració addicional.</string>
     <string name="wifi_disabled_network_failure">"No s'ha pogut configurar la IP"</string>
     <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-    <string name="wifi_disabled_wifi_failure">"No s'ha pogut connectar amb WLAN"</string>
+    <string name="wifi_disabled_wifi_failure">"No s'ha pogut connectar a la Wi-Fi"</string>
     <string name="wifi_disconnect_button_text">Desconnecta</string>
     <string name="wifi_disconnected">Desconnectat</string>
     <string name="wifi_disconnected_from">Desconnectat del %1$s</string>
-    <string name="wifi_disconnected_notification_summary">"Ja no esteu connectats a WLAN."</string>
-    <string name="wifi_disconnected_notification_title">S\'ha desconnectat el Wi-Fi</string>
+    <string name="wifi_disconnected_notification_summary">"Ja no esteu connectats a la Wi-Fi."</string>
+    <string name="wifi_disconnected_notification_title">Wi-Fi desconnectat</string>
     <string name="wifi_display_autonomous_go">Activa GO autònom</string>
     <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
     <string name="wifi_display_certification_heading">Certificat</string>
@@ -8146,7 +8152,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_display_pause">Pausa</string>
     <string name="wifi_display_resume">Reprèn</string>
     <string name="wifi_display_session_info">Informació de la sessió</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">"No es pot utilitzar la pantalla sense fils quan s'ha desactivat el Wi-Fi"</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">"No es pot utilitzar la pantalla sense fils quan la Wi-Fi està desactivada"</string>
     <string name="wifi_display_settings_title">Emissió de la pantalla</string>
     <string name="wifi_display_status_connected">S\'ha connectat</string>
     <string name="wifi_display_status_connecting">S\'està connectant</string>
@@ -8205,10 +8211,12 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_eap_sim_simcard">Seleccioneu SIM</string>
     <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
     <string name="wifi_empty_list_user_restricted">"No teniu permís per a canviar aquesta xarxa."</string>
-    <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activeu WLAN</string>
+    <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activeu la Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi…</string>
     <string name="wifi_enable">Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Només connexions estables</string>
+    <string name="wifi_enhanced_handover">Lliurament millorat</string>
+    <string name="wifi_enhanced_handover_summary">Canvieu ràpidament entre els diferents punts d\'accés</string>
     <string name="wifi_enhanced_mac_randomization">Aleatorització MAC millorada per Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Quan aquest mode està activat, l’adreça MAC d’aquest dispositiu pot canviar cada vegada que es connecta a una xarxa que tingui activada l’atzarització MAC.</string>
     <string name="wifi_error">Error</string>
@@ -8225,8 +8233,8 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_generation">Utilitza icones específiques de generació</string>
     <string name="wifi_generation_icon_display">Icones</string>
-    <string name="wifi_generation_status">WLAN %1$d</string>
-    <string name="wifi_generation_summary">Afegeix el número de generació de tecnologia sense fils a la icona WLAN</string>
+    <string name="wifi_generation_status">Wi-Fi %1$d</string>
+    <string name="wifi_generation_summary">Afegeix el número de la generació de tecnologia sense fil a la icona Wi-Fi</string>
     <string name="wifi_generation_title">Tecnologia</string>
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
     <string name="wifi_hidden_network">Xarxa oculta</string>
@@ -8273,21 +8281,21 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_link_turbo_app_settings_summary">Seleccioneu les aplicacions que utilitzaran aquesta funció</string>
     <string name="wifi_link_turbo_app_settings_title">Selecció d\'aplicacions</string>
     <string name="wifi_link_turbo_customize">Aplicacions personalitzades</string>
-    <string name="wifi_link_turbo_customize_summary">Seleccioneu les aplicacions que funcionaran amb l\'assistent de Wi-Fi segons les vostres preferències</string>
+    <string name="wifi_link_turbo_customize_summary">Seleccioneu les aplicacions que funcionaran amb l\'assistent de la Wi-Fi segons les vostres preferències</string>
     <string name="wifi_link_turbo_list">Aplicacions</string>
     <string name="wifi_link_turbo_no_app">Encara no hi ha aplicacions.</string>
     <string name="wifi_link_turbo_off">Desactivat</string>
     <string name="wifi_link_turbo_on">Activat</string>
     <string name="wifi_link_turbo_recommendation">Aplicacions recomanades</string>
     <string name="wifi_link_turbo_recommendation_summary">Rebreu recomanacions basades en les estadístiques d’ús de dades</string>
-    <string name="wifi_link_turbo_summary">Augmenta la velocitat de connexió de les aplicacions seleccionades amb dades mòbils quan la connexió WLAN és pobre</string>
+    <string name="wifi_link_turbo_summary">Augmenta la velocitat de connexió de les aplicacions seleccionades mitjançant dades mòbils quan la connexió Wi-Fi és pobra</string>
     <string name="wifi_menu_advanced">Avançat</string>
     <string name="wifi_menu_configure">Configuració</string>
     <string name="wifi_menu_connect">Connecta a la xarxa</string>
     <string name="wifi_menu_forget">Oblida la xarxa</string>
     <string name="wifi_menu_modify">Modifica la xarxa</string>
     <string name="wifi_menu_more_options">Més opcions</string>
-    <string name="wifi_menu_p2p">Wi-Fi Directe</string>
+    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
     <string name="wifi_menu_remember">Recorda la xarxa</string>
     <string name="wifi_menu_scan">Cerca xarxes</string>
     <string name="wifi_menu_wfd">Pantalla sense fil</string>
@@ -8313,10 +8321,10 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_notify_open_networks_summary">Avisa\'m si hi ha una xarxa pública disponible</string>
     <string name="wifi_off_airplane_on_cancel">Cancel·la</string>
     <string name="wifi_off_airplane_on_confirm">D\'acord</string>
-    <string name="wifi_off_airplane_on_content">Amb el mode avió activat, podeu engegar el Wi-Fi manualment.</string>
+    <string name="wifi_off_airplane_on_content">Podeu activar la Wi-Fi manualment en mode Avió.</string>
     <string name="wifi_off_airplane_on_not_remind">"No ho tornis a mostrar"</string>
     <string name="wifi_off_airplane_on_title">Atenció</string>
-    <string name="wifi_on_time">Temps de connexió Wi-Fi</string>
+    <string name="wifi_on_time">Temps en Wi-Fi</string>
     <string name="wifi_other_connection_mode">Altres mètodes de connexió</string>
     <string name="wifi_p2p_cancel_connect_message">Voleu cancel·lar la invitació per connectar amb %1$s?</string>
     <string name="wifi_p2p_cancel_connect_title">Voleu cancel·lar la invitació?</string>
@@ -8333,12 +8341,12 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_p2p_peer_devices">Vincula dispositius</string>
     <string name="wifi_p2p_persist_network">Recorda aquesta connexió</string>
     <string name="wifi_p2p_remembered_groups">Grups memoritzats</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi Directe</string>
+    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_wps_setup">Configuració WPS</string>
     <string name="wifi_passpoint_expired">Caducat</string>
     <string name="wifi_password">Contrasenya</string>
     <string name="wifi_poor_network_detection">Només connexions estables</string>
-    <string name="wifi_poor_network_detection_summary">"No utilitzeu una xarxa Wi-Fi tret que tingui una bona connexió"</string>
+    <string name="wifi_poor_network_detection_summary">"No utilitza una xarxa Wi-Fi tret que tingui una bona connexió"</string>
     <string name="wifi_priority_changed">Valor antic %1$s | Nou valor %2$s</string>
     <string name="wifi_priority_label">Prioritat</string>
     <string name="wifi_priority_settings_label">Configuració de la prioritat</string>
@@ -8348,33 +8356,33 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_priority_type_title">Configura manualment la prioritat als punt d\'accés</string>
     <string name="wifi_privacy_settings">Privadesa</string>
     <string name="wifi_privacy_settings_ephemeral_summary">MAC aleatoritzat</string>
-    <string name="wifi_property">Propietats WLAN</string>
+    <string name="wifi_property">Propietats de la Wi-Fi</string>
     <string name="wifi_protection_on">Activat</string>
-    <string name="wifi_protection_settings_title">Protecció contra sol·licituds de sonda WLAN</string>
-    <string name="wifi_protection_tip">MIUI protegirà les dades personals de les sol·licituds de sondes WLAN procedents d’adreces MAC aleatòries i rastrejadors de sondes WLAN quan el dispositiu cerqui xarxes WLAN.</string>
-    <string name="wifi_quick_toggle_summary">Engega el Wi-Fi</string>
+    <string name="wifi_protection_settings_title">Protecció contra sol·licituds de la sonda Wi-Fi</string>
+    <string name="wifi_protection_tip">MIUI protegirà les vostres dades personals de les sol·licituds de la sonda Wi-Fi provinents d’adreces MAC aleatòries i d\'analitzadors de paquets de la sonda Wi-Fi quan el vostre dispositiu cerqui xarxes Wi-Fi.</string>
+    <string name="wifi_quick_toggle_summary">Activa la Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">S\'ha desat</string>
     <string name="wifi_remembered_disabled_auto_connect">"Desat No es connectarà automàticament."</string>
-    <string name="wifi_required_info_text">Per acabar la instal·lació, la vostra tauleta tàctil s\'ha de connectar via Wi-Fi. Després de la instal·lació ja podreu triar entre dades mòbils i Wi-Fi.</string>
+    <string name="wifi_required_info_text">Per completar la configuració, el dispositiu necessita accés a la Wi-Fi. Després de la configuració, podeu canviar entre les dades mòbils i la Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">La banda de 5 GHz no és disponible en aquest país</string>
     <string name="wifi_save">Desa</string>
     <string name="wifi_saved_access_points_label">Xarxes desades</string>
     <string name="wifi_scan_always_available">Cerca de xarxes Wi-Fi sempre connectada</string>
-    <string name="wifi_scan_always_available_summary">"Permet als serveis d'ubicació Google i altres aplicacions que cerquin xarxes, fins i tot quan el senyal Wi-Fi és apagat"</string>
+    <string name="wifi_scan_always_available_summary">"Permet que el servei d'ubicació de Google i altres aplicacions busquin xarxes, fins i tot quan la connexió Wi-Fi estigui desactivada"</string>
     <string name="wifi_scan_always_confirm_allow">Permet</string>
     <string name="wifi_scan_always_confirm_deny">Denega</string>
     <string name="wifi_scan_always_turn_on_message_unknown">"Per millorar la precisió de la ubicació i per a altres propòsits, una aplicació desconeguda vol activar la recerca de xarxa, fins i tot quan la connexió Wi-Fi estigui desactivada.
 
 Permet això per a totes les aplicacions que vulguin escanejar?"</string>
     <string name="wifi_scan_always_turnoff_message">Desactiva aquesta funció des d\'Opcions avançades al menú addicional.</string>
-    <string name="wifi_scan_always_turnon_message">"Per millorar la precisió de la ubicació i per a altres finalitats, %1$s vol activar la cerca de xarxes tot i que la connexió Wi-Fi estigui desactivada.
+    <string name="wifi_scan_always_turnon_message">"Per millorar la precisió de la ubicació i per a altres propòsits, %1$s vol activar l'escaneig de xarxa, fins i tot quan la Wi-Fi està desactivada.
 
-Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</string>
+Voleu permetre això a totes les aplicacions que vulguin escanejar-les?"</string>
     <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
     <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i els serveis encara poden cercar xarxes Wi-Fi en qualsevol moment, fins i tot quan la Wi-Fi estigui desactivada. Es pot utilitzar, per exemple, per millorar les funcions i els serveis basats en la ubicació. Podeu canviar-ho a LINK_BEGINconfiguració de exploracióLINK_END.</string>
-    <string name="wifi_scan_notify_text_scanning_off">Per millorar la precisió d\'ubicació, activeu l\'escaneig Wi-Fi a la configuració d\'escaneig.</string>
-    <string name="wifi_scan_throttling">Limitació d\'escaneig de WLAN</string>
+    <string name="wifi_scan_notify_text_scanning_off">Per millorar la precisió de la ubicació, activeu l\'escaneig per Wi-Fi a la LINK_BEGINConfiguració d\'escaneigLINK_END.</string>
+    <string name="wifi_scan_throttling">Limitació d’escaneig per Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Redueix el consum de la bateria i millora el rendiment de la xarxa</string>
     <string name="wifi_security">Seguretat</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
@@ -8421,12 +8429,12 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</strin
     <string name="wifi_setting_category">Xarxes disponibles</string>
     <string name="wifi_setting_frequency_band_error">S\'ha produït un problema en definir la banda de freqüència.</string>
     <string name="wifi_setting_frequency_band_summary">Especifiqueu l\'interval de freqüències de l\'operació</string>
-    <string name="wifi_setting_frequency_band_title">Banda de freqüència Wi-Fi</string>
+    <string name="wifi_setting_frequency_band_title">Banda de freqüències de la Wi-Fi</string>
     <string name="wifi_setting_on_during_sleep_title">Wi-Fi encesa durant el son</string>
     <string name="wifi_setting_sleep_policy_error">S\'ha produït un problema en canviar la configuració</string>
-    <string name="wifi_setting_sleep_policy_title">En repòs, manté la connexió Wi-Fi connectada</string>
+    <string name="wifi_setting_sleep_policy_title">En repòs, manté la connexió Wi-Fi</string>
     <string name="wifi_settings">Wi-Fi</string>
-    <string name="wifi_settings_category">Configuració de Wi-Fi</string>
+    <string name="wifi_settings_category">Configuració de la Wi-Fi</string>
     <string name="wifi_settings_master_switch_title">Utilitzeu wifi</string>
     <string name="wifi_settings_scanning_required_enabled">L\'exploració Wi-Fi s\'ha activat</string>
     <string name="wifi_settings_scanning_required_info">L\'exploració Wi-Fi permet que les aplicacions i els serveis puguin cercar xarxes Wi-Fi en qualsevol moment, fins i tot quan la connexió Wi-Fi està desactivada. Es pot utilitzar, per exemple, per millorar les funcions i els serveis basats en ubicació.</string>
@@ -8436,41 +8444,41 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</strin
     <string name="wifi_settings_summary">Configura i gestiona els punts d\'accés sense fil</string>
     <string name="wifi_settings_title">Wi-Fi</string>
     <string name="wifi_setup_cancel">Cancel·la</string>
-    <string name="wifi_setup_description_connected">Toqueu <b>Següent</b>\"per continuar amb la configuració.
+    <string name="wifi_setup_description_connected">Toqueu <b>Següent</b>\" per continuar amb la configuració.
 
-Toqueu\"<b>Enrere</b> per connectar-vos a una xarxa WLAN diferent.</string>
+Toqueu \"<b>Enrere</b> per connectar-vos a una altra xarxa Wi-Fi.</string>
     <string name="wifi_setup_detail">Detalls de la xarxa</string>
-    <string name="wifi_setup_eap_not_supported">"No podeu configurar una connexió WLAN EAP durant la configuració. Després de la configuració, podeu anar a Configuració &gt; WLAN."</string>
-    <string name="wifi_setup_title">Configuració Wi-Fi</string>
+    <string name="wifi_setup_eap_not_supported">"No podeu configurar una connexió Wi-Fi EAP durant la configuració. Després de la configuració, podeu anar a Configuració &gt; Wi-Fi."</string>
+    <string name="wifi_setup_title">Configuració de la Wi-Fi</string>
     <string name="wifi_setup_title_connected_network">S\'ha connectat a %s</string>
     <string name="wifi_setup_title_connecting_network">S\'està connectant amb %s…</string>
     <string name="wifi_setup_title_editing_network">S\'ha connectat a %s</string>
-    <string name="wifi_setup_wizard_title">Selecció d\'una xarxa Wi-Fi</string>
+    <string name="wifi_setup_wizard_title">Seleccioneu la xarxa Wi-Fi</string>
     <string name="wifi_setup_wps">Configuració automàtica (WPS)</string>
-    <string name="wifi_share">Comparteix el Wi-Fi</string>
+    <string name="wifi_share">Comparteix la Wi-Fi</string>
     <string name="wifi_share_action_turn_off">Plega de compartir xarxes</string>
-    <string name="wifi_share_action_turn_on">Comparteix el Wi-Fi</string>
+    <string name="wifi_share_action_turn_on">Comparteix la Wi-Fi</string>
     <string name="wifi_share_action_turn_on_summary">Per a compartir el Wi-Fi, inicieu la sessió en el compte Mi</string>
     <string name="wifi_share_add">Comparteix el Wi-Fi públic</string>
     <string name="wifi_share_add_summary">"Quan compartiu xarxes públiques,
 també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_share_connect">Connecta</string>
-    <string name="wifi_share_connected_summary">"S'ha connectat a una xarxa Wi-Fi pública que és compartida per un altre usuari."</string>
-    <string name="wifi_share_connected_title">Xarxa Wi-Fi compartida amb MIUI</string>
+    <string name="wifi_share_connected_summary">"Esteu connectats a una xarxa Wi-Fi pública que ha compartit un altre usuari."</string>
+    <string name="wifi_share_connected_title">MIUI ha compartit la Wi-Fi</string>
     <string name="wifi_share_current_network">Xarxa actual</string>
     <string name="wifi_share_know">Ho tinc</string>
     <string name="wifi_share_list_empty">No s\'han trobat xarxes compartides.</string>
-    <string name="wifi_share_login">Comparteix una xarxa Wi-Fi</string>
+    <string name="wifi_share_login">Comparteix la xarxa Wi-Fi</string>
     <string name="wifi_share_login_summary">Si és una xarxa pública, podeu compartir-la amb altres usuaris de MIUI.</string>
-    <string name="wifi_share_notification_summary">S\'ha connectat a una xarxa Wi-Fi pública mitjançant MIUI.</string>
+    <string name="wifi_share_notification_summary">MIUI us ha connectat a una xarxa Wi-Fi pública.</string>
     <string name="wifi_share_other_network">Altres xarxes</string>
     <string name="wifi_share_qrcode_finish">Fet</string>
     <string name="wifi_share_qrcode_summary">Escaneja el codi QR i comparteix el Wi-Fi.</string>
-    <string name="wifi_share_qrcode_title">Comparteix una xarxa Wi-Fi</string>
+    <string name="wifi_share_qrcode_title">Comparteix la xarxa Wi-Fi</string>
     <string name="wifi_share_show_network">Mostra xarxes</string>
-    <string name="wifi_share_summary1">Els usuaris de MIUI poden compartir xarxes Wi-Fi públiques (cafès, restaurants, hotels, etc.) entre ells.</string>
+    <string name="wifi_share_summary1">Els usuaris de MIUI poden compartir xarxes Wi-Fi públiques (cafeteries, restaurants, hotels, etc.) entre ells.</string>
     <string name="wifi_share_summary2">Si un altre usuari MIUI comparteix una xarxa, podeu connectar-vos-hi sense contrasenya.</string>
-    <string name="wifi_share_summary3">També podeu compartir la seva xarxa pública Wi-Fi amb altres usuaris de MIUI.</string>
+    <string name="wifi_share_summary3">També podeu compartir les vostres xarxes Wi-Fi públiques amb altres usuaris de MIUI.</string>
     <string name="wifi_share_turn_off">Apaga</string>
     <string name="wifi_share_turn_on">Engega</string>
     <string name="wifi_share_upload">Comparteix</string>
@@ -8481,33 +8489,33 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_show_password">Mostra la contrasenya</string>
     <string name="wifi_sign_in_button_text">Inicia la sessió</string>
     <string name="wifi_signal">Intensitat del senyal</string>
-    <string name="wifi_signal_found_msg">Voleu connectar-vos a punt d\'accés Wi-Fi?</string>
+    <string name="wifi_signal_found_msg">Voleu connectar-vos a un punt de connexió Wi-Fi?</string>
     <string name="wifi_speed">Velocitat de connexió</string>
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_ssid_hint">Introduïu l\'SSID</string>
     <string name="wifi_ssid_is_empty">"SSID no pot estar en blanc"</string>
     <string name="wifi_ssid_length_is_max">El SSID pot tenir una longitud de fins a 32 caràcters</string>
     <string name="wifi_ssid_too_long">El nom de la xarxa és massa llarg.</string>
-    <string name="wifi_starting">Activant WLAN…</string>
+    <string name="wifi_starting">S\'està activant la Wi-Fi…</string>
     <string name="wifi_state_disabled">S\'ha desactivat</string>
     <string name="wifi_state_disabling">S\'està desactivant</string>
     <string name="wifi_state_enabled">Activat</string>
     <string name="wifi_state_enabling">S\'està activant</string>
-    <string name="wifi_state_label">Estat del senyal Wi-Fi:</string>
+    <string name="wifi_state_label">Estat de la Wi-Fi:</string>
     <string name="wifi_state_unknown">Desconegut</string>
     <string name="wifi_status">Estat</string>
     <string name="wifi_status_mac_randomized">MAC és aleatori</string>
     <string name="wifi_status_no_internet">No hi ha internet</string>
     <string name="wifi_status_sign_in_required">Cal que inicieu la sessió</string>
-    <string name="wifi_status_test">Estat del senyal Wi-Fi</string>
-    <string name="wifi_stopping">S\'està apagant el Wi-Fi&#8230;</string>
+    <string name="wifi_status_test">Estat de la Wi-Fi</string>
+    <string name="wifi_stopping">S\'està desactivant la Wi-Fi…</string>
     <string name="wifi_subnet_mask">Màscara de subxarxa</string>
     <string name="wifi_subscribed_access_points_tab">Subscripcions</string>
     <string name="wifi_subscription">Subscripció</string>
     <string name="wifi_subscription_summary">Veure o canviar la subscripció</string>
     <string name="wifi_suspend_efficiency_title">Millora l\'eficàcia</string>
-    <string name="wifi_suspend_optimizations">Optimització del Wi-Fi</string>
-    <string name="wifi_suspend_optimizations_summary">Minimitza l\'ús de la bateria amb el Wi-Fi activat</string>
+    <string name="wifi_suspend_optimizations">Optimització de la Wi-Fi</string>
+    <string name="wifi_suspend_optimizations_summary">Minimitza l’ús de la bateria quan la Wi-Fi està activada</string>
     <string name="wifi_switch_away_when_unvalidated">Canvieu a dades mòbils si Wi-Fi perd accés a Internet.</string>
     <string name="wifi_switch_to_gsm_message">S\'ha perdut la connexió Wi-Fi. Voleu utilitzar la connexió de dades mòbils?</string>
     <string name="wifi_switch_to_gsm_title">Voleu utilitzar la GSM?</string>
@@ -8542,13 +8550,13 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_update">Actualitza les estadístiques</string>
     <string name="wifi_use_system_certs">Utilitza certificats del sistema</string>
     <string name="wifi_venue_website_button_text">Lloc obert</string>
-    <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
-    <string name="wifi_verbose_logging_summary">Incrementeu el nivell de registre de WLAN (mostra per RSS SSID al selector WLAN)</string>
+    <string name="wifi_verbose_logging">Activa el registre detallat de la Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre de la Wi-Fi (mostra per SSID RSSI al selector de la Wi-Fi)</string>
     <string name="wifi_wakeup">Activa automàticament la connexió Wi-Fi</string>
     <string name="wifi_wakeup_location_summary">Activeu els serveis d\'ubicació per poder utilitzar aquesta funció.</string>
     <string name="wifi_wakeup_negative_button">Surt</string>
     <string name="wifi_wakeup_positive_button">Activa</string>
-    <string name="wifi_wakeup_scan_summary">Permet que les aplicacions i els serveis cerquin xarxes WLAN per poder activar-la automàticament. Si activeu aquesta funció, el dispositiu es podrà connectar automàticament a les xarxes desades properes.</string>
+    <string name="wifi_wakeup_scan_summary">Permet que les aplicacions i els serveis cerquin xarxes Wi-Fi per poder activar-la automàticament. Si activeu aquesta funció, el dispositiu es podrà connectar automàticament a les xarxes desades properes.</string>
     <string name="wifi_wakeup_summary">Wi-Fi es tornarà a activar a prop de xarxes guardades de gran qualitat, com ara la vostra llar</string>
     <string name="wifi_wakeup_summary_no_location">No disponible perquè la ubicació està desactivada. Activa la <annotation id="link">ubicació</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">No disponible perquè l\'escaneig de Wi-Fi està desactivat</string>
@@ -8586,11 +8594,11 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSPA WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="wifi_wps_available_first_item">WPS disponible</string>
     <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
-    <string name="wifi_wps_connected">S\'ha connectat a xarxa Wi-Fi %s</string>
-    <string name="wifi_wps_onstart_pbc">Premeu el botó de configuració protegida Wi-Fi de l\'encaminador. Pot ser que s\'anomeni «WPS» o que estigui identificat amb aquest símbol:</string>
-    <string name="wifi_wps_onstart_pin">Introduïu el PIN %1$s a l\'encaminador Wi-Fi. La configuració pot trigar més de dos minuts a completar-se.</string>
-    <string name="wifi_wps_overlap_error">S\'ha detectat una altra sessió Wi-Fi. Torneu-ho a provar d\'aquí a una estona.</string>
-    <string name="wifi_wps_setup_title">Configuració de Wi-Fi protegida</string>
+    <string name="wifi_wps_connected">Connectat a la xarxa Wi-Fi %s</string>
+    <string name="wifi_wps_onstart_pbc">Premeu el botó Configuració protegida de la Wi-Fi del vostre encaminador. Es pot anomenar \"WPS\" o contenir aquest símbol:</string>
+    <string name="wifi_wps_onstart_pin">Introduïu el PIN %1$s al vostre encaminador Wi-Fi. La configuració pot trigar fins a dos minuts a completar-se.</string>
+    <string name="wifi_wps_overlap_error">S\'ha detectat una altra sessió Wi-Fi. Espereu un minut o dos i torneu-ho a provar.</string>
+    <string name="wifi_wps_setup_title">Configuració protegida de la Wi-Fi</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="winscope_trace_quick_settings_title">Traça de Winscope</string>
     <string name="wireless_connected">Connectat</string>

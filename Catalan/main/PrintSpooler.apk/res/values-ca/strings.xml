@@ -53,7 +53,7 @@
     <string name="open">Activa</string>
     <string name="open_print_service">Habilita la impressió</string>
     <string name="open_print_service_tips">Per poder utilitzar aquesta funció, activeu la impressió primer a la Configuració.</string>
-    <string name="open_wlan">Activa la Wi-Fi</string>
+    <string name="open_wlan">Activeu la Wi-Fi</string>
     <string name="open_wlan_tips">Activeu la Wi-Fi per trobar impressores</string>
     <string name="other_printer">Altres impressores</string>
     <string name="page_description_template">Pàgina %1$d de %2$d</string>
@@ -71,7 +71,7 @@
     <string name="print_fail_network_error">"No s'ha pogut imprimir. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="print_forget_printer">Oblida la impressora</string>
     <string name="print_help_label">Ajuda</string>
-    <string name="print_help_tip">Assegureu-vos que tant la impressora com el telèfon estiguin connectats a la mateixa xarxa WLAN o que la WLAN Direct està activada. %1$s.</string>
+    <string name="print_help_tip">Assegureu-vos que la impressora i el telèfon estiguin connectats a la mateixa xarxa Wi-Fi o que Wi-Fi Direct estigui activat. %1$s.</string>
     <string name="print_help_tip_reg">Veure \"Ajuda\"</string>
     <string name="print_no_print_services">Cap servei d\'impressió activat</string>
     <string name="print_no_printers">No s\'ha trobat cap impressora</string>
@@ -116,7 +116,7 @@
     <string name="system_print_service_help">Quant a la impressió</string>
     <string name="template_all_pages">Totes %1$s</string>
     <string name="template_page_range">Interval de %1$s</string>
-    <string name="wifi_direct">WLAN Direct</string>
+    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wps_convert_error_toast_text">"No s'ha pogut convertir el fitxer a causa d'un error de format"</string>
     <string name="wps_convert_too_large_and_wait_toast_text">La conversió pot trigar més temps a causa d’una mida de fitxer més gran. Convertint…</string>
 </resources>

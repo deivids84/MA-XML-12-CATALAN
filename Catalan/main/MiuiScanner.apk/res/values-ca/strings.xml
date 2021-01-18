@@ -91,7 +91,7 @@
     <string name="classes_titlt">Horari de classe</string>
     <string name="classes_topTitle">Escanegeu el vostre horari de classes</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
-    <string name="close_hotspot_when_connecting_to_wifi">El punt d\'accés està activat. Activa la WLAN.</string>
+    <string name="close_hotspot_when_connecting_to_wifi">El punt d\'accés està activat. Activeu la Wi-Fi.</string>
     <string name="common_retake_picture">Repeteix</string>
     <string name="common_retry">Torna-ho a provar</string>
     <string name="common_save">Desa</string>
@@ -181,7 +181,7 @@
     <string name="filename_cannot_beempty">"No es poden desar fitxers sense nom"</string>
     <string name="flash_close">tanca</string>
     <string name="flash_open">obert</string>
-    <string name="flight_mode_connecting_to_wifi">Activeu la WLAN manualment quan el mode Avió estigui activat</string>
+    <string name="flight_mode_connecting_to_wifi">Activeu la Wi-Fi manualment quan el mode avió estigui activat</string>
     <string name="food_identification_fail_tips">Escanegeu fruites, verdures i altres aliments. Aquesta funció també funciona amb imatges.</string>
     <string name="food_identification_tip_msg">S\'està reconeixent el menjar…</string>
     <string name="food_make_complaints_hint">Introduïu el seu comentari aquí</string>
@@ -461,10 +461,10 @@
     <string name="weixin_code_tip">Utilitzeu el WeChat per escanejar aquest codi QR</string>
     <string name="welcome_to_thesweepversion">Us donem la benvinguda a l\'Escàner Beta!</string>
     <string name="wifi">Wi-Fi</string>
-    <string name="wifi_details">WLAN:</string>
+    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">El punt d\'accés \"%1$s\" ja existeix. Suprimiu-lo i torneu a escanejar el codi per connectar-vos.</string>
     <string name="wifi_low_version_prompt">sol·licitud de wifi</string>
-    <string name="wifi_open_fail">"No es pot activar la WLAN"</string>
+    <string name="wifi_open_fail">"No es pot activar la Wi-Fi"</string>
     <string name="wifi_psd_toolong">La contrasenya és massa llarga. Introduïu la contrasenya manualment.</string>
     <string name="wifi_pwd">Contrasenya:</string>
     <string name="wifi_security">Seguretat:</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Baixades</string>
-    <string name="auto_restart_under_wifi">La WLAN baixarà automàticament aquest fitxer</string>
+    <string name="auto_restart_under_wifi">La Wi-Fi baixarà aquest fitxer automàticament</string>
     <string name="button_cancel_download">Cancel·la</string>
     <string name="button_download_now">Baixa-ho ara</string>
     <string name="button_queue_for_wifi">Cua</string>
@@ -15,7 +15,7 @@
     <string name="dialog_button_ok">D\'acord</string>
     <string name="dialog_content_limit0">Restringeix les baixades</string>
     <string name="dialog_content_limit_max">Il·limitat</string>
-    <string name="dialog_data_limit_button1">A l\'espera d\'una conexió Wi-Fi</string>
+    <string name="dialog_data_limit_button1">A l\'espera de la Wi-Fi</string>
     <string name="dialog_data_limit_button2">Baixa</string>
     <string name="dialog_data_limit_msg1">S\'utilitzaran %s de dades mòbils per baixar aquest arxiu. Voleu baixar-lo ara?</string>
     <string name="dialog_data_limit_msg3">Canvia el límit</string>
@@ -53,7 +53,7 @@
     <string name="notify_install_guide_forward_text">Obre</string>
     <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
     <string name="notify_install_guide_title">%s s\'ha instal·lat amb èxit</string>
-    <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
+    <string name="notify_only_wifi_download">S\'està esperant la Wi-Fi</string>
     <string name="paused_waiting_for_network">A l\'espera d\'una connexió a la xarxa</string>
     <string name="permdesc_accessAllDownloads">Permet que l\'aplicació consulti i modifiqui totes les baixades iniciades per qualsevol aplicació del sistema.</string>
     <string name="permdesc_downloadCacheNonPurgeable">"Permet que l'aplicació baixi fitxers a la memòria cau de baixada que no es poden suprimir automàticament quan el gestor de baixades necessita més espai."</string>
@@ -80,16 +80,16 @@
     <string name="root_downloads">Baixades</string>
     <string name="task_already_exist">La tasca ja existeix</string>
     <string name="warning_tip_cancel">Baixa</string>
-    <string name="warning_tip_content">"No esteu connectat a cap Wi-Fi. L'ús de la connexió de dades mòbils per completar la baixada incrementarà l'ús de dades. Si excediu el límit de la vostra tarifa, l'operador us pot cobrar càrrecs addicionals."</string>
+    <string name="warning_tip_content">"Ja no esteu connectats a la Wi-Fi. Si feu servir la vostra connexió de dades mòbils per completar aquesta baixada, augmentareu l’ús de dades. Si sobrepasseu el límit de dades del pla, el vostre operador us pot cobrar càrrecs addicionals."</string>
     <string name="warning_tip_ok">Pausa</string>
     <string name="warning_tip_title">Alerta d\'ús de dades</string>
-    <string name="wifi_recommended_body">"Iniciar aquesta baixada de %1$s ara pot produir un ús excessiu de la vostra connexió de dades mòbils, cosa que pot generar càrrecs per part de l’operador en funció del vostre pla de dades.
+    <string name="wifi_recommended_body">"Iniciar aquesta baixada de %1$s ara pot provocar un ús excessiu de la vostra connexió de dades mòbils, cosa que pot generar càrrecs per part de l’operador de telefonia mòbil en funció del vostre pla de dades.
 
-Toqueu %2$s per iniciar aquesta baixada la pròxima vegada que estigueu connectats a una xarxa WLAN."</string>
+Toqueu %2$s per iniciar aquesta baixada la pròxima vegada que estigueu connectats a una xarxa Wi-Fi."</string>
     <string name="wifi_recommended_title">Voleu posar-lo en cua per baixar-lo més tard?</string>
-    <string name="wifi_required_body">"Connecteu-vos a la WLAN per completar aquesta baixada de %1$s.
+    <string name="wifi_required_body">"Connecteu-vos a la Wi-Fi per completar aquesta %1$s baixada. 
 
-Toqueu %2$s per iniciar aquesta baixada la pròxima vegada que estigueu connectats a una xarxa WLAN."</string>
+Toqueu %2$s per iniciar aquesta baixada la pròxima vegada que estigueu connectats a una xarxa Wi-Fi."</string>
     <string name="wifi_required_title">Baixada massa gran per a la xarxa de l\'operador</string>
     <string name="xl_speedup_experience_notify_context">"La velocitat augmentarà a cada baixada quan sigueu un membre de Xunlei"</string>
     <string name="xl_speedup_experience_notify_title">Subscripció Xunlei</string>

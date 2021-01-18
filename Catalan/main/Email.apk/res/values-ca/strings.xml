@@ -57,8 +57,8 @@
     <string name="account_setting_message_body_load_head_only">Només la capçalera</string>
     <string name="account_setting_message_body_load_text">Només el cos</string>
     <string name="account_settings_action">Configuració del compte</string>
-    <string name="account_settings_background_attachments_summary">Baixa els arxius adjunts amb Wi-Fi</string>
-    <string name="account_settings_background_attachments_summary_inter">Baixa els fitxers adjunts amb Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Baixa els fitxers adjunts mitjançant la Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary_inter">Baixa els fitxers adjunts mitjançant la Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Baixeu els fitxers adjunts automàticament</string>
     <string name="account_settings_data_usage">Ús de dades</string>
     <string name="account_settings_description_label">Nom del compte</string>
@@ -911,8 +911,8 @@ Proveu a canviar a un compte de correu diferent."</string>
     <string name="policy_dont_allow_unsigned_apps">"No es permeten aplicacions sense signar"</string>
     <string name="policy_dont_allow_unsigned_installers">"\"\"\"\"No permetre instal·ladors d'aplicacions 
         sense signar\"\"\"\""</string>
-    <string name="policy_dont_allow_wifi">"No permetis Wi-Fi"</string>
-    <string name="policy_dont_allow_wifi_inter">"No permetis Wi-Fi"</string>
+    <string name="policy_dont_allow_wifi">"No permetis la Wi-Fi"</string>
+    <string name="policy_dont_allow_wifi_inter">"No permetis la Wi-Fi"</string>
     <string name="policy_html_truncation">Limitar mida de correus HTML</string>
     <string name="policy_require_encryption">Requerir xifrat de dispositiu</string>
     <string name="policy_require_manual_sync_roaming">Permet només la sincronització manual en itinerància</string>

@@ -61,6 +61,7 @@ dd/MM"</string>
     <string name="aod_show_date_and_time">Mostra la data i l\'hora</string>
     <string name="aod_show_style_title">Mostra els elements</string>
     <string name="aod_style">Tema</string>
+    <string name="aod_theme_store">Temes de la pantalla ambiental</string>
     <string name="aod_to_close">Desactiva</string>
     <string name="app_name">Preferència</string>
     <string name="apply">Aplica</string>
@@ -344,7 +345,7 @@ meravellosa està a punt de passar"</string>
 dd/M"</string>
     <string name="super_wallpaper_date_inter">"EEEE
 dd/M"</string>
-    <string name="temporary_style">Durant 10 segons després de tocar-lo</string>
+    <string name="temporary_style">Durant 10 seg després de tocar-la</string>
     <string name="temporary_style_summary">Recomanat</string>
     <string name="text_color">Color del text</string>
     <string name="text_length_exceed_limit_alert">* El text que heu introduït és massa llarg</string>

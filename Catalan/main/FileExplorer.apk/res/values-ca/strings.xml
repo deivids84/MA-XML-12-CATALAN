@@ -262,7 +262,7 @@
     <string name="load_more">Veure més</string>
     <string name="loading">Un moment…</string>
     <string name="local_image">Imatges</string>
-    <string name="local_music">Música</string>
+    <string name="local_music">Fitxers d\'àudio</string>
     <string name="local_video">Vídeo</string>
     <string name="make_private">Amaga</string>
     <string name="make_private_msg_1">Voleu amagar aquest fitxer?</string>
@@ -459,7 +459,7 @@
     <string name="operation_show_privacy_policy">Mostra la política de privadesa</string>
     <string name="operation_show_sys">Mostra fitxers ocults</string>
     <string name="operation_unfavorite">Treu dels destacats</string>
-    <string name="optional_change_wifi">Per gestionar fitxers de forma remota mitjançant Wi-Fi</string>
+    <string name="optional_change_wifi">Per gestionar els fitxers de forma remota mitjançant la Wi-Fi</string>
     <string name="otg_data_transfer_success">Transferència correcta</string>
     <string name="otg_data_transferring">"Transferència de fitxers… No desconnecteu l'emmagatzematge extern."</string>
     <string name="otg_file_security_confirm">còpia al telèfon</string>

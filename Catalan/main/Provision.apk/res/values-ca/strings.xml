@@ -51,21 +51,20 @@
     <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
     <string name="camera_introduction">Podeu utilitzar la Càmera per fer fotos i enregistrar vídeos.</string>
-    <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament la informació de la versió del dispositiu, les dades d'identificació del dispositiu (incloent-hi IMEI/IMSI/MSISDN/l'adreça MAC, MEID/ICCID) i la informació d'ubicació aproximada (inclòs l'ID de l'estació base) a l'operadora mitjançant la WLAN, la xarxa de dades mòbils o SMS gratuït. L'operadora es compromet a analitzar la informació rellevant només per millorar la qualitat dels serveis o per proporcionar serveis o tecnologies personalitzades, i no revelarà la informació rellevant a tercers de cap manera que l'identifiqui personalment. Prevaldrà la declaració específica de l'operadora. Consulti a la seva operadora sobre el cost d'utilitzar aquest servei."</string>
+    <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament informació de la versió del dispositiu, dades d’identificació del dispositiu (incloses les adreces IMEI / IMSI / MSISDN / MAC, MEID / ICCID) i l'informació aproximada de la ubicació (inclòs l’identificador de l’estació base) a l'operador mitjançant la Wi-Fi, xarxa de dades mòbils o SMS gratuïts. L'operador promet analitzar la informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no revelarà informació rellevant a tercers en cap forma que l’identifiqui personalment. La declaració específica del operador prevaldrà. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
     <string name="clock_introduction">Podeu utilitzar aquesta aplicació per veure l\'hora, així com utilitzar el temporitzador, el rellotge mundial, el cronòmetre, configurar les alarmes i més.</string>
     <string name="close_location_service_setting">Podeu triar entre desactivar l’accés a la ubicació a Configuració &gt; Configuració addicional &gt; Privadesa o restringir els permisos per a aplicacions individuals a Seguretat.</string>
-    <string name="cm_terms_content">"Per tal de millorar els serveis que se us proporcionen, l'operadora de la xarxa mòbil que trieu pot carregar les vostres dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes WLAN o connexió de dades mòbils. Aquesta informació només s’utilitzarà amb finalitats estadístiques per tal de millorar la qualitat dels serveis i proporcionar contingut més personalitzat. Aquesta informació no s'utilitzarà per identificar-lo personalment i no es revelarà a tercers."</string>
+    <string name="cm_terms_content">"Per millorar els serveis que li presten, l'operador de xarxa mòbil de la vostra elecció pot carregar les seves dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades. Aquesta informació només s'utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i oferir un contingut més personalitzat. Aquesta informació no serà utilitzada per identificar-vos personalment i no serà revelada a tercers."</string>
     <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
     <string name="compass_introduction">Podeu utilitzar aquesta aplicació per la navegació, així com per veure les coordenades, la pressió atmosfèrica i l\'altitud.</string>
     <string name="congratulation_label">"Gaudiu del nou telèfon :)"</string>
     <string name="congratulation_swipe">Feu lliscar cap amunt per accedir al sistema</string>
     <string name="congratulation_title">S\'ha completat la configuració</string>
     <string name="content_description_complete">Completada</string>
-    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">Inicia</string>
     <string name="content_introduction">El Centre de Contingut agrega contingut i serveis de diversos canals. Aquí podeu llegir articles, veure vídeos, veure articles destacats diàriament i rebre recomanacions de contingut.</string>
     <string name="continue_to_enable_accessibility">Mantén premuts els dos dits avall per activar l\'accessibilitat.</string>
-    <string name="data_traffic_enable_dialog_title">"Si ara no esteu connectat a la WLAN, el dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar càrrecs addicionals de l’operador."</string>
+    <string name="data_traffic_enable_dialog_title">"Si ara no esteu connectats a la Wi-Fi, el dispositiu utilitzarà dades mòbils. L’ús de dades mòbils pot generar costos addicionals de l’operador."</string>
     <string name="desc_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
     <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
     <string name="diagnose_report">Envieu les dades de diagnòstic per localitzar i analitzar els problemes del sistema i millorar l’experiència d\'usuari. Aquestes dades poden incloure informació personal (per exemple, IP, ubicació, etc.)</string>
@@ -208,8 +207,7 @@
     <string name="privacy_policy">Política de privadesa</string>
     <string name="protect_persoanl_info_statement">Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.</string>
     <string name="provision_back">Enrere</string>
-    <string name="provision_inputmethod_policy_description">"
-Vegeu la política de privadesa del teclat seleccionat."</string>
+    <string name="provision_inputmethod_policy_description"><Data>Consulteu la &lt;a href=%1$s&gt;Política de privadesa&lt;/a &gt; del teclat seleccionat.</Data></string>
     <string name="provision_inputmethod_policy_description1">Política de privadesa</string>
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>

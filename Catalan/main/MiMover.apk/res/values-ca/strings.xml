@@ -84,13 +84,13 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
     <string name="confirm_description">Confirmeu</string>
     <string name="connect_icloud_fail">"No s'ha pogut connectar amb iCloud"</string>
     <string name="connect_icloud_fail_tips">Assegureu-vos que el vostre compte iCloud ha estat activat. Si no, aneu a icloud.com i seguiu les instruccions per activar el vostre compte.</string>
-    <string name="connect_wifi">Connecta’t a WLAN</string>
-    <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos a WLAN per importar els elements des d’i iCloud."</string>
+    <string name="connect_wifi">Connecteu-vos a la Wi-Fi</string>
+    <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos a la Wi-Fi per importar els elements de l’iCloud."</string>
     <string name="connecting">S\'està connectant…</string>
     <string name="connection_tips_activity_label">Resolució de problemes</string>
-    <string name="connection_tips_other_message">"1. Assegureu-vos que la versió més recent de Mi Mover estigui instal·lada al dispositiu antic. Podeu descarregar l'última versió de Mi Mover a GetApps o utilitzar aquest enllaç: %1$s.
-2. Si l’hotspot del nou dispositiu no apareix a Mi Mover, obriu la configuració de la xarxa WLAN i comproveu si la podeu veure. Si ho feu, no toqueu-lo.
-3. Torneu a Mi Mover i toqueu el nom de l’hotspot."</string>
+    <string name="connection_tips_other_message">"1. Assegureu-vos que la versió més recent de Mi Mover estigui instal·lada al dispositiu antic. Podeu baixar la versió més recent de Mi Mover a GetApps o fer servir aquest enllaç: %1$s.
+2. Si el punt d'accés del nou dispositiu no apareix a Mi Mover, obriu la configuració de la Wi-Fi i comproveu si l'hi podeu veure. Si ho feu, no la toqueu.
+3. Torneu a Mi Mover i toqueu el nom del punt d'accés."</string>
     <string name="connection_tips_other_title">Si el vostre dispositiu antic és un telèfon Android de tercers:</string>
     <string name="connection_tips_owner_message">Mi Mover està preinstal·lat a tots els dispositius amb MIUI 11. Si teniu una versió MIUI més antiga, podeu descarregar la versió més recent de Mi Mover a GetApps o utilitzar aquest enllaç: %1$s.</string>
     <string name="connection_tips_owner_title">Si el vostre dispositiu antic és un telèfon Mi:</string>
@@ -275,12 +275,12 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="icloud_how_to_backup_tip_steps_two">"2. El vostre identificador i contrasenya d'Apple només s'utilitzaran per iniciar la sessió. No seran desats ni enregistrats per Mi Mover."</string>
     <string name="icloud_login_title">Inicieu la sessió a iCloud</string>
     <string name="icloud_need_sync">Seleccioneu els elements que voleu importar</string>
-    <string name="icloud_need_traffic_message">"En aquest moment no esteu connectats a WLAN. Feu servir dades mòbils per importar articles des de iCloud?"</string>
+    <string name="icloud_need_traffic_message">"Ara no esteu connectats a la Wi-Fi. Voleu utilitzar les dades mòbils per importar els elements de l’iCloud?"</string>
     <string name="icloud_need_traffic_title">Ús de dades mòbils</string>
-    <string name="icloud_need_wifi_message">"En aquest moment no esteu connectats a WLAN. Per importar dades des iCloud, connecteu-vos a WLAN."</string>
-    <string name="icloud_need_wifi_new_message">Connecteu-vos a WLAN per poder importar articles des d’un iPhone.</string>
-    <string name="icloud_need_wifi_new_title">Connecta’t a WLAN</string>
-    <string name="icloud_need_wifi_title">Connecta’t a WLAN</string>
+    <string name="icloud_need_wifi_message">"Ara no esteu connectats a la Wi-Fi. Per importar les dades de l’iCloud, connecteu-vos a la Wi-Fi."</string>
+    <string name="icloud_need_wifi_new_message">Connecteu-vos a la Wi-Fi per poder importar els elements des d\'un iPhone.</string>
+    <string name="icloud_need_wifi_new_title">Connecteu-vos a la Wi-Fi</string>
+    <string name="icloud_need_wifi_title">Connecteu-vos a la Wi-Fi</string>
     <string name="icloud_new_connect_wifi">Connecta’t</string>
     <string name="icloud_signin_fail">"No s'ha pogut iniciar la sessió"</string>
     <string name="icloud_signin_fail_message">El vostre identificador de poma es va bloquejar per causes de seguretat. Aneu a iforgot.apple.com i seguiu les instruccions.</string>
@@ -308,7 +308,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="instruction">Informació de seguretat important</string>
     <string name="international_new_trans_intro_desc_8">"Els missatges de text no es poden transferir a causa de problemes de compatibilitat. Les aplicacions de tercers poden restringir la transferència de dades de les seves aplicacions per motius de seguretat."</string>
     <string name="international_new_trans_intro_question_8">"8. Per què no es poden transferir missatges de text i dades d'aplicacions d'algunes aplicacions de tercers?"</string>
-    <string name="international_scanner_send_dialog_message">"Els missatges de text i les dades d'aplicacions d'algunes aplicacions de tercers no es poden transferir. No desactiveu la WLAN ni canvieu les xarxes durant la transferència."</string>
+    <string name="international_scanner_send_dialog_message">"Els missatges de text i les dades d'aplicacions d'algunes aplicacions de tercers no es poden transferir. No desactiveu la Wi-Fi ni canvieu entre xarxes durant la transferència."</string>
     <string name="label">MIUI SDK</string>
     <string name="lack_perm_msg">Mi Mover necessita els següents permisos per funcionar normalment: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permisos necessaris</string>
@@ -330,9 +330,9 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="main_sender_summary">Toca per enviar elements</string>
     <string name="main_sender_title">Vell</string>
     <string name="manual_connection_content1">1. Toqueu \"Connecta al dispositiu nou manualment\" al dispositiu antic.</string>
-    <string name="manual_connection_content2">2. Seleccioneu el següent punt d\'accés WLAN.</string>
+    <string name="manual_connection_content2">2. Seleccioneu el punt d\'accés Wi-Fi següent.</string>
     <string name="manual_connection_content3">3. Introduïu aquesta contrasenya al dispositiu antic per connectar-vos.</string>
-    <string name="manual_connection_summary2">"Si no trobeu aquest punt d'accés, actualitzeu la llista de les xarxes WLAN disponibles i torneu-ho a provar."</string>
+    <string name="manual_connection_summary2">"Si no trobeu aquest punt d'accés, actualitzeu la llista de les xarxes Wi-Fi disponibles i torneu-ho a provar."</string>
     <string name="manual_connection_title">Connecteu-vos manualment al dispositiu antic</string>
     <string name="message_request_package_stats_perm">Mi Mover necessita aquest permís per saber quines aplicacions estan instal·lades en un dispositiu i transferir-les a un altre.</string>
     <string name="midnight">AM</string>
@@ -409,7 +409,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="new_trans_intro_desc_8">L\'historial de WeChat des del vostre anterior dispositiu sobreescriurà l\'historial de WeChat del nou dispositiu durant la transferència.</string>
     <string name="new_trans_intro_desc_new">1. Assegureu-vos que Mi Mover del vostre dispositiu estigui actualitzat. Podeu descarregar l\'última versió de Mi Mover a GetApps o utilitzar aquest enllaç: %1$s.</string>
     <string name="new_trans_intro_desc_new_click">descarregar</string>
-    <string name="new_trans_intro_desc_old">"2. Si l’hotspot encara no apareixerà a Mi Mover, obriu la configuració de WLAN i comproveu si podeu veure-la. Si és així, torneu a Mi Mover i toqueu el nom de l’hotspot."</string>
+    <string name="new_trans_intro_desc_old">"2. Si el punt d'accés encara no apareix a Mi Mover, obriu la configuració de la Wi-Fi i comproveu si el podeu veure. Si és així, torneu a Mi Mover i toqueu el nom del punt d'accés."</string>
     <string name="new_trans_intro_question_1">"1. Per què no puc veure l’hotspot del nou dispositiu a l’antic?"</string>
     <string name="new_trans_intro_question_2">2. Quina és la contrasenya del hotspot?</string>
     <string name="new_trans_intro_question_3">"3. Per què diu que no hi ha prou espai d’emmagatzematge a l’antic dispositiu?"</string>
@@ -423,7 +423,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
 3. Seleccioneu el punt hotspot següent al dispositiu antic."</string>
     <string name="new_wait_link_message_2">"El botó \"Sóc remitent\" es troba a la pàgina inicial de Mi Mover."</string>
     <string name="new_wait_link_title_2">"1. Toqueu \"Sóc un remitent\" i espereu un moment."</string>
-    <string name="new_wait_link_title_3">2. Seleccioneu el següent punt d\'accés WLAN al dispositiu antic.</string>
+    <string name="new_wait_link_title_3">2. Seleccioneu el punt d\'accés Wi-Fi següent al dispositiu antic.</string>
     <string name="next">Pròxim</string>
     <string name="nickname">Sobrenom</string>
     <string name="night">PM</string>
@@ -449,7 +449,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="notif_icloud_loaded_summary">…esperant</string>
     <string name="notif_icloud_loading_summary">Carregant dades…</string>
     <string name="notif_icloud_logining">Inicieu la sessió a iCloud al vell dispositiu iOS…</string>
-    <string name="notif_icloud_need_wifi_summary">Esperant WLAN</string>
+    <string name="notif_icloud_need_wifi_summary">S\'està esperant la Wi-Fi</string>
     <string name="notif_icloud_saved_summary">S\'ha importat correctament</string>
     <string name="notif_icloud_saving_summary">Restauració de dades…</string>
     <string name="notification_trans_finish_receive_message">S\'han rebut totes les dades correctament. Toqueu per veure els resultats.</string>
@@ -459,10 +459,10 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="notification_trans_interrupt_message">La connexió s\'ha interromput. Intentem connectar de nou…</string>
     <string name="notification_trans_interrupt_title">Connexió de nou…</string>
     <string name="notification_trans_leave_message">"No tanqueu Mi Mover mentre transferiu articles."</string>
-    <string name="notification_trans_receive_message">"S'han rebut dades ara. No desactiveu la xarxa WLAN ni canvieu entre una xarxa."</string>
+    <string name="notification_trans_receive_message">"S'estan rebent dades ara. No desconnecteu la Wi-Fi ni canvieu entre xarxes."</string>
     <string name="notification_trans_receive_title">Recepció de dades…</string>
     <string name="notification_trans_running_title">Mi Mover treballa ara…</string>
-    <string name="notification_trans_send_message">"S'està enviant les dades ara No desactiveu la xarxa WLAN ni canvieu entre una xarxa."</string>
+    <string name="notification_trans_send_message">"S'estan enviant dades. No desactiveu la Wi-Fi ni canvieu entre xarxes."</string>
     <string name="notification_trans_send_title">S\'està enviant les dades…</string>
     <string name="ok">D\'acord</string>
     <string name="old_app_name">Versió antiga</string>
@@ -511,7 +511,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="permission_storage_summary">Per a transferir fitxers i fotos al nou dispositiu</string>
     <string name="permission_storage_title">Accés i desa els fitxers i les fotos emmagatzemades al dispositiu</string>
     <string name="permission_wifi_summary">Per a transferir elements al nou dispositiu</string>
-    <string name="permission_wifi_title">Activant i desactivant la WLAN</string>
+    <string name="permission_wifi_title">Activació i desactivació de la Wi-Fi</string>
     <string name="permlab_sendSmsNoConfirmation">Permet missatges SMS en segon pla</string>
     <string name="phone">Telèfon</string>
     <string name="pm">PM</string>
@@ -522,7 +522,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="prompt_before_transmission_message2_title">"Utilitzeu aplicacions dobles per als elements següents"</string>
     <string name="prompt_before_transmission_message3_summary">"Els elements del segon espai no es poden transferir a causa de les restriccions del sistema."</string>
     <string name="prompt_before_transmission_message3_title">"Feu servir el segon espai"</string>
-    <string name="prompt_before_transmission_message4_summary">"No desactiveu WLAN ni canvieu entre xarxes fins que no s'hagi completat la transferència."</string>
+    <string name="prompt_before_transmission_message4_summary">"No desactiveu la Wi-Fi ni canvieu entre xarxes fins que la transferència no s'hagi completat."</string>
     <string name="prompt_before_transmission_message4_title">Manteniu-vos connectat durant tot el trasllat</string>
     <string name="prompt_before_transmission_message5_summary">"La transferència de grans quantitats de dades sense fils pot provocar un lleuger sobreescalfament que no és anormal. El dispositiu es refredarà aviat un cop finalitzada la transferència."</string>
     <string name="prompt_before_transmission_message5_title">El vostre dispositiu pot escalfar-se durant les transferències.</string>
@@ -548,7 +548,7 @@ Inicieu la sessió al vostre compte de Mi per restaurar-los."</string>
     <string name="save_finish_with_failing_items">"La transferència es va interrompre.
 Les dades que no s’han importat s’han de tornar a importar."</string>
     <string name="saving_data">Importació de dades des iCloud…</string>
-    <string name="saving_data_not_close_wifi">"No desactiveu WLAN"</string>
+    <string name="saving_data_not_close_wifi">"No desactiveu la Wi-Fi"</string>
     <string name="saving_data_space_low">"No hi ha prou espai d’emmagatzematge.
 Allibereu almenys %s."</string>
     <string name="scan_soft_ap_label">Connexió al nou dispositiu</string>
@@ -561,7 +561,7 @@ Allibereu almenys %s."</string>
     <string name="scanner_quit_alert_message">"Haureu de tornar a connectar els dos dispositius si deixeu de Mi Mover ara. De totes maneres"</string>
     <string name="scanner_quit_alert_title">Deixeu-ho ara?</string>
     <string name="scanner_send_dialog_btn">Ho tinc</string>
-    <string name="scanner_send_dialog_message">"No desactiveu la WLAN ni canvieu les xarxes durant la transferència."</string>
+    <string name="scanner_send_dialog_message">"No desactiveu la connexió Wi-Fi ni canvieu entre xarxes durant la transferència."</string>
     <string name="scanner_size_selected">Seleccionat: %s</string>
     <string name="scanner_time_remained">Temps de transferència estimat: %s</string>
     <string name="scanner_title_tip">Seleccioneu els elements que voleu transferir</string>
@@ -600,7 +600,7 @@ Allibereu almenys %s."</string>
     <string name="settings_powerkeeper">Dades de comptador de passos</string>
     <string name="settings_sms">Configuració de missatgeria</string>
     <string name="settings_system">Ajustos del sistema</string>
-    <string name="settings_wifi">Configuració WLAN</string>
+    <string name="settings_wifi">Configuració de la Wi-Fi</string>
     <string name="sim_changed_reactivate_int_notice">És possible que es requereixi un missatge SMS internacional sortint per reactivar aquest servei. El vostre operador us cobrarà per aquest missatge.</string>
     <string name="sim_changed_reactivate_notice">Es pot requerir un missatge SMS sortint per reactivar aquest servei. El vostre operador us cobrarà per aquest missatge.</string>
     <string name="sim_in_airplane_mode">Desactiveu el mode avió.</string>
@@ -638,7 +638,7 @@ Allibereu almenys %s."</string>
     <string name="succ_description">Fet</string>
     <string name="summary_open_wlan">Mi Mover necessita aquest permís per garantir l\'estabilitat del procés de transferència.</string>
     <string name="summary_request_alert_window_prem">Mi Mover necessita aquest permís per garantir l\'estabilitat del procés de transferència.</string>
-    <string name="summary_request_write_settings_prem">Mi Mover necessita aquest permís per activar la WLAN i crear un punt d\'accés per transferir fitxers.</string>
+    <string name="summary_request_write_settings_prem">Mi Mover necessita aquest permís per activar la Wi-Fi i crear un punt d\'accés per transferir els fitxers.</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Sol</string>
     <string name="sunday_shortest">S</string>
@@ -699,7 +699,7 @@ Allibereu almenys %s."</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_spent">Temps: <g id="time">%1$s</g></string>
-    <string name="title_open_wlan">Activar la WLAN</string>
+    <string name="title_open_wlan">Activeu la Wi-Fi</string>
     <string name="title_request_alert_window_perm">Permet les finestres flotants</string>
     <string name="title_request_package_stats_perm">Permisos necessaris</string>
     <string name="title_request_write_settings_perm">Permet canviar la configuració del sistema</string>
@@ -723,7 +723,7 @@ Baixeu i instal·leu Mi Mover."</string>
     <string name="trans_sync_transfer_data_list">Seleccioneu al dispositiu antic els elements que voleu transferir</string>
     <string name="trans_time_format_second">Menys d\'un minut</string>
     <string name="trans_time_spent">Temps: %s</string>
-    <string name="transfer_bottom_tip">"No podreu utilitzar la WLAN ni el Bluetooth durant la transferència. No sortiu d'aquesta pàgina."</string>
+    <string name="transfer_bottom_tip">"No podreu utilitzar la Wi-Fi ni el Bluetooth durant la transferència. No deixeu aquesta pàgina."</string>
     <string name="transfer_connect_fail_summary">Toqueu el botó següent per connectar-vos manualment</string>
     <string name="transfer_finish_bottom_tip">"Si ja no podreu utilitzar el vostre vell dispositiu, podeu esborrar totes les dades després d'haver confirmat que tots els elements importants s'han transferit correctament."</string>
     <string name="transfer_finish_summary">S\'ha transferit %1$s (%2$s)</string>

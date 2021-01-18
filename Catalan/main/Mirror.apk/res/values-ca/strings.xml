@@ -55,10 +55,10 @@
     <string name="early_morning">Matí</string>
     <string name="enable_wifi_alert_cancel">Cancel·la</string>
     <string name="enable_wifi_alert_message">MIUI+ Beta connecta dispositius mitjançant la Wi-Fi. Voleu activar la Wi-Fi ara?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ Beta connecta els dispositius mitjançant la WLAN. Voleu activar la WLAN ara?</string>
+    <string name="enable_wifi_alert_message_china">MIUI+ Beta connecta dispositius mitjançant la Wi-Fi. Voleu activar la Wi-Fi ara?</string>
     <string name="enable_wifi_alert_ok">Encendre</string>
     <string name="enable_wifi_alert_title">Activeu la Wi-Fi</string>
-    <string name="enable_wifi_alert_title_china">Activeu la WLAN</string>
+    <string name="enable_wifi_alert_title_china">Activeu la Wi-Fi</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="evening">Tarda</string>

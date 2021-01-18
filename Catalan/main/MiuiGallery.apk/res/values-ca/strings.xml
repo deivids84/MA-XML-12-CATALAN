@@ -207,7 +207,7 @@
     <string name="art_still_download">Baixa</string>
     <string name="art_still_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="art_still_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
-    <string name="art_still_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la WLAN. Voleu baixar el connector mitjançant les dades mòbils?"</string>
+    <string name="art_still_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
     <string name="art_still_download_sdk_without_wifi_title">Baixa el connector \"Art\"</string>
     <string name="art_still_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada dels fitxers originals pot comportar despeses addicionals. Voleu baixar-los de totes maneres?</string>
     <string name="art_still_download_with_metered_network_title">Xarxa de pagament</string>
@@ -995,7 +995,7 @@ estan disponible"</string>
     <string name="id_photo_download">Baixa</string>
     <string name="id_photo_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="id_photo_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
-    <string name="id_photo_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la WLAN. Voleu baixar el connector mitjançant les dades mòbils?"</string>
+    <string name="id_photo_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">Baixa el connector \"ID\"</string>
     <string name="id_photo_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada dels fitxers originals pot comportar despeses addicionals. Voleu baixar-los de totes maneres?</string>
     <string name="id_photo_download_with_metered_network_title">Xarxa de pagament</string>
@@ -1123,7 +1123,7 @@ estan disponible"</string>
     <string name="magic_matting_download">Baixa</string>
     <string name="magic_matting_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la WLAN. Voleu baixar el connector mitjançant les dades mòbils?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Baixa el connector \"Magic\"</string>
     <string name="magic_matting_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada dels fitxers originals pot comportar despeses addicionals. Voleu baixar-los de totes maneres?</string>
     <string name="magic_matting_download_with_metered_network_title">Xarxa de pagament</string>
@@ -1882,7 +1882,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="show_in_other_albums_disable_toast_long_press_menu">S\'ha mogut correctament, aneu a Altres àlbums per veure-ho</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">S\'ha mogut correctament, aneu a Àlbums per veure-ho</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">S\'ha mogut a la paperera correctament</string>
-    <string name="signature_dialog_clear">Serè</string>
+    <string name="signature_dialog_clear">Neteja</string>
     <string name="signature_manage_dialog_title_string">Signatura</string>
     <string name="signature_view_add_signature_String">Afegiu signatura</string>
     <string name="signature_view_max_signature_limit_string">Suprimeix els elements anteriors per poder afegir-ne de nous</string>
@@ -2292,7 +2292,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="video_post_download">Baixa</string>
     <string name="video_post_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="video_post_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el complement mitjançant les dades mòbils?"</string>
-    <string name="video_post_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la WLAN. Voleu baixar el complement mitjançant les dades mòbils?"</string>
+    <string name="video_post_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a la Wi-Fi. Voleu baixar el connector mitjançant les dades mòbils?"</string>
     <string name="video_post_download_sdk_without_wifi_title">Baixa el complement \"Efectes de vídeo\"</string>
     <string name="video_post_download_with_metered_network_msg">Sembla que el dispositiu està connectat a una xarxa de pagament. La baixada dels fitxers originals pot comportar despeses addicionals. Voleu baixar-los de totes maneres?</string>
     <string name="video_post_download_with_metered_network_title">Xarxa de pagament</string>

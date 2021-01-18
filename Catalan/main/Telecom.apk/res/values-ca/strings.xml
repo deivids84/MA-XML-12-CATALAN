@@ -39,8 +39,8 @@
     <string name="accessibility_wifi_security_type_none">Xarxa oberta</string>
     <string name="accessibility_wifi_security_type_secured">Xarxa segura</string>
     <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
-    <string name="accessibility_wifi_three_bars">Tres barres de senyal Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Dues barres de senyal Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tres barres de Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dues barres de Wi-Fi.</string>
     <string name="accessibility_work_profile_app_description">Feina %s</string>
     <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
     <string name="accessor_info_title">Aplicacions que comparteixen dades</string>
@@ -691,7 +691,7 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_disabled_generic">Desactivada</string>
     <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
     <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-    <string name="wifi_disabled_wifi_failure">Error de connexió Wi-Fi</string>
+    <string name="wifi_disabled_wifi_failure">Error de connexió de la Wi-Fi</string>
     <string name="wifi_disconnected">Desconnectat</string>
     <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
     <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>

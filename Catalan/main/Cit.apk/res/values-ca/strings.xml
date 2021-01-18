@@ -72,7 +72,7 @@
     <string name="can_not_get_numbers_of_keys">no es poden obtenir els números de les claus</string>
     <string name="cancel">Cancel·la</string>
     <string name="cancelEnrol">CancelEnrol</string>
-    <string name="cancel_test">PROVA ANUL·LADA</string>
+    <string name="cancel_test">PROVA CANCEL·LADA</string>
     <string name="capacitance_test">PROVA DE CAPACITÀNCIA</string>
     <string name="charger_test_end">"
 Final de la prova del carregador, endolleu el carregador"</string>

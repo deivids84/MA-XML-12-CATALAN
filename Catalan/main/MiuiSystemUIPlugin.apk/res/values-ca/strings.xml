@@ -87,6 +87,8 @@
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="disabled">No disponible</string>
+    <string name="dnd_popup_close_message">Entesos</string>
+    <string name="dnd_popup_message">Podeu activar el mode No molestis per silenciar les trucades i les notificacions sense desactivar els sons multimèdia.</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
@@ -166,11 +168,12 @@
     <string name="miui_ringer_status_open">Activat</string>
     <string name="miui_ringer_total">No molestis</string>
     <string name="miui_ringer_total_description">Silencia els sons i desactiva la vibració de tots els elements, excepte el despertador</string>
-    <string name="miui_toast_zen_dnd_to_off">DND està desactivat ara. Els sons i les vibracions es restableixen a la normalitat.</string>
-    <string name="miui_toast_zen_standard_to_off">El mode Silenci està desactivat. Els tons de trucada es restableixen a la normalitat.</string>
+    <string name="miui_toast_zen_dnd_to_off">"Les trucades i les notificacions ja no se silenciaran"</string>
+    <string name="miui_toast_zen_standard_to_off">El mode Silenci està desactivat</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">El mode Silenci està desactivat. Es reproduiran els tons de trucada, així com les notificacions i sons multimèdia.</string>
-    <string name="miui_toast_zen_to_dnd">S\'ha canviat a DND. Els sons es silencien i la vibració està desactivada ara.</string>
-    <string name="miui_toast_zen_to_standard">S\'ha canviat al mode de silenci. Els tons de trucada i les notificacions es silencien ara.</string>
+    <string name="miui_toast_zen_to_dnd">Les trucades i notificacions es silenciaran</string>
+    <string name="miui_toast_zen_to_dnd_when_lock">Les trucades i notificacions es silenciaran quan el dispositiu estigui bloquejat</string>
+    <string name="miui_toast_zen_to_standard">El mode Silenci està activat</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S\'ha canviat al mode de silenci. Els tons de trucada, així com les notificacions i els sons multimèdia, ara es silencien.</string>
     <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol amb èxit</string>
@@ -387,7 +390,8 @@ L'exposició llarga a sons forts pot causar problemes d'audició."</string>
     <string name="wireless_charging_saver_message">L’estalvi de bateria està activat ara. Voleu mantenir disponible la càrrega sense fils inversa?</string>
     <string name="wireless_charging_saver_ok">Mantenir</string>
     <string name="wireless_charging_tips_disable">"No ho tornis a mostrar"</string>
-    <string name="wireless_charging_tips_message">Col·loqueu dispositius que admetin la càrrega sense fils Qi (telèfons, accessoris, etc.) a la part posterior d’aquest dispositiu.</string>
+    <string name="wireless_charging_tips_message">Col·loqueu el dispositiu que voleu carregar sense fils (per exemple, telèfon, rellotge intel·ligent, auriculars) a la part posterior d’aquest telèfon. Assegureu-vos que aquest telèfon tingui almenys %d%% de càrrega abans d’utilitzar la càrrega sense fils inversa.</string>
+    <string name="wireless_charging_tips_sub_message">L\'altre dispositiu ha de ser compatible amb l\'estàndard de càrrega sense fils Qi.</string>
     <string name="wireless_charging_tips_title">Càrrega inversa sense fils</string>
     <string name="yesterday">Ahir</string>
 </resources>

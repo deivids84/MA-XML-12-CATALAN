@@ -83,7 +83,7 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="hide_mode_desc">&lt;font color=\"#000000\"&gt;Quan una aplicació s\'executi en segon pla, es controlaran la seva activitat per reduir el consum de bateria. Aquesta funció agafarà i utilitzarà dades d\'usuari segons %s&lt;/font&gt;</string>
     <string name="hide_system_app">Amaga les aplicacions del sistema</string>
     <string name="high_temp_state">Sobreescalfament</string>
-    <string name="high_temp_state_message">El dispositiu s\'està sobreescalfant. Les dades mòbils, els punts d\'accés WLAN, el GPS i la càmera quedaran restringits.</string>
+    <string name="high_temp_state_message">El dispositiu s\'està sobreescalfant. Es restringiran les dades mòbils, els punts d\'accés Wi-Fi, el GPS i la càmera.</string>
     <string name="hints_loading_text">Un moment…</string>
     <string name="important_warning">Atenció</string>
     <string name="lasttime_applist_cloud">Aplicacions actualitzades:</string>
@@ -119,8 +119,8 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="power_checker_partial_wakelock_title">%1$s impedeix que MIUI entri en mode suspensió</string>
     <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s desperten freqüentment</string>
     <string name="power_checker_wakeup_alarm_title">%1$s desperten freqüentment</string>
-    <string name="power_checker_wifi_scan_multi_apps_title">%1$s escanegen la Wi-Fi freqüentment</string>
-    <string name="power_checker_wifi_scan_title">%1$s escanegen la Wi-Fi freqüentment</string>
+    <string name="power_checker_wifi_scan_multi_apps_title">%1$s cerca la Wi-Fi amb freqüència</string>
+    <string name="power_checker_wifi_scan_title">%1$s cerca la Wi-Fi amb freqüència</string>
     <string name="power_config_apps">Estalvi de bateria</string>
     <string name="power_config_event_delete">Elimina</string>
     <string name="power_config_select_apps_title">Aplicacions</string>
@@ -138,8 +138,8 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="search_menu_title">Cerca</string>
     <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
     <string name="show_system_app">Mostra les aplicacions del sistema</string>
-    <string name="sleep_config_enhance_description">"Cada vegada que MIUI detecta que esteu dormint, tancarà aplicacions en segon pla, restringirà l'NFC, Bluetooth, GPS, dades mòbils i ús de Wi-Fi i farà que no s'activi la pantalla per a les notificacions."</string>
-    <string name="sleep_config_enhance_description_non_nfc">"Cada vegada que MIUI detecta que esteu dormint, tancarà les aplicacions de fons, restringirà el Bluetooth, GPS, dades mòbils i l'ús de Wi-Fi i la pantalla no s'encendrà en rebre notificacions."</string>
+    <string name="sleep_config_enhance_description">"Sempre que MIUI detecti que dormiu, tancarà les aplicacions en segon pla, restringirà l'ús del NFC, Bluetooth, GPS, dades mòbils i la Wi-Fi i no il·luminarà la pantalla per a notificacions."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Sempre que MIUI detecti que dormiu, tancarà les aplicacions en segon pla, restringirà l'ús del Bluetooth, GPS, dades mòbils i la Wi-Fi i no il·luminarà la pantalla per a notificacions."</string>
     <string name="sleep_config_enhance_title">Mode suspensió</string>
     <string name="sleepmode_disclaimer_agree">Accepta</string>
     <string name="sleepmode_disclaimer_cancel">Cancel·la</string>

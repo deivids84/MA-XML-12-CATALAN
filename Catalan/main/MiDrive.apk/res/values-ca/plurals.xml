@@ -60,4 +60,8 @@
         <item quantity="other">Càrrega de… %1$d articles a l\'esquerra (%2$s%%)</item>
         <item quantity="one">Carregant… %1$d element restant (%2$s%%)</item>
     </plurals>
+    <plurals name="view_all">
+        <item quantity="other">1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
 </resources>

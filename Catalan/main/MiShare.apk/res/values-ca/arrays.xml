@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="permissions_desc_china">
         <item>Per accedir i guardar imatges, aplicacions i altres fitxers, així com transferir-les</item>
-        <item>Per a la transferència de fitxers mitjançant Bluetooth i WLAN</item>
+        <item>Per transferir fitxers mitjançant Bluetooth i Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12">
         <item>Pels fitxers enviats i rebuts</item>
@@ -16,8 +16,8 @@
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>Pels fitxers enviats i rebuts</item>
-        <item>Per a la transferència de fitxers mitjançant Bluetooth i WLAN</item>
+        <item>Per transferir fitxers mitjançant Bluetooth i Wi-Fi</item>
         <item>Per trobar dispositius disponibles a prop de Bluetooth</item>
-        <item>Per trobar dispositius disponibles a prop i transferir fitxers mitjançant WLAN</item>
+        <item>Per trobar dispositius disponibles a prop i transferir fitxers mitjançant la Wi-Fi</item>
     </string-array>
 </resources>

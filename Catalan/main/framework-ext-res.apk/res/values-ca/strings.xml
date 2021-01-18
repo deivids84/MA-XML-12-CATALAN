@@ -62,7 +62,7 @@
     <string name="copy">Copia</string>
     <string name="customer_location_judgment">Xina</string>
     <string name="cut">Retalla</string>
-    <string name="data_usage_context">Si no s’activa la WLAN, el dispositiu es connectarà a una xarxa mòbil, cosa que pot provocar despeses addicionals en funció del pla de pagament. Gràcies!</string>
+    <string name="data_usage_context">Si la Wi-Fi no està activada, el dispositiu es connectarà a una xarxa de telefonia mòbil, cosa que pot generar càrrecs addicionals en funció del vostre pla de pagament. Gràcies!</string>
     <string name="default_device_name">Dispositiu desconegut</string>
     <string name="default_name">Per defecte</string>
     <string name="description_title">Mode silenci</string>
@@ -214,9 +214,9 @@
     <string name="security_permission_denied_text">Accés denegat</string>
     <string name="security_permission_failed_text">Es va produir un error, torneu-ho a provar més tard</string>
     <string name="security_permission_network_failed_text">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
-    <string name="security_permission_open_wifi_settings">Obre la configuració de la WLAN</string>
+    <string name="security_permission_open_wifi_settings">Obrir la configuració de la Wi-Fi</string>
     <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
-    <string name="security_permission_wifi_and_data_opened_text">Les dades mòbils i la WLAN s\'han activat</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi i dades mòbils activades</string>
     <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'ID del Compte Mi</string>
     <string name="security_share_text">Protecció de la privadesa</string>
     <string name="select">Selecciona</string>
@@ -235,9 +235,9 @@
     <string name="sim_lock_non_ais_msg">"La vostra tarja SIM no té totes les funcionalitats en aquest mòbil perquè no s'acompleixen els termes i condicions de la vostra subscripció. Si teniu dubtes o us cal més informació en aquest tema, poseu-vos en contacte amb un centre de servei Xiaomi o amb la botiga que us ha venut els productes."</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
     <string name="slatoast">L\'ús de dades mòbils per augmentar la velocitat pot generar despeses de l\'operador addicionals</string>
-    <string name="slavewifi">WLAN de doble banda</string>
+    <string name="slavewifi">Wi-Fi de doble banda</string>
     <string name="slavewifi_disconnect">Desconnecta</string>
-    <string name="slavewifi_notification_title">Utilitzant la WLAN de doble banda</string>
+    <string name="slavewifi_notification_title">Utilitzant la Wi-Fi de doble banda</string>
     <string name="slavewifi_settings">Toqueu per canviar la configuració</string>
     <string name="softap_notifif_summary">%d connectat</string>
     <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
@@ -267,7 +267,7 @@
     <string name="status_bar_toggle_sync">Sincronitza</string>
     <string name="status_bar_toggle_torch">Llanterna</string>
     <string name="status_bar_toggle_vibrate">Vibra</string>
-    <string name="status_bar_toggle_wifi">WLAN</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Punt d\'accés</string>
     <string name="stop_operate_camera_frequently">"Esteu obrint la càmera frontal amb massa freqüència."</string>
     <string name="subinfo_default_name">SIM %d</string>
@@ -300,7 +300,7 @@
     <string name="user_switching_dialog_text">S\'està canviant&#8230;</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
-    <string name="wifi_assistant_wifi_no_internet">Aquesta xarxa WLAN no té accés a Internet</string>
+    <string name="wifi_assistant_wifi_no_internet">Aquesta xarxa Wi-Fi no té accés a Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Toqueu per veure els detalls</string>
     <string name="wireless_charging_notification_message1">"No s'han pogut trobar dispositius sense fil per carregar-se. La càrrega sense fil inversa ara està desactivada."</string>
     <string name="wireless_charging_notification_message2">La bateria té menys del 30% de càrrega. La càrrega sense fils inversa ara està desactivada.</string>

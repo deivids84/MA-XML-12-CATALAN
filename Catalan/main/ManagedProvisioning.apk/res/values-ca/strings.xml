@@ -156,7 +156,7 @@
     <string name="profile_owner_info_with_terms_headers">"Esteu a punt de crear un perfil de treball que serà gestionat i supervisat per l'organització. S'aplicaran les condicions de %1$s."</string>
     <string name="profile_owner_info_with_terms_headers_comp">Es crearà un perfil per a les vostres aplicacions de treball. Aquest perfil i la resta del dispositiu seran gestionats i supervisats per l\'organització. S\'aplicaran les condicions de %1$s.</string>
     <string name="progress_connect_to_mobile_network">S\'està connectant a una xarxa mòbil…</string>
-    <string name="progress_connect_to_wifi">S\'està connectant al Wi-Fi&#8230;</string>
+    <string name="progress_connect_to_wifi">S\'està connectant a la Wi-Fi…</string>
     <string name="progress_data_process">S\'estan processant les dades de configuració&#8230;</string>
     <string name="progress_delete_non_required_apps">S\'estan eliminant les aplicacions del sistema no necessàries…</string>
     <string name="progress_download">S\'està baixant l\'aplicació d\'administració&#8230;</string>

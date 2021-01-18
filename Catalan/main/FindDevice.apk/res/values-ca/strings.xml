@@ -38,7 +38,7 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
     <string name="lock_msg_phone">Informació de contacte: %s</string>
     <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
     <string name="login_failed">"No s'ha pogut iniciar sessió. %s."</string>
-    <string name="open_wifi_settings">Obre la configuració Wi-Fi</string>
+    <string name="open_wifi_settings">Obriu la configuració de la Wi-Fi</string>
     <string name="passport_checking_vcode">S\'està comprovant la contrasenya&#8230;</string>
     <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
     <string name="passport_notification_need_unlock_again">Tracteu de desbloquejar-lo de nou</string>
@@ -74,13 +74,13 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
     <string name="unlock_error_user_name">Usuari invàlid</string>
     <string name="unlock_error_wrong_vcode">El codi introduït és incorrecte</string>
     <string name="unlock_help">"Connecteu-vos a la xarxa.
-Inseriu una targeta SIM que funcioni i no us connecteu a xarxes WLAN no vàlides.
+Inseriu una targeta SIM que funcioni i no us connecteu a xarxes Wi-Fi no vàlides.
 
 Heu oblidat la contrasenya?
 Aneu a id.mi.com, seleccioneu \"Heu oblidat la contrasenya?\" i seguiu les instruccions.
 
 No es pot activar el dispositiu?
-Aneu a i.mi.com/ss i envieu una sol·licitud per desbloquejar el dispositiu."</string>
+Aneu a i.mi.com/ss i envieu la vostra sol·licitud per desbloquejar el dispositiu."</string>
     <string name="unlock_help_title">Ajuda per desbloquejar:</string>
     <string name="unlock_number">Codi de desbloqueig: %s</string>
     <string name="unlock_wrong_captcha">El codi introduït és incorrecte</string>

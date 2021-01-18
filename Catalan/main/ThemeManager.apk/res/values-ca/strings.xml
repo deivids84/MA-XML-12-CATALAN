@@ -1213,7 +1213,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="use_hint">Atenció</string>
     <string name="using_theme_has_update_tips">Hi ha disponible una actualització per a aquest tema.</string>
     <string name="using_theme_next_automatic_update">Actualitzacions automàtiques</string>
-    <string name="using_theme_next_automatic_update_summary">Actualitzeu els temes descarregats mitjançant WLAN quan el dispositiu estigui bloquejat</string>
+    <string name="using_theme_next_automatic_update_summary">Actualitza els temes baixats mitjançant la Wi-Fi quan el dispositiu està bloquejat</string>
     <string name="using_theme_show_ad">Recomanacions</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
@@ -1274,7 +1274,7 @@ Vés a Temes &gt; El meu compte &gt; Laboratori de temes per obtenir més opcion
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Més fons de pantalla en línia</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Pantalla d\'inici</string>
-    <string name="wallpaper_setting_library">Música</string>
+    <string name="wallpaper_setting_library">Biblioteca</string>
     <string name="wallpaper_setting_live">En directe</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Pantalla de bloqueig</string>
     <string name="wallpaper_setting_online_wallpaper_actionbar_title">Fons de pantalla en línia</string>

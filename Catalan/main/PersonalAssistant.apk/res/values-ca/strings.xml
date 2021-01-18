@@ -106,6 +106,22 @@
     <string name="app_agenda_i_known">D\'acord</string>
     <string name="app_agenda_need_install_alipay">Instal·leu Alipay abans d’utilitzar aquesta funció.</string>
     <string name="app_assist_sleep_timer_cancel_hint">Atura</string>
+    <string name="app_auth_router_dialog_loading">S\'està afegint el compte…</string>
+    <string name="app_auth_setting_bind">Afegeix</string>
+    <string name="app_auth_setting_bind_fail">"No s'ha pogut afegir el compte"</string>
+    <string name="app_auth_setting_bind_fail_uninstall">"No s'ha pogut afegir el compte. Instal·leu primer %s."</string>
+    <string name="app_auth_setting_bind_success_title">Compte %s actual</string>
+    <string name="app_auth_setting_bind_summry">Compte Mi: %s</string>
+    <string name="app_auth_setting_bind_title">Afegeix %s compte</string>
+    <string name="app_auth_setting_login">Inicia la sessió</string>
+    <string name="app_auth_setting_login_summry">Inicieu la sessió i afegiu el vostre compte d\'Alipay per poder utilitzar els serveis populars</string>
+    <string name="app_auth_setting_login_title">Inicieu la sessió al compte Mi</string>
+    <string name="app_auth_setting_service_title">Serveis populars</string>
+    <string name="app_auth_setting_unbind">Suprimeix</string>
+    <string name="app_auth_setting_unbind_dialog_positive">Suprimeix</string>
+    <string name="app_auth_setting_unbind_dialog_title">Suprimeix %s compte</string>
+    <string name="app_auth_setting_unbing_dialog_message">"No podreu utilitzar els serveis populars de %s després de suprimir el vostre compte."</string>
+    <string name="app_auth_setting_unbing_dialog_negative">Manté</string>
     <string name="app_bluetooth_device_type">Dispositiu Bluetooth</string>
     <string name="app_commute_correction_button">Corregeix</string>
     <string name="app_commute_correction_text">El \"%1$s\" és la vostra %2$s adreça?</string>
@@ -304,6 +320,8 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_pa_setting_service_surrounding_summary">Descobriu llocs interessants a prop</string>
     <string name="app_pa_setting_service_timetable">Horari de classe</string>
     <string name="app_pa_setting_service_timetable_summary">Toca per programar classes</string>
+    <string name="app_pa_setting_service_wufu">"Les cinc benediccions d’Alipay"</string>
+    <string name="app_pa_setting_service_wufu_summry">Recopileu les vostres benediccions mitjançant l’escàner AR</string>
     <string name="app_pa_setting_title">Configuració de xarxa</string>
     <string name="app_pa_setting_version">Versió: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
@@ -568,6 +586,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="clock_alarm">Alarma</string>
     <string name="clock_parent">Rellotge</string>
     <string name="closed">Desactivat</string>
+    <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
     <string name="commute">Suggeriments del mapa</string>
     <string name="commute_address">Adreces freqüents</string>
     <string name="commute_address_hint_home">Afegiu l\'adreça de casa</string>
@@ -646,6 +665,10 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="detail_action_settings">Obre la configuració</string>
     <string name="detail_action_share">Comparteix</string>
     <string name="detail_title">Preferits</string>
+    <string name="diagnosis_log_send_failed">No s\'ha pogut enviar el registre de diagnòstic.</string>
+    <string name="diagnosis_log_sent_format">"S'ha enviat el registre de diagnòstic.
+ID:%s
+Envieu aquest codi al tècnic."</string>
     <string name="dialog_cancel_like">S\'ha suprimit la marca amb èxit</string>
     <string name="dialog_delete_cancel">Cancel·la</string>
     <string name="dialog_delete_delete">Elimina</string>
@@ -1017,6 +1040,7 @@ Comproveu el número de seguiment."</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="focus">Segueix l\'estat</string>
     <string name="focus_stocks">Les meves empreses</string>
+    <string name="for_diagnosis_usage_only">Utilitzeu aquesta informació només per al diagnòstic.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -1354,10 +1378,14 @@ Comproveu el número de seguiment."</string>
     <string name="notification_title">S\'ha agregat als favorits</string>
     <string name="notification_title_fail">"No s'ha pogut afegir el pagament"</string>
     <string name="notification_title_success">S\'ha afegit un pagament amb èxit</string>
+    <string name="ok">D\'acord</string>
     <string name="opened">Activat</string>
     <string name="park_assistant">Aparcament</string>
     <string name="passenger_name">"Nom del passatger"</string>
     <string name="passenger_name_example">Ex. John Smith</string>
+    <string name="passport_oauth_actionbar_title">Compte Mi</string>
+    <string name="passport_oauth_sucess_tip">Autoritzat amb èxit</string>
+    <string name="password_toggle_content_description">Canvia la visibilitat de la contrasenya</string>
     <string name="paycode_sdk_parent">Drecera de pagament</string>
     <string name="paycode_sdk_parent_title">Drecera de pagament</string>
     <string name="payment">Els meus pagaments</string>
@@ -1495,7 +1523,9 @@ Comproveu el número de seguiment."</string>
     <string name="security">Seguretat</string>
     <string name="selected_shortcuts_title">Pàgina d\'inici</string>
     <string name="send_action_title">Afegeix als preferits</string>
+    <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
     <string name="send_express">Entrega urgent</string>
+    <string name="sending">S\'està enviant…</string>
     <string name="service_unavailiable">Comproveu la connexió de xarxa i torneu-ho a provar</string>
     <string name="setting_address">Afegiu llocs freqüents</string>
     <string name="setting_authorization_canceled_dialog_cancel">Cancel·la</string>
@@ -1690,6 +1720,7 @@ Comproveu el número de seguiment."</string>
     <string name="taxi_open">Mostra la targeta del taxi</string>
     <string name="taxi_setting_brief">Obtén un taxi en un sol toc.</string>
     <string name="taxi_target">Destinació     </string>
+    <string name="temporary_not_available">no disponible temporalment</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
     <string name="the_anti_aggression_day">Dia de la no-agressió</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
