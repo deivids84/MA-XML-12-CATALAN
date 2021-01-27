@@ -937,7 +937,7 @@ Esteu segur que voleu navegar fora d'aquesta pàgina?"</string>
     <string name="pref_privacy_clear_passwords_summary">Esborra totes les contrasenyes desades</string>
     <string name="pref_privacy_enable_geolocation">Ubicació</string>
     <string name="pref_privacy_enable_geolocation_summary">Permet al navegador sol·licitar accés a la vostra ubicació</string>
-    <string name="pref_privacy_policy">Política de privacitat</string>
+    <string name="pref_privacy_policy">Política de privadesa</string>
     <string name="pref_privacy_security_title">Privadesa i seguretat</string>
     <string name="pref_save_bandwidth_mode_title">Estalvi de dades</string>
     <string name="pref_security_accept_cookies">Accepta galetes</string>

@@ -343,6 +343,7 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
     <string name="dialog_keep">Manté</string>
     <string name="dialog_known">Entesos</string>
     <string name="dialog_menstruation_purpose">Us donem la benvinguda a Xiaomi Health! \"Menstruació\" us permet enregistrar els períodes, determinar les dates estimades dels propers períodes i rebre recordatoris. Totes les dades relacionades s’emmagatzemaran localment al dispositiu, cosa que us permet gestionar-ho fàcilment.</string>
+    <string name="dialog_new_version_title">Hi ha disponible una actualització</string>
     <string name="dialog_no_more_prompt">"No ho tornis a mostrar"</string>
     <string name="dialog_ok">D\'acord</string>
     <string name="dialog_open">Permet</string>
@@ -362,6 +363,7 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
     <string name="dialog_user_agreement_purpose2">Us donem la benvinguda a Xiaomi Health! Podeu utilitzar aquesta aplicació per comptar els vostres passos, analitzar el son, fer el seguiment dels períodes, registrar el pes i molt més.</string>
     <string name="diastolic_pressure">Diastòlica</string>
     <string name="disable">Desactivat</string>
+    <string name="discard_update">No, gràcies</string>
     <string name="drag_sort">Reorganitza</string>
     <string name="dream_talk">Parlant %1$s</string>
     <string name="dream_talk_record">Se us ha gravat quan parlàveu mentre dormíeu</string>
@@ -470,12 +472,12 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="feedback_need_permission_msg">Permet a Xiaomi Health escriure a l\'emmagatzematge extern per poder generar registres utilitzats per als comentaris.</string>
     <string name="feedback_permission_denied_msg">"Xiaomi Health no pot desar els registres a l'emmagatzematge extern. Doneu-li a Xiaomi Health els permisos necessaris a la configuració."</string>
     <string name="fewer">Petit</string>
+    <string name="find_new_verision">La versió %s ja està disponible</string>
     <string name="finish">Finalitza</string>
     <string name="finish_stand">Sí</string>
     <string name="finish_stand2">De peu</string>
     <string name="finished_rate">Completat %1$d%%</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -641,6 +643,7 @@ Torneu a començar."</string>
     <string name="hr_strength_lowest">Mínim</string>
     <string name="hr_strength_mid">Per defecte</string>
     <string name="icon_content_description">Icona de diàleg</string>
+    <string name="immediately_experience">Actualitza</string>
     <string name="improve_step_target">Assoliu massa sovint el vostre objectiu. Proveu de definir-ne un de més alt.</string>
     <string name="improve_your_health_default_tips">Feu exercici i dormiu prou per mantenir-vos sans.</string>
     <string name="inactivated">No està activat</string>
@@ -698,6 +701,7 @@ Torneu a començar."</string>
     <string name="light_sleep_time_normal_description">Teniu una quantitat suficient de son lleuger</string>
     <string name="load_failed">"No s'han pogut carregar els elements. Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="loading">Només un segon…</string>
+    <string name="location_perm_description">Per al seguiment d’entrenaments a l’aire lliure i l\'enregistrament de rutes</string>
     <string name="location_permission_dialog_content">Permet que Xiaomi Health accedeixi a la vostra ubicació a \"Xiaomi Health\" &gt; \"Gestiona els permisos\" per poder fer un seguiment dels vostres entrenaments a l\'aire lliure.</string>
     <string name="location_permission_dialog_negative">Ara no</string>
     <string name="location_permission_dialog_positive">Permet</string>
@@ -1127,7 +1131,7 @@ Torneu a començar."</string>
     <string name="share_card_title_free_training">Entrenament lliure</string>
     <string name="share_card_title_high_interval_training">HIIT</string>
     <string name="share_card_title_indoor_rinding">Bicicleta estática %s</string>
-    <string name="share_card_title_indoor_running">Correr %s</string>
+    <string name="share_card_title_indoor_running">Pista coberta %s</string>
     <string name="share_card_title_open_swimming">Nedar en aigües obertes %s</string>
     <string name="share_card_title_outdoor_hiking">Senderisme %s</string>
     <string name="share_card_title_outdoor_riding">Ciclisme %s</string>
@@ -1759,13 +1763,9 @@ Voleu actualitzar-ho ara?</string>
     <string name="welcome_start_use">Inicia</string>
     <string name="well">Bo</string>
     <string name="write_strorage_perm_description">Per desar la informació sobre els problemes que es troben</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Ha fallat la connexió del Gestor de baixades, comproveu l\'estat del Gestor de baixades al Gestor d\'aplicacions.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
-Mida: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Presentació de la versió %1$s
-Mida de l'actualització Delta: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">Actualització de %1$s!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Emmagatzematge no disponible, comproveu la targeta SD.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="year">Any</string>
     <string name="yesterday">Ahir</string>
     <string name="yoga">Ioga</string>

@@ -101,7 +101,7 @@
     <string name="currency_update_support">Webull proporciona els tipus de canvi.</string>
     <string name="currency_update_time_format">Webull proporciona els tipus de canvi (%s)</string>
     <string name="currency_update_updating">S\'estan actualitzant les taxes…</string>
-    <string name="date_format">dd, MMM yyyy</string>
+    <string name="date_format">dd MMM yyyy</string>
     <string name="date_time_picker_dialog_title">Definiu la data i l\'hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">dia</string>
@@ -352,7 +352,7 @@ Les LPR d'un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden produ
     <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessita connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
     <string name="network_confirm_title">Permisos necessaris</string>
     <string name="network_purpose">Benvingut a la Calculadora! Calculadora us permet convertir monedes, calcular les amortitzacions d’hipoteca i molt més.</string>
-    <string name="new_privacy_string"><Data>\"Benvinguts a calculadora!&lt;br/&gt;Aquesta aplicació conté les següents característiques:&lt;br/&gt;• Calculadora bàsica&lt;br/&gt;• Calculadora científica&lt;br/&gt;• Convertidor universal (per exemple, moneda, unitats de mesura, etc.)&lt;br/&gt;• Plantilles de càlcul de préstecs, inversió, EMI, i molt més&lt;br/&gt;La Calculaodra necessita recollir la informació personal necessària per proporcionar-li els serveis bàsics. Podeu saber com gestionem la informació que recopilem a la nostra&lt;a href= \"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;\'Acord d\'usuari&lt;/a&gt; i la nostra&lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar la Calculadora. Podeu retirar el vostre consentiment a la Política de privadesa de la Calculadora a la Configuració en qualsevol moment. Si no accepteu la nostra Política de privadesa, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vostè.\"</Data></string>
+    <string name="new_privacy_string"><Data>\"Us donem la benvinguda a la Calculadora!&lt;br/&gt;Aquesta aplicació conté les següents característiques:&lt;br/&gt;• Calculadora bàsica&lt;br/&gt;• Calculadora científica&lt;br/&gt;• Convertidor universal (per exemple, moneda, unitats de mesura, etc.)&lt;br/&gt;• Plantilles de càlcul de préstecs, inversió, EMI, i molt més&lt;br/&gt;La Calculadora necessita recollir la informació personal necessària per proporcionar-li els serveis bàsics. Podeu saber com gestionem la informació que recopilem a la nostra &lt;a href= \"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Llegiu i accepteu el nostre &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; i la nostra &lt;a href=\"%3$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar la Calculadora. Podeu retirar el vostre consentiment a la Política de privadesa de la Calculadora a la Configuració en qualsevol moment. Si no accepteu la nostra Política de privadesa, no podreu utilitzar algunes funcions d\'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible per a vostè.\"</Data></string>
     <string name="none">Cap</string>
     <string name="not_supported_due_to_language">Aquesta funció només està disponible en Xinès</string>
     <string name="ok">D\'acord</string>

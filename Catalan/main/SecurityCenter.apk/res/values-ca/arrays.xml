@@ -89,6 +89,13 @@
         <item>Sí</item>
         <item>No</item>
     </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Més baix</item>
+        <item>Baix</item>
+        <item>Normal</item>
+        <item>Alt</item>
+        <item>Més Alt</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Quan el dispositiu està bloquejat</item>
         <item>Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</item>

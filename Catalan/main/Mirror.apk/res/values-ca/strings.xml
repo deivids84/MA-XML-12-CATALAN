@@ -241,14 +241,8 @@
     <string name="settings_feature_characteristics_title_3">Connecta\'t automàticament</string>
     <string name="settings_feature_dnd_summary">Silencia les notificacions quan el dispositiu està connectat a un ordinador</string>
     <string name="settings_feature_dnd_title">No molestis</string>
-    <string name="settings_feature_files_drag_summary">Arrossegueu i deixeu anar els elements per transferir-los al dispositiu i des del vostre dispositiu</string>
-    <string name="settings_feature_files_drag_title">Transferir fitxers</string>
     <string name="settings_feature_keep_screen_summary">Mantingueu el dispositiu desbloquejat per evitar desconnexions inesperades</string>
     <string name="settings_feature_keep_screen_title">"No bloquejar la pantalla"</string>
-    <string name="settings_feature_multi_window_summary">"Feu clic amb el botó dret a la còpia de la pantalla del telèfon per crear-ne una altra"</string>
-    <string name="settings_feature_multi_window_title">Obriu diverses finestres</string>
-    <string name="settings_feature_pc_edit_files_summary">Feu clic amb el botó dret als elements de la Galeria o del Gestor de fitxers per editar-los a l\'ordinador.</string>
-    <string name="settings_feature_pc_edit_files_title">Editeu elements del telèfon a l\'ordinador</string>
     <string name="settings_history">Historial de connexions</string>
     <string name="settings_history_clear">Neteja</string>
     <string name="settings_history_clear_dialog_title">Voleu netejar l\'historial de connexions ara?</string>

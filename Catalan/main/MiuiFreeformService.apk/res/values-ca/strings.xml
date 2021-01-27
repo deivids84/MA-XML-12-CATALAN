@@ -12,10 +12,10 @@
     <string name="how_to_close_or_fullscreen_freeform">Tancar finestres flotants o canviar a la pantalla completa</string>
     <string name="how_to_drop_down_to_fullscreen">Canvia a la pantalla completa</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Manteniu premuda la tecla i, a continuació, tireu cap avall la barra d’acció d’una finestra flotant</string>
-    <string name="how_to_hang_freeform">Minimitzant les finestres flotants</string>
+    <string name="how_to_hang_freeform">Minimització de les finestres flotants</string>
     <string name="how_to_hang_to_small_freeform">Minimitzar la finestra flotant</string>
     <string name="how_to_hang_to_small_freeform_summary">Arrossegueu la finestra flotant fins a la cantonada de la pantalla</string>
-    <string name="how_to_move_freeform">Moveu les finestres flotants al voltant</string>
+    <string name="how_to_move_freeform">Moure les finestres flotants al voltant</string>
     <string name="how_to_move_freeform_window">Desplaçant la finestra flotant</string>
     <string name="how_to_move_freeform_window_summary">Manteniu premuda la barra d’acció d’una finestra flotant per arrossegar</string>
     <string name="how_to_notification_drop_down">Obre una finestra flotant</string>

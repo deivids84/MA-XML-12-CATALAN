@@ -572,7 +572,7 @@
 (Mentrestant podeu reproduir la música en línia)"</string>
     <string name="joox_account_bind_mi_account">Afegeix el meu compte</string>
     <string name="joox_account_cancel_login">Cancel · lar</string>
-    <string name="joox_account_continue_login">Inicieu la sessió</string>
+    <string name="joox_account_continue_login">Inicia la sessió</string>
     <string name="joox_account_fans_center">Ventilador</string>
     <string name="joox_account_login_conflict_message">"Sembla que teniu la sessió iniciada en un altre dispositiu. Inicieu la sessió aquí?"</string>
     <string name="joox_account_login_exception">Inicieu la sessió de nou</string>
@@ -596,7 +596,7 @@
     <string name="joox_auth_message_update_vip_to_switch_songs">Obteniu membres VIP per canviar de cançó</string>
     <string name="joox_auth_message_update_vip_to_use_function">Obteniu membres VIP per utilitzar aquesta funció</string>
     <string name="joox_auth_title_download_song">Baixeu cançons</string>
-    <string name="joox_auth_title_login_again">Inicieu la sessió</string>
+    <string name="joox_auth_title_login_again">Inicia la sessió</string>
     <string name="joox_auth_title_long_time_no_network">"Sembla que no us heu connectat a la xarxa durant un temps"</string>
     <string name="joox_auth_title_shuffle_play">Barrejar</string>
     <string name="joox_auth_title_vip_content">Contingut VIP</string>

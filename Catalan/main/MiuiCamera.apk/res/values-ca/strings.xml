@@ -309,7 +309,6 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="ambilight_tips_for_longtime_using_tripod">Utilitzeu un trípode per capturar una exposició més llarga</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Utilitzeu un trípode</string>
     <string name="ambilight_tips_for_using_tripod">Utilitzeu un trípode</string>
-    <string name="app_name">Preferències</string>
     <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
     <string name="auto_hibernation_enter_tip">A punt d’apagar la pantalla…</string>
     <string name="autozoom_click_hint">"Toqueu un objecte per mantenir-lo enfocat mentre es mou. Mantingueu-vos a almenys 3 metres de distància per obtenir el millor efecte."</string>
@@ -400,6 +399,8 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="clone_video_mode">Vídeo</string>
     <string name="close_back_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
     <string name="close_front_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
+    <string name="close_night_algo_toast_low_power">Carregueu el dispositiu per poder configurar l\'exposició</string>
+    <string name="close_night_algo_toast_thermal">Refredeu el dispositiu per poder configurar l\'exposició</string>
     <string name="color_effect_entry_berry">Baies</string>
     <string name="color_effect_entry_blackgold">Vibres d’or</string>
     <string name="color_effect_entry_blackgold_describe">Aquest filtre d’alt contrast només conserva els colors groc i blau fosc. Utilitzeu-lo als carrers ben il·luminats d’una ciutat nocturna.</string>
@@ -1052,7 +1053,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
     <string name="pref_camera_dual_enable_title">Activa la càmera dual</string>
     <string name="pref_camera_dual_sat_enable_title">Activa la càmera dual SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Reduïu la velocitat de fotogrames en condicions de poca llum de %1$d a %2$d FPS per millorar la qualitat del vídeo</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">La velocitat de fotogrames es reduirà automàticament en condicions de poca llum per millorar la qualitat del vídeo</string>
     <string name="pref_camera_dynamic_frame_rate_title">Ajusteu la velocitat del fotograma a poca llum</string>
     <string name="pref_camera_eis_entry_normal">Estabilitzador de vídeo</string>
     <string name="pref_camera_eis_entry_off">Desactivat</string>
@@ -1101,7 +1102,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_heic_image_format_description2">"El format d’arxiu d’imatges d’alta eficiència estalvia espai d’emmagatzematge, però no és compatible amb algunes aplicacions de tercers. No podeu fer fotos en directe ni suprimir les filigranes a HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Format HEIF</string>
     <string name="pref_camera_hfr_entry_off">Apagat</string>
-    <string name="pref_camera_high_quality_preferred_description">Millora la qualitat de les imatges mitjançant l’algoritme intel·ligent. La velocitat de captura d’imatges pot disminuir quan aquesta funció està activa.</string>
+    <string name="pref_camera_high_quality_preferred_description">Millora la qualitat de la imatge mitjançant l’algorisme intel·ligent. La velocitat de captura d’imatges pot disminuir quan aquesta funció està activada. El mode nocturn s\'activarà automàticament quan es detectin condicions de poca llum.</string>
     <string name="pref_camera_high_quality_preferred_title">Millora la qualitat de la imatge</string>
     <string name="pref_camera_histogram_entry_disable">Desactiva</string>
     <string name="pref_camera_histogram_entry_enable">Activa</string>
@@ -1151,6 +1152,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_portrait_mode_entry_on">El mode retrat està activat</string>
     <string name="pref_camera_portrait_mode_title">Mode retrat</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Embellidor en mode retrat</string>
+    <string name="pref_camera_predictive_shutter_description">Fa un seguiment del moviment per minimitzar la difuminació de les fotos de nens, mascotes i altres subjectes actius</string>
+    <string name="pref_camera_predictive_shutter_title">Seguiment del moviment</string>
     <string name="pref_camera_proximity_lock_summary">Bloqueja el telèfon automàticament en ficar-lo a la butxaca</string>
     <string name="pref_camera_proximity_lock_title">Mode butxaca</string>
     <string name="pref_camera_quick_settings">Configuració ràpida</string>
@@ -1313,6 +1316,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_skin_beautify_slim_title">Prim</string>
     <string name="pref_skin_beautify_smooth_title">Pell</string>
     <string name="pref_smart_guide_title">Suggeriments intel·ligents</string>
+    <string name="pref_super_night_se_summary">Detecta les condicions de poca llum i millora la qualitat de la imatge automàticament</string>
+    <string name="pref_super_night_se_title">Mode nocturn automàtic</string>
     <string name="pref_userdefine_watermark_title">Marca d\'aigua personalitzada</string>
     <string name="pref_video_captrue_ability_title">Captura d’imatges durant l\'enregistrament</string>
     <string name="pref_video_denoise_off">Desactivat</string>

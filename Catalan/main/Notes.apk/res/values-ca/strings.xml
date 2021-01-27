@@ -180,7 +180,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja és a la pantalla d\'inici</string>
     <string name="evening">Tarda</string>
     <string name="exceed_todo_text_limitation">La descripció de la tasca és massa llarga.</string>
-    <string name="excerpt">Crea un fragment</string>
+    <string name="excerpt">Fragments</string>
     <string name="excerpt_bubble_tips">El text copiat i les imatges desades es desaran a Notes</string>
     <string name="excerpt_link_bubble_tips">Toqueu per desar a Notes</string>
     <string name="excerpt_note">Els meus fragments</string>

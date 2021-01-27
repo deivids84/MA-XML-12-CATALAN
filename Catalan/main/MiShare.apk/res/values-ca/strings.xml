@@ -60,6 +60,7 @@
     <string name="error_has_occurred">S\'ha produït un error</string>
     <string name="error_mirror_working">"No es poden compartir elements mentre compartiu la pantalla"</string>
     <string name="error_msg_network_error">S\'ha produït un error de xarxa. Torneu-ho a provar.</string>
+    <string name="error_permission_denied">Per poder utilitzar aquesta funció, concediu a Mi Share tots els permisos necessaris a la Configuració.</string>
     <string name="error_receive_file_cannot_read">"No s'ha pogut rebre el fitxer"</string>
     <string name="error_receive_file_changed">"No es pot rebre L’element ha canviat."</string>
     <string name="error_receive_file_file_opened">"No s'ha pogut rebre aquest element. Sembla que s’utilitza ara."</string>
@@ -106,9 +107,8 @@
     <string name="menu_item_privacy_title">Política de privadesa</string>
     <string name="mishare_folder_in_file_explorer">Gestor de fitxers &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notificacions sobre processos de Mi Share</string>
-    <string name="mishare_settings_summary_international">"Podeu utilitzar Mi Share per enviar articles a dispositius propers.
-Mi Share és compatible amb els telèfons Mi i Redmi.
-OPPO, vivo, realme i altres marques aviat seran compatibles amb Mi Share també. Podeu consultar la llista de dispositius compatibles al nostre lloc web."</string>
+    <string name="mishare_settings_summary_international">"Mi Share us permet enviar elements sense fils a altres dispositius propers.
+Aquesta funció és compatible amb OPPO, vivo, realme i altres fabricants de telèfons intel·ligents. Podeu consultar la llista de dispositius compatibles al lloc web oficial de qualsevol marca seleccionada."</string>
     <string name="mishare_state_protection">Activa automàticament Mi Share</string>
     <string name="mishare_state_protection_summary">Torneu a activar automàticament Mi Share quan es tornen a activar el Bluetooth o la Wi-Fi</string>
     <string name="mishare_state_protection_summary_china">Torneu a activar Mi Share quan es torni a activar el Bluetooth o la Wi-Fi</string>

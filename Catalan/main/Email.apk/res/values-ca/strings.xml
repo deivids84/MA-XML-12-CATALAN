@@ -705,7 +705,6 @@ Confirmeu si la contrasenya de l'aplicació està activada; si està activada, a
     <string name="meeting_updated">"
         Actualitzat: 
 %s "</string>
-    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Fitxers adjunts</string>
     <string name="menu_att_mgr_order_default">Vist recentment</string>
     <string name="menu_att_mgr_order_mime">Format</string>

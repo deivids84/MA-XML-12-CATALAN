@@ -1000,9 +1000,6 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_sa_switch_open_dialog_content">La connexió 5G pot ser inestable en mode autònom, la qual cosa pot afectar els serveis de telefonia. De totes maneres, voleu activar el mode SA?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Atenció</string>
     <string name="fiveg_sa_switch_summary">Permet la connexió a xarxes 5G en mode autònom</string>
-    <string name="fiveg_sa_switch_title">Mode SA</string>
-    <string name="fiveg_sa_switch_title_slot0">Mode SIM %d SA</string>
-    <string name="fiveg_sa_switch_title_slot1">Mode SIM %d SA</string>
     <string name="fiveg_sa_switch_warning_toast">Reinicieu el dispositiu per aplicar els canvis</string>
     <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fiveg_signal_strength1">Potència del senyal 5G :</string>
@@ -1354,7 +1351,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Error de targeta SIM</string>
     <string name="msim_setting_categery_title">Configuració de targeta SIM</string>
-    <string name="msim_setting_default_data">Targeta de dades</string>
+    <string name="msim_setting_default_data">SIM de dades</string>
     <string name="msim_setting_default_data_description">SIM de dades %d</string>
     <string name="msim_setting_default_voice">Per defecte per a trucades</string>
     <string name="msim_setting_default_voice_description">SIM %d per a trucades</string>
@@ -1921,6 +1918,8 @@ Interfície UT: %5$s"</string>
     <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
     <string name="send_button">Envia</string>
     <string name="send_keepalive_title">Envia mantenir-actiu</string>
+    <string name="sensor_answer_summary">Porteu el telèfon a l’orella per respondre automàticament una trucada entrant</string>
+    <string name="sensor_answer_title">Aixequeu per respondre</string>
     <string name="set_primary_summary">Utilitzat per trucades sortints</string>
     <string name="set_primary_title">Selecciona com a compte principal</string>
     <string name="set_smsc_address_error">"No s'ha pogut establir el número"</string>

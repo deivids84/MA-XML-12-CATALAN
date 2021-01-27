@@ -287,7 +287,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="feedback_title_reproductivity">Selecció de la reproductivitat</string>
     <string name="feedback_tracking">Segueix els problemes</string>
     <string name="feesback_list">Informes</string>
-    <string name="find_psw">Has oblidat la contrasenya</string>
+    <string name="find_psw">He oblidat la contrasenya</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -559,7 +559,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_sending_vcode">S\'està enviant el codi…</string>
     <string name="passport_set_password">Estableix la contrasenya</string>
     <string name="passport_set_password_no_phone_msg">Afegiu el vostre número de telèfon per protegir el vostre compte.</string>
-    <string name="passport_sign_in">Inicieu la sessió</string>
+    <string name="passport_sign_in">Inicia la sessió</string>
     <string name="passport_sign_in_or_sign_up">Inicieu la sessió / Creeu un compte</string>
     <string name="passport_sms_phone_intro">Codi enviat a %1$s</string>
     <string name="passport_talkback_image_captcha">Codi de verificació d’imatges</string>

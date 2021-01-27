@@ -81,6 +81,15 @@
     <string name="data_merge_dialog_title">Combina els elements</string>
     <string name="data_protection_title">Protecció de dades</string>
     <string name="detect_sim_card">Cerca la targeta SIM de nou</string>
+    <string name="device_activation_card_cannot_get_yet">"No s'ha pogut obtenir la informació. Torneu-ho a provar d'aquí a 3-5 dies."</string>
+    <string name="device_activation_card_description">"La primera activació es registra quan un dispositiu es connecta a la xarxa (inclòs, entre d'altres, Wi-Fi i xarxes mòbils) per primera vegada. Normalment es triga un temps a registrar la primera activació, de manera que és millor esperar 3-5 dies després de connectar-se a la xarxa abans de comprovar l’estat de l’activació.&lt;br&gt;&lt;br&gt;L'activació del dispositiu és el factor principal per determinar el període de validesa de la nostra garantia. Comprovi la nostra 
+ &lt;a href=%1$s&gt;Política de devolucions, canvis, i reparació&lt;/a&gt; per a més detalls.&lt;br&gt;&lt;br&gt;No dubteu a trucar a la nostra línia d’atenció al client si teniu cap pregunta: 900 128 128."</string>
+    <string name="device_activation_card_description_china">"La primera activació es registra quan un dispositiu es connecta a la xarxa (inclòs, entre d'altres, la Wi-Fi i xarxes mòbils) per primera vegada. Normalment es triga un temps a registrar la primera activació, de manera que és millor esperar 3-5 dies després de connectar-se a la xarxa abans de comprovar l’estat de l’activació.&lt;br&gt;&lt;br&gt; Comproveu la nostra &lt;a href=%1$s&gt;Política de devolucions, canvis, i reparació&lt;/a&gt; per a més detalls.&lt;br&gt;&lt;br&gt;No dubteu a trucar a la nostra línia d’atenció al client si teniu cap pregunta: 900 128 128."</string>
+    <string name="device_activation_card_device_not_support">No és compatible amb aquest dispositiu</string>
+    <string name="device_activation_card_local_service_error">"No s'ha pogut obtenir la informació. Espereu un minut o dos i torneu-ho a provar."</string>
+    <string name="device_activation_card_no_network_error">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="device_activation_card_title">Primera activació</string>
+    <string name="device_activation_page_title">Activació del dispositiu</string>
     <string name="disable_find_device_error">"No es pot desactivar troba el dispositiu. %1$s"</string>
     <string name="do_not_merge">Cancel·la</string>
     <string name="enable_find_device_error">"No es pot activar troba el dispositiu. %1$s"</string>
@@ -262,7 +271,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_find_device_guide_desc_pad">Si perdeu el dispositiu, inicieu sessió a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en qualsevol altre dispositiu per localitzar, bloquejar de forma remota o esborrar les dades del dispositiu perdut. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Mostra els detalls&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_desc_phone">Si perdeu el dispositiu, inicieu sessió a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; en qualsevol altre dispositiu per localitzar, bloquejar de forma remota o esborrar les dades del dispositiu perdut. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Mostra els detalls&lt;/a&gt;.</string>
     <string name="micloud_find_device_guide_fail_reopen">Podeu activar Troba el dispositiu al Compte Mi - Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>
+    <string name="micloud_find_device_guide_fail_sub_net">Comproveu la connexió de xarxa i torneu-ho a provar.</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sincronitza contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content_v2">Sincronitzeu contactes, fotos, notes i molt més amb Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">Protegiu les vostres dades fins i tot quan es perdi el vostre dispositiu</string>
@@ -510,8 +519,16 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>
     <string name="provision_sync_items_loading">S\'està preparant per sincronitzar els elements</string>
+    <string name="quick_service_after_sale_policy_title">Política</string>
+    <string name="quick_service_after_sale_service_title">Serveis</string>
+    <string name="quick_service_authenticity_check_title">Autenticació</string>
+    <string name="quick_service_maintenance_price_title">Reparacions</string>
+    <string name="quick_service_title">Serveis ràpids</string>
     <string name="reading_status">S\'està carregant l\'estat…</string>
     <string name="reading_status_failure">"No s'ha pogut carregar l'estat."</string>
+    <string name="recommend_service_cloudservice_description">Sincronitzeu les dades de l\'aplicació del sistema, la configuració de la còpia de seguretat, la disposició de la pantalla d\'inici i molt més</string>
+    <string name="recommend_service_sharelocation_description">Localitzeu, bloquegeu i esborreu les dades dels dispositius perduts i compartiu la ubicació amb els vostres amics i familiars</string>
+    <string name="recommend_service_title">Serveis recomanats</string>
     <string name="retain_data_high_quality_photo_waring_message">Les imatges d\'alta qualitat se suprimiran de la Galeria després de tancar la sessió. Els fitxers originals corresponents continuaran emmagatzemats al núvol. També podeu baixar els fitxers originals abans de tancar la sessió.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Les imatges d’alta qualitat no estaran disponibles"</string>
     <string name="search_menu_title">Cerca</string>
@@ -672,7 +689,12 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="sync_off_confirm_content">"No podreu sincronitzar les contrasenyes noves després de desactivar el Gestor de contrasenyes."</string>
     <string name="sync_off_confirm_title">Atenció</string>
     <string name="sync_on">Activat</string>
+    <string name="sync_page_autofill_login">Inicieu la sessió al Compte Mi per utilitzar el gestor de contrasenyes</string>
     <string name="sync_page_autofill_title">Gestor de contrasenyes</string>
+    <string name="sync_page_route_message">El gestor de contrasenyes us permet xifrar les vostres contrasenyes i emmagatzemar-les al núvol. Voleu activar el Gestor de contrasenyes ara?</string>
+    <string name="sync_page_route_not_now">No, gràcies</string>
+    <string name="sync_page_route_ok">Activa</string>
+    <string name="sync_page_route_remember">"No ho tornis a mostrar"</string>
     <string name="sync_setting_title">Configuració de la sincronització</string>
     <string name="sync_sub_1_intl_sms">S\'enviaran missatges nacionals i internacionals per vincular la targeta SIM a aquest compte. Rebrà càrrecs de la seva companyia.</string>
     <string name="sync_sub_1_sms">S\'enviarà un SMS per vincular la seva SIM a aquest compte. Se li cobraran els costos de tarifa de la seva operadora.</string>

@@ -303,6 +303,8 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="external_source_trusted">Permès</string>
     <string name="external_source_untrusted">No permès</string>
     <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
+    <string name="fast_connect_anti_lost_content">"Configureu una alerta que apareixerà quan falti un dels auriculars.
+Consulteu a la Configuració per obtenir més informació."</string>
     <string name="fast_connect_bt_speaker2_name">MI Portable Speaker</string>
     <string name="fast_connect_device_battery">Bateria</string>
     <string name="fast_connect_device_box">Capsa</string>
@@ -319,13 +321,18 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
     <string name="fast_connect_device_title_connecting">S\'està connectant…</string>
     <string name="fast_connect_device_title_find_headset">Troba %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">"Sembla que aquest dispositiu no és el vostre: %1$s"</string>
-    <string name="fast_connect_new_feture_anti_lost">Anti pèrdua</string>
-    <string name="fast_connect_new_feture_same_account">El mateix compte sense emparellar</string>
-    <string name="fast_connect_new_feture_sound_normalizer">Normalitzador de so</string>
-    <string name="fast_connect_new_feture_title">Noves funcionalitats</string>
+    <string name="fast_connect_new_feture_anti_lost">Alerta de manca d\'auricular</string>
+    <string name="fast_connect_new_feture_same_account">Connecta els dispositius sincronitzats</string>
+    <string name="fast_connect_new_feture_sound_normalizer">Millor so</string>
+    <string name="fast_connect_new_feture_title">"Que hi ha de nou"</string>
     <string name="fast_connect_nzbt_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="fast_connect_reset_common">Restabliu aquest dispositiu per poder-lo vincular</string>
-    <string name="fast_connect_same_accout_devices_title">Aquest és l\'altre dispositiu connectat: %1$s</string>
+    <string name="fast_connect_same_account_content">Els dispositius Bluetooth es poden sincronitzar amb el vostre compte Mi i connectar-se sense emparellar-se en altres dispositius.</string>
+    <string name="fast_connect_same_accout_devices_connecting">S\'està connectant mitjançant Xiaomi Cloud…</string>
+    <string name="fast_connect_same_accout_devices_title">"Heu connectat %1$s a altres dispositius"</string>
+    <string name="fast_connect_same_accout_ok">Entesos</string>
+    <string name="fast_connect_sound_normalizer_content">"Millor àudio en les trucades de veu.
+Protocol de connexió més ràpid."</string>
     <string name="fast_connect_wbs_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="feiyu_vlog_name">Feiyu VLOG de butxaca</string>
     <string name="force_allow_on_external">Força que les aplicacions puguin escriure en emmagatzematge extern</string>
@@ -750,7 +757,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_whitelist_roaming">Pont SSID: lliurament ràpid</string>
     <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSPA WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
-    <string name="xiaomi_account_bt_sync_name">Mi Nearby</string>
+    <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="zen_alarm_warning">"No sentireu la vostra següent alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la vostra següent alarma %1$s a menys que desactiveu aquesta opció abans"</string>
     <string name="zen_interruption_level_priority">Només amb prioritat</string>
@@ -759,5 +766,5 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="zen_mode_enable_dialog_turn_on">Activa</string>
     <string name="zen_mode_forever">Fins que ho desactiveu</string>
     <string name="zen_mode_settings_summary_off">No hi ha regles automàtiques activades</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Activa el DND</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Activa No molestis</string>
 </resources>

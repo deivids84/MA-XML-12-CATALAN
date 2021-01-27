@@ -181,6 +181,7 @@
     <string name="file_upload_dialog_cancel">Surt</string>
     <string name="file_upload_dialog_title">Trieu una categoria</string>
     <string name="h5_ppt_to_pdf_introduce_title">Quant a la conversió de diapositives a PDF</string>
+    <string name="home_action_up">Enrere</string>
     <string name="i_know">Entesos</string>
     <string name="image_picker_title">Seleccioneu les imatges</string>
     <string name="image_preview_cover_failed">"No s'ha pogut carregar. Torneu-ho a provar."</string>

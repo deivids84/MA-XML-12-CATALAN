@@ -4,7 +4,7 @@
         <item>gen.</item>
         <item>febr.</item>
         <item>març</item>
-        <item>abr.</item>
+        <item>Abr.</item>
         <item>maig</item>
         <item>juny</item>
         <item>jul.</item>
@@ -22,17 +22,16 @@
         <item>Mes següent</item>
         <item>Tria la data</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Respon</item>
-        <item>Respon a tots</item>
-        <item>Endavant</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Diminut</item>
         <item>Petit</item>
         <item>Normal</item>
         <item>Gran</item>
         <item>Enorme</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>factura</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Vist recentment</item>

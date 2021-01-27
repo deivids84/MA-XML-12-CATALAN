@@ -15,7 +15,7 @@
     <string name="ColpMmi">ID de línia connectada</string>
     <string name="ColrMmi">Restricció d\'ID de línia connectada</string>
     <string name="CwMmi">Trucada en espera</string>
-    <string name="DndMmi">No molesteu</string>
+    <string name="DndMmi">No molestis</string>
     <string name="EmergencyCallWarningSummary">No es poden fer trucades d\'emergència mitjançant la WLAN</string>
     <string name="EmergencyCallWarningTitle">Trucada d’emergència no disponible</string>
     <string name="Midnight">Mitjanit</string>
@@ -931,7 +931,6 @@ Torneu-ho a provar en %2$d segons."</string>
     <string name="mediasize_na_tabloid">Tabloide</string>
     <string name="mediasize_unknown_landscape">Mida horitzontal desconeguda</string>
     <string name="mediasize_unknown_portrait">Mida vertical desconeguda</string>
-    <string name="megabyteShort">MB</string>
     <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">Alt+</string>
     <string name="menu_ctrl_shortcut_label">Ctrl+</string>
@@ -1823,7 +1822,7 @@ Voleu tancar-la?"</string>
     <string name="zen_mode_downtime_feature_name">Temps d\'inactivitat</string>
     <string name="zen_mode_feature_name">No molesteu</string>
     <string name="zen_mode_forever">Fins que no ho desactiveu</string>
-    <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
+    <string name="zen_mode_forever_dnd">Fins que desactiveu No molestis</string>
     <string name="zen_mode_until">Fins %1$s</string>
     <string name="zen_upgrade_notification_content">"Toqueu per comprovar què hi ha bloquejat."</string>
     <string name="zen_upgrade_notification_title">No molestar ha canviat</string>

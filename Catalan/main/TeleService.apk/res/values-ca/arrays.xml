@@ -115,7 +115,7 @@
     </string-array>
     <string-array name="clir_display_values">
         <item>Per defecte de la xarxa</item>
-        <item>Hide number</item>
+        <item>Amaga el número</item>
         <item>Mostra el número</item>
     </string-array>
     <string-array name="color_mode_descriptions">
@@ -127,12 +127,6 @@
         <item>Vibrant (per defecte)</item>
         <item>Natural</item>
         <item>Estàndard</item>
-    </string-array>
-    <string-array name="config_rcs_provision_error_on_publish_response">
-        <item>404 No trobat</item>
-    </string-array>
-    <string-array name="config_volte_provision_error_on_publish_response">
-        <item>403 no autoritzat per presència</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivat</item>
@@ -214,11 +208,6 @@
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Global</item>
-        <item>LTE/CDMA</item>
-        <item>LTE / GSM / UMTS</item>
-    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Inactiu</item>
         <item>64K per registre de memòria</item>
@@ -228,7 +217,7 @@
         <item>16M per registre de memòria</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -276,18 +265,6 @@
         <item>Vertiginós</item>
         <item>Molt vertiginós</item>
         <item>Màxima ràpidesa</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Mode triple</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Mode triple</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Càrrega</item>

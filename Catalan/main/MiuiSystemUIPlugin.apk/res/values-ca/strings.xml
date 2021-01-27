@@ -155,8 +155,8 @@
     <string name="material_slider_range_end">Final de l\'interval,</string>
     <string name="material_slider_range_start">Inici de l\'interval,</string>
     <string name="midnight">Nit</string>
-    <string name="miui_dnd_count_down">Temporitzador DND</string>
-    <string name="miui_dnd_count_down_time">"Temporitzador DND
+    <string name="miui_dnd_count_down">Temporitzador No molestis</string>
+    <string name="miui_dnd_count_down_time">"Temporitzador No molestis
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Configuració</string>
     <string name="miui_guide_dialog_button_positive_text">Ho tinc</string>

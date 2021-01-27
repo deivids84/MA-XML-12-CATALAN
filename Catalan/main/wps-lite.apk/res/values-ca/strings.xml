@@ -79,7 +79,7 @@
     <string name="documentmanager_log_type_crash_error">Registre de bloqueig</string>
     <string name="documentmanager_log_type_fileroaming_error">Registre d\'errors d\'itinerància en fitxers</string>
     <string name="documentmanager_log_type_save_error">S\'està desant el registre d\'errors</string>
-    <string name="documentmanager_loginView_toastpassword">Introduir la contrasenya</string>
+    <string name="documentmanager_loginView_toastpassword">Introduïu la contrasenya</string>
     <string name="documentmanager_noEmailApp">"No trobeu cap aplicació de correu electrònic disponible, assegureu-vos que la teniu instal·lada i la sessió iniciada."</string>
     <string name="documentmanager_nocall_app">"No trobeu cap aplicació de marcatge disponible, instal·leu-ne una ara."</string>
     <string name="documentmanager_phone_setting">Configuració</string>

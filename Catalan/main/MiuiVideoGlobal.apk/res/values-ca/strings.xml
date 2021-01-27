@@ -239,7 +239,7 @@
     <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els serveis de Google Play actualitzats actualment."</string>
     <string name="common_google_play_services_wear_update_text">Es necessita una versió nova dels serveis de Google Play. S\'actualitzarà en breu.</string>
     <string name="common_open_on_phone">Obert per telèfon</string>
-    <string name="common_signin_button_text">Inicieu la sessió</string>
+    <string name="common_signin_button_text">Inicia la sessió</string>
     <string name="common_signin_button_text_long">Inicieu la sessió amb Google</string>
     <string name="confirm_activate_email">Verificat</string>
     <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon associat</string>
@@ -503,7 +503,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="local_video_notification_title">S\'ha trobat un nou vídeo local</string>
     <string name="local_video_space">Ocupat: %s</string>
     <string name="lock_screen">Pantalla de bloqueig</string>
-    <string name="login">Inicieu la sessió</string>
+    <string name="login">Inicia la sessió</string>
     <string name="login_tip">Inicieu la sessió per poder rebre les nostres respostes al vostre comentari.</string>
     <string name="logo_neverthink">Comissariat per Neverthink.tv</string>
     <string name="logout">Tanca sessió</string>
@@ -557,7 +557,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="lv_home_localt">Local</string>
     <string name="lv_home_recent">Recents</string>
     <string name="lv_home_settings">Configuració</string>
-    <string name="lv_input_password">Introduir la contrasenya</string>
+    <string name="lv_input_password">Introduïu la contrasenya</string>
     <string name="lv_local_folder">Carpetes</string>
     <string name="lv_local_video">Vídeos</string>
     <string name="lv_media_type_unsported">"No es pot reproduir aquest format de vídeo."</string>
@@ -786,7 +786,7 @@ update meu vídeo a la versió més recent en primer lloc."</string>
     <string name="ovp_setting_clear_cache_success">S\'ha eliminat la memòria cau correctament</string>
     <string name="ovp_setting_clear_cache_text">Netegeu els fitxers de memòria cau desats al vostre dispositiu</string>
     <string name="ovp_setting_clear_cache_title">Netejar memòria cau</string>
-    <string name="ovp_setting_privacy_policy_title">Política de privacitat</string>
+    <string name="ovp_setting_privacy_policy_title">Política de privadesa</string>
     <string name="ovp_setting_privacy_switch_tips">"Algunes funcions no estaran disponibles si revoca l’autorització"</string>
     <string name="ovp_setting_privacy_switch_title">Autorització &amp; revocació</string>
     <string name="ovp_setting_user_agreement_title">Acord d\'usuari</string>
@@ -1253,8 +1253,8 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="v_data_empty">No hi ha articles aquí</string>
     <string name="v_exit">Surt</string>
     <string name="v_finish">Fet</string>
-    <string name="v_input_password">Introduir la contrasenya</string>
-    <string name="v_login">Inicieu la sessió</string>
+    <string name="v_input_password">Introduïu la contrasenya</string>
+    <string name="v_login">Inicia la sessió</string>
     <string name="v_menu_hide">Amagar</string>
     <string name="v_more">Més</string>
     <string name="v_network_failed">"No s'ha pogut connectar a la xarxa"</string>

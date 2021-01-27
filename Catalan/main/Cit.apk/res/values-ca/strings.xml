@@ -727,7 +727,7 @@ prova fallada!"</string>
     <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
     <string name="cit_vibrator_haptic">Hàptica</string>
     <string name="cit_vibrator_load_down_pattern">Patró a baix</string>
-    <string name="cit_vibrator_load_up_pattern">Patró a dalt</string>
+    <string name="cit_vibrator_load_up_pattern">Patró de pujada</string>
     <string name="cit_vibrator_long">Vibració llarga</string>
     <string name="cit_vibrator_play_touch_pattern">Vibració</string>
     <string name="cit_vibrator_short">Vibració curta</string>
@@ -742,8 +742,8 @@ prova fallada!"</string>
     <string name="cit_wifi_address_error">"No s'ha pogut obtenir l'adreça Wi-Fi. Assegureu-vos que la Wi-Fi estigui activada."</string>
     <string name="cit_wifi_ap_scan_check_summary">A continuació es mostra la informació de l\'AP Wi-Fi dels dispositius de la zona que s\'han detectat. Confirmeu que la informació ressaltada en verd és correcta.</string>
     <string name="cit_wifi_ap_scan_check_title">Escaneja l\'AP Wi-Fi</string>
-    <string name="cit_wifi_ap_scan_retry">S\'està escanejant una altra vegada&#8230;</string>
-    <string name="cit_wifi_ap_scanning">S\'està escanejant&#8230;</string>
+    <string name="cit_wifi_ap_scan_retry">S\'està escanejant de nou…</string>
+    <string name="cit_wifi_ap_scanning">S\'està escanejant…</string>
     <string name="cit_wifi_fail_to_scan">"No s'han pogut escanejar les xarxes"</string>
     <string name="cit_wifi_state_refresh">Actualitza</string>
     <string name="cit_x_tele_camera_check_title">Càmera Tele5X</string>

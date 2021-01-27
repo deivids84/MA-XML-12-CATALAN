@@ -244,6 +244,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
     </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Felicitats! Heu desbloquejat %s ous de Pasqua."</item>
+        <item quantity="one">"Felicitats! Heu desbloquejat %s ou de Pasqua."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -408,6 +412,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicacions"</item>
         <item quantity="one">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicació"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d dies sense exploracions de seguretat</item>
+        <item quantity="one">%d dia sense exploracions de seguretat</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">S\'ha consumit un %2$d%% de la bateria en els darrers %1$d minuts</item>
         <item quantity="one">S\'ha consumit un %2$d%% de la bateria en el darrer %1$d minut</item>
@@ -419,6 +427,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Suprimiu %d paquets d\'instal·lació</item>
         <item quantity="one">Suprimiu %d paquets d\'instal·lació</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Suprimiu %d APK residuals</item>
+        <item quantity="one">Suprimiu %d APK residual</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d problemes d\'ús de la bateria</item>
@@ -559,10 +571,6 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="power_center_battery_duration_min_time_format">
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
-    </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">Carregueu completament el dispositiu almenys %2$d vegades per obtenir estadístiques precises</item>
-        <item quantity="one">Carregueu completament el dispositiu almenys %2$d vegades per obtenir estadístiques precises</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d h "</item>
@@ -787,6 +795,12 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d aplicacions</item>
         <item quantity="one">%d aplicació</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Ja fa %d hores que mireu vídeos.
+Feu un descans!"</item>
+        <item quantity="one">"Ja fa %d hora que mireu vídeos.
+Feu un descans!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualitzacions</item>

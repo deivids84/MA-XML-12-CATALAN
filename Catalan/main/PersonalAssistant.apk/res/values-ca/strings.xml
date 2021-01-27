@@ -236,6 +236,15 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_express_tail_number">Comanda: %1$s</string>
     <string name="app_health_card_completion">Objectiu</string>
     <string name="app_health_card_step">"Passos d'avui:"</string>
+    <string name="app_health_setting_music_name_fire">Estufa</string>
+    <string name="app_health_setting_music_name_forest">Bosc</string>
+    <string name="app_health_setting_music_name_night">Nit d\'estiu</string>
+    <string name="app_health_setting_music_name_ocean">Platja</string>
+    <string name="app_health_setting_music_name_rain">Plugim</string>
+    <string name="app_health_setting_text_default_duration">Durada</string>
+    <string name="app_health_setting_text_download_alert_message">"Sembla que no esteu connectat a la Wi-Fi. Voleu utilitzar %1$s de les dades mòbils per fer baixades?"</string>
+    <string name="app_health_setting_text_sleep_aid_settings">Repòs</string>
+    <string name="app_health_setting_text_title">Salut</string>
     <string name="app_label">Tauler d\'aplicacions</string>
     <string name="app_memory_free">Disponibles</string>
     <string name="app_memory_title">Memòria</string>
@@ -375,12 +384,14 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_sports_fav_add">Afegir</string>
     <string name="app_sports_fav_cancel_club">Suprimeix aquest club</string>
     <string name="app_sports_fav_cancel_league">Suprimeix aquesta lliga</string>
+    <string name="app_sports_fav_cancel_multi_league_content" formatted="false">"L'horari del club en %s i %s ja no us serà enviat"</string>
     <string name="app_sports_fav_club">Club de preocupació</string>
     <string name="app_sports_fav_league">Lliga de preocupació</string>
     <string name="app_sports_fav_title">La meva preocupació</string>
     <string name="app_sports_more_match">més</string>
     <string name="app_sports_title">Esports</string>
     <string name="app_sports_title_all_leagues">Tots els partits</string>
+    <string name="app_sports_title_tip">Feu coincidir les dades relacionades proporcionades per un tercer</string>
     <string name="app_stock_more_add_stock">Afegir</string>
     <string name="app_stock_name_hszs">Penja Sen</string>
     <string name="app_stock_name_nsdk">Nasdaq</string>
@@ -417,6 +428,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_surround_title_my_fav">Els meus favorits</string>
     <string name="app_travel_btn_all_travel">Tots els viatges</string>
     <string name="app_travel_btn_flight_detail">Propietats</string>
+    <string name="app_travel_card_none">Sense dades</string>
     <string name="app_travel_card_title">Viatges</string>
     <string name="app_travel_card_title_add">Afegir</string>
     <string name="app_travel_card_title_no_arr">Proper viatge</string>

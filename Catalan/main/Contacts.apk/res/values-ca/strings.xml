@@ -79,6 +79,10 @@
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recàrrega saldo</string>
     <string name="bh_bugreport">Comentaris empresarials</string>
+    <string name="bh_business_hall_is_here">Els serveis de l\'operadora són aquí</string>
+    <string name="bh_business_style">Seleccioneu la interfície</string>
+    <string name="bh_business_style_new">Nou</string>
+    <string name="bh_business_style_old">Vell</string>
     <string name="bh_button_finish">Fet</string>
     <string name="bh_buy_now">Compra</string>
     <string name="bh_call_used">Minuts usats</string>
@@ -155,6 +159,8 @@
     <string name="bh_saved_number">Número desat: %1$s</string>
     <string name="bh_should_login_to_buy">Inicieu la sessió al meu compte per poder comprar minuts de trucades i dades mòbils</string>
     <string name="bh_similar_number_hint">Aquest nombre és similar al %1$s. Recarregar aquest número de totes maneres?</string>
+    <string name="bh_system_recommend">Recomanacions del sistema</string>
+    <string name="bh_system_recommend_des">Permeteu-nos analitzar el vostre trànsit i recomanar productes digitals en funció dels resultats</string>
     <string name="bh_tag_phones">Números de telèfon d’ús freqüent</string>
     <string name="bh_tags_number_exceed">"No es poden desar més números de telèfon"</string>
     <string name="bh_time_before">%1$s fa %2$s</string>
@@ -274,6 +280,7 @@
     <string name="callrecordview_menu_show_missed">Trucades perdudes</string>
     <string name="callrecordview_menu_show_sim">%s trucades</string>
     <string name="callrecordview_menu_show_stranger">Trucades de números desconeguts</string>
+    <string name="cancel">Cancel·la</string>
     <string name="cancel_confirmation_dialog_message">Descarteu els canvis?</string>
     <string name="cancel_confirmation_dialog_title">Cancel·la</string>
     <string name="cancel_export_confirmation_message">Voleu cancel·lar l\'exportació de %s?</string>
@@ -352,6 +359,15 @@
     <string name="contactsList">Contactes</string>
     <string name="contacts_default_notification_channel">Notificacions</string>
     <string name="contacts_hybrid_activity_label">Recupera els contactes</string>
+    <string name="contacts_trash_activity_hint">Seleccioneu els contactes a restaurar</string>
+    <string name="contacts_trash_activity_title">Contactes suprimits recentment</string>
+    <string name="contacts_trash_delete">Suprimeix</string>
+    <string name="contacts_trash_delete_dialog_continue">Suprimeix</string>
+    <string name="contacts_trash_delete_dialog_hint">"No podreu revertir això."</string>
+    <string name="contacts_trash_delete_dialog_loading">S\'està suprimint…</string>
+    <string name="contacts_trash_delete_dialog_title">Voleu suprimir els contactes seleccionats?</string>
+    <string name="contacts_trash_restore">Restaura</string>
+    <string name="contacts_trash_restore_loading">S\'està restaurant…</string>
     <string name="contacts_unavailable_add_account">Inicieu sessió en un compte</string>
     <string name="contacts_unavailable_create_contact">Crea un nou contacte</string>
     <string name="contacts_unavailable_import_contacts">Importa contactes des d\'un fitxer</string>
@@ -490,6 +506,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="email_other">Correu electrònic</string>
     <string name="email_work">Envia un correu a la feina</string>
     <string name="emergency_number_label">Número d\'emergència</string>
+    <string name="ensure">D\'acord</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="err_dont_install_mipay">Instal·leu Mi Pay per completar el pagament.</string>

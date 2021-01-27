@@ -91,7 +91,7 @@
     <string name="framework_introduction">Mi Services Framework us permet utilitzar el Compte Mi, Mi Push, Mi Stats i MIUI BI.</string>
     <string name="framwork_base_service">Per proveir-vos d’aquests serveis, Mi Services Framework (compte Mi, Mi Push, Mi Stats, MIUI BI) necessita connectar-vos a Internet, accedir a la vostra ubicació, número de telèfon, IMEI i IMSI i permetre al vostre dispositiu rebre notificacions push.</string>
     <string name="game_introduction">El complement de Jocs us permet iniciar sessió, crear comandes, completar pagaments, utilitzar cupons i participar en esdeveniments de promoció.</string>
-    <string name="google_service_introduction">Per poder funcionar amb normalitat, Google Play necessita connectar-se a Internet, accedir a la vostra ubicació, poder enregistrar àudio, realitzar trucades, accedir als esdeveniments del calendari, a l\'historial de trucades, als sensors, a l\'emmagatzematge, a la càmera, a la informació del dispositiu i als comptes.</string>
+    <string name="google_service_introduction">Per poder treballar amb normalitat, Google Play necessita connectar-se a Internet, accedir a la vostra ubicació, poder enviar SMS i MMS, gravar àudio, fer trucades, accedir a esdeveniments del calendari, historial de trucades, sensors, emmagatzematge, càmera, informació del dispositiu i comptes.</string>
     <string name="home_settings_miui_home">Clàssic</string>
     <string name="home_settings_poco_launcher">Calaix d\'aplicacions</string>
     <string name="home_settings_title">Seleccioneu el llançador predeterminat</string>
@@ -205,6 +205,10 @@
     <string name="pref_title_data_slot">Targeta SIM de dades preferida</string>
     <string name="pref_title_voice_slot">Targeta SIM de veu preferida</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_provision_more">Obteniu més informació sobre la protecció de la privadesa</string>
+    <string name="privacy_provision_summary">La protecció de la privadesa és el compromís del disseny dels nostres productes</string>
+    <string name="privacy_provision_text">Ens comprometem a respectar i protegir la vostra privadesa. Prioritzant la investigació i el desenvolupament en el camp de la seguretat de la informació, Xiaomi treballa constantment en la millora dels mètodes, pràctiques i solucions tècniques que protegeixen les vostres dades. També compartim els nostres últims èxits amb els nostres socis per tal de garantir la vostra privadesa generalment.</string>
+    <string name="privacy_provision_title">Privadesa</string>
     <string name="protect_persoanl_info_statement">Protegirem la vostra informació personal d’acord amb les lleis, regulacions i polítiques de privadesa pertinents.</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_inputmethod_policy_description"><Data>Consulteu la &lt;a href=%1$s&gt;Política de privadesa&lt;/a &gt; del teclat seleccionat.</Data></string>
@@ -261,7 +265,7 @@
     <string name="skip_gesture_guide_dialog_positive_btn">D\'acord</string>
     <string name="skip_gesture_guide_dialog_title">Gestos a pantalla completa</string>
     <string name="skip_underline">Omet aquest pas</string>
-    <string name="start_up_slogan">La teva sola</string>
+    <string name="start_up_slogan">Només vostre</string>
     <string name="summary_not_set">No s\'ha configurat</string>
     <string name="system_navigation_mode">Mode de navegació del sistema</string>
     <string name="terms_of_use">Termes i condicions</string>
@@ -291,7 +295,7 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
     <string name="terms_privacy_policy_input_method_kika">Política de privadesa de Kika</string>
     <string name="title_fingerprint">Afegiu l\'empremta</string>
     <string name="user_agreement">Condicions del servei</string>
-    <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’Usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, el meu servei d’activació de la SIM, Xiaomi Cloud, Cerca dispositiu, pantalla d’inici, frases freqüents, Servei de traducció, Dimoni MIUI, Visualitzador HTML, MIUI SDK, Ajudant AI, Bateria i rendiment, Detector d’energia, Joyose, OS AI Configuració, Administrador de permisos i Updater es connectaran a la xarxa. Els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
+    <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, Servei d’activació de Mi SIM, Xiaomi Cloud, Servei de còpia de seguretat, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Servei de comunicacions per Internet Xiaomi, Servei de traducció, Daemon MIUI, Visualitzador HTML, SDK MIUI, Aplicació d’elements segurs, Assistent IA, Bateria i rendiment, el detector d’alimentació, Joyose, OS AI Setting i Updater es connectaran a la xarxa. Les targetes intel·ligents, el Gestor de permisos i els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
     <string name="voice_assist_advice">Mi AI us permet utilitzar els controls de veu, però consumeix més energia (+ 1% cada hora).</string>
     <string name="voice_assist_condition">"Podreu utilitzar Mi AI en aquests casos:r
 1. Quan la pantalla estigui encesa

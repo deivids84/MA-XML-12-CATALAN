@@ -166,6 +166,7 @@
     <string name="clipboard_read_allow_once">%1$s ha accedit als elements del porta-retalls</string>
     <string name="clipboard_read_deny_dialog_title">Accés restringit al porta-retalls per a %1$s</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="default_permission_description">realitzar accions desconegudes</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">d.C.</string>

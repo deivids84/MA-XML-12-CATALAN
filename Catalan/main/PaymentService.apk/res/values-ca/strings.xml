@@ -195,7 +195,7 @@ Comproveu la vostra data local i torneu a provar."</string>
     <string name="mibi_forget_password"><u>Heu oblidat la contrasenya</u></string>
     <string name="mibi_format_bill_date">d/M/yyyy</string>
     <string name="mibi_format_date">dd MMM yyyy</string>
-    <string name="mibi_format_time">MM dd, yyyy hh:mmaa</string>
+    <string name="mibi_format_time">dd MMM yyyy hh:mmaa</string>
     <string name="mibi_frozen">Congelat</string>
     <string name="mibi_frozen_prim">Compte congelat</string>
     <string name="mibi_frozen_sub">S\'ha detectat activitat anormal</string>

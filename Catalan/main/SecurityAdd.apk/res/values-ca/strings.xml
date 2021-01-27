@@ -108,6 +108,18 @@
     <string name="gamebooster_network_dialog_message">Voleu permetre que Seguretat es connecti a la xarxa per utilitzar totes les funcions de l\'Accelerador de velocitat dels jocs?</string>
     <string name="gamebooster_network_dialog_title">"Algunes funcions no estan disponibles"</string>
     <string name="gamebox_no_network_btn">Recarrega</string>
+    <string name="gb_adv_touch_adv_title">Mode clàssic (per defecte)</string>
+    <string name="gb_adv_touch_custom1">Resposta de lliscament</string>
+    <string name="gb_adv_touch_custom2">Sensibilitat als cops continus</string>
+    <string name="gb_adv_touch_custom3">Precisió de l\'objectiu</string>
+    <string name="gb_adv_touch_custom4">Estabilitat del toc</string>
+    <string name="gb_adv_touch_custom_tip1">Una resposta de lliscament superior augmenta la velocitat de reacció a aquest gest, mentre que una resposta de lliscament inferior fa que el gest sigui més estable.</string>
+    <string name="gb_adv_touch_custom_tip2">Una major sensibilitat als cops continus augmenta la velocitat de reacció a aquest gest, mentre que una sensibilitat més baixa fa que el gest sigui més estable.</string>
+    <string name="gb_adv_touch_custom_tip3">Una major precisió de l\'objectiu fa que els cops més petits siguin més precisos, mentre que una precisió més baixa de l\'objectiu fa que aquest gest sigui més estable.</string>
+    <string name="gb_adv_touch_custom_tip4">Una major estabilitat del toc fa que els tocs siguin més estables, mentre que una menor estabilitat del toc augmenta la precisió dels lliscaments més petits.</string>
+    <string name="gb_adv_touch_custom_title">Personalitza</string>
+    <string name="gb_adv_touch_mode_pro_tips">* Aquest mode està dissenyat per a jugadors professionals. Els jugadors habituals poden trobar aquest mode incòmode.</string>
+    <string name="gb_adv_touch_pro_title">Mode Pro</string>
     <string name="gb_advance_settings_edge_gear1">Cap</string>
     <string name="gb_advance_settings_edge_gear2">Petita</string>
     <string name="gb_advance_settings_edge_gear3">Mitjana</string>
@@ -269,7 +281,6 @@
     <string name="share">Comparteix</string>
     <string name="size_unit_byte">%1$s B</string>
     <string name="size_unit_kilobyte">%1$s KB</string>
-    <string name="size_unit_megabyte">%1$s MB</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Clar i lluminós</string>

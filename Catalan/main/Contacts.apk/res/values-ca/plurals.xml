@@ -80,6 +80,14 @@
         <item quantity="other">%1$d contactes</item>
         <item quantity="one">%1$d contacte</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">S\'han suprimit %d contactes permanentment</item>
+        <item quantity="one">S\'ha suprimit %d contacte permanentment</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">S\'han restaurat %d contactes correctament</item>
+        <item quantity="one">S\'ha restaurat %d contacte correctament</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactes importats</item>
         <item quantity="one">%1$d contacte importat</item>

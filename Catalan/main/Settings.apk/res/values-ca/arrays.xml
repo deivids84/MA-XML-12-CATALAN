@@ -965,6 +965,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Per defecte</item>
         <item>Compacta</item>
     </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Nítid</item>
+        <item>Base</item>
+        <item>Pop</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12 hores 1:00 PM</item>
         <item>24 hores 13:00</item>

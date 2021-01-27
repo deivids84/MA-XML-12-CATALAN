@@ -456,6 +456,7 @@
     <string name="installed">Instal·lat</string>
     <string name="installing">S\'està instal·lant</string>
     <string name="item_title_process_mode">Trieu una acció</string>
+    <string name="junk_temporary_file">Fitxers temporals</string>
     <string name="just_now">Ara mateix</string>
     <string name="label_image_list_none">Cap</string>
     <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>

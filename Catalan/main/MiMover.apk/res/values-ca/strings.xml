@@ -255,6 +255,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="host_memory_insuff_confirm">Torna a seleccionar</string>
     <string name="host_memory_insuff_summary">"Al nou dispositiu no hi ha prou espai d'emmagatzematge per iniciar una transferència."</string>
     <string name="host_memory_insuff_title">No hi ha prou espai d’emmagatzematge</string>
+    <string name="host_new_device_hint">Aquest dispositiu</string>
     <string name="hsa_code_null">"El codi de verificació no pot estar buit"</string>
     <string name="hsa_input_tip">El vostre identificador Apple utilitza l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
     <string name="hsa_send_again">Reenvia</string>
@@ -316,7 +317,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="less_than_1_minute">Menys d’un minut</string>
     <string name="loading_data">Només un segon…</string>
     <string name="location_permission_request">Per connectar-se a altres dispositius propers</string>
-    <string name="login">Inicieu la sessió</string>
+    <string name="login">Inicia la sessió</string>
     <string name="login_failed">"No s'ha pogut iniciar la sessió. Proveu de nou."</string>
     <string name="logining">Inici de sessió…</string>
     <string name="main_button_continue">Continuar</string>
@@ -448,7 +449,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="notif_icloud_import_title">Importa dades des d’i iCloud</string>
     <string name="notif_icloud_loaded_summary">…esperant</string>
     <string name="notif_icloud_loading_summary">Carregant dades…</string>
-    <string name="notif_icloud_logining">Inicieu la sessió a iCloud al vell dispositiu iOS…</string>
+    <string name="notif_icloud_logining">S\'està iniciant la sessió a l\'iCloud de l\'antic dispositiu iOS…</string>
     <string name="notif_icloud_need_wifi_summary">S\'està esperant la Wi-Fi</string>
     <string name="notif_icloud_saved_summary">S\'ha importat correctament</string>
     <string name="notif_icloud_saving_summary">Restauració de dades…</string>
@@ -475,13 +476,13 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="open_photo_and_contacts_cloud_sync_summary">Activeu la sincronització perquè els contactes i els elements de la galeria apareguin en aquest dispositiu.</string>
     <string name="open_photo_and_contacts_cloud_sync_title">Sincronitzeu els contactes i els elements de la galeria</string>
     <string name="option_feedback_title">Feedback</string>
-    <string name="option_privacy_policy">Política de privacitat</string>
+    <string name="option_privacy_policy">Política de privadesa</string>
     <string name="organization">Organització</string>
     <string name="other_system_data">Dades de l\'aplicació del sistema</string>
     <string name="other_user_app">Aplicacions de tercers</string>
     <string name="other_user_app_data">Aplicacions i dades d\'aplicacions de tercers</string>
     <string name="other_user_data">Dades d’aplicacions de tercers</string>
-    <string name="password">Introduir la contrasenya</string>
+    <string name="password">Introduïu la contrasenya</string>
     <string name="password_null">"La contrasenya no pot estar buida"</string>
     <string name="perm_location">Ubicació d’accés</string>
     <string name="perm_package_stats">Accediu a les estadístiques d’ús de l’aplicació</string>
@@ -515,7 +516,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="permlab_sendSmsNoConfirmation">Permet missatges SMS en segon pla</string>
     <string name="phone">Telèfon</string>
     <string name="pm">PM</string>
-    <string name="privacy_policy">Política de privacitat</string>
+    <string name="privacy_policy">Política de privadesa</string>
     <string name="prompt_before_transmission_message1_summary">Si trieu transferir-les des del vostre dispositiu antic, se sobreescriviaran les dades de l’aplicació (inclòs l’historial de xat).</string>
     <string name="prompt_before_transmission_message1_title">Aquestes aplicacions ja han generat dades d\'aplicacions al vostre nou dispositiu</string>
     <string name="prompt_before_transmission_message2_summary">"Les aplicacions dobles no es poden transferir. Tanmateix, podeu transferir aplicacions originals."</string>
