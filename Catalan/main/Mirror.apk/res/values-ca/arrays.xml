@@ -12,7 +12,7 @@
         <item>L\'ordinador utilitza el Bluetooth per detectar els dispositius mòbils propers que s\'han connectat prèviament. Comproveu si el Bluetooth està activat al dispositiu mòbil.</item>
         <item>"Els dispositius mòbils no poden sincronitzar les dades amb els ordinadors quan la pantalla està bloquejada. Per defecte, aquesta aplicació no permet bloquejar la pantalla quan el dispositiu mòbil està connectat a un ordinador. Podeu canviar-ho a la configuració."</item>
         <item>"1. Dispositius mòbils compatibles: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Si se us redirigeix al nostre lloc web oficial després d’escanejar el codi QR, el vostre dispositiu encara no és compatible.
-2. Ordinadors compatibles: Mi Notebook Pro 15 Enhanced Edition, Mi Notebook Pro 15.6 2020, Redmi G Gaming Notebook, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Descarregueu MIUI+ Beta per al vostre ordinador aquí: https://pc.mi.com/aiot."</item>
+2. Ordinadors compatibles: Mi Notebook Pro 15 Enhanced Edition, Mi Notebook Pro 15.6 2020, Redmi G Gaming Notebook, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Baixeu MIUI+ Beta per al vostre ordinador aquí: https://plus.miui.com."</item>
     </string-array>
     <string-array name="settings_tips_title">
         <item>"No us podeu connectar mitjançant el codi QR?"</item>

@@ -227,7 +227,7 @@
     <string name="send">Envia</string>
     <string name="settings_connect">Com connectar-se</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
-    <string name="settings_connect_summary1">Baixeu i instal·leu MIUI+ Beta a l\'ordinador: https://pc.mi.com/aiot.</string>
+    <string name="settings_connect_summary1">Baixeu i instal·leu MIUI+ Beta a l\'ordinador: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Escaneja el codi QR a la pantalla de l\'ordinador amb el dispositiu mòbil. Podeu utilitzar diverses aplicacions del sistema (per exemple, escàner, càmera, navegador Mi) per fer-ho.</string>
     <string name="settings_connect_title1">Pas 1</string>
     <string name="settings_connect_title2">Pas 2</string>

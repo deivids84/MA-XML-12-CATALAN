@@ -306,7 +306,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="install_mi_cloud_app_summary">Escanegeu aquest codi QR amb el vostre iPhone per descarregar i instal·lar l’aplicació.</string>
     <string name="install_mi_cloud_app_title">Instal·leu Xiaomi Cloud</string>
     <string name="install_new_app_link_text">Instal·leu Mi Mover al vostre nou dispositiu per poder-vos connectar. Toqueu per instal·lar.</string>
-    <string name="instruction">Informació de seguretat important</string>
+    <string name="instruction">Informació important de seguretat</string>
     <string name="international_new_trans_intro_desc_8">"Els missatges de text no es poden transferir a causa de problemes de compatibilitat. Les aplicacions de tercers poden restringir la transferència de dades de les seves aplicacions per motius de seguretat."</string>
     <string name="international_new_trans_intro_question_8">"8. Per què no es poden transferir missatges de text i dades d'aplicacions d'algunes aplicacions de tercers?"</string>
     <string name="international_scanner_send_dialog_message">"Els missatges de text i les dades d'aplicacions d'algunes aplicacions de tercers no es poden transferir. No desactiveu la Wi-Fi ni canvieu entre xarxes durant la transferència."</string>

@@ -51,9 +51,9 @@
     <string name="battery_id">Identificador de la bateria:</string>
     <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
     <string name="battery_plug_wirelee_summary">Carregador sense fils en cada connexió, desconnecta una vegada</string>
-    <string name="battery_plug_wirelee_title">Prova de càrrega sense cable</string>
-    <string name="battery_plugin_wirelee">La càrrega sense cable està enllaçada</string>
-    <string name="battery_plugout_wirelee">Activeu la càrrega sense cable</string>
+    <string name="battery_plug_wirelee_title">Prova de càrrega sense fils</string>
+    <string name="battery_plugin_wirelee">La càrrega sense fils està connectada</string>
+    <string name="battery_plugout_wirelee">Connecteu la càrrega sense fils</string>
     <string name="battery_value">Electricitat</string>
     <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
     <string name="bt_address">Adreça:</string>
@@ -65,9 +65,9 @@
     <string name="camera_flood">- Inunda -</string>
     <string name="camera_menu_list">CameraList</string>
     <string name="camera_not_support_raw10">La càmera no és compatible amb el format d\'imatge raw10!</string>
-    <string name="camera_preview">visualització prèvia</string>
+    <string name="camera_preview">previsualització</string>
     <string name="camera_projector">- Projector -</string>
-    <string name="camera_zoom">Ampliar</string>
+    <string name="camera_zoom">Zoom</string>
     <string name="camerainfo">Informació de la càmera</string>
     <string name="can_not_get_numbers_of_keys">no es poden obtenir els números de les claus</string>
     <string name="cancel">Cancel·la</string>

@@ -303,6 +303,7 @@
     <string name="chat_item_msg_user_etc">…</string>
     <string name="check_setup_data">"Validant la configuració del servidor…"</string>
     <string name="choose_an_office365_international">Edició Internacional</string>
+    <string name="choose_an_office365_provider">Trieu un proveïdor de serveis office365</string>
     <string name="choosertitle_sharevia">Compartir a través de</string>
     <string name="clear">Esborra</string>
     <string name="clear_display_images_whitelist_dialog_message">Parar de mostrar les imatges en línia dels remitents anteriorment permesos.</string>
@@ -380,6 +381,7 @@
     <string name="conversation_quick_button_disapprove">Cancel·la</string>
     <string name="conversation_quick_button_received">Rebut</string>
     <string name="conversation_report_spam">Informa de correu brossa</string>
+    <string name="conversation_report_un_spam">No és correu brossa</string>
     <string name="conversation_spam_dig_msg">Vols marcar aquest missatge com a correu brossa? El missatge es mourà a la carpeta \"Correu brossa\" i el remitent s\'afegirà a la llista de blocs.</string>
     <string name="conversation_spam_tips">Vols marcar aquest missatge com a correu brossa?</string>
     <string name="copied">Copiat</string>
@@ -456,6 +458,7 @@
     <string name="edit_quick_response_dialog">Resposta ràpida</string>
     <string name="edit_signature">Edita la signatura</string>
     <string name="editor_max_length_limit_hint">El missatge que heu introduït és massa llarg</string>
+    <string name="email_no_snippet">[Aquest missatge no té cos de text]</string>
     <string name="email_sync_failed">"No s'ha pogut sincronitzar el correu"</string>
     <string name="eml_parse_message">S\'està obrint el fitxer EML…</string>
     <string name="empty_account_tip">"No es pot trobar el compte"</string>
@@ -577,6 +580,8 @@
     <string name="general_preference_text_zoom_normal">Normal</string>
     <string name="general_preference_text_zoom_small">Petit</string>
     <string name="general_preference_text_zoom_tiny">Petit</string>
+    <string name="general_preference_trash_contact">Detecció de correu brossa</string>
+    <string name="general_preference_trash_contact_sum">Gestió de cartes dels remitents que han estat reportats en gran quantitat</string>
     <string name="generic_attachment_problem">"No pot adjuntar fitxer."</string>
     <string name="get_database_exception">"Esborra les dades de l'aplicació a Configuració i torna a intentar-ho"</string>
     <string name="get_oauth_code">Obteniu el codi</string>
@@ -692,12 +697,27 @@ Confirmeu si la contrasenya de l'aplicació està activada; si està activada, a
     <string name="meeting_accepted">"
         Acceptat: 
 %s"</string>
+    <string name="meeting_allday">"
+        Quan:
+        %s
+        (tot el dia)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Quan:
+        %s
+        (tot el dia, recurrent)
+    "</string>
     <string name="meeting_canceled">"
         Cancel·lat: 
 %s "</string>
     <string name="meeting_declined">"
         Rebutjat: 
 %s "</string>
+    <string name="meeting_recurring">"
+        Quan:
+        %s
+        (recurrent)
+    "</string>
     <string name="meeting_responded_failed">Sense resposta</string>
     <string name="meeting_tentative">"
         Temptatiu: 
@@ -705,6 +725,14 @@ Confirmeu si la contrasenya de l'aplicació està activada; si està activada, a
     <string name="meeting_updated">"
         Actualitzat: 
 %s "</string>
+    <string name="meeting_when">"
+        Quan:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        On:
+        %s
+    "</string>
     <string name="menu_att_mgr">Fitxers adjunts</string>
     <string name="menu_att_mgr_order_default">Vist recentment</string>
     <string name="menu_att_mgr_order_mime">Format</string>
@@ -785,6 +813,7 @@ Proveu a canviar a un compte de correu diferent."</string>
     <string name="notification_action_undo_archive">Arxivat</string>
     <string name="notification_action_undo_delete">Eliminat</string>
     <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
+    <string name="notification_exchange_calendar_added">Calendari de l\'Exchange afegit</string>
     <string name="notify_channel_new_mail">Notifica els missatges nous</string>
     <string name="notify_channel_no_disterb">Mode No molestis</string>
     <string name="notify_channel_permission_notice">Permisos necessaris</string>
@@ -1229,6 +1258,7 @@ Toqueu\"<b>Sincronitza ara</b> per sincronitzar el correu una vegada o <b>Canvie
     <string name="wait_for_sync_title">A l\'espera de sincronització</string>
     <string name="wait_help_context">espera</string>
     <string name="wait_while_update_db">S\'està actualitzant la base de dades…</string>
+    <string name="web_view_load_error_tip">S\'han produït alguns problemes i el cos d\'aquest correu electrònic no es pot mostrar correctament. Si teniu aquest problema, afegiu el grup QQ 952315061 per enviar-nos comentaris.</string>
     <string name="webview_logout">Podeu tornar a iniciar la sessió</string>
     <string name="webview_logout_cancel">No ho tornaré a provar</string>
     <string name="webview_logout_sure">Torna-ho a provar</string>

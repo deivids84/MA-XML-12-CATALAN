@@ -120,6 +120,8 @@
     <string name="remote_phonebook_feature_downgrade">Reverteix la funció de la guia telefònica remota</string>
     <string name="repair_for_adv_phonebook_feature">Torneu a vincular per a les funcions avançades de la guia telefònica</string>
     <string name="repair_for_phonebook_access_version_comp">Torneu a vincular per a la compatibilitat de la versió d\'accés a la guia telefònica</string>
+    <string name="snapdragon_sound_notification_content">Aquest dispositiu admet la tecnologia Qualcomm® Snapdragon Sound ™</string>
+    <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="start_server">Inicia el servidor TCP</string>
     <string name="status_canceled">Transferència cancel·lada per l’usuari.</string>
     <string name="status_connection_error">Connexió incorrecta.</string>

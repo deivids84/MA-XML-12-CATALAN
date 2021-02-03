@@ -73,6 +73,7 @@
     <string name="ew_detail_receive_location_title">Ubicació</string>
     <string name="ew_detail_receive_time_title">Hora d\'inici</string>
     <string name="ew_detail_receive_warn_time_title">Temps abans de l’inici</string>
+    <string name="ew_save_title">Desa</string>
     <string name="ew_share_logo_title">Advertència de terratrèmols</string>
     <string name="ew_share_save_tips">S\'ha desat a %s</string>
     <string name="ew_share_title">Comparteix</string>

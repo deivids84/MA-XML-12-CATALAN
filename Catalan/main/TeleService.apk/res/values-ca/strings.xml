@@ -1365,7 +1365,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="msim_setting_pop_text">Seleccioneu una targeta SIM per marcar</string>
     <string name="msim_setting_screen_title">Targetes SIM i xarxes mòbils</string>
     <string name="msim_setting_set_package">Seleccioneu un pla</string>
-    <string name="msim_setting_sim_info_editor_title">Ediat informació de targeta</string>
+    <string name="msim_setting_sim_info_editor_title">Edita la informació de la SIM</string>
     <string name="msim_sim_lock">Bloquejada</string>
     <string name="msim_sim_radio_off">Desactivat</string>
     <string name="msim_switch_data_conn_toast">S\'han bescanviat les targetes SIM. El tipus de xarxa ha canviat. Consulteu informació addicional a targes SIM i xarxes mòbils del menú de configuració.</string>

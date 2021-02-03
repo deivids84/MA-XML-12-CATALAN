@@ -29,6 +29,7 @@
     <string name="Setting_lock">Configuració</string>
     <string name="Settings_title_anti_spam">Configuració de llista de bloqueig</string>
     <string name="Settings_title_anti_virus">Configuració d\'antivirus</string>
+    <string name="Settings_title_anti_virus_kddi">Configuració de l\'escaneig de seguretat</string>
     <string name="Settings_title_garbage_cleanup">Configuració del netejador</string>
     <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
     <string name="Settings_title_power_center">Configuració de bateria</string>
@@ -99,6 +100,7 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="activity_title_antispam">Llista de bloqueig</string>
     <string name="activity_title_antivirus">Escaneig de seguretat</string>
+    <string name="activity_title_antivirus_kddi">Escaneig de seguretat</string>
     <string name="activity_title_apps_manager">Aplicacions</string>
     <string name="activity_title_auto_start_manager">Inici automàtic</string>
     <string name="activity_title_create_shortcut">Gestiona les dreceres</string>
@@ -184,9 +186,12 @@
     <string name="antivirus_privacy_dialog_cloudscan_description">"Per detectar i neutralitzar els virus de manera més eficaç, penjarem els noms i les propietats dels paquets de les aplicacions per escanejar-los mitjançant un motor en núvol."</string>
     <string name="antivirus_privacy_dialog_ok">D\'acord</string>
     <string name="antivirus_privacy_dialog_summary"><Data>Aquesta funció funciona amb un motor antivirus de tercers. Per obtenir més informació, llegiu el &lt;a href=\"%1$s\"&gt;Acord de llicència&lt;/a&gt; proporcionat pel tercer.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>\"Quan s\'està fent un escaneig de seguretat, el seu model de dispositiu i els resultats de l\'anàlisi pujaran als servidors %1$s i s\'utilitzaran d\'acord amb els corresponents &lt;a href=\"%2$s\"&gt;termes i condicions&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Llegiu i accepteu els termes i condicions de %3$s abans de realitzar l\'escaneig de seguretat.&lt;br/&gt;&lt;br/&gt;Si no accepteu carregar les dades als servidors de %4$s, podeu utilitzar les definicions de virus emmagatzemades localment al dispositiu.\"</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">mostra la política de privadesa</string>
     <string name="antivirus_privacy_dialog_title">Política de privadesa</string>
+    <string name="antivirus_privacy_dialog_title_kddi">Termes i condicions</string>
     <string name="antivirus_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que Seguretat es connecti a Internet?"</string>
+    <string name="antivirus_third_privacy_title">Polítiques de privadesa de tercers</string>
     <string name="antivirus_toast_already_update">Actualitzat</string>
     <string name="antivirus_toast_network_unavailable">"No s'ha pogut connectar a la xarxa"</string>
     <string name="antivirus_toast_update_failed">"No s'ha pogut actualitzar"</string>
@@ -2040,6 +2045,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="menu_summary_power_manager_4">%s fins a carregar-se</string>
     <string name="menu_text_antispam">Llista de bloqueig</string>
     <string name="menu_text_antivirus">Escaneig de seguretat</string>
+    <string name="menu_text_antivirus_kddi">Escaneig de seguretat</string>
     <string name="menu_text_deepclean_summary">%1$s/%2$s ocupats</string>
     <string name="menu_text_garbage_cleanup">Netejador</string>
     <string name="menu_text_garbage_cleanup_danger">%s d\'escombraries</string>
@@ -2613,8 +2619,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_battery_detail">Detalls</string>
     <string name="power_center_battery_duration">Temps restant</string>
     <string name="power_center_battery_hardware">Maquinari %s</string>
-    <string name="power_center_battery_health_poor_tip">Sembla que la salut de la bateria és baixa. Comproveu la bateria en un centre de serveis autoritzat</string>
-    <string name="power_center_battery_health_summary">Carregui i descarregui completament el dispositiu %1$d-%2$d vegades per millorar l\'exactitud de les estadístiques de salut de la bateria</string>
+    <string name="power_center_battery_health_poor_tip">La bateria no sembla que estigui gaire bé. Feu-la revisar en un servei tècnic autoritzat.</string>
+    <string name="power_center_battery_health_summary">Carregueu i descarregueu completament el dispositiu %1$d-%2$d vegades per millorar l\'exactitud de les estadístiques de salut de la bateria</string>
     <string name="power_center_battery_last">%s restant</string>
     <string name="power_center_battery_level">%s carregat</string>
     <string name="power_center_battery_level_general">Normal</string>
@@ -3317,7 +3323,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="setting_online_service">Serveis en línia</string>
     <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
     <string name="settings">Configuració d\'ús de dades</string>
-    <string name="settings_battery_consume_abnormal_summary">Recepció de notificacions quan la bateria es descarregui ràpidament</string>
+    <string name="settings_battery_consume_abnormal_summary">Rebreu notificacions quan la bateria es descarregui ràpidament</string>
     <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
     <string name="settings_camera_subtitle_no">Sense metadades</string>
     <string name="settings_category_other">Altres paràmetres</string>

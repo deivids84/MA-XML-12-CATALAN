@@ -481,7 +481,7 @@
     <string name="quick_note_new_user_guide">Les notes ràpides us permeten crear notes i fragments</string>
     <string name="recover_notes_hint">Ha ocorregut un error, vés a i.mi.com per restaurar les notes.</string>
     <string name="redo">Refer</string>
-    <string name="refuse_to_open_as_pic_because_of_loading">Espereu fins que la nota es carregui i torneu-ho a provar.</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">Espereu fins que es carregui la nota i torneu-ho a provar.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Aquesta nota és massa gran per compartir-la.</string>
     <string name="remind_title">Recordatoris</string>
     <string name="rename_folder_dialog_tile">Canvia el nom a la carpeta</string>

@@ -595,6 +595,7 @@ Selecció"</string>
     <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
     <string name="connected_via_passpoint">Connectat a través de %1$s</string>
     <string name="content_description_menu_button">Menú</string>
+    <string name="control_center_notification_switch_guide">Llisqueu el dit per canviar entre el centre de control i l\'àrea de notificacions</string>
     <string name="controls_added_tooltip">Manteniu premut el botó d\'engegada per veure nous controls</string>
     <string name="controls_confirmation_confirming">Confirmant…</string>
     <string name="controls_confirmation_message">Confirmeu el canvi per a %s</string>

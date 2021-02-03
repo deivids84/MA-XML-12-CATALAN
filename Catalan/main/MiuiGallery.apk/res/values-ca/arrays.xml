@@ -134,8 +134,11 @@
         <item>Ombra de colors</item>
         <item>Ona elèctrica</item>
         <item>Actual</item>
+        <item>Onades</item>
+        <item>Partícules</item>
         <item>Text</item>
         <item>Ales</item>
+        <item>Àngel</item>
     </string-array>
     <string-array name="magic_idp_size_category">
         <item>General</item>

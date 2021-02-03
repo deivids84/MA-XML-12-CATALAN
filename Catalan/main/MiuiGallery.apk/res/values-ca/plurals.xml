@@ -149,8 +149,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Els collages poden contenir 1-%d fotos</item>
-        <item quantity="one">Els collages poden contenir 1-%d foto</item>
+        <item quantity="other">Els collages poden contenir entre %1$d i %2$d fotos</item>
+        <item quantity="one">Els collages poden contenir %1$d-%2$d foto</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Seleccioneu fins a %d fotos</item>
@@ -168,10 +168,6 @@
         <item quantity="other">Voleu suprimir %d rafegues?</item>
         <item quantity="one">Voleu suprimir %d ràfega?</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Voleu suprimir %d rafegues de Xiaomi Cloud i d\'aquest dispositiu?</item>
-        <item quantity="one">Voleu suprimir %d rafega de Xiaomi Cloud i d\'aquest dispositiu?</item>
-    </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d elements suprimits</item>
         <item quantity="one">%d element suprimit</item>
@@ -184,21 +180,9 @@
         <item quantity="other">Voleu eliminar %d elements?</item>
         <item quantity="one">Voleu eliminar %d element?</item>
     </plurals>
-    <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Voleu eliminar %d elements d\'aquest àlbum i del Mi Cloud?</item>
-        <item quantity="one">Voleu eliminar %d element d\'aquest àlbum i del Mi Cloud?</item>
-    </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Voleu eliminar %d fotos de tots els dispositius i del Mi Cloud?</item>
         <item quantity="one">Voleu eliminar aquesta foto de tots els dispositius i del Mi Cloud?</item>
-    </plurals>
-    <plurals name="delete_photo_from_local">
-        <item quantity="other">Voleu eliminar %d fotos?</item>
-        <item quantity="one">Voleu eliminar aquesta foto?</item>
-    </plurals>
-    <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Voleu eliminar %d fotos d\'aquest àlbum i del Mi Cloud?</item>
-        <item quantity="one">Voleu eliminar aquesta foto d\'aquest àlbum i del Mi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Voleu suprimir %d rafegues d\'aquest dispositiu?</item>
@@ -207,14 +191,6 @@
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Voleu eliminar %d vídeos de tots els dispositius i del Mi Cloud?</item>
         <item quantity="one">Voleu eliminar aquest vídeo de tots els dispositius i del Mi Cloud?</item>
-    </plurals>
-    <plurals name="delete_video_from_local">
-        <item quantity="other">Voleu eliminar %d vídeos?</item>
-        <item quantity="one">Voleu eliminar aquest vídeo?</item>
-    </plurals>
-    <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Voleu eliminar %d vídeos d\'aquest àlbum i del Mi Cloud?</item>
-        <item quantity="one">Voleu eliminar aquest vídeo d\'aquest àlbum i del Mi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"No es poden baixar %1$d fitxers"</item>

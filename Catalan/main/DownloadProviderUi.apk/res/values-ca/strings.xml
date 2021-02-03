@@ -169,6 +169,7 @@
     <string name="downloads_operating">En procés&#8230;</string>
     <string name="dredge_xunlei_account">Crea un compte Xunlei</string>
     <string name="edit_hint">Introdueix http, torrent, o adreça d\'eMule</string>
+    <string name="edit_hint2">Introduïu un enllaç HTTP, FTP, magnet o ed2k</string>
     <string name="editmode_menu_delete">Suprimeix</string>
     <string name="editmode_menu_share">Compartir</string>
     <string name="engine_open">Obre\'l</string>
@@ -253,6 +254,7 @@
     <string name="network_error">"No es pot connectar a la xarxa"</string>
     <string name="new_add">Nova baixada</string>
     <string name="new_add_bt">Afegeix torrent</string>
+    <string name="new_add_bt2">Afegeix una tasca de torrent</string>
     <string name="no_downloads">No hi ha fitxers</string>
     <string name="no_file_hint">La tasca de baixada d\'aquest fitxer ja existeix</string>
     <string name="no_net">"No s'ha pogut connectar a la xarxa"</string>
@@ -446,6 +448,7 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="subbt_pause">En pausa</string>
     <string name="subbt_wait">S\'està esperant…</string>
     <string name="subfile_list">Arxius</string>
+    <string name="task_add">S\'està afegint la tasca…</string>
     <string name="task_detail">Tasques</string>
     <string name="task_detail_notfound_confirm">D\'acord</string>
     <string name="task_fail">"No s'ha pogut completar l'operació"</string>

@@ -87,6 +87,7 @@
     <string name="bh_buy_now">Compra</string>
     <string name="bh_call_used">Minuts usats</string>
     <string name="bh_cancel">Cancel·la</string>
+    <string name="bh_cannot_action">"No s'ha pogut utilitzar %1$s. Instal·leu primer l'aplicació corresponent."</string>
     <string name="bh_cannot_fetch_num">Número de telèfon desconegut</string>
     <string name="bh_cannot_login_miacount">"No s'ha pogut iniciar la sessió al Compte Mi"</string>
     <string name="bh_charge_confirm">Voleu afegir %2$s CNY a %1$s?</string>
@@ -130,6 +131,7 @@
     <string name="bh_option_agree_dec">Permet que Mi Carrier Services es connecti a Internet i concedeixi els permisos necessaris abans d\'utilitzar l\'aplicació.</string>
     <string name="bh_order_id">Identificador de la comanda</string>
     <string name="bh_order_loading">Només un segon…</string>
+    <string name="bh_order_pay">Pagament</string>
     <string name="bh_order_time">Temps de transacció</string>
     <string name="bh_other_charge">Un altre número de telèfon</string>
     <string name="bh_other_operator">Altres transportistes</string>
