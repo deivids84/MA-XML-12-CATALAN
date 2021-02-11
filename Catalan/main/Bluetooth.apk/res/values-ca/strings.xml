@@ -50,6 +50,7 @@
     <string name="bt_toast_5">S\'estan enviant %1$s fitxers a \"%2$s\"</string>
     <string name="bt_toast_6">S\'ha deixat d\'enviar el fitxer a \"%1$s\"</string>
     <string name="btopp_live_folder">Rebut per Bluetooth</string>
+    <string name="defaultname">Carkit</string>
     <string name="deleteAll_record">Suprimeix tots els registres</string>
     <string name="delete_record">Suprimeix el registre</string>
     <string name="download_cancel">Atura</string>

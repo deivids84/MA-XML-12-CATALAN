@@ -11,6 +11,11 @@
         <item>Xarxa domèstica</item>
         <item>Totes les xarxes</item>
     </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>HOT</item>
+        <item>WARM</item>
+        <item>COLD</item>
+    </string-array>
     <string-array name="ai_item_action_array">
         <item>Cap</item>
         <item>Activa Google Assistant</item>
@@ -458,6 +463,297 @@
         <item>Brillar</item>
         <item>Onada</item>
     </string-array>
+    <string-array name="city_name">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Abeba</item>
+        <item>Alger</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>El Caire</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadiscio</item>
+        <item>Nairobi</item>
+        <item>São Tomé</item>
+        <item>Timbuctu</item>
+        <item>Trípoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotà</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Illes Caiman</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominica</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guaiana</item>
+        <item>Halifax</item>
+        <item>L’Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox City</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinica</item>
+        <item>Metlakatla</item>
+        <item>Ciutat de Mèxic</item>
+        <item>Monterrey</item>
+        <item>Montevideo</item>
+        <item>Mont-real</item>
+        <item>Nassau</item>
+        <item>Nova York</item>
+        <item>Beulah</item>
+        <item>New Salem</item>
+        <item>Panamà</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>Santo Domingo</item>
+        <item>Sao Paulo</item>
+        <item>Saint John\'s</item>
+        <item>Saint Kitts</item>
+        <item>Saint Lucia</item>
+        <item>Illa de Saint Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Pol Sud</item>
+        <item>Longyearbyen</item>
+        <item>Almati</item>
+        <item>Amman</item>
+        <item>Anàdir</item>
+        <item>Akhtau</item>
+        <item>Bagdad</item>
+        <item>Bahrain</item>
+        <item>Bakú</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Calcuta</item>
+        <item>Damasc</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kàtmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>Macau</item>
+        <item>Manila</item>
+        <item>Masqat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riad</item>
+        <item>Seül</item>
+        <item>Xangai</item>
+        <item>Singapur</item>
+        <item>Taipei</item>
+        <item>Teheran</item>
+        <item>Tel Aviv</item>
+        <item>Tòquio</item>
+        <item>Ulan Bator</item>
+        <item>Bermudes</item>
+        <item>Illes Canàries</item>
+        <item>Cap Verd</item>
+        <item>Reykjavík</item>
+        <item>Adelaida</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>Nova Gal·les del Sud</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victòria</item>
+        <item>Terranova</item>
+        <item>Saskatchewan</item>
+        <item>Illa de Pasqua</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Atenes</item>
+        <item>Belfast</item>
+        <item>Belgrad</item>
+        <item>Berlín</item>
+        <item>Bratislava</item>
+        <item>Brussel·les</item>
+        <item>Bucarest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhaguen</item>
+        <item>Dublín</item>
+        <item>Gibraltar</item>
+        <item>Hèlsinki</item>
+        <item>Illa de Man</item>
+        <item>Istanbul</item>
+        <item>Lisboa</item>
+        <item>Londres</item>
+        <item>Luxemburg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Mònaco</item>
+        <item>Moscou</item>
+        <item>Oslo</item>
+        <item>París</item>
+        <item>Praga</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferòpol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Estocolm</item>
+        <item>Tallinn</item>
+        <item>Ciutat del Vaticà</item>
+        <item>Viena</item>
+        <item>Vílnius</item>
+        <item>Varsòvia</item>
+        <item>Zagreb</item>
+        <item>Zuric</item>
+        <item>Antananarivo</item>
+        <item>Maldives</item>
+        <item>Maurici</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Nouméa</item>
+        <item>Samoa</item>
+        <item>Tahití</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Filadèlfia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San José</item>
+        <item>Seattle</item>
+        <item>Saint Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>Nova Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Doha</item>
+        <item>Pequín</item>
+        <item>Bombai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>"Sanà"</item>
+        <item>Barcelona</item>
+        <item>Munic</item>
+        <item>Milà</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Ciutat del Cap</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Canton</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago de Xile</item>
+        <item>Monròvia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kíev</item>
+        <item>St. Petersburg</item>
+        <item>Cracòvia</item>
+        <item>Breslau</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
         <item>Colors naturals tal com els veu l\'ull humà</item>
@@ -902,6 +1198,12 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>No ho permetis mai</item>
         <item>Permet-ho sempre</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Desactivat</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
         <item>64 KB per buffer de registre</item>
@@ -930,13 +1232,13 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Desactivat</item>
         <item>Totes les memòries intermèdies de registre</item>
         <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
-        <item>Kernel log buffer only</item>
+        <item>Només memòria intermèdia del registre del nucli</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivat</item>
         <item>Tots</item>
         <item>Tot excepte la ràdio</item>
-        <item>Kernel only</item>
+        <item>Només el nucli</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Apagat</item>

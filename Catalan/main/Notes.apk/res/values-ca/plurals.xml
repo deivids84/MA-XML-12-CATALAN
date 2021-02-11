@@ -84,6 +84,10 @@
         <item quantity="other">d\'aquí a %d minuts</item>
         <item quantity="one">d\'aquí a 1 minut</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s elements</item>
+        <item quantity="one">%1$s element</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>

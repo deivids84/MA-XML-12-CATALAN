@@ -306,6 +306,7 @@
     <string name="notif_weather_title">Avui %1$s en %2$s</string>
     <string name="other_settings">Altres configuracions</string>
     <string name="particulate_matter_exceeded">Alta</string>
+    <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Massa alta</string>
     <string name="permission_device_info">Informació del dispositiu</string>
     <string name="permission_device_introduce">Per reconèixer la identificació de dispositiu basada en el model de dispositiu i l\'IMEI, i proporcionar serveis localitzats en funció de les preferències d\'idioma</string>

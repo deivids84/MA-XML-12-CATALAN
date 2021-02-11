@@ -177,6 +177,7 @@
     <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperat al baixar una imatge.</string>
     <string name="com_facebook_internet_permission_error_message">L\'inici de sessió al WebView requereix permís INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Error d\'AndroidManifest</string>
     <string name="com_facebook_like_button_liked">Agradat</string>
     <string name="com_facebook_like_button_not_liked">M\'agrada</string>
     <string name="com_facebook_loading">S\'està carregant…</string>
@@ -598,7 +599,10 @@ Envieu aquest codi al supervisor."</string>
     <string name="lv_subtitle_no_subtitle">"Els subtítols no estan disponibles"</string>
     <string name="lv_subtitle_non_subtitle_file">No hi ha fitxers de subtítols disponibles</string>
     <string name="lv_subtitle_offset_add_1s">+ 1s</string>
+    <string name="lv_subtitle_offset_add_dot5s">+0,5s</string>
     <string name="lv_subtitle_offset_normal">"No moveu subtítols"</string>
+    <string name="lv_subtitle_offset_sub_1s">-1s</string>
+    <string name="lv_subtitle_offset_sub_dot5s">-0,5s</string>
     <string name="lv_subtitle_onlinesub_language">Idioma: %s</string>
     <string name="lv_subtitle_onlinesub_loading">S\'estan carregant subtítols…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">S\'estan carregant subtítols…</string>
@@ -707,6 +711,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="ok">D\'acord</string>
     <string name="on_tip_firework_recommend">"Rebràs recomanacions de contingut personalitzat de Firework"</string>
     <string name="open_settings">Configuració</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
     <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>

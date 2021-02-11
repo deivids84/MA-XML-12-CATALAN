@@ -156,6 +156,7 @@
     <string name="date_interval_description">Coneixeu quants dies hi ha entre 2 dates</string>
     <string name="date_interval_end">A</string>
     <string name="date_interval_start">Des de</string>
+    <string name="date_interval_tab">Interval</string>
     <string name="date_interval_text_to">A %1$s</string>
     <string name="date_jump_title">Vés a la data</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
@@ -344,6 +345,7 @@
     <string name="import_help">Ajuda</string>
     <string name="import_text">Importa</string>
     <string name="imported">Importat</string>
+    <string name="insert_event_dialog_btn_negative">No</string>
     <string name="insert_event_dialog_btn_positive">Sí</string>
     <string name="insert_event_dialog_message">Voleu afegir aquest esdeveniment al calendari?</string>
     <string name="insert_event_dialog_title">Atenció</string>
@@ -371,6 +373,7 @@
     <string name="lunar_date">Data lunar</string>
     <string name="lunar_date_content_desc">Data segons el calendari tradicional xinès</string>
     <string name="lunar_to_solar_chinese_calendar">De Xinès a Gregorià</string>
+    <string name="menu_general_preferences">General</string>
     <string name="menu_reminder_preferences">Recordatoris</string>
     <string name="midnight">Nit</string>
     <string name="missing_name">(Sense nom)</string>
@@ -622,6 +625,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="repeat_label_week">Setmana</string>
     <string name="repeats_label">Repeteix</string>
     <string name="response_maybe">Potser</string>
+    <string name="response_no">No</string>
     <string name="response_yes">Sí</string>
     <string name="rest_day_indication">:)</string>
     <string name="saturday">Dissabte</string>
@@ -809,6 +813,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="train_event_station_header_depart_time">Surt</string>
     <string name="train_event_station_header_name">Estació</string>
     <string name="train_event_station_header_stay_time">Temps de parada</string>
+    <string name="train_event_station_stay_time">%1$s min</string>
     <string name="travel_carriage_number_text">Cotxe</string>
     <string name="travel_event_add_successfully">S\'ha creat l\'esdeveniment</string>
     <string name="travel_event_title_flight">Vol: %1$s-%2$s %3$s</string>

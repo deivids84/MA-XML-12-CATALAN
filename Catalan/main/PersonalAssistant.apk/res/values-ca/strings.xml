@@ -100,6 +100,7 @@
     <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
     <string name="alipay_sdk_tiemout">La sessió ha expirat. Torneu-la a iniciar.</string>
     <string name="all_function_title">Totes les dreceres</string>
+    <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Completat:</string>
     <string name="am">am</string>
     <string name="announce_for_drag">Arrossegant un element</string>
@@ -1856,6 +1857,7 @@ Comproveu el número de seguiment."</string>
     <string name="wx_scan">Escàner</string>
     <string name="xiaomi_search_label">Cerca</string>
     <string name="xspace_resolver_activity_title">Selecciona l\'aplicació</string>
+    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
     <string name="yesterday">Ahir</string>
 </resources>

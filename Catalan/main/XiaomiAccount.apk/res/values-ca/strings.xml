@@ -49,6 +49,7 @@
     <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
     <string name="account_mibi_center">Crèdits Mi</string>
     <string name="account_mibi_charge">Recàrrega</string>
+    <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">Cap</string>
     <string name="account_none">Cap</string>
     <string name="account_none_binded_info">Cap</string>
@@ -361,6 +362,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
     <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
     <string name="passport_get_innetdate_agree">Comprova</string>
+    <string name="passport_get_innetdate_disagree">No</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Sembla&lt;/font&gt; que l\'operador ha reciclat el número %s. Voleu comprovar quan el número estigui en línia?</string>
     <string name="passport_get_innetdate_title">Comprova quan el número està en línia</string>
     <string name="passport_get_verify_code">Obtén el codi</string>
@@ -393,12 +395,14 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_login_other_phone">Utilitzeu un altre compte</string>
     <string name="passport_login_other_way">Altres maneres d\'iniciar la sessió</string>
     <string name="passport_login_prompt">Tots els serveis Mi. Un compte Mi.</string>
+    <string name="passport_login_recycle_account_no">No</string>
     <string name="passport_login_recycle_account_yes">Sí</string>
     <string name="passport_login_title">Inicieu la sessió al vostre compte de Mi</string>
     <string name="passport_login_using_other_ways">Altres maneres d’iniciar la sessió</string>
     <string name="passport_message_dialog_title">SMS amb codis de verificació</string>
     <string name="passport_new_user_register">Crea un compte</string>
     <string name="passport_next">Següent</string>
+    <string name="passport_no">No</string>
     <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
     <string name="passport_password_phone_login">Inicieu la sessió mitjançant el compte Mi</string>
     <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
@@ -429,6 +433,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_reg_failed">"No es pot configurar el compte"</string>
     <string name="passport_reg_new_account">Crea un compte</string>
     <string name="passport_reg_prompt">"No teniu cap compte Mi? Creeu-ne un de franc."</string>
+    <string name="passport_reg_recycle_account_no">No</string>
     <string name="passport_reg_recycle_account_yes">Sí</string>
     <string name="passport_reg_success">S\'ha creat el compte</string>
     <string name="passport_reg_success_summary">%1$s ha estat vinculat amb el vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la vostra contrasenya.</string>

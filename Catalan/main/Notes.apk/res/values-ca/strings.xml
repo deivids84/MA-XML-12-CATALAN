@@ -689,10 +689,10 @@ Permeteu a Notes enregistrar àudio."</string>
     <string name="todo_edit_btn_today">Avui</string>
     <string name="todo_edit_btn_tomorrow">Demà</string>
     <string name="todo_edit_text_hint">Introduïu la descripció de la tasca</string>
-    <string name="todo_event_description_a_week_ago">Fa 1 setmana</string>
-    <string name="todo_event_description_a_week_later">En 1 setmana</string>
-    <string name="todo_event_description_day_after_tomorrow">En 2 dies</string>
-    <string name="todo_event_description_day_before_yesterday">Fa 2 dies</string>
+    <string name="todo_event_description_a_week_ago">Fa %1$d setmana</string>
+    <string name="todo_event_description_a_week_later">D\'aquí %1$d setmana</string>
+    <string name="todo_event_description_day_after_tomorrow">D\'aquí %1$d dies</string>
+    <string name="todo_event_description_day_before_yesterday">Fa %1$d dies</string>
     <string name="todo_event_description_today">Avui</string>
     <string name="todo_event_description_tomorrow">Demà</string>
     <string name="todo_event_description_yesterday">Ahir</string>
@@ -750,7 +750,7 @@ Permeteu a Notes enregistrar àudio."</string>
     <string name="toolbar_undo_description">Desfés</string>
     <string name="toolbar_voice_description">Veu</string>
     <string name="trash_folder_name">Paperera</string>
-    <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
+    <string name="trash_folder_reminder">Les notes que suprimiu se suprimiran permanentment d\'aquí a %1$d dies.</string>
     <string name="trash_folder_reminder_new">Les notes es conserven a la paperera durant %d dies abans de suprimir-les definitivament</string>
     <string name="tuesday">Dimarts</string>
     <string name="tuesday_short">Dt.</string>

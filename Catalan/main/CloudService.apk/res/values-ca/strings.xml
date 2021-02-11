@@ -236,6 +236,7 @@
     <string name="micloud_confusion_finish_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
     <string name="micloud_confusion_finish_message">Desactiveu la sincronització amb altres dispositius.</string>
     <string name="micloud_confusion_finish_title">Compte verificat</string>
+    <string name="micloud_confusion_no">No</string>
     <string name="micloud_confusion_ok">D\'acord</string>
     <string name="micloud_confusion_setting_notify_text">Desactiveu la sincronització amb altres dispositius associats al vostre compte.</string>
     <string name="micloud_confusion_setting_notify_title">Protegeix el teu compte</string>

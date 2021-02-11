@@ -453,6 +453,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="private_dns_mode_provider">Nom d\'amfitrió del proveïdor del DNS privat</string>
     <string name="private_dns_mode_provider_failure">"No s'ha pogut connectar"</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduïu el nom d\'amfitrió del proveïdor DNS</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problema de connexió. Torneu a desactivar el dispositiu &amp;</string>
     <string name="profile_info_settings_title">Informació del perfil</string>
     <string name="record_system_activity">Enregistreu l\'activitat del sistema i analitzeu-la més tard per millorar el rendiment</string>
@@ -554,6 +555,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="tts_default_pitch_title">Timbre</string>
     <string name="tts_default_rate_summary">Velocitat que es parla el text</string>
     <string name="tts_default_rate_title">Velocitat de la veu</string>
+    <string name="tts_default_sample_string">Això és un exemple de síntesi de veu</string>
     <string name="tts_engine_network_required">Per aquest idioma cal una connexió de xarxa activa per a la sortida de síntesi de veu.</string>
     <string name="tts_engine_preference_section_title">Base predeterminada</string>
     <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>

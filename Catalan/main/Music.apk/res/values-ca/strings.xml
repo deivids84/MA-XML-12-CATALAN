@@ -391,6 +391,7 @@
     <string name="exo_media_action_repeat_one_description">Repeteix una vegada</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alternat</string>
+    <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentari</string>
     <string name="exo_track_role_supplementary">Suplementari</string>
     <string name="exo_track_selection_auto">Auto</string>
@@ -521,6 +522,7 @@
     <string name="home_tab_online">Música en línia</string>
     <string name="home_tab_recommend">En línia</string>
     <string name="home_tab_search">Cerca</string>
+    <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Només els membres PRO poden baixar diverses cançons. Voleu ser membre PRO?</string>
     <string name="hungama_batch_download_alert_summary_toast">Obteniu una subscripció per baixar la llista de reproducció completa.</string>
     <string name="hungama_category_chart">Llistes</string>

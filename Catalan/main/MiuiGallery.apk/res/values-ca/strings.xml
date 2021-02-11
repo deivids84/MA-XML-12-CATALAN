@@ -488,6 +488,7 @@
     <string name="collage_title_poster">Pòster</string>
     <string name="collage_title_stitching">Rotlle de pel·lícula</string>
     <string name="collaps_people">Amaga</string>
+    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
     <string name="confirm">D\'acord</string>
     <string name="confirm_cancel_task_files">Voleu cancel·lar l\'enviament de fitxers a %1$s?</string>
     <string name="confirm_cancel_task_images">Vols cancel·lar l\'enviament d\'imatges a %1$s?</string>
@@ -632,6 +633,7 @@
     <string name="enable_face_album_summary">Ordena automàticament les fotos per les persones que hi apareixen</string>
     <string name="enable_face_album_title">Ordena per persones</string>
     <string name="enable_midrop">Activa</string>
+    <string name="enter_choice_mode">Diàleg compartit introduït</string>
     <string name="enter_email_hint">Introduïu l\'adreça de correu</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
@@ -698,6 +700,7 @@
     <string name="error_unknown_tip">S\'ha produït un error.</string>
     <string name="evening">Tarda</string>
     <string name="exit">Surt</string>
+    <string name="exit_choice_mode">Left Share dialog</string>
     <string name="exit_share">Surt de l\'àlbum</string>
     <string name="exit_share_failed">"No es pot sortir de %1$s"</string>
     <string name="exit_share_in_process">S\'està sortint&#8230;</string>
@@ -1198,6 +1201,7 @@ per personalitzar la galeria"</string>
     <string name="merge_album">Combina</string>
     <string name="merge_album_title">Combina amb una persona</string>
     <string name="messagelist_sender_self">Jo</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="micloud_introduce">Còpia de seguretat automàtica de fotos i vídeos (es necessita un compte Mi)</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
@@ -1349,12 +1353,14 @@ per personalitzar la galeria"</string>
     <string name="new_relation_invalid_prefix">"Els noms de grup no poden començar per «.» o «_»"</string>
     <string name="next">Següent</string>
     <string name="night">Vespre</string>
+    <string name="no">No</string>
     <string name="no_ignore_faces">No hi ha gent aquí</string>
     <string name="no_map_app">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
     <string name="no_network_connect">"No s'ha pogut completar l'acció. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="no_network_connected">No s\'ha detectat cap xarxa</string>
     <string name="noon">Migdia</string>
     <string name="not_ask_any_more">"No tornis a demanar respostes de «%s»"</string>
+    <string name="not_is">No</string>
     <string name="not_remind_again">"No ho mostris més"</string>
     <string name="not_remind_any_more">"No ho mostris més"</string>
     <string name="not_set">Sense especificar</string>
@@ -1381,6 +1387,7 @@ per personalitzar la galeria"</string>
     <string name="ok">D\'acord</string>
     <string name="onekey_auto">Automàtic</string>
     <string name="onekey_food">Menjar</string>
+    <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Vertical</string>
     <string name="onekey_scene">Horitzontal</string>
     <string name="online_video_error_unknown">S\'ha produït un error en la reproducció en línia. En el seu lloc, s\'ha baixat l\'element.</string>
@@ -1485,12 +1492,14 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_editor_adjust">Ajusta</string>
     <string name="photo_editor_beautify">Embellidor</string>
     <string name="photo_editor_beautify_auto">Automàtic</string>
+    <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_common_download_failed">"No s'ha pogut baixar el connector. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="photo_editor_common_download_finish">S\'ha baixat el connector correctament</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Sembla que no esteu connectat a la Wi-Fi. Voleu baixar el complement (%1$d MB) amb les dades mòbils?"</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Baixa el complement</string>
     <string name="photo_editor_compare_tip">Mantingueu premut per veure la imatge original</string>
     <string name="photo_editor_crop_and_rotate">Escapça</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Es retalla automàticament</string>
     <string name="photo_editor_crop_reset">Restableix</string>
     <string name="photo_editor_doodle">Gargot</string>
@@ -2116,6 +2125,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_not_download">No es troba al dispositiu. Es baixarà de Mi Cloud mentre es reprodueix.</string>
     <string name="tip_screenshot_package_info">Nom de l\'aplicació:</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="title_set_name">Introduïu el nom</string>
     <string name="title_tip">Pista</string>
     <string name="title_warn">Advertència</string>

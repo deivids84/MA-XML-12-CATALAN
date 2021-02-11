@@ -105,6 +105,7 @@
     <string name="i_know">Entesos</string>
     <string name="location_enabled">Mi Share va activar els serveis d’ubicació per cercar dispositius a prop</string>
     <string name="menu_item_privacy_title">Política de privadesa</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="mishare_folder_in_file_explorer">Gestor de fitxers &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notificacions sobre processos de Mi Share</string>
     <string name="mishare_settings_summary_international">"Mi Share us permet enviar elements sense fils a altres dispositius propers.
@@ -183,4 +184,6 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="wait_remote_receive_tips">S\'està esperant…</string>
     <string name="wifi_is_not_enabled">En primer lloc, activeu la wifi</string>
     <string name="wifi_is_not_enabled_china">Activeu primer la Wi-Fi</string>
+    <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
+    <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
 </resources>

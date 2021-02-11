@@ -40,6 +40,7 @@
     <string name="am">am</string>
     <string name="ambient_display_screen_title">Sempre en pantalla</string>
     <string name="ambient_display_screen_title_sp">Pantalla ambiental</string>
+    <string name="animation_clock_panel">Esfera d’ona</string>
     <string name="aod_close_color_inversion">"Aquesta funció no es pot combinar amb la inversió del color. Desactiveu primer la inversió de color."</string>
     <string name="aod_component">Elements visualitzats</string>
     <string name="aod_dual_clock_date">HH:mm dd/MM</string>

@@ -233,6 +233,7 @@
     <string name="service_name_compass">Brúixola</string>
     <string name="service_name_content_center">Centre de contingut</string>
     <string name="service_name_download">Baixades</string>
+    <string name="service_name_fast_application">Marc d\'aplicacions ràpides</string>
     <string name="service_name_fast_pairing">Enllaç meu</string>
     <string name="service_name_game">Complement de jocs</string>
     <string name="service_name_google_service">Declaració sobre els serveis de Google</string>

@@ -106,6 +106,8 @@
     <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
     <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l'autenticació de dos factors es desactivarà. Si no veieu l'opció de desactivar l'autenticació de dos factors a la pàgina del compte d'ID d'Apple, no podreu desactivar-la."</string>
+    <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin per tancar"</string>
     <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Accediu a l\'ID d\'Apple que voleu desactivar l\'autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i seleccioneu \"Edita\".</string>
     <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
@@ -115,6 +117,7 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
     <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
     <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
     <string name="cloud_backup_window_title">Còpies de seguretat de Xiaomi Cloud</string>
+    <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Última còpia de seguretat "</string>
     <string name="cloud_no_backup">Sense còpies de seguretat</string>
     <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per %s, toqueu Restaura</string>
@@ -155,6 +158,7 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
     <string name="dialog_backup_password_change_machine_tips">"No podreu transferir còpies de seguretat protegides amb contrasenya. Desactiveu la contrasenya de còpia de seguretat abans d’utilitzar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No es poden restaurar els elements quan la contrasenya de seguretat està activada. Desactiveu primer la contrasenya de còpia de seguretat."</string>
     <string name="dialog_backup_password_to_settings">Configuració</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Sense xifrar</string>
     <string name="disable_encrypt_title">Desactiva el xifratge</string>
     <string name="enable_encrypt">Activa el xifratge</string>

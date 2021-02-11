@@ -993,6 +993,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_ai_detect">Detecció d\'IA</string>
     <string name="pref_audio_denoise_title">Reducció de soroll d’àudio</string>
     <string name="pref_audio_focus_entry_front">Davant</string>
+    <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">Darrere</string>
     <string name="pref_audio_focus_title">Focus d\'àudio</string>
     <string name="pref_burst_shoot_title">Ràfega</string>
@@ -1016,6 +1017,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Mitjana del fotograma</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Mesura puntual</string>
     <string name="pref_camera_autoexposure_title">Paràmetres d\'exposició automàtica</string>
+    <string name="pref_camera_auxiliary_close">Desactivat</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Verificació de l’exposició</string>
     <string name="pref_camera_auxiliary_focus_peak">Enfocament peaking</string>
     <string name="pref_camera_auxiliary_title">Auxiliar</string>
@@ -1084,6 +1086,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_focus_shoot_title">Enfoca i dispara</string>
     <string name="pref_camera_focusmode_entry_auto">AUTOMÀTIC</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinit</string>
+    <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Estàndard</string>
     <string name="pref_camera_focusmode_title">Mode d\'enfocament</string>
     <string name="pref_camera_front_ai_scene_entry_off">La càmera IA està desactivada</string>
@@ -1106,6 +1109,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_high_quality_preferred_title">Millora la qualitat de la imatge</string>
     <string name="pref_camera_histogram_entry_disable">Desactiva</string>
     <string name="pref_camera_histogram_entry_enable">Activa</string>
+    <string name="pref_camera_iso_entry_auto">AUTO</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Baixa</string>
     <string name="pref_camera_jpegquality_entry_normal">Estàndard</string>
@@ -1136,6 +1140,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_multilevel_entry_lower">Més baix</string>
     <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
     <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
+    <string name="pref_camera_multilevel_entry_normal">Normal</string>
     <string name="pref_camera_new_coloreffect_title">Filtres de pel·lícula</string>
     <string name="pref_camera_normal_wide_ldc_description">Corregeix cares distorsionades de la gent de la perifèria de l\'enquadrament</string>
     <string name="pref_camera_normal_wide_ldc_title">Corregeix les distorsions facials en fotografies de grups</string>
@@ -1240,6 +1245,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
     <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
+    <string name="pref_camera_whitebalance_entry_manual">Manual</string>
     <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
     <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
@@ -1302,6 +1308,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_popup_camera_title">Càmera desplegable</string>
     <string name="pref_priority_storage_title">Desa a la targeta SD</string>
     <string name="pref_privacy_title">Política de privadesa</string>
+    <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_camera_common_mode_summary">Obre la càmera al mode usat anteriorment en lloc de canviar a «Foto»</string>
     <string name="pref_retain_camera_mode_summary">Canvia la càmera al mode usat anteriorment en obriu l\'aplicació.</string>
     <string name="pref_retain_camera_mode_title">Desa el mode anterior</string>
@@ -1330,6 +1337,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_video_focusmode_entry_continuous">AF-C</string>
     <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
     <string name="pref_video_hfr_title">Velocitat de fotogrames</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
     <string name="pref_video_quality_hfr_title">Velocitat de fotogrames &amp; qualitat d\'imatge</string>
     <string name="pref_video_quality_sub_120fps">120 fps</string>
     <string name="pref_video_quality_sub_24fps">24 fps</string>
@@ -1416,6 +1425,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="snap_confirmed">Reemplaça</string>
     <string name="spaceIsLow_content_external_storage_priority">La targeta SD s\'està quedant sense espai disponible</string>
     <string name="spaceIsLow_content_primary_storage_priority">L\'emmagatzematge USB s\'està quedant sense espai disponible</string>
+    <string name="speech_shutter_open_tip">Digueu \"拍照\" o \"茄子\" per fer una foto</string>
     <string name="speech_shutter_tip">Obturador per veu</string>
     <string name="start_capture">D\'acord</string>
     <string name="sticker_tab1">Bonic</string>

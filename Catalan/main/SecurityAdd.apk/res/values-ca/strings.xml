@@ -68,10 +68,12 @@
     <string name="ew_detail_earthquake_feel_title">Intensitat estimada</string>
     <string name="ew_detail_earthquake_level_title">Magnitud estimada</string>
     <string name="ew_detail_receive_alert_from">Dades subministrades per l\'Institut d\'Alta tecnologia per la reducció de desastres de Chengdu</string>
+    <string name="ew_detail_receive_distance_message1">%s km</string>
     <string name="ew_detail_receive_distance_message2">%s km (L\'epicentre es troba lluny de tu. És possible que no notis el terratrèmol.)</string>
     <string name="ew_detail_receive_distance_title">Distància a l’epicentre</string>
     <string name="ew_detail_receive_location_title">Ubicació</string>
     <string name="ew_detail_receive_time_title">Hora d\'inici</string>
+    <string name="ew_detail_receive_warn_time_message">%ss</string>
     <string name="ew_detail_receive_warn_time_title">Temps abans de l’inici</string>
     <string name="ew_save_title">Desa</string>
     <string name="ew_share_logo_title">Advertència de terratrèmols</string>
@@ -325,6 +327,7 @@
     <string name="superpower_exit_hint">S\'està desactivant l\'estalvi de bateria Ultra…</string>
     <string name="superpower_incharging">Carregant</string>
     <string name="superpower_progress_battery_last">%s disponible</string>
+    <string name="superpower_progress_left_time">%1$dh %2$dm</string>
     <string name="superpower_search_hint">Cerca aplicacions</string>
     <string name="superpower_select_app_title">Aplicacions freqüents</string>
     <string name="superpower_settings">Estalvi de bateria Ultra</string>

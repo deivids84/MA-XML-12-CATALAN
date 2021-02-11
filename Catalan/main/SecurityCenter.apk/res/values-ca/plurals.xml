@@ -576,6 +576,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">"%d h "</item>
         <item quantity="one">"%d h "</item>
     </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Soluciona %d problemes d’ús de la bateria</item>
         <item quantity="one">Soluciona %d problema d\'ús de la bateria</item>

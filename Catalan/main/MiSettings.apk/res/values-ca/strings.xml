@@ -766,6 +766,7 @@ Aquesta aplicació necessita connectar-se a Internet i requereix els permisos se
     <string name="usage_state_go_more">Més aplicacions</string>
     <string name="usage_state_holiday_day_hour_minute">Dies de descans: %1$s %2$s</string>
     <string name="usage_state_holiday_time">Dies de descans: %s</string>
+    <string name="usage_state_hour_minute">%1$dh %2$dm</string>
     <string name="usage_state_less_one_minute">&lt; 1 minut</string>
     <string name="usage_state_monday">dl</string>
     <string name="usage_state_mourth_day">Temps de pantalla de %s</string>

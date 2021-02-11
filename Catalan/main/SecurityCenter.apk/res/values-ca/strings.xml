@@ -594,6 +594,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="auto_clean_close">Les neteges automàtiques estan desactivades</string>
     <string name="auto_data_back_booster">L\'accelerador de la velocitat dels jocs està inactiu. S\'han restablert les característiques de comunicació.</string>
     <string name="auto_data_booster_suc">Game Turbo està activat. S\'ha canviat al mode Immersió.</string>
+    <string name="auto_handle_title">GENERAL</string>
     <string name="auto_import_games">Poseu tots els vostres jocs en un sol lloc</string>
     <string name="auto_send_correcting_msg">Deixeu-ho en blanc per comprovar-lo automàticament mitjançant un SMS gratuït</string>
     <string name="auto_set_by_brand">Sincronitzeu els detalls del pla de dades amb el vostre operador</string>
@@ -648,6 +649,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="auto_task_operation_no_op">Cap</string>
     <string name="auto_task_operation_open">Activat</string>
     <string name="auto_task_operation_open_string">Activa %s</string>
+    <string name="auto_task_operation_string_etc">, etc.</string>
     <string name="auto_task_operation_sync">Sincronitza</string>
     <string name="auto_task_operation_vibration">Vibració</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
@@ -689,6 +691,10 @@ No perdreu cap dada d'aplicació."</string>
     <string name="battery_health_title_text">Salut de la bateria</string>
     <string name="battery_health_voltage_text">Voltatge de la bateria</string>
     <string name="battery_history_activity_title">Historial</string>
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
+    <string name="battery_history_seconds">%1$ds</string>
     <string name="battery_low_button_not_open_power_save">Ara no</string>
     <string name="battery_low_button_open_power_save">Activa</string>
     <string name="battery_low_percent_format_save_mode_closed">"Ara resta menys d'un %s de bateria. No oblideu carregar el dispositiu."</string>
@@ -1271,6 +1277,8 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="exo_download_failed">Ha fallat la baixada</string>
     <string name="exo_download_notification_channel_name">Baixades</string>
     <string name="exo_download_removing">Suprimint les baixades</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Cap</string>
     <string name="exo_track_selection_title_audio">Àudio</string>
     <string name="exo_track_selection_title_text">Text</string>
@@ -1783,6 +1791,7 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="hints_scan_result_safe">Segur</string>
     <string name="hints_scanning">S\'està escanejant…</string>
     <string name="hints_scanning_text">S\'està escanejant…</string>
+    <string name="hints_virus_app_list_item_summary">app</string>
     <string name="hints_virus_lib_update_default_summary">Ultima actualització desconeguda</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular avui</string>
@@ -1849,6 +1858,7 @@ per unir-vos a la nostra caça d'ous"</string>
     <string name="item_system_auto_download">Baixa actualitzacions automàticament</string>
     <string name="item_usb_debug">Depuració USB</string>
     <string name="item_virus_lib">Actualitza automàticament les definicions de virus</string>
+    <string name="kilobyte_per_second">KB/s</string>
     <string name="label_callwait">Notificació de trucada en espera</string>
     <string name="label_mi_stats">Anàlisi Mi</string>
     <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
@@ -1985,6 +1995,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="mark_sell_time_setting">Bloqueja els números que hagin estat notificats com a telemàrquetings un determinat nombre de vegades</string>
     <string name="mark_time_setting_dialog_title">Notifica aquest número</string>
     <string name="marked_by_user">"L'heu marcat com a "</string>
+    <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">Alliberats %s</string>
     <string name="memory_clean_memory_size_tip">Memòria Cau</string>
     <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
@@ -3933,12 +3944,16 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="third_application">Aplicacions instal·lades</string>
     <string name="third_desktop_dialog_content">Donat que les aplicacions d\'interfícies inicials de tercers poden provocar problemes en el consum de dades, descàrrega de bateria, alentiments,... només se\'n pot seleccionar una com predeterminada si ha estat verificada per a MIUI.</string>
     <string name="third_desktop_dialog_ok">Entesos</string>
+    <string name="third_desktop_dialog_title">Error</string>
     <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
+    <string name="timeshow_h">%.1fh</string>
+    <string name="timeshow_h_int">%dh</string>
     <string name="timeshow_m">%dmin</string>
+    <string name="timeshow_s">%ds</string>
     <string name="tips_dialog_title">"No coneix el seu límit?"</string>
     <string name="tips_message">"Per veure els detalls del vostre pla, marqueu %2$s (%1$s)."</string>
     <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>

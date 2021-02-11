@@ -1220,7 +1220,7 @@ d MMMM"</string>
     <string name="miui_notification_menu_msg_fold">Voleu agrupar totes les notificacions de %1$s?</string>
     <string name="miui_notification_menu_msg_not_allow">Voleu restringir totes les notificacions de %1$s?</string>
     <string name="miui_notification_menu_setting_success">Fet</string>
-    <string name="miui_notification_menu_snooze">Dormitar</string>
+    <string name="miui_notification_menu_snooze">Posposa</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
@@ -1426,7 +1426,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apagar el dispositiu, manteniu premut el &lt;font color=#a5220e&gt;Botó d\'encesa&lt;/font&gt; i el &lt;font color=#a5220e&gt;botó Pujar volum&lt;/font&gt; simultàniament fins que aparegui el logotip de la meva.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Seleccioneu &lt;font color=#a5220e&gt;\"Esborra &amp;amp; Restableix\"&lt;/font&gt; i espereu fins que el dispositiu es reiniciï.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
-    <string name="phone_locked_string">S\'ha bloquejat el telèfon</string>
+    <string name="phone_locked_string">Aquest dispositiu està bloquejat</string>
     <string name="picture_color_mode">Mode de color de la imatge</string>
     <string name="picture_color_mode_desc">Utilitza sRGB</string>
     <string name="pip_close">Tanca PIP</string>
@@ -2086,6 +2086,7 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="wapi_password_length_is_min">La contrasenya ha de tenir un mínim 8 caràcters de longitud</string>
     <string name="wapi_password_length_is_min_to_max">La contrasenya ha de tenir entre 8 i 64 caràcters</string>
     <string name="wapi_psk_type">Tipus de contrasenya</string>
+    <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">Sí</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>

@@ -146,6 +146,7 @@
     <string name="miui_warning_button_cancel">Cancel·la</string>
     <string name="miui_warning_button_ok">D\'acord</string>
     <string name="miui_warning_tip_info">S\'ha produït un error a %1$s. Voleu tancar aquesta aplicació?</string>
+    <string name="nearby_share">Nearby Share</string>
     <string name="notification_channel_hotspot">Notificació de punt d\'accés</string>
     <string name="onehour">30 minuts</string>
     <string name="open_close_tip_action">Entesos</string>
@@ -260,7 +261,7 @@
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Mode lectura</string>
     <string name="status_bar_toggle_power_mode">Rendiment</string>
-    <string name="status_bar_toggle_quiet_mode">No molesteu</string>
+    <string name="status_bar_toggle_quiet_mode">No molestis</string>
     <string name="status_bar_toggle_rotate">Gir blocat</string>
     <string name="status_bar_toggle_screen_button">Botons</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
@@ -285,11 +286,12 @@
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="total">No molestis</string>
     <string name="total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
-    <string name="total_title">No molestis...</string>
+    <string name="total_title">No molestis</string>
     <string name="translation_more">Més</string>
     <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
     <string name="translation_query_error_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar"</string>
     <string name="turn_off">Desactiva</string>
+    <string name="turn_on_work_profile">activa</string>
     <string name="twohours">1 hora</string>
     <string name="unknown_caller">Número desconegut</string>
     <string name="unrecognized_manufacture">Desconegut</string>

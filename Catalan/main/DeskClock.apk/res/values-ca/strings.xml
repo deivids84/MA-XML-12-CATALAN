@@ -566,6 +566,9 @@
     <string name="thursday_shortest">dj.</string>
     <string name="time">Hora</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
+    <string name="time_picker_label_second">S</string>
     <string name="time_settings">Configuració del rellotge</string>
     <string name="timer_alarm_cancel_pad">Toqueu la pantalla per aturar l\'alarma</string>
     <string name="timer_alarm_dot_matrix_label">TEMPORITZADOR</string>

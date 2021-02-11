@@ -694,6 +694,7 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wapi_password_length_is_min">La contrasenya ha de tenir com a mínim 8 caràcters</string>
     <string name="wapi_password_length_is_min_to_max">La contrasenya ha de tenir entre 8 i 64 caràcters</string>
     <string name="wapi_psk_type">Tipus de contrasenya</string>
+    <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">sí</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>

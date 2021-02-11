@@ -285,9 +285,11 @@
     <string name="exo_download_failed">Baixada fallida</string>
     <string name="exo_download_notification_channel_name">Baixades</string>
     <string name="exo_download_removing">Suprimint les baixades</string>
+    <string name="exo_track_mono">Mono</string>
     <string name="exo_track_role_alternate">Alterna</string>
     <string name="exo_track_role_commentary">Comentari</string>
     <string name="exo_track_role_supplementary">Complementaris</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Cap</string>
     <string name="exo_track_selection_title_audio">Àudio</string>
     <string name="exo_track_selection_title_text">Text</string>

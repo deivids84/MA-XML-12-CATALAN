@@ -12,6 +12,8 @@
     <string name="activating">S\'està activant&#8230;</string>
     <string name="address">Adreça</string>
     <string name="after_reset_need_restore_system_app">"Sembla que heu realitzat un restabliment de fàbrica. Connecta’t a la xarxa i restaura els elements del sistema per poder utilitzar MIUI normalment."</string>
+    <string name="afternoon">pm</string>
+    <string name="am">am</string>
     <string name="birthday">Aniversari</string>
     <string name="cancel_description">Cancel·la</string>
     <string name="check_phone_error_title">Sincronització desactivada</string>
@@ -48,6 +50,7 @@
     <string name="deselect_all_description">Desselecciona-ho tot</string>
     <string name="do_not_restore_temporarily">Ara no</string>
     <string name="download_right_now">descarregar</string>
+    <string name="early_morning">am</string>
     <string name="email">Adreça electrònica</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
@@ -55,6 +58,7 @@
     <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
     <string name="error_title">"No s'ha pogut sincronitzar"</string>
     <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'iniciar sessió.</string>
+    <string name="evening">pm</string>
     <string name="experience_new_system_app">Mireu les noves funcions!</string>
     <string name="fmt_date_long_month_day">MMMM d</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -86,6 +90,7 @@
     <string name="im">Xat</string>
     <string name="immersion_button_close_description">tanca</string>
     <string name="instruction">Informació important de seguretat</string>
+    <string name="midnight">am</string>
     <string name="mobile_data_consume">Per descarregar els elements ara caldrà utilitzar %1$s MB de dades mòbils. Descarregueu de totes maneres?</string>
     <string name="mobile_data_remind">Advertència d’ús de dades</string>
     <string name="monday">Dilluns</string>
@@ -128,16 +133,21 @@
     <string name="month_september_short">Set.</string>
     <string name="month_september_shortest">Set.</string>
     <string name="more">Més</string>
+    <string name="morning">am</string>
     <string name="name">Nom</string>
     <string name="nickname">Sobrenom</string>
+    <string name="night">pm</string>
     <string name="no_network">"No es pot connectar a la xarxa"</string>
     <string name="no_sim">No s\'ha detectat cap targeta SIM.</string>
+    <string name="noon">pm</string>
     <string name="note">Nota</string>
     <string name="organization">Organització</string>
     <string name="perm_payment_dspt">Permet que l\'aplicació pagui usant el servei Mi Pay</string>
+    <string name="perm_payment_lab">Mi Pay</string>
     <string name="permdesc_sendSmsNoConfirmation">L\'aplicació podrà enviar SMS sense demanar-vos permís. La vostra operadora telefònica potser us els cobrarà.</string>
     <string name="permlab_sendSmsNoConfirmation">Permet enviar SMS en segon pla</string>
     <string name="phone">Telèfon</string>
+    <string name="pm">pm</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="recovery_progress">Articles Restauració (%1$d/%2$d)…</string>
     <string name="restore_right_now">Restaurar</string>

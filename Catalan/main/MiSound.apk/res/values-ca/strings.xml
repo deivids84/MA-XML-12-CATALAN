@@ -103,6 +103,8 @@
     <string name="music_dirac_control">Optimitza la qualitat de l’àudio</string>
     <string name="music_dirac_mode_bluetooth_collar">Auriculars Mi banda de coll Bluetooth</string>
     <string name="music_dirac_mode_bluetooth_linefree">Auriculars Bluetooth Mi (edició Line Free)</string>
+    <string name="music_dirac_mode_general">General</string>
+    <string name="music_dirac_mode_general_earbuds">General</string>
     <string name="music_dirac_mode_general_inear">In-ear normals</string>
     <string name="music_dirac_mode_in_ear_four_unit">Mi Quadruple Driver Earphones</string>
     <string name="music_dirac_mode_off">Dirac desactivat</string>

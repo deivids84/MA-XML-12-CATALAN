@@ -41,6 +41,7 @@
     <string name="activity_title_main">Netejador</string>
     <string name="activity_title_news">Notícies</string>
     <string name="activity_title_privacy_cache">Memòria cau de privadesa</string>
+    <string name="activity_title_residual">Residus</string>
     <string name="activity_title_scanfinish">S\'ha completat l\'escaneig</string>
     <string name="activity_title_screenshot">Captures de pantalla</string>
     <string name="activity_title_settings">Configuració</string>
@@ -440,6 +441,7 @@
     <string name="hints_quick_deep_uninstall">Elimina ara</string>
     <string name="hints_quick_prepare">S\'està preparant&#8230;</string>
     <string name="hints_quick_scanning">S\'està escanejant&#8230;</string>
+    <string name="hints_residual_header_left">Residus</string>
     <string name="hints_scan_has_finish">Neteja completada</string>
     <string name="hints_scanfinish">No hi ha brossa</string>
     <string name="hints_storage_clean_size">Alliberats %s d\'emmagatzematge intern</string>
@@ -837,6 +839,7 @@
     <string name="white_list_apk_header">Instal·la paquets: %d</string>
     <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
     <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
+    <string name="white_list_residual_header">Residus: %d</string>
     <string name="white_list_title">Excepcions</string>
     <string name="wq_deep_clean_filter_all">Tots</string>
     <string name="wq_deep_clean_filter_month_ago">Fa 1 mes</string>

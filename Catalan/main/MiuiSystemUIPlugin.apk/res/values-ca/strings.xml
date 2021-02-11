@@ -37,6 +37,7 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="already_in_small_freeform">Algunes aplicacions s’obren en finestres flotants</string>
+    <string name="am">am</string>
     <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="chip_text">Chip text</string>
