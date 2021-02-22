@@ -4584,7 +4584,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="musicfx_title">Efectes musicals</string>
     <string name="mute">Mode silenci</string>
     <string name="mute_media_sound_summary">Jocs, música, vídeos i altres aplicacions</string>
-    <string name="mute_media_sound_title">Mitjans de silenci en mode Silenci</string>
+    <string name="mute_media_sound_title">Silencia el multimèdia en mode Silenci</string>
     <string name="mute_music_stream">Silencia el so multimèdia</string>
     <string name="mute_voiceassist_stream">Assistent de veu silenciat</string>
     <string name="mvno_match_data">Valor de MVNO</string>
@@ -4646,7 +4646,7 @@ Seleccioneu el sistema operatiu:"</string>
     <string name="network_connection_connecting_message">S\'està connectant al dispositiu…</string>
     <string name="network_connection_errorstate_dialog_message">Ha passat alguna cosa. L\'aplicació ha cancel·lat la sol·licitud de triar un dispositiu.</string>
     <string name="network_connection_request_dialog_showall">Mostrar-ho tot</string>
-    <string name="network_connection_request_dialog_summary">%1$s aplicació %1$s vol utilitzar una xarxa Wi-Fi temporal per connectar-se al vostre dispositiu</string>
+    <string name="network_connection_request_dialog_summary">%1$s aplicació vol utilitzar una xarxa Wi-Fi temporal per connectar-se al dispositiu</string>
     <string name="network_connection_request_dialog_title">Connexió al dispositiu</string>
     <string name="network_connection_searching_message">Cerqueu el dispositiu…</string>
     <string name="network_connection_timeout_dialog_message">No s\'ha trobat cap dispositiu. Assegureu-vos que els dispositius estiguin encesos i que estiguin disponibles per connectar-se.</string>
@@ -7514,7 +7514,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
     <string name="usage_state_channel_mouth">Últims 30 dies</string>
     <string name="usage_state_channel_week">Últims 7 dies</string>
     <string name="usage_state_date">MMM dd</string>
-    <string name="usage_state_device_noti_today_tip_title">Notificacions entre les %1$d: 00 i les %2$d: 00</string>
+    <string name="usage_state_device_noti_today_tip_title">Notificacions entre les %1$d:00 i les %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Dispositiu desbloquejat entre les %1$d: 00 i les %2$d: 00</string>
     <string name="usage_state_friday">Dv</string>
     <string name="usage_state_go_more">Més aplicacions</string>
@@ -7867,7 +7867,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="volte_5G_limited_text">"Això també desactiva la connexió 5G.
 Durant una trucada de veu, no podeu utilitzar Internet i és possible que algunes aplicacions no funcionin."</string>
     <string name="volte_5G_limited_title">Desactiveu VoLTE?</string>
-    <string name="volume_adjustment">Ajustar el volum</string>
+    <string name="volume_adjustment">Ajusteu el volum</string>
     <string name="volume_alarm_description">Alarma</string>
     <string name="volume_alarm_mute">Silencia les alarmes</string>
     <string name="volume_bluetooth_description">Bluetooth</string>

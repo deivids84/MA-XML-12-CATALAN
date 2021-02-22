@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Torna a la pàgina d\'inici</string>
+    <string name="abc_action_bar_home_description">Navega a la pàgina d\'inici</string>
     <string name="abc_action_bar_up_description">Mou cap a dalt</string>
     <string name="abc_action_menu_overflow_description">Més</string>
     <string name="abc_action_mode_done">Fet</string>
@@ -166,6 +166,16 @@
     <string name="can_heard_not_download">Les cançons només es poden escoltar i no es poden descarregar…</string>
     <string name="cancel">Cancel·la</string>
     <string name="cancel_delay_stop">Desactiva el compte enrere</string>
+    <string name="cancel_dialog_cancel_title">"La prova gratuïta no estarà disponible"</string>
+    <string name="cancel_dialog_title">"Els serveis no estaran disponibles després de la cancel·lació"</string>
+    <string name="cancel_free_equity">Cancel·la</string>
+    <string name="cancel_msg">"El període de prova gratuïta encara no ha acabat. No podreu continuar utilitzant-lo si cancel·leu la vostra subscripció ara. Voleu cancel·lar-ho de totes maneres?"</string>
+    <string name="cancel_msg_left">"Accediu a
+tot el contingut"</string>
+    <string name="cancel_msg_mid">"Renovació 
+automàtica"</string>
+    <string name="cancel_msg_right">"Cancel·la en
+qualsevol moment"</string>
     <string name="cancel_running_download">Cancel·la</string>
     <string name="cannot_comment_try_scroll">Aquesta cançó no es pot comentar ， intenteu desplaçar-vos</string>
     <string name="cannot_reply">"No puc respondre a aquest comentari ara."</string>
@@ -262,6 +272,8 @@ d'emmagatzematge 3. Accés per tal d'accedir i guardar art de la coberta i els a
     <string name="delete_file_start">Esborra els fitxers seleccionats</string>
     <string name="delete_single_fm_history">Voleu suprimir aquest registre de l\'historial de reproducció?</string>
     <string name="delete_the_downloaded_file">S\'eliminaran els fitxers baixats.</string>
+    <string name="description_content">"FM Radio és una aplicació del sistema. No podreu escoltar les emissores de ràdio locals i en línia després de desinstal·lar-la."</string>
+    <string name="description_title">Voleu desinstal·lar \"Ràdio FM\"?</string>
     <string name="deselect_all">Desselecciona-ho tot</string>
     <string name="desktop_lyric_lock_toast">Bloquejat. Podeu desbloquejar Música en l\'àrea de notificacions.</string>
     <string name="desktop_lyric_setting_title">Lletres a la pàgina principal</string>
@@ -362,7 +374,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="download_toast">Utilitzant les dades mòbils per baixar cançons</string>
     <string name="download_toast_with_beyond_data">Utilitzant les dades mòbils per baixar cançons. S\'ha excedit el límit per %s</string>
     <string name="download_toast_with_data">Utilitzant les dades mòbils per baixar cançons, %s restants</string>
-    <string name="download_traffic_dialog_msg">L\'ús de les seves dades mòbils per baixar cançons pot augmentar els seus càrrecs per dades mòbils</string>
+    <string name="download_traffic_dialog_msg">Us queden %s de dades mòbils. Voleu utilitzar les dades mòbils per baixar cançons?</string>
     <string name="download_traffic_dialog_msg_beyond">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per baixar cançons?"</string>
     <string name="download_traffic_dialog_msg_serious">Només queden %s de dades mòbils. Voleu utilitzar dades per baixar cançons?</string>
     <string name="download_traffic_dialog_msg_without_data">"Esteu utilitzant dades mòbils per baixar cançons. ¿Voleu baixar-la de totes maneres?"</string>
@@ -424,8 +436,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="feedback">Comentaris</string>
     <string name="file_not_found">"El fitxer no existeix"</string>
     <string name="filter_by_duration">Per durada</string>
-    <string name="filter_by_duration_max">5 mins</string>
-    <string name="filter_by_duration_min">0 segs</string>
+    <string name="filter_by_duration_max">%d min</string>
+    <string name="filter_by_duration_min">%d seg</string>
     <string name="filter_by_duration_prefix">"Amaga fitxers més curts que "</string>
     <string name="filter_by_duration_summary">Amaga fitxers d\'àudio curts</string>
     <string name="filter_by_folder">Per carpeta</string>
@@ -837,7 +849,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
     <string name="passport_input_voice_captcha_hint">Introduïu el codi de verificació de veu</string>
     <string name="passport_input_voice_hint">Introduïu el codi de veu</string>
-    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el format següent: + [prefix] [número de telèfon], per exemple: +91 817282982)</string>
+    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el següent format: +[codi d\'àrea][número de telèfon], per exemple: +91 817282982)</string>
     <string name="passport_log_detail">Mostra els detalls</string>
     <string name="passport_login_failed">"No s'ha pogut iniciar la sessió"</string>
     <string name="passport_next">Següent</string>
@@ -900,6 +912,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="paused_waiting_to_retry">S\'està esperant per reintentar</string>
     <string name="pay_now">Servei actual</string>
     <string name="pending_apk">Pendent…</string>
+    <string name="permission_runtime_perm_desc_location">Per accedir a emissores de ràdio locals</string>
     <string name="personal_radio_favorite">Marcats com a preferits, recomaneu cançons similars</string>
     <string name="phone_bind_too_many">Aquest telèfon s\'ha associat a diversos Comptes Mi en un període curt de temps. Proveu d\'utilitzar un altre número de telèfon.</string>
     <string name="phone_hint">Número de telèfon</string>
@@ -908,16 +921,17 @@ Envieu aquest codi al supervisor."</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="play_all"><Data>Reprodueix-ho tot &lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_all_shuffle"><Data>Barreja-ho tot&lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
-    <string name="play_all_song">Reprodueix-ho tot</string>
     <string name="play_continue"><Data>Continueu jugant &lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_error_program_not_find">Aquest element ja no està disponible.</string>
     <string name="play_mode_circle">Mode Cercle</string>
     <string name="play_mode_circle_hint">Repetint una pista ara</string>
-    <string name="play_mode_circle_title">Un bucle</string>
+    <string name="play_mode_circle_title">Bucle</string>
     <string name="play_mode_normal_hint">Reproducció de pistes en l\'ordre original ara</string>
-    <string name="play_mode_normal_title">Reprodueix-ho tot</string>
+    <string name="play_mode_normal_title">Seqüència</string>
     <string name="play_mode_shuffle">Mode aleatori</string>
+    <string name="play_mode_shuffle_title">Aleatori</string>
     <string name="play_mode_single">Mode únic</string>
+    <string name="play_mode_single_title">Repeteix</string>
     <string name="play_next">Reproduir la propera</string>
     <string name="play_song_continue">Continua jugant</string>
     <string name="play_speed">Velocitat de reproducció</string>
@@ -976,7 +990,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="recommend_list">Recomanat</string>
     <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
     <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la vostre connexió de dades mòbils per baixar aquest fitxer?</string>
-    <string name="remain_prefix">%1$d restants</string>
+    <string name="remain_prefix">Queden %1$s</string>
     <string name="remaining">Queda aquest mes:</string>
     <string name="remove">Suprimeix</string>
     <string name="remove_download">Esborra</string>
@@ -1190,6 +1204,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="talkback_login">Inicia la sessió</string>
     <string name="talkback_mode_repeat_all">Mode de bucle</string>
     <string name="talkback_mode_repeat_current">Mode de repetició</string>
+    <string name="talkback_mode_repeat_none">Mode de seqüència</string>
     <string name="talkback_mode_repeat_shuffle">Mode de barreja</string>
     <string name="talkback_more">més</string>
     <string name="talkback_more_function">Més característiques</string>
@@ -1324,6 +1339,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="upgrade_music">Actualitza Música</string>
     <string name="upgrade_music_message">Les actualitzacions estan a punt. Reinicieu per actualitzar.</string>
     <string name="upload_error_log">Puja el registre</string>
+    <string name="use_again">"No ho cancel·lis"</string>
     <string name="user_avatar_update_title">Canvia la foto de perfil</string>
     <string name="user_avatar_uploading">Un moment…</string>
     <string name="user_id_hint">Correu/Telèfon/ID Compte Mi</string>
@@ -1368,5 +1384,8 @@ Toqueu %2$s per iniciar aquesta baixada la propera vegada que estigueu connectat
     <string name="xiaoai_install_title">Instal·leu l’assistent de veu Mi AI</string>
     <string name="xiaoai_update_message">Sembla que el motor de veu Mi AI és massa antic. Podeu actualitzar-lo ara.</string>
     <string name="xiaoai_update_title">Actualitza Mi AI</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualitza</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="yesterday">Ahir</string>
 </resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Home</item>
+        <item>Dona</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Blanc</item>
+        <item>Groc</item>
+        <item>Gris</item>
+        <item>Marró</item>
+        <item>Verd</item>
+        <item>Blau</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Contingut explícit</item>
+        <item>Falsetat</item>
+        <item>Notícies antigues</item>
+        <item>Vistes extremistes</item>
+        <item>Anuncis subliminals</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Torna o passa la pàgina</item>
+        <item>Canvia la pestanya</item>
+        <item>Cap</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Pàgina d\'inici per defecte</item>
+        <item>Personalitzar</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telèfon</item>
+        <item>Tauleta</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visió vertical</item>
+        <item>Vista horitzontal</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Activat</item>
+        <item>Només en el mode incògnit</item>
+        <item>Desactiva</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Diminut</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Gran</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Escriptori</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Auto</item>
+        <item>Cap</item>
+        <item>Nou usuari</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Elimineu</item>
+        <item>No, gràcies</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>D\'acord</item>
+        <item>Segueix</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Missatge del navegador</item>
+        <item>Segueix els Jocs Olímpics amb Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>"Esborrar historial en sortir. Sembla que esteu en una àrea amb mala cobertura."</item>
+        <item>La connexió de xarxa actual és lenta.</item>
+        <item>No s\'ha trobat cap problema amb la connexió de xarxa.</item>
+        <item>"La connexió de xarxa actual és ràpida. Ja n'hi ha prou per reproduir pel·lícules."</item>
+        <item>"La connexió de xarxa actual és molt ràpida. Ets un as."</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Descarregar vídeos i fotos de les xarxes socials</item>
+        <item>Desa imatges i vídeos d\'estats de WhatsApp</item>
+        <item>Gestiona arxius en el teu dispositiu per a fer-los privats</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Descarregar vídeos</item>
+        <item>Desador d\'estats de WhatsApp</item>
+        <item>Arxius privats</item>
+    </string-array>
+</resources>

@@ -313,7 +313,7 @@
     <string name="download_toast">Utilitzant les dades mòbils per baixar cançons</string>
     <string name="download_toast_with_beyond_data">Utilitzant les dades mòbils per baixar cançons. S\'ha excedit el límit per %s</string>
     <string name="download_toast_with_data">Utilitzant les dades mòbils per baixar cançons, %s restants</string>
-    <string name="download_traffic_dialog_msg">L\'ús de les seves dades mòbils per baixar cançons pot augmentar els seus càrrecs per dades mòbils</string>
+    <string name="download_traffic_dialog_msg">Us queden %s de dades mòbils. Voleu utilitzar les dades mòbils per baixar cançons?</string>
     <string name="download_traffic_dialog_msg_beyond">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per baixar cançons?"</string>
     <string name="download_traffic_dialog_msg_serious">Només queden %s de dades mòbils. Voleu utilitzar dades per baixar cançons?</string>
     <string name="download_traffic_dialog_msg_without_data">"Esteu utilitzant dades mòbils per baixar cançons. ¿Voleu baixar-la de totes maneres?"</string>
@@ -426,15 +426,15 @@
     <string name="file_not_found">"El fitxer no existeix"</string>
     <string name="filter_by_MP4">Mostra les carpetes amb fitxers MP4</string>
     <string name="filter_by_duration">Per durada</string>
-    <string name="filter_by_duration_max">5 mins</string>
-    <string name="filter_by_duration_min">0 segs</string>
+    <string name="filter_by_duration_max">%d min</string>
+    <string name="filter_by_duration_min">%d seg</string>
     <string name="filter_by_duration_prefix">"Amaga fitxers més curts que "</string>
     <string name="filter_by_duration_summary">Amaga fitxers d\'àudio curts</string>
     <string name="filter_by_folder">Per carpeta</string>
     <string name="filter_by_folder_summary">Trieu les carpetes a mostrar</string>
     <string name="filter_by_size">Per mida</string>
-    <string name="filter_by_size_max">2MB</string>
-    <string name="filter_by_size_min">0KB</string>
+    <string name="filter_by_size_max">%dMB</string>
+    <string name="filter_by_size_min">%dKB</string>
     <string name="filter_by_size_prefix">"Amaga fitxers més petits que "</string>
     <string name="filter_by_size_summary">Amaga fitxers d\'àudio petits</string>
     <string name="filter_size_unit">%d KB</string>
@@ -651,7 +651,7 @@
     <string name="lyric_label">Lletres</string>
     <string name="lyric_open_other_connect">Baixa les lletres utilitzant les dades mòbils</string>
     <string name="lyric_setting">Configuració de lletres</string>
-    <string name="max_sleep_time">90</string>
+    <string name="max_sleep_time">%d</string>
     <string name="menu_title_pause_all">Pausa-ho tot</string>
     <string name="menu_title_resume_all">Inicia-ho tot</string>
     <string name="message_delete_playlist">Voleu eliminar la llista de reproducció %s?</string>
@@ -673,7 +673,7 @@
     <string name="middle_sound_quality">Estàndard</string>
     <string name="midnight">Nit</string>
     <string name="milink_unavaliable_please_update">"Mi Link no disponible. Actualitzeu MIUI."</string>
-    <string name="min_sleep_time">1</string>
+    <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Desconegut&gt;</string>
     <string name="miuishare_account_login_ok">Inicia sessió</string>
     <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa."</string>

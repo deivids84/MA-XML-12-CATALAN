@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Finestra flotant</string>
+    <string name="app_name">Finestres flotants</string>
     <string name="contentDescription">Movent la finestra</string>
     <string name="freeform_demo_back">Enrere</string>
     <string name="freeform_demo_final_over">Fet</string>

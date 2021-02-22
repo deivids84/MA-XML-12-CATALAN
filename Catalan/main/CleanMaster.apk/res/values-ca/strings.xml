@@ -171,6 +171,7 @@
     <string name="buy_a_new_phone">Aconsegueix més espai d\'emmagatzematge</string>
     <string name="buy_immediately">Compra</string>
     <string name="buy_traffic_pack">Compra més dades</string>
+    <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Carpeta buida (%d)</string>
     <string name="cache_title_empty_folder2">Carpeta buida</string>
     <string name="cache_title_system_cache">Memòria cau del sistema</string>
@@ -326,12 +327,14 @@
     <string name="garbage_month">Netejat %s aquest mes</string>
     <string name="gb_global_icon_ad_card_btn">OBTENIR</string>
     <string name="gb_global_icon_ad_card_title">Suggeriments personalitzats</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Àudio</string>
     <string name="global_wa_audio_item_title">Missatges de veu</string>
     <string name="global_wa_backend_alert_dialog_content">Allibereu espai netejant els elements de WhatsApp</string>
     <string name="global_wa_backend_alert_dialog_title">Netejador de WhatsApp</string>
     <string name="global_wa_clean_icon_text">Netejador de WhatsApp</string>
     <string name="global_wa_clean_now">Neteja</string>
+    <string name="global_wa_document">Documents</string>
     <string name="global_wa_group_advice">Recomanat</string>
     <string name="global_wa_group_clean_earlier">Abans</string>
     <string name="global_wa_group_clean_last_month">El mes passat</string>
@@ -430,7 +433,7 @@
     <string name="hints_list_item_keep">Mantenir</string>
     <string name="hints_list_item_lock">Mantenir</string>
     <string name="hints_list_item_unlock">Neteja</string>
-    <string name="hints_loading_text">S\'està carregant&#8230;</string>
+    <string name="hints_loading_text">S\'està carregant…</string>
     <string name="hints_memory_header_left">Memòria</string>
     <string name="hints_privacy_header_left">Privacitat: %d</string>
     <string name="hints_quick_cleanning">S\'està netejant&#8230;</string>
@@ -451,6 +454,7 @@
     <string name="hints_title_garbage">Brossa</string>
     <string name="hints_video_camera">Vídeos enregistrats</string>
     <string name="hints_video_download">Vídeos baixats</string>
+    <string name="hot">Popular</string>
     <string name="hot_today">Popular avui</string>
     <string name="information_setting">Configuració del canal d\'informació</string>
     <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
@@ -480,6 +484,7 @@
     <string name="mainbtn_text_no_trash">Omet</string>
     <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
+    <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
     <string name="memory_clean_icon_text">Augmenta la velocitat</string>
     <string name="memory_clean_no_trash_tip">Tot es veu bé</string>
@@ -589,6 +594,7 @@
     <string name="permission_dialog_storage_btn2">Surt</string>
     <string name="permission_dialog_storage_content">Cleaner necessita permís per accedir a l’emmagatzematge intern per poder funcionar amb normalitat. Toqueu \"Configuració\" per gestionar els permisos d\'emmagatzematge.</string>
     <string name="permission_dialog_storage_title">Permisos necessaris</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone_search">Cerca de Google</string>
     <string name="positive_confirm">D\'acord</string>
     <string name="powerful_acceleration">Desfragmentació</string>
@@ -695,6 +701,7 @@
     <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionats permanentment?</string>
     <string name="summary_delete_video">&gt;Voleu eliminar els vídeos seleccionats de forma permanent?</string>
     <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile's i requereix la identitat del seu dispositiu."</string>
+    <string name="terabyteShort">TB</string>
     <string name="there_is_no">Tot pinta bé, torneu més tard</string>
     <string name="tips_low_storage_dialog_cancel">Cancel·la</string>
     <string name="tips_low_storage_dialog_msg_qq">La mida de la memòria cau de QQ ja arriba als 3GB. Us podria alentir el vostre dispositiu. Voleu netejar-la ara?</string>
@@ -830,6 +837,7 @@
     <string name="whatsapp_function_summery">Netegeu els fitxers adjunts de WhatsApp</string>
     <string name="whatsapp_function_title">Netejador del WhatsApp</string>
     <string name="whatsapp_group_audio">Fitxers d\'àudio</string>
+    <string name="whatsapp_group_document">Documents</string>
     <string name="whatsapp_group_image">Imatges</string>
     <string name="whatsapp_group_video">Vídeos</string>
     <string name="whatsapp_group_voice">Missatges de veu</string>

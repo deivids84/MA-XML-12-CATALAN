@@ -847,7 +847,7 @@ update meu vídeo a la versió més recent en primer lloc."</string>
     <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
     <string name="passport_input_voice_captcha_hint">Introduïu el codi de verificació de veu</string>
     <string name="passport_input_voice_hint">Introduïu el codi de veu</string>
-    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el format següent: + [prefix] [número de telèfon], per exemple: +34 817282982)</string>
+    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el següent format: +[codi d\'àrea][número de telèfon], per exemple: +91 817282982)</string>
     <string name="passport_log_detail">Mostra els detalls</string>
     <string name="passport_login_failed">"No s'ha pogut iniciar la sessió"</string>
     <string name="passport_next">Següent</string>

@@ -265,8 +265,8 @@
         <item quantity="one">%d notificació</item>
     </plurals>
     <plurals name="notification_summary">
-        <item quantity="other">No es permet l\'enviament des de %d aplicacions</item>
-        <item quantity="one">No es permet l\'enviament des d\' %d aplicació</item>
+        <item quantity="other">Desactivat per a %d aplicacions</item>
+        <item quantity="one">Desactivat per a 1 aplicació</item>
     </plurals>
     <plurals name="notifications_categories_off">
         <item quantity="other">%d categories desactivades</item>

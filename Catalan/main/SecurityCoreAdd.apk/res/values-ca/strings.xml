@@ -77,7 +77,7 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
     <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
     <string name="confirmDelete">Elimina</string>
     <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
-    <string name="confirm_airspace_password">Confirmeu la contrasenya de l\'espai de treball</string>
+    <string name="confirm_airspace_password">Confirmeu la contrasenya %s</string>
     <string name="confirm_close_password_desc">"No podreu entrar al Segon espai des de la pantalla de bloqueig després de desactivar la contrasenya. Voleu desactivar-la de totes maneres?"</string>
     <string name="confirm_close_password_title">Desactivació de la contrasenya</string>
     <string name="confirm_main_space_password">Confirmeu la contrasenya del Primer espai</string>

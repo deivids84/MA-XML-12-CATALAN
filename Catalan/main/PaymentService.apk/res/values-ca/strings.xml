@@ -90,7 +90,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="just_a_second">Un moment…</string>
     <string name="loading">Un moment…</string>
     <string name="logout_account">Tanca la sessió</string>
-    <string name="mibi_all_license_message">"Sou a punt d'utilitzar Mi Credit, que és un servei proporcionat per Xiaomi Inc. Abans de poder utilitzar aquest servei, heu d'acceptar les Condicions de servei que s'indiquen a %1$s. Premeu D'acord si accepteu els termes i condicions descrits a %1$s i %1$s. Necessitareu connectar-vos a Internet i localitzar el vostre dispositiu per utilitzar Mi Credit."</string>
+    <string name="mibi_all_license_message">"Esteu a punt d’utilitzar Mi Coin, que és un servei subministrat per Xiaomi Inc. Abans de poder utilitzar aquest servei, heu d’acceptar les Condicions del servei. Toqueu D'acord si accepteu els termes i condicions descrits al %1$s i %2$s. Cal connectar-se a Internet i localitzar el dispositiu per utilitzar Mi Coin."</string>
     <string name="mibi_app_name">Crèdit Mi</string>
     <string name="mibi_applock_config">"No es pot establir el bloqueig de l'aplicació mentre s'utilitza la pantalla dividida."</string>
     <string name="mibi_applock_dialog_cancel">Ara no</string>

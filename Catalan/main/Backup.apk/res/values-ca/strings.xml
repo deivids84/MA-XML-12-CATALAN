@@ -482,6 +482,10 @@ Allibereu %s com a mínim. "</string>
     <string name="select_storage_location">Tria una ubicació per a la còpia de seguretat</string>
     <string name="service_stoped">El servei s\'ha aturat</string>
     <string name="settings_summary">Configuració del telèfon i de la missatgeria</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
     <string name="sms_title">Missatgeria</string>
     <string name="soft_ap_create_failed">"No s'ha pogut crear el punt d'accés"</string>
     <string name="soft_ap_creating">S\'està creant el punt d\'accés…</string>
@@ -726,6 +730,7 @@ i s'ha activat Mi Mover"</string>
     <string name="trans_waiting_for_sender">S\'està esperant que el dispositiu antic es connecti…</string>
     <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir les dades."</string>
     <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
+    <string name="unit_byte">B</string>
     <string name="unknown_hint">Desconeguda</string>
     <string name="usb_backup_select_data_too_large">"Els fitxers seleccionats són grans. Assegureu-vos que la unitat USB tingui prou espai d'emmagatzematge.
 Transferiu només elements importants. "</string>
@@ -753,6 +758,7 @@ No tanqueu la pàgina fins que s'hagi establert la connexió."</string>
     <string name="wifi_title">Configuració de la Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
     <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
+    <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s

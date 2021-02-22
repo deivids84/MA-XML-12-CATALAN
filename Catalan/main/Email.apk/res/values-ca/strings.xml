@@ -269,9 +269,9 @@
     <string name="bill_remind">Recordatori d\'amortització</string>
     <string name="bill_remind_due">S\'ha de pagar una amortització a %s, toqueu per veureu-ho</string>
     <string name="blank_feedback_toast">Necessites escriure un comentari</string>
-    <string name="body_forward_email_text">[Reenvia]</string>
+    <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Escriure un correu electrònic</string>
-    <string name="body_inline_pic_text">[Imatge]</string>
+    <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_pdf">Exporta a PDF</string>
     <string name="bottom_bar_more_pdf_exporting">S\'està exportant…</string>
     <string name="bottom_bar_more_quickreply">Resposta ràpida</string>

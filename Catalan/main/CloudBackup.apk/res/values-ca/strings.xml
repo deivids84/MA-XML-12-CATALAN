@@ -277,6 +277,8 @@ Comproveu la configuració de la xarxa i torneu-ho a provar. "</string>
     <string name="size_unknown">Mida desconeguda</string>
     <string name="start_backup_to_micloud">Fes una còpia de seguretat de les aplicacions a Xiaomi Cloud</string>
     <string name="start_recover">Restaura %s</string>
+    <string name="storage_unit_gb">%s GB</string>
+    <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici enceses</string>
     <string name="title_alert_cancel_restore">Atura la restauració</string>
     <string name="title_alert_restore_error">"No s'ha pogut restaurar"</string>

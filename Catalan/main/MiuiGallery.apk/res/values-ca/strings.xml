@@ -703,7 +703,7 @@
     <string name="exit_choice_mode">Left Share dialog</string>
     <string name="exit_share">Surt de l\'àlbum</string>
     <string name="exit_share_failed">"No es pot sortir de %1$s"</string>
-    <string name="exit_share_in_process">S\'està sortint&#8230;</string>
+    <string name="exit_share_in_process">S\'està deixant l\'àlbum \"%s\"…</string>
     <string name="exit_share_successfully">Heu sortit de %1$s</string>
     <string name="exit_video_play">Surt</string>
     <string name="expand_button_title">Avançat</string>

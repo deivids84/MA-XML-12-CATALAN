@@ -197,8 +197,8 @@
         <item quantity="one">&#160;Baixada</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s vídeos</item>
-        <item quantity="one">%1$s vídeo</item>
+        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; vídeos</item>
+        <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; vídeo</item>
     </plurals>
     <plurals name="video_items">
         <item quantity="other">%1$d elements</item>

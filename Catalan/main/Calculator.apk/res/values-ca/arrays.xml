@@ -58,6 +58,11 @@
         <item>pi</item>
         <item>és igual a</item>
     </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
     <string-array name="unit_data_order_time_">
         <item>any</item>
         <item>setmana</item>

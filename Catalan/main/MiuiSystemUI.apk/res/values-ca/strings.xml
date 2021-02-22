@@ -429,7 +429,7 @@ Torna a intentar-ho en %d segons."</string>
     <string name="bluetooth_connected_battery_level">Connectat | Bateria %1$s %2$s</string>
     <string name="bluetooth_connected_no_a2dp">Connectat (sense suports) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Connectat (sense suports) | Bateria %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset">Connectat (sense telèfon)</string>
+    <string name="bluetooth_connected_no_headset">Connectat (sense telèfon)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Connectat (sense telèfon) | Bateria %1$s %2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Connectat (sense telèfon ni suports) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connectat (sense telèfon ni suports) | Bateria %1$s %2$s</string>

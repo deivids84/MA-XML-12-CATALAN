@@ -84,7 +84,8 @@
     <string name="device_activation_card_cannot_get_yet">"No s'ha pogut obtenir la informació. Torneu-ho a provar d'aquí a 3-5 dies."</string>
     <string name="device_activation_card_description">"La primera activació es registra quan un dispositiu es connecta a la xarxa (inclòs, entre d'altres, Wi-Fi i xarxes mòbils) per primera vegada. Normalment es triga un temps a registrar la primera activació, de manera que és millor esperar 3-5 dies després de connectar-se a la xarxa abans de comprovar l’estat de l’activació.&lt;br&gt;&lt;br&gt;L'activació del dispositiu és el factor principal per determinar el període de validesa de la nostra garantia. Comprovi la nostra 
  &lt;a href=%1$s&gt;Política de devolucions, canvis, i reparació&lt;/a&gt; per a més detalls.&lt;br&gt;&lt;br&gt;No dubteu a trucar a la nostra línia d’atenció al client si teniu cap pregunta: 900 128 128."</string>
-    <string name="device_activation_card_description_china">"La primera activació es registra quan un dispositiu es connecta a la xarxa (inclòs, entre d'altres, la Wi-Fi i xarxes mòbils) per primera vegada. Normalment es triga un temps a registrar la primera activació, de manera que és millor esperar 3-5 dies després de connectar-se a la xarxa abans de comprovar l’estat de l’activació.&lt;br&gt;&lt;br&gt; Comproveu la nostra &lt;a href=%1$s&gt;Política de devolucions, canvis, i reparació&lt;/a&gt; per a més detalls.&lt;br&gt;&lt;br&gt;No dubteu a trucar a la nostra línia d’atenció al client si teniu cap pregunta: 900 128 128."</string>
+    <string name="device_activation_card_description_china">"La primera activació es registra quan un dispositiu es connecta a la xarxa (inclòs, entre d'altres, Wi-Fi i xarxes mòbils) per primera vegada. Normalment es triga un temps a registrar la primera activació, de manera que és millor esperar 3-5 dies després de connectar-se a la xarxa abans de comprovar l’estat de l’activació.&lt;br&gt;&lt;br&gt;L'activació del dispositiu és el factor principal per determinar el període de validesa de la nostra garantia. Comprovi la nostra 
+ &lt;a href=%1$s&gt;Política de devolucions, canvis, i reparació&lt;/a&gt; per a més detalls.&lt;br&gt;&lt;br&gt;No dubteu a trucar a la nostra línia d’atenció al client si teniu cap pregunta: 900 128 128."</string>
     <string name="device_activation_card_device_not_support">No és compatible amb aquest dispositiu</string>
     <string name="device_activation_card_local_service_error">"No s'ha pogut obtenir la informació. Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="device_activation_card_no_network_error">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
@@ -199,7 +200,9 @@
     <string name="member_entrance_title_ultra_low_case_a">Renovació</string>
     <string name="member_entrance_title_ultra_low_case_b">Renovació</string>
     <string name="member_menu_vipname_free">Gratuïta</string>
+    <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Prèmium</string>
+    <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_feedback">Comentaris</string>
     <string name="menu_add_short_cut">Crea una drecera a la pantalla d\'inici</string>
     <string name="merge">Combina</string>
@@ -410,6 +413,8 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_storage_expires_soon_title">L’emmagatzematge de Xiaomi Cloud caducarà aviat</string>
     <string name="micloud_storage_expires_very_soon_title">L’emmagatzematge de Xiaomi Cloud caducarà aviat</string>
     <string name="micloud_storage_full">Emmagatzematge en el núvol complet</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sincronitza les teves fotos, contactes, notes, i més en tots els teus dispositius.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sincronitzeu les fotos, contactes, notes i molt més en tots els vostres dispositius.</string>
     <string name="micloud_sync_alert_dialog_negative">Cancel·la</string>

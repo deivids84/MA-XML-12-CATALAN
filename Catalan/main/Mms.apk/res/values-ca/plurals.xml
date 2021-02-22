@@ -42,11 +42,11 @@
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d missatges</item>
-        <item quantity="one">1 missatge</item>
+        <item quantity="one">%d missatge</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d missatges no s'han sincronitzat"</item>
-        <item quantity="one">"1 missatge no s'ha sincronitzat"</item>
+        <item quantity="one">"%d missatge no s'ha sincronitzat"</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Voleu suprimir les converses seleccionades de %1$s?</item>
@@ -125,12 +125,12 @@
         <item quantity="one">S\'ha enviat %1$s missatge</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s segs</item>
-        <item quantity="one">%s seg</item>
+        <item quantity="other">%d seg</item>
+        <item quantity="one">%d seg</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s segs</item>
-        <item quantity="one">%s seg</item>
+        <item quantity="other">%d seg</item>
+        <item quantity="one">%d seg</item>
     </plurals>
     <plurals name="timed_message_expired_title">
         <item quantity="other">"%d missatges programats no van ser enviats"</item>

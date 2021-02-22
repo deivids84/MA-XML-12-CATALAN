@@ -2103,7 +2103,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="mixed_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
     <string name="mixed_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
     <string name="mixed_pattern_entered_header">La contrasenya s\'ha establert amb èxit</string>
-    <string name="mixed_recording_intro_header">Introduïu com a mínim 4 caràcters</string>
+    <string name="mixed_recording_intro_header">Introduïu %1$s-%2$s caràcters</string>
     <string name="mixed_retry_button_text">Cancel·la</string>
     <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
     <string name="modify_cellular_type">Toqueu per seleccionar el vostre pla</string>
@@ -2919,7 +2919,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pref_key_tethering_setting">Límit de dades d\'una sola vegada</string>
     <string name="pref_key_tethering_title">Límit de dades d\'una sola vegada</string>
     <string name="pref_manual_adjust">Estableix manualment les estadístiques d\'ús de dades</string>
-    <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
+    <string name="pref_mi_sim_settings">Configuració del paquet %s</string>
     <string name="pref_more_settings">Configuració addicional</string>
     <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
     <string name="pref_normal_traffic_limit">Quan el pla de dades s\'esgoti</string>
@@ -4064,7 +4064,7 @@ Ha comprat %s de dades addicionals aquest mes. Això no es reflecteix en el lím
     <string name="traffic_config_alert_body_leisure">"
 La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seves dades d'hora vall aquest mes, això difereix dels %2$s que Vè. ha establert manualment."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-La comptabilitat del seu operador mostra que Vè. li queden %s de dades d'hora vall. Vè. no ha posat un límit per a les dades en hora vall."</string>
+El límit mensual d'ús de dades del vostre pla és de %1$s. No heu establert cap límit d’ús de dades."</string>
     <string name="traffic_config_alert_body_normal">"
 El màxim ús mensual del vostre pla de dades és de %1$s. No coincideix amb el que heu establert manualment de %2$s."</string>
     <string name="traffic_config_alert_package">"

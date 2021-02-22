@@ -73,6 +73,6 @@
     <item>Per fer trucades i enviar missatges per Wi-Fi, primer demaneu al vostre operador que configurin aquest servei. A continuació, torneu a activar les trucades per Wi-Fi des de la Configuració. (Codi d\'error: %1$s)</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Registreu-vos amb el vostre operador</item>
+    <item>Problema al registrar trucades Wi-Fi amb el vostre operador: %1$s</item>
   </string-array>
 </resources>

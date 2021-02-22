@@ -69,8 +69,8 @@
         <item quantity="one">Voleu suprimir %d número de telèfon?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Hi ha %d contactes o fotos que no s'han sincronitzat"</item>
-        <item quantity="one">"Hi ha %d contacte o foto que no s'ha sincronitzat"</item>
+        <item quantity="other">"Hi ha %1$d contactes o fotos que no s'han sincronitzat"</item>
+        <item quantity="one">"Hi ha %1$d contacte o foto que no s'ha sincronitzat"</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Voleu eliminar %1$d contactes de la targeta SIM?</item>
@@ -202,7 +202,7 @@
     </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">%1$d contactes recents</item>
-        <item quantity="one">1 contacte recent</item>
+        <item quantity="one">%1$d contacte recent</item>
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">S\'han trobat %d</item>

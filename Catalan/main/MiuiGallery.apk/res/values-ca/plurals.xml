@@ -181,16 +181,16 @@
         <item quantity="one">Voleu eliminar %d element?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Voleu eliminar %d fotos de tots els dispositius i del Mi Cloud?</item>
-        <item quantity="one">Voleu eliminar aquesta foto de tots els dispositius i del Mi Cloud?</item>
+        <item quantity="other">Voleu suprimir %d fotos de tots els dispositius i de Xiaomi Cloud?</item>
+        <item quantity="one">Voleu suprimir %d foto de tots els dispositius i de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Voleu suprimir %d rafegues d\'aquest dispositiu?</item>
         <item quantity="one">Voleu suprimir %d ràfega d\'aquest dispositiu?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Voleu eliminar %d vídeos de tots els dispositius i del Mi Cloud?</item>
-        <item quantity="one">Voleu eliminar aquest vídeo de tots els dispositius i del Mi Cloud?</item>
+        <item quantity="other">Voleu suprimir %d vídeos de tots els dispositius i de Xiaomi Cloud?</item>
+        <item quantity="one">Voleu suprimir %d vídeo de tots els dispositius i de Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"No es poden baixar %1$d fitxers"</item>
@@ -245,36 +245,36 @@
         <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Còpia de seguretat pendent per a %1$d elements</item>
-        <item quantity="one">Còpia de seguretat pendent per a un element</item>
+        <item quantity="other">%1$d elements pendents de sincronització</item>
+        <item quantity="one">%1$d element pendent de sincronització</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotos</item>
         <item quantity="one">%1$d foto</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">Còpia de seguretat pendent per a %1$d fotos</item>
-        <item quantity="one">Còpia de seguretat pendent per a una foto</item>
+        <item quantity="other">%1$d fotos pendents de sincronització</item>
+        <item quantity="one">%1$d foto pendent de sincronització</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">S\'està fent la còpia de seguretat de %1$d fotos&#8230;</item>
-        <item quantity="one">S\'està fent la còpia de seguretat de la foto&#8230;</item>
+        <item quantity="other">Sincronitzant %1$d fotos…</item>
+        <item quantity="one">Sincronitzant %1$d foto…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">S\'està fent la còpia de seguretat de %1$d elements&#8230;</item>
-        <item quantity="one">S\'està fent la còpia de seguretat d\'un element&#8230;</item>
+        <item quantity="other">Sincronitzant %1$d elements…</item>
+        <item quantity="one">Sincronitzant %1$d element…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">S\'està fent la còpia de seguretat de %1$d vídeos&#8230;</item>
-        <item quantity="one">S\'està fent la còpia de seguretat del vídeo&#8230;</item>
+        <item quantity="other">S\'estan sincronitzant %1$d vídeos…</item>
+        <item quantity="one">S\'està sincronitzant %1$d vídeo…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d vídeos</item>
         <item quantity="one">%1$d vídeo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Còpia de seguretat pendent per a %1$d vídeos</item>
-        <item quantity="one">Còpia de seguretat pendent per a un vídeo</item>
+        <item quantity="other">%1$d vídeos pendents de sincronització</item>
+        <item quantity="one">%1$d vídeo pendent de sincronització</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Total %1$d elements</item>
@@ -377,8 +377,8 @@
         <item quantity="one">S\'ha rebut %2$d paquet d\'instal·lació (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d paquets d\'instal·lació (%3$s) de %1$s…</item>
-        <item quantity="one">%3$srebut %2$d paquet d\'instal·lació ( %3$s ) de %1$s…</item>
+        <item quantity="other">S\'està rebent %2$d paquets d\'instal·lació (%3$s) de %1$s…</item>
+        <item quantity="one">S\'està rebent %2$d paquet d\'instal·lació (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
         <item quantity="other">%2$d fitxers d\'àudio (%3$s) de %1$s</item>
@@ -389,8 +389,8 @@
         <item quantity="one">S\'ha rebut %2$d fitxer d\'àudio (%3$s) de %1$s</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d fitxers d\'àudio (%3$s) de %1$s…</item>
-        <item quantity="one">%3$srebut %2$d fitxer d\'àudio ( %3$s ) de %1$s…</item>
+        <item quantity="other">Rebent %2$d fitxers d\'àudio (%3$s) de %1$s…</item>
+        <item quantity="one">Rebent %2$d fitxer d\'àudio (%3$s) de %1$s…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
         <item quantity="other">%2$d %3$s fitxers (%4$s) de %1$s</item>
@@ -401,8 +401,8 @@
         <item quantity="one">S\'ha rebut %2$d %3$s fitxer (%4$s) de %1$s</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d %3$s fitxers (%4$s) de %1$s…</item>
-        <item quantity="one">%3$s rebut %2$d %3$s fitxer (%4$s) de %1$s…</item>
+        <item quantity="other">Rebent %2$d fitxers %3$s (%4$s) de %1$s…</item>
+        <item quantity="one">Rebent %2$d fitxer %3$s (%4$s) de %1$s…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
         <item quantity="other">%2$d imatges de %1$s</item>
@@ -437,8 +437,8 @@
         <item quantity="one">S\'ha rebut %2$d fitxer de l\' %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d fitxers de %1$s…</item>
-        <item quantity="one">%1$srebut %2$d fitxer de %1$s…</item>
+        <item quantity="other">Rebent %2$d fitxers de %1$s…</item>
+        <item quantity="one">Rebent %2$d fitxer de %1$s…</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">"No s'ha pogut compartir. Encara s'està processant les foto %d…"</item>
@@ -453,8 +453,8 @@
         <item quantity="one">S\'ha rebut %2$d vídeo de l\' %1$s</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">S\'han rebut %2$d vídeos de %1$s…</item>
-        <item quantity="one">%1$srebut %2$d vídeo de %1$s…</item>
+        <item quantity="other">Rebent %2$d vídeos de %1$s…</item>
+        <item quantity="one">Rebent %2$d vídeo de %1$s…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
         <item quantity="other">%2$d arxius (%3$s) de %1$s</item>

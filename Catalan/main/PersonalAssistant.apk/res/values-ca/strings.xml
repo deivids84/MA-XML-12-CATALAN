@@ -142,7 +142,7 @@
     <string name="app_commute_run_the_meter">Mesurat</string>
     <string name="app_commute_taking_code">Codi</string>
     <string name="app_commute_taxi_button">Truca a un taxi</string>
-    <string name="app_commute_time_taking">Arribeu a %3$s a ≈%1$s (viatge de%2$dminuts)</string>
+    <string name="app_commute_time_taking">Arribareu a %3$s amb ≈%1$s (viatge de %2$d minuts)</string>
     <string name="app_commute_transit_code_dialog_checkbox_text">Recorda l’elecció</string>
     <string name="app_commute_transit_code_dialog_item_alipay">Alipay</string>
     <string name="app_commute_transit_code_dialog_item_wechat">WeChat</string>
@@ -293,6 +293,8 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_pa_setting_private_policy">Política de privadesa</string>
     <string name="app_pa_setting_service_commute">Viatge</string>
     <string name="app_pa_setting_service_commute_summary">Per construir rutes de navegació i proporcionar serveis de transport automòbil</string>
+    <string name="app_pa_setting_service_covid">Informació COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Consulteu la informació més recent relacionada amb la COVID-19</string>
     <string name="app_pa_setting_service_forecast">Suggeriments intel·ligents</string>
     <string name="app_pa_setting_service_forecast_summary">"Rebeu suggeriments d'aplicacions i de funcions que són més probables que utilitzeu"</string>
     <string name="app_pa_setting_service_management">Gestiona els serveis</string>
@@ -468,7 +470,6 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="ball_dialog_title">Cal que instal·leu l\'aplicació.</string>
     <string name="ball_football_recent_ing">En curs</string>
     <string name="ball_hupu">HuPu Sports</string>
-    <string name="base_hour12_format_en">H.mm</string>
     <string name="base_hour24_format_en">HH:mm</string>
     <string name="base_search_empty">"No s'ha pogut trobar resultats"</string>
     <string name="base_time_just_now">Ara</string>
@@ -706,7 +707,7 @@ Envieu aquest codi al tècnic."</string>
     <string name="didi_not_installed">Instal·leu DiDi per utilitzar aquesta targeta</string>
     <string name="didi_other_dest">Un altre destinació</string>
     <string name="didi_price">Tarifa</string>
-    <string name="didi_price_unit">EUR</string>
+    <string name="didi_price_unit">%sCNY</string>
     <string name="didi_target">Destinació     </string>
     <string name="didi_taximeter">Calcula la tarifa de taxi</string>
     <string name="didi_trip">Truca a un taxi</string>

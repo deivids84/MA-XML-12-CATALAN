@@ -1095,8 +1095,8 @@ Mireu els recomanats!"</string>
     <string name="sim_full_title">Targeta SIM plena</string>
     <string name="sim_manage_messages_title">SMS a la targeta SIM</string>
     <string name="sim_view">Mostra</string>
-    <string name="slide_number">Diapositiva %s</string>
-    <string name="slide_show_part">Part %1$s/%2$s</string>
+    <string name="slide_number">Diapositiva %d</string>
+    <string name="slide_show_part">Part %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Feu lliscar amunt per cancel·lar</string>
     <string name="slideshow_activity">Presentació</string>
     <string name="smart_message_title">Missatgeria Intel·ligent</string>
@@ -1118,8 +1118,8 @@ Mireu els recomanats!"</string>
     <string name="sms_report_dialog_title">Torna-ho a provar</string>
     <string name="sms_report_failed">"No s'ha pogut enviar l'informe"</string>
     <string name="sms_report_success">Informe enviat</string>
-    <string name="snippet_audio">[àudio]</string>
-    <string name="snippet_picture">[imatge]</string>
+    <string name="snippet_audio">[Audio]</string>
+    <string name="snippet_picture">[Image]</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Clar i lluminós</string>

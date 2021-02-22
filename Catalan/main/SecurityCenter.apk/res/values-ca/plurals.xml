@@ -58,11 +58,11 @@
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">S\'han retornat %3$d missatges en blanc entre %1$s i %2$s</item>
-        <item quantity="one">%1$s retornat %3$d missatges en blanc entre %1$s i %2$s</item>
+        <item quantity="one">S\'ha retornat %3$d missatge en blanc entre %1$s i %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">S\'han retornat %2$d missatges en blanc a l\' %1$s</item>
-        <item quantity="one">%1$sretornat %2$d missatges en blanc a la %1$s</item>
+        <item quantity="other">S\'han retornat %2$d missatges en blanc a %1$s</item>
+        <item quantity="one">S\'ha retornat %2$d missatge en blanc a %1$s</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
         <item quantity="other">%2$d aplicacions, inclosa %1$1s estan enregistrant àudio</item>

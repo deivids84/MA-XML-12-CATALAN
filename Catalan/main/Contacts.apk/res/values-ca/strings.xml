@@ -318,7 +318,7 @@
     <string name="conference_call_disable_tip">"No es poden fer trucades. Assegureu-vos que el vostre dispositiu està connectat a una xarxa 4G amb suport VoLTE."</string>
     <string name="confirm_call_log_dial_summary">Demanar confirmació abans de marcar des dels registres de trucades per evitar trucades accidentals.</string>
     <string name="confirm_call_log_dial_title">Confirma els marcatges des del registre de trucades</string>
-    <string name="confirm_delete_contact_all_call_logs">"Esborrar registre de trucades?"</string>
+    <string name="confirm_delete_contact_all_call_logs">"Voleu esborrar tot l'historial de %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
     <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
     <string name="confirm_export_message"> La seva llista de contactes s\'exportarà al fitxer: %s.</string>
@@ -525,7 +525,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="expandOpenViewDescription">Expandeix</string>
     <string name="expand_button_title">Avançat</string>
     <string name="export_sim_contact_finish">Contactes exportats</string>
-    <string name="export_sim_contact_finish_msg">%1$d transferits | %2$d duplicats | %3$d restants</string>
+    <string name="export_sim_contact_finish_msg">%1$d transferits | %2$d duplicats | %3$d restants %4$s</string>
     <string name="export_to_sdcard">Exportar a emmagatzematge</string>
     <string name="export_to_sim">Exporta a la targeta SIM</string>
     <string name="export_to_sim1">Exporta a SIM 1</string>
@@ -871,8 +871,8 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="phone_number_too_long_toast">Número massa llarg</string>
     <string name="phone_primary">Primària</string>
     <string name="photoPickerNotFoundText">No hi ha imatges disponibles al telèfon.</string>
-    <string name="pick_new_photo">Seleccioneu Nova foto de la galeria</string>
-    <string name="pick_photo">Triar foto de la galeria</string>
+    <string name="pick_new_photo">Trieu una foto nova de %s</string>
+    <string name="pick_photo">Trieu una foto de %s</string>
     <string name="pickerNewContactHeader">Crea un nou contacte</string>
     <string name="picker_all_list_empty">No hi ha contactes</string>
     <string name="picker_contact_title">Seleccioneu un contacte</string>
@@ -1234,7 +1234,7 @@ Trieu una de les següents opcions: "</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="vcard_export_request_rejected_message">Exportació de vCard va ser rebutjada. Intenta-ho més tard.</string>
     <string name="vcard_export_will_start_message">%s s\'exportaran aviat.</string>
-    <string name="vcard_import_failed">"No s'ha pogut importar vCard "</string>
+    <string name="vcard_import_failed">"No s'ha pogut importar %s vCard."</string>
     <string name="vcard_import_request_rejected_message">Exportació de vCard va ser rebutjada. Intenta-ho més tard.</string>
     <string name="vcard_import_will_start_message_with_default_name">El fitxer s\'importarà d\'aquí a poc.</string>
     <string name="vcard_unknown_filename">Contacte</string>

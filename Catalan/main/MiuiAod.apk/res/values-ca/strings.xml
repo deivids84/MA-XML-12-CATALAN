@@ -34,6 +34,12 @@
     <string name="add_custom_image">Imatge personalitzada</string>
     <string name="add_from_album">Afegeix des de la Galeria</string>
     <string name="afternoon">Tarda</string>
+    <string name="align_center_horizontally">Horitzontal i al centre</string>
+    <string name="align_center_vertically">Apilat i alineat al centre</string>
+    <string name="align_left_horizontally">Horitzontal i alineat a l\'esquerra</string>
+    <string name="align_left_vertically">Apilat i alineat a l\'esquerra</string>
+    <string name="align_right_horizontally">Horitzontal i alineat a la dreta</string>
+    <string name="align_right_vertically">Apilat i alineat a la dreta</string>
     <string name="align_type">Alinea</string>
     <string name="always_style">Sempre</string>
     <string name="always_style_symmary">Consumeix més energia</string>

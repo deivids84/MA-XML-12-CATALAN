@@ -475,7 +475,7 @@ mm"</string>
     <string name="passport_input_vcode_hint">Introduïu el codi de verificació</string>
     <string name="passport_input_voice_captcha_hint">Introduïu el codi de verificació de veu</string>
     <string name="passport_input_voice_hint">Introduïu el codi de veu</string>
-    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el format següent: + [prefix] [número de telèfon], per exemple: +34 817282982)</string>
+    <string name="passport_international_phone_password_login_tip">(Els usuaris de fora de la Xina han d\'introduir el número de telèfon mòbil en el següent format: +[codi d\'àrea][número de telèfon], per exemple: +91 817282982)</string>
     <string name="passport_log_detail">Mostra els detalls</string>
     <string name="passport_login_failed">"No s'ha pogut iniciar la sessió"</string>
     <string name="passport_next">Següent</string>
@@ -707,9 +707,9 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Canvia el fons de pantalla cada 3 hores</string>
     <string name="subscribe_success_content_per_unlock">Canvia el fons de pantalla cada vegada que el dispositiu es bloqueja</string>
     <string name="subscribe_update_time_setting">Estableix un interval diferent</string>
-    <string name="summary">"En utilitzar aquesta funció accepteu la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;.. Aquesta funció necessita una connexió a Internet per funcionar correctament."</string>
+    <string name="summary">"Accepteu la nostra &lt;a href='%s'&gt;Política de privadesa&lt;/a&gt; per veure el contingut en línia. Si no hi esteu d’acord, els fons de pantalla locals continuaran disponibles."</string>
     <string name="summary2">"En utilitzar aquesta funció, esteu acceptant el nostre &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Acord d’Usuari&lt;/font&gt;&lt;/a&gt; i la nostra &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de privadesa&lt;/font&gt;&lt;/a&gt;. Aquesta funció necessita connectar-se a Internet per funcionar amb normalmitat.​"</string>
-    <string name="summary_international">"En utilitzar aquesta funció accepteu els nostres &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció necessita una connexió a Internet per funcionar correctament"</string>
+    <string name="summary_international">"En utilitzar aquesta funció, accepteu el nostre &lt;a href ='%1$s'&gt;Acord d’usuari&lt;/a&gt; i &lt;a href='%2$s'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció ha de connectar-se a Internet per funcionar amb normalitat"</string>
     <string name="sure_close_gallery">Voleu desactivar el Carrusel de fons de pantalla?</string>
     <string name="sure_close_gallery_des">"No podreu rebre imatges noves a la pantalla d'inici i a la pantalla de bloqueig si desactiveu el Carrusel de fons de pantalla. Voleu desactivar-ho de totes maneres?"</string>
     <string name="system_default">Per defecte</string>
