@@ -1166,6 +1166,8 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_is_discoverable">Visible a tots els altres dispositius Bluetooth del voltant (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Activat: aquest dispositiu és visible per a tots els dispositius Bluetooth propers</string>
     <string name="bluetooth_is_visible_message">%1$s és visible pels dispositius del voltant, mentre estigui activa la configuració de Bluetooth.</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Connectat a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilitzeu-lo per a LE_AUDIO</string>
     <string name="bluetooth_left_name">Esquerra</string>
     <string name="bluetooth_lock_voice_dialing">Bloqueja el marcatge per veu</string>
     <string name="bluetooth_lock_voice_dialing_summary">Desactiva el teclat de marcació per Bluetooth quan la pantalla estigui bloquejada</string>
@@ -1244,6 +1246,7 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_profile_headset">Àudio del telèfon</string>
     <string name="bluetooth_profile_hearing_aid">Audiòfon</string>
     <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">S\'utilitza per accedir a missatges</string>
     <string name="bluetooth_profile_opp">Transferència de fitxers</string>
     <string name="bluetooth_profile_pan">Accés a internet</string>
@@ -1388,7 +1391,7 @@ Selecció"</string>
     <string name="bootloader_status_locked">Bloquejat</string>
     <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
     <string name="bootloader_status_locked_summary">El telèfon està assegurat</string>
-    <string name="bootloader_status_privacy_dialog_message">Mi Desbloqueig necessita accés al vostre compte Mi, identificador de CPU, IMSI per funcionar amb normalitat. Recopilem, fem servir i processem les vostres dades d’acord amb el nostre %s. Acordar?</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock necessita accés al Compte Mi, l\'identificador de CPU i l\'IMSI per funcionar amb normalitat. Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Hi esteu d\'acord?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Cancel·la</string>
     <string name="bootloader_status_privacy_dialog_title">Permisos necessaris</string>
     <string name="bootloader_status_privacy_dialog_url_text">Política de privadesa</string>
@@ -1693,19 +1696,19 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="color_calibration_none">Aquest dispositiu</string>
     <string name="color_cyan">Turquesa</string>
     <string name="color_game_led_applications_title">Seleccioneu les aplicacions</string>
-    <string name="color_game_led_applications_title_summary">Podeu restringir l\'ús de la llum LED per a aplicacions individualment</string>
+    <string name="color_game_led_applications_title_summary">Seleccioneu individualment les aplicacions que funcionaran amb llum LED</string>
     <string name="color_game_led_battery_title">Manté encès mentre s\'està carregant</string>
-    <string name="color_game_led_charging_summary">S\'apagarà quan la bateria estigui carregada</string>
-    <string name="color_game_led_end_time">Hora de finalització</string>
+    <string name="color_game_led_charging_summary">La llum LED s’apagarà quan es carregui la bateria</string>
+    <string name="color_game_led_end_time">Fi</string>
     <string name="color_game_led_game_mode_summary">Mostra els efectes dels jocs quan Game Turbo estigui activat</string>
     <string name="color_game_led_game_mode_title">Ús per al Game Turbo</string>
     <string name="color_game_led_incall_pulse_title">Ús per a trucades entrants</string>
-    <string name="color_game_led_notification_pulse_title">Pampalluga per a notificacions quan la pantalla està apagada</string>
-    <string name="color_game_led_remind_title">Recorda els efectes</string>
+    <string name="color_game_led_notification_pulse_title">Pols per les notificacions a la pantalla sempre activa</string>
+    <string name="color_game_led_remind_title">Efectes</string>
     <string name="color_game_led_special_scene_title">Efectes especials</string>
-    <string name="color_game_led_start_time">Hora d\'inici</string>
+    <string name="color_game_led_start_time">Inici</string>
     <string name="color_game_led_summary">"No funciona en mode No molestis"</string>
-    <string name="color_game_led_time_title">Temps del llum LED</string>
+    <string name="color_game_led_time_title">Programa el temps</string>
     <string name="color_game_led_title">Llum LED</string>
     <string name="color_gray">Gris</string>
     <string name="color_green">Verd</string>
@@ -2347,8 +2350,8 @@ Per intentar solucionar aquest problema, podeu aturar %1$s i evitar que s'execut
     <string name="dialog_check_button_negative">Torna-ho a provar</string>
     <string name="dialog_check_button_positive">Connecta\'t a la Wi-Fi</string>
     <string name="dialog_check_context">"El dispositiu no es pot connectar a Internet ara.
-1. Toqueu \"Connecta't a la Wi-Fi\" per seleccionar una de les xarxes disponibles.
-2. Si voleu utilitzar les dades mòbils, toqueu \"Torna-ho a provar\" o traieu i torneu a inserir la targeta SIM."</string>
+· Toqueu \"Connecta't a la Wi-Fi\" per seleccionar una de les xarxes disponibles.
+· Si voleu utilitzar les dades mòbils, toqueu a \"Torna-ho a provar\" o traieu i torneu a inserir la targeta SIM."</string>
     <string name="dialog_check_title">"No es pot connectar a Internet"</string>
     <string name="dialog_chose_item">Seleccioneu un element per visualitzar-lo</string>
     <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
@@ -2548,7 +2551,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="dpp_cannot_connect_target">"No es pot connectar a la xarxa de destinació"</string>
     <string name="dpp_connect_success">S\'ha connectat correctament</string>
     <string name="dpp_not_support">"No es pot compartir aquesta xarxa"</string>
-    <string name="dpp_qr_code_summary">Connecteu-vos a la xarxa Wi-Fi escanejant aquest codi QR.</string>
+    <string name="dpp_qr_code_summary">Demaneu a l\'altra persona que escanegi aquest codi QR mitjançant l\'escàner a la configuració de la Wi-Fi</string>
     <string name="dpp_qrcode_generator_summary">Escaneja aquest codi QR amb un dispositiu compatible amb Easy Connect</string>
     <string name="dpp_scanner_summary">Col·loqueu el codi QR dins del marc</string>
     <string name="dpp_shared_fail">"No s'ha pogut compartir la Wi-Fi"</string>
@@ -2785,6 +2788,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="expandable_under_keyguard_title">Mostra-ho a la pantalla de bloqueig</string>
     <string name="experimental_category_title">Experimental</string>
     <string name="experimental_preference">(Experimental)</string>
+    <string name="expert_detail_content_description">Mostra els detalls</string>
     <string name="extended_power_menu">Menú ampliat d\'energia</string>
     <string name="exterior">Esquema de colors</string>
     <string name="external_code_size_label">Codi a la memòria externa</string>
@@ -3687,6 +3691,8 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="last_time_used_label">Darrer cop que es va fer servir</string>
     <string name="lattice_smartcover_title">Tapa frontal enreixada</string>
     <string name="launch_ai_shortcut">Drecera Mi AI</string>
+    <string name="launch_alipay_health_code">Codi sanitari Alipay</string>
+    <string name="launch_alipay_health_code_auto_close">La drecera del codi sanitari d\'Alipay ja no està disponible. Podeu canviar a una drecera diferent.</string>
     <string name="launch_alipay_payment_code">Codi de pagament Alipay</string>
     <string name="launch_alipay_scanner">Escàner Alipay</string>
     <string name="launch_by_default">Obre per defecte</string>
@@ -3704,6 +3710,8 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="launch_notification_center">Àrea de notificacions</string>
     <string name="launch_recents">Executa recents</string>
     <string name="launch_voice_assistant">Inicieu assistent de veu</string>
+    <string name="launch_wechat_health_code">Codi sanitari de WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">La drecera del codi sanitari de WeChat ja no està disponible. Podeu canviar a una drecera diferent.</string>
     <string name="launch_wechat_payment_code">Codi de pagament WeChat</string>
     <string name="launch_wechat_scanner">Escàner WeChat</string>
     <string name="launch_wifi_text">Mostra els detalls</string>
@@ -4268,6 +4276,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
+    <string name="miheadset_ancBalance">Mitjà</string>
+    <string name="miheadset_ancClosed">Desactivat</string>
+    <string name="miheadset_ancDecrease">Baix</string>
+    <string name="miheadset_ancIncrease">Alt</string>
     <string name="miheadset_anc_indicate">Connecta i vincula els auriculars</string>
     <string name="miheadset_audio_mode">Qualitat d\'àudio</string>
     <string name="miheadset_audio_mode_high">Fort</string>
@@ -4314,6 +4326,21 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_ignore">Desemparella</string>
     <string name="miheadset_in_ear_check">Detecta la presència de l\'oïda</string>
     <string name="miheadset_in_ear_check_summary">Poseu en pausa i repreneu la reproducció automàticament mentre porteu o traieu els auriculars</string>
+    <string name="miheadset_key_config_call_ai">Assistent de veu</string>
+    <string name="miheadset_key_config_close">Desactivat</string>
+    <string name="miheadset_key_config_close_summary">Desactiva la cancel·lació de soroll i la transparència</string>
+    <string name="miheadset_key_config_gesture_control">Gestos</string>
+    <string name="miheadset_key_config_next_music">Cançó següent</string>
+    <string name="miheadset_key_config_noise_control">Control de soroll actiu</string>
+    <string name="miheadset_key_config_noise_control_summary">Manteniu premut per canviar entre els dos modes de control de soroll actius seleccionats</string>
+    <string name="miheadset_key_config_noise_summary">Bloqueja els sons externs</string>
+    <string name="miheadset_key_config_press_left">Mantén premut l\'auricular esquerre</string>
+    <string name="miheadset_key_config_press_right">Mantén premut l’auricular dret</string>
+    <string name="miheadset_key_config_trans_summary">Permet sons externs</string>
+    <string name="miheadset_key_config_triple_left">Triple toc a l\'auricular esquerre</string>
+    <string name="miheadset_key_config_triple_right">Triple toc a l\'auricular dret</string>
+    <string name="miheadset_key_config_volume_down">Abaixa el volum</string>
+    <string name="miheadset_key_config_volume_up">Apuja el volum</string>
     <string name="miheadset_last_version">El firmware està actualitzat</string>
     <string name="miheadset_local_ota">Actualitza</string>
     <string name="miheadset_minus">Baixar el volum</string>
@@ -4329,8 +4356,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_rename_device">Canvia el nom</string>
     <string name="miheadset_soft">Suau</string>
     <string name="miheadset_transparent">Transparència</string>
+    <string name="miheadset_transparentMode">Transparència</string>
     <string name="miheadset_triple_click_key_mode">Triple toc</string>
     <string name="miheadset_unpair_device_text">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
+    <string name="miheadset_voiceIncrease">Millora la veu</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fitxers diversos</string>
     <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
@@ -4366,6 +4395,7 @@ Continueu per accedir a la configuració addicional."</string>
     <string name="miui_lab_install_drive_mode_title">Instal·la el mode de cotxe</string>
     <string name="miui_lab_settings">Laboratori MIUI</string>
     <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
+    <string name="miui_master_clear_prompt_battery_low">"No es pot fer un restabliment de fàbrica amb menys del %1$s de bateria. Carregueu el dispositiu abans de continuar."</string>
     <string name="miui_master_clear_summary">Esborra totes les dades d’aquest dispositiu</string>
     <string name="miui_more_special_feature">Explora noves característiques</string>
     <string name="miui_optimization_disabled">Desactiva l’optimització MIUI</string>
@@ -8099,11 +8129,11 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_ask_disable">%s vol desactivar la Wi-Fi</string>
     <string name="wifi_ask_enable">%s vol activar la Wi-Fi</string>
     <string name="wifi_assist">Assistent de la Wi-Fi</string>
-    <string name="wifi_assistant">Selecciona les millors xarxes automàticament</string>
+    <string name="wifi_assistant">Roman connectat</string>
     <string name="wifi_assistant_auto_confirm_data_help">Podeu desactivar aquesta funció a Configuració &gt; Wi-Fi &gt; Assistent de la Wi-Fi.</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Utilitza xarxes de dades mòbils quan el dispositiu no es pugui connectar a Internet mitjançant la Wi-Fi."</string>
-    <string name="wifi_assistant_confirm_always">"No es torni a mostrar"</string>
-    <string name="wifi_assistant_confirm_connection_title">Selecciona automàticament les millors xarxes</string>
+    <string name="wifi_assistant_confirm_always">"No m'ho tornis a preguntar"</string>
+    <string name="wifi_assistant_confirm_connection_title">"No es pot connectar a Internet"</string>
     <string name="wifi_assistant_data_prompt">Avisa</string>
     <string name="wifi_assistant_data_prompt_summary">Mostra l\'advertència d\'ús de dades en canviar a dades mòbils</string>
     <string name="wifi_assistant_description">"Així és com funciona aquesta funció:
@@ -8111,14 +8141,19 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
 2. Si resulta que totes les connexions Wi-Fi disponibles són pobres i que les dades mòbils estan activades, el dispositiu seleccionarà la millor connexió de xarxa disponible."</string>
     <string name="wifi_assistant_disconnect">Desconnecta</string>
     <string name="wifi_assistant_explicitly_confirm_data_message">"Ara no es pot connectar a Internet mitjançant la Wi-Fi. Voleu canviar a les dades mòbils?"</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">"No es pot connectar a Internet mitjançant la Wi-Fi. Voleu desconnectar-vos ara?"</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">"Ara no es pot connectar a Internet mitjançant la Wi-Fi. Voleu canviar a una altra xarxa Wi-Fi?"</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">Voleu desconnectar-vos de la xarxa Wi-Fi?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">Sembla que hi ha altres xarxes disponibles. Voleu canviar de xarxa?</string>
     <string name="wifi_assistant_keep_connection">No gràcies</string>
+    <string name="wifi_assistant_keep_wifi_connection">No gràcies</string>
     <string name="wifi_assistant_off">Desactivat</string>
     <string name="wifi_assistant_ok">D\'acord</string>
     <string name="wifi_assistant_on">Activat</string>
+    <string name="wifi_assistant_prompt">Mantén-te connectat</string>
+    <string name="wifi_assistant_prompt_button">Entesos</string>
+    <string name="wifi_assistant_prompt_checkbox">Demana permís per utilitzar dades mòbils</string>
+    <string name="wifi_assistant_prompt_summary">"El dispositiu es connectarà a altres xarxes Wi-Fi disponibles o utilitzarà dades mòbils quan la xarxa Wi-Fi actual no es pugui connectar a Internet."</string>
     <string name="wifi_assistant_setup_wifi_assistant">Configuració</string>
-    <string name="wifi_assistant_summary">Selecciona la xarxa Wi-Fi o de dades mòbils automàticament si la connexió Wi-Fi és deficient</string>
+    <string name="wifi_assistant_summary">"Connecta't a altres xarxes Wi-Fi disponibles o utilitza dades mòbils quan la xarxa Wi-Fi actual no es pugui connectar a Internet"</string>
     <string name="wifi_assistant_switch_data">Utilitza les dades mòbils</string>
     <string name="wifi_assistant_switch_wifi">Interruptor</string>
     <string name="wifi_auto_connect">Connecta’t automàticament</string>
@@ -8603,13 +8638,13 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_tether_stopping">S\'està apagant el punt d\'accés&#8230;</string>
     <string name="wifi_time_remaining">%1$s esquerra</string>
     <string name="wifi_traffic_priority">Mode de trànsit</string>
-    <string name="wifi_traffic_priority_extreme">Mode extrem</string>
-    <string name="wifi_traffic_priority_extreme_summary">Prioritzeu les aplicacions actuals sobre les aplicacions en segon pla</string>
+    <string name="wifi_traffic_priority_extreme">Connexió ràpida</string>
+    <string name="wifi_traffic_priority_extreme_summary">"Dóna prioritat a les aplicacions que utilitzes mentre redueix la velocitat de baixada en segon pla"</string>
     <string name="wifi_traffic_priority_off">Desactivat</string>
     <string name="wifi_traffic_priority_on">Activat</string>
-    <string name="wifi_traffic_priority_regular">Mode normal</string>
-    <string name="wifi_traffic_priority_regular_summary">Comparteix l\'amplada de banda entre l\'aplicació actual i les aplicacions en segon pla</string>
-    <string name="wifi_traffic_priority_summary">Prioritzeu el trànsit de xarxa automàticament</string>
+    <string name="wifi_traffic_priority_regular">Equilibrat</string>
+    <string name="wifi_traffic_priority_regular_summary">Assigna un ample de banda igual a les aplicacions i a les baixades en segon pla</string>
+    <string name="wifi_traffic_priority_summary">Assigna una amplada de banda a les aplicacions i a les baixades en segon pla</string>
     <string name="wifi_turned_on_message">Wi-Fi activada</string>
     <string name="wifi_type_approval_dialog_title">Informació de regulació</string>
     <string name="wifi_type_approval_title">Tipus d\'homologació</string>

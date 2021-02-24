@@ -66,6 +66,7 @@ Torna-ho a provar"</string>
     <string name="btn_continue">Continua</string>
     <string name="btn_restore_abort">Cancel·la</string>
     <string name="btn_restore_cancel">Cancel·la</string>
+    <string name="btn_restore_cancel_app_app">"No restableixis les dades de WeChat"</string>
     <string name="btn_restore_continue">Restaura-ho de totes maneres</string>
     <string name="btn_restore_resume">Reprèn</string>
     <string name="btn_restore_retry">Torna-ho a provar</string>
@@ -117,6 +118,8 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
     <string name="cloud_backup">Còpies de seguretat del núvol</string>
     <string name="cloud_backup_derail_size_summary">Mida: %s</string>
+    <string name="cloud_backup_detail_app_data">Feu una còpia de seguretat de les dades de WeChat</string>
+    <string name="cloud_backup_detail_app_data_summary">Feu una còpia de seguretat de l\'historial de xats, dels fitxers i d\'altres elements</string>
     <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Còpia de seguretat cada %d dies</string>
     <string name="cloud_backup_detail_frequence_every_day">Còpia de seguretat cada dia</string>
@@ -137,6 +140,8 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="confirm_cancel_restore_positive">Continua</string>
     <string name="confirm_cancel_restore_title">Voleu cancel·lar la restauració?</string>
     <string name="confirm_restore">Restaura</string>
+    <string name="confirm_restore_app_data">Sobreescriu les dades d\'aplicacions</string>
+    <string name="confirm_restore_app_data_summary">En restaurar les dades de WeChat, se sobreescriurà la versió actual de les dades de l\'aplicació en aquest dispositiu. Voleu restaurar de totes maneres?</string>
     <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es baixaran automàticament quan estigueu connectat al Wi-Fi</string>
     <string name="confirm_restore_title">Restaurar</string>
     <string name="copy">Copia</string>
@@ -149,14 +154,17 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="desktop_wait_network">S\'està esperant…</string>
     <string name="desktop_waiting">S\'està esperant</string>
     <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
+    <string name="dialog_backup_failed">"No s'ha pogut fer una còpia de seguretat"</string>
     <string name="dialog_btn_cancel_backup">Cancel·la</string>
     <string name="dialog_btn_next">Següent</string>
     <string name="dialog_btn_overwrite_backup">Sobreescriu</string>
     <string name="dialog_btn_restore_skip">Restaura més tard</string>
+    <string name="dialog_buy_cloud_space">Actualitza</string>
     <string name="dialog_cancel_backup_cancel">Cancel·la</string>
     <string name="dialog_cancel_backup_confirm">D\'acord</string>
     <string name="dialog_cancel_backup_msg">En commutar l\'interruptor, es cancel·laran les còpies de seguretat en curs.</string>
     <string name="dialog_cancel_backup_title">Voleu cancel·lar la còpia de seguretat en curs?</string>
+    <string name="dialog_cloud_space_not_enough">Aquesta còpia de seguretat requereix %1$s d\'espai d\'emmagatzematge al núvol gratuït. Actualitzeu el pla d’emmagatzematge per fer una còpia de seguretat d’elements.</string>
     <string name="dialog_msg_overwrite_backup">La còpia de seguretat local és diferent de la de Xiaomi Cloud. Si continueu, la còpia de seguretat actual substituirà l\'anterior.</string>
     <string name="dialog_msg_restore_require_wlan">Per restaurar les còpies de seguretat requereix connectar-se a la Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">La restauració de còpies de seguretat requereix connectar-se a la Wi-Fi.</string>
@@ -176,7 +184,7 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="expand_button_title">Avançat</string>
     <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
     <string name="help_and_feedback">Ajuda i comentaris</string>
-    <string name="hint_restore_cross_space">La disposició de la pantalla inicial pot sortir incorrecta si transferiu elements entre espais.</string>
+    <string name="hint_restore_wechat_data">Nota: És possible que les dades de WeChat no es restaurin a causa de problemes de compatibilitat en alguns casos.</string>
     <string name="home_hint_global_launcher">Llançador POCO</string>
     <string name="home_hint_other_launcher">Un altre llançador</string>
     <string name="home_restore_error">"No s'ha pogut restaurar la pantalla d'inici"</string>
@@ -199,7 +207,7 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
-    <string name="msg_alert_cancel_restore">S\'està restaurant els elements. Vols aturar-ho?</string>
+    <string name="msg_alert_cancel_restore">Els elements s’estan restaurant des de Xiaomi Cloud. Voleu cancel·lar-la ara?</string>
     <string name="msg_alert_restore_error">"No s'han pogut restaurar els elements de Xiaomi Cloud. Torneu-ho a provar."</string>
     <string name="msg_restore_start_with_metered_network">"La pantalla d'inici es tornarà a iniciar. Les aplicacions amb còpia de seguretat es descarregaran automàticament. Es baixaran&lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s dels fitxers.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Si continueu per restaurar aquests elements, les dades mòbils s’utilitzaran per a la baixada.</string>
@@ -244,6 +252,8 @@ Comproveu la configuració de la xarxa i torneu-ho a provar. "</string>
     <string name="restore_app_order_title">Prioritza els elements restaurats</string>
     <string name="restore_cloud_backup_to_phone">Restaura els elements del núvol</string>
     <string name="restore_data_title">Restauració de dades</string>
+    <string name="restore_detail_category_app_data">Dades de WeChat</string>
+    <string name="restore_detail_category_app_data_summary">Historial de xat, fitxers i altres elements (%s)</string>
     <string name="restore_detail_category_apps">Disposició i aplicacions de la pantalla d\'inici</string>
     <string name="restore_detail_category_settings">Configuració</string>
     <string name="restore_detail_more">Més</string>
@@ -258,14 +268,15 @@ Comproveu la configuració de la xarxa i torneu-ho a provar. "</string>
     <string name="restore_home_failed">"No s'ha pogut restaurar la pantalla d'inici."</string>
     <string name="restore_home_screen_apps">Restaura des de la còpia de seguretat del núvol</string>
     <string name="restore_init_description">Comença la restauració</string>
-    <string name="restore_network_pause">%s (Toqueu per continuar)</string>
+    <string name="restore_network_pause">En pausa per estalviar dades mòbils. Toqueu per reprendre.</string>
     <string name="restore_network_unconnect">%s (En espera de la connexió)</string>
     <string name="restore_task_cancelling">S\'està cancel·lant…</string>
     <string name="restore_task_in_process">S\'està restaurant…</string>
     <string name="restore_task_unfinished">"No s'ha pogut restaurar"</string>
     <string name="restore_unfinished">S\'està restaurant, torneu-ho a provar més tard</string>
+    <string name="restoring_app_data_title_no_progress">S\'estan restaurant les dades de WeChat…</string>
     <string name="restoring_data">S\'estan restaurant les dades…</string>
-    <string name="restoring_file_title_no_progress">Restaurar arxius…</string>
+    <string name="restoring_file_title_no_progress">S\'estan restaurant les aplicacions…</string>
     <string name="restoring_home_screen_apps">S\'està restaurant des de Xiaomi Cloud…</string>
     <string name="restoring_settings">Restaurant la configuració…</string>
     <string name="retry">Reintenta</string>

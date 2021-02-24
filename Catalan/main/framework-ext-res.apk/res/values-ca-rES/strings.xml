@@ -6,8 +6,10 @@
     <string name="all_call_livetalk_remain_mins">Minuts restants: %1$s nacional o %2$s internacional</string>
     <string name="always">Sempre</string>
     <string name="alwaysUsePrompt">Recorda la meva elecció</string>
+    <string name="application_cannot_open_alipay_health_code">"No s'ha pogut obrir el codi sanitari d'Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"No s'ha pogut obrir el codi de pagament d'Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"No s'ha pogut obrir l'escàner Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"No s'ha pogut obrir el codi sanitari de WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"No s'ha pogut obrir el codi de pagament de WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"No s'ha pogut obrir l'escàner WeChat"</string>
     <string name="application_not_install_content">"Sembla que l'aplicació que realitza aquesta acció no està instal·lada al dispositiu. Podeu instal·lar aquesta aplicació o assignar una acció diferent a aquest gest."</string>

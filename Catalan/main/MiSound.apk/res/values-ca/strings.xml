@@ -107,8 +107,10 @@
     <string name="music_dirac_mode_general_earbuds">General</string>
     <string name="music_dirac_mode_general_inear">In-ear normals</string>
     <string name="music_dirac_mode_in_ear_four_unit">Mi Quadruple Driver Earphones</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Mi Dual Driver In-ear Earphones</string>
     <string name="music_dirac_mode_off">Dirac desactivat</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear Headphones (Tipus-C)</string>
+    <string name="music_dirac_mode_redmi_earphones">Redmi Earphones</string>
     <string name="music_dolby_mode_movie">Vídeo</string>
     <string name="music_dolby_mode_music">Música</string>
     <string name="music_dolby_mode_off">Desactivat</string>

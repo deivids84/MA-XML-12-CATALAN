@@ -455,6 +455,8 @@ Torna a intentar-ho en %d segons."</string>
     <string name="bluetooth_hearingaid_right_pairing_message">S\'està vinculant l\'audiòfon dret…</string>
     <string name="bluetooth_hid_profile_summary_connected">Connectat al dispositiu d\'entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">Utilitzat per a entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Connectat a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilitzeu-lo per a LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Connectat al centre de missatges </string>
     <string name="bluetooth_map_profile_summary_use_for">S\'utilitza per al MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Connectat al servidor de transferència de fitxers</string>
@@ -480,6 +482,7 @@ Torna a intentar-ho en %d segons."</string>
     <string name="bluetooth_profile_headset">Àudio del telèfon</string>
     <string name="bluetooth_profile_hearing_aid">Audiòfon</string>
     <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">S\'utilitza per accedir a missatges</string>
     <string name="bluetooth_profile_opp">Transferència de fitxers</string>
     <string name="bluetooth_profile_pan">Accés a Internet</string>
@@ -1658,6 +1661,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_screenshot_label">Captura de pantalla</string>
     <string name="quick_settings_secondary_label_until">Fins %s</string>
     <string name="quick_settings_settings_label">Configuració</string>
+    <string name="quick_settings_sim_disabled">" (Inhabilitat)"</string>
     <string name="quick_settings_sync_label">Sincronització</string>
     <string name="quick_settings_tethering_label">Compartició de xarxa</string>
     <string name="quick_settings_time_label">Temps</string>

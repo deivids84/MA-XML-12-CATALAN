@@ -711,7 +711,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="ok">D\'acord</string>
     <string name="on_tip_firework_recommend">"Rebràs recomanacions de contingut personalitzat de Firework"</string>
     <string name="open_settings">Configuració</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
     <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>

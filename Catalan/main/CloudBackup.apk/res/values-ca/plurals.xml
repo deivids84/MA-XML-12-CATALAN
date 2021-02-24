@@ -16,8 +16,4 @@
         <item quantity="other">Prioritat alta: %d aplicacions</item>
         <item quantity="one">Prioritat alta: %d aplicació</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">S\'estan restaurant %d fitxers</item>
-        <item quantity="one">S\'està restaurant %d fitxer</item>
-    </plurals>
 </resources>

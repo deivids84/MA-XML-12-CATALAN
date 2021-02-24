@@ -141,6 +141,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">S\'està vinculant l\'audiòfon dret…</string>
     <string name="bluetooth_hid_profile_summary_connected">Connectat a un dispositiu d\'entrada</string>
     <string name="bluetooth_hid_profile_summary_use_for">S\'utilitza com a dispositiu d\'entrada</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Connectat a LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Utilitzeu-lo per a LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Connectat al MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">S\'utilitza per al MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Connectat al servidor de transferència de fitxers</string>
@@ -169,6 +171,7 @@
     <string name="bluetooth_profile_headset">Trucades de telèfon</string>
     <string name="bluetooth_profile_hearing_aid">Audiòfon</string>
     <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">S\'utilitza per accedir a missatges</string>
     <string name="bluetooth_profile_opp">Transferència de fitxers</string>
     <string name="bluetooth_profile_pan">Accés a Internet</string>
@@ -429,6 +432,10 @@ Protocol de connexió més ràpid."</string>
     <string name="mi_key_summary_open_camera">Feu doble clic a la Mi-Key per obrir la càmera</string>
     <string name="mi_key_summary_take_photo">Feu clic a la Mi-Key per fer una foto</string>
     <string name="mi_key_take_photo">Fes una foto</string>
+    <string name="miheadset_notification_Box">Estoig</string>
+    <string name="miheadset_notification_Disconnect">Desconnecta</string>
+    <string name="miheadset_notification_LeftEar">E</string>
+    <string name="miheadset_notification_RightEar">D</string>
     <string name="mihome_app_download">Instal·la-ho ara</string>
     <string name="mihome_app_update">Actualitza ara</string>
     <string name="mihome_download_tips">Instal·leu l\'aplicació Mi Home, inicieu la sessió i manteniu el telèfon a prop del dispositiu.</string>
