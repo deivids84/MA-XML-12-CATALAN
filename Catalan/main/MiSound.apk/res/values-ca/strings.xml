@@ -40,6 +40,11 @@
     <string name="customization_continue">Continua</string>
     <string name="customization_pause_tip">Voleu aturar la prova? Connecteu els auriculars per continuar.</string>
     <string name="customization_quit">Surt</string>
+    <string name="dolby_dax_geq_select_title">Predefinits</string>
+    <string name="dolby_dax_geq_title">Equalitzador gràfic</string>
+    <string name="dolby_dax_profile_dynamic">Dinàmic</string>
+    <string name="dolby_dax_setting">Efectes Dolby</string>
+    <string name="dolby_dax_title">So envoltant</string>
     <string name="end_wireless_transmission">Atura</string>
     <string name="eq_auto">Personalitzat</string>
     <string name="eq_blues">Blues</string>
@@ -76,6 +81,7 @@
     <string name="input_hint_prefix">Introduïu %1$s</string>
     <string name="keep_sound">Desa la configuració predefinida</string>
     <string name="low_pitch">To baix</string>
+    <string name="misound_effect_setting">Mi Sound</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per refrescar-vos</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>

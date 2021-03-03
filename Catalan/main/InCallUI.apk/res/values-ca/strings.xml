@@ -24,7 +24,7 @@
     <string name="callFailed_number_unreachable">Número fora de cobertura</string>
     <string name="callFailed_outOfService">Àrea fora del de servei</string>
     <string name="callFailed_out_of_network">Trucada des de fora de la xarxa</string>
-    <string name="callFailed_powerOff">Ràdio apagada</string>
+    <string name="callFailed_powerOff">L’antena està desactivada</string>
     <string name="callFailed_server_error">Error del servidor. Torneu-ho a provar més tard.</string>
     <string name="callFailed_server_unreachable">"Servidor inaccessible"</string>
     <string name="callFailed_simError">Error de targeta SIM</string>

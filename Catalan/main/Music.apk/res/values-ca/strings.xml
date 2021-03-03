@@ -90,6 +90,8 @@
     <string name="already_favorited">Ja està als preferits</string>
     <string name="always_use_metered">Utilitza sempre dades mòbils</string>
     <string name="am">am</string>
+    <string name="app_description_content">"Música és una aplicació del sistema que conté un reproductor d'àudio i que permet gestionar fitxers d'àudio. Podreu reproduir fitxers d'àudio després de suprimir la drecera de la pantalla d'inici."</string>
+    <string name="app_description_title">Voleu suprimir \"Música\" de la pantalla d\'inici?</string>
     <string name="app_label">Baixades</string>
     <string name="app_permission_confirm">Entesos</string>
     <string name="app_permission_optional">Permisos opcionals</string>
@@ -1059,6 +1061,7 @@ Sigues Feliç"</string>
     <string name="talkback_back">Torna</string>
     <string name="talkback_batch_process">Elements diversos</string>
     <string name="talkback_clear">Neteja</string>
+    <string name="talkback_cut">Editor de tons de trucada</string>
     <string name="talkback_device">Reprodueix a través d\'altres dispositius</string>
     <string name="talkback_download">Baixa</string>
     <string name="talkback_favorite">M\'agrada aquesta cançó</string>

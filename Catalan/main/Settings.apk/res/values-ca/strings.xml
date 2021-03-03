@@ -1698,7 +1698,7 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="color_game_led_applications_title">Seleccioneu les aplicacions</string>
     <string name="color_game_led_applications_title_summary">Seleccioneu individualment les aplicacions que funcionaran amb llum LED</string>
     <string name="color_game_led_battery_title">Manté encès mentre s\'està carregant</string>
-    <string name="color_game_led_charging_summary">La llum LED s’apagarà quan es carregui la bateria</string>
+    <string name="color_game_led_charging_summary">La llum LED s’apagarà quan la bateria estigui carregada</string>
     <string name="color_game_led_end_time">Fi</string>
     <string name="color_game_led_game_mode_summary">Mostra els efectes dels jocs quan Game Turbo estigui activat</string>
     <string name="color_game_led_game_mode_title">Ús per al Game Turbo</string>
@@ -2045,9 +2045,9 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
     <string name="dark_ui_summary_off_auto_mode_custom">S\'activa automàticament a %1$s</string>
     <string name="dark_ui_summary_off_auto_mode_never">Mai no s’activarà automàticament</string>
     <string name="dark_ui_summary_on">On / %1$s</string>
-    <string name="dark_ui_summary_on_auto_mode_auto">S’apagarà automàticament a l’alba</string>
-    <string name="dark_ui_summary_on_auto_mode_custom">S’apagarà automàticament a %1$s</string>
-    <string name="dark_ui_summary_on_auto_mode_never">Mai s’apagarà automàticament</string>
+    <string name="dark_ui_summary_on_auto_mode_auto">Es desactivarà automàticament a l\'alba</string>
+    <string name="dark_ui_summary_on_auto_mode_custom">Es desactivarà automàticament a les %1$s</string>
+    <string name="dark_ui_summary_on_auto_mode_never">Mai es desactivarà automàticament</string>
     <string name="dark_ui_text">El tema fosc utilitza un fons negre per ajudar a mantenir la bateria viva més temps en algunes pantalles. Les programacions de temes foscos esperen que s’activi fins que la pantalla no estigui desactivada.</string>
     <string name="dark_ui_title">Mode fosc</string>
     <string name="dark_wallpaper_mode">Ajusta el fons de pantalla al Mode fosc</string>
@@ -2279,6 +2279,7 @@ Aquesta configuració afecta tots els usuaris d'aquest dispositiu."</string>
     <string name="development_settings_not_available">"Les opcions de desenvolupador no estan disponibles per a aquest usuari"</string>
     <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
     <string name="development_settings_title">Opcions per a desenvolupadors</string>
+    <string name="device_activation_info">Activació del dispositiu</string>
     <string name="device_admin_add_title">Administrador del dispositiu</string>
     <string name="device_admin_settings_title">Configuració d\'administració de dispositius</string>
     <string name="device_admin_status">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
@@ -4276,10 +4277,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
-    <string name="miheadset_ancBalance">Mitjà</string>
     <string name="miheadset_ancClosed">Desactivat</string>
-    <string name="miheadset_ancDecrease">Baix</string>
-    <string name="miheadset_ancIncrease">Alt</string>
+    <string name="miheadset_ancHigh">Alta</string>
+    <string name="miheadset_ancLow">Baixa</string>
+    <string name="miheadset_ancMedium">Mitjana</string>
     <string name="miheadset_anc_indicate">Connecta i vincula els auriculars</string>
     <string name="miheadset_audio_mode">Qualitat d\'àudio</string>
     <string name="miheadset_audio_mode_high">Fort</string>
@@ -4301,6 +4302,7 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_double_click_key_mode">Doble toc</string>
     <string name="miheadset_double_click_left">Feu doble toc a l\'auricular esquerre</string>
     <string name="miheadset_double_click_right">Feu doble toc a l\'auricular dret</string>
+    <string name="miheadset_enhanceVoice">Millora la veu</string>
     <string name="miheadset_enhence_high">Aguts millorats</string>
     <string name="miheadset_enhence_low">Baixos millorats</string>
     <string name="miheadset_equalizer">Equalitzador</string>
@@ -4331,8 +4333,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_key_config_close_summary">Desactiva la cancel·lació de soroll i la transparència</string>
     <string name="miheadset_key_config_gesture_control">Gestos</string>
     <string name="miheadset_key_config_next_music">Cançó següent</string>
-    <string name="miheadset_key_config_noise_control">Control de soroll actiu</string>
-    <string name="miheadset_key_config_noise_control_summary">Manteniu premut per canviar entre els dos modes de control de soroll actius seleccionats</string>
+    <string name="miheadset_key_config_noise_control">Control de soroll</string>
+    <string name="miheadset_key_config_noise_control_summary">Manteniu premut per canviar entre els dos modes de control de soroll seleccionats</string>
     <string name="miheadset_key_config_noise_summary">Bloqueja els sons externs</string>
     <string name="miheadset_key_config_press_left">Mantén premut l\'auricular esquerre</string>
     <string name="miheadset_key_config_press_right">Mantén premut l’auricular dret</string>
@@ -4359,7 +4361,6 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_transparentMode">Transparència</string>
     <string name="miheadset_triple_click_key_mode">Triple toc</string>
     <string name="miheadset_unpair_device_text">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
-    <string name="miheadset_voiceIncrease">Millora la veu</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fitxers diversos</string>
     <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
@@ -4433,6 +4434,9 @@ Continueu per accedir a la configuració addicional."</string>
     <string name="miui_sos_menu_add">Afegeix</string>
     <string name="miui_sos_menu_edit">Edita</string>
     <string name="miui_sos_msg_call_log_prefix">"Aquest és el meu historial de trucades de la darrera hora:"</string>
+    <string name="miui_sos_pa_title">Ubicació d’emergència</string>
+    <string name="miui_sos_pa_turn_off">Desactivat</string>
+    <string name="miui_sos_pa_turn_on">Activat</string>
     <string name="miui_sos_play_voice">Reprodueix el missatge de SOS</string>
     <string name="miui_sos_remind_add">Afegeix</string>
     <string name="miui_sos_remind_close">El mode SOS d’emergència està activat. Ho voleu desactivar juntament amb totes les funcionalitats relacionades?</string>
@@ -4848,7 +4852,7 @@ Es substitueix a %2$s com a aplicació de pagament predeterminada."</string>
     <string name="normal_smartcover_title">Coberta frontal opaca</string>
     <string name="not_allowed">La targeta SIM no permet la connexió a aquesta xarxa.</string>
     <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
-    <string name="not_enabled">Apaga</string>
+    <string name="not_enabled">Desactivat</string>
     <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
     <string name="not_set">Sense establir</string>
     <string name="notch_and_status_bar_settings">Centre de control i barra d\'estat</string>
@@ -5074,7 +5078,7 @@ Això també donarà a l'aplicació la possibilitat d'activar o desactivar No pe
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB On-The-Go permet que les unitats USB i els teclats portàtils es puguin connectar al vostre dispositiu mòbil i intercanviar dades.
 
-OTG s'apaga automàticament després de 10 minuts d'inactivitat."</string>
+OTG es desactiva automàticament després de 10 minuts d'inactivitat."</string>
     <string name="other">Altres</string>
     <string name="other_advanced_settings">Configuració addicional</string>
     <string name="other_conversations">Altres converses</string>
@@ -5440,7 +5444,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="print_cancelling_state_title_template">S\'està cancel·lant %1$s</string>
     <string name="print_configuring_state_title_template">S\'està configurant %1$s</string>
     <string name="print_failed_state_title_template">Error d\'impressora %1$s</string>
-    <string name="print_feature_state_off">Apaga</string>
+    <string name="print_feature_state_off">Desactivat</string>
     <string name="print_feature_state_on">Activa</string>
     <string name="print_job_summary">"«%1$s
 %2$s»"</string>
@@ -5633,7 +5637,7 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="radioInfo_roaming_not">No és en itinerància</string>
     <string name="radioInfo_service_emergency">Només trucades d\'emergència</string>
     <string name="radioInfo_service_in">En servei</string>
-    <string name="radioInfo_service_off">Ràdio apagada</string>
+    <string name="radioInfo_service_off">Ràdio desactivada</string>
     <string name="radioInfo_service_out">Sense servei</string>
     <string name="radioInfo_unknown">desconegut</string>
     <string name="radio_controls_summary">Gestioneu Wi-Fi, Bluetooth, mode avió, xarxes mòbils i VPN</string>
@@ -5926,7 +5930,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_paper_mode_global_summary">Utilitza mode lectura per a totes les aplicacions</string>
     <string name="screen_paper_mode_global_title">Totes les aplicacions</string>
     <string name="screen_paper_mode_hdr_toast">"El mode de lectura es desactivarà mentre reproduïu vídeos HDR. Es tornarà a activar automàticament després de finalitzar la reproducció."</string>
-    <string name="screen_paper_mode_hdr_toast_new">El mode de lectura s’apagarà automàticament durant la reproducció de vídeo HDR i la verificació d’empremtes digitals. Un cop finalitzin aquestes accions, el vostre dispositiu tornarà al mode de lectura.</string>
+    <string name="screen_paper_mode_hdr_toast_new">El mode de lectura es desactivarà automàticament durant la reproducció de vídeo HDR i la verificació d’empremtes. Un cop finalitzades aquestes accions, el dispositiu tornarà al mode de lectura.</string>
     <string name="screen_paper_mode_local_summary">Utilitzeu el mode de lectura per a aplicacions seleccionades</string>
     <string name="screen_paper_mode_local_title">Aplicacions seleccionades</string>
     <string name="screen_paper_mode_off_apps_title">"No utilitzis mode lectura"</string>
@@ -5936,7 +5940,7 @@ Aquesta configuració afecta tots els usuaris d’aquest telèfon."</string>
     <string name="screen_paper_mode_time_summary">mode de lectura programada amb el vostre temps establert</string>
     <string name="screen_paper_mode_time_title">Programació</string>
     <string name="screen_paper_mode_title">Mode lectura</string>
-    <string name="screen_paper_mode_turn_off">Apagat</string>
+    <string name="screen_paper_mode_turn_off">Desactivat</string>
     <string name="screen_paper_mode_turn_on">Activat</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"No ho tornis a mostrar"</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permet</string>
@@ -6039,7 +6043,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="screensaver_settings_summary_either_long">Quan és en el dock o en repòs i s\'està carregant</string>
     <string name="screensaver_settings_summary_either_short">Ambdós</string>
     <string name="screensaver_settings_summary_never">Mai</string>
-    <string name="screensaver_settings_summary_off">Apagat</string>
+    <string name="screensaver_settings_summary_off">Desactivat</string>
     <string name="screensaver_settings_summary_sleep">Mentre s\'està carregant</string>
     <string name="screensaver_settings_title">Daydream</string>
     <string name="screensaver_settings_when_to_dream">Quan s\'ha d\'activar el Daydream</string>
@@ -6287,7 +6291,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="security_enable_widgets_title">Activació dels ginys</string>
     <string name="security_encryption_alert_dialog_info_first">"Configura un bloqueig de pantalla per activar aquesta funció. Haureu d’introduir el bloqueig de la pantalla després de cada reinici per desxifrar i utilitzar el dispositiu normalment."</string>
     <string name="security_encryption_alert_dialog_title_first">Abans configureu el bloqueig de pantalla</string>
-    <string name="security_encryption_attention_1">"No podeu fer servir les alarmes mentre el dispositiu estigui apagat."</string>
+    <string name="security_encryption_attention_1">"No podreu utilitzar les alarmes mentre el dispositiu estigui apagat."</string>
     <string name="security_encryption_attention_2">"Haureu d’introduir el bloqueig de la pantalla després de cada reinici per desxifrar el dispositiu. Els reinicis tarden més del que és habitual."</string>
     <string name="security_encryption_attention_3">"Haureu d’establir un nou bloqueig de pantalla."</string>
     <string name="security_encryption_attention_4">"Assegureu-vos que recordeu el bloqueig de la pantalla, en cas contrari, hauríeu de completar un restabliment complet i esborrar totes les dades del dispositiu."</string>
@@ -6645,7 +6649,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="sim_pins_dont_match">Els PIN no coincideixen</string>
     <string name="sim_preferred_message">%1$s és l\'única targeta SIM del dispositiu. Voleu fer-la servir per a les dades mòbils, les trucades i els missatges SMS?</string>
     <string name="sim_preferred_title">Voleu canviar la SIM preferida?</string>
-    <string name="sim_radio_off">Apagat</string>
+    <string name="sim_radio_off">Desactivat</string>
     <string name="sim_reenter_new">Torneu a introduir el PIN nou</string>
     <string name="sim_select_card">Selecciona una targeta SIM</string>
     <string name="sim_selection_channel_title">Selecció de SIM</string>
@@ -7293,6 +7297,7 @@ Un enfocament de Google per sincronitzar les dades per permetre l\'accés als vo
     <string name="title_layout_current2_weight">Mida del text i pes de la lletra</string>
     <string name="title_miui_music_mute_by_user">Mode silenci</string>
     <string name="title_of_auto_launch_manage">Inici automàtic</string>
+    <string name="title_special_features_health_global">Freqüència cardíaca</string>
     <string name="to_close">Desactiva</string>
     <string name="toast_apply_font_fail">"No es pot definir el tipus de lletra"</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
@@ -7622,7 +7627,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
     <string name="usb_adb_input_desc">Permet la concessió de permisos i la simulació d\'entrada a través de la depuració USB</string>
     <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
     <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
-    <string name="usb_charging_summary">Apaga la resta de funcionalitats de connexió USB per accelerar la càrrega.</string>
+    <string name="usb_charging_summary">Desactiva la resta de funcions de la connexió USB per accelerar la càrrega.</string>
     <string name="usb_charging_title">Només de càrrega</string>
     <string name="usb_connection_category">Connecta com a</string>
     <string name="usb_control_device">Aquest dispositiu</string>
@@ -7968,7 +7973,7 @@ Durant una trucada de veu, no podeu utilitzar Internet i és possible que algune
     <string name="vpn_on">Activada</string>
     <string name="vpn_password">Contrasenya</string>
     <string name="vpn_replace">Reemplaça</string>
-    <string name="vpn_replace_always_on_vpn_disable_message">"Ja esteu connectat a una VPN sempre activa. Si us connecteu a una altre, la seva VPN existent serà reemplaçada i el mode sempre activat s'apagarà."</string>
+    <string name="vpn_replace_always_on_vpn_disable_message">"Ja esteu connectat a una VPN sempre activa. Si us connecteu a una altra, la vostra VPN existent se substituirà i el mode sempre activat es desactivarà."</string>
     <string name="vpn_replace_always_on_vpn_enable_message">"Se substituirà la VPN existent i no tindreu connexió a Internet fins que la VPN es connecti correctament"</string>
     <string name="vpn_replace_vpn_message">"Ja esteu connectats a una VPN. Si us connecteu a una altra VPN, se substituirà l'actual."</string>
     <string name="vpn_replace_vpn_title">Voleu substituir la VPN actual?</string>
@@ -8583,7 +8588,7 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_share_summary1">Els usuaris de MIUI poden compartir xarxes Wi-Fi públiques (cafeteries, restaurants, hotels, etc.) entre ells.</string>
     <string name="wifi_share_summary2">Si un altre usuari MIUI comparteix una xarxa, podeu connectar-vos-hi sense contrasenya.</string>
     <string name="wifi_share_summary3">També podeu compartir les vostres xarxes Wi-Fi públiques amb altres usuaris de MIUI.</string>
-    <string name="wifi_share_turn_off">Apaga</string>
+    <string name="wifi_share_turn_off">Desactivat</string>
     <string name="wifi_share_turn_on">Engega</string>
     <string name="wifi_share_upload">Comparteix</string>
     <string name="wifi_share_upload_finish">S\'han compartit</string>
@@ -8635,7 +8640,7 @@ també podeu utilitzar xarxes d’altres usuaris."</string>
     <string name="wifi_tether_setting_title">Configuració</string>
     <string name="wifi_tether_settings_title">Punt d\'accés portàtil</string>
     <string name="wifi_tether_starting">S\'està engegant el punt d\'accés&#8230;</string>
-    <string name="wifi_tether_stopping">S\'està apagant el punt d\'accés&#8230;</string>
+    <string name="wifi_tether_stopping">S\'està desactivant el punt d\'accés…</string>
     <string name="wifi_time_remaining">%1$s esquerra</string>
     <string name="wifi_traffic_priority">Mode de trànsit</string>
     <string name="wifi_traffic_priority_extreme">Connexió ràpida</string>
@@ -8709,7 +8714,7 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="winscope_trace_quick_settings_title">Traça de Winscope</string>
     <string name="wireless_connected">Connectat</string>
     <string name="wireless_networks_settings_title">Connexions sense fil i xarxes</string>
-    <string name="wireless_off">Apagat</string>
+    <string name="wireless_off">Desactivat</string>
     <string name="wireless_on">Activat</string>
     <string name="wizard_back">Enrere</string>
     <string name="wizard_finish">Finalitza</string>

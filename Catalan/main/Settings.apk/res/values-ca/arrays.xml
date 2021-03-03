@@ -819,7 +819,7 @@
         <item>"Darrer mes: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Mostra les àrees sobreposades</item>
         <item>Mostra les àrees de deuteranomia</item>
     </string-array>
@@ -881,7 +881,7 @@
         <item>3,5 polzades</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Suau</item>
         <item>Mitjà</item>
         <item>Fort</item>
@@ -1241,7 +1241,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Només el nucli</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Dibuixa en blau les regions no rectangulars del clip</item>
         <item>Ressalta en verd les ordres de dibuixos ja provats</item>
     </string-array>
@@ -1287,7 +1287,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Tots</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Per pantalla en forma de barres</item>
         <item>Per adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -1400,7 +1400,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Dispositiu connectat</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Baixa</item>
         <item>Al mig</item>
         <item>Alt</item>

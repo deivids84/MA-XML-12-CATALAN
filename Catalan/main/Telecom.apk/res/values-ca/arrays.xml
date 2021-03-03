@@ -177,13 +177,13 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Totes les memòries intermèdies de registre</item>
         <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
         <item>només la memòria intermèdia de registre del nucli</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Apagat</item>
+        <item>Desactivat</item>
         <item>Tot</item>
         <item>Tot excepte la ràdio</item>
         <item>només kernel</item>

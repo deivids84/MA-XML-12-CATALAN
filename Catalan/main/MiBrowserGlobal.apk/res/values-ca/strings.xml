@@ -2152,7 +2152,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Gaudiu d’alta velocitat</string>
     <string name="vpn_used_all_free_data_toast">"No teniu trànsit. Subscriu-te per continuar."</string>
     <string name="vpn_used_all_toast">"No teniu trànsit"</string>
-    <string name="weather_location_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
+    <string name="weather_location_confirm_message">Si desactiveu aquesta funció, en pot afectar l\'ús.</string>
     <string name="webpage_title">Adreces d\'interès i Historial</string>
     <string name="wechat_video">Vídeo a %s</string>
     <string name="wednesday">Dimecres</string>

@@ -210,7 +210,7 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="micloud_space_duokan_title">Espai d\'emmagatzematge de Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Obriu l'aplicació Recorder al telèfon i seleccioneu la carpeta amb els elements emmagatzemats al núvol.
 Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."</string>
-    <string name="micloud_space_soundrecorder_title">enregistraments d’àudio</string>
+    <string name="micloud_space_soundrecorder_title">Enregistraments d\'àudio</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -324,6 +324,9 @@ Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."<
     <string name="setting_title">Configuració</string>
     <string name="shortcut_dialog_confirm">Crear</string>
     <string name="shortcut_dialog_content">Voleu crear una drecera de pantalla d\'inici per a Mi Drive?</string>
+    <string name="speed_unit_gb">%s GB/s</string>
+    <string name="speed_unit_kb">%s KB/s</string>
+    <string name="speed_unit_mb">%s MB/s</string>
     <string name="start_download">S\'està iniciant la baixada…</string>
     <string name="start_upload">Començant a penjar…</string>
     <string name="stay_tuned">Estigueu atents</string>

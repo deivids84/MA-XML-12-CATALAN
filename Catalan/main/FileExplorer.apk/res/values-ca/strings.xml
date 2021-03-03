@@ -608,7 +608,7 @@
     <string name="start_doc">Documents</string>
     <string name="start_phone">Fitxers</string>
     <string name="start_server">Iniciar el servidor</string>
-    <string name="stay_awake_summary">"La pantalla no s'apagarà durant l'ús del FTP "</string>
+    <string name="stay_awake_summary">"La pantalla no s'apagarà durant l'ús del FTP"</string>
     <string name="stay_awake_title">Romandre encès</string>
     <string name="stop_server">Aturar el servidor</string>
     <string name="storage_cloned_app">Emmagatzematge per a aplicacions duals</string>

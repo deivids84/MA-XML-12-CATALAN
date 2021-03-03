@@ -182,7 +182,7 @@
     <string name="account_smime_encrypt">S/MIME xifrat</string>
     <string name="account_smime_install_cert">Afegeix certificat</string>
     <string name="account_smime_sign">Signatura S/MIME</string>
-    <string name="account_sync_off">Sincronització de compte esta apagada.</string>
+    <string name="account_sync_off">La sincronització del compte està desactivada.</string>
     <string name="account_sync_settings_settings">Sincronitza els contactes i els calendaris del compte</string>
     <string name="account_sync_settingstip_description">Sincronitza</string>
     <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
@@ -253,7 +253,7 @@
     <string name="auto_remind_discribe_text">Activeu-ho per rebre recordatoris automàtics</string>
     <string name="auto_remind_text">Recordatoris automàtics</string>
     <string name="auto_remind_unbind">Atura</string>
-    <string name="auto_sync_off">Sincronització automàtica apagada.</string>
+    <string name="auto_sync_off">La sincronització automàtica està desactivada.</string>
     <string name="automatic_remind_text">Recorda automàticament</string>
     <string name="bContact_list_search_hint">Cerqueu contactes bloquejats</string>
     <string name="b_contacts">Bloquejats</string>

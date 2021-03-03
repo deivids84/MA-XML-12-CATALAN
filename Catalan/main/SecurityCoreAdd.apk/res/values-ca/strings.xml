@@ -68,12 +68,12 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
     <string name="close_kid_space_success">S\'ha suprimit l\'espai pels nens</string>
     <string name="close_second_space">Segon espai suprimit</string>
     <string name="close_second_space_success">Segon espai esborrat</string>
-    <string name="closed">Apagat</string>
+    <string name="closed">Desactivat</string>
     <string name="complete_setting">Finalitza</string>
     <string name="complete_setting_sub_title">També podeu tornar després per fer canvis en la configuració.</string>
     <string name="complete_setting_title">"Tot a punt!"</string>
     <string name="confirm">D\'acord</string>
-    <string name="confirmClose">Apaga</string>
+    <string name="confirmClose">Desactiva</string>
     <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
     <string name="confirmDelete">Elimina</string>
     <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
@@ -118,7 +118,7 @@ aquesta característica s'afegirà al Segon espai automàticament."</string>
     <string name="dialog_verify">Verifiqueu l\'empremta</string>
     <string name="dialog_verify_fingerprint_retry">"No s'ha pogut verificar l'empremta. Torneu-ho a provar."</string>
     <string name="dir_switch_out_all_photos">Galeria del Segon espai</string>
-    <string name="disable">Apaga</string>
+    <string name="disable">Desactiva</string>
     <string name="do_not_ask">"No m'ho tornis a preguntar"</string>
     <string name="dont_import">Ara no</string>
     <string name="downloading_space">S\'està baixant&#8230;</string>

@@ -331,7 +331,7 @@ Podeu canviar aquesta drecera a una altra funció a Configuració &gt; Accessibi
 
 \"<annotation id="url">Més informació</annotation></string>
     <string name="battery_saver_notification_channel_name">Estalvi de bateria</string>
-    <string name="battery_saver_off_notification_title">Estalvi de bateria apagat</string>
+    <string name="battery_saver_off_notification_title">L\'estalvi de bateria s\'ha desactivat</string>
     <string name="beforeOneMonthDurationPast">Abans de fa 1 mes</string>
     <string name="biometric_dialog_default_title">Verifica que ets tu</string>
     <string name="biometric_error_canceled">S\'ha cancel·lat l\'autenticació</string>

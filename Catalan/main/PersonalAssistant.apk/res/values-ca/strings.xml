@@ -361,7 +361,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="app_shopping_card_empty_find_coupon">Cupons</string>
     <string name="app_shopping_card_empty_title_no_goods">El carret de la compra està buit</string>
     <string name="app_shopping_card_title">De compres</string>
-    <string name="app_shopping_coupon">￥%s apagat</string>
+    <string name="app_shopping_coupon">￥%s descompte</string>
     <string name="app_shopping_depreciate">Estalvieu %s €</string>
     <string name="app_shopping_search_hint">Cerca de productes</string>
     <string name="app_sleep">Son</string>

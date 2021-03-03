@@ -152,6 +152,8 @@
     <string name="aqi_quality_index_light_pollution">Precaució</string>
     <string name="aqi_quality_index_moderate">Moderat</string>
     <string name="aqi_quality_index_unhealthy">Insalubre</string>
+    <string name="assistant_edge_gesture_summary">Llisca cap amunt des de la cantonada inferior esquerra o inferior dreta per activar l\'Assistent de Google</string>
+    <string name="assistant_edge_gesture_title">Llisca des de la cantonada per l\'Assistent de Google</string>
     <string name="auto_add_app_shortcut">Col·loca les aplicacions noves a la Pantalla d\'inici</string>
     <string name="auto_delete_category_dialog_content">Les aplicacions actuals s\'eliminaran d\'aquesta categoria i se suprimirà la categoria. Voleu suprimir aquesta categoria?</string>
     <string name="auto_delete_category_dialog_title">Supressió de la categoria</string>

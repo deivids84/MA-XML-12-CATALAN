@@ -470,7 +470,7 @@ Taxa de mostreig"</string>
     <string name="callFailed_otasp_provisioning_in_process">No es pot fer la trucada perquè s\'està duent a terme el proveïment del dispositiu.</string>
     <string name="callFailed_outOfService">La xarxa mòbil no està disponible</string>
     <string name="callFailed_out_of_network">Trucada des de fora de la xarxa</string>
-    <string name="callFailed_powerOff">Ràdio apagada</string>
+    <string name="callFailed_powerOff">Ràdio desactivada</string>
     <string name="callFailed_preemption">Dret preferent de compra</string>
     <string name="callFailed_protocol_error_unspecified">Error de protocol, sense especificar</string>
     <string name="callFailed_recovery_on_timer_expired">Recuperació en expirar el temporitzador</string>
@@ -711,7 +711,7 @@ Taxa de mostreig"</string>
     <string name="cloud_sim_enabled_dual_4g_summary">"No es pot desactivar Dual 4G mentre utilitzeu Mi Roaming"</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"No es pot modificar les preferències de xarxa mentre s'utilitza Mi Roaming"</string>
     <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
-    <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
+    <string name="command_error_fdn_failure">Us cal desactivar primer els NMP</string>
     <string name="config_default_data_sim">Configuració</string>
     <string name="confirmPin2Label">Confirmeu el PIN2 nou</string>
     <string name="confirmPinLabel">Confirmeu el PIN nou</string>
@@ -842,7 +842,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="dialog_ota_change_number_success">S\'ha canviat correctament el número de telèfon</string>
     <string name="dialog_report">Notifica</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
-    <string name="disable">Apaga</string>
+    <string name="disable">Desactiva</string>
     <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucades</string>
     <string name="disable_cfb_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està ocupat."</string>
     <string name="disable_cfnrc_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està fora de cobertura."</string>
@@ -934,7 +934,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="enable_opengl_traces_title">Activa el seguiment d\'OpenGL</string>
     <string name="enable_pin">Activa/desactiva el PIN del SIM</string>
     <string name="enable_pin_ok">S\'ha definit el PIN</string>
-    <string name="enable_proximity_summary">"Apaga la pantalla automàticament quan tingueu el dispositiu a la vostra orella durant una trucada"</string>
+    <string name="enable_proximity_summary">"Apaga la pantalla automàticament quan manteniu el dispositiu a l'orella durant una trucada"</string>
     <string name="enable_proximity_title">Sensor de proximitat</string>
     <string name="enable_sim_pin">Estableix el PIN de la SIM</string>
     <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
@@ -1161,7 +1161,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
     <string name="lable_all_outgoing">Totes les trucades sortints</string>
     <string name="lable_all_outgoing_international">Trucades internacionals sortints</string>
     <string name="lable_call_barring">Restricció de trucades</string>
-    <string name="lable_disable">Apaga</string>
+    <string name="lable_disable">Desactivat</string>
     <string name="lable_enable">Encén</string>
     <string name="lable_incoming_calls_except">Trucades entrants en itinerància</string>
     <string name="lable_network_not_supported">"La xarxa no s'admet"</string>
@@ -1414,7 +1414,7 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="network_settings_select_automatic_hint">"No es pot accedir a la xarxa que heu seleccionat.
 S'utilitza en el seu lloc la xarxa preferida."</string>
     <string name="network_settings_title">Xarxes mòbils</string>
-    <string name="network_settings_turn_off">Apagat</string>
+    <string name="network_settings_turn_off">Desactivat</string>
     <string name="network_settings_warn_message">El vostre dispositiu només es connectarà a les xarxes que seleccioneu manualment.</string>
     <string name="network_state_display">Mostra l\'estat de la xarxa</string>
     <string name="network_state_display_title">Configuració de l\'estat de la xarxa</string>
@@ -1905,6 +1905,7 @@ Interfície UT: %5$s"</string>
     <string name="search_menu">Cerca a la configuració</string>
     <string name="search_menu_title">Cerca</string>
     <string name="selectContact">Selecciona contacte</string>
+    <string name="select_apn_list_title">Trieu el vostre APN predeterminat: per a la targeta %1$s</string>
     <string name="select_application">Seleccioneu l\'aplicació</string>
     <string name="select_automatically">Selecció automàtica</string>
     <string name="select_dds_dialog_title">Seleccioneu la SIM de dades mòbils per defecte</string>

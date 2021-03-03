@@ -64,7 +64,7 @@
     <string name="accessibility_camera_video_960fps_960">960 FPS</string>
     <string name="accessibility_camera_video_fps_120">120 FPS</string>
     <string name="accessibility_camera_video_fps_30">30 FPS</string>
-    <string name="accessibility_closed">Apaga</string>
+    <string name="accessibility_closed">Desactivat</string>
     <string name="accessibility_color">Color</string>
     <string name="accessibility_date">Data</string>
     <string name="accessibility_delay_capture_10s_button">Temporitzador ajustat durant deu segons</string>
@@ -611,8 +611,8 @@ els documents escanejats automàticament"</string>
     <string name="face_beauty_age_alias_male_45_60">Home 45-60</string>
     <string name="face_beauty_age_alias_male_60_m">Home Més de 60</string>
     <string name="face_beauty_age_alias_male_8_17">Home 8-17</string>
-    <string name="face_beauty_close">Apagat</string>
-    <string name="face_beauty_intelligent_level_0">Apagat</string>
+    <string name="face_beauty_close">Desactivat</string>
+    <string name="face_beauty_intelligent_level_0">Desactivat</string>
     <string name="face_beauty_intelligent_level_1">Baix</string>
     <string name="face_beauty_intelligent_level_2">Mitjà</string>
     <string name="face_beauty_intelligent_level_3">Alt</string>
@@ -1023,7 +1023,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_ai_scene_title">Càmera IA</string>
     <string name="pref_camera_ai_shutter_description">Selecciona automàticament el millor moment quan premeu el botó de l\'obturador</string>
     <string name="pref_camera_ai_shutter_title">Obturador AI</string>
-    <string name="pref_camera_antibanding_entry_0">Apagat</string>
+    <string name="pref_camera_antibanding_entry_0">Desactivat</string>
     <string name="pref_camera_antibanding_entry_3">Automàtic</string>
     <string name="pref_camera_antibanding_title">Antiparpelleig</string>
     <string name="pref_camera_asd_night_title">Millora les fotos fosques automàticament</string>
@@ -1099,7 +1099,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_first_tag_tips">Etiquetat correctament</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Llum suau</string>
-    <string name="pref_camera_flashmode_entry_off">Apagat</string>
+    <string name="pref_camera_flashmode_entry_off">Desactivat</string>
     <string name="pref_camera_flashmode_entry_on">Activat</string>
     <string name="pref_camera_flashmode_entry_torch">Fix</string>
     <string name="pref_camera_flashmode_title">Mode de flaix</string>
@@ -1120,12 +1120,12 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_hdr_entry_auto">Auto</string>
     <string name="pref_camera_hdr_entry_live">En viu</string>
     <string name="pref_camera_hdr_entry_normal">Pro</string>
-    <string name="pref_camera_hdr_entry_off">Apagat</string>
+    <string name="pref_camera_hdr_entry_off">Desactivat</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">"Les fotografies amb format d’arxiu d’imatges d’alta eficiència ocupen menys espai d’emmagatzematge, però no són admeses per algunes aplicacions"</string>
     <string name="pref_camera_heic_image_format_description2">"El format d’arxiu d’imatges d’alta eficiència estalvia espai d’emmagatzematge, però no és compatible amb algunes aplicacions de tercers. No podeu fer fotos en directe ni suprimir les filigranes a HEIF."</string>
     <string name="pref_camera_heic_image_format_title">Format HEIF</string>
-    <string name="pref_camera_hfr_entry_off">Apagat</string>
+    <string name="pref_camera_hfr_entry_off">Desactivat</string>
     <string name="pref_camera_high_quality_preferred_description">Millora la qualitat de la imatge mitjançant l’algorisme intel·ligent. La velocitat de captura d’imatges pot disminuir quan aquesta funció està activada. El mode nocturn s\'activarà automàticament quan es detectin condicions de poca llum.</string>
     <string name="pref_camera_high_quality_preferred_title">Millora la qualitat de la imatge</string>
     <string name="pref_camera_histogram_entry_disable">Desactiva</string>
@@ -1188,7 +1188,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_rec_type_3d_record">So 3D</string>
     <string name="pref_camera_rec_type_audio_zoom">Zoom d\'àudio</string>
     <string name="pref_camera_rec_type_normal">Regular</string>
-    <string name="pref_camera_recordlocation_entry_off">Apagat</string>
+    <string name="pref_camera_recordlocation_entry_off">Desactivat</string>
     <string name="pref_camera_recordlocation_entry_on">Activat</string>
     <string name="pref_camera_recordlocation_title">Desa la informació d\'ubicació</string>
     <string name="pref_camera_reference_capture_title">Línies de referència</string>
@@ -1218,7 +1218,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_sharpness_title">Nitidesa</string>
     <string name="pref_camera_show_gender_age_config_title">Edat i sexe</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra l\'edat amb l\'embellidor activat</string>
-    <string name="pref_camera_show_gender_age_entry_off">Apagat</string>
+    <string name="pref_camera_show_gender_age_entry_off">Desactivat</string>
     <string name="pref_camera_show_gender_age_entry_on">Mostra l\'edat i el sexe amb l\'embellidor activat</string>
     <string name="pref_camera_show_gender_age_label_alias">Edat</string>
     <string name="pref_camera_show_gender_age_label_on">Edat i sexe</string>
@@ -1240,7 +1240,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_tilt_shift_title">Efecte maqueta</string>
     <string name="pref_camera_tip_doc">Escàner de documents</string>
     <string name="pref_camera_tip_id_card">Escàner d’identificació</string>
-    <string name="pref_camera_touchafaec_entry_off">Apagat</string>
+    <string name="pref_camera_touchafaec_entry_off">Desactivat</string>
     <string name="pref_camera_touchafaec_entry_on">Activat</string>
     <string name="pref_camera_ubifocus_title">Reenfocament</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corregeix els objectes distorsionats automàticament</string>
@@ -1277,7 +1277,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_zoom_mode_title">LENTS</string>
     <string name="pref_camera_zoom_mode_title_abbr">LENTS</string>
     <string name="pref_camera_zoom_value_title">Zoom</string>
-    <string name="pref_camera_zsl_entry_off">Apagat</string>
+    <string name="pref_camera_zsl_entry_off">Desactivat</string>
     <string name="pref_camera_zsl_entry_on">Activat</string>
     <string name="pref_capture_settings">Càmera</string>
     <string name="pref_custom_feature_layout_title">Disposició de les funcions</string>
@@ -1294,7 +1294,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_front_denoise_summary">Reduir els sorolls generats darrere de la càmera frontal</string>
     <string name="pref_front_denoise_title">Filtre de soroll Selfie</string>
     <string name="pref_front_mirror_entry_auto">Quan es detecti la cara</string>
-    <string name="pref_front_mirror_entry_off">Apagat</string>
+    <string name="pref_front_mirror_entry_off">Desactivat</string>
     <string name="pref_front_mirror_entry_on">Activat</string>
     <string name="pref_front_mirror_label_auto">Automàtic</string>
     <string name="pref_front_mirror_title">Càmera frontal mirall</string>
@@ -1336,7 +1336,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_s_n_r_s_c">Redueix el soroll dels vídeos en funció de l’escena</string>
     <string name="pref_scan_qrcode_summary">La càmera posterior només pot escanejar codis QR en el mode «Foto».</string>
     <string name="pref_scan_qrcode_title">Escaneig de codis QR</string>
-    <string name="pref_simple_hdr_entry_off">Apagat</string>
+    <string name="pref_simple_hdr_entry_off">Desactivat</string>
     <string name="pref_simple_hdr_entry_on">Activat</string>
     <string name="pref_skin_beautify_color_title">To</string>
     <string name="pref_skin_beautify_eye_title">Ulls</string>

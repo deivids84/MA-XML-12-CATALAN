@@ -194,7 +194,7 @@
     <string name="antivirus_third_privacy_title">Polítiques de privadesa de tercers</string>
     <string name="antivirus_toast_already_update">Actualitzat</string>
     <string name="antivirus_toast_network_unavailable">"No s'ha pogut connectar a la xarxa"</string>
-    <string name="antivirus_toast_update_failed">"No s'ha pogut actualitzar"</string>
+    <string name="antivirus_toast_update_failed">Els nostres servidors estan ocupats. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="antivirus_toast_update_success">S\'ha actualitzat amb èxit</string>
     <string name="antivirus_toast_updating">S\'està actualitzant…</string>
     <string name="antivirus_update_btn_contiue">Continua</string>
@@ -459,17 +459,24 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
     <string name="app_manager_start_by">Iniciat per %s</string>
     <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
+    <string name="app_manager_tab_app">Aplicacions</string>
+    <string name="app_manager_tab_manager">Gestiona</string>
     <string name="app_manager_thumbnail_blur_summary">Difumina les previsualitzacions de les aplicacions a Recents</string>
     <string name="app_manager_thumbnail_blur_title">Difumina la previsualització de les aplicacions</string>
     <string name="app_manager_title">Gestiona les aplicacions</string>
+    <string name="app_manager_to_appstore">Descobriu més aplicacions</string>
     <string name="app_manager_total_size">Total</string>
     <string name="app_manager_uninstall">Desinstal·la</string>
+    <string name="app_manager_uninstall_button_text">Desinstal·la</string>
+    <string name="app_manager_uninstall_notify_title">Desinstal·leu les aplicacions que s\'utilitzen poc</string>
     <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
     <string name="app_manager_unstall_application">Desinstal·la</string>
+    <string name="app_manager_update">Actualitza</string>
+    <string name="app_manager_updater_notify_message">Actualitzeu les aplicacions per accedir a noves funcions</string>
     <string name="app_managere_not_have_app">Buit</string>
     <string name="app_manger_des_separator">",\u0020"</string>
     <string name="app_mobile">Dades mòbils</string>
@@ -615,7 +622,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="auto_task_edit_choose_condition_title">Seleccioneu una condició</string>
     <string name="auto_task_edit_choose_new_operation">Afegeix una acció</string>
     <string name="auto_task_edit_choose_operation_title">Selecciona una acció</string>
-    <string name="auto_task_edit_condition_summary">Per exemple, «A les 23:00»</string>
+    <string name="auto_task_edit_condition_summary_new">Per exemple, \"A %s\"</string>
     <string name="auto_task_edit_condition_title">Afegeix condició</string>
     <string name="auto_task_edit_my_custom_task">Introduïu el nom de la tasca</string>
     <string name="auto_task_edit_operation_summary">Per exemple, «Activa el mode avió»</string>
@@ -627,7 +634,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="auto_task_manager_group_title">Les meves tasques automatitzades</string>
     <string name="auto_task_notify_do_task_title">S\'ha iniciat la tasca automatitzada</string>
     <string name="auto_task_notify_exit_task_title">S\'ha acabat la tasca automatitzada</string>
-    <string name="auto_task_notify_task_cancel_count_down">L\'acció automatitzada es cancel·larà d\'aquí a 5 segons</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">L\'acció automatitzada es cancel·larà d\'aquí %d segons</string>
     <string name="auto_task_notify_task_cancel_do">Cancel·la l\'acció</string>
     <string name="auto_task_notify_task_canceled_summary">Podeu fer i rebre trucades</string>
     <string name="auto_task_notify_task_canceled_summary2">"Sembla que esteu jugant a un joc."</string>
@@ -635,7 +642,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="auto_task_notify_task_canceled_summary4">Cancel·lat pel primer espai</string>
     <string name="auto_task_notify_task_canceled_title">S\'ha cancel·lat l\'acció</string>
     <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
-    <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
+    <string name="auto_task_notify_task_count_down_new">L\'acció automàtica començarà d\'aquí a %d segons</string>
     <string name="auto_task_notify_task_exit_task">Cancel·la la tasca</string>
     <string name="auto_task_operation_airplane_mode">Mode avió</string>
     <string name="auto_task_operation_auto_brightness">Brillantor automàtica</string>
@@ -841,6 +848,9 @@ No perdreu cap dada d'aplicació."</string>
     <string name="card_main_xspace_summary">Creeu comptes duals per a qualsevol aplicació</string>
     <string name="card_main_xspace_title">Aplicacions duals</string>
     <string name="card_tc_failed">"No s'ha pogut calibrar"</string>
+    <string name="card_uninstall_button_text">Gestiona</string>
+    <string name="card_uninstall_summary">Desinstal·leu les aplicacions que s\'utilitzen poc per alliberar espai d\'emmagatzematge</string>
+    <string name="card_uninstall_title_1">Desinstal·leu les aplicacions que s\'utilitzen poc</string>
     <string name="cd_back">Enrere</string>
     <string name="cellular_data_auto_check">Comproveu automàticament</string>
     <string name="cellular_package_daily_input">Retorn</string>
@@ -957,12 +967,12 @@ No perdreu cap dada d'aplicació."</string>
     <string name="deep_clean_never_memory_clean">Mai</string>
     <string name="deep_power_save_item_summary_auto_brightness">Ajusta la brillantor de pantalla automàticament per estalviar bateria</string>
     <string name="deep_power_save_item_summary_bluetooth">Desactiveu el Bluetooth per estalviar bateria</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Apaga la pantalla per estalviar bateria després de 30 segons d\'inactivitat</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Poseu la pantalla en repòs després de %d segons d’inactivitat per estalviar bateria</string>
     <string name="deep_power_save_item_title_auto_brightness">Activa la lluminositat automàtica</string>
     <string name="deep_power_save_item_title_bluetooth">Desactiva el Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Posa la pantalla a dormir</string>
     <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
-    <string name="deep_save_ontime_boot_shutdown_summary">Programeu l\'hora a engegar i apagar el dispositiu</string>
+    <string name="deep_save_ontime_boot_shutdown_summary">Programeu l\'hora d\'encesa i apagat del dispositiu</string>
     <string name="delete">Suprimeix</string>
     <string name="delete_all_sms">Suprimeix-ho tot</string>
     <string name="delete_from_manual_item_white_list">Suprimeix de les excepcions</string>
@@ -1349,7 +1359,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="first_aid_card_consume_power_button1">Restringeix</string>
     <string name="first_aid_card_consume_power_button2">Desactiva</string>
     <string name="first_aid_card_consume_power_summary1">Més de 5 aplicacions s\'inicien elles soles. Limiteu-les per estalviar bateria.</string>
-    <string name="first_aid_card_consume_power_summary2">Apaga el punt d\'accés portàtil per estalviar bateria</string>
+    <string name="first_aid_card_consume_power_summary2">Desactiveu el punt d\'accés portàtil per estalviar bateria</string>
     <string name="first_aid_card_consume_power_title">Consum de bateria</string>
     <string name="first_aid_card_kadun_button1">Allibera espai</string>
     <string name="first_aid_card_kadun_button2">Restringeix</string>
@@ -1501,6 +1511,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gamebox_immersion_tips_content">El Mode Immersió restringeix totes les funcions de la targeta SIM, excepte la connexió de dades mòbils. No sereu interromputs amb trucades ni rebreu notificacions sobre trucades perdudes. Totes les funcions de la targeta SIM es restauraran quan el Mode Immersió sigui desactivat. Voleu activar el Mode Immersió?</string>
     <string name="gamebox_immersion_tips_title">Atenció</string>
     <string name="gamebox_immerson_open">"S'està activant el Mode Immersió, no canvieu de xarxes…"</string>
+    <string name="gamebox_macro">Combos</string>
     <string name="gamebox_manual_record">Enregistra</string>
     <string name="gamebox_milink">Emet</string>
     <string name="gamebox_positive_button_text">D\'acord (%1$ds)</string>
@@ -1588,6 +1599,9 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gb_first_window_summary">Augmenta la velocitat i el rendiment en l\'àmbit del sistema</string>
     <string name="gb_first_window_title">Game Turbo</string>
     <string name="gb_game_end_toast">Reviseu els moments clau dels jocs</string>
+    <string name="gb_game_macro_bubble_tips">Proveu combos</string>
+    <string name="gb_game_macro_toast_tips">"Proveu combos!
+Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_game_video_bottom_tips">Reviseu els moments clau de les vostres sessions de joc a Game Turbo. Els vídeos se suprimiran automàticament al cap de 7 dies.</string>
     <string name="gb_game_video_item_tag">Moments clau</string>
     <string name="gb_game_video_page_delete_success">S\'ha suprimit correctament</string>
@@ -1616,6 +1630,20 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gb_new_feature">Nova característica</string>
     <string name="gb_operat_frequently">No tan ràpid!</string>
     <string name="gb_shortcut_pref_title">Drecera a la pantalla d\'inici</string>
+    <string name="gb_shoulder_key">Botons de l\'espatlla</string>
+    <string name="gb_shoulder_key_add_show_btn">Mostra els botons virtuals durant els jocs</string>
+    <string name="gb_shoulder_key_add_tips">Moveu els botons [L] i [R] a qualsevol posició funcional i utilitzeu-los mitjançant els botons de l\'espatlla</string>
+    <string name="gb_shoulder_key_btn_cancel">Cancel·la</string>
+    <string name="gb_shoulder_key_btn_save_exit">Desa</string>
+    <string name="gb_shoulder_key_circle_left">E</string>
+    <string name="gb_shoulder_key_circle_right">D</string>
+    <string name="gb_shoulder_key_dialog_txt">Podeu activar Game Turbo mitjançant els botons de l\'espatlla.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Entesos</string>
+    <string name="gb_shoulder_key_guide_btn_next">Següent</string>
+    <string name="gb_shoulder_key_guide_tips">Configureu els botons de l\'espatlla per jugar com un professional!</string>
+    <string name="gb_shoulder_key_guide_tips1">Obriu la caixa d’eines i configureu els botons de l\'espatlla</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Moveu els botons [L] i [R] a qualsevol posició funcional per acabar la configuració</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Utilitzeu els botons de l\'espatlla per a les funcions que els heu assignat durant els jocs</string>
     <string name="gb_sign_gift">Registreu-vos per rebre recompenses</string>
     <string name="gb_sign_gift_button_text">Rebre</string>
     <string name="gb_sign_notification_summary">Juga a jocs sense retard de xarxa</string>
@@ -1874,7 +1902,7 @@ L'operadora podria carregar-li costos addicionals si feu servir la connexió de 
     <string name="list_empty_text">Buit</string>
     <string name="load_only_under_wlan">Carregant fent ús exclusiu de Wi-Fi</string>
     <string name="loading">Un moment…</string>
-    <string name="loading_text_format" formatted="false">S\'està comprovant si les fotos contenen informació privada (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Comprovant si les fotos contenen informació privada %d/%d</string>
     <string name="local_ip_exception_summary">"No s'ha pogut obtenir una adreça IP local. Per reportar a MIUI, aneu a l'aplicació Informar error i envieu registre des del dispositiu."</string>
     <string name="lock_all_title">Bloqueja totes les aplicacions</string>
     <string name="lock_mode_title">Configuració de bloqueig</string>
@@ -2233,7 +2261,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="network_traffic_warning_title">Ús de dades per a les aplicacions del sistema</string>
     <string name="networkchanged_exception_summary">Ha canviat la connexió de xarxa. Si us plau provi una altra vegada.</string>
     <string name="networkchanged_exception_title">Connexió canviada</string>
-    <string name="never">1 cop</string>
+    <string name="never_new">%d vegada</string>
     <string name="news_change">Canvia</string>
     <string name="nickname">Sobrenom</string>
     <string name="night">Vespre</string>
@@ -2517,7 +2545,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="permission_action_tag">Protecció de la privadesa</string>
     <string name="permission_action_virtual">Torneu els missatges en blanc</string>
     <string name="permission_close_permission_control_dialog_msg">"Quan l'administrador de permisos està desactivat, les aplicacions no li demanaran permís per llegir els seus contactes, veure el seu registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos."</string>
-    <string name="permission_close_permission_control_dialog_title">Apagar?</string>
+    <string name="permission_close_permission_control_dialog_title">Voleu desactivar-ho?</string>
     <string name="permission_exception_title">Veure permisos de xarxa</string>
     <string name="permission_instruction_access_notification">Aquest permís permet a les aplicacions llegir, cercar i esborrar totes les vostres notificacions. Recordeu que les notificacions poden incloure informació privada (per exemple, números de targeta bancària i contrasenyes).</string>
     <string name="permission_instruction_activity_recognition">Aquest permís permet a les aplicacions accedir a la informació recopilada pels sensors integrats que detecten la vostra activitat física (per exemple, el recompte de passos i els entrenaments). Recordeu que la informació sobre la vostra activitat física és personal.</string>
@@ -2606,7 +2634,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pm_remember_choice">Recordar la meva selecció</string>
     <string name="pm_root_success_notification_infomation">Cal que conegueu els riscos relacionats amb l\'accés a l\'arrel</string>
     <string name="pm_root_success_notification_title">Accés root habilitat</string>
-    <string name="power_20s_shutdown">Dispositiu s\'apagarà en %d segons</string>
+    <string name="power_20s_shutdown">El dispositiu s\'apagarà d\'aquí a %d segons</string>
     <string name="power_ambient_display">Pantalla ambiental</string>
     <string name="power_analysis_consume_title">Ús de bateria</string>
     <string name="power_analysis_suggestion_need_optimize">Problemes d\'ús de la bateria detectats.</string>
@@ -2620,7 +2648,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_5g_save_summary_text">Feu que la connectivitat 5G consumeixi menys energia en certs escenaris</string>
     <string name="power_center_5g_save_title_text">Estalvi de bateria 5G</string>
     <string name="power_center_abnormal_consume_analysis">Anomalies en l’ús de l’energia</string>
-    <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
+    <string name="power_center_auto_shutdown">Programar l\'encesa i l\'apagat</string>
     <string name="power_center_back">Enrere</string>
     <string name="power_center_battery_all">Tots</string>
     <string name="power_center_battery_app_detail">Ús de la bateria de l\'aplicació</string>
@@ -2655,14 +2683,14 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_list_item_deep_save_title">Configuració avançada</string>
     <string name="power_center_list_item_haptic_feedback">Desactiva el retorn hàptic</string>
     <string name="power_center_list_item_haptic_feedback_summary">"Els gestos i els controls del sistema no s’acompanyaran de comentaris hàptics"</string>
-    <string name="power_center_list_item_set_lockscreen_time">Apaga la pantalla després de 30 segons d\'inactivitat</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Bloqueja el dispositiu després de %d segons inactivitat</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Posa la pantalla en repòs després de %d segons d’inactivitat</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Bloquejar el dispositiu més ràpidament estalvia bateria</string>
     <string name="power_center_list_item_wake_notification">"No encenguis la pantalla per les notificacions"</string>
     <string name="power_center_list_item_wake_notification_summary">Les notificacions entrants només es mostraran quan activeu la pantalla</string>
     <string name="power_center_one_key_save">Optimitza</string>
     <string name="power_center_ontime_boot">Hora d\'encesa</string>
-    <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
+    <string name="power_center_ontime_shutdown">Hora de l\'apagat</string>
     <string name="power_center_optimize_title">Suggeriments</string>
     <string name="power_center_power_save_summary_text">Augmenteu el temps restant fins a %1$dh %2$dmin</string>
     <string name="power_center_power_save_title_text">Estalvi de bateria</string>
@@ -2689,7 +2717,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_center_super_save_summary_text">Augmenteu el temps restant fins a %1$dh %2$dmin</string>
     <string name="power_center_super_save_title_text">Estalvi extrem de bateria</string>
     <string name="power_center_time_to_boot">Hora d\'encesa</string>
-    <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
+    <string name="power_center_time_to_shutdown">Hora de l\'apagat</string>
     <string name="power_center_title">Bateria</string>
     <string name="power_center_used_time_Introduction">Temps de bateria des que es va carregar per última vegada més de %s</string>
     <string name="power_consume_hardware_total_format">Maquinari: %s</string>
@@ -2708,9 +2736,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_main_battery_last_day_hour">%1$s d %2$s h restants</string>
     <string name="power_main_battery_last_hour_minute">%1$s h %2$s min restants</string>
     <string name="power_off_warning_button_ok">Ho tinc</string>
-    <string name="power_off_warning_message">La bateria és baixa. El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</string>
+    <string name="power_off_warning_message">La bateria és baixa. El dispositiu s\'apagarà d\'aquí a %d segons. Connecteu el carregador.</string>
     <string name="power_off_warning_notification_title">A punt d’apagar</string>
-    <string name="power_optimize_aod_summary">El dispositiu estalvia bateria quan la pantalla està apagada</string>
+    <string name="power_optimize_aod_summary">El dispositiu estàlvia bateria quan la pantalla està apagada</string>
     <string name="power_optimize_auto_brightness">Ajusteu la brillantor automàticament</string>
     <string name="power_optimize_auto_brightness_summary">La brillantor automàtica estalvia bateria</string>
     <string name="power_optimize_auto_catagory_title">Problemes amb la bateria</string>
@@ -2759,8 +2787,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="power_optimize_set_lockscreen_time_holder">Bloqueja el dispositiu després de %d segons d\'inactivitat</string>
     <string name="power_phone">Trucades de veu</string>
     <string name="power_save_mode">Estalvi de bateria</string>
-    <string name="power_save_mode_auto_exit_summary">Apaga quan la bateria estigui al 60% o totalment carregada</string>
-    <string name="power_save_mode_auto_exit_title">Apaga quan estigui carregada</string>
+    <string name="power_save_mode_auto_exit_summary_new">Desactiva\'l quan la bateria estigui al %s o totalment carregada</string>
+    <string name="power_save_mode_auto_exit_title">Es desactiva quan està carregada</string>
     <string name="power_save_mode_close_aod_display_summary">Desactiveu la pantalla Sempre encesa quan estalvieu la bateria</string>
     <string name="power_save_mode_close_aod_display_title">Desactiveu la pantalla Sempre encesa</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funciona quan l\'estalvi de bateria està activat</string>
@@ -3339,7 +3367,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="settings_camera_subtitle_no">Sense metadades</string>
     <string name="settings_category_other">Altres paràmetres</string>
     <string name="settings_category_overheat">Sobreescalfament</string>
-    <string name="settings_choice_no_notification">Apagat</string>
+    <string name="settings_choice_no_notification">Desactivat</string>
     <string name="settings_image_camera_summary">Model de dispositiu, metadades, etc.</string>
     <string name="settings_location_subtitle_no">No hi ha informació d\'ubicació</string>
     <string name="settings_power_save_ontime_title">Horari</string>
@@ -3359,9 +3387,9 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="show_traffic_dialog_message">La seva informació d\'ús de dades es mostrarà en l\'àrea de notificacions. Podeu activar o desactivar aquesta funció en qualsevol moment a Ús de Dades &gt; Configuració</string>
     <string name="show_traffic_dialog_title">Mostra ús a l\'àrea de notificacions</string>
     <string name="showpattern">Mostra patró</string>
-    <string name="shutdown_cancel_reminder">"No es va apagar"</string>
-    <string name="shutdown_cancel_reminder_detail">"El dispositiu no es va apagar perquè estava enmig d'una trucada"</string>
-    <string name="shutdown_cancel_reminder_detail2">"Sembla que esteu jugant a un joc. S'ha cancel·lat l'apagada programada."</string>
+    <string name="shutdown_cancel_reminder">"No s'ha apagat"</string>
+    <string name="shutdown_cancel_reminder_detail">"El dispositiu no s'ha apagat perquè es trobava enmig d'una trucada"</string>
+    <string name="shutdown_cancel_reminder_detail2">"Sembla que esteu jugant a un joc. S'ha cancel·lat l'apagat programat."</string>
     <string name="signal_exception_4g_bad_rsrq">La recepció del senyal actual és pobra. La velocitat de connexió pot ser baixa.</string>
     <string name="signal_exception_none_4g_5g_network">"Esteu utilitzant xarxes mòbils 2G/3G. La velocitat de connexió pot ser baixa."</string>
     <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
@@ -3729,6 +3757,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="suggest_app_tolock_unmasked">Notificacions visibles</string>
     <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
     <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
+    <string name="summary_app_update_new">Actualitzeu les aplicacions per accedir a noves funcions</string>
     <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
     <string name="summary_background_connection">Heu limitat la connexió en segon pla per aquesta aplicació.</string>
     <string name="summary_block_calls_from_cantacts">Es bloquen les trucades dels contactes.</string>
@@ -3786,7 +3815,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="superpower_notification_summary">Activa l\'estalvi de bateria Ultra</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
-    <string name="superpower_notification_title">Resta menys del 10% de bateria</string>
+    <string name="superpower_notification_title_new">Queda menys del %s de bateria</string>
     <string name="superpower_progress_content">S\'està activant l\'estalvi de bateria Ultra…</string>
     <string name="superpower_progress_left_time">%1$dh %2$dmin</string>
     <string name="superpower_progress_switch_home">S\'està canviant al tema Fosc</string>
@@ -3800,9 +3829,9 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="superpower_savemode_limit3">Restringeix l\'activitat que consumeix bateria (sincronització, GPS, vibració, pantalla ambiental, etc.)</string>
     <string name="superpower_savemode_limit4">Permet a les aplicacions seleccionades funcionar normalment</string>
     <string name="superpower_settings">Estalvi de bateria Ultra</string>
-    <string name="superpower_settins_autoenter_summary">Activa l\'estalvi de bateria Ultra automàticament quan la bateria arribi al 10% de càrrega</string>
+    <string name="superpower_settins_autoenter_summary_new">Activa l\'estalvi de bateria Ultra automàticament quan la bateria només estigui al %s carregada</string>
     <string name="superpower_settins_autoenter_title">Activa automàticament</string>
-    <string name="superpower_settins_autoleave_summary">Desactiva l\'estalvi de bateria Ultra automàticament quan la bateria arribi al 50% de càrrega</string>
+    <string name="superpower_settins_autoleave_summary_new">Desactiva l\'estalvi de bateria Ultra automàticament quan es carregui al %s bateria</string>
     <string name="superpower_settins_autoleave_title">Desactiva automàticament</string>
     <string name="superpower_settins_other">Configuració addicional</string>
     <string name="superpower_settins_switch_summary">Restringeix la majoria de característiques que consumeixen energia per fer que les funcions bàsiques (trucades, SMS i aplicacions seleccionades) estiguin disponibles el màxim temps possible</string>
@@ -3869,6 +3898,7 @@ format esborrarà el contingut existent al ^ 2. Per evitar perdre contingut, feu
     <string name="tc_sms_report_get_success_notify_title">S\'ha rebut el SMS amb l\'informe d\'ús de dades</string>
     <string name="tc_sms_report_geting_sms">S\'està obtenint la informació del SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Aneu a l\'aplicació Ús de dades del Centre de seguretat i torneu-ho a provar manualment.</string>
+    <string name="tc_sms_report_notify_correction_business_hall">Calibra de nou a Carrier Services</string>
     <string name="tc_sms_report_notify_correction_failure_title">"No es pot actualitzar la informació d'ús de dades"</string>
     <string name="tc_sms_report_notify_get_failure_body">"No s'ha pogut remetre l'informe d'ús de dades. Assegureu-vos que està connectat a una xarxa Mòbil."</string>
     <string name="tc_sms_report_notify_get_failure_title">"No es pot obtenir l'informe d'ús de dades"</string>
@@ -4109,6 +4139,7 @@ Dades extres en ús"</string>
     <string name="traffic_setting_fragment_sms_content_tips">Introduïu el missatge aquí</string>
     <string name="traffic_setting_fragment_title">Configuració de consulta d\'ús de dades</string>
     <string name="traffic_setting_fragment_title_guide">Proveïdors i plans de dades</string>
+    <string name="traffic_to_limit_warning">"Heu esgotat el %s del límit de dades"</string>
     <string name="traffic_usage_warning_body">"Ja heu utilitzat %s de dades mòbils aquest mes."</string>
     <string name="traffic_usage_warning_limit">Límit d’avís d’ús de dades</string>
     <string name="traffic_usage_warning_title">Avís d\'ús de dades</string>
@@ -4184,6 +4215,11 @@ Dades extres en ús"</string>
     <string name="vb_ve_settings_pic_border_stronger">Contorns millorats</string>
     <string name="vb_ve_settings_picture_stronger">Animacions millorades</string>
     <string name="vb_video_effects_display_style">Estil</string>
+    <string name="vb_video_effects_dolby">Dolby Atmos</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Diàleg millorat</string>
+    <string name="vb_video_effects_dolby_headset">" (Només auriculars)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos està activat</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Estèreo expandit</string>
     <string name="vb_video_effects_setting_black_white">B/N</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
     <string name="vb_video_effects_setting_girl">Rubor</string>
@@ -4226,6 +4262,7 @@ Proveu una resolució més gran!"</string>
     <string name="videobox_settings_timing_desc">Rebeu una alerta d\'afartaments per hora que us recorda que heu de fer un descans</string>
     <string name="videobox_settings_title">Caixa d\'eines de vídeo</string>
     <string name="view_traffic_detail">Mostra els detalls</string>
+    <string name="view_traffic_details">Mostra les estadístiques d\'ús de dades</string>
     <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
     <string name="virus_update_tips_title">Advertència</string>
     <string name="virus_wait_network_dialog_message">"El vostre telèfon ja no està connectat a Wi-Fi. Feu servir la connexió de dades mòbils?"</string>
@@ -4323,6 +4360,22 @@ Proveu una resolució més gran!"</string>
     <string name="warningcenter_mijia_page_title">Alertes</string>
     <string name="warningcenter_mijia_search_keywords">Alertes Mi Home</string>
     <string name="warningcenter_mijia_title">Alertes de dispositius domèstics intel·ligents</string>
+    <string name="warningcenter_policeassist_charge_tips">*És possible que se us cobrin els missatges de text enviats. Poseu-vos en contacte amb el vostre operador per obtenir més informació sobre les tarifes.</string>
+    <string name="warningcenter_policeassist_close_btn">Desactiva</string>
+    <string name="warningcenter_policeassist_flow_locating">S\'està obtenint informació…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">"No s'ha pogut compartir la ubicació"</string>
+    <string name="warningcenter_policeassist_flow_privacy">Política de privadesa</string>
+    <string name="warningcenter_policeassist_flow_send">Ubicació compartida amb la policia</string>
+    <string name="warningcenter_policeassist_flow_tips">Compartiu la vostra ubicació</string>
+    <string name="warningcenter_policeassist_noti_content">Envia automàticament un missatge de text amb la vostra ubicació</string>
+    <string name="warningcenter_policeassist_noti_privacy">Toqueu per consultar la Política de privadesa</string>
+    <string name="warningcenter_policeassist_noti_send">Ha compartit la vostra ubicació amb la policia</string>
+    <string name="warningcenter_policeassist_noti_title">Comparteix la ubicació durant les trucades d\'emergència</string>
+    <string name="warningcenter_policeassist_open_btn">Activa</string>
+    <string name="warningcenter_policeassist_open_content">"Envia la vostra informació d'ubicació a la policia mitjançant SMS o dades mòbils automàticament mentre truqueu al 112, 120, 119, 122 o 12122."</string>
+    <string name="warningcenter_policeassist_open_title">Compartiu la vostra ubicació amb la policia durant les trucades d’emergència</string>
+    <string name="warningcenter_policeassist_privacy"><Data>\"He llegit i he acceptat l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;\".</Data></string>
+    <string name="warningcenter_policeassist_title">Ubicació d’emergència</string>
     <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">Centre d\'avisos de MIUI</string>
     <string name="website">Pàgina web</string>

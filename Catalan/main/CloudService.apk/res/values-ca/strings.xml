@@ -218,13 +218,13 @@
     <string name="micloud_all_sub_resend_sms">"En activar «Troba el dispositiu», es pot enviar un SMS d'activació després de canviar les targetes SIM."</string>
     <string name="micloud_battery_low_notification_message">Connecteu el carregador per sincronitzar</string>
     <string name="micloud_battery_low_notification_title">Bateria baixa</string>
-    <string name="micloud_buy_member_safe">Obtén més emmagatzematge al MiCloud</string>
+    <string name="micloud_buy_member_safe">Obteniu més emmagatzematge al núvol</string>
     <string name="micloud_confusion_account_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
-    <string name="micloud_confusion_account_name">ID de compte Mi: </string>
+    <string name="micloud_confusion_account_name">Compte:</string>
     <string name="micloud_confusion_account_notify_text">El teu compte Mi ha estat modificada des d\'un altre dispositiu.</string>
     <string name="micloud_confusion_account_notify_title">Comprovar compte</string>
     <string name="micloud_confusion_account_question">Aquesta ID %s de compte de Mi et pertany?</string>
-    <string name="micloud_confusion_account_title">ID de compte Mi</string>
+    <string name="micloud_confusion_account_title">Compte Mi</string>
     <string name="micloud_confusion_alert_message">La informació del teu compte Mi ha estat modificada des d\'un %s.</string>
     <string name="micloud_confusion_alert_negative">Més tard</string>
     <string name="micloud_confusion_alert_positive">Detalls</string>
@@ -244,7 +244,7 @@
     <string name="micloud_confusion_setting_notify_text">Desactiveu la sincronització amb altres dispositius associats al vostre compte.</string>
     <string name="micloud_confusion_setting_notify_title">Protegeix el teu compte</string>
     <string name="micloud_confusion_setting_password_error">La contrasenya que has introduït és incorrecta</string>
-    <string name="micloud_confusion_setting_question">Apagar la sincronització amb altres dispositius associats al teu compte.</string>
+    <string name="micloud_confusion_setting_question">Desactiveu la sincronització d\'altres dispositius associats al vostre compte.</string>
     <string name="micloud_confusion_setting_title">Massa dispositius</string>
     <string name="micloud_confusion_toast_confirm">Dispositiu verificat</string>
     <string name="micloud_confusion_toast_deny">Inicia sessió amb el vostre compte Mi</string>
@@ -313,7 +313,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_main_sync_mode_title">Sincronització amb estalvi d\'energia</string>
     <string name="micloud_main_wait_charge">Per reprendre la sincronització, carregueu completament el dispositiu.</string>
     <string name="micloud_main_wait_charge_sleep">Apagueu la pantalla i carregueu completament el dispositiu per reprendre la sincronització.</string>
-    <string name="micloud_manage_space_data">Gestiona les dades del MiCloud</string>
+    <string name="micloud_manage_space_data">Gestiona les dades del núvol</string>
     <string name="micloud_manaul_sync_success_button_text">Mostra els detalls</string>
     <string name="micloud_manaul_sync_success_time_prefix">Última sincronització: %s</string>
     <string name="micloud_manaul_sync_success_title">S\'ha sincronitzat correctament</string>
@@ -379,7 +379,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_privacy_licence_agreed">D\'acord amb la &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; de Xiaomi Cloud.</string>
     <string name="micloud_privacy_licence_privacy_policy">Política de privadesa</string>
     <string name="micloud_privacy_progress_content">S\'està obtenint l\'autorització…</string>
-    <string name="micloud_privacy_warning_button">Enrera</string>
+    <string name="micloud_privacy_warning_button">Enrere</string>
     <string name="micloud_privacy_warning_content">"No es poden activar els serveis de Xiaomi Cloud. Espereu un minut o dos i torneu-ho a provar."</string>
     <string name="micloud_privacy_warning_title">Atenció</string>
     <string name="micloud_proceed">Continuar</string>
@@ -444,7 +444,7 @@ Localitzeu i bloquegeu el dispositiu en cas que es perdi."</string>
     <string name="micloud_warn_full_title">Sense espai</string>
     <string name="micloud_warn_low_sum">El vostre Xiaomi Cloud està complet al 90%.</string>
     <string name="micloud_warn_low_title">Gairebé sense espai…</string>
-    <string name="micloud_web_discription_place_holder">Visiteu %1$s</string>
+    <string name="micloud_web_discription_place_holder">Visiteu %1$s a l\'ordinador per gestionar les vostres dades.</string>
     <string name="micloud_wipe_data_confirm_label">Voleu suprimir els elements sincronitzats d’aquest dispositiu?</string>
     <string name="micloud_wipe_data_confirm_title">Alguns elements de les aplicacions següents se sincronitzen amb Xiaomi Cloud. Podeu suprimir-les d’aquest dispositiu mantenint-los al núvol.</string>
     <string name="micloud_wipe_data_remove">Elimina</string>
@@ -692,7 +692,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="sync_item_title">S\'estan sincronitzant elements</string>
     <string name="sync_normal_summary">"No es poden sincronitzar alguns elements de la llista següent"</string>
     <string name="sync_normal_title">"No s'ha pogut acabar la sincronització"</string>
-    <string name="sync_off">Apagat</string>
+    <string name="sync_off">Desactivat</string>
     <string name="sync_off_confirm_content">"No podreu sincronitzar les contrasenyes noves després de desactivar el Gestor de contrasenyes."</string>
     <string name="sync_off_confirm_title">Atenció</string>
     <string name="sync_on">Activat</string>

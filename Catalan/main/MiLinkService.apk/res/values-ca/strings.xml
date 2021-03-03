@@ -104,7 +104,7 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
     <string name="hang_up_alert_dialog_content">Continua emetent-se quan la pantalla del dispositiu està apagada. Aquesta característica disminueix el consum d\'energia. Premeu el botó d\'engegada per tornar a encendre la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancel·la</string>
     <string name="hang_up_alert_dialog_pos">D\'acord</string>
-    <string name="hang_up_alert_dialog_title">A punt d\'emetre amb pantalla apagada…</string>
+    <string name="hang_up_alert_dialog_title">A punt d’emetre amb la pantalla apagada…</string>
     <string name="help_page_text_01">Ajuda</string>
     <string name="help_page_text_02">Què és emetre?</string>
     <string name="help_page_text_03">"Emetre és projectar els elements de la pantalla del telèfon en un monitor extern més gran. Permet compartir imatges i vídeos amb els teus amics i familiars sense utilitzar dades mòbils."</string>

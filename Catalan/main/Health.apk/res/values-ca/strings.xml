@@ -80,6 +80,7 @@ per afegir targetes"</string>
     <string name="altitude_pressure_hint">*L\'altitud calculada en funció de la pressió atmosfèrica és aproximada</string>
     <string name="altitude_range">Altitud</string>
     <string name="am">am</string>
+    <string name="app_name">MiaoCourse</string>
     <string name="app_setting">Aplicacions</string>
     <string name="audio_permission_dialog_desc">Per analitzar el vostre cicle de son i enregistrar converses i els roncs, Xiaomi Health necessita permís per enregistrar l\'àudio.</string>
     <string name="audio_permission_dialog_title">Permet l\'enregistrament d\'àudio</string>
@@ -263,6 +264,7 @@ Si decidiu suprimir les dades de salut després de triar conservar-les, podeu fe
     <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
     <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="date_week_index">"'W'ww yyyy"</string>
     <string name="day">Dia</string>
     <string name="deep_light_detection_open_prompt">El vostre cicle de son serà analitzat la pròxima vegada que us fiqueu al llit</string>
@@ -513,7 +515,7 @@ Si encara us és difícil adormir-vos després de 30 minuts al llit, reduïu els
     <string name="gps">GPS</string>
     <string name="gps_no_signal_hint">"El senyal GPS actual no permet fer el seguiment de l’entrenament i registrar rutes. Aneu a una zona exterior plana i oberta."</string>
     <string name="gps_unauthorized">Es requereixen permisos GPS</string>
-    <string name="gps_unopened">El GPS està apagat</string>
+    <string name="gps_unopened">El GPS està desactivat</string>
     <string name="group">Cicles</string>
     <string name="guide_data_cloud_sync_tip">Podeu desactivar la sincronització a Configuració &gt; Serveis al núvol.</string>
     <string name="guide_exit">Surt de Xiaomi Health</string>
@@ -604,10 +606,10 @@ Torneu a començar."</string>
     <string name="hr_report_common_desc">El cos humà manté la freqüència cardíaca normal durant les activitats diàries i oscil·la entre 60 i 100 batecs per minut. Una freqüència cardíaca inferior a 60 BPM és un signe de bradicàrdia, mentre que una freqüència cardíaca superior a 100 BPM s’accepta com taquicàrdia en adults.</string>
     <string name="hr_report_regular_fast_desc">La freqüència cardíaca actual és massa ràpida. L’activitat física excessiva, el consum d’alcohol, el treball físic intens, el nerviosisme, l’ansietat o la presa de determinats medicaments poden provocar taquicàrdia fisiològica. A més, malalties cardiovasculars, anèmia, hipertiroïdisme, hipòxia, insuficiència cardíaca i altres malalties poden ser els signes de taquicàrdia patològica. Si us sentiu malament, consulteu el vostre metge amb temps.</string>
     <string name="hr_report_regular_normal_desc">"La freqüència cardíaca actual és normal. El cor pot suportar bé l’estrès i el cos pot resistir la pressió externa. Tanmateix, no s’ha d’oblidar que els canvis en la freqüència cardíaca poden ser els signes de malalties cardíaques. Sempre vigileu la freqüència cardíaca, especialment durant l’exercici."</string>
-    <string name="hr_report_regular_slow_desc">"La freqüència cardíaca actual és massa lenta. Al voltant del 15% de les persones poden experimentar bradicàrdia fisiològica, que és un ritme sinusal lent inferior a 60 BPM. Si aquesta afecció no provoca marejos, apagades, vertigen o desmais, és probable que no necessiteu cap tractament. No obstant això, si teniu tensió toràcica o altres símptomes, consulteu el vostre metge a temps."</string>
+    <string name="hr_report_regular_slow_desc">"La freqüència cardíaca actual és massa lenta. Al voltant del 15% de les persones poden experimentar bradicàrdia fisiològica, que és un ritme sinusal lent inferior a 60 BPM. Si aquesta afecció no provoca marejos, síncopes, vertigen o desmais, és probable que no necessiteu cap tractament. No obstant això, si teniu tensió toràcica o altres símptomes, consulteu el vostre metge a temps."</string>
     <string name="hr_report_resting_fast_desc">La freqüència cardíaca en repòs és més ràpida del normal, cosa que podria ser signe de taquicàrdia. Una dieta baixa en sal i oli, pèrdua de pes, deixar de fumar i l\'alcohol, la consciència de salut mental i l\'activitat física us poden ajudar a disminuir la freqüència cardíaca en repòs.</string>
     <string name="hr_report_resting_normal_desc">"La freqüència cardíaca en repòs és normal. La freqüència cardíaca en repòs és el nombre de vegades que el cor batega per minut quan estàs en repòs. El millor moment per mesurar la freqüència cardíaca en repòs és quan et lleves al matí, mentre estàs estirat al llit i no fas cap activitat física. Preneu-vos una estona per respirar profundament abans de mesurar la freqüència cardíaca en repòs per relaxar completament el cos."</string>
-    <string name="hr_report_resting_slow_desc">La freqüència cardíaca en repòs és més lenta del normal, cosa que podria ser signe de bradicàrdia. Els períodes prolongats de batec cardíac lent poden causar isquèmia i hipòxia, així com altres trastorns cardiovasculars i cerebrovasculars. La freqüència cardíaca en repòs està estretament relacionada amb la vostra dieta, activitat, nivells d’estrès, hàbits de son i condició física general. Mantingueu un estil de vida saludable i presteu atenció al vostre cos per evitar problemes. Si teniu tensió toràcica, marejos, apagades, vertigen o desmais, consulteu el vostre metge a temps.</string>
+    <string name="hr_report_resting_slow_desc">La freqüència cardíaca en repòs és més lenta del normal, cosa que podria ser signe de bradicàrdia. Els períodes prolongats de batec cardíac lent poden causar isquèmia i hipòxia, així com altres trastorns cardiovasculars i cerebrovasculars. La freqüència cardíaca en repòs està estretament relacionada amb la vostra dieta, activitat, nivells d’estrès, hàbits de son i condició física general. Mantingueu un estil de vida saludable i presteu atenció al vostre cos per evitar problemes. Si teniu tensió toràcica, marejos, síncopes, vertigen o desmais, consulteu el vostre metge a temps.</string>
     <string name="hr_see_report">Visualitza l\'informe</string>
     <string name="hr_start_detect">Comenceu a experimentar</string>
     <string name="hr_state">Estat</string>
@@ -813,10 +815,13 @@ Torneu a començar."</string>
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
     <string name="miuix_appcompat_confirm_description">Confirmeu</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1082,6 +1087,7 @@ Torneu a començar."</string>
     <string name="select_recog_question">Seleccioneu l\'acció</string>
     <string name="select_swim_posture">Seleccioneu l\'estil</string>
     <string name="select_target">Seleccioneu l\'objectiu</string>
+    <string name="send">Envia</string>
     <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
     <string name="sending">S\'està enviant…</string>
     <string name="set_emergency_contact">Contacte d\'emergència</string>

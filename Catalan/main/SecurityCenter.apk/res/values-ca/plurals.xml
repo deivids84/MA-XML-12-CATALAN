@@ -104,6 +104,14 @@
         <item quantity="other">%d vegades</item>
         <item quantity="one">%d vegada</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Desinstal·la %d aplicacions</item>
+        <item quantity="one">Desinstal·la %d aplicació</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Hi ha actualitzacions per a %d aplicacions</item>
+        <item quantity="one">Hi ha actualitzacions per a %d aplicació</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">S\'ha utilitzat fa %d dies</item>
         <item quantity="one">S\'ha utilitzat fa %d dia</item>
@@ -139,6 +147,10 @@
     <plurals name="cache_check_content">
         <item quantity="other">S\'estan protegint %d aplicacions</item>
         <item quantity="one">S\'està protegint %d aplicació</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data&gt;Podeu desinstal·lar &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicacions&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Podeu desinstal·lar &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicació&lt;/Data&gt;</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Ja heu fet servir %s del límit de dades diàries.
@@ -625,8 +637,8 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="one">Ho tinc (%d)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
-        <item quantity="other">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
-        <item quantity="one">El vostre dispositiu s’apagarà en %d segons. Connecteu el carregador.</item>
+        <item quantity="other">El dispositiu s\'apagarà d\'aquí a %d segons. Connecteu el carregador.</item>
+        <item quantity="one">El dispositiu s\'apagarà d\'aquí a %d segon. Connecteu el carregador.</item>
     </plurals>
     <plurals name="power_optimize_app_autostart_summary">
         <item quantity="other">%d aplicacions s\'inicien automàticament amb freqüència</item>
@@ -775,6 +787,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elements segurs</item>
         <item quantity="one">%1$d element segur</item>
+    </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data&gt;Actualitza &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicacions&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Actualitza &lt;font color=#F22424&gt;%d&lt;/font&gt; aplicació&lt;/Data&gt;</item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">S\'han esborrat %d virus</item>

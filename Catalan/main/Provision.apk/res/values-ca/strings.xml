@@ -100,9 +100,12 @@
     <string name="input_method_category">"Seleccioneu el teclat per defecte que s'utilitzarà per escriure correus, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>
     <string name="input_method_setting">Seleccioneu el teclat predeterminat</string>
     <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
+    <string name="item_contents_wwarning">"Si el dispositiu desapareix, no podreu evitar que altres persones l’utilitzin i no accedeixin a les vostres dades tret que establiu un bloqueig de pantalla. Ometre igualment?"</string>
     <string name="item_fingerprint">Empremta</string>
     <string name="item_lock_screen_password">Només bloqueig de pantalla</string>
     <string name="item_lock_screen_password_only">Bloqueig de pantalla</string>
+    <string name="item_return">Estableix</string>
+    <string name="item_skip">Omet</string>
     <string name="ktlocation_U">(Agent de servei KT)</string>
     <string name="ktposition_header">Compartir informació sobre localització amb agències de rescat d’emergència</string>
     <string name="language_picker_other_languages_title">Més idiomes</string>
@@ -154,6 +157,7 @@
     <string name="other_settings_user_experience">Programa d\'Experiència d\'Usuari</string>
     <string name="other_settings_user_experience_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús amb nosaltres. Mostra els detalls</string>
     <string name="other_settings_user_experience_summary_index">Mostra els detalls</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon us permet transferir dades del vostre dispositiu quan la pantalla està danyada.</string>
     <string name="permission_account">Accedir als comptes del vostre dispositiu:</string>
     <string name="permission_account_introduction">Per iniciar la sessió amb el Compte Mi</string>
     <string name="permission_application_package_introduction">Per accedir a l\'emmagatzematge per analitzar i escanejar els paquets d\'instal·lació</string>
@@ -186,6 +190,10 @@
     <string name="permission_picture_introduction">Per desar, editar i sincronitzar fotos i vídeos</string>
     <string name="permission_read_call_records">Editar l\'historial de trucades:</string>
     <string name="permission_read_call_records_introduction">Per afegir elements a l’historial de trucades i suprimir les trucades bloquejades</string>
+    <string name="permission_read_contacts">Accés als contactes</string>
+    <string name="permission_read_contacts_introduction">Per verificar la vostra identitat</string>
+    <string name="permission_read_message">Accés als missatges de text</string>
+    <string name="permission_read_message_introduction">Per verificar la propietat del dispositiu</string>
     <string name="permission_read_note_introduction">Per accedir a les notes i els fitxers adjunts</string>
     <string name="permission_read_write_file">Accedir i desar fitxers i fotos del dispositiu:</string>
     <string name="permission_read_write_file_introduction">Per accedir, desar i emmagatzemar en memòria cau el dispositiu</string>
@@ -223,6 +231,7 @@
     <string name="security_introduction">Podeu utilitzar aquesta aplicació per netejar la brossa del dispositiu, trobar i neutralitzar els virus, optimitzar el rendiment per a jocs, estalviar bateria, gestionar les aplicacions, permisos i molt més.</string>
     <string name="security_mobile_account_introduction">Per iniciar la sessió i gestionar els comptes del sistema</string>
     <string name="service_agreement">"He llegit i he acceptat els termes i condicions."</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galeria</string>
     <string name="service_name_application_package">Instal·lador de paquets</string>
     <string name="service_name_backup">Còpies de seguretat</string>
@@ -295,6 +304,7 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
     <string name="terms_privacy_policy_input_method_facemoji">Política de privadesa de Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Política de privadesa de Kika</string>
     <string name="title_fingerprint">Afegiu l\'empremta</string>
+    <string name="title_set_fingerprint">Bloqueig de pantalla</string>
     <string name="user_agreement">Condicions del servei</string>
     <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, Servei d’activació de Mi SIM, Xiaomi Cloud, Servei de còpia de seguretat, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Servei de comunicacions per Internet Xiaomi, Servei de traducció, Daemon MIUI, Visualitzador HTML, SDK MIUI, Aplicació d’elements segurs, Assistent IA, Bateria i rendiment, el detector d’alimentació, Joyose, OS AI Setting i Updater es connectaran a la xarxa. Les targetes intel·ligents, el Gestor de permisos i els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
     <string name="voice_assist_advice">Mi AI us permet utilitzar els controls de veu, però consumeix més energia (+ 1% cada hora).</string>

@@ -535,7 +535,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
     <string name="individuation_recommend_message">Activeu les recomanacions per rebre suggeriments personalitzats segons les vostres preferències.</string>
     <string name="individuation_recommend_setting_title">Recomanacions personalitzades</string>
-    <string name="individuation_recommend_switch_message">"Després de desactivar aquesta funció, no rebreu recomanacions basades en els vostres interessos personals. Apagar-lo igualment?"</string>
+    <string name="individuation_recommend_switch_message">"Després de desactivar aquesta funció, no rebreu recomanacions basades en els vostres interessos personals. Voleu desactivar-la igualment?"</string>
     <string name="individuation_recommend_title">Recomanacions</string>
     <string name="individuation_service_switch">Recomanacions personalitzades</string>
     <string name="input_email_address_notice">"Utilitzarem aquest correu electrònic per verificar el vostre compte"</string>
@@ -785,7 +785,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="online_music_enabled_summary">Escolta i descarrega les teves cançons preferides. Vegeu les millors cançons i llistes de reproducció seleccionades allà on vagi.</string>
     <string name="online_music_enabled_title">La transmissió gratuïta ja és aquí</string>
     <string name="online_recommend">Audiollibres</string>
-    <string name="online_service_dialog_message">"No podreu rebre recomanacions de contingut ni elements de sincronització si desactiveu els serveis en línia. Apagar-lo igualment?"</string>
+    <string name="online_service_dialog_message">"No podreu rebre recomanacions de contingut ni elements de sincronització si desactiveu els serveis en línia. Voleu desactivar-los igualment?"</string>
     <string name="online_service_dialog_title">Serveis en línia</string>
     <string name="online_service_open_tip">Serveis de música en línia</string>
     <string name="online_service_switch">Serveis en línia</string>

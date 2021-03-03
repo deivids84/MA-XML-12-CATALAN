@@ -247,7 +247,7 @@
     <string name="accessibility_scanning_face">Escaneig de la cara</string>
     <string name="accessibility_search_light">Cerca</string>
     <string name="accessibility_send_smart_reply">Envia</string>
-    <string name="accessibility_sensors_off_active">Sensors apagats actius</string>
+    <string name="accessibility_sensors_off_active">Sensors desactivats actius</string>
     <string name="accessibility_settings">Configuració</string>
     <string name="accessibility_settings_button">Configuració del sistema.</string>
     <string name="accessibility_signal_full">Senyal complet.</string>
@@ -342,7 +342,7 @@
     <string name="appops_mic_overlay">Aquesta aplicació es mostra a la resta d’aplicacions de la pantalla i fa servir el micròfon.</string>
     <string name="appops_microphone">Aquesta aplicació utilitza el micròfon.</string>
     <string name="appops_overlay">Aquesta aplicació es mostra a la resta d’aplicacions de la pantalla.</string>
-    <string name="auto_brightness_off">La brillantor automàtica està apagada</string>
+    <string name="auto_brightness_off">La brillantor automàtica està desactivada</string>
     <string name="auto_brightness_on">La brillantor automàtica està activa</string>
     <string name="auto_connect_disable">La connexió automàtica està desactivada</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Els botons de navegació estan desactivats, toqueu dos cops qualsevol botó per tornar-los a activar.</string>
@@ -776,6 +776,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="face_unlock_pin_and_fingerprint">Introduïu el PIN o utilitzeu l\'empremta digital per desbloquejar-lo</string>
     <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
     <string name="face_unlock_reveal_mouth">Feu visible els llavis</string>
+    <string name="face_unlock_success">Desbloquejat correctament</string>
     <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
     <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremtes. Torneu a afegir l’empremta.</string>
     <string name="fingerprint_add_title">Afegeix empremta</string>
@@ -1005,7 +1006,7 @@ total"</string>
     <string name="keyguard_carrier_default">Sense servei.</string>
     <string name="keyguard_charged">Carregat</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna a la pantalla de blocatge</string>
-    <string name="keyguard_charging_info_last_charge_time">D/m H:mm</string>
+    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Avui a les %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir a les %s</string>
     <string name="keyguard_charging_normal_and_level_tip">S\'està carregant %d%%</string>
@@ -1211,6 +1212,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Aquest dispositiu</string>
     <string name="media_transfer_wired_device_name">Dispositiu d\'àudio per cable</string>
     <string name="media_transfer_wired_usb_device_name">Auriculars per cable</string>
+    <string name="megabyte_per_second">MB/s</string>
     <string name="memory_leak">Pèrdua de memòria</string>
     <string name="menu_ime">Commutador de teclat</string>
     <string name="mic_active">Micròfon actiu</string>
@@ -1426,7 +1428,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="phone_locked_foget_password_method_content"><Data>Has de &lt;font color=#a5220e&gt;esborrat totes les dades &lt;/font&gt;en el dispositiu, incloent fotos i contactes, i després configurar una contrasenya nova pantalla de bloqueig.</Data></string>
     <string name="phone_locked_foget_password_method_next">Següent</string>
     <string name="phone_locked_foget_password_ok">D\'acord</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apagar el dispositiu, manteniu premut el &lt;font color=#a5220e&gt;Botó d\'encesa&lt;/font&gt; i el &lt;font color=#a5220e&gt;botó Pujar volum&lt;/font&gt; simultàniament fins que aparegui el logotip de la meva.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apageu el dispositiu, manteniu premut el &lt;font color=#a5220e&gt;Botó d\'encesa&lt;/font&gt; i el &lt;font color=#a5220e&gt;botó d\'apujar el volum&lt;/font&gt; simultàniament fins que aparegui el logotip de Mi.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Seleccioneu &lt;font color=#a5220e&gt;\"Esborra &amp;amp; Restableix\"&lt;/font&gt; i espereu fins que el dispositiu es reiniciï.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
     <string name="phone_locked_string">Aquest dispositiu està bloquejat</string>
@@ -1784,7 +1786,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="select_webview_provider_dialog_title">Configura la implementació de WebView</string>
     <string name="select_webview_provider_title">Implementació de WebView</string>
     <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
-    <string name="sensor_privacy_mode">Sensors apagats</string>
+    <string name="sensor_privacy_mode">Sensors desactivats</string>
     <string name="shared_data_delete_failure_text">S\'ha produït un error en suprimir les dades compartides.</string>
     <string name="shared_data_no_accessors_dialog_text">No hi ha arrendaments adquirits per a aquestes dades compartides. Voleu suprimir-lo?</string>
     <string name="shared_data_no_blobs_text">No hi ha dades compartides per a aquest usuari.</string>

@@ -199,6 +199,7 @@
     <string name="flow_consume">Tràfic</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
@@ -456,9 +457,9 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="select_subfile_all">Selecciona-ho tot</string>
     <string name="selected_count">Seleccionats %1$d de %2$d</string>
     <string name="send">Envia</string>
-    <string name="setting_close_debug">Mode debug apagat</string>
+    <string name="setting_close_debug">Mode de depuració desactivat</string>
     <string name="setting_debug_fail">"No s'ha pogut entrar en mode debug"</string>
-    <string name="setting_open_debug">Mode debug encès. Toca aquí 6 vegades per apagar-lo.</string>
+    <string name="setting_open_debug">El mode de depuració està activat. Toqueu aquí 6 vegades per desactivar el mode de depuració.</string>
     <string name="shortcut_dialog_content">Afegeix una drecera a la pantalla d\'inici per cercar les fonts més ràpid.</string>
     <string name="shortcut_dialog_create">Crea</string>
     <string name="shortcut_dialog_title">Voleu crear una drecera en la pantalla d\'inici?</string>
