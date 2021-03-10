@@ -70,7 +70,7 @@
     <string name="am">AM</string>
     <string name="app_empty">"No s'han pogut trobar aplicacions."</string>
     <string name="app_label">Comentaris</string>
-    <string name="app_name">Comentaris</string>
+    <string name="app_name">Còpia de seguretat</string>
     <string name="app_search">Cerca aplicacions</string>
     <string name="auth_fail_warning">Sessió expirada. Inicieu la sessió de nou.</string>
     <string name="bind_sign_in_title">Afegeix el meu compte</string>

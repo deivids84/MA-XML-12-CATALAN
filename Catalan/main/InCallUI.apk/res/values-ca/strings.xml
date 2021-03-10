@@ -2,6 +2,7 @@
 <resources>
     <string name="ai_assistant">Assistent de trucades AI</string>
     <string name="ai_assistant_not_installed">Instal·leu primer l\'Assistent de trucades AI</string>
+    <string name="ai_dial">Trucada IA</string>
     <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manualment</string>
     <string name="ai_mode_subtitles">Subtítols</string>

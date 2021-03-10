@@ -36,71 +36,71 @@
     <string-array name="settings_search_account_and_authority_global">
         <item>Configuració del compte</item>
         <item>Afegiu i gestioneu comptes de tercers</item>
-        <item>Autorització; Compte; Compte Mi; Afegeix; Parell; Xiaomi; Veure; SNS; Facebook; Google</item>
+        <item>Comptes;SNS;Facebook;Google;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Configuració del compte</item>
         <item>Afegiu i gestioneu comptes de tercers</item>
-        <item>Autorització; Compte; Compte Mi; Afegeix; Parell; Xiaomi; Veure; SNS; WeChat; QQ; Weibo</item>
+        <item>Comptes;SNS;WeChat;QQ;Weibo;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Canviar la contrasenya</item>
         <item>Canvia la contrasenya del meu compte</item>
-        <item>Canvia; Contrasenya; Xiaomi; Compte Mi; Compte</item>
+        <item>Canvia la contrasenya;Actualitza la contrasenya;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajuda</item>
         <item>Obteniu ajuda i assistència del meu compte</item>
-        <item>Xiaomi; Compte; Compte Mi; Ajuda; Assistència; Veure</item>
+        <item>Compte Mi;Compte;Ajuda del compte;Centre d\'ajuda</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>Verificació en dos passos</item>
         <item>Definiu la verificació en dos passos per al vostre compte Mi</item>
-        <item>Inicieu la sessió; Inicieu la sessió; verificació en dos passos; Xiaomi; Compte; Compte Mi; Configuració</item>
+        <item>Inicia la sessió;Inicieu la sessió;Verificació en dos passos;Xiaomi;Compte;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
-        <item>Inici de sessió i seguretat</item>
+        <item>Seguretat del compte</item>
         <item>Recuperació de telèfon i correu electrònic, gestió de contrasenyes</item>
-        <item>Compte; Seguretat; Inici de sessió; Inici de sessió; Xiaomi; Compte Mi; número de telèfon; Correu electrònic; Canvi; Contrasenya; Afegeix; Parella</item>
+        <item>Seguretat del compte;Inici de sessió;Telèfon de recuperació;Correu de recuperació;Protecció del compte;Número de telèfon;Correu;Canvi de contrasenya;Afegeix número de telèfon;Afegeix correu electrònic;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Dispositius</item>
         <item>Gestioneu els dispositius associats al vostre compte Mi</item>
-        <item>Dispositius; Gestiona; Inicia sessió; Inicia sessió; Llista de dispositius; Xiaomi; Compte Mi; Compte</item>
+        <item>Gestió dels dispositius;Els meus dispositius;Dispositius;Llista de dispositius;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Informació de pagament</item>
         <item>Consulteu i gestioneu la informació de pagament</item>
-        <item>Pagament; Informació; Xiaomi; Compte Mi; Compte</item>
+        <item>Paga;Pagament;Forma de pagament;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Política de privadesa</item>
         <item>Veure la política de privadesa del meu compte</item>
-        <item>Xiaomi; Compte; Compte Mi; Privadesa; Política; Veure</item>
+        <item>Compte Mi;Compte;Política de privadesa</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>Correu de recuperació</item>
         <item>Afegiu un correu de recuperació</item>
-        <item>Seguretat; Correu electrònic; Xiaomi; Compte; Compte Mi; Afegeix; Parell</item>
+        <item>Correu de recuperació;Correu;Afegeix un correu;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Telèfon de recuperació</item>
         <item>Afegiu un telèfon de recuperació</item>
-        <item>Seguretat; Compte; Compte Mi; Telèfon; Xiaomi; Número de telèfon; Afegeix; Parella</item>
+        <item>Telèfon de recuperació;Afegeix un telèfon;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Anuncis</item>
         <item>Gestioneu els anuncis del sistema</item>
-        <item>Sistema; Anuncis; Xiaomi; Compte; Compte Mi; Configuració</item>
+        <item>Anuncis;Compte Mi;Compte</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Informació del compte</item>
         <item>Consulteu la vostra foto de perfil i gestioneu la informació del compte</item>
-        <item>Compte; Informació; Personal; Foto de perfil; Nom; Xiaomi; Identificador; Compte Mi; Veure; Configuració</item>
+        <item>Informació personal;foto de perfil;sobrenom;informació del compte;identificador Mi;identificador;compte Mi;compte</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Acord d\'usuari</item>
-        <item>Veure l\'acord d\'usuari del meu compte</item>
-        <item>Xiaomi; Compte; Compte Mi; Usuari; Acord; Visualització</item>
+        <item>Acord d\'usuari</item>
+        <item>Compte Mi;Compte;Acord d\'usuari;CLUF</item>
     </string-array>
 </resources>

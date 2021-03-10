@@ -19,14 +19,14 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="action_for_continue_timer">Currículum</string>
     <string name="action_for_pause_timer">Pausar</string>
     <string name="action_for_restart">Repeteix</string>
@@ -70,7 +70,7 @@
     <string name="already_exist">Aquest temporitzador ja existeix</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Rellotge analògic</string>
-    <string name="app_label">Rellotge</string>
+    <string name="app_label">Calendari</string>
     <string name="app_name">difumina</string>
     <string name="auto_silence_never">Mai</string>
     <string name="auto_silence_summary">Definiu el temps després del qual se silenciaran les alarmes i els temporitzadors</string>

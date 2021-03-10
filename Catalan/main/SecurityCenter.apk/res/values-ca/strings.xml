@@ -518,8 +518,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="app_usage_recently">Utilitzada recentment</string>
     <string name="app_version">Versió:</string>
     <string name="app_wifi">Wi-Fi</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Netegeu %s de la memòria cau de WeChat per alliberar espai d’emmagatzematge</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No oblideu esborrar la memòria cau"</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Netegeu %s de la memòria cau WeChat per alliberar espai d’emmagatzematge</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No oblidis esborrar la memòria cau"</string>
     <string name="application_item_already_permission">Permès</string>
     <string name="application_item_disable">Restringit</string>
     <string name="applock_add_account">Afegeix</string>
@@ -2300,7 +2300,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="notification_garbage_clean_size_found_text">Hi ha massa fitxers de la paperera</string>
     <string name="notification_garbage_clean_size_new">Allibereu %s emmagatzematge</string>
     <string name="notification_garbage_cleanup_summary">Netegeu la brossa (%s) per accelerar el dispositiu</string>
-    <string name="notification_garbage_cleanup_title">Neteja els fitxers brossa</string>
+    <string name="notification_garbage_cleanup_title">Netegeu els fitxers brossa</string>
     <string name="notification_link_cleaner_2001">Netegeu %s de brossa ara</string>
     <string name="notification_link_cleaner_2002">Netegeu la brossa per accelerar el dispositiu</string>
     <string name="notification_link_cleaner_2003">Queden menys de %s d\'emmagatzematge. Allibereu espai d\'emmagatzematge ara.</string>

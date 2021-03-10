@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d fitxers de dades d\'aplicacions</item>
-        <item quantity="one">%d fitxer de dades d\'aplicacions</item>
+        <item quantity="other">%d fitxers de dades d\'aplicació</item>
+        <item quantity="one">%d fitxer de dades d\'aplicació</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d fitxers de dades del sistema</item>
@@ -25,28 +25,28 @@
         <item quantity="one">%1$s còpia de seguretat (%2$s)</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"S'ha creat la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d elements."</item>
-        <item quantity="one">"S'ha creat la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d element."</item>
+        <item quantity="other">"Copiat correctament. No s'han pogut copiar %d elements."</item>
+        <item quantity="one">"Copiat correctament. No s'ha pogut copiar %d element."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">"S'ha restaurat correctament. No s'han pogut restaurar %d elements."</item>
-        <item quantity="one">"S'ha restaurat correctament. No s'ha pogut restaurar %d element."</item>
+        <item quantity="other">"Restaurat correctament. No s'han pogut restaurar %d elements."</item>
+        <item quantity="one">"Restaurat correctament. No s'ha pogut restaurar %d element."</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d elements importats. "</item>
-        <item quantity="one">"%d element importat. "</item>
+        <item quantity="other">"S'han importat %d elements. "</item>
+        <item quantity="one">"S'ha importat %d element. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Importa %d elements de nou.</item>
         <item quantity="one">Importa %d element de nou.</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d elements importats i restaurats</item>
-        <item quantity="one">%d element importat i restaurat</item>
+        <item quantity="other">S\'han importat i restaurat %d elements</item>
+        <item quantity="one">S\'ha importat i restaurat %d element</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d elements restaurats</item>
-        <item quantity="one">%d element restaurat</item>
+        <item quantity="other">S\'han restaurat %d elements</item>
+        <item quantity="one">S\'ha restaurat %d element</item>
     </plurals>
     <plurals name="select_item_count_unit">
         <item quantity="other">elements</item>
@@ -61,12 +61,12 @@
         <item quantity="one">%d element,</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">"No s'han pogut transferir %d elements. Toqueu per veure els detalls."</item>
-        <item quantity="one">"No s'ha pogut transferir %d element. Toqueu per veure els detalls."</item>
+        <item quantity="other">"No s'han pogut transferir els elements %d. Toqueu per veure més detalls."</item>
+        <item quantity="one">"No s'ha pogut transferir l'element %d. Toqueu per veure més detalls."</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
-        <item quantity="other">"No s'han pogut transferir %d elements."</item>
-        <item quantity="one">"No s'ha pogut transferir %d element."</item>
+        <item quantity="other">"No s'han pogut transferir els elements %d."</item>
+        <item quantity="one">"No s'ha pogut transferir l'element %d."</item>
     </plurals>
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d hores</item>

@@ -21,8 +21,8 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
@@ -40,7 +40,7 @@
     <string name="abc_slice_show_more">Mostra més</string>
     <string name="abc_slice_updated">Actualitzat %1$s</string>
     <string name="abc_slices_permission_request">%1$s vol mostrar %2$s llesques</string>
-    <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="accessibility_accessibility_button">Accessibilitat</string>
     <string name="accessibility_action_divider_bottom_full">Pantalla inferior completa</string>
     <string name="accessibility_action_divider_left_30">Esquerra 30%</string>
@@ -778,6 +778,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="face_unlock_reveal_mouth">Feu visible els llavis</string>
     <string name="face_unlock_success">Desbloquejat correctament</string>
     <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
+    <string name="finger_error_single_mode">"No es pot utilitzar l'escàner d'empremtes en mode d'una sola mà. Sortiu del mode d'una sola mà i torneu-ho a provar."</string>
     <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremtes. Torneu a afegir l’empremta.</string>
     <string name="fingerprint_add_title">Afegeix empremta</string>
     <string name="fingerprint_again_identified_msg">La vostra empremta està activa. Feu-la servir per desbloquejar el dispositiu o per introduir la contrasenya.</string>
@@ -1588,6 +1589,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_cellular_detail_over_limit">Per sobre del límit</string>
     <string name="quick_settings_cellular_detail_remaining_data">Dades disponibles</string>
     <string name="quick_settings_cellular_detail_title">Dades mòbils</string>
+    <string name="quick_settings_cellular_detail_unable_change">"No es pot configurar durant la trucada"</string>
     <string name="quick_settings_color_space_label">Mode de correcció del color</string>
     <string name="quick_settings_connected">Connectat</string>
     <string name="quick_settings_connected_battery_level">Connectat, bateria %1$s</string>

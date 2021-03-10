@@ -75,6 +75,7 @@ Torna-ho a provar"</string>
     <string name="btn_retry">Torna-ho a provar</string>
     <string name="btn_skip">Omet aquest pas</string>
     <string name="button_cancel">Cancel·la</string>
+    <string name="button_confirm">Entesos</string>
     <string name="button_delete">Elimina</string>
     <string name="button_next">Següent</string>
     <string name="can_not_backup_in_lite_mode">"No es pot fer una còpia de seguretat en el mode bàsic"</string>
@@ -221,6 +222,7 @@ Nota: De les dades de les aplicacions que heu instal·lat no se'n faran còpies 
     <string name="open_backup_switch">Commuta l\'interruptor de còpia de seguretat</string>
     <string name="other_device_main_space">Primer espai</string>
     <string name="other_device_second_space">Segon espai</string>
+    <string name="pc_mode_not_support_restore_warning">"No es poden restaurar els elements en mode PC. Desactiveu el mode PC i torneu-ho a provar."</string>
     <string name="preference_copied">S\'ha copiat \"%1$s\" al porta-retalls.</string>
     <string name="process_whole_recovery">Restaurant «%s»</string>
     <string name="provision_back">Enrere</string>

@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -19,14 +19,14 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Redueix</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="agree_description">Permeteu que aquesta aplicació es connecti a Internet per poder utilitzar totes les seves funcions.</string>

@@ -408,6 +408,10 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l'administra
         <item quantity="other">%1$d suggeriments</item>
         <item quantity="one">1 suggeriment</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Rebreu una alerta sempre que un dels auriculars estigui allunyat de l\'orella o de l\'estoig de càrrega durant més de %d minuts</item>
+        <item quantity="one">Rebreu una alerta sempre que un dels auriculars estigui allunyat de l\'orella o de l\'estoig de càrrega durant més de %d minut</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elements</item>
         <item quantity="one">1 element</item>

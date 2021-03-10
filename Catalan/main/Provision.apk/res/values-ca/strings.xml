@@ -313,6 +313,15 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
 2. Quan escolteu música amb la pantalla apagada."</string>
     <string name="voice_assist_desp">Digueu «Mi AI» al telèfon. Mi AI reconeixerà la vostra veu i podrà controlar el dispositiu.</string>
     <string name="voice_assist_title">Desperta amb la veu</string>
+    <string name="wc_dialog_agree">D\'acord</string>
+    <string name="wc_dialog_reject">"No hi estic d'acord"</string>
+    <string name="wc_dialog_summary">El Carrusel de fons de pantalla ofereix diàriament imatges impressionants i històries emocionants a la pantalla de bloqueig.</string>
+    <string name="wc_dialog_title">Pantalla de bloqueig reinventada</string>
+    <string name="wc_double_check_agree">Proveu-ho</string>
+    <string name="wc_double_check_reject">No, gràcies</string>
+    <string name="wc_double_check_summary">Podeu activar el Carrusel de fons de pantalla per veure si us funciona. Recordeu que sempre podeu activar i desactivar el Carrusel de fons de pantalla a Configuració &gt; Pantalla de bloqueig.</string>
+    <string name="wc_double_check_title">Proveu el Carrusel de fons de pantalla</string>
+    <string name="wc_notice_link_announcement_summary">"Llegiu i accepteu la &lt;a href=\"%1$s\"&gt;política de privadesa &lt;/a&gt; i &lt;a href=\"%2$s\"&gt;l'acord d'usuari&lt;/a&gt; del proveïdor de contingut de tercers abans d'utilitzar aquesta funció."</string>
     <string name="welcome">Benvinguts</string>
     <string name="zone_picker_title">Trieu la zona horària</string>
 </resources>

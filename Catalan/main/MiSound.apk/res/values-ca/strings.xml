@@ -40,6 +40,7 @@
     <string name="customization_continue">Continua</string>
     <string name="customization_pause_tip">Voleu aturar la prova? Connecteu els auriculars per continuar.</string>
     <string name="customization_quit">Surt</string>
+    <string name="dolby_atoms">Dolby Atmos</string>
     <string name="dolby_dax_geq_select_title">Predefinits</string>
     <string name="dolby_dax_geq_title">Equalitzador gràfic</string>
     <string name="dolby_dax_profile_dynamic">Dinàmic</string>

@@ -31,7 +31,7 @@
     <string name="afternoon">Tarda</string>
     <string name="aggregate_title">Normes per agrupar les notificacions</string>
     <string name="am">am</string>
-    <string name="app_name">Notificacions</string>
+    <string name="app_name">Hàptic</string>
     <string name="back">esquena</string>
     <string name="cancel">Cancel · lar</string>
     <string name="category_other">Altres</string>
@@ -198,6 +198,11 @@
     <string name="notification_aggregate_title">Notificacions en grup</string>
     <string name="notification_display_setting">Àrea de notificacions</string>
     <string name="notification_display_style">Estil de notificació</string>
+    <string name="notification_fold_description1">La carpeta de notificacions es va introduir a MIUI 9. Aquesta característica filtra les notificacions sense importància i les col·loca en una carpeta independent.</string>
+    <string name="notification_fold_description2">MIUI recordarà quines notificacions toqueu i aleshores utilitzarà diversos criteris per determinar si són importants.</string>
+    <string name="notification_fold_description3">"Si les notificacions que considereu importants encara entren a la carpeta Notificacions, assegureu-vos d'informar d'aquests problemes. Agrairíem els vostres comentaris."</string>
+    <string name="notification_fold_footer_icon_summary">Mostra les icones de l\'aplicació quan s\'agrupen notificacions sense importància</string>
+    <string name="notification_fold_footer_icon_title">Mostra les icones de l\'aplicació</string>
     <string name="notification_fold_summary">Agrupa les notificacions sense importància automàticament</string>
     <string name="notification_fold_title">Notificacions en grup</string>
     <string name="notification_keyguard_hide_content">Mostra les notificacions però amaga el contingut</string>
@@ -233,7 +238,7 @@
     <string name="solar_term_heavy_snow">Fortes nevades</string>
     <string name="solar_term_hoar_frost_falls">Glaçada</string>
     <string name="solar_term_insects_awaken">Despertar dels Insectes</string>
-    <string name="solar_term_light_snow">Nevada lleugera</string>
+    <string name="solar_term_light_snow">Nevada feble</string>
     <string name="solar_term_slight_cold">Fred moderat</string>
     <string name="solar_term_slight_heat">Calor moderada</string>
     <string name="solar_term_spring_begins">Comença la primavera</string>

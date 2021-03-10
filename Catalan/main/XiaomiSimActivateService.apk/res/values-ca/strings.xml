@@ -8,7 +8,7 @@
     <string name="activate_feature_call_log_sync">Sincronització de l\'historial de trucades</string>
     <string name="activate_feature_default_name">Serveis Mi</string>
     <string name="activate_feature_default_title">Xiaomi</string>
-    <string name="activate_feature_find_device">"Troba el dispositiu no es pot connectar a la xarxa"</string>
+    <string name="activate_feature_find_device">Posicionament per SMS</string>
     <string name="activate_feature_live_talk">Recàrrega</string>
     <string name="activate_feature_mi_roaming">Itinerància Mi</string>
     <string name="activate_feature_mms_sync">Sincronització dels missatges</string>
