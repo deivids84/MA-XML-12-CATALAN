@@ -19,7 +19,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -31,7 +31,7 @@
     <string name="afternoon">Tarda</string>
     <string name="aggregate_title">Normes per agrupar les notificacions</string>
     <string name="am">am</string>
-    <string name="app_name">Hàptic</string>
+    <string name="app_name">Notificacions</string>
     <string name="back">esquena</string>
     <string name="cancel">Cancel · lar</string>
     <string name="category_other">Altres</string>
@@ -69,6 +69,8 @@
     <string name="feedback_tip_cancel">"Les dades de notificació no es recopilaran."</string>
     <string name="feedback_tip_msg">Per agrupar les notificacions amb més precisió, hem de recollir el nom de l\'aplicació, el títol i la descripció de la notificació i el moment en què s\'ha enviat la notificació. Envieu els vostres comentaris?</string>
     <string name="feedback_tip_title">Respostes sobre categories de notificacions</string>
+    <string name="float_notification_snooze_strategy">Amaga temporalment</string>
+    <string name="float_notification_snooze_summary">Llisqueu cap amunt sobre una notificació flotant per amagar temporalment les properes</string>
     <string name="float_notifications">Notificacions flotants</string>
     <string name="float_notifications_short">Flota</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -104,6 +106,10 @@
     <string name="menu_setting_tip_unfold">Totes les notificacions d\'aquesta aplicació es consideraran importants</string>
     <string name="menu_setting_unfold">Important</string>
     <string name="midnight">Nit</string>
+    <string name="miui_snooze_always_float">"No ho amaguis"</string>
+    <string name="miui_snooze_cancel">Cancel·la</string>
+    <string name="miui_snooze_default_time">Durant %d minut</string>
+    <string name="miui_snooze_until_unlock_screen">Fins el bloqueig</string>
     <string name="miuix_appcompat_cloud_state_disabled">La sincronització amb el núvol està desactivada</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronitzat amb el núvol correctament</string>
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>

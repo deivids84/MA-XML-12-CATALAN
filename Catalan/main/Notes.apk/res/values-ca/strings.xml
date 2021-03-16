@@ -19,7 +19,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -53,7 +53,7 @@
     <string name="all_folder_name">Totes les notes</string>
     <string name="all_terms">%1$s i %2$s</string>
     <string name="am">am</string>
-    <string name="app_name">Hàptic</string>
+    <string name="app_name">Notes</string>
     <string name="app_notification_info">Notes està funcionant en segon pla</string>
     <string name="app_widget">Notes</string>
     <string name="application_icon">Icona de l\'aplicació</string>

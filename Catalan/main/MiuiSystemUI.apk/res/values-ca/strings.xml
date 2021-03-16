@@ -21,7 +21,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -511,8 +511,8 @@ Selecció"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Una sortida de grisos significa que no és compatible amb el telèfon o els auriculars</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió del Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Seleccioneu la versió de MAPA Bluetooth</string>
-    <string name="bluetooth_select_map_version_string">Versió de MAPA Bluetooth</string>
+    <string name="bluetooth_select_map_version_dialog_title">Seleccioneu la versió de Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_string">Versió Bluetooth MAP</string>
     <string name="bluetooth_show_devices_without_names">Mostra els dispositius Bluetooth sense nom</string>
     <string name="bluetooth_show_devices_without_names_summary">Es mostraran els dispositius Bluetooth sense nom (només les adreces MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>

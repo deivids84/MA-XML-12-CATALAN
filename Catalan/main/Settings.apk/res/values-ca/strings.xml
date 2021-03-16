@@ -21,7 +21,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -1299,8 +1299,8 @@ Selecció"</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Una sortida de grisos significa que no és compatible amb el telèfon o els auriculars</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió del Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
-    <string name="bluetooth_select_map_version_dialog_title">Seleccioneu la versió de MAPA Bluetooth</string>
-    <string name="bluetooth_select_map_version_string">Versió de MAPA Bluetooth</string>
+    <string name="bluetooth_select_map_version_dialog_title">Seleccioneu la versió de Bluetooth MAP</string>
+    <string name="bluetooth_select_map_version_string">Versió Bluetooth MAP</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Organitza les connexions, estableix el nom del dispositiu i la visibilitat</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
@@ -4287,9 +4287,9 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
     <string name="miheadset_ancClosed">Desactivat</string>
-    <string name="miheadset_ancHigh">Alta</string>
-    <string name="miheadset_ancLow">Baixa</string>
-    <string name="miheadset_ancMedium">Mitjana</string>
+    <string name="miheadset_ancHigh">Avió</string>
+    <string name="miheadset_ancLow">Oficina</string>
+    <string name="miheadset_ancMedium">Diàriament</string>
     <string name="miheadset_anc_indicate">Connecta i vincula els auriculars</string>
     <string name="miheadset_audio_mode">Qualitat d\'àudio</string>
     <string name="miheadset_audio_mode_high">Fort</string>
@@ -4337,6 +4337,7 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_ignore">Desemparella</string>
     <string name="miheadset_in_ear_check">Detecta la presència de l\'oïda</string>
     <string name="miheadset_in_ear_check_summary">Poseu en pausa i repreneu la reproducció automàticament mentre porteu o traieu els auriculars</string>
+    <string name="miheadset_key_config_ANC_list_title">Control de soroll</string>
     <string name="miheadset_key_config_call_ai">Assistent de veu</string>
     <string name="miheadset_key_config_close">Desactivat</string>
     <string name="miheadset_key_config_close_summary">Desactiva la cancel·lació de soroll i la transparència</string>

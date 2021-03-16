@@ -19,7 +19,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
     <string name="am">am</string>
-    <string name="app_name">Hàptic</string>
+    <string name="app_name">Enregistrador de Pantalla</string>
     <string name="app_notification_info">L\'Enregistrador de Pantalla funciona en segon pla</string>
     <string name="app_notification_title">Enregistrador de Pantalla</string>
     <string name="auto_stop_title">El vídeo s\'ha desat correctament</string>

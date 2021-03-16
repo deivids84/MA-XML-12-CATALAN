@@ -25,7 +25,7 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
@@ -262,8 +262,13 @@
     <string name="diagnosis_log_sent_format">"Els registres s’han enviat correctament.
 ID: %s
 Envieu aquest codi al supervisor."</string>
+    <string name="dialog_disagree_privacychange_info">"No podreu utilitzar els serveis de transmissió en línia de Mi Video si no accepteu la nostra Política de privadesa. Toqueu \"Cancel·la\" per tornar enrere o \"No estic d'acord\" per continuar i utilitzar Mi Video només com a reproductor local."</string>
+    <string name="dialog_disagree_privacychange_title">"No hi esteu d'acord?"</string>
+    <string name="dialog_privacy_change_info">"Hem actualitzat la política de privadesa de Mi Video a causa dels ajustaments dels serveis que oferim. Per entendre completament els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar l’aplicació."</string>
+    <string name="dialog_privacy_change_title">Actualització de la política de privadesa</string>
     <string name="dialog_privacy_info_new2">"Per poder utilitzar els seus serveis, heu d'autoritzar que %1$s reculli, processi i utilitzi la vostra informació personal. Se suposarà que heu llegit i acceptat la nostra &lt;a href=%2$s&gt;Política de Privadesa&lt;/a&gt; quan premeu \"D'acord\" a sota."</string>
     <string name="dialog_privacy_info_new3">"Per poder utilitzar aquest servei, heu de permetre que %1$s recopili, processi i utilitzi la vostra informació personal d’acord amb la Política de privadesa. A el fer ús \"d'acord\" a continuació, vostè accepta de Xiaomi &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt; i &lt;a href=%3$s&gt;de l'usuari Acord&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;Toqueu \"D'acord\" també permet a Mi Video accedir a la llista d'aplicacions instal·lades al dispositiu. Amb aquest permís, Mi Video podrà compartir elements, entendre si s’instal·la una aplicació al dispositiu, quina versió d’una aplicació s’instal·la i si una aplicació és segura."</string>
+    <string name="dialog_privacy_info_new4">"Us donem la benvinguda a Mi Vídeo. Aquesta aplicació proporciona els serveis següents:&lt;br&gt;&lt;/br&gt; - Serveis de transmissió en línia&lt;br&gt;&lt;/br&gt;- Un reproductor de vídeo local&lt;br&gt;&lt;/br&gt;Mi Video necessita recopilar la informació personal necessària per proporcionar-vos els serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra Política de privadesa. Podreu canviar la configuració relacionada a Configuració &gt; Contrasenyes &amp;amp; seguretat.&lt;br&gt;&lt;/br&gt;Llegiu i accepteu el nostre &lt;a href=%1$s&gt;Acord d’usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar Mi Video."</string>
     <string name="dialog_privacy_revoke_cancel">Cancel·la</string>
     <string name="dialog_privacy_revoke_count_down">Retirar (%1$ds)</string>
     <string name="dialog_privacy_revoke_description">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la política de privadesa de Mi Vídeo. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. La retirada del consentiment a la Política de privadesa es considerarà com a denegació d’acceptar els serveis en línia basats en la informació personal recollida.</string>
@@ -274,6 +279,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="dialog_privacy_title">Autorització</string>
     <string name="dialog_revoke_privacy_info_new2">Després de revocar l’autorització, l’aplicació deixarà de recollir dades i totes les dades relacionades se suprimiran dels nostres servidors. Això podria fer que l’aplicació sigui pràcticament inutilitzable. Revocar l\'autorització?</string>
     <string name="dialog_revoke_privacy_title">Autorització de revocació</string>
+    <string name="disagree">"No hi estic d'acord"</string>
     <string name="diy_channels_tips">Ja podeu personalitzar la llista dels vostres canals.</string>
     <string name="do_not_show_again">"No es torni a mostrar"</string>
     <string name="download">descarregar</string>

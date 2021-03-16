@@ -19,7 +19,7 @@
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_clear">Neteja la consulta</string>
     <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
@@ -224,6 +224,7 @@
     <string name="notification_playback">S\'està reproduint&#8230;</string>
     <string name="notification_recording">S\'està enregistrant&#8230;</string>
     <string name="notification_recording_ticker">Telèfon silenciat</string>
+    <string name="notification_save_as_complete">S\'ha desat correctament</string>
     <string name="notification_stopped">S\'ha aturat la gravació</string>
     <string name="notification_title_all_paused">Baixada en pausa</string>
     <string name="offline_recognize_progress">S\'està transcrivint fora de línia %s…</string>
@@ -372,6 +373,7 @@
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
+    <string name="save_as">Anomena i desa</string>
     <string name="save_record_dialog_title">Desa l\'enregistrament</string>
     <string name="search_app">Gravadora</string>
     <string name="search_empty">"No s'han pogut trobar resultats"</string>

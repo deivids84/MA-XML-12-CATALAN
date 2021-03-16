@@ -1524,7 +1524,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
     <string name="search_hint">Cerca…</string>
     <string name="search_language_hint">Escriviu el nom de l\'idioma</string>
     <string name="searchview_description_clear">Neteja la consulta</string>
-    <string name="searchview_description_query">Cerca la consulta</string>
+    <string name="searchview_description_query">Consulta de cerca</string>
     <string name="searchview_description_search">Cerca</string>
     <string name="searchview_description_submit">Tramet la consulta</string>
     <string name="searchview_description_voice">Cerca per veu</string>

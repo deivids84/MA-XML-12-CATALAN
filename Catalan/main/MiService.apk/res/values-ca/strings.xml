@@ -20,7 +20,7 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca de veu</string>
@@ -31,6 +31,7 @@
     <string name="afternoon">Tarda</string>
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="close">Tanca</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
@@ -293,6 +294,7 @@
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="share_cancel">S\'ha cancel·lat la compartició</string>
     <string name="share_failed">"No s'ha pogut compartir"</string>
     <string name="share_no_network">"No s'ha pogut connectar a la xarxa"</string>

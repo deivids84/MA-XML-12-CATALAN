@@ -176,6 +176,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">fa %d dies</item>
         <item quantity="one">fa %d dia</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanç ràpid %d segons</item>
+        <item quantity="one">Avanç ràpid %d segon</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rebobina %d segons</item>
+        <item quantity="one">Rebobina %d segon</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>
         <item quantity="one">Cerca entre %d aplicació</item>
@@ -563,6 +571,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="people_million">
         <item quantity="other">Baixat per %1$d persones</item>
         <item quantity="one">Baixat per %1$d persona</item>
+    </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">El dispositiu s’apagarà d\'aquí a %d segons</item>
+        <item quantity="one">El dispositiu s’apagarà d\'aquí a %d segon</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">vegades</item>

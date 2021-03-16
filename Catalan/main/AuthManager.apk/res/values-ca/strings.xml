@@ -2,14 +2,14 @@
 <resources>
     <string name="HIPS_ACTION_REJECT_CLEAR">Restringeix i neteja el porta- retalls</string>
     <string name="HIPS_Action_Accept">Permet</string>
-    <string name="HIPS_Action_Accept_Once">Permetre un cop</string>
+    <string name="HIPS_Action_Accept_Once">Permet una vegada</string>
     <string name="HIPS_Action_Accept_This">Permet una vegada</string>
     <string name="HIPS_Action_Reject">Denega</string>
-    <string name="HIPS_Action_Reject_Once">Denega-ho una vegada</string>
+    <string name="HIPS_Action_Reject_Once">Denega una vegada</string>
     <string name="HIPS_Action_Reject_This">Restringeix una vegada</string>
     <string name="HIPS_Perm_Access_Gallery">Accés a la galeria</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi a elements de la vostra galeria</string>
-    <string name="HIPS_Perm_AudioRecorder">Enregistra àudio</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Permet que aquesta aplicació accedeixi als elements de la vostra galeria</string>
+    <string name="HIPS_Perm_AudioRecorder">Enregistrar àudio</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">enregistra àudio i trucades telefòniques</string>
     <string name="HIPS_Perm_AutoStart">Inici automàtic</string>
     <string name="HIPS_Perm_AutoStart_Desc">inici automàtic</string>
@@ -138,7 +138,7 @@
     <string name="abc_prepend_shortcut_label">Menú+</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Neteja la consulta</string>
-    <string name="abc_searchview_description_query">Cerca la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Envia la consulta</string>
     <string name="abc_searchview_description_voice">Cerca per veu</string>
