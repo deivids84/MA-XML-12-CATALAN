@@ -851,6 +851,8 @@ mm"</string>
     <string name="resource_wallpaper_download">Baixa el fons de pantalla</string>
     <string name="restore_home_icon_text">Afegeix una drecera a la pantalla d\'inici</string>
     <string name="restore_icon_later">Podeu tornar a afegir la drecera de la pantalla d\'inici a la Configuració</string>
+    <string name="ringtone_confirm_dialog_message">"La durada d'aquest to de trucada és relativament llarg. Voleu utilitzar-lo igualment?"</string>
+    <string name="ringtone_confirm_dialog_title">Atenció</string>
     <string name="ringtone_set_success">S\'ha establert amb èxit</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
@@ -877,8 +879,7 @@ mm"</string>
     <string name="set_as_colorring">Estableix com a to de trucada personalitzat</string>
     <string name="set_color_ring_back_tone">Estableix un to de trucada personalitzat</string>
     <string name="set_home_wallpaper_failed">"%s. No es pot aplicar el fons de la pantalla d'inici."</string>
-    <string name="set_wallpaper_group_success">"S'ha aplicat %1$s .
-Veureu una imatge nova cada hora."</string>
+    <string name="set_wallpaper_group_success">S\'ha aplicat el fons de pantalla %1$s</string>
     <string name="setting_font_online">Tipus de lletra en línia</string>
     <string name="settings">Configuració</string>
     <string name="settings_search_keyword_font_free">Tipus de lletra gratuïts</string>
