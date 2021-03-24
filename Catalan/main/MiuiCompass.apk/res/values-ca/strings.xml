@@ -39,7 +39,7 @@
     <string name="am">am</string>
     <string name="app_description_content">"La brúixola és una aplicació del sistema. No podreu utilitzar-la per comprovar les indicacions, les coordenades, la pressió atmosfèrica i l'altitud actual després de desinstal·lar-la."</string>
     <string name="app_description_title">Voleu desinstal·lar la brúixola?</string>
-    <string name="app_label">Calendari</string>
+    <string name="app_label">Brúixola</string>
     <string name="app_name">difumina</string>
     <string name="calibrate_failed">Ha fallat la calibració de l’altitud</string>
     <string name="calibrate_failed_no_location">"No es pot calibrar"</string>

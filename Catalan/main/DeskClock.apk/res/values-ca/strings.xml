@@ -70,7 +70,7 @@
     <string name="already_exist">Aquest temporitzador ja existeix</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Rellotge analògic</string>
-    <string name="app_label">Calendari</string>
+    <string name="app_label">Rellotge</string>
     <string name="app_name">difumina</string>
     <string name="auto_silence_never">Mai</string>
     <string name="auto_silence_summary">Definiu el temps després del qual se silenciaran les alarmes i els temporitzadors</string>

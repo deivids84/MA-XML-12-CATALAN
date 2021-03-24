@@ -310,7 +310,7 @@ Toqueu \"Netegeu i convertiu…\" per continuar."</string>
 Consulteu a la Configuració per obtenir més informació."</string>
     <string name="fast_connect_bt_speaker2_name">MI Portable Speaker</string>
     <string name="fast_connect_device_battery">Bateria</string>
-    <string name="fast_connect_device_box">Capsa</string>
+    <string name="fast_connect_device_box">Estoig</string>
     <string name="fast_connect_device_box_name">Capsa %1$s</string>
     <string name="fast_connect_device_connect_cancel">Cancel·la</string>
     <string name="fast_connect_device_connect_ok">Connecta</string>

@@ -525,6 +525,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="dialog_button_connect">Connecta</string>
     <string name="dialog_button_disconnect">Surt</string>
     <string name="dialog_button_exit">Desactiva</string>
+    <string name="dialog_button_goto">Configuració</string>
     <string name="dialog_button_ok">D\'acord</string>
     <string name="dialog_button_reject">Rebutja</string>
     <string name="dialog_button_scan">Cerca dispositius</string>
@@ -568,10 +569,13 @@ els documents escanejats automàticament"</string>
     <string name="dual_camera_too_close_toast">La càmera és massa a prop de l\'objecte.</string>
     <string name="dual_camera_use_hint">"Assegureu-vos que l'objecte no sigui a més de 2 metres."</string>
     <string name="dual_video_record_merged">Combinat</string>
+    <string name="dual_video_record_remote">Enregistrament de telèfon dual</string>
     <string name="dual_video_record_standalone">Separats</string>
     <string name="dual_video_user_guide_main_content">Per crear vídeos multicam, seleccioneu dues càmeres al dispositiu i feu fotos simultàniament. Els enregistraments es poden emmagatzemar per separat o combinar-los en una visualització dividida o un vídeo imatge en imatge.</string>
     <string name="dual_video_user_guide_main_title">Vídeo multicàmera</string>
     <string name="dual_video_user_guide_merge_content">Dispara amb dues càmeres simultàniament i combina gravacions en una vista dividida o en un vídeo imatge en imatge.</string>
+    <string name="dual_video_user_guide_remote_content">"L'enregistrament de telèfon dual permet combinar canals de dos dispositius diferents en un sol vídeo. Podreu previsualitzar els dos canals i el vídeo final en aquest dispositiu. Tingueu en compte que l’àudio només el gravarà aquest dispositiu."</string>
+    <string name="dual_video_user_guide_remote_p">Telèfon %d</string>
     <string name="dual_video_user_guide_standalone_content">Dispara amb dues càmeres simultàniament i desa les dues gravacions com a vídeos independents.</string>
     <string name="edit_blusher">Coloret</string>
     <string name="edit_chin">Barbeta</string>
@@ -1328,7 +1332,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_hdr10plus_video_mode_description">Optimitzeu els colors i ajusteu el contrast per als vídeos 4K i 8K. Aquesta funció només funciona en dispositius compatibles amb HDR10 +.</string>
     <string name="pref_i_n_r_b">Reducció de soroll intel·ligent</string>
     <string name="pref_k_h">Monitor intra-auricular en directe</string>
-    <string name="pref_k_s_i">Reprodueix el so enregistrat als auriculars quan estan connectats</string>
+    <string name="pref_k_s_i">Superviseu el so enregistrat mitjançant els auriculars quan estiguin connectats</string>
     <string name="pref_lens_dirty_detect_summary">Rebreu una notificació quan la lent està bruta</string>
     <string name="pref_lens_dirty_detect_title">Notifica sobre les lents brutes</string>
     <string name="pref_live_duration_title">Durada en directe</string>
@@ -1368,6 +1372,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_super_night_se_summary">Detecta les condicions de poca llum i millora la qualitat de la imatge automàticament</string>
     <string name="pref_super_night_se_title">Mode nocturn automàtic</string>
     <string name="pref_userdefine_watermark_title">Marca d\'aigua personalitzada</string>
+    <string name="pref_video_ai_audio_single">So frontal</string>
     <string name="pref_video_captrue_ability_title">Captura d’imatges durant l\'enregistrament</string>
     <string name="pref_video_cast_setting_summary">Activeu-lo per poder gravar un vídeo amb diversos dispositius</string>
     <string name="pref_video_cast_setting_title">Enregistrament de telèfon dual</string>
@@ -1417,6 +1422,11 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_watermark_title">Marca d\'aigua</string>
     <string name="pref_wind_denoise_title">Filtre de vent</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="prek_b_j_o">Recrea l\'efecte envoltant estèreo</string>
+    <string name="prek_b_j_p">Redueix l’impacte del vent sobre l\'enregistrament del so</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Es milloren els sons del element enfocat</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Els sons de darrere de la pantalla es filtren</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"El zoom d’àudio no funciona amb el monitor intra-auricular en directe i el micròfon extern"</string>
     <string name="preparing_sd">Preparant emmagatzematge intern&#8230;</string>
     <string name="preview_back_pressed_hint">Toqueu de nou per tornar a la vista prèvia</string>
     <string name="pro_color_mode">Color Pro</string>
@@ -1434,6 +1444,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="remote_online_interrupted">Desconnectat. Connecteu-vos de nou per continuar.</string>
     <string name="remote_online_introduction_i">"L'enregistrament de telèfon dual permet combinar canals de dos dispositius diferents en un sol vídeo. Podreu previsualitzar els dos canals i el vídeo final en aquest dispositiu. Tingueu en compte que l’àudio només el gravarà aquest dispositiu."</string>
     <string name="remote_online_introduction_ii">Per fer funcionar aquesta funció, l’altre dispositiu Mi o Redmi ha de ser compatible amb la gravació de telèfon dual. Es pot activar mitjançant l\'interruptor del centre de control.</string>
+    <string name="remote_online_permission">"Canvieu el permís d'ubicació de la càmera per \"Permet només durant l'ús de l'aplicació\" per poder utilitzar l'enregistrament de dos telèfons."</string>
     <string name="remote_online_searching">S\'estan cercant dispositius…</string>
     <string name="remote_online_service_name">Enregistrament de telèfon dual</string>
     <string name="remote_online_unavailable">"No s'han pogut trobar dispositius a prop"</string>

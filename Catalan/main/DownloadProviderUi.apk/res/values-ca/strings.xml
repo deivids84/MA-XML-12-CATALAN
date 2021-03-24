@@ -626,9 +626,13 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="thursday_shortest">dj.</string>
     <string name="time_consume">Durada</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
+    <string name="tip_download_icon_restore">Afegiu una drecera a la pantalla d\'inici per a les Baixades</string>
+    <string name="tip_download_icon_retry">"No s'ha pogut afegir la drecera. Torneu-ho a provar."</string>
     <string name="title_homepage_infoflow">Actualitzacions recents</string>
     <string name="title_tips">Atenció</string>
     <string name="title_unbind_xunlei">Treure el teu compte Xunlei</string>
+    <string name="toast_download_icon_restore_fail">"No s'ha pogut afegir la drecera"</string>
+    <string name="toast_download_icon_restore_success">S\'ha afegit correctament</string>
     <string name="toast_only_wifi_download">Connecteu-vos a la Wi-Fi per baixar aquest element</string>
     <string name="toast_update_data_limit_fail">"No s'ha pogut configurar"</string>
     <string name="toast_xunlei_engine_open">S\'ha activat l\'accelerador de baixades Xunlei</string>

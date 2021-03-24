@@ -68,7 +68,9 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
     <string name="find_device_error_unknown">Error desconegut (%s).</string>
     <string name="find_device_noise_title">Alarma de troba el dispositiu</string>
     <string name="find_device_notice">Aneu a&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;per localitzar, bloquejar o restaurar el dispositiu.</string>
-    <string name="find_device_notice_sms_alert">Si canvieu les targetes SIM, es pot enviar un altre SMS automàticament per reactivar aquesta funció.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"Per actualitzar l'estat de la SIM i assegurar-vos que tots els serveis funcionen amb normalitat, s'enviarà un &lt;font color=#0097FF&gt;&lt;b&gt;missatge de text de pagament&lt;/b&gt;&lt;/font&gt; després de canviar de targeta SIM. El vostre operador us cobrarà per aquest missatge."</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Per actualitzar l'estat de SIM i assegurar-vos que tots els serveis funcionen amb normalmitat, un &lt;font color=#0097FF&gt;&lt;b&gt;missatge de text nacional de pagament&lt;/b&gt;&lt;/font&gt; serà enviat després de canviar les targetes SIM. El vostre operador us cobrarà per aquest missatge."</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Per actualitzar l'estat de SIM i assegurar-vos que tots els serveis funcionen amb normalitat, un &lt;font color=#0097FF&gt;&lt;b&gt;missatge de text internacional de pagament&lt;/b&gt;&lt;/font&gt; serà enviat després de canviar les targetes SIM. El vostre operador us cobrarà per aquest missatge."</string>
     <string name="find_device_stop_noise">Toqueu D\'acord per silenciar</string>
     <string name="find_device_storage_corrupted">L\'emmagatzematge de troba el dispositiu està malmès. Ara mateix el vostre dispositiu no és segur.</string>
     <string name="find_device_success_title">Troba el dispositiu</string>

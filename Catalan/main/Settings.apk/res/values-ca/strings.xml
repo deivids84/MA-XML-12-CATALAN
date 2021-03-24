@@ -387,7 +387,11 @@ Per canviar de funcions, feu lliscar el dit cap amunt amb 3 dits i manteniu prem
     <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
     <string name="add_front_fingerprint_instruction_msg">El sensor d\'empremtes dactilars està al botó Inici del dispositiu.</string>
     <string name="add_new">Afegeix</string>
+    <string name="add_one_text_app_name_once">Podeu afegir un paquet a la vegada</string>
     <string name="add_rule">Afegeix regles</string>
+    <string name="add_text_app_name">Afegiu un paquet d\'aplicacions de prova</string>
+    <string name="add_text_app_name_here">Introduïu el nom del paquet</string>
+    <string name="add_text_app_package_name">Afegiu un paquet d\'aplicacions de prova</string>
     <string name="add_virtual_keyboard">Gestiona els teclats a la pantalla</string>
     <string name="adding_profile_owner_warning">"Si continueu, el vostre usuari serà gestionat per l'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
 
@@ -1696,6 +1700,8 @@ Això afecta a altres aplicacions o converses que es poden publicar."</string>
     <string name="codec_low_latency_summary">Minimitza la latència durant la sincronització d’àudio i vídeo del joc</string>
     <string name="codec_low_latency_title">Latència baixa</string>
     <string name="codec_low_latency_video_summary">Proporciona una experiència d\'àudio de baixa latència per a jocs i vídeos, cosa que fa que la sincronització de so i imatge sigui més natural.</string>
+    <string name="codec_low_latency_zmi_summary">Redueix el retard de l’àudio i millora els efectes de so dels jocs automàticament</string>
+    <string name="codec_low_latency_zmi_title">Baixa la latència per als jocs</string>
     <string name="color_black">Negre</string>
     <string name="color_blue">Blau</string>
     <string name="color_calibration_none">Aquest dispositiu</string>
@@ -4282,10 +4288,11 @@ No podeu revertir aquesta acció."</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="middle_function_key">Zona central</string>
     <string name="miheadet_up_music">Pista anterior</string>
-    <string name="miheadset_Box">Caixa</string>
+    <string name="miheadset_Box">Estoig</string>
     <string name="miheadset_LeftEar">Esquerra</string>
     <string name="miheadset_RightEar">Dret</string>
     <string name="miheadset_active">Energètic</string>
+    <string name="miheadset_adaptive">Adaptatiu</string>
     <string name="miheadset_ancClosed">Desactivat</string>
     <string name="miheadset_ancHigh">Avió</string>
     <string name="miheadset_ancLow">Oficina</string>
@@ -8146,7 +8153,7 @@ Reviseu la política de privadesa del proveïdor de serveis."</string>
     <string name="wifi_assistant_auto_confirm_data_message">"Utilitza xarxes de dades mòbils quan el dispositiu no es pugui connectar a Internet mitjançant la Wi-Fi."</string>
     <string name="wifi_assistant_confirm_always">"No m'ho tornis a preguntar"</string>
     <string name="wifi_assistant_confirm_connection_title">"No es pot connectar a Internet"</string>
-    <string name="wifi_assistant_data_prompt">Avisa</string>
+    <string name="wifi_assistant_data_prompt">Mostra l\'avís d\'ús de dades</string>
     <string name="wifi_assistant_data_prompt_summary">Mostra l\'advertència d\'ús de dades en canviar a dades mòbils</string>
     <string name="wifi_assistant_description">"Així és com funciona aquesta funció:
 1. Quan la connexió Wi-Fi és deficient, el dispositiu intentarà connectar-se automàticament a altres xarxes Wi-Fi disponibles.
@@ -8399,12 +8406,13 @@ Configurar la xarxa com a oculta no canviarà la configuració de l'encaminador.
     <string name="wifi_link_turbo_customize">Aplicacions personalitzades</string>
     <string name="wifi_link_turbo_customize_summary">Seleccioneu les aplicacions que funcionaran amb l\'assistent de la Wi-Fi segons les vostres preferències</string>
     <string name="wifi_link_turbo_list">Aplicacions</string>
+    <string name="wifi_link_turbo_mode">Mode d’augment de velocitat</string>
     <string name="wifi_link_turbo_no_app">Encara no hi ha aplicacions.</string>
     <string name="wifi_link_turbo_off">Desactivat</string>
     <string name="wifi_link_turbo_on">Activat</string>
     <string name="wifi_link_turbo_recommendation">Aplicacions recomanades</string>
     <string name="wifi_link_turbo_recommendation_summary">Rebreu recomanacions basades en les estadístiques d’ús de dades</string>
-    <string name="wifi_link_turbo_summary">Augmenta la velocitat de connexió de les aplicacions seleccionades mitjançant dades mòbils quan la connexió Wi-Fi és pobra</string>
+    <string name="wifi_link_turbo_summary">Utilitza dades mòbils per augmentar la velocitat de la connexió. L’ús d’aquesta funció pot generar tarifes addicionals de l’operador.</string>
     <string name="wifi_menu_advanced">Avançat</string>
     <string name="wifi_menu_configure">Configuració</string>
     <string name="wifi_menu_connect">Connecta a la xarxa</string>

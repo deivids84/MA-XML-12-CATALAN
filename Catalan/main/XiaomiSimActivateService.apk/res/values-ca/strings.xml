@@ -45,9 +45,9 @@
     <string name="activate_popup_confirm_failed_send_sms">Torna-ho a enviar</string>
     <string name="activate_popup_confirm_failed_server">Torna-ho a provar</string>
     <string name="activate_popup_desc_2_intl_sim_cards">S\'enviaran 2 SMS internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg">Per activar %2$s, s’enviaran %1$d SMS internacionals. El vostre operador us cobrarà aquests missatges.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Per activar %2$s, s’enviarà &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament internacional&lt;/b&gt; El vostre operador us cobrarà aquests missatges.</string>
     <string name="activate_popup_desc_2_sim_cards">S\'enviaran 2 SMS normals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg">Per activar %2$s, s’enviaran %1$d SMS normals. El vostre operador us cobrarà aquests missatges.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Per activar %2$s, s\'enviaran &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament nacionals&lt;/b&gt;. El vostre operador us cobrarà aquests missatges.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"No es pot trobar el vostre número de telèfon. Assegureu-vos que la vostra targeta SIM està activada. 
 Introduïu el número de telèfon associat a la vostra nova targeta SIM per reactivar %s"</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"No s'ha pogut enviar el missatge d'activació. Assegureu-vos que la vostra targeta SIM està activada. 
@@ -64,10 +64,10 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
     <string name="activate_popup_desc_find_device_postfix">Pot ser que s\'enviï un SMS d\'activació després de canviar les targetes SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Per activar %3$s, introduïu el número de telèfon de la SIM %2$d. Si substituïu aquesta targeta SIM, s\'enviarà un altre SMS d\'activació.</string>
     <string name="activate_popup_desc_intl_sim_card">S\'enviaran SMS internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg">Per activar %2$s, s’enviaran %1$d SMS internacionals. El vostre operador us cobrarà aquest missatge.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per activar %2$s, s’enviarà &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament internacional&lt;/b&gt;El vostre operador us cobrarà aquest missatge.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Consulteu el Manual d\'usuari del compte &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Mi&lt;/a&gt; si teniu cap pregunta.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">S\'enviaran 2 missatges de text (nacional i internacional) per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg">Per activar %3$s, s\'enviaran %1$d SMS normal i %2$d d\'internacional. El vostre operador us cobrarà aquests missatges.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per activar %3$s, s’enviaran &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament nacionals&lt;/b&gt; i &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament internacionals&lt;/b&gt; El vostre operador us cobrarà aquests missatges.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Sembla que heu canviat les targetes SIM. S'enviaran 2 missatges de text internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs."</string>
     <string name="activate_popup_desc_new_2_sim_cards">"Sembla que heu canviat les targetes SIM. S'enviaran 2 missatges de text per activar %s. El vostre operador podria aplicar-vos càrrecs."</string>
     <string name="activate_popup_desc_new_intl_sim_card">"Sembla que heu canviat les targetes SIM. S'enviaran SMS internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs."</string>
@@ -80,7 +80,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
     <string name="activate_popup_desc_sim_card">S\'enviaran SMS per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
     <string name="activate_popup_desc_sim_card_downlink">Introduïu el número de telèfon actual per activar %s.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Per activar %2$s, introduïu el número de telèfon de la SIM %1$d.</string>
-    <string name="activate_popup_desc_sim_card_msg">Per activar %2$s, s’enviaran %1$d SMS normals. El vostre operador us cobrarà aquest missatge.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Per activar %2$s, s\'enviara &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS de pagament&lt;/font&gt;. El vostre operador us cobrarà per aquest missatge.</string>
     <string name="activate_popup_desc_voip_privacy">Política de privadesa</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Servei de VoIP proporcionat per Weihui. Consulteu la documentació Weihui"</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Per activar %3$s, introduïu el número de telèfon de la SIM %2$d. Weihuitel proporciona part del suport tècnic. Consulteu la política de privadesa de Weihuitel per obtenir més informació.</string>

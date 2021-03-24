@@ -173,6 +173,7 @@
     <string name="gb_gpu_tips_graph">Optimitza els gràfics per augmentar el rendiment de la GPU i estalviar energia. Aquesta funció és compatible amb jocs seleccionats.</string>
     <string name="gb_gpu_tips_resolution">"El joc específic el defineix la resolució per defecte. Alguns jocs no permeten ajustar la resolució."</string>
     <string name="gb_gpu_tips_texture">Prioritzeu el rendiment o la qualitat de la imatge</string>
+    <string name="gb_not_support_on_device">"Aquesta aplicació no es pot utilitzar a la pantalla exterior"</string>
     <string name="gb_pannel_control_mode_balance">Equilibrat</string>
     <string name="gb_pannel_control_mode_custom">Personalitzat</string>
     <string name="gb_pannel_control_mode_high_quality">Qualitat alta</string>

@@ -791,6 +791,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
     <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
     <string name="fingerprint_try_again_text">Torneu-ho a provar</string>
+    <string name="float_notification_snooze_strategy">Amaga les notificacions flotants temporalment</string>
     <string name="force_allow_on_external">Força que les aplicacions puguin escriure en emmagatzematge extern</string>
     <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
     <string name="force_msaa">Força 4x MSAA</string>
@@ -1228,6 +1229,15 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Fet</string>
     <string name="miui_notification_menu_snooze">Posposa</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
+    <string name="miui_snooze_always_float">"No ho amaguis"</string>
+    <string name="miui_snooze_cancel">Cancel·la</string>
+    <string name="miui_snooze_default_time">Durant %d minut</string>
+    <string name="miui_snooze_to_settings">Configuració</string>
+    <string name="miui_snooze_toast_hint_default">"Les properes notificacions s’amagaran durant %d minut. "</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"Les properes notificacions s'ocultaran fins que el dispositiu estigui bloquejat. "</string>
+    <string name="miui_snooze_until_unlock_screen">Fins el bloqueig</string>
+    <string name="miui_snooze_user_set_fail">Aneu a Configuració &gt; Notificacions &amp; Centre de control per veure més opcions</string>
+    <string name="miui_snooze_user_set_success">S\'ha aplicat correctament. Aneu a Configuració &gt; Notificacions &amp; Centre de control per veure més opcions.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>

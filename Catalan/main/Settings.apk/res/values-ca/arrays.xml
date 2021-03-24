@@ -1451,6 +1451,14 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>DHCP</item>
         <item>Estàtica</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Auxiliar</item>
+        <item>Completa</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Augmenta la velocitat utilitzant dades mòbils només quan el senyal Wi-Fi és deficient</item>
+        <item>Combina les dades Wi-Fi i mòbils per augmentar la velocitat de la connexió</item>
+    </string-array>
     <string-array name="wifi_metered_entries">
         <item>Detecta automàticament</item>
         <item>Tractar com a abonament</item>

@@ -196,7 +196,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="feedback_choose_third_app_name">Seleccioneu el nom de l\'aplicació</string>
     <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
     <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
-    <string name="feedback_continue">Continua amb els comentaris</string>
+    <string name="feedback_continue">Envia els comentaris</string>
     <string name="feedback_delete_images">Elimina les imatges</string>
     <string name="feedback_description">Descripció</string>
     <string name="feedback_description_hint">"Descriviu el problema que heu trobat aquí.
@@ -620,7 +620,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="stop_full_log_dialog_title">Generació de registres…</string>
     <string name="submit_dialog_cancel">"No hi estic d'acord"</string>
     <string name="submit_dialog_confirm">D\'acord</string>
-    <string name="submit_dialog_content"><Data>\"Heu d\'acceptar la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; per poder utilitzar els comentaris. Els problemes que informeu juntament amb els elements que adjunteu (poden contenir informació personal, així com informació sobre el dispositiu i la xarxa) es penjaran als servidors de MIUI. Això ens ajudarà a localitzar i resoldre els problemes que informeu. \"</Data></string>
+    <string name="submit_dialog_content"><Data>\"Llegiu i accepteu la nostra &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt; abans d\'enviar comentaris. Els problemes que informeu juntament amb els elements que adjunteu (inclosos els registres que poden contenir informació personal, així com la informació sobre el vostre dispositiu i la vostra xarxa) es penjaran als servidors de MIUI. Això ens ajudarà a localitzar i resoldre els problemes que informeu. Si informeu de problemes relacionats amb diversos dispositius, també es penjaran els registres d\'altres dispositius on s\'utilitzi el vostre compte Mi.\"</Data></string>
     <string name="submit_dialog_content_global"><Data>\"Els vostres comentaris, juntament amb els fitxers adjunts (si n\'hi ha) i els registres (podeu desmarcar les caselles corresponents per als elements que no voleu penjar) s\'enviaran als servidors de MIUI. Els registres poden contenir informació personal i les vostres dades d\'ubicació. Selecció \"Accepta\" significa que heu llegit i heu acceptat la nostra Política de privadesa &lt;a href=\"%1$s\"&gt;&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Acord d\'usuari&lt;/a&gt;\"</Data></string>
     <string name="submit_dialog_not_show_again">"No ho tornis a mostrar"</string>
     <string name="submit_dialog_title">Envia l\'informe</string>

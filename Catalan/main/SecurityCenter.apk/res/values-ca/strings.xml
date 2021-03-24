@@ -1508,6 +1508,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
     <string name="gamebox_app_not_find">Instal·leu l\'aplicació primer.</string>
     <string name="gamebox_browser_not_find">Instal·leu primer Mi Browser</string>
+    <string name="gamebox_collimator">Espiell</string>
     <string name="gamebox_display_1">Cap</string>
     <string name="gamebox_display_2">Saturat</string>
     <string name="gamebox_display_3">Brillant</string>
@@ -1536,6 +1537,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
     <string name="gamebox_recent_task_expand_fail">"Les aplicacions que funcionen amb dreceres no estan instal·lades"</string>
     <string name="gamebox_simcard">Canvia les targetes SIM</string>
+    <string name="gamebox_time">Temporitzador</string>
     <string name="gamebox_type_close">"No ho mostris"</string>
     <string name="gamebox_type_float">Drecera fixa</string>
     <string name="gamebox_type_gesture">Llisca per mostrar</string>
@@ -1586,6 +1588,10 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gb_advance_settings_vibration_4d_summary2">Vibra durant la matança del joc</string>
     <string name="gb_audition_instruction">Mantingueu premut per enregistrar (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Utilitzeu auriculars per obtenir un millor efecte</string>
+    <string name="gb_collimator_color">Color</string>
+    <string name="gb_collimator_size">Mida</string>
+    <string name="gb_collimator_style">Tipus</string>
+    <string name="gb_collimator_toast">L\'espiell fa que apuntar sigui molt més còmode</string>
     <string name="gb_create_icon_summary">Crea una drecera a la pantalla d\'inici</string>
     <string name="gb_description_image_button_answer">Contesta</string>
     <string name="gb_description_image_button_reject">Declina</string>
@@ -1620,6 +1626,7 @@ Heu d'entendre que aquesta funció només es proporciona per a la vostra referè
     <string name="gb_game_macro_bubble_tips">Proveu combos</string>
     <string name="gb_game_macro_toast_tips">"Proveu combos!
 Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
+    <string name="gb_game_time_toast">El temporitzador ja està disponible!</string>
     <string name="gb_game_video_bottom_tips">Reviseu els moments clau de les vostres sessions de joc a Game Turbo. Els vídeos se suprimiran automàticament al cap de 7 dies.</string>
     <string name="gb_game_video_item_tag">Moments clau</string>
     <string name="gb_game_video_page_delete_success">S\'ha suprimit correctament</string>
@@ -1646,6 +1653,7 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_msg_transparent_dispaly_summary">Transparent</string>
     <string name="gb_network_status_bad">S\'ha produït un error de connexió.</string>
     <string name="gb_new_feature">Nova característica</string>
+    <string name="gb_not_support_on_device">"Aquesta aplicació no es pot utilitzar a la pantalla externa"</string>
     <string name="gb_operat_frequently">No tan ràpid!</string>
     <string name="gb_shortcut_pref_title">Drecera a la pantalla d\'inici</string>
     <string name="gb_sign_gift">Registreu-vos per rebre recompenses</string>
@@ -4124,7 +4132,7 @@ Dades extres en ús"</string>
     <string name="traffic_limit_error_alert_title">Recordatori límit de dades %s</string>
     <string name="traffic_limit_input">Límit de dades (obligatori)</string>
     <string name="traffic_none">Cap</string>
-    <string name="traffic_over_purchase_link">"Heu assolit el límit d'ús del pla de dades.&lt;br/&gt;Si sobrepasseu el límit d'ús del pla de dades, el vostre operador podria cobrar-vos despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Toqueu per recarregar el vostre saldo.&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="traffic_over_purchase_link">"Heu assolit el límit d’ús de dades mòbils del vostre pla.&lt;br/&gt;Si supereu el límit d'ús de dades del vostre pla, és possible que el vostre operador us cobri càrrecs addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Toqueu per recarregar el saldo.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">"La targeta SIM no està instal·lada"</string>
     <string name="traffic_purchase_body">Toqueu per recarregar el saldo.</string>
     <string name="traffic_setting_fragment_area">Local</string>
@@ -4223,6 +4231,7 @@ Dades extres en ús"</string>
     <string name="vb_quick_func_screen_record">Enregistra</string>
     <string name="vb_quick_func_screening">Emet</string>
     <string name="vb_settings">Configuració</string>
+    <string name="vb_ve_settings_ai_stronger">IA</string>
     <string name="vb_ve_settings_display_style_tips">*Aquests efectes s\'apliquen a tota la pantalla</string>
     <string name="vb_ve_settings_pic_border_stronger">Contorns millorats</string>
     <string name="vb_ve_settings_picture_stronger">Animacions millorades</string>
@@ -4279,6 +4288,7 @@ Proveu una resolució més gran!"</string>
     <string name="virus_update_tips_title">Advertència</string>
     <string name="virus_wait_network_dialog_message">"El vostre telèfon ja no està connectat a Wi-Fi. Feu servir la connexió de dades mòbils?"</string>
     <string name="vtb_func_desc">Sobre aquesta funció</string>
+    <string name="vtb_func_display_style_desc0">La IA pot reconèixer persones, animals, plantes, cel, edificis i altres objectes que apareixen als vídeos i millorar-los dinàmicament.</string>
     <string name="vtb_func_display_style_desc1">"Els efectes seleccionats no s'aplicaran als vídeos HDR dels dispositius seleccionats."</string>
     <string name="vtb_func_display_style_desc2">"Aquests efectes no es poden aplicar a les captures de pantalla."</string>
     <string name="vtb_func_frc_desc0">La suavització del moviment redueix el desenfocament i afegeix detalls als objectes en moviment. En utilitzar aquesta funció s\'augmenta el consum d\'energia.</string>
