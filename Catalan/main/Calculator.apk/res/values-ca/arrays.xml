@@ -46,7 +46,7 @@
         <item>logaritme natural</item>
         <item>logaritme</item>
         <item>arrel quadrada</item>
-        <item>dividit entre</item>
+        <item>dividit per</item>
         <item>multiplicat per</item>
         <item>més</item>
         <item>menys</item>
@@ -75,7 +75,7 @@
         <item>ps</item>
     </string-array>
     <string-array name="weight_array">
-        <item>Kilograms</item>
+        <item>Quilograms</item>
         <item>Lliures</item>
     </string-array>
 </resources>

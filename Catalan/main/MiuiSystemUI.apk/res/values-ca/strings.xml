@@ -715,8 +715,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="dnd_is_off">No molestis està desactivat</string>
     <string name="dnd_notification_warnings_title">No molestis està activat. Les notificacions es silencien i la vibració està desactivada.</string>
     <string name="dnd_suppressing_shade_text">Notificacions en pausa per No molestis</string>
-    <string name="do_disclosure_generic">Aquest dispositiu és gestionat per l\'organització</string>
-    <string name="do_disclosure_with_name">Aquest dispositiu és gestionat per %s</string>
+    <string name="do_disclosure_generic">Aquest dispositiu pertany a la vostra organització</string>
+    <string name="do_disclosure_with_name">Aquest dispositiu pertany a %s</string>
     <string name="do_not_silence">"No silenciïs"</string>
     <string name="do_not_silence_block">"No silenciïs ni bloquegis"</string>
     <string name="dock_alignment_not_charging">Reordenar el telèfon per carregar-se sense fils</string>
@@ -804,7 +804,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="forget_password_string">Contrasenya oblidada</string>
     <string name="fs_gesture_back_home_summary">Llisqueu des de baix ràpidament</string>
     <string name="fs_gesture_back_ready_title">Anar enrere</string>
-    <string name="fs_gesture_final_over">"Finalitza"</string>
+    <string name="fs_gesture_final_over">"He acabat"</string>
     <string name="fs_gesture_final_restart">Torna a estudiar</string>
     <string name="fs_gesture_final_summary">Podeu tornar a utilitzar els botons a Configuració &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"Ja podeu començar!"</string>

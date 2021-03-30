@@ -174,4 +174,8 @@
         <item quantity="other">Voleu suprimir %1$d elements?</item>
         <item quantity="one">Voleu suprimir %1$d element?</item>
     </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s fitxers d\'àudio</item>
+        <item quantity="one">%1$s fitxer d\'àudio</item>
+    </plurals>
 </resources>

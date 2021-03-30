@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Fa %d min</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
@@ -65,12 +65,12 @@
         <item quantity="one">%d element seleccionat</item>
     </plurals>
     <plurals name="noti_caption_success">
-        <item quantity="other">%1$d amb èxit, %2$s</item>
-        <item quantity="one">%1$d amb èxit, %2$s</item>
+        <item quantity="other">Correctes: %1$d, %2$s</item>
+        <item quantity="one">Correctes: %1$d, %2$s</item>
     </plurals>
     <plurals name="noti_caption_unsuccessful">
-        <item quantity="other">%1$d han fallat.</item>
-        <item quantity="one">%1$d ha fallat.</item>
+        <item quantity="other">Incorrectes: %1$d.</item>
+        <item quantity="one">Incorrectes: %1$d.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>

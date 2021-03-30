@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -167,6 +167,7 @@
     <string name="ks_download_success">S\'ha baixat amb èxit</string>
     <string name="ks_fingerprint_payment">Pagaments amb l\'empremta</string>
     <string name="ks_fingerprint_status">Estat del pagament</string>
+    <string name="ks_name_high_precise_position">posició altament precisa</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_status_available">Disponible</string>
     <string name="ks_status_unavailable">No disponible</string>
@@ -616,7 +617,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
     <string name="share_sdk_member_info_title">Informació del membre</string>
     <string name="share_sdk_normal_invite_success_btn_text">D\'acord</string>
     <string name="share_sdk_normal_invite_success_title">S\'ha enviat la invitació</string>
-    <string name="share_sdk_operation_success">Amb èxit</string>
+    <string name="share_sdk_operation_success">Fet</string>
     <string name="share_sdk_permission_checked_error">Seleccioneu 1 element com a mínim</string>
     <string name="share_sdk_pref_category_family_detail">Propietats</string>
     <string name="share_sdk_pref_category_member_title">Seleccioneu membres</string>

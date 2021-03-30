@@ -26,11 +26,11 @@
     <string name="SubtleEmphasisDisplayName">Èmfasi subtil</string>
     <string name="SubtleReferenceDisplayName">Referència subtil</string>
     <string name="TitleDisplayName">Títol</string>
-    <string name="abc_action_bar_home_description">Navega cap a casa</string>
-    <string name="abc_action_bar_up_description">Navegueu cap amunt</string>
+    <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>

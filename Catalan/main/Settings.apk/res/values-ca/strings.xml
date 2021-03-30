@@ -1183,6 +1183,11 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Seleccioneu el nombre màxim de dispositius d\'àudio Bluetooth connectats</string>
     <string name="bluetooth_max_connected_audio_devices_string">Màxim de dispositius d’àudio Bluetooth connectats</string>
     <string name="bluetooth_menu_advanced">Avançat</string>
+    <string name="bluetooth_message_access_dialog_content">"Un dispositiu Bluetooth no fiable, %1$s, vol accedir als vostres missatges.
+
+No us heu connectat a %2$s abans."</string>
+    <string name="bluetooth_message_access_dialog_title">Voleu permetre l\'accés als missatges?</string>
+    <string name="bluetooth_message_access_notification_content">El dispositiu que no és de confiança vol accedir als missatges. Toqueu per obtenir més informació.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Voleu desbloquejar %1$s ara?</string>
     <string name="bluetooth_mi_fast_connect">Vincula els dispositius compatibles</string>
     <string name="bluetooth_mi_fast_connect_summary">Connecteu-vos a dispositius propers mitjançant un procés de sincronització simplificat</string>
@@ -1227,6 +1232,11 @@ Aquí teniu el que podria estar malament:
     <string name="bluetooth_pan_user_profile_summary_connected">S\'ha connectat a un dispositiu per a accedir a internet</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s vol accedir al registre de trucades. Voleu autoritzar a %2$s?</string>
     <string name="bluetooth_pb_remember_choice">No ho tornis a preguntar</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"Un dispositiu Bluetooth que no és de confiança, %1$s, vol accedir als contactes i al registre de trucades. Això inclou dades sobre les trucades entrants i sortints.
+
+No us heu connectat a %2$s abans."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">Voleu permetre l\'accés als contactes i al registre de trucades?</string>
+    <string name="bluetooth_phonebook_access_notification_content">El dispositiu que no és de confiança vol accedir als contactes i al registre de trucades. Toqueu per obtenir més informació.</string>
     <string name="bluetooth_phonebook_request">Sol·licitud d\'accés als contactes</string>
     <string name="bluetooth_pin_values_hint">Normalment 0000 o 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">Ha de tenir 16 dígits</string>
@@ -4191,6 +4201,8 @@ No podeu revertir aquesta acció."</string>
     <string name="max_fingerprint_number_reached">"Només es permeten 5 emprentes. Per afegir-n'en una altra, primer n'heu d'esborrar una."</string>
     <string name="max_fingerprint_reached_toast">Podeu afegir fins a 5 empremtes</string>
     <string name="maximum_memory_use">Ús màxim de la memòria</string>
+    <string name="mechanical_ime">Teclat mecànic</string>
+    <string name="mechanical_ime_hint">Només és compatible amb el teclat personalitzat per a Xiaomi</string>
     <string name="media_button">Botó multimèdia</string>
     <string name="media_category">Multimèdia</string>
     <string name="media_feedback_enable_title">Vibra amb el ritme</string>
@@ -8785,6 +8797,8 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="xiaomi_cloud_service_disabled">Desactivat</string>
     <string name="xiaomi_cloud_service_unknown">Desconegut</string>
     <string name="xiaomi_custom_input_method">Personalitzat per a Xiaomi</string>
+    <string name="xiaomi_hp_location">habilita una ubicació altament precisa</string>
+    <string name="xiaomi_hp_location_description">millora la precisió GNSS accedint a una xarxa d’alta precisió</string>
     <string name="xiaomi_money_service">Les meves monedes</string>
     <string name="xiaomi_router_available_notif_summary">Toqueu per veure més informació.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>

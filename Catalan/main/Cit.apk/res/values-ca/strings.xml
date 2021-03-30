@@ -737,8 +737,8 @@ prova fallada!"</string>
     <string name="cit_vga_camera_cameralist_fail">Error: el cameralista no coincideix</string>
     <string name="cit_vga_camera_capture">Càmera</string>
     <string name="cit_vga_camera_capture_fail">No es va poder prendre la fotografia</string>
-    <string name="cit_vga_camera_delete">Elimina</string>
-    <string name="cit_vga_camera_deleted">S\'ha eliminat la foto</string>
+    <string name="cit_vga_camera_delete">Suprimeix</string>
+    <string name="cit_vga_camera_deleted">S\'ha suprimit la foto</string>
     <string name="cit_vibrator_check_summary">Comproveu si la vibració (llarga i curta) està funcionant correctament</string>
     <string name="cit_vibrator_check_title">Vibració</string>
     <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>

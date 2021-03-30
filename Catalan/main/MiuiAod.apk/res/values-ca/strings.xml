@@ -70,7 +70,7 @@ dd/MM"</string>
     <string name="aod_style">Tema</string>
     <string name="aod_theme_store">Temes de la pantalla ambiental</string>
     <string name="aod_to_close">Desactiva</string>
-    <string name="app_name">Preferència</string>
+    <string name="app_name">difumina</string>
     <string name="apply">Aplica</string>
     <string name="apply_succeed">S\'ha aplicat correctament</string>
     <string name="background_icon">Fons</string>
@@ -84,6 +84,7 @@ dd/MM"</string>
     <string name="clear_text_end_icon_content_description">Esborra el text</string>
     <string name="clearable_edittext_clear_description">Esborra</string>
     <string name="clock_panel_icon">Esfera del rellotge</string>
+    <string name="close">Tanca</string>
     <string name="color_change_with_time_description">Canvia el color del text automàticament amb el pas del temps</string>
     <string name="color_change_with_time_title">Canvia de color automàticament</string>
     <string name="component_battery">Bateria</string>
@@ -95,6 +96,7 @@ dd/MM"</string>
     <string name="copy">Copia</string>
     <string name="custom_image">Imatge personalitzada</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="deep_space_planet">Espai exterior</string>
     <string name="deep_space_planet_des">Aquest tema reflecteix els canvis de llum que es produeixen al vostre voltant durant el dia. Les sortides i postes del sol també se sincronitzen amb la vostra ubicació.</string>
     <string name="delete">Suprimeix</string>
@@ -137,10 +139,13 @@ dd/MM"</string>
     <string name="miuix_appcompat_cancel_description">Surt</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Surt</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -257,6 +262,7 @@ dd/MM"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_notification_animation_style">Seleccioneu l\'efecte especial</string>
     <string name="select_notification_notify_style">Seleccioneu l\'efecte de les notificacions</string>
+    <string name="send">Envia</string>
     <string name="share">Comparteix</string>
     <string name="share_to_community">Comparteix a Mi Community</string>
     <string name="show_battery">Mostra l\'estat de la bateria</string>
@@ -271,7 +277,7 @@ dd/MM"</string>
 meravellosa està a punt de passar"</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Clar i lluminós</string>
+    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>
     <string name="solar_term_grain_in_ear">Sembrant mill</string>
@@ -313,17 +319,17 @@ dd/M"</string>
     <string name="text_length_exceed_limit_alert">* El text que heu introduït és massa llarg</string>
     <string name="text_size">Mida del text</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'aixecament de la llei marcial</string>
-    <string name="the_anti_aggression_day">Dia de la no-agressió</string>
+    <string name="the_anti_aggression_day">Dia Internacional de la No-Violència</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
     <string name="the_armed_forces_day">Dia de les forces armades</string>
     <string name="the_armys_day">Dia de l\'Exèrcit Popular d\'Alliberament</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
     <string name="the_chinese_youth_day">Dia de la joventut</string>
     <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Festival del Doble Nou</string>
-    <string name="the_dragon_boat_festival">Festival del Bot Dragó</string>
+    <string name="the_double_ninth_festival">Festa del Doble Yang</string>
+    <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
     <string name="the_easter_day">Pasqua</string>
-    <string name="the_eve_of_the_spring_festival">Vigília de l\'Any Nou xinès</string>
+    <string name="the_eve_of_the_spring_festival">Cap d\'Any Xinès</string>
     <string name="the_fifth_day">Cinquè dia de l\'Any Nou Xinès</string>
     <string name="the_fools_day">"Dia d'enganyar"</string>
     <string name="the_forth_day">Quart dia de l\'Any Nou Xinès</string>
@@ -343,7 +349,7 @@ dd/M"</string>
     <string name="the_second_day">Segon dia de l\'Any Nou Xinès</string>
     <string name="the_seventh_day">Setè dia de l\'Any Nou Xinès</string>
     <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
-    <string name="the_spirit_festival">Festival dels fantasmes</string>
+    <string name="the_spirit_festival">Festa de les Ànimes</string>
     <string name="the_spring_festival">Any Nou Xinès</string>
     <string name="the_teachers_day">"Dia dels mestres"</string>
     <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>

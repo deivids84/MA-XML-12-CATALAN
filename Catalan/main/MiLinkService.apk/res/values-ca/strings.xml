@@ -74,6 +74,8 @@ Consulteu l'ajuda si teniu problemes per connectar-vos."</string>
 2. En alguns models de televisió, aquesta funció només està disponible quan la rèplica de pantalla està activada. Consulteu \"Ajuda\" per obtenir més informació."</string>
     <string name="dialog_scanning_device">S\'estan cercant dispositius propers…</string>
     <string name="dialog_scanning_precondition">Activeu la Wi-Fi i el Bluetooth al telèfon per utilitzar la pantalla sense fils.</string>
+    <string name="dialog_scanning_precondition_new_china">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder emetre. Voleu activar-ho ara?</string>
+    <string name="dialog_scanning_precondition_new_global">Activeu els serveis de Wi-Fi, Bluetooth i ubicació per poder emetre. Voleu activar-ho ara?</string>
     <string name="dialog_select_tv">Seleccioneu el dispositiu (%d)</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="disconnect">Atura l\'emissió</string>
@@ -329,7 +331,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="small_window_not_supported">"No puc minimitzar aquesta aplicació mentre s'està emetent"</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Clar i lluminós</string>
+    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>
     <string name="solar_term_grain_in_ear">Sembrant mill</string>
@@ -358,17 +360,17 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="sunday_shortest">Dg</string>
     <string name="synergy_casting">"No es pot utilitzar el càsting mentre Screen Combo funciona"</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari del Dret Marcial d\'Aixecament</string>
-    <string name="the_anti_aggression_day">Dia de la no-agressió</string>
+    <string name="the_anti_aggression_day">Dia Internacional de la No-Violència</string>
     <string name="the_arbor_day">Dia de l\'Arbor</string>
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia de l\'Exèrcit Popular d\'Alliberament</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
     <string name="the_chinese_youth_day">Dia de la joventut</string>
     <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Doble Novè Festival</string>
-    <string name="the_dragon_boat_festival">Festival del vaixell de drac</string>
-    <string name="the_easter_day">Setmana Santa</string>
-    <string name="the_eve_of_the_spring_festival">Vigília de l\'Any Nou xinès</string>
+    <string name="the_double_ninth_festival">Festa del Doble Yang</string>
+    <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
+    <string name="the_easter_day">Pasqua</string>
+    <string name="the_eve_of_the_spring_festival">Cap d\'Any Xinès</string>
     <string name="the_fifth_day">Cinquè dia de l\'Any Nou Xinès</string>
     <string name="the_fools_day">"Dia d'enganyar"</string>
     <string name="the_forth_day">Quart dia de l\'Any Nou Xinès</string>
@@ -388,7 +390,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="the_second_day">Segon dia de l\'Any Nou Xinès</string>
     <string name="the_seventh_day">Setè dia de l\'Any Nou Xinès</string>
     <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
-    <string name="the_spirit_festival">Festival dels fantasmes</string>
+    <string name="the_spirit_festival">Festa de les Ànimes</string>
     <string name="the_spring_festival">Any Nou Xinès</string>
     <string name="the_teachers_day">"Dia dels mestres"</string>
     <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>

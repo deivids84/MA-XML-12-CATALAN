@@ -372,7 +372,7 @@
     <string name="shortcut_short_label_recent_forecast">Comprova el temps</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Clar i brillant</string>
+    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosades fredes</string>
     <string name="solar_term_grain_buds">Criatures plenes</string>
     <string name="solar_term_grain_in_ear">Sembra de mill</string>
@@ -426,15 +426,15 @@
     <string name="sunrise">Sol ixent</string>
     <string name="sunset">Ocàs</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'Aixecament de la Llei Marcial</string>
-    <string name="the_anti_aggression_day">Dia contra l’agressió</string>
+    <string name="the_anti_aggression_day">Dia Internacional de la No-Violència</string>
     <string name="the_arbor_day">Dia de l\'arbre</string>
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
     <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Festival del Doble Nou</string>
-    <string name="the_dragon_boat_festival">Festa del Vaixell del Drac</string>
+    <string name="the_double_ninth_festival">Festa del Doble Yang</string>
+    <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
     <string name="the_easter_day">Pasqua</string>
     <string name="the_eve_of_the_spring_festival">Vigília de l\'Any Nou Xinès</string>
     <string name="the_fifth_day">Cinquè dia de l\'Any Nou Xinès</string>
@@ -451,12 +451,12 @@
     <string name="the_new_years_day">Any nou</string>
     <string name="the_night_of_sevens">Festa de Qixi</string>
     <string name="the_partys_day">Dia del PCX</string>
-    <string name="the_peace_day">Dia de la Memòria</string>
+    <string name="the_peace_day">Dia del Record</string>
     <string name="the_retrocession_day">Dia de la retrocessió</string>
     <string name="the_second_day">Segon dia de l\'Any Nou Xinès</string>
     <string name="the_seventh_day">Setè dia de l\'Any Nou Xinès</string>
     <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
-    <string name="the_spirit_festival">Festa dels fantasmes</string>
+    <string name="the_spirit_festival">Festa de les Ànimes</string>
     <string name="the_spring_festival">Any Nou Xinès</string>
     <string name="the_teachers_day">"Dia del Mestre"</string>
     <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>
@@ -515,8 +515,10 @@
     <string name="welcome_app_title">Benvingut a Weather!</string>
     <string name="wind_direction_no_data">Vent</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="xiaomi_weather_description_content">"El temps us proporciona informació meteorològica precisa. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d’aquestes funcions abans de desinstal·lar l’aplicació."</string>
-    <string name="xiaomi_weather_description_title">Quant al temps</string>
+    <string name="xiaomi_weather_description_content">"El temps és una aplicació del sistema. No podreu veure la informació meteorològica ni utilitzar els ginys relacionats després de desinstal·lar l'aplicació."</string>
+    <string name="xiaomi_weather_description_content_remove">"El temps és una aplicació del sistema. No podreu veure la informació meteorològica ni utilitzar els ginys relacionats després d’eliminar la drecera de la pantalla d’inici."</string>
+    <string name="xiaomi_weather_description_title">Voleu desinstal·lar \"El temps\"?</string>
+    <string name="xiaomi_weather_description_title_remove">Voleu suprimir \"El temps\" de la pantalla d\'inici?</string>
     <string name="yes_vote_ratio">pros %1$s%%</string>
     <string name="yesterday">Ahir</string>
 </resources>

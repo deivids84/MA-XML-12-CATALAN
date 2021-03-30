@@ -8,7 +8,7 @@ Si no heu sol·licitat aquesta còpia de seguretat, no permeteu aquesta operaci�
     <string name="backup_confirm_title">Còpia de seguretat completa</string>
     <string name="backup_enc_password_optional">Si voleu xifrar les dades de la còpia de seguretat completa, introduïu una contrasenya:</string>
     <string name="backup_enc_password_required">Com que el dispositiu està xifrat, heu de xifrar la còpia de seguretat. Introduïu una contrasenya:</string>
-    <string name="backup_enc_password_text">Introduïu una contrasenya que s\'utilitzarà per xifrar les dades de la còpia de seguretat completa. Si es deixa en blanc, s’utilitzarà la contrasenya actual:</string>
+    <string name="backup_enc_password_text">Introduïu una contrasenya per xifrar les dades de la còpia de seguretat completa. Si es deixa en blanc, s’utilitzarà la contrasenya actual:</string>
     <string name="current_password_text">Introduïu la contrasenya actual de la còpia de seguretat:</string>
     <string name="deny_backup_button_label">No facis la còpia de seguretat</string>
     <string name="deny_restore_button_label">No ho restauris</string>
@@ -21,7 +21,7 @@ Si no heu sol·licitat aquesta restauració, no permeteu aquesta operació. Aix�
     <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, introduïu la contrasenya:</string>
     <string name="toast_backup_ended">S\'ha finalitzat la còpia de seguretat</string>
     <string name="toast_backup_started">S\'està iniciant la còpia de seguretat...</string>
-    <string name="toast_restore_ended">S\'ha acabat la restauració</string>
+    <string name="toast_restore_ended">La restauració ha finalitzat</string>
     <string name="toast_restore_started">S\'està iniciant la restauració...</string>
     <string name="toast_timeout">Temps d\'operació esgotat</string>
 </resources>

@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Navega cap amunt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -761,6 +761,8 @@
     <string name="toast_updater_open_4g_text">Les aplicacions s\'actualitzaran utilitzant dades mòbils (4G)</string>
     <string name="total_clean">Total netejat: %s</string>
     <string name="total_clean_text">Netejat</string>
+    <string name="unit_gb">%s GB</string>
+    <string name="unit_mb">%s MB</string>
     <string name="unlike">No, gràcies</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">DESACTIVAT</string>
@@ -824,6 +826,7 @@
     <string name="wechat_qq_celan_tab_voice">Missatges de veu</string>
     <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
     <string name="whatsapp_btn_quick_cleanup">Suprimeix els elements seleccionats (%s)</string>
+    <string name="whatsapp_cache_clear">S\'està netejant la memòria cau…</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Continua escanejant</string>
     <string name="whatsapp_clean_exit_confirm_msg">"Encara no s'ha acabat d'escanejar el WhatsApp. Voleu aturar l'escaneig?"</string>
     <string name="whatsapp_clean_exit_confirm_ok">Atura</string>
@@ -833,6 +836,10 @@
     <string name="whatsapp_delete_confirm_message">Suprimeix-ho ara?</string>
     <string name="whatsapp_delete_confirm_ok">D\'acord</string>
     <string name="whatsapp_delete_done">Fet</string>
+    <string name="whatsapp_detail_cache_result">S\'han alliberat %s</string>
+    <string name="whatsapp_detail_sort_created">Ordena per data</string>
+    <string name="whatsapp_file_recv">Rebut</string>
+    <string name="whatsapp_file_send">Enviat</string>
     <string name="whatsapp_file_show_order">Avui</string>
     <string name="whatsapp_function_summery">Netegeu els fitxers adjunts de WhatsApp</string>
     <string name="whatsapp_function_title">Netejador del WhatsApp</string>

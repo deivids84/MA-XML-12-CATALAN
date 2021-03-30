@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Torna al punt d\'inici</string>
-    <string name="abc_action_bar_up_description">Mou cap a dalt</string>
-    <string name="abc_action_menu_overflow_description">Més</string>
+    <string name="abc_action_bar_home_description">Navega a l\'inici</string>
+    <string name="abc_action_bar_up_description">Navega cap amunt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">Veure-ho tot</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
     <string name="abc_activitychooserview_choose_application">Seleccioneu una aplicació</string>
     <string name="abc_capital_off">DESACTIVAT</string>
     <string name="abc_capital_on">ACTIVAT</string>
@@ -46,7 +46,7 @@
     <string name="cancel_task">Surt</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
-    <string name="complete">Amb èxit</string>
+    <string name="complete">Fet</string>
     <string name="confirm_cancel_receive">"No podreu rebre aquest element si cancel·leu la transferència ara. Cancel·lar de totes maneres?"</string>
     <string name="confirm_cancel_task_files">Voleu cancel·lar l\'enviament de fitxers a %1$s?</string>
     <string name="confirm_cancel_task_images">Vols cancel·lar l\'enviament d\'imatges a %1$s?</string>
@@ -246,7 +246,7 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="smartisan_phone">Smartisan</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Clar i brillant</string>
+    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosades fredes</string>
     <string name="solar_term_grain_buds">Criatures plenes</string>
     <string name="solar_term_grain_in_ear">Sembra de mill</string>
@@ -282,15 +282,15 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="sunday_shortest">dg.</string>
     <string name="support_device_type">Dispositius compatibles</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversari de l\'Aixecament de la Llei Marcial</string>
-    <string name="the_anti_aggression_day">Dia de la no-agressió</string>
+    <string name="the_anti_aggression_day">Dia Internacional de la No-Violència</string>
     <string name="the_arbor_day">Dia de l\'Arbre</string>
     <string name="the_armed_forces_day">Dia de les Forces Armades</string>
     <string name="the_armys_day">Dia de l\'Exèrcit Popular d\'Alliberament</string>
     <string name="the_childrens_day">"Dia de la Infància"</string>
     <string name="the_chinese_youth_day">Dia de la Joventut</string>
     <string name="the_christmas_day">Nadal</string>
-    <string name="the_double_ninth_festival">Festival del Doble Nou</string>
-    <string name="the_dragon_boat_festival">Festa del Vaixell del Drac</string>
+    <string name="the_double_ninth_festival">Festa del Doble Yang</string>
+    <string name="the_dragon_boat_festival">Festa de les Barques de Drac</string>
     <string name="the_easter_day">Pasqua</string>
     <string name="the_eve_of_the_spring_festival">Vigília de l\'Any Nou Xinès</string>
     <string name="the_fifth_day">Cinquè dia de l\'Any Nou Xinès</string>
@@ -312,7 +312,7 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="the_second_day">Segon dia de l\'Any Nou Xinès</string>
     <string name="the_seventh_day">Setè dia de l\'Any Nou Xinès</string>
     <string name="the_sixth_day">Sisè dia de l\'Any Nou Xinès</string>
-    <string name="the_spirit_festival">Festival dels fantasmes</string>
+    <string name="the_spirit_festival">Festa de les Ànimes</string>
     <string name="the_spring_festival">Any Nou Xinès</string>
     <string name="the_teachers_day">"Dia dels mestres"</string>
     <string name="the_third_day">Tercer dia de l\'Any Nou Xinès</string>
