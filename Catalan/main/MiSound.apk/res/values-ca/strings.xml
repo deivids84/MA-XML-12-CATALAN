@@ -127,10 +127,12 @@
     <string name="music_headphone_settings">Trieu el tipus d’auriculars</string>
     <string name="music_headset_audio_visual">Efectes visuals</string>
     <string name="music_headset_audio_visual_apply">Aplica</string>
+    <string name="music_headset_audio_visual_mute">Previsualització sense so</string>
     <string name="music_headset_audio_visual_style">Estil d’efectes visuals</string>
     <string name="music_headset_audio_visual_style_summary">Seleccioneu l\'estil per als efectes visuals</string>
     <string name="music_headset_audio_visual_summary">Acompanya el so amb efectes visuals que es mostren a la pantalla de bloqueig</string>
     <string name="music_headset_audio_visual_toast">S\'ha aplicat correctament</string>
+    <string name="music_headset_audio_visual_unmute">Previsualització amb so</string>
     <string name="music_headset_button_settings">Assigna els botons</string>
     <string name="music_headset_calibrate">Assigna els botons</string>
     <string name="music_headset_calibrate_apply">Utilitza</string>
@@ -183,6 +185,8 @@
     <string name="music_upper_sixty_years">Més de 60 anys</string>
     <string name="name">Nom</string>
     <string name="not_set">Sense especificar</string>
+    <string name="not_support_sound_transmission_content">"Aquesta funció no és compatible amb el dispositiu connectat. Proveu un altre dispositiu Bluetooth."</string>
+    <string name="not_support_sound_transmission_prompt">Atenció</string>
     <string name="now_here">I ara?</string>
     <string name="original_sound">Reprodueix el so original</string>
     <string name="personal_sound">Reprodueix amb la configuració predefinida aplicada</string>

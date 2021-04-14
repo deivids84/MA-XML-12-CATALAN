@@ -632,6 +632,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">elements</item>
         <item quantity="one">element</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Cancel·la (%ds)</item>
+        <item quantity="one">Cancel·la (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dies restants</item>
         <item quantity="one">%s dia restant</item>

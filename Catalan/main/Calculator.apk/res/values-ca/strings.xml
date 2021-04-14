@@ -40,7 +40,7 @@
     <string name="angle">graus</string>
     <string name="app_name">Calculadora</string>
     <string name="app_notification_info">La calculadora està funcionant en segon pla</string>
-    <string name="base_rate">Base del tipus d\'interès</string>
+    <string name="base_rate">Tipus d’interès base</string>
     <string name="bmi_error_text">"Aquest IMC no sembla correcte. Assegureu-vos que l'alçada i el pes que heu introduït són correctes."</string>
     <string name="bmi_label_information">Informació</string>
     <string name="bmi_label_normal">Normal</string>
@@ -77,16 +77,16 @@
     <string name="common_google_play_services_notification_channel_name">Disponibilitat dels Serveis de Google Play</string>
     <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els Serveis de Google Play. Torneu-ho a provar.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s no es pot executar sense Serveis de Google Play, que no és compatible amb el teu dispositiu."</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no funcionarà sense els Serveis de Google Play, que no són compatibles amb el vostre dispositiu."</string>
     <string name="common_google_play_services_update_button">Actualitza</string>
-    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes Serveis de Google Play."</string>
-    <string name="common_google_play_services_update_title">Actualitza Serveis de Google Play</string>
-    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
-    <string name="common_google_play_services_wear_update_text">Cal una nova versió de Serveis de Google Play. S\'actualitzarà automàticament aviat.</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà tret que actualitzeu els Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitzeu els Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no funcionarà sense els Serveis de Google Play, que actualment s'estan actualitzant."</string>
+    <string name="common_google_play_services_wear_update_text">Cal una nova versió dels Serveis de Google Play. S\'actualitzarà pròximament.</string>
     <string name="common_open_on_phone">Obre al telèfon</string>
-    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text">Inicia la sessió</string>
     <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
-    <string name="convert_currency">Convertidor de divises</string>
+    <string name="convert_currency">Convertidor de moneda</string>
     <string name="convertion_unit">Convertidor d\'unitats</string>
     <string name="convertion_unit_area">Convertidor d\'àrees</string>
     <string name="convertion_unit_data">Convertidor de dades</string>
@@ -96,31 +96,31 @@
     <string name="convertion_unit_time">Convertidor de temps</string>
     <string name="convertion_unit_velocity">Convertidor de velocitat</string>
     <string name="convertion_unit_volume">Convertidor de volum</string>
-    <string name="convertion_unit_weight">Convertidor de pes</string>
+    <string name="convertion_unit_weight">Convertidor de massa</string>
     <string name="cosDesc">cosinus</string>
-    <string name="currency_dialog_privacy_content">&lt;Data&gt;El convertidor de divises necessita connectar-se a Internet per obtenir els últims tipus de canvi de moneda. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar aquesta funció.&lt;/Data&gt;</string>
-    <string name="currency_update_connect_to_get_data">Tipus de canvi proporcionats per Webull. Connecteu a la xarxa per obtenir l\'última informació.</string>
-    <string name="currency_update_support">Tipus de canvi proporcionats per Webull.</string>
-    <string name="currency_update_time_format">Els tipus de canvi els proporciona Webull (%s)</string>
-    <string name="currency_update_updating">Actualizant taxes…</string>
+    <string name="currency_dialog_privacy_content"><Data>El convertidor de divises ha de connectar-se a Internet per obtenir els últims tipus de canvi de divises. Llegiu i accepteu el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la&lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar aquesta funció.</Data></string>
+    <string name="currency_update_connect_to_get_data">Webull proporciona els tipus de canvi. Connecteu-vos a la xarxa per obtenir la informació més recent.</string>
+    <string name="currency_update_support">Webull proporciona els tipus de canvi.</string>
+    <string name="currency_update_time_format">Webull proporciona els tipus de canvi (%s)</string>
+    <string name="currency_update_updating">S\'estan actualitzant les taxes…</string>
     <string name="date_format">dd MMM yyyy</string>
-    <string name="date_time_picker_dialog_title">Definiu la data i l\'hora</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">dia</string>
     <string name="degDesc">Angle</string>
     <string name="del">SUPR</string>
     <string name="deleteDesc">suprimeix</string>
-    <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'impostos. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+    <string name="description_content">A més de les seves funcions bàsiques, la Calculadora també funciona com a convertidor multifuncional, hipoteca i calculadora d’impostos. Assegureu-vos que podeu prescindir d’aquestes funcions abans de desinstal·lar l’aplicació.</string>
     <string name="description_title">Quant a la Calculadora</string>
     <string name="deselect_all">Desselecciona</string>
     <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
-    <string name="dialog_privacy_content">&lt;Data&gt;A més de les característiques bàsiques d\'una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor de múltiples usos. Algunes funcions necessiten connectar-se a Internet per treballar normalment. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar la Calculadora.&lt;/Data&gt;</string>
+    <string name="dialog_privacy_content"><Data>A més de les funcions bàsiques d’una calculadora, la nostra aplicació també conté una calculadora científica i un convertidor polivalent. Algunes funcions necessiten connectar-se a Internet per funcionar amb normalitat. Heu de llegir i acceptar el nostre &lt;a href=\"%1$s\"&gt;Acord d’usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d’utilitzar la Calculadora.</Data></string>
     <string name="dialog_privacy_disagree_msg">Si desactiveu l\'interruptor, retirareu el vostre consentiment a la política de privadesa de la Calculadora. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. La Calculadora ha de recopilar la informació personal necessària per proporcionar-li serveis bàsics. La retirada del consentiment a la seva Política de privadesa es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida.</string>
     <string name="dialog_privacy_revoke_btn_ok">Retira</string>
     <string name="dialog_privacy_revoke_title">Retirada del consentiment</string>
     <string name="dialog_privacy_title">Termes i condicions</string>
     <string name="dialog_rating_desc_ask">Què us sembla la Calculadora?</string>
-    <string name="dialog_rating_desc_less">Podrieu donar-nos la vostra valoració?</string>
+    <string name="dialog_rating_desc_less">Podríeu donar-nos la vostra opinió?</string>
     <string name="dialog_rating_desc_perfect">Genial! Voleu valorar la Calculadora a la Play Store?</string>
     <string name="dialog_rating_title">Valoreu la nostra aplicació</string>
     <string name="divDesc">divideix</string>

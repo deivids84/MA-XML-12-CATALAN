@@ -568,6 +568,7 @@ Selecció"</string>
     <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="charge_length_format">Fa %1$s</string>
+    <string name="choose_clock_dual_clock_hint_text">"No es pot canviar el format quan el rellotge dual està activat"</string>
     <string name="choose_clock_panel_title">Disposició de la pantalla de bloqueig</string>
     <string name="choose_clock_third_theme_hint_text">Pantalla de bloqueig del tema aplicat actualment</string>
     <string name="choose_clock_title_left_top">Alineat a l’esquerra</string>
@@ -1844,6 +1845,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="ssl_ca_cert_warning">"La xarxa pot
 ser monitorada"</string>
     <string name="standby_bucket_summary">Estat d\'espera de l\'aplicació: %s</string>
+    <string name="start_camera_error_try_again">"No s'ha pogut iniciar la càmera. Torneu-ho a provar."</string>
     <string name="start_dreams">Protector de pantalla</string>
     <string name="status_bar">Barra d\'estat</string>
     <string name="status_bar_airplane">Mode d\'avió</string>

@@ -599,6 +599,9 @@
     <string name="user_agreement">Acord d\'usuari</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
+    <string name="version_update_dialog_negative_desc">Ara no</string>
+    <string name="version_update_dialog_positive_desc">Actualiza</string>
+    <string name="version_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="vibrate_pref_summary">Vibra quan soni l\'alarma</string>
     <string name="vibrate_when_ringing">Vibra mentre l\'alarma soni</string>
     <string name="voice_add_alarm">Afegiu una alarma mitjançant una ordre de veu</string>

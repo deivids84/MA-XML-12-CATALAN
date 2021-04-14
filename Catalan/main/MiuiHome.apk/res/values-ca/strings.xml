@@ -432,6 +432,7 @@
     <string name="navigation_type_full_screen">Gestos</string>
     <string name="navigation_type_title">Navegació pel sistema</string>
     <string name="navigation_type_virtual_key">Botons</string>
+    <string name="network_error">"No s'ha pogut connectar a la xarxa. Torneu-ho a provar."</string>
     <string name="no_detail_page">No hi ha pàgina de detalls</string>
     <string name="no_space_toast">No hi ha prou espai</string>
     <string name="no_space_toast_when_click_widget">No hi ha prou espai en aquesta pàgina. Proveu d\'arrossegar aquest element a una pàgina diferent.</string>
@@ -528,6 +529,8 @@
     <string name="remove_dialog_message">Les aplicacions seleccionades contenen funcions essencials del sistema. Només podeu suprimir les dreceres de la pantalla d\'inici.</string>
     <string name="remove_dialog_title_format">Voleu suprimir \"%s\" de la pantalla d\'inici?</string>
     <string name="remove_invalidate_gadget_tips">Un dels ginys que utilitzeu ja no està disponible. Podeu afegir-ne un altre.</string>
+    <string name="remove_sys_app_content">"Podreu afegir la drecera de la pantalla d’inici a Configuració &gt; Aplicacions &gt; Gestiona les dreceres de la pantalla d’inici. Voleu suprimir-la ara?"</string>
+    <string name="remove_sys_app_title">Voleu suprimir la drecera de la pantalla d\'inici?</string>
     <string name="reset_cate_tip_content">Si continueu, es restauraran els grups d\'aplicacions per defecte. Voleu continuar de totes maneres?</string>
     <string name="reset_cate_tip_title">Restaura els grups per defecte</string>
     <string name="reset_description_first_time">Podeu restaurar el disseny de %1$s en dues hores</string>
@@ -538,6 +541,7 @@
     <string name="resource_canary_leak_tip">té filtració!</string>
     <string name="resource_canary_wait_for_heapdump_message">S\'està buidant la instantània del munt ...</string>
     <string name="restore_icon_successful">S\'ha afegit correctament</string>
+    <string name="russia_preinstall_folder_name">Rússia</string>
     <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
     <string name="screen_locked_toast">La disposició de la pantalla d\'inici està bloquejada</string>
     <string name="screen_number">Pantalla %d</string>
@@ -547,6 +551,7 @@
     <string name="select_all">Selecciona-ho tot</string>
     <string name="select_frame">Marc</string>
     <string name="select_photo">Foto</string>
+    <string name="server_error">S\'ha produït un error del servidor. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="setting_wallpaper_tip">Pessigui o llisqui per ajustar</string>
     <string name="settings">Configuració</string>
     <string name="settings_shortcut">Configuració</string>

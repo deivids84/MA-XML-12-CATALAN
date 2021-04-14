@@ -612,6 +612,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="clearable_edittext_clear_description">Esborra</string>
     <string name="clock_alarm">Alarma</string>
     <string name="clock_parent">Rellotge</string>
+    <string name="close">Tanca</string>
     <string name="closed">Desactivat</string>
     <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
     <string name="commute">Suggeriments del mapa</string>
@@ -676,6 +677,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="data_error">S\'ha produït un error. Espereu uns minuts i torneu-ho a intentar</string>
     <string name="data_error_show">"La comanda s'ha completat, no es poden veure els detalls"</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="debug_card_brief">Configuració i eines de depuració</string>
     <string name="debug_card_detail">Configuració i eines de depuració</string>
     <string name="debug_card_title">Depuració</string>
@@ -1251,10 +1253,13 @@ Comproveu el número de seguiment."</string>
     <string name="miuix_appcompat_cancel_description">Cancel·la</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·la</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1505,6 +1510,7 @@ Comproveu el número de seguiment."</string>
     <string name="search_category_video">Vídeos</string>
     <string name="search_change_header">Substitueix la imatge de portada</string>
     <string name="search_clear_header">Elimina la imatge de la portada</string>
+    <string name="search_header_dialog_title">Canvia el fons</string>
     <string name="search_hint">Cerca als preferits</string>
     <string name="search_label">S\'està cercant…</string>
     <string name="search_menu_title">Cerca</string>
@@ -1512,6 +1518,7 @@ Comproveu el número de seguiment."</string>
     <string name="search_tip">S\'està cercant…</string>
     <string name="security">Seguretat</string>
     <string name="selected_shortcuts_title">Pàgina d\'inici</string>
+    <string name="send">Envia</string>
     <string name="send_action_title">Afegeix als preferits</string>
     <string name="send_diagnosis_log">Envia el registre de diagnòstic</string>
     <string name="send_express">Entrega urgent</string>

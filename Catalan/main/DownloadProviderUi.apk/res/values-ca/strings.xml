@@ -103,6 +103,8 @@
     <string name="dialog_content_limit0">Restricció de les baixades</string>
     <string name="dialog_content_limit_max">Il·limitat</string>
     <string name="dialog_delete_positive">Suprimeix</string>
+    <string name="dialog_download_dir_content" formatted="false">La carpeta de destinació per defecte per a les baixades s\'ha canviat de \"%s\" a \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Nova carpeta de destinació</string>
     <string name="dialog_failed_body">Voleu provar de baixar aquest fitxer més tard o treure\'l de la cua?</string>
     <string name="dialog_file_already_exists">Aquest fitxer ja existeix.</string>
     <string name="dialog_file_missing_body">"No s'ha pogut trobar el fitxer, sembla que s'ha suprimit."</string>

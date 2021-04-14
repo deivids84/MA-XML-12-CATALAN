@@ -181,6 +181,8 @@
     <string name="preference_other">Altres</string>
     <string name="preference_privacy_title">Política de privadesa</string>
     <string name="pressure_title">Pressió</string>
+    <string name="remove_icon_description_content">"La Brúixola és una aplicació del sistema. No la podreu utilitzar per comprovar les indicacions, les coordenades, la pressió atmosfèrica i l'altitud actual després de suprimir la drecera de la pantalla d'inici."</string>
+    <string name="remove_icon_description_title">Voleu suprimir la \"Brúixola\" de la pantalla d\'inici?</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>

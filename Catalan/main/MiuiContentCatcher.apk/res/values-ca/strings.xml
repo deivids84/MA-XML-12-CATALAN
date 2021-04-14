@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Servei d’ampliació d’aplicacions</string>
+    <string name="app_name">Servei d’extensió d’aplicacions</string>
     <string name="auth_activity_label">Codis de verificació</string>
     <string name="auth_fingerprint_content">S\'està llegint l\'empremta…</string>
-    <string name="auth_fingerprint_content_message">Poseu el dit al lector</string>
+    <string name="auth_fingerprint_content_message">Poseu el dit al sensor</string>
     <string name="auth_fingerprint_content_message_error">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
-    <string name="auth_fingerprint_title">Verifiqueu l\'empremta</string>
-    <string name="autofill_description">"MIUI pot xifrar i emmagatzemar les vostres contrasenyes de manera que les pugueu introduir sempre que ho necessiteu automàticament. Xiaomi no podrà llegir les vostres contrasenyes xifrades."</string>
+    <string name="auth_fingerprint_title">Verifiqueu la empremta</string>
+    <string name="autofill_description">"MIUI pot xifrar i emmagatzemar les vostres contrasenyes perquè pugueu introduir-les sempre que ho necessiteu automàticament. Xiaomi no podrà llegir les vostres contrasenyes xifrades."</string>
     <string name="autofill_hint_email_address">Correu</string>
     <string name="autofill_hint_name">Nom</string>
-    <string name="autofill_hint_password">Contraseya</string>
+    <string name="autofill_hint_password">Contrasenya</string>
     <string name="autofill_hint_phone">Número de telèfon</string>
-    <string name="autofill_hint_username">Nom d’usuari</string>
+    <string name="autofill_hint_username">Nom d\'usuari</string>
     <string name="autofill_item_activity_label">Contrasenyes d\'aplicacions</string>
     <string name="autofill_list_activity_label">Contrasenyes d\'aplicacions</string>
     <string name="autofill_list_title">Gestiona les contrasenyes</string>
@@ -19,8 +19,9 @@
     <string name="autofill_password_activity_label">Codis de verificació</string>
     <string name="autofill_service_label">Gestiona les contrasenyes</string>
     <string name="autofill_setting_activity_label">Gestiona les contrasenyes</string>
+    <string name="back_button_label">Enrere</string>
     <string name="cancel">Cancel·la</string>
-    <string name="change_passwork_dialog_content">"Ja heu desat una contrasenya per a aquest compte. Voleu actualitzar la contrasenya?"</string>
+    <string name="change_passwork_dialog_content">"Ja heu desat una contrasenya per a aquest compte. Voleu actualitzar la contrasenya ara?"</string>
     <string name="change_passwork_dialog_title">Voleu actualitzar la contrasenya?</string>
     <string name="delete">Suprimeix</string>
     <string name="invalid_package_signature">La signatura de l\'aplicació no és vàlida</string>
@@ -28,11 +29,11 @@
     <string name="login_mi_account_summary">Per activar el gestor de contrasenyes, heu d’iniciar sessió al compte de Xiaomi; voleu iniciar la sessió?</string>
     <string name="ok">D\'acord</string>
     <string name="password_manager">Gestor de contrasenyes</string>
-    <string name="password_manager_summary">Gestor de contrasenyes al núvol, fa una còpia de seguretat al compte de Xiaomi</string>
-    <string name="save_content_tip">"Es desaran els següents elements: "</string>
+    <string name="password_manager_summary">El Gestor de contrasenyes al núvol fa una còpia de seguretat al compte de Xiaomi</string>
+    <string name="save_content_tip">"Es desaran els elements següents: "</string>
     <string name="search">Cerca</string>
-    <string name="settings_clear_data_confirmation_description">"Si suprimiu les contrasenyes ara, les haureu d’introduir manualment la pròxima vegada que inicieu la sessió.
+    <string name="settings_clear_data_confirmation_description">"Si suprimiu les contrasenyes ara, les haureu d'introduir manualment la propera vegada que inicieu la sessió.
 Voleu suprimir la contrasenya?"</string>
     <string name="settings_clear_data_confirmation_title">Supressió de contrasenyes</string>
-    <string name="using_miui_autofill_message">Per introduir les contrasenyes automàticament, MIUI desarà la informació i les contrasenyes del vostre compte al dispositiu.</string>
+    <string name="using_miui_autofill_message">Per introduir contrasenyes automàticament, MIUI desarà la informació del compte i les contrasenyes al dispositiu.</string>
 </resources>
