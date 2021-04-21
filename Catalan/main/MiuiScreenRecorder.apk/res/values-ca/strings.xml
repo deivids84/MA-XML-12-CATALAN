@@ -31,7 +31,10 @@
     <string name="afternoon">Tarda</string>
     <string name="am">am</string>
     <string name="app_name">Enregistrador de Pantalla</string>
+    <string name="app_notification_channel_record_complete">Notificacions sobre enregistraments finalitzats</string>
     <string name="app_notification_info">L\'Enregistrador de Pantalla funciona en segon pla</string>
+    <string name="app_notification_record_complete">"Enregistrament de pantalla desat a la galeria
+Toqueu per veure-ho"</string>
     <string name="app_notification_title">Enregistrador de Pantalla</string>
     <string name="auto_stop_title">El vídeo s\'ha desat correctament</string>
     <string name="battery_not_allowed" formatted="false">"No es poden fer enregistraments quan la bateria és inferior al 3%. Assegureu-vos que la bateria estigui carregada com a mínim al 20%."</string>

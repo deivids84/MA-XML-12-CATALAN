@@ -147,6 +147,8 @@
     <string name="app_name_miuiwallpaper">Fons de pantalla</string>
     <string name="app_name_screenshot">Captures de pantalla</string>
     <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
+    <string name="app_uninstall_description_content">"El Navegador és una aplicació del sistema. No podreu utilitzar els serveis de cerca i navegació web que proporciona després de desinstal·lar l'aplicació."</string>
+    <string name="app_uninstall_description_title">Voleu desinstal·lar el Navegador?</string>
     <string name="app_update_install">Preparat per instal·lar l\'actualització.</string>
     <string name="application_name">Navegador</string>
     <string name="aqi_quality_index_break">Altament perillós</string>

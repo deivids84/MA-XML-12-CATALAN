@@ -529,6 +529,8 @@ Taxa de mostreig"</string>
     <string name="call_barring_sum">Configuració de restricció de trucades de veu</string>
     <string name="call_category">Trucades</string>
     <string name="call_description_recording">S\'està enregistrant&#8230;</string>
+    <string name="call_fold_setting">Plegable i desplegable</string>
+    <string name="call_fold_setting_title">Plegable i desplegable</string>
     <string name="call_forward_option">Opcions de desviament de trucades</string>
     <string name="call_forwarding_number_hint">Desvia les trucades a</string>
     <string name="call_forwarding_settings">Desviament de trucades</string>
@@ -1010,6 +1012,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_upperlayer_indication1">Estat de la indicació de la capa superior:</string>
     <string name="flash_when_ring_summary">Encén la llum del flaix en rebre trucades</string>
     <string name="flash_when_ring_title">Flaix en rebre trucada</string>
+    <string name="fold_answer_pref_summary">Plegueu el dispositiu per acceptar automàticament una trucada entrant</string>
+    <string name="fold_answer_pref_title">Plega per acceptar trucades</string>
     <string name="forbidden_network">(prohibida)</string>
     <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
     <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
@@ -1019,6 +1023,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
     <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
+    <string name="four_point_five_switch_summary">Utilitzeu 4.5G per millorar la velocitat d’accés a les dades i la qualitat de la veu.</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">número de canal lte</string>
     <string name="fw_change_failed">"No s'ha pogut canviar el número de desviament.
 Contacteu amb el vostre operador si el problema persisteix."</string>
@@ -1251,6 +1257,8 @@ Les trucades d\'emergència només són possibles a les zones amb cobertura cel�
     <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
     <string name="mhh_disable">Metge, salut i hospitals desactivat</string>
     <string name="mhh_enable">Metge, salut i hospitals activat</string>
+    <string name="mi_mobile_settings_summary">Plans de dades proporcionats per Xiaomi</string>
+    <string name="mi_mobile_settings_title">Mi Mòbil</string>
     <string name="mi_mobile_sim_activate_message">Activeu la SIM %d per poder utilitzar Mi Mobile. Això pot trigar fins a 5 minuts.</string>
     <string name="mi_mobile_sim_activate_ok">Activa</string>
     <string name="mi_mobile_sim_activate_title">Us donem la benvinguda a Mi Mobile!</string>
@@ -2239,6 +2247,10 @@ El període següent comença en %2$d dies (%3$s)"</string>
     <string name="turnover_mute_summary">Quan el telèfon estigui en un lloc pla pantalla amunt, poseu-la cap avall per silenciar les trucades i aturar la vibració i la llum intermitent de notificació.</string>
     <string name="turnover_mute_title">Silencia la trucada girant</string>
     <string name="undefined">Cap</string>
+    <string name="unfold_close_camera_pref_summary">Desplegueu el dispositiu durant una videotrucada per desactivar la càmera</string>
+    <string name="unfold_close_camera_pref_title">Desplega per desactivar la càmera</string>
+    <string name="unfold_speaker_pref_summary">Desplegueu el dispositiu durant una trucada per activar l\'altaveu</string>
+    <string name="unfold_speaker_pref_title">Desplega per utilitzar l\'altaveu</string>
     <string name="unknown">Desconegut</string>
     <string name="unlock_failed">Sol·licitud de desbloqueig de xarxa incorrecta.</string>
     <string name="unlock_success">El desbloqueig de la xarxa SIM ha tingut èxit.</string>
@@ -2388,6 +2400,7 @@ Les trucades d'emergència només són possibles a les zones amb cobertura cel·
     <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
     <string name="wapi_yes">sí</string>
     <string name="wfc_provisioned_switch_string">Provisió de trucades wifi</string>
+    <string name="wfcmode_ims_preferred">Prefereix IMS</string>
     <string name="wfcmode_mobile_preferred">Preferència a xarxes mòbils</string>
     <string name="wfcmode_wifi_only">Només Wi-Fi</string>
     <string name="wfcmode_wifi_preferred">Preferentment la Wi-Fi</string>

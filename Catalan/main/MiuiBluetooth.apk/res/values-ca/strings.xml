@@ -361,6 +361,7 @@ Protocol de connexió més ràpid."</string>
     <string name="headset_device_error_box_close">L\'estoig de càrrega està desactivat</string>
     <string name="headset_device_error_disconnect">Tots dos auriculars desconnectats. Tanqueu l\'estoig de càrrega i torneu-la a obrir per tornar a iniciar l\'actualització.</string>
     <string name="headset_device_error_failed">"No es pot actualitzar"</string>
+    <string name="headset_device_error_multconnect">"No es pot actualitzar quan hi ha diversos dispositius connectats"</string>
     <string name="headset_device_error_no_device">Falta almenys un auricular a l\'estoig de càrrega</string>
     <string name="headset_device_error_single_device">"No es pot actualitzar un auricular. Torneu a vincular-los."</string>
     <string name="headset_device_sync_donot_move_device">S\'està sincronitzant… Espereu fins que s\'acabi la sincronització abans d\'utilitzar els auriculars.</string>

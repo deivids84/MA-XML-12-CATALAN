@@ -42,6 +42,7 @@
     <string name="atrace_saving">S\'està desant el registre de traces…</string>
     <string name="atrace_start">S\'està enregistrant el registre de traces…</string>
     <string name="base_info">Informació base</string>
+    <string name="checking_intranet">S\'està comprovant la connexió d\'intranet, espereu...</string>
     <string name="cloud_addr_info">Informació del núvol</string>
     <string name="cloud_china_addr">Actualitza les dades del servidor xinès</string>
     <string name="cloud_international_addr">Actualitza les dades del servidor internacional</string>
@@ -62,8 +63,10 @@
 L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
     <string name="config_suggest_suffix_title">Estalvi de bateria (recomanat)</string>
     <string name="confirm">D\'acord</string>
+    <string name="connect_intranet_hint">Connecteu-vos a la intranet</string>
     <string name="copy">Còpia</string>
     <string name="current_cloud_addr_is">L\'adreça del servidor de control del núvol és:</string>
+    <string name="delete_data_confirm">Confirmació de la supressió d\'aquestes dades</string>
     <string name="empty_title_apps_container_list">Sense aplicacions</string>
     <string name="enable_sleep_mode">Activeu el mode suspensió per optimitzar l\'ús de la bateria a la nit</string>
     <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
@@ -86,6 +89,7 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="high_temp_state_message">El dispositiu s\'està sobreescalfant. Es restringiran les dades mòbils, els punts d\'accés Wi-Fi, el GPS i la càmera.</string>
     <string name="hints_loading_text">Un moment…</string>
     <string name="important_warning">Atenció</string>
+    <string name="insert_data">Insereix les dades</string>
     <string name="lasttime_applist_cloud">Aplicacions actualitzades:</string>
     <string name="lasttime_feature_cloud">Característiques actualitzades:</string>
     <string name="message_i_know">Entesos</string>
@@ -97,6 +101,7 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Això és tot per ara"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No s'han pogut carregar els elements"</string>
+    <string name="modify_data">Modifica les dades</string>
     <string name="nonui_mode_config_description">"No s'encendrà la pantalla per a notificacions, desactivarà la llum de notificació, l'empremta digital i els controls tàctils quan MIUI detecti que no esteu utilitzant el dispositiu."</string>
     <string name="nonui_mode_config_title">Mode no interactiu</string>
     <string name="not_set">No configurat</string>
@@ -132,6 +137,7 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="pref_config_title">Optimització del rendiment</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy">Política de privadesa</string>
+    <string name="save_data">Desa les dades</string>
     <string name="scenario_policies_summary">Aplica diferents estratègies d\'estalvi d\'energia per a diferents escenaris.</string>
     <string name="scenario_policies_title">Estratègies intel·ligents</string>
     <string name="scenario_policies_warmcontrol">Control de temperatura</string>
@@ -147,6 +153,8 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="sleepmode_privacy_link">Obtén més informació sobre la privadesa i la seguretat</string>
     <string name="sleepmode_privacy_title">Mode suspensió</string>
     <string name="sucess">Fet</string>
+    <string name="thermal_cancel">NO</string>
+    <string name="thermal_confirm">SÍ</string>
     <string name="update_profile_failture_not_connect_wifi">"No s'ha pogut actualitzar. Connecteu-vos a la Wi-Fi i torneu-ho a provar."</string>
     <string name="update_profile_sucess">S\'ha actualitzat des del servidor correctament</string>
     <string name="v7_preference_off">OFF</string>

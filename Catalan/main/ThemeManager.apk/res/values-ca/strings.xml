@@ -562,6 +562,7 @@ mm"</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">D\'acord</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"No tornis a mostrar-ho"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Problemes de compatibilitat</string>
+    <string name="multiwindow_no_support_icon">"No es poden canviar les icones mentre s'utilitza la pantalla dividida"</string>
     <string name="network_exception">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="new_resource_price_unit">Jo</string>
     <string name="night">Vespre</string>

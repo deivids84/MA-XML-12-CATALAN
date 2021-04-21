@@ -2932,6 +2932,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
     <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de la privadesa</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
+    <string name="fingerprint_base_title">Empremta %s</string>
     <string name="fingerprint_delete_message">Voleu suprimir aquesta empremta digital?</string>
     <string name="fingerprint_delete_title">"Suprimeix '%1$s'"</string>
     <string name="fingerprint_double_tap">Sensor d’empremtes amb doble toc</string>
@@ -2942,6 +2943,7 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="fingerprint_first_open_screen_password_tittle">Empremta (primer cal establir la contrasenya de la pantalla de bloqueig)</string>
     <string name="fingerprint_for_keyguard_disabled">La configuració de seguretat ha desactivat l\'empremta.</string>
     <string name="fingerprint_gesture_screen_title">Passeu l\'empremta</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">Desat com a \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">Introduïu la contrasenya</string>
     <string name="fingerprint_identify_msg">S\'està escanejant l\'empremta&#8230;</string>
     <string name="fingerprint_identify_try_again_msg">"No s'ha pogut llegir l'empremta, torneu-hi"</string>
@@ -3140,6 +3142,8 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
     <string name="freeform_guide_notification_drop_down_summary">Mantingueu premut i, a continuació, tireu cap avall la barra d’acció d’una notificació</string>
     <string name="freeform_guide_notification_drop_down_title">Obertura de finestres flotants</string>
     <string name="freeform_guide_settings">Finestres flotants</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Llisqueu des de la part inferior de la pantalla fins a l\'extrem superior dret de la pantalla</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Lliscament a finestres flotants</string>
     <string name="freeform_guide_slide_up_to_close_summary">Feu lliscar el dit des de la barra d’acció d’una finestra flotant</string>
     <string name="freeform_guide_slide_up_to_close_title">Tancament de finestres flotants</string>
     <string name="freeform_vedio_description">"· Manteniu premuda la tecla i, a continuació, elimineu una notificació per obrir-la en una finestra flotant.
@@ -3314,6 +3318,22 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="header_category_wireless_networks">Xarxa</string>
     <string name="header_data_and_synchronization">Dades i sincronització</string>
     <string name="headset_connectiong">S\'està connectant…</string>
+    <string name="headset_find_both">Ambdós</string>
+    <string name="headset_find_cancel">Cancel·la</string>
+    <string name="headset_find_connected">Connectat</string>
+    <string name="headset_find_disconnect">No connectat</string>
+    <string name="headset_find_handle_tip">Toqueu per reproduir l\'alarma</string>
+    <string name="headset_find_left">Esquerra</string>
+    <string name="headset_find_notify_connected">Connectat</string>
+    <string name="headset_find_notify_disconnect">Desconnectat. Connecteu-vos i torneu-ho a provar.</string>
+    <string name="headset_find_play_warning">Sembla que almenys un dels auriculars és a l’orella. Si reproduïu l’alarma ara, us pot danyar l\'audició. Traieu-vos els auriculars de les orelles abans de continuar.</string>
+    <string name="headset_find_playing">S\'està reproduint…</string>
+    <string name="headset_find_query_play">Reprodueix</string>
+    <string name="headset_find_right">Dreta</string>
+    <string name="headset_find_tip">Els auriculars haurien d’estar a prop i connectats a aquest dispositiu perquè els trobeu. Si reproduïu l’alarma mentre hi ha almenys un auricular a l’orella, us pot danyar l’audició.</string>
+    <string name="headset_find_tip_title">Atenció</string>
+    <string name="headset_find_title">Trobeu els auriculars</string>
+    <string name="headset_find_voice_warning">Advertiment de volum alt</string>
     <string name="headset_notification_switch_summary">Mostra l’estat al giny de l\'àrea de notificacions quan els auriculars estan connectats</string>
     <string name="headset_notification_switch_title">Giny de l\'àrea de notificacions</string>
     <string name="headset_remove_message">Voleu desvincular el dispositiu?</string>
@@ -4306,9 +4326,12 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_active">Energètic</string>
     <string name="miheadset_adaptive">Adaptatiu</string>
     <string name="miheadset_ancClosed">Desactivat</string>
+    <string name="miheadset_ancDepth">Profund</string>
+    <string name="miheadset_ancEquilibrium">Equilibrat</string>
     <string name="miheadset_ancHigh">Avió</string>
     <string name="miheadset_ancLow">Oficina</string>
     <string name="miheadset_ancMedium">Diàriament</string>
+    <string name="miheadset_ancMild">Clar</string>
     <string name="miheadset_anc_indicate">Connecta i vincula els auriculars</string>
     <string name="miheadset_audio_mode">Qualitat d\'àudio</string>
     <string name="miheadset_audio_mode_high">Fort</string>
@@ -4330,6 +4353,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_double_click_key_mode">Doble toc</string>
     <string name="miheadset_double_click_left">Feu doble toc a l\'auricular esquerre</string>
     <string name="miheadset_double_click_right">Feu doble toc a l\'auricular dret</string>
+    <string name="miheadset_double_press_left">Doble pulsació a l\'auricular esquerra</string>
+    <string name="miheadset_double_press_right">Doble pulsació a l\'auricular dret</string>
     <string name="miheadset_enhanceVoice">Millora la veu</string>
     <string name="miheadset_enhence_high">Aguts millorats</string>
     <string name="miheadset_enhence_low">Baixos millorats</string>
@@ -4342,8 +4367,10 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_fitness_check_result_dialog1">Col·loqueu-vos els auriculars a les dues orelles abans de començar la prova.</string>
     <string name="miheadset_fitness_check_result_dialog2">Finalitzeu la trucada actual abans de començar la prova.</string>
     <string name="miheadset_fitness_check_result_dialog_title">Atenció</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">Reajusta l\'auricular</string>
     <string name="miheadset_fitness_check_result_not_ok">Mal ajust</string>
     <string name="miheadset_fitness_check_result_ok">Bon ajust</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">Reajusta l\'auricular</string>
     <string name="miheadset_fitness_check_result_summary1">Aquest ajust funciona molt bé per a vosaltres.</string>
     <string name="miheadset_fitness_check_result_summary2">Ajusteu o proveu una punta d’orella diferent i torneu a provar.</string>
     <string name="miheadset_fitness_check_start">Inicia</string>
@@ -4354,8 +4381,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_game_mode">Mode de joc</string>
     <string name="miheadset_game_mode_summary">Reduïu el retard d’àudio mentre jugueu</string>
     <string name="miheadset_ignore">Desemparella</string>
-    <string name="miheadset_in_ear_check">Detecta la presència de l\'oïda</string>
-    <string name="miheadset_in_ear_check_summary">Poseu en pausa i repreneu la reproducció automàticament mentre porteu o traieu els auriculars</string>
+    <string name="miheadset_in_ear_check">Detecció intrauricular</string>
+    <string name="miheadset_in_ear_check_summary">"Posa en pausa l'àudio quan es treuen els auriculars i es reprèn automàticament quan es tornen a posar"</string>
     <string name="miheadset_key_config_ANC_list_title">Control de soroll</string>
     <string name="miheadset_key_config_call_ai">Assistent de veu</string>
     <string name="miheadset_key_config_close">Desactivat</string>
@@ -4389,6 +4416,8 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_transparent">Transparència</string>
     <string name="miheadset_transparentMode">Transparència</string>
     <string name="miheadset_triple_click_key_mode">Triple toc</string>
+    <string name="miheadset_triple_press_left">Triple pulsació a l\'auricular esquerra</string>
+    <string name="miheadset_triple_press_right">Triple pulsació a l\'auricular dret</string>
     <string name="miheadset_unpair_device_text">%1$s es desvincularà de tots els dispositius associats a aquest compte Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Fitxers diversos</string>
@@ -6025,6 +6054,7 @@ Vés a Administrador de fitxers &gt; Documents per provar aquesta funció.</stri
     <string name="screen_projection_sample_title">Demostracions</string>
     <string name="screen_projection_title">Emet</string>
     <string name="screen_reader_category_title">Lectors de pantalla</string>
+    <string name="screen_recorder_title">Enregistrador de Pantalla</string>
     <string name="screen_resolution_dialog_title">Canvia la resolució</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -7925,6 +7955,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»"</string>
     <string name="voice_search_settings_title">Cerca amb la veu</string>
     <string name="voice_service_preference_section_title">Serveis d\'entrada de veu</string>
     <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
+    <string name="voip_assistant_settings">Assistent de VoIP</string>
     <string name="volte_5G_limited_text">"Això també desactiva la connexió 5G.
 Durant una trucada de veu, no podeu utilitzar Internet i és possible que algunes aplicacions no funcionin."</string>
     <string name="volte_5G_limited_title">Desactiveu VoLTE?</string>
@@ -8797,8 +8828,8 @@ Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="xiaomi_cloud_service_disabled">Desactivat</string>
     <string name="xiaomi_cloud_service_unknown">Desconegut</string>
     <string name="xiaomi_custom_input_method">Personalitzat per a Xiaomi</string>
-    <string name="xiaomi_hp_location">habilita una ubicació altament precisa</string>
-    <string name="xiaomi_hp_location_description">millora la precisió GNSS accedint a una xarxa d’alta precisió</string>
+    <string name="xiaomi_hp_location">Accés a la ubicació precisa</string>
+    <string name="xiaomi_hp_location_description">La informació d\'ubicació precisa permet una navegació precisa</string>
     <string name="xiaomi_money_service">Les meves monedes</string>
     <string name="xiaomi_router_available_notif_summary">Toqueu per veure més informació.</string>
     <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
