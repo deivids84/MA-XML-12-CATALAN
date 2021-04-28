@@ -50,6 +50,7 @@
     <string name="application_permissions">Permisos de l\'aplicació</string>
     <string name="back">Enrere</string>
     <string name="backup_introduction">Podeu utilitzar aquesta aplicació per fer una còpia de seguretat i restaurar els elements del vostre dispositiu.</string>
+    <string name="boot_video_desc">Veure el món en 2K</string>
     <string name="boot_video_replay">Torna a reproduir</string>
     <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>

@@ -11,7 +11,7 @@
     <string name="freeform_demo_title_finish">Be!</string>
     <string name="freeform_demo_title_skip">Omet</string>
     <string name="freeform_slide_to_small_freeform">Llisqueu a una forma petita</string>
-    <string name="freeform_slide_to_small_freeform_summary">Premeu i llisqueu a la barra d\'acció d\'una finestra flotant fins a l\'extrem superior dret</string>
+    <string name="freeform_slide_to_small_freeform_summary">Premeu i llisqueu fins a la barra d\'acció d\'una finestra flotant fins a l\'extrem superior dret</string>
     <string name="fullscreen_slide_to_small_freeform">Llisqueu a pantalla completa</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Llisqueu el dit des de la part inferior de la pantalla fins a l\'extrem superior dret de la pantalla</string>
     <string name="how_to_close_or_fullscreen_freeform">Tancar finestres flotants o canviar a la pantalla completa</string>

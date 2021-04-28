@@ -2054,6 +2054,10 @@ Interfície UT: %5$s"</string>
     <string name="smart_forwarding_settings_menu_summary">"Quan no es pot accedir a un número, desvia sempre les trucades a l'altre número"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Assegureu-vos que el número que introduïu sigui correcte. En cas contrari, no podreu enviar ni rebre SMS. Poseu-vos en contacte amb el vostre operador per confirmar el vostre número de SMSC."</string>
+    <string name="softap_beacon_protection">Activeu SoftAp Beacon Protection</string>
+    <string name="softap_beacon_protection_summary">Activeu la protecció de la balisa SoftAp mitjançant Hotspot</string>
+    <string name="softap_ocv">Activeu SoftAp OCV</string>
+    <string name="softap_ocv_summary">Activeu SoftAp OCV mitjançant Hotspot</string>
     <string name="speed_label_fast">Ràpid</string>
     <string name="speed_label_medium">Mitjana</string>
     <string name="speed_label_okay">D\'acord</string>
@@ -2453,6 +2457,8 @@ Si seleccioneu preferentment les xarxes mòbils, s'utilitzaran de manera predete
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
     <string name="wifi_limited_connection">Connexió limitada</string>
     <string name="wifi_metered_label">Mesurada</string>
+    <string name="wifi_new_network_auto_connection">Pont SSID - Connexió automàtica</string>
+    <string name="wifi_new_network_auto_connection_summary">Activa els intents de connexió automàtica a un nou SSID de 5 GHz WPA / WPA2-PSK amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la coincidència parcial SSID i BSSID</string>
     <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
     <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
     <string name="wifi_not_in_range">Fora de l\'abast</string>
@@ -2484,6 +2490,8 @@ Comproveu la validesa dels certificats"</string>
 L'emmagatzematge de credencials no es pot activar"</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
+    <string name="wifi_whitelist_roaming">Pont SSID - Lliurament ràpid</string>
+    <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSP WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="wificall_switch_summary">Utilitza la Wi-Fi per fer i rebre trucades sempre que sigui possible</string>
     <string name="wificall_switch_title">Fes les trucades per Wi-Fi</string>
     <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>

@@ -486,7 +486,7 @@ Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
     <string name="no_visiable_calendar_title">Afegeix un compte</string>
     <string name="noon">Migdia</string>
-    <string name="not_set">Sense especificar</string>
+    <string name="not_set">Sense establir</string>
     <string name="notification_channel_name">Recordatoris regulars</string>
     <string name="notification_channel_name_no_sound">Recordatoris silenciats</string>
     <string name="notification_channel_name_no_vibration">Recordatoris sense vibració</string>

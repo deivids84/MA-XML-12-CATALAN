@@ -2011,6 +2011,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
     <string name="custom_color">Personalitzat</string>
     <string name="custom_gesture_title">Gestos personalitzats</string>
     <string name="custom_wifi_name_title">Edita el nom de la Wi-Fi</string>
+    <string name="customize_knock_gesture">Gestos d’articulació personalitzats</string>
     <string name="cutout_mode_always">Mostra sempre el notch</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Algunes aplicacions es poden mostrar incorrectament si personalitzeu la forma en què es mostra el notch.</string>
@@ -2558,6 +2559,7 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="done_button">Fet</string>
     <string name="double_click_power_key">Premeu dues vegades el botó d\'encesa</string>
     <string name="double_click_volume_down_when_lock">Feu doble clic a baixar el volum quan la pantalla estigui bloquejada</string>
+    <string name="double_knock">Feu doble toc</string>
     <string name="double_tap_power_for_camera_suggestion_title">Obre la càmera ràpidament</string>
     <string name="double_tap_power_for_camera_summary">Per obrir la càmera ràpidament, premeu el botó d\'encesa dues vegades. Funciona des de qualsevol pantalla.</string>
     <string name="double_tap_power_for_camera_title">Obriu la càmera ràpidament</string>
@@ -3725,6 +3727,17 @@ Obriu Xiaomi Cloud i restaureu els elements d'allà."</string>
     <string name="keywords_zen_mode_settings">no molestar, planificació, notificacions, bloqueig, silenci, vibració, dormir, feina, concentració, so, silenci, dia, dia laborable, cap de setmana, nit entre setmana, esdeveniment</string>
     <string name="kid_space_settings">Espai per a nens</string>
     <string name="kilobyte_per_second">KB/s</string>
+    <string name="knock_edge_area_invalid">"Aquest gest no funciona a prop de les vores de la pantalla"</string>
+    <string name="knock_guide_dialog_title">Seleccioneu una acció per a aquest gest. Podeu canviar-lo més tard a Configuració &gt; Configuració addicional &gt; Dreceres de botons.</string>
+    <string name="knock_guide_drive_desc">Feu captures de pantalla mentre conduïu</string>
+    <string name="knock_guide_launch_desc">Activeu Mi AI quan el telèfon estigui pla sobre la taula</string>
+    <string name="knock_guide_set_screenshot">Captura de pantalla</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">Podeu activar Mi AI o fer captures de pantalla tocant la pantalla amb els artells</string>
+    <string name="knock_guide_title">Feu doble toc</string>
+    <string name="knock_long_press_horizontal_slid">Premeu i llisqueu horitzontalment amb un artell</string>
+    <string name="knock_slide_shape">Dibuixa un cercle amb un artell</string>
+    <string name="knock_slide_v">Dibuixeu una V amb un artell</string>
     <string name="label_available">Xarxes disponibles</string>
     <string name="label_mi_stats">Anàlisi Mi</string>
     <string name="language_and_input_for_work_category_title">Teclats i eines del perfil de la feina</string>
