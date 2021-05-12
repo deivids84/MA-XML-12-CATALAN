@@ -36,6 +36,7 @@
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"No s'ha pogut desbloquejar. %s."</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="close">Tanca</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
@@ -174,6 +175,7 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Dia dels Difunts</string>

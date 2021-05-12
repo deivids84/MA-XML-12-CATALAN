@@ -26,6 +26,7 @@
     <string name="dialog_stop_desc">Podeu pausar o aturar la baixada, feu la vostra elecció.</string>
     <string name="dialog_stop_title">Voleu aturar la baixada?</string>
     <string name="dialog_twrp">El vostre emmagatzematge intern està xifrat. Després de reiniciar el dispositiu per recuperar-lo, introduïu la contrasenya de desbloqueig del dispositiu per continuar.</string>
+    <string name="downgrade_warning">S\'ha detectat i bloquejat la versió anterior mitjançant OTA. Per no deixar-vos trencar el sistema!</string>
     <string name="download_done">S\'ha baixat correctament!</string>
     <string name="download_fail">S\'ha produït un error durant la baixada!</string>
     <string name="download_fail_desc">La suma MD5 no coincideix…</string>

@@ -172,6 +172,10 @@
         <item quantity="other">%1$d contactes amb informació parcialment idèntica</item>
         <item quantity="one">%1$d contacte amb informació parcialment idèntica</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionats</item>
         <item quantity="one">%1$d seleccionat</item>

@@ -85,7 +85,6 @@
     <string name="bugreport_tool_log_dumping_title">S\'està creant l\'informe d\'error</string>
     <string name="catch_full_log_action_cancel">Cancel·la</string>
     <string name="catch_full_log_action_complete">Finalitza i puja</string>
-    <string name="catch_full_log_action_start">Genera el registre</string>
     <string name="catch_full_log_add_original_photo">Afegiu una imatge original o un breu vídeo</string>
     <string name="catch_full_log_add_photo">Afegeix foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si el problema del qual esteu informant està relacionat amb la qualitat de la imatge de la càmera, afegiu-hi una foto original de mostra (sense retallar) per ajudar-nos a localitzar el problema. Voleu afegir-la ara?"</string>
@@ -94,9 +93,6 @@
     <string name="catch_full_log_dump_hprof_failed">"No s'ha pogut generar el registre d'alentiments"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Torneu a la funció de què voleu informar i reproduir.
 2. Torneu a aquesta pàgina i toqueu \"Finalitza i puja\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Toqueu \"Genera el registre\".
-2. Torneu a la funció que voleu informar i reproduïu-la.
-3. Torneu a aquesta pàgina i toqueu \"Finalitza i puja\"."</string>
     <string name="catch_full_log_item_content_title">Passos</string>
     <string name="catch_full_log_item_title_audio">Àudio, enregistrament de so i àudio de trucades</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>

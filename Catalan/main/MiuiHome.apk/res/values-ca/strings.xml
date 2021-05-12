@@ -207,6 +207,7 @@
     <string name="defalut_launcher_title">Llançador per defecte</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Jocs</string>
+    <string name="default_folder_title_hot">Aplicacions populars</string>
     <string name="default_folder_title_meitu">Aplicacions de Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Altres aplicacions</string>
@@ -222,6 +223,7 @@
     <string name="delete_category_dialog_title">Voleu suprimir aquesta categoria?</string>
     <string name="delete_screen">Elimina la pantalla</string>
     <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
+    <string name="deleted_system_applications">Aplicacions del sistema desinstal·lades</string>
     <string name="deselect_all">Desselecciona-ho tot</string>
     <string name="dialog_work_profile_button_1">Pròxim</string>
     <string name="dialog_work_profile_button_2">Ho tinc</string>

@@ -40,6 +40,14 @@
         <item quantity="other">S\'han afegit %d jocs</item>
         <item quantity="one">S\'ha afegit %d joc</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">%d aplicació</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">%d aplicació</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Permès %3$d vegades entre %1$s i %2$s</item>
         <item quantity="one">Permès %3$d vegada entre %1$s i %2$s</item>
@@ -107,10 +115,6 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">Desinstal·la %d aplicacions</item>
         <item quantity="one">Desinstal·la %d aplicació</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Hi ha actualitzacions per a %d aplicacions</item>
-        <item quantity="one">Hi ha actualitzacions per a %d aplicació</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">S\'ha utilitzat fa %d dies</item>

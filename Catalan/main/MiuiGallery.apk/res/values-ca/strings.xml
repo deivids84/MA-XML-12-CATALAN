@@ -281,7 +281,7 @@
     <string name="backup_no_wifi_btn_text">Dades d\'ús</string>
     <string name="backup_no_wifi_desc">Podeu reprendre la sincronització mentre s\'utilitzen les dades mòbils</string>
     <string name="backup_no_wifi_title">Toqueu per a connectar a la Wi-Fi</string>
-    <string name="backup_only_in_wifi">Utilitza només el Wi-Fi per fer les còpies de seguretat de fotos i vídeos</string>
+    <string name="backup_only_in_wifi">Utilitzeu només la Wi-Fi per sincronitzar fotos i vídeos</string>
     <string name="backup_only_in_wifi_summary">No s\'utilitzen mai les dades mòbils per fer les còpies de seguretat de fotos o vídeos</string>
     <string name="backup_only_wifi_dialog_message">Voleu fer servir les dades mòbils per fer una còpia de seguretat de les fotos i vídeos?</string>
     <string name="backup_pause">Pausa la còpia de seguretat</string>
@@ -450,6 +450,10 @@
     <string name="cloud_bacup_disable_processing">S\'està processant…</string>
     <string name="cloud_camera_display_name">Fotos de la càmera</string>
     <string name="cloud_cancel_authorizing_to_device">S\'està anul·lant l\'autorització…</string>
+    <string name="cloud_full_space_tip_message">Actualitzeu el pla d’emmagatzematge al núvol per poder sincronitzar totes les fotos i els vídeos amb el núvol.</string>
+    <string name="cloud_full_space_tip_negative">Ara no</string>
+    <string name="cloud_full_space_tip_positive">Actualitza</string>
+    <string name="cloud_full_space_tip_title">Emmagatzematge en el núvol insuficient</string>
     <string name="cloud_guide_auto_backup_title">Trieu àlbums per fer-ne còpia de seguretat</string>
     <string name="cloud_guide_login_title">Còpia de seguretat automàtica de fotos i vídeos</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -773,6 +777,7 @@ estan disponible"</string>
     <string name="filter_category_texture">Lilt</string>
     <string name="filter_category_travel">Viatges</string>
     <string name="filter_food_caramel">Caramel</string>
+    <string name="filter_food_orangeflavor">Mandarina</string>
     <string name="filter_general_blackice">Gel negre</string>
     <string name="filter_general_blackwhite">B/N</string>
     <string name="filter_general_delicious">Menjar</string>
@@ -783,6 +788,7 @@ estan disponible"</string>
     <string name="filter_general_lilt">Ritme</string>
     <string name="filter_general_movie">Cinema</string>
     <string name="filter_general_nature">Natura</string>
+    <string name="filter_general_past">Abans</string>
     <string name="filter_general_pink">Rosa</string>
     <string name="filter_general_portrait">Vertical</string>
     <string name="filter_general_rise">Augment</string>
@@ -826,15 +832,18 @@ estan disponible"</string>
     <string name="filter_popular_coldsmoke">Boira fresca</string>
     <string name="filter_popular_comic">Anime</string>
     <string name="filter_popular_dream">Revetlla</string>
+    <string name="filter_popular_gingertea">Gingebre</string>
     <string name="filter_popular_hill">Turons</string>
     <string name="filter_popular_humanity">Documental</string>
     <string name="filter_popular_icesnow">Nevada</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Tinta</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Porpra</string>
     <string name="filter_popular_shallow_summer">Juny</string>
     <string name="filter_popular_smokegreen">Sàlvia</string>
     <string name="filter_popular_watergreen">Esmeralda</string>
+    <string name="filter_popular_windchime">Campaneta</string>
     <string name="filter_popular_wintersun">Mig hivern</string>
     <string name="filter_portrait_greyish">Cendra</string>
     <string name="filter_portrait_hint">Enfocament del color</string>
@@ -913,6 +922,7 @@ estan disponible"</string>
     <string name="filter_sky_yunmeng">Fantasia</string>
     <string name="filter_sky_yunxu">Cirrus</string>
     <string name="filter_texture_shadow">Capvespre</string>
+    <string name="filter_travel_charlotte">Charlotte</string>
     <string name="finish_create_baby_album_toast">Àlbum creat amb Mi Cloud per a \"%s\"</string>
     <string name="finish_fill_baby">Crea</string>
     <string name="first_time_add_video_to_secret_tips">Actualitza la Galeria per poder afegir vídeos a l\'àlbum privat</string>
@@ -1180,6 +1190,7 @@ per personalitzar la galeria"</string>
     <string name="mi_mover_working_desc">Mi Mover està transferint elements…</string>
     <string name="micloud_introduce">Còpia de seguretat automàtica de fotos i vídeos (es necessita un compte Mi)</string>
     <string name="midnight">Nit</string>
+    <string name="mishare_all_devices">Tots els dispositius</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -1759,7 +1770,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="search_backup_now">Activa</string>
     <string name="search_backup_sub_title">Activeu per trobar més imatges</string>
     <string name="search_backup_title">Sincronitza amb Mi Cloud</string>
-    <string name="search_clear_histories">Esborra</string>
+    <string name="search_clear_histories">Neteja l\'historial de cerques</string>
     <string name="search_connection_error">"No es pot connectar a la xarxa"</string>
     <string name="search_connection_error_and_set">Toqueu per comprovar la configuració de xarxa</string>
     <string name="search_empty_title">Cerqueu fotos amb persones, llocs i objectes concrets a la Galeria</string>
@@ -2014,6 +2025,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="sync_off_title">Activeu la sincronització amb Mi Cloud per realitzar còpies de seguretat de fotos i vídeos automàticament</string>
     <string name="sync_pending_title">Se sincronitzarà automàticament</string>
     <string name="sync_state_unknow">S\'està obtenint informació</string>
+    <string name="synced_photo_video_count">%1$s i %2$s sincronitzats</string>
     <string name="synced_title">Còpia de seguretat de fotos i vídeos correcta</string>
     <string name="syncing_gprs_title">Ús de dades mòbils per realitzar còpies de seguretat d\'elements</string>
     <string name="syncing_metadata_title">Sincronització de dades del Mi Cloud</string>

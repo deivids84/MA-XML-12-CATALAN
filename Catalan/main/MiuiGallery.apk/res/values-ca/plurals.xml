@@ -280,6 +280,10 @@
         <item quantity="other">%1$d vídeos pendents de sincronització</item>
         <item quantity="one">%1$d vídeo pendent de sincronització</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Total %1$d elements</item>
         <item quantity="one">Total %1$d element</item>
@@ -500,6 +504,14 @@
         <item quantity="other">%d elements</item>
         <item quantity="one">%d element</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">%d fotos sincronitzades</item>
+        <item quantity="one">%d foto sincronitzada</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">%d vídeos sincronitzats</item>
+        <item quantity="one">%d vídeo sincronitzat</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"No podreu restaurar els %d elements seleccionats si els suprimiu. Voleu suprimir-los de totes maneres?"</item>
         <item quantity="one">"No podreu restaurar l'element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
@@ -523,5 +535,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fitxers</item>
         <item quantity="one">%1$d fitxer</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
     </plurals>
 </resources>

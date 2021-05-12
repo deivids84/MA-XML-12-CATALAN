@@ -1456,6 +1456,7 @@ Podeu desactivar aquesta funció a Configuració &gt; Bluetooth &gt; Dispositius
     <string name="bt_leaudio_open_dialog_summary">"No podreu connectar diversos dispositius als auriculars quan LC3 estigui activat. La resta de dispositius connectats es desconnectaran si activeu aquesta funció. Voleu activar LC3 de totes maneres?"</string>
     <string name="bt_leaudio_open_dialog_title">Atenció</string>
     <string name="bt_leaudio_summary">Experiència d\'àudio d\'alta qualitat</string>
+    <string name="bt_lhdc_declaration">Quan un dispositiu Bluetooth admet LHDC, es connectarà per defecte. LHDC permet reproduir àudio d’alta qualitat i redueix la latència durant els jocs, però també augmenta el consum d’energia. Es poden produir problemes durant la reproducció a causa de les limitacions del maquinari Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">LHDC permet reproduir àudio d\'alta qualitat i redueix la latència durant els jocs, però també augmenta el consum d\'energia. Aquesta funció es pot desactivar a la Configuració.</string>
     <string name="bt_lhdc_dialog_title">El dispositiu actual admet LHDC, que s\'ha connectat de manera per defecte:</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC permet reproduir àudio d\'alta qualitat i redueix la latència durant els jocs, però també augmenta el consum d\'energia. Es poden produir problemes durant la reproducció a causa de les limitacions del maquinari Bluetooth.</string>
@@ -2817,6 +2818,13 @@ Per obtenir més informació, contacteu amb l'administrador de l'organització."
     <string name="exterior">Esquema de colors</string>
     <string name="external_code_size_label">Codi a la memòria externa</string>
     <string name="external_data_size_label">Dades a la memòria externa</string>
+    <string name="external_ram_dialog_btn_cancel">Més tard</string>
+    <string name="external_ram_dialog_btn_ok">Reinicia</string>
+    <string name="external_ram_dialog_message">Reinicieu el dispositiu per aplicar els canvis.</string>
+    <string name="external_ram_dialog_title">Reinicia el dispositiu</string>
+    <string name="external_ram_summary">"Afegeix %1$s %2$s de RAM ocupant emmagatzematge. Utilitzeu aquesta funció només quan hi hagi prou espai d'emmagatzematge disponible al dispositiu."</string>
+    <string name="external_ram_title">Extensió de memòria</string>
+    <string name="external_ram_toast">"No es pot utilitzar l'extensió de memòria perquè no hi ha prou espai d'emmagatzematge"</string>
     <string name="external_source_switch_title">Permet d\'aquesta font</string>
     <string name="external_source_trusted">Permès</string>
     <string name="external_source_untrusted">No permès</string>
@@ -3319,6 +3327,7 @@ Quan activeu la còpia de seguretat automàtica, les dades del dispositiu i de l
     <string name="header_category_system">Sistema</string>
     <string name="header_category_wireless_networks">Xarxa</string>
     <string name="header_data_and_synchronization">Dades i sincronització</string>
+    <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">S\'està connectant…</string>
     <string name="headset_find_both">Ambdós</string>
     <string name="headset_find_cancel">Cancel·la</string>
@@ -4418,6 +4427,7 @@ No podeu revertir aquesta acció."</string>
     <string name="miheadset_moreSettingsInAi">Configuració addicional</string>
     <string name="miheadset_multi_connect_mode">Multipunt</string>
     <string name="miheadset_multi_connect_mode_summary">Connecteu-vos a diversos dispositius alhora</string>
+    <string name="miheadset_network_not_available">Comproveu la configuració de la xarxa i torneu-ho a provar</string>
     <string name="miheadset_next">Pista següent</string>
     <string name="miheadset_ok_device">D\'acord</string>
     <string name="miheadset_openAnc">Cancel·lació de soroll</string>
@@ -5275,6 +5285,8 @@ Llegiu i accepteu %s abans d'utilitzar aquest servei."</string>
     <string name="permission_manage_title">%s permisos</string>
     <string name="permission_manager">Permisos</string>
     <string name="permission_mgr">Permisos</string>
+    <string name="permission_records">Ús de permisos</string>
+    <string name="permission_records_summary">Resum de com les aplicacions utilitzen els permisos</string>
     <string name="permission_settings_summary">Gestió de les autoritzacions d\'ubicació, emmagatzematge, telèfon, missatges i contactes.</string>
     <string name="permission_settings_title">Permisos de l\'aplicació</string>
     <string name="permissions_label">Permisos</string>

@@ -92,7 +92,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
     <string name="activate_popup_desc_find_device_postfix">Pot ser que s\'enviï un SMS d\'activació després de canviar les targetes SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Per activar %3$s, introduïu el número de telèfon de la SIM %2$d. Si substituïu aquesta targeta SIM, s\'enviarà un altre SMS d\'activació.</string>
     <string name="activate_popup_desc_intl_sim_card">S\'enviaran SMS internacionals per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per activar %2$s, s’enviarà &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament internacional&lt;/b&gt;El vostre operador us cobrarà aquest missatge.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per activar %2$s, s’enviarà &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament internacional&lt;/b&gt; El vostre operador us cobrarà aquest missatge.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Consulteu el Manual d\'usuari del compte &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Mi&lt;/a&gt; si teniu cap pregunta.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">S\'enviaran 2 missatges de text (nacional i internacional) per activar %s. El vostre operador podria aplicar-vos càrrecs.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per activar %3$s, s’enviaran &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament nacionals&lt;/b&gt; i &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS de pagament internacionals&lt;/b&gt; El vostre operador us cobrarà aquests missatges.</string>
@@ -169,6 +169,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
     <string name="app_name">Servei d\'activació SIM de Xiaomi</string>
     <string name="checking_client">S\'està comprovant l’entorn d’activació</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="close">Tanca</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="early_morning">Matí</string>
@@ -278,6 +279,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="sim_activated_failed_msg">"No s'ha pogut activar el servei. Toqueu per tornar-ho a provar."</string>
     <string name="sim_unactivated_feature_title">"%s no s'ha activat"</string>
     <string name="sim_unactivated_msg">"Aquest servei no està activat. Toqueu per tornar-ho a provar."</string>

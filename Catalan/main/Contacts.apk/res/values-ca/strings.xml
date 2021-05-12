@@ -57,7 +57,6 @@
     <string name="all_list_empty">No hi ha contactes</string>
     <string name="am">AM</string>
     <string name="antispam_mark_my_contribution">Mostra a altres usuaris que he reportat aquest número.</string>
-    <string name="app_name">Preferència</string>
     <string name="attach_photo_dialog_title">Foto del contacte</string>
     <string name="audio_chat">Xat de veu</string>
     <string name="auto_nickname">Automàtic</string>
@@ -304,6 +303,7 @@
     <string name="clear_default">Esborra els valors per defecte</string>
     <string name="clear_digits">Elimina numero telefònic</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="close">Tanca</string>
     <string name="close_dial_pad_description">Tanca el teclat</string>
     <string name="cloud_antispam_mark">Marca com a correu brossa</string>
     <string name="cloud_antispam_marked">Marcat</string>
@@ -393,6 +393,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="custom_list_filter">Definir una vista personalitzada</string>
     <string name="custom_nickname_hint">Introduïu una sobrenom</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="date_year_toggle">Proporcionar un any</string>
     <string name="default_ringtone">To de trucada per defecte</string>
     <string name="deleteCloudConfirmationDetail">Voleu suprimir la informació de contacte de %s tant del núvol com d\'aquest dispositiu?</string>
@@ -704,10 +705,13 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Surt</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -972,6 +976,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="select_all">Selecciona-ho tot</string>
     <string name="select_groups">Grups seleccionats</string>
     <string name="select_vcard_title">Seleccioneu una vCard</string>
+    <string name="send">Envia</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Aquesta drecera ja existeix</string>
     <string name="send_contact_shortcut_todesktop_failed">"No s'ha pogut col·locar la drecera a la pantalla d'inici"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"No es poden col·locar més dreceres a la pantalla d'inici"</string>

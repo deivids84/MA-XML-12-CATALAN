@@ -314,6 +314,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="disabled">Desactivat</string>
     <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
     <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
+    <string name="do_not_show_again">"No ho tornis a mostrar"</string>
     <string name="duplicate_video_call_not_allowed">No es poden afegir més trucades</string>
     <string name="enable_account_preference_title">Comptes de trucada</string>
     <string name="enable_adb">Depuració USB activada</string>
@@ -517,6 +518,11 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
     <string name="runningservices_settings_title">Tasques en execució</string>
     <string name="saved_network">Desat per %1$s</string>
+    <string name="scam_cancle">Cancel·la</string>
+    <string name="scam_message">"Esteu configurant el desviament de trucades. Després d'això, totes les trucades entrants seran contestades pel número de telèfon %1$s Si no teniu aquest número de reenviament, és possible que correu el risc d’exposar la vostra informació personal o de comprometre la seguretat de la vostra propietat. Utilitzeu aquesta funció amb precaució."</string>
+    <string name="scam_message_2">**21*El número de desviament# és el codi de desviament de trucades. Poseu-vos en contacte amb el vostre operador si teniu cap pregunta.</string>
+    <string name="scam_ok">Marcador</string>
+    <string name="scam_title">Recordatori de risc de frau</string>
     <string name="screen_zoom_summary_custom">Personalitzat (%d)</string>
     <string name="screen_zoom_summary_default">Per defecte</string>
     <string name="screen_zoom_summary_extremely_large">El més gran</string>
@@ -557,10 +563,6 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="show_touches">Mostra els tocs</string>
     <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
     <string name="simulate_color_space">Simula l\'espai de color</string>
-    <string name="softap_beacon_protection">Habilita la protecció contra balises SoftAp</string>
-    <string name="softap_beacon_protection_summary">Habilita la protecció contra balises SoftAp mitjançant hotspot</string>
-    <string name="softap_ocv">Habilita l\'OCV softAp</string>
-    <string name="softap_ocv_summary">Habilita l\'OCV SoftAp mitjançant hotspot</string>
     <string name="speed_label_fast">Ràpida</string>
     <string name="speed_label_medium">Mitjana</string>
     <string name="speed_label_okay">D\'acord</string>
@@ -705,8 +707,6 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
     <string name="wifi_limited_connection">Connexió limitada</string>
     <string name="wifi_metered_label">Mesurada</string>
-    <string name="wifi_new_network_auto_connection">PontS SSID - Connexió automàtica</string>
-    <string name="wifi_new_network_auto_connection_summary">Habilita els intents de connexió automàtica a un nou SSID WPA/WPA2-PSK 5GHz amb les credencials SSID connectades actuals WPA/WPA2-PSK 2GHz a la coincidència parcial SSID i BSSID</string>
     <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
     <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
     <string name="wifi_not_in_range">Fora de l\'abast</string>
@@ -738,8 +738,6 @@ Comproveu la validesa dels certificats"</string>
 L'emmagatzematge de credencials no es pot activar"</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
-    <string name="wifi_whitelist_roaming">Pont SSID - Lliurament ràpid</string>
-    <string name="wifi_whitelist_roaming_summary">Habilita la itinerància entre diferents APs SSID WPA/WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="zen_alarm_warning">"No sentireu la propera alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la propera alarma %1$s a menys que desactiveu aquesta opció abans"</string>

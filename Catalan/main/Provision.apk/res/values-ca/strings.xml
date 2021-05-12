@@ -50,7 +50,6 @@
     <string name="application_permissions">Permisos de l\'aplicació</string>
     <string name="back">Enrere</string>
     <string name="backup_introduction">Podeu utilitzar aquesta aplicació per fer una còpia de seguretat i restaurar els elements del vostre dispositiu.</string>
-    <string name="boot_video_desc">Veure el món en 2K</string>
     <string name="boot_video_replay">Torna a reproduir</string>
     <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
@@ -58,6 +57,7 @@
     <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament informació de la versió del dispositiu, dades d’identificació del dispositiu (incloses les adreces IMEI / IMSI / MSISDN / MAC, MEID / ICCID) i l'informació aproximada de la ubicació (inclòs l’identificador de l’estació base) a l'operador mitjançant la Wi-Fi, xarxa de dades mòbils o SMS gratuïts. L'operador promet analitzar la informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no revelarà informació rellevant a tercers en cap forma que l’identifiqui personalment. La declaració específica del operador prevaldrà. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="clock_introduction">Podeu utilitzar aquesta aplicació per veure l\'hora, així com utilitzar el temporitzador, el rellotge mundial, el cronòmetre, configurar les alarmes i més.</string>
+    <string name="close">Tanca</string>
     <string name="close_location_service_setting">Podeu triar entre desactivar l’accés a la ubicació a Configuració &gt; Configuració addicional &gt; Privadesa o restringir els permisos per a aplicacions individuals a Seguretat.</string>
     <string name="cm_terms_content">"Per millorar els serveis que li presten, l'operador de xarxa mòbil de la vostra elecció pot carregar les seves dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades. Aquesta informació només s'utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i oferir un contingut més personalitzat. Aquesta informació no serà utilitzada per identificar-vos personalment i no serà revelada a tercers."</string>
     <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
@@ -324,6 +324,7 @@
     <string name="search_menu_title">Cerca</string>
     <string name="security_introduction">Podeu utilitzar aquesta aplicació per netejar la brossa del dispositiu, trobar i neutralitzar els virus, optimitzar el rendiment per a jocs, estalviar bateria, gestionar les aplicacions, permisos i molt més.</string>
     <string name="security_mobile_account_introduction">Per iniciar la sessió i gestionar els comptes del sistema</string>
+    <string name="send">Envia</string>
     <string name="service_agreement">"He llegit i he acceptat els termes i condicions."</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galeria</string>

@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="account_sync_frequency">
-    <item>Manual</item>
-    <item>Cada 15 minuts</item>
-    <item>Cada hora</item>
-    <item>Cada 4 hores</item>
-    <item>Cada 12 hores</item>
-  </string-array>
-  <string-array name="alphabet_table">
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>F</item>
-    <item>G</item>
-    <item>H</item>
-    <item>I</item>
-    <item>J</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>Y</item>
-    <item>Z</item>
-    <item>\#</item>
-  </string-array>
-  <string-array name="alphabet_table_with_starred">
-    <item>!</item>
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>F</item>
-    <item>G</item>
-    <item>H</item>
-    <item>I</item>
-    <item>J</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>Y</item>
-    <item>Z</item>
-    <item>\#</item>
+  <string-array name="additional_cal_dialog_labels">
+    <item>Cap</item>
+    <item>Hijri Samvat</item>
+    <item>Shaka Samvat</item>
+    <item>Vikrami Samvat</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>aquari</item>
@@ -90,10 +30,6 @@
     <item>Només aquest esdeveniment</item>
     <item>Tots els esdeveniments de la sèrie</item>
   </string-array>
-  <string-array name="close_alarm_repeating_labels">
-    <item>Només aquest cop</item>
-    <item>Desactiva la repetició del recordatori</item>
-  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Cap endavant</item>
     <item>Cap endarrere</item>
@@ -108,13 +44,6 @@
     <item>1 dia abans</item>
     <item>2 dies abans</item>
     <item>1 setmana abans</item>
-  </string-array>
-  <string-array name="default_reminder_later_time_labels">
-    <item>5 minuts</item>
-    <item>10 minuts</item>
-    <item>15 minuts</item>
-    <item>30 minuts</item>
-    <item>1 hora</item>
   </string-array>
   <string-array name="delete_repeating_labels">
     <item>Només aquest esdeveniment</item>
@@ -139,6 +68,12 @@
     <item>Gèminis</item>
     <item>21/5 - 21/6</item>
   </string-array>
+  <string-array name="global_criket_match">
+    <item>Internacional</item>
+    <item>IPL</item>
+    <item>Nacional</item>
+    <item>Lligues T20</item>
+  </string-array>
   <string-array name="leo_info">
     <item>lleó</item>
     <item>Lleó</item>
@@ -149,19 +84,19 @@
     <item>Balança</item>
     <item>23/9 - 23/10</item>
   </string-array>
-  <string-array name="open_alarm_repeating_labels">
-    <item>Només aquest cop</item>
-    <item>Estableix la repetició del recordatori</item>
+  <string-array name="panchang_weeks">
+    <item>Diumenge</item>
+    <item>Dilluns</item>
+    <item>Dimarts</item>
+    <item>Dimecres</item>
+    <item>Dijous</item>
+    <item>Divendres</item>
+    <item>Dissabte</item>
   </string-array>
   <string-array name="pisces_info">
     <item>peixos</item>
     <item>Peixos</item>
     <item>19/2 - 20/3</item>
-  </string-array>
-  <string-array name="prefEntries_alerts_popup_new">
-    <item>Desactivat</item>
-    <item>Per a tots els esdeveniments</item>
-    <item>Pels esdeveniments temporals</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
@@ -301,12 +236,6 @@
     <item>Potser</item>
     <item>No</item>
   </string-array>
-  <string-array name="response_labels2">
-    <item>"No responguis"</item>
-    <item>Accepta</item>
-    <item>Decidir més tard</item>
-    <item>Rebutja</item>
-  </string-array>
   <string-array name="sagittarius_info">
     <item>sagitari</item>
     <item>Sagitari</item>
@@ -316,6 +245,10 @@
     <item>escorpió</item>
     <item>Escorpió</item>
     <item>24/10 - 22/11</item>
+  </string-array>
+  <string-array name="serie_a">
+    <item>1</item>
+    <item>Sèrie A</item>
   </string-array>
   <string-array name="taurus_info">
     <item>taure</item>
@@ -333,6 +266,34 @@
     <item>verge</item>
     <item>Verge</item>
     <item>23/8 - 22/9</item>
+  </string-array>
+  <string-array name="weather_forecasts">
+    <item>Neteja</item>
+    <item>Ennuvolat</item>
+    <item>Cobert</item>
+    <item>Boira</item>
+    <item>Tempesta intensa</item>
+    <item>Tempesta</item>
+    <item>Tempesta feble</item>
+    <item>Tempesta</item>
+    <item>Ruixats</item>
+    <item>Pluja forta</item>
+    <item>Pluja</item>
+    <item>Pluja feble</item>
+    <item>Pluja i neu</item>
+    <item>Torb</item>
+    <item>Ruixats de neu</item>
+    <item>Nevades intenses</item>
+    <item>Neu</item>
+    <item>Nevada feble</item>
+    <item>Tempesta forta de sorra</item>
+    <item>Tempesta de sorra</item>
+    <item>Pols</item>
+    <item>Tempesta feble de sorra</item>
+    <item>Calamarsa</item>
+    <item>Pols en suspensió</item>
+    <item>Calitja</item>
+    <item>Pluja gelant</item>
   </string-array>
   <string-array name="week_header_name">
     <item> dg.</item>
