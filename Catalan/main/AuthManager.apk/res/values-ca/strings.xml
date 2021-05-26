@@ -312,8 +312,7 @@
     <string name="permission_group_title_privacy_related">Privadesa</string>
     <string name="permission_group_title_sensitive_privacy_related">Permisos delicats</string>
     <string name="permission_group_title_settings_related">Configuració</string>
-    <string name="permission_list_include">"Incloent els següents:
-"</string>
+    <string name="permission_list_include">Incloent els següents</string>
     <string name="permission_reminders">Recordatoris de permisos</string>
     <string name="permission_warning_template">Voleu permetre %1$s a %2$s?</string>
     <string name="permission_warning_template_ask">Voleu permetre a %1$s els següents permisos?</string>
