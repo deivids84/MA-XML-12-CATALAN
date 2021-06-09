@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="allow_backup_button_label">Còpia de seguretat de les dades</string>
-    <string name="allow_restore_button_label">Restaura les dades</string>
-    <string name="backup_confirm_text">"S'ha sol·licitat fer una còpia de seguretat completa a un ordinador connectat. Ho voleu permetre?
-
-Si no heu sol·licitat aquesta còpia de seguretat, no permeteu aquesta operació."</string>
+    <string name="allow_backup_button_label">Còpia de seguretat de les meves dades</string>
+    <string name="allow_restore_button_label">Restaura les meves dades</string>
+    <string name="backup_confirm_text">"S'ha sol·licitat una còpia de seguretat completa de totes les dades a un equip de sobretaula connectat. Vols permetre que això passi?
+ 
+Si no has sol·licitat la còpia de seguretat tu mateix, no permetis que continuï l'operació."</string>
     <string name="backup_confirm_title">Còpia de seguretat completa</string>
-    <string name="backup_enc_password_optional">Si voleu xifrar les dades de la còpia de seguretat completa, introduïu una contrasenya:</string>
-    <string name="backup_enc_password_required">Com que el dispositiu està xifrat, heu de xifrar la còpia de seguretat. Introduïu una contrasenya:</string>
-    <string name="backup_enc_password_text">Introduïu una contrasenya per xifrar les dades de la còpia de seguretat completa. Si es deixa en blanc, s’utilitzarà la contrasenya actual:</string>
-    <string name="current_password_text">Introduïu la contrasenya actual de la còpia de seguretat:</string>
-    <string name="deny_backup_button_label">No facis la còpia de seguretat</string>
+    <string name="backup_enc_password_optional">Si vols xifrar les dades de la còpia de seguretat completa, introdueix una contrasenya a continuació:</string>
+    <string name="backup_enc_password_required">Com que el teu dispositiu està encriptat, has d\'encriptar el dispositiu secundari. Escriu una contrasenya a continuació:</string>
+    <string name="backup_enc_password_text">Introdueix una contrasenya que utilitzaràs per a l\'encriptació de les dades de còpia de la seguretat completa. Si es deixa en blanc, s\'utilitzarà la teva contrasenya de còpia de seguretat actual:</string>
+    <string name="current_password_text">Introdueix la teva contrasenya actual de còpia de seguretat a continuació:</string>
+    <string name="deny_backup_button_label">No en facis una còpia de seguretat</string>
     <string name="deny_restore_button_label">No ho restauris</string>
-    <string name="device_encryption_backup_text">Introduïu la contrasenya de xifrat del dispositiu. També s\'utilitzarà per xifrar l\'arxiu de la còpia de seguretat.</string>
-    <string name="device_encryption_restore_text">Introduïu la contrasenya de xifrat del dispositiu.</string>
-    <string name="restore_confirm_text">"S'ha sol·licitat restaurar completament les dades des d'un ordinador connectat. Ho voleu permetre?
-
-Si no heu sol·licitat aquesta restauració, no permeteu aquesta operació. Això reemplaçarà qualsevol dada que es trobi al dispositiu."</string>
-    <string name="restore_confirm_title">Restauració completa</string>
-    <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, introduïu la contrasenya:</string>
-    <string name="toast_backup_ended">S\'ha finalitzat la còpia de seguretat</string>
+    <string name="device_encryption_backup_text">Introdueix la contrasenya d\'encriptació del dispositiu a continuació. També es farà servir per encriptar l\'arxiu de seguretat.</string>
+    <string name="device_encryption_restore_text">Introdueix la contrasenya d\'encriptació del dispositiu a continuació.</string>
+    <string name="restore_confirm_text">"S'ha sol·licitat una restauració completa de totes les dades d'un equip d'escriptori connectat. Vols permetre que això passi?
+ 
+Si no has sol·licitat la restauració tu mateix, no permetis que continuï l'operació. Això reemplaçarà les dades que hi hagi actualment a l'equip."</string>
+    <string name="restore_confirm_title">Restaura completament</string>
+    <string name="restore_enc_password_text">Si la recuperació de dades està xifrada, introdueix la contrasenya a continuació:</string>
+    <string name="toast_backup_ended">Ha finalitzat la còpia de seguretat</string>
     <string name="toast_backup_started">S\'està iniciant la còpia de seguretat...</string>
     <string name="toast_restore_ended">La restauració ha finalitzat</string>
     <string name="toast_restore_started">S\'està iniciant la restauració...</string>
-    <string name="toast_timeout">Temps d\'operació esgotat</string>
+    <string name="toast_timeout">S\'ha esgotat el temps de connexió de l\'operació.</string>
 </resources>

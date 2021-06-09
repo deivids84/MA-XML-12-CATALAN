@@ -1,70 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="korea_permission_groups_descriptions">
-        <item>Per identificar els elements sincronitzats</item>
+        <item>Per identificar elements sincronitzats</item>
         <item>Per sincronitzar missatges</item>
         <item>Per sincronitzar contactes</item>
-        <item>Per sincronitzar esdeveniments de l\'agenda</item>
-        <item>Per sincronitzar elements amb serveis que utilitzen emmagatzemament</item>
+        <item>Per sincronitzar calendari d\'events</item>
+        <item>Per sincronitzar articles amb serveis que utilitzen l\'emmagatzematge</item>
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>Telèfon</item>
@@ -74,28 +15,28 @@
         <item>Emmagatzematge</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>Sincronitza els vostres contactes, missatges, notes, calendari i molt més</item>
+        <item>Sincronitzeu els vostres contactes, missatges, notes, calendari i molt més</item>
         <item>Còpia de seguretat d\'aplicacions, disseny de la pantalla d\'inici i fons de pantalla</item>
-        <item>Fes una còpia de seguretat dels paràmetres importants, inclosos la Wi-Fi i la pantalla</item>
+        <item>Còpia de seguretat de les configuracions importants, inclosa la Wi-Fi i la pantalla</item>
         <item>"Bloqueja el dispositiu de forma remota si es perd"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sincronitzeu els vostres contactes, missatges, notes, calendari i molt més</item>
-        <item>Còpia de seguretat d\'aplicacions, disseny de la pantalla d\'inici i fons de pantalla</item>
-        <item>Feu una còpia de seguretat de la configuració important, inclosa la Wi-Fi i la pantalla</item>
-        <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including Wi-Fi and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sincronitza els vostres contactes, missatges, notes, calendari i molt més</item>
-        <item>Feu una còpia de seguretat de les aplicacions, el disseny de la pantalla d\'inici i el fons de pantalla</item>
-        <item>Feu una còpia de seguretat de la configuració important, inclosa la Wi-Fi i la pantalla</item>
-        <item>"Bloquegeu el dispositiu de forma remota si es perd"</item>
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including Wi-Fi and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
-        <item>Sincronitzeu els contactes, els missatges, les notes, el calendari i molt més</item>
-        <item>Feu una còpia de seguretat de les aplicacions, del disseny de la pantalla d\'inici i del fons de pantalla</item>
-        <item>Feu una còpia de seguretat de les configuracions importants, inclosa la Wi-Fi i la pantalla</item>
-        <item>"Bloquegeu el dispositiu remotament si es perd"</item>
+        <item>Sincronitzeu els vostres contactes, missatges, notes, calendari i molt més</item>
+        <item>Còpia de seguretat d\'aplicacions, disseny de la Pantalla d\'inici i fons de pantalla</item>
+        <item>Còpia de seguretat de les configuracions importants, inclosa la Wi-Fi i la pantalla</item>
+        <item>"Bloqueja el dispositiu de forma remota si es perd"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronitza les dades de l\'aplicació</item>
@@ -104,7 +45,7 @@
         <item>Troba el dispositiu</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
-        <item>Per identificar el vostre dispositiu</item>
+        <item>Per identificar el teu dispositiu</item>
         <item>Per localitzar el dispositiu i canviar al mode perdut</item>
     </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
@@ -113,125 +54,125 @@
         <item>Per sincronitzar missatges</item>
         <item>Per sincronitzar contactes</item>
         <item>Per sincronitzar contactes</item>
-        <item>Per desar els elements al dispositiu (per exemple, imatges, vídeos, cançons)</item>
+        <item>Per desar elements al dispositiu (per exemple, imatges, vídeos, cançons)</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Còpies de seguretat</item>
-        <item>Elements de la còpia de seguretat</item>
-        <item>Núvol;Còpia de seguretat;còpia de seguretat;Serveis en núvol;Xiaomi Cloud;Pantalla d\'inici;Disposició;Aplicacions;Gestiona còpies de seguretat;Restaurar</item>
+        <item>Elements amb còpia de seguretat</item>
+        <item>Núvol;Còpia de seguretat;Còpia de seguretat;Serveis Núvol;Núvol Xiaomi;Pantalla d\'Inici;Maquetació;Aplicacions;Gestió de còpies de seguretat;Restauració</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Fes una còpia de seguretat de la pantalla d\'inici a Xiaomi Cloud</item>
-        <item>Còpia de seguretat de la disposició de la pantalla inicial, de la llista de les aplicacions instal·lades i de la configuració del sistema</item>
-        <item>Núvol;Còpia de seguretat;Còpia de seguretat;Serveis en núvol;Xiaomi Cloud;Pantalla d\'inici;Disposició;Aplicacions;Configuració;Freqüència de còpia de seguretat;Gestionar còpies de seguretat;Restaurar</item>
+        <item>Còpia de seguretat de la pantalla d\'Inici a Núvol Xiaomi</item>
+        <item>Feu una còpia de seguretat del disseny de la Pantalla d\'Inici, la llista d\'aplicacions instal·lades i la configuració del sistema</item>
+        <item>Núvol;Còpia de seguretat;Còpia de seguretat;Serveis Núvol;Núvol Xiaomi;Pantalla d\'Inici;Maquetació;Aplicacions;Configuració;Freqüència de còpia de seguretat;Gestió de còpies de seguretat;Restauració</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Sincronitza el navegador amb Xiaomi Cloud</item>
-        <item>Activa la sincronització</item>
-        <item>Navegador;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Sincronitza el Navegador amb Núvol Xiaomi</item>
+        <item>Activeu la sincronització</item>
+        <item>Navegador;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Sincronitza el calendari amb Xiaomi Cloud</item>
-        <item>Activa la sincronització</item>
-        <item>Calendari;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Sincronitzeu Calendari amb Núvol Xiaomi</item>
+        <item>Activeu la sincronització</item>
+        <item>Calendari;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Sincronitza els contactes amb Xiaomi Cloud</item>
-        <item>Activa/configura la sincronització</item>
-        <item>Contactes;Historial de trucades;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Sincronitza contactes amb Núvol Xiaomi</item>
+        <item>Activeu/configureu la sincronització</item>
+        <item>Contactes;Historial de trucades;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Sincronitza l\'historial de trucades amb Xiaomi Cloud</item>
-        <item>Activa/configura la sincronització</item>
-        <item>Historial de trucades;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sincronitzeu l\'historial de trucades amb Núvol Xiaomi</item>
+        <item>Activeu/configureu la sincronització</item>
+        <item>Historial de trucades;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Troba el dispositiu</item>
-        <item>"Esborra les dades i bloca el vostre dispositiu si es perd"</item>
-        <item>Troba el dispositiu;Perdut;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>"Esborreu les dades i bloquegeu el dispositiu si es perd"</item>
+        <item>Troba el dispositiu;Perdut;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Troba el dispositiu</item>
-        <item>"Esborra les dades i bloca el vostre dispositiu si es perd"</item>
-        <item>Troba el dispositiu;Perdut;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>"Esborreu les dades i bloquegeu el dispositiu si es perd"</item>
+        <item>Troba el dispositiu;Perdut;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Sincronitza la galeria amb Xiaomi Cloud</item>
-        <item>Activa/configura la sincronització</item>
-        <item>Galeria;Fotos;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Sincronitzeu Galeria amb Núvol Xiaomi</item>
+        <item>Activeu/configureu la sincronització</item>
+        <item>Galeria;Fotos;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Sincronitza la música amb Xiaomi Cloud</item>
-        <item>Activa la sincronització</item>
-        <item>Música;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sincronitza música amb Núvol Xiaomi</item>
+        <item>Activeu la sincronització</item>
+        <item>Música;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Sincronitza les notes amb Xiaomi Cloud</item>
-        <item>Activa la sincronització</item>
-        <item>Notes;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Sincronitza les notes amb Núvol Xiaomi</item>
+        <item>Activeu la sincronització</item>
+        <item>Notes;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_notes_v2">
-        <item>Sincronitzeu les notes amb Xiaomi Cloud</item>
-        <item>Activeu la sincronització</item>
-        <item>Notes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sincronitza les notes amb Núvol Xiaomi</item>
+        <item>Activa la sincronització</item>
+        <item>Notes;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sincronitza el Tauler d\'aplicacions amb Xiaomi Cloud</item>
-        <item>Activa la sincronització</item>
-        <item>Tauler d\'aplicacions;Targetes;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sincronitzar la Volta d\'aplicacions amb Núvol Xiaomi</item>
+        <item>Activeu la sincronització</item>
+        <item>Volta d\'aplicacions;Targetes;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_phrase">
-        <item>Sincronitza les respostes ràpides</item>
-        <item>Activeu la sincronització</item>
-        <item>Respostes ràpides;Portapapers;Editor;Núvol;Sincronització;Serveis al núvol</item>
+        <item>Sincronitza respostes ràpides</item>
+        <item>Activa la sincronització</item>
+        <item>Respostes ràpides;Porta-retalls;Editor;Núvol;Sincronització;Serveis al núvol</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Sincronitza els enregistraments amb Xiaomi Cloud</item>
-        <item>Activa/configura la sincronització</item>
-        <item>Gravadora;Núvol;Sincronització;Serveis en núvol;Xiaomi Cloud</item>
+        <item>Sincronitzeu els enregistraments amb Núvol Xiaomi</item>
+        <item>Activeu/configureu la sincronització</item>
+        <item>Enregistradora;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Elements eliminats de Xiaomi Cloud</item>
+        <item>Elements eliminats al Núvol Xiaomi</item>
         <item>Restaureu contactes, fotos, missatges i molt més</item>
-        <item>Brossa;Elements suprimits;Paperera;Restauració;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Brossa;Elements eliminats;Paperera;Restauració;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Restaura els elements de Xiaomi Cloud</item>
-        <item>Baixeu els elements de la còpia de seguretat al vostre dispositiu</item>
-        <item>Núvol;Còpia de seguretat;còpia de seguretat;Restauració;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Restaura els elements del Núvol Xiaomi</item>
+        <item>Baixeu els elements amb còpia de seguretat al dispositiu</item>
+        <item>Núvol;Còpia de seguretat;Còpia de seguretat;Restauració;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronització al núvol de Seguretat</item>
-        <item>Activa la sincronització</item>
-        <item>Seguretat;Núvol;Xiaomi Cloud;Sincronització;Serveis al núvol</item>
+        <item>Sincronització de seguretat al núvol</item>
+        <item>Activeu la sincronització</item>
+        <item>Seguretat;Núvol;Núvol de Xiaomi;Sincronització;Serveis al núvol</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Sincronitza els missatges amb Xiaomi Cloud</item>
-        <item>Activa/configura la sincronització</item>
-        <item>Missatges;SMS;MMS;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sincronitzeu els missatges amb Núvol Xiaomi</item>
+        <item>Activeu/configureu la sincronització</item>
+        <item>Missatges;SMS;MMS;Núvol;Sinctronització;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Subscripció de Xiaomi Cloud</item>
-        <item>Actualitzeu la vostra subscripció, obteniu més espai d’emmagatzematge i protegiu les dades</item>
-        <item>Emmagatzematge insuficient;Subscripció;Emmagatzematge;Espai d’emmagatzematge;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud;Mega;Ultra;VIP;Còpia de seguretat;Còpia de seguretat;Restauració;Brossa;Elements suprimits;Paperera</item>
+        <item>Compra una afiliació de Núvol Xiaomi</item>
+        <item>Actualitzeu la vostra afiliació, obtingueu més espai d\'emmagatzematge i protegiu les vostres dades</item>
+        <item>Emmagatzematge insuficient;Afiliació;Emmagatzematge;Espai d\'emmagatzematge;Núvol;Sincronització;Serveis Núvol;Núvol Xiaomi;Mega; Ultra;VIP;Còpia de seguretat;Còpia de seguretat;Restauració;Brossa;Articles eliminats;Paperera</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Xiaomi Cloud. Tots els serveis Mi en un sol lloc.</item>
-        <item>Accediu als vostres contactes, missatges, fotos i dispositius des de qualsevol lloc</item>
-        <item>Emmagatzematge insuficient;Subscipció;Emmagatzematge;Espai d’emmagatzematge;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud;Paperera;Elements suprimits;Seguretat</item>
+        <item>Núvol Xiaomi. Tots els serveis Mi en un sol lloc.</item>
+        <item>Accediu a les vostres fotos, contactes, missatges i dispositius des de qualsevol lloc</item>
+        <item>Emmagatzematge insuficient;Afiliació;Emmagatzematge;Espai d\'emmagatzematge;Núvol;Sincronització;Serveis Núvol;Núvol Xiaomi; Paperera;Articles eliminats;Seguretat</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sincronitza la configuració de la Wi-Fi amb Xiaomi Cloud</item>
-        <item>Activa la sincronització</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sincronitzeu la configuració de Wi-Fi amb Núvol Xiaomi</item>
+        <item>Activeu la sincronització</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Sincronitzeu la configuració de la Wi-Fi amb Xiaomi Cloud</item>
-        <item>Activeu la sincronització</item>
-        <item>Wi-Fi;wifi;Wi-Fi;Núvol;Sincronització;Serveis al núvol;Xiaomi Cloud</item>
+        <item>Sync Wi-Fi settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
-        <item>Mostra els elements sincronitzats</item>
-        <item>Detalls de l\'emmagatzematge</item>
+        <item>Veure elements sincronitzats</item>
+        <item>Detalls d\'emmagatzematge</item>
     </string-array>
 </resources>

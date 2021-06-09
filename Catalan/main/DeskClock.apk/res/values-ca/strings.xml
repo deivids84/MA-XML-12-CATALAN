@@ -120,6 +120,7 @@
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Tanca</string>
     <string name="close_alarm">Desactiva</string>
+    <string name="close_alarm_new">Atura</string>
     <string name="common_settings">Configuració</string>
     <string name="common_timer_selector">Seleccioneu el temporitzador</string>
     <string name="confirm">Confirma</string>
@@ -366,6 +367,7 @@
     <string name="noon">Migdia</string>
     <string name="normal_settings">Configuració general</string>
     <string name="not_set">Sense especificar</string>
+    <string name="not_set_temporarily">No, gràcies</string>
     <string name="not_update">Ara no</string>
     <string name="oneshot_alarm">Elimina-la en aturar-la</string>
     <string name="open_keep_screen">La pantalla es mantindrà encesa</string>
@@ -400,11 +402,13 @@
     <string name="search_stopwatch_keywords">Cronòmetre</string>
     <string name="search_timer_keywords">Temporitzador</string>
     <string name="search_worldclock_keywords">Hora;Rellotge mundial;Rellotge</string>
+    <string name="select_operation">Selecciona</string>
     <string name="send">Envia</string>
     <string name="set_alarm">Estableix l\'alarma</string>
     <string name="set_alarm_choose_ringtone">Seleccioneu el to</string>
     <string name="set_alarm_done">Fet</string>
     <string name="set_alarm_other">Altres</string>
+    <string name="set_now">Estableix</string>
     <string name="setting_alarm_arriving_subtitle">Mostra les notificacions abans que sonin les alarmes</string>
     <string name="setting_alarm_arriving_summary">Envia una notificació abans de sonar</string>
     <string name="setting_alarm_arriving_title">Notificació abans de sonar</string>
@@ -415,6 +419,7 @@
     <string name="shortcut_stop_watch">Inicia el cronòmetre</string>
     <string name="shut_down_keep_screen">"La pantalla no es mantindrà encesa"</string>
     <string name="shutdown_alarm_alert_enable_summary">Les alarmes s’activaran com a mínim 10 minuts després d’apagar el dispositiu</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Activeu-ho per activar les alarmes configurades quan el dispositiu està apagat. Només les alarmes apagat configurades com a mínim durant %d minuts després d\'apagar el dispositiu.</string>
     <string name="shutdown_alarm_alert_title">Alarma apagat</string>
     <string name="shutdown_alarm_disable_summary">"L'alarma no sonarà amb el dispositiu apagat"</string>
     <string name="shutdown_alarm_enable_summary">"L'alarma sonarà si està configurada com a mínim 10 minuts després d'apagar el dispositiu"</string>
@@ -442,6 +447,7 @@
     <string name="sleep_time">Adormir-se</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Feu lliscar amunt per tancar</string>
+    <string name="slider_text_new">Llisqueu amunt per aturar-la</string>
     <string name="snooze_confirm_cancel">Cancel·la l\'alarma</string>
     <string name="snooze_duration">Ajorna</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -566,6 +572,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">D\'acord</string>
+    <string name="timer_got_it_new">Silenci</string>
     <string name="timer_is_paused">Temporitzador en pausa</string>
     <string name="timer_item_delete">Suprimeix</string>
     <string name="timer_item_duration_display">%1$d min %2$d seg</string>
@@ -615,6 +622,7 @@
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="week_ringtone_recommend_desc">L\'alarma de natura reprodueix sons diferents segons la data. Voleu definir-lo com a alarma predeterminada?</string>
     <string name="white_noise_selector">Seleccioneu l\'àudio</string>
     <string name="workday_alarm_clock">Alarma de dia laboral</string>
     <string name="worldclock_empty_text">Sense rellotges</string>

@@ -77,6 +77,7 @@
     <string name="bh_back">Enrere</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Recàrrega saldo</string>
+    <string name="bh_bills_info_label">Detalls</string>
     <string name="bh_bugreport">Comentaris empresarials</string>
     <string name="bh_business_hall_is_here">Els serveis de l\'operadora són aquí</string>
     <string name="bh_business_style">Seleccioneu la interfície</string>
@@ -89,12 +90,19 @@
     <string name="bh_cannot_action">"No s'ha pogut utilitzar %1$s. Instal·leu primer l'aplicació corresponent."</string>
     <string name="bh_cannot_fetch_num">Número de telèfon desconegut</string>
     <string name="bh_cannot_login_miacount">"No s'ha pogut iniciar la sessió al Compte Mi"</string>
+    <string name="bh_card_order_detail">Informació de la comanda</string>
+    <string name="bh_card_order_name">Paquet de serveis</string>
+    <string name="bh_card_order_pay_price">Quantitat pagada</string>
+    <string name="bh_card_order_price">Preu</string>
     <string name="bh_charge_confirm">Voleu afegir %2$s CNY a %1$s?</string>
     <string name="bh_charge_continue">Recàrrega</string>
     <string name="bh_charge_number">Recàrrega %1$s</string>
     <string name="bh_charged_phone_number">Número de telèfon: %1$s</string>
     <string name="bh_close_traffic_package">Tanca els detalls del pla de l\'operador</string>
     <string name="bh_confirm">D\'acord</string>
+    <string name="bh_connect_address">"Nom del destinatari"</string>
+    <string name="bh_connect_name">Destinatari</string>
+    <string name="bh_connect_number">"Número de telèfon del destinatari"</string>
     <string name="bh_contact_number">%1$s dels vostres contactes</string>
     <string name="bh_current_no_sim">"La targeta SIM no està inserida"</string>
     <string name="bh_current_sim_number">Número de telèfon de la SIM actual %1$s</string>
@@ -105,6 +113,8 @@
     <string name="bh_edit_saved_phone_number">Editeu l\'etiqueta del número desat</string>
     <string name="bh_edit_sim_num">Editeu el número de telèfon de la SIM</string>
     <string name="bh_exchange_number">Canvia de número</string>
+    <string name="bh_express_name">Servei de lliurament</string>
+    <string name="bh_express_number">Número del paquet</string>
     <string name="bh_fetch_balance">Comproveu el saldo</string>
     <string name="bh_flow_exceed">Va superar el límit</string>
     <string name="bh_funtion_desc">Us donem la benvinguda a Mi Carrier Services. Podeu utilitzar aquesta aplicació per comprovar el saldo del telèfon, comprar minuts de trucades i dades mòbils i molt més. Aquesta aplicació ha de connectar-se a la xarxa per poder funcionar amb normalitat.</string>
@@ -124,16 +134,20 @@
     <string name="bh_net_error">S\'ha produït un error de xarxa</string>
     <string name="bh_no_sim">"La targeta SIM no està instal·lada"</string>
     <string name="bh_no_sim_inserted">"La targeta SIM no està instal·lada"</string>
+    <string name="bh_none">Cap</string>
     <string name="bh_not_contact">"No s'han pogut trobar resultats"</string>
     <string name="bh_notice">Atenció</string>
     <string name="bh_online_service">Assistència en línia</string>
     <string name="bh_option_agree_dec">Permet que Mi Carrier Services es connecti a Internet i concedeixi els permisos necessaris abans d\'utilitzar l\'aplicació.</string>
+    <string name="bh_order_detail">Detalls de la comanda</string>
     <string name="bh_order_id">Identificador de la comanda</string>
     <string name="bh_order_loading">Només un segon…</string>
     <string name="bh_order_pay">Pagament</string>
+    <string name="bh_order_status">Estat de la comanda</string>
     <string name="bh_order_time">Temps de transacció</string>
     <string name="bh_other_charge">Un altre número de telèfon</string>
     <string name="bh_other_operator">Altres transportistes</string>
+    <string name="bh_other_traffic">Un altre número de telèfon</string>
     <string name="bh_pay_fail_desc">"No s'ha pogut connectar a la xarxa. Torneu enrere i completeu el pagament de nou."</string>
     <string name="bh_pay_fee">Ampunt</string>
     <string name="bh_pay_success_desc">El vostre saldo es podria acreditar amb un retard</string>
@@ -164,8 +178,18 @@
     <string name="bh_system_recommend_des">Permeteu-nos analitzar el vostre trànsit i recomanar productes digitals en funció dels resultats</string>
     <string name="bh_tag_phones">Números de telèfon d’ús freqüent</string>
     <string name="bh_tags_number_exceed">"No es poden desar més números de telèfon"</string>
+    <string name="bh_text_buy_time">Comanda creada</string>
+    <string name="bh_text_charge_name">Quantitat</string>
+    <string name="bh_text_no_order">No hi ha comandes aquí</string>
+    <string name="bh_text_operator">Operador</string>
+    <string name="bh_text_order_id">Número de comanda</string>
+    <string name="bh_text_paid_fee">Import de la comanda</string>
+    <string name="bh_text_phone_num">Número de telèfon</string>
+    <string name="bh_text_traffic_package">Paquet de dades</string>
     <string name="bh_time_before">%1$s fa %2$s</string>
+    <string name="bh_toast_copy">S\'ha copiat correctament</string>
     <string name="bh_toast_start_intent_failed">"No s'ha trobat cap aplicació per gestionar aquesta acció"</string>
+    <string name="bh_traffic_charge">Obtenir dades mòbils</string>
     <string name="bh_traffic_service">Més serveis</string>
     <string name="bh_traffic_surplus">Dades restants</string>
     <string name="bh_traffic_title">Obteniu dades</string>
@@ -175,7 +199,6 @@
     <string name="bh_vs">Mi Roaming</string>
     <string name="bh_will_open">Inauguració %1$s…</string>
     <string name="bh_wrong_number_hint">Introduïu un número de telèfon vàlid</string>
-    <string name="bills_info_label">Detalls</string>
     <string name="bind_simcard_default">SIM per defecte per a trucades</string>
     <string name="bind_simcard_menu">Estableix la SIM per defecte per a trucades</string>
     <string name="bind_simcard_no_dual">"No s'ha pogut trobar la doble SIM"</string>
@@ -790,6 +813,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="night">Vespre</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Per crear grups necessita un compte.</string>
+    <string name="no_contact_selected">Seleccioneu un contacte per veure\'n els detalls</string>
     <string name="no_contacts_dialog_message">"Els contactes poden estar emmagatzemats a la targeta SIM. Intenta importar-los des de la teva targeta SIM a la memòria interna del telèfon i torna a provar."</string>
     <string name="no_contacts_dialog_title">"No es poden trobar contactes"</string>
     <string name="no_phone_no_shortcut">"No es poden crear dreceres per a contactes sense números de telèfon"</string>
@@ -937,6 +961,7 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="remove_duplicate">"MIUI t'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
+    <string name="residual_time_description">%1$sdia%2$shora</string>
     <string name="restore_app_btn_cancel">Cancel·la</string>
     <string name="restore_app_btn_restore">D\'acord</string>
     <string name="restore_app_description_content">Afegiu una drecera a la pantalla d\'inici per poder accedir més ràpidament als contactes.</string>
@@ -1101,9 +1126,9 @@ Mi Roaming necessita connectar-se a Internet i accedir a la informació de la vo
     <string name="t9_search_empty_send_sms">Envia missatge</string>
     <string name="t9_search_empty_video_call">Videotrucada</string>
     <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduïu %d i %d per cercar Eloi Mas</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Introduïu %d i %d per cercar David Serra</string>
     <string name="t9_search_guide_zhuyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduïu %d i %d per cercar Eloi Aguilar</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Introduïu %d i %d per cercar Jordi Mas</string>
     <string name="take_new_photo">Fes una foto nova</string>
     <string name="take_photo">Fes una foto</string>
     <string name="text_msim_balance">S’utilitza avui</string>

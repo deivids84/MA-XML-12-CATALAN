@@ -24,9 +24,9 @@
         <item>Nom</item>
     </string-array>
     <string-array name="uninstalled_app_sort_type">
-        <item>Mida:</item>
+        <item>Mida</item>
         <item>Freqüència d\'ús</item>
-        <item>Data d\'instal·lació</item>
+        <item>Temps d\'instal·lació</item>
     </string-array>
     <string-array name="wechat_sort">
         <item>Data</item>

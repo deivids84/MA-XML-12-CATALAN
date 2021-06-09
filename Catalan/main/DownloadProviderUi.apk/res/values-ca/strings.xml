@@ -70,12 +70,14 @@
     <string name="cancel">Cancel·la</string>
     <string name="cancel_running_download">Cancel·la</string>
     <string name="cancle">Cancel·la</string>
+    <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="choose_open_picture">Tria una opció</string>
     <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
     <string name="clear_data">Esborra</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="close_ad">Tanca l\'anunci</string>
+    <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
     <string name="complete_time">Completada</string>
     <string name="confirm">D\'acord</string>
     <string name="confirm_delete_downloads_message">%d baixades seran eliminades.</string>
@@ -94,6 +96,10 @@
     <string name="deselect_all">Desselecciona-ho tot</string>
     <string name="deselect_subfile_all">Desselecciona-ho tot</string>
     <string name="determine">D\'acord</string>
+    <string name="diagnosis_log_send_failed">No s\'ha pogut enviar el registre de diagnòstic.</string>
+    <string name="diagnosis_log_sent_format">"S'ha enviat el registre de diagnòstic.
+ID:%s
+Envieu aquest codi al tècnic."</string>
     <string name="dialog_btn_cancel">Cancel·la</string>
     <string name="dialog_btn_ok">D\'acord</string>
     <string name="dialog_btn_ok_disabled_net">Configuració de xarxa</string>
@@ -205,6 +211,7 @@
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="for_diagnosis_usage_only">Utilitzeu aquesta informació només per al diagnòstic.</string>
     <string name="force_touch_newdownload">Nova baixada</string>
     <string name="force_touch_rank">Classificacions</string>
     <string name="force_touch_search">Cerca al web</string>
@@ -327,6 +334,7 @@
     <string name="month_september_shortest">set.</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
+    <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="net_error">"No s'ha pogut connectar a la xarxa, torneu-ho a provar"</string>
     <string name="network_error">"No es pot connectar a la xarxa"</string>
     <string name="new_add">Nova baixada</string>
@@ -352,6 +360,7 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="notify_install_guide_title">S\'ha instal·lat correctament %s</string>
     <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
     <string name="notify_only_wifi_download">S\'està esperant la Wi-Fi</string>
+    <string name="ok">D\'acord</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Només estan suportats els fitxers torrent</string>
     <string name="open">Obre</string>
@@ -364,6 +373,9 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="other">Altre</string>
     <string name="other_filter">ALTRES</string>
     <string name="package_filter">PAQUETS</string>
+    <string name="passport_oauth_actionbar_title">Compte Mi</string>
+    <string name="passport_oauth_sucess_tip">Autoritzat amb èxit</string>
+    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_no_available">"Aquest camí no està disponible"</string>
     <string name="pause_download">Pausar</string>
     <string name="paused">Pausada</string>
@@ -459,6 +471,8 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="select_subfile_all">Selecciona-ho tot</string>
     <string name="selected_count">Seleccionats %1$d de %2$d</string>
     <string name="send">Envia</string>
+    <string name="send_diagnosis_log">Envia registre de diagnòstic</string>
+    <string name="sending">S\'esta enviant…</string>
     <string name="setting_close_debug">Mode de depuració desactivat</string>
     <string name="setting_debug_fail">"No s'ha pogut entrar en mode debug"</string>
     <string name="setting_open_debug">El mode de depuració està activat. Toqueu aquí 6 vegades per desactivar el mode de depuració.</string>
@@ -569,6 +583,7 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="task_detail">Tasques</string>
     <string name="task_detail_notfound_confirm">D\'acord</string>
     <string name="task_fail">"No s'ha pogut completar l'operació"</string>
+    <string name="temporary_not_available">temporalment no disponible</string>
     <string name="terabyteShort">TB</string>
     <string name="test_speed">Prova</string>
     <string name="test_speed_detail">Detalls</string>
