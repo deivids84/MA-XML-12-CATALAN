@@ -77,8 +77,8 @@
     <string name="birthday_event_description_yesterday">Ahir va ser</string>
     <string name="birthday_notification_text_days_later">%1$s dies fins %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
-    <string name="birthday_notification_title_days_later">"El %2$s de %1$s s'acosta."</string>
-    <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
+    <string name="birthday_notification_title_days_later">"El %1$s de %2$s s'acosta."</string>
+    <string name="birthday_notification_title_today">"%1$s de %3$s"</string>
     <string name="birthday_saved">Aniversari desat</string>
     <string name="birthday_term">aniversari</string>
     <string name="button_record_menstruation">Enregistra</string>
