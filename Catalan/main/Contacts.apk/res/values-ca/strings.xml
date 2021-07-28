@@ -1235,6 +1235,7 @@ Trieu una de les següents opcions: "</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="wifi_pad_disable_phone">"No es poden fer trucades en aquest dispositiu"</string>
     <string name="wipe_data">Esborrar dades</string>
     <string name="yellowPageNavigationLabel">Pàgines grogues</string>
     <string name="yellowpage_address_tag">Adreça</string>

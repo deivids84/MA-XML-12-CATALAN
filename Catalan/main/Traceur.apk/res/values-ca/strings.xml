@@ -511,6 +511,10 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="show_touches">Mostra els tocs</string>
     <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
     <string name="simulate_color_space">Simula l\'espai de color</string>
+    <string name="softap_beacon_protection">Habilita la protecció contra balises SoftAp</string>
+    <string name="softap_beacon_protection_summary">Habilita la protecció contra balises SoftAp mitjançant Hotspot</string>
+    <string name="softap_ocv">Habilita l\'OCV softAp</string>
+    <string name="softap_ocv_summary">Activeu SoftAp OCV mitjançant Hotspot</string>
     <string name="speed_label_fast">Ràpida</string>
     <string name="speed_label_medium">Mitjana</string>
     <string name="speed_label_okay">D\'acord</string>
@@ -657,6 +661,8 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
     <string name="wifi_limited_connection">Connexió limitada</string>
     <string name="wifi_metered_label">Mesurada</string>
+    <string name="wifi_new_network_auto_connection">Pont SSID: connexió automàtica</string>
+    <string name="wifi_new_network_auto_connection_summary">Activa els intents de connexió automàtica a un nou SSID de 5 GHz WPA / WPA2-PSK amb les credencials SSID WPA / WPA2-PSK de 2 GHz connectades actuals a la coincidència parcial SSID i BSSID</string>
     <string name="wifi_no_internet">No es pot connectar a Internet</string>
     <string name="wifi_no_internet_no_reconnect">"No es connectarà automàticament"</string>
     <string name="wifi_not_in_range">Fora de l\'abast</string>
@@ -692,6 +698,8 @@ Assegureu-vos que els vostres certificats siguin vàlids."</string>
 Sembla que l'emmagatzematge de credencials no està habilitat."</string>
     <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
     <string name="wifi_wapi_user_certificate">Certificat d’usuari</string>
+    <string name="wifi_whitelist_roaming">Pont SSID: lliurament ràpid</string>
+    <string name="wifi_whitelist_roaming_summary">Activeu la itinerància entre diferents AP SSP WPA / WPA2-PSK amb la mateixa adreça MAC de passarel·la</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="zen_alarm_warning">"No sentireu la vostra següent alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la vostra següent alarma %1$s a menys que desactiveu aquesta opció abans"</string>

@@ -101,16 +101,24 @@
         <item quantity="one">"No s'ha pogut restaurar el %d element a causa d'un error desconegut."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">Cerca entre %d enregistraments</item>
-        <item quantity="one">Cerca entre %d enregistrament</item>
+        <item quantity="other">%d enregistraments</item>
+        <item quantity="one">%d enregistrament</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Cerqueu entre %d gravacions</item>
-        <item quantity="one">Cerqueu entre %d enregistraments</item>
+        <item quantity="other">%d enregistraments</item>
+        <item quantity="one">%d enregistrament</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Cerca entre %d gravacions de trucades</item>
-        <item quantity="one">Cerca entre %d gravació de trucades</item>
+        <item quantity="other">%d enregistraments de trucades</item>
+        <item quantity="one">%d enregistrament de trucades</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d enregistraments de ràdio</item>
+        <item quantity="one">%d enregistrament de ràdio</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d enregistraments d\'àudio</item>
+        <item quantity="one">%d enregistrament d\'àudio</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">S\'han trobat %d enregistraments</item>

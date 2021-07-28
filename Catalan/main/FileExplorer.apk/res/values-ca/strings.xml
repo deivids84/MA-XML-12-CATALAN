@@ -35,10 +35,12 @@
     <string name="ad_download">Baixada</string>
     <string name="add_private">Amaga els fitxers ara</string>
     <string name="add_private_files">Afegeix fitxers</string>
+    <string name="added_category">Afegit</string>
     <string name="afternoon">Tarda</string>
     <string name="aggree_desc">Permeteu a aquesta aplicació connectar-se a Internet i atorgar els permisos obligatoris enumerats anteriorment.</string>
     <string name="am">am</string>
     <string name="app_all_purpose">Us donem la benvinguda al Gestor de fitxers! Podeu utilitzar aquesta aplicació per gestionar els fitxers emmagatzemats al dispositiu.</string>
+    <string name="app_all_purpose_pad">Benvingut a File Manager. Podeu utilitzar aquesta aplicació per gestionar els fitxers emmagatzemats al dispositiu.</string>
     <string name="app_function">Gestioneu els fitxers del dispositiu</string>
     <string name="app_name">Fitxers</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -52,8 +54,13 @@
     <string name="app_name_miuiringtone">Tons de trucada</string>
     <string name="app_name_miuiwallpaper">Fons de pantalla</string>
     <string name="app_name_screenshot">Captures de pantalla</string>
+    <string name="available_size">Disponible: %s</string>
     <string name="big5_summary">Codificació per defecte de Xinès tradicional de Windows</string>
     <string name="big5_title">BIG5</string>
+    <string name="by_date">Hora modificada</string>
+    <string name="by_name">Nom</string>
+    <string name="by_size">Mida</string>
+    <string name="by_type">Tipus</string>
     <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">"No es poden enviar tots aquests elements"</string>
     <string name="cancel">Cancel·la</string>
@@ -69,23 +76,29 @@
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Documents</string>
     <string name="category_download">Baixades</string>
+    <string name="category_editor_mode">Edita</string>
+    <string name="category_exit_editor_mode">Surt</string>
     <string name="category_favorite">Destacats</string>
     <string name="category_file">Fitxers</string>
     <string name="category_files">Fitxers</string>
     <string name="category_installed_app">Aplicacions instal·lades</string>
     <string name="category_midrive">MiDrive</string>
+    <string name="category_more">Més</string>
     <string name="category_music">Música</string>
     <string name="category_other">Altres</string>
     <string name="category_photo">Fotos</string>
     <string name="category_picture">Imatges</string>
+    <string name="category_qq">QQ</string>
     <string name="category_recent">Recents</string>
     <string name="category_source">Origen</string>
+    <string name="category_taobao">Taobao</string>
     <string name="category_theme">Temes</string>
     <string name="category_time">Hora</string>
     <string name="category_type_document">Documents</string>
     <string name="category_type_meida">Multimèdia</string>
     <string name="category_type_other">Altres</string>
     <string name="category_video">Vídeos</string>
+    <string name="category_wechat">WeChat</string>
     <string name="category_zip">Fitxers</string>
     <string name="cdd_message">"A causa de les restriccions d'Android 11, no podreu veure alguns dels fitxers generats a les aplicacions de tercers al Gestor de fitxers."</string>
     <string name="cdd_title">Atenció</string>
@@ -149,6 +162,7 @@
     <string name="dialog_type_video">Vídeos</string>
     <string name="disk_available">Disponible:</string>
     <string name="disk_total">Total:</string>
+    <string name="display_setting">Articles mostrats</string>
     <string name="doc_all">Tots</string>
     <string name="doc_epub">EPUB</string>
     <string name="doc_pdf">PDF</string>
@@ -160,6 +174,7 @@
     <string name="downloading">S\'està baixant</string>
     <string name="drag_not_support_with_dir">"No es poden reordenar ni enviar carpetes"</string>
     <string name="early_morning">Matí</string>
+    <string name="edit_quick_category">Edita</string>
     <string name="enable_sd_card">Inserir la targeta SD o desactivar l\'emmagatzematge massiu USB.</string>
     <string name="enable_usb">Connectar el dispositiu USB</string>
     <string name="encrypt_error">"No s'han pogut ocultar els fitxers, intenta de nou"</string>
@@ -168,6 +183,10 @@
     <string name="encrypt_success">Ocultats correctament</string>
     <string name="encrypt_success_first_five">"Fitxer encriptat i ocult. Podeu veure els fitxers ocults tirant avall a la pàgina inicial del Gestor de fitxers."</string>
     <string name="encrypting">Encriptant&#8230;</string>
+    <string name="enter">Obriu el Gestor de fitxers</string>
+    <string name="entry_phone_storage_internal">Almacenament intern</string>
+    <string name="entry_storage_cloned_app">Aplicacions dobles</string>
+    <string name="entry_storage_usb">Dispositiu USB</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="error_contains_sharer_path">"No es pot xifrar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Moveu-los a una altre carpeta i proveu-ho de nou."</string>
@@ -205,12 +224,17 @@
     <string name="file_name_existed">El nom del fitxer ja existeix</string>
     <string name="file_name_invalid">"Els noms de fitxer no poden contenir els següents caràcters: /\\:*?&lt;&gt;"</string>
     <string name="file_not_exist">"El fitxer no existeix"</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_year_month_day">MMMM d, aaaa</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_year_month_day">MMM d, aaaa</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_24hour">"HH \"en punt\""</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_time_timezone">WT z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_name_empty">"El nom de la carpeta no pot estar buit"</string>
     <string name="folder_name_illegal">Nom de la carpeta no vàlid</string>
     <string name="found_router">Router connectat</string>
@@ -243,6 +267,12 @@
     <string name="group_title_extra_new">Nou</string>
     <string name="guide_newfunc_content">Ara podeu filtrar els formats dels fitxers, reordenar els elements i canviar entre les vistes tocant la drecera.</string>
     <string name="guide_newfunc_title">Novetat</string>
+    <string name="guide_one_summary">Els elements recents s’agrupen per data.</string>
+    <string name="guide_one_title">Elements disposats en una línia de temps</string>
+    <string name="guide_three_summary">Afegiu, traieu i reordeneu les dreceres de la pàgina inicial.</string>
+    <string name="guide_three_title">Reorganitzar les dreceres</string>
+    <string name="guide_two_summary">Les fotos de la galeria i les captures de pantalla s’oculten de manera predeterminada.</string>
+    <string name="guide_two_title">Vegeu només els elements essencials</string>
     <string name="hint_switch_to_grid_mode">S\'ha canviat a la vista de graella</string>
     <string name="hint_switch_to_list_mode">S\'ha canviat a la vista de llista</string>
     <string name="home_action_up">Enrere</string>
@@ -264,6 +294,7 @@
     <string name="launcher_icon_add_description">Afegeix una drecera a la pantalla d\'inici</string>
     <string name="launcher_icon_remove_description_content">"El Gestor de fitxers és una aplicació del sistema. No podreu gestionar els fitxers del dispositiu després de suprimir la drecera de la pantalla d'inici."</string>
     <string name="launcher_icon_remove_description_title">Voleu suprimir \"Gestor de fitxers\" de la pantalla d\'inici?</string>
+    <string name="least_quick_category_hint">Afegiu com a mínim %d drecera</string>
     <string name="list_mode">Vista de llista</string>
     <string name="load_more">Veure més</string>
     <string name="loading">Un moment…</string>
@@ -381,6 +412,7 @@
     <string name="month_september_shortest">set.</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
+    <string name="most_quick_category_hint">Podeu afegir fins a %d dreceres</string>
     <string name="move_failed">"No es pot retallar"</string>
     <string name="move_icon_to_desktop_hint">Crea un accés directe a la pantalla d\'inici del Gestor de fitxers per administrar fitxers de manera més eficient.</string>
     <string name="move_icon_to_desktop_success">Accés directe afegit a la pantalla d\'inici.</string>
@@ -419,6 +451,7 @@
     <string name="need_read_storage_permission">"El Gestor de fitxers necessita permís per accedir a l'emmagatzematge del dispositiu per funcionar correctament."</string>
     <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
     <string name="new_folder_name">Carpeta sense nom</string>
+    <string name="next">Pròxim</string>
     <string name="night">Vespre</string>
     <string name="no">No</string>
     <string name="no_apk">Toqui per obtenir aplicacions.</string>
@@ -428,6 +461,7 @@
     <string name="no_file">Buit</string>
     <string name="no_wifi">No hi ha cap xarxa detectada</string>
     <string name="noon">Migdia</string>
+    <string name="not_added_category">Disponible</string>
     <string name="not_set">Sense especificar</string>
     <string name="not_support_documentui">"DocumentUI no és compatible amb aquest dispositiu"</string>
     <string name="not_use">Ara no</string>
@@ -518,8 +552,10 @@
     <string name="pull_to_enter_private">Estireu cap avall per obrir la carpeta privada</string>
     <string name="qq_msg">"A causa de les restriccions d'Android 11, el Gestor de fitxers no pot accedir ni mostrar documents QQ."</string>
     <string name="qq_title">"No es pot accedir als documents de WeChat"</string>
+    <string name="recent_hide_camera_and_screenshots">"No mostreu elements de la galeria ni captures de pantalla entre fitxers recents"</string>
     <string name="refresh_success">Actualització completa</string>
     <string name="release_enter_private">Allibereu per obrir la carpeta privada</string>
+    <string name="remainder_size">Restants: %s</string>
     <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, pot ser que no ho aconsegueixis obrir."</string>
     <string name="rename_alert2">El fitxer s\'ocultarà.</string>
     <string name="rename_failed">"No es pot canviar el nom de %1$s"</string>
@@ -545,6 +581,8 @@
     <string name="save_file_to_mishare">"Desat a la carpeta de Mi Share"</string>
     <string name="search_app">Font</string>
     <string name="search_app_more">Més</string>
+    <string name="search_category">Cerca per categories</string>
+    <string name="search_category_folder">Carpetes</string>
     <string name="search_description">Cerca tots els fitxers al dispositiu</string>
     <string name="search_empty_view_hint">"No hi ha resultats"</string>
     <string name="search_error_hint">Introduir paraules clau per cercar</string>
@@ -557,6 +595,7 @@
     <string name="search_hint">Cerca</string>
     <string name="search_keyword">Etiquetes</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="search_more_category">Més</string>
     <string name="search_result">Resultats</string>
     <string name="search_result_more">Més</string>
     <string name="search_title">Cerca</string>
@@ -573,6 +612,12 @@
     <string name="set_pattern">S\'ha actualitzat la contrasenya</string>
     <string name="set_pattern_btn">Aplica</string>
     <string name="set_pattern_msg">Establiu la vostra contrasenya una altra vegada. La contrasenya també protegeix fotos i missatges.</string>
+    <string name="size_lv1">Menys de %d KB</string>
+    <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+    <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+    <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+    <string name="size_lv6">Més de %d GB</string>
     <string name="skip">Omet</string>
     <string name="skip_file">Omet</string>
     <string name="smb_loading">Un moment…</string>
@@ -605,6 +650,7 @@
     <string name="sort_hint_type">Ordenats per tipus</string>
     <string name="sort_size_asc">De petit a gran</string>
     <string name="sort_size_desc">De gran a petit</string>
+    <string name="start_all">Veure tot</string>
     <string name="start_doc">Documents</string>
     <string name="start_phone">Fitxers</string>
     <string name="start_server">Iniciar el servidor</string>
@@ -686,6 +732,7 @@
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="tools">EINES</string>
+    <string name="total_size">Total: %s</string>
     <string name="transfer">Transferències i baixades</string>
     <string name="transfer_done">Fitxers moguts correctament.</string>
     <string name="transfer_private_data">Movent carpetes ocultes de la targeta SD&#8230;</string>

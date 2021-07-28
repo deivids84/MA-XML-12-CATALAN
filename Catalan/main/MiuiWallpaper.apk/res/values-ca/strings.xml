@@ -37,6 +37,7 @@
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="copy">Copia</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="download_button">Botó de descàrrega</string>
     <string name="download_failed">"No s'ha pogut descarregar"</string>
     <string name="early_morning">Matí</string>
     <string name="earth_id">terra</string>

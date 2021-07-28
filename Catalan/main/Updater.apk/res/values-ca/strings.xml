@@ -39,6 +39,7 @@ Les dades no s’esborraran.\"</string>
     <string name="menu_title_current_version_log">Que hi ha de nou?</string>
     <string name="menu_title_pick_rom_file">Trieu el paquet d’actualització</string>
     <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
+    <string name="menu_title_show_notifications">Mostra les notificacions</string>
     <string name="message_checkbox">Oculta els futurs missatges de l\'equip de Xiaomi.eu</string>
     <string name="message_checkbox_device">No mostrar de nou</string>
     <string name="message_title">NOTA!</string>

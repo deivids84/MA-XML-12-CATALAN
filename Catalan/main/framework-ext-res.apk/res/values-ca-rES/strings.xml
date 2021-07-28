@@ -9,6 +9,7 @@
     <string name="application_cannot_open_alipay_health_code">"No s'ha pogut obrir el codi sanitari d'Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"No s'ha pogut obrir el codi de pagament d'Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"No s'ha pogut obrir l'escàner Alipay"</string>
+    <string name="application_cannot_open_au_pay">Instal·leu primer au PAY</string>
     <string name="application_cannot_open_weixin_health_code">"No s'ha pogut obrir el codi sanitari de WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"No s'ha pogut obrir el codi de pagament de WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"No s'ha pogut obrir l'escàner WeChat"</string>
@@ -35,6 +36,8 @@
     <string name="autofill_save_sub_message">"Podreu gestionar les contrasenyes desades a Configuració &gt; Contrasenyes i seguretat &gt; %s."</string>
     <string name="autofill_save_title">Desa les contrasenyes automàticament</string>
     <string name="autofill_service_name">Gestiona les contrasenyes</string>
+    <string name="battery_authentic_failed_button">Ho tinc</string>
+    <string name="battery_authentic_failed_title">Atenció</string>
     <string name="bluetooth_close">Aquesta aplicació ha desactivat el Bluetooth</string>
     <string name="bluetooth_disable_notification_content">%s desactivat Bluetooth</string>
     <string name="bluetooth_disable_notification_title">El Bluetooth està desactivat</string>
@@ -77,6 +80,11 @@
     <string name="device_type_pc">Ordinador</string>
     <string name="disable_nfc">S\'ha desactivat l\'NFC per a la càrrega sense fils</string>
     <string name="disable_nfc_reverse">S\'ha desactivat l\'NFC per a la càrrega sense fils inversa</string>
+    <string name="dock_tip_floatwindow">Mantingueu premuda la barra i arrossegueu-la fins a la vora de la pantalla per accedir a la visualització de pantalla dividida.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Arrossegueu la barra horitzontalment per canviar les posicions de les dues finestres de l\'aplicació.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Manteniu premut i arrossegueu cap avall per canviar a una finestra flotant.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Arrossegueu la barra verticalment per canviar les posicions de les dues finestres de l\'aplicació.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Manteniu premut i arrossegueu cap a la part esquerra o dreta de la pantalla per canviar a una finestra flotant.</string>
     <string name="eighthours">8 hores</string>
     <string name="enable_livetalk_summary">Estalvieu fins a un 70% en les trucades</string>
     <string name="enable_livetalk_title">Activa el paquet de recàrrega</string>
@@ -124,6 +132,12 @@
     <string name="international_livetalk_enable">S\'estan utilitzant paquets de recàrrega per a trucades internacionals</string>
     <string name="key_btn_ok">D\'acord</string>
     <string name="key_btn_space">Espai</string>
+    <string name="keyboard_identity_reject_confirm">Ho tinc</string>
+    <string name="keyboard_identity_reject_message">"Sembla que el vostre teclat no és compatible amb aquest dispositiu."</string>
+    <string name="keyboard_identity_transfer_error_message">"No s'ha pogut connectar el teclat. Torna-ho a provar."</string>
+    <string name="keyboard_upgrade_failed">"No s'ha pogut actualitzar el teclat"</string>
+    <string name="keyboard_upgrade_start">S\'està actualitzant el teclat…</string>
+    <string name="keyboard_upgrade_success">S\'ha actualitzat correctament el teclat</string>
     <string name="livetalk_not_enable">Recàrrega de paquet desactivat</string>
     <string name="location_usage_restricted_body">Premeu per permetre-ho.</string>
     <string name="location_usage_restricted_title">Ubicació restringida en segon pla</string>
@@ -143,6 +157,8 @@
     <string name="miaudiovisual_notification_title">Efectes d\'àudio i visuals</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">"No es pot apagar, el dispositiu està bloquejat."</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s no admet finestres flotants"</string>
+    <string name="miui_multiwindow_not_support_split">"%1$s no admet pantalla dividida"</string>
     <string name="miui_screen_ratio_hint">Problemes de relació de pantalla</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"No tornis a mostrar-ho"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Aneu a la configuració</string>
@@ -161,6 +177,7 @@
     <string name="open_close_tip_content">Per tancar la finestra flotant, mantingueu premuda la barra d\'acció i llisqueu cap amunt</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Altres teclats</string>
     <string name="package_delete_confirm_step_1">Voleu desinstal·lar %s?</string>
     <string name="package_delete_confirm_step_2">La desinstal·lació d\'aquesta aplicació pot provocar que el sistema es torni inestable.</string>
     <string name="package_delete_confirm_step_3">"No podreu obrir aquesta aplicació després d'eliminar-la."</string>
@@ -197,6 +214,11 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Recorda la meva elecció</string>
+    <string name="relaunch_dialog_button_cancel">Cancel · lar</string>
+    <string name="relaunch_dialog_button_confirm">D\'acord</string>
+    <string name="relaunch_dialog_message">"No es pot ajustar la mida de la finestra mentre utilitzeu l'aplicació. Podeu reiniciar l'aplicació per ajustar la mida de la finestra, però es perdran les dades de l'aplicació generades durant aquesta sessió. Reiniciar igualment?"</string>
+    <string name="relaunch_dialog_title">Voleu reiniciar \"%s\"?</string>
     <string name="remain">Restant: %s</string>
     <string name="replace">Substitueix</string>
     <string name="resolver_app_recommend_flag">Recomanat</string>
@@ -209,12 +231,15 @@
     <string name="resource_select">Selecciona</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Telèfon Samsung</string>
     <string name="scanning_device_tips">S\'estan cercant dispositius propers… Assegureu-vos que l’altre dispositiu estigui en mode descobert.</string>
     <string name="screen_button_notification_text">Per activar-los premeu Inici i el botó d\'encesa simultàniament.</string>
     <string name="screen_button_notification_title">Els botons de navegació estan desactivats</string>
     <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu enrere i el botó d\'apujar volum simultàniament.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Per desactivar aquesta funció, premeu el botó d\'apujar el volum.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Per desactivar aquesta funció, premeu el botó Augmentar el volum.</string>
     <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea taronja de la pantalla"</string>
+    <string name="screen_on_proximity_sensor_summary_for_kddi">"No tapeu el sensor de llum ambiental"</string>
     <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
     <string name="screen_paper_mode_enter_toast">El mode lectura està activat. Podeu desactivar aquesta funció a Configuració &gt; Pantalla &gt; Mole lectura.</string>
     <string name="screen_rotation_freeze_message">Gir automàtic desactivat.</string>
@@ -250,6 +275,10 @@
     <string name="slavewifi_disconnect">Desconnecta</string>
     <string name="slavewifi_notification_title">Utilitzant la Wi-Fi de doble banda</string>
     <string name="slavewifi_settings">Toqueu per canviar la configuració</string>
+    <string name="small_freeform_enter_warning">Finestra flotant</string>
+    <string name="small_freeform_exit_tip">Tanca la finestra flotant</string>
+    <string name="small_freeform_memory_toast_app_type">"No es pot obrir ara. Aquesta aplicació requereix massa memòria per poder funcionar."</string>
+    <string name="small_freeform_memory_toast_game_type">"No es pot obrir ara. Aquest joc requereix massa memòria per poder treballar."</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d connectat</string>
@@ -274,7 +303,7 @@
     <string name="status_bar_toggle_paper_mode">Mode lectura</string>
     <string name="status_bar_toggle_power_mode">Rendiment</string>
     <string name="status_bar_toggle_quiet_mode">No molestis</string>
-    <string name="status_bar_toggle_rotate">Gir blocat</string>
+    <string name="status_bar_toggle_rotate">Bloqueja l\'orientació</string>
     <string name="status_bar_toggle_screen_button">Botons</string>
     <string name="status_bar_toggle_screenshot">Captura</string>
     <string name="status_bar_toggle_sync">Sincronitza</string>
@@ -283,6 +312,8 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Punt d\'accés</string>
     <string name="stop_operate_camera_frequently">"Esteu obrint la càmera frontal amb massa freqüència."</string>
+    <string name="stylus_pen_mask_screenshot">Toqueu la pantalla per fer una captura de pantalla</string>
+    <string name="stylus_pen_mask_text">Toqueu la pantalla per començar a escriure</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Ajusta la brillantor a la llum ambiental forta automàticament</string>
     <string name="sunlight_notification_title">Activa el mode Llum solar</string>
@@ -302,6 +333,10 @@
     <string name="translation_more">Més</string>
     <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
     <string name="translation_query_error_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar"</string>
+    <string name="trial_mode_dialog_button_cancel">Cancel · lar</string>
+    <string name="trial_mode_dialog_button_save">Desa</string>
+    <string name="trial_mode_dialog_message">\"%s\" s\'està executant en mode de prova. Si reinicieu el dispositiu o canvieu al mode de velocitat de llum, se suprimirà aquest joc. Voleu desar el joc a l\'emmagatzematge intern?</string>
+    <string name="trial_mode_dialog_title">Mode de prova</string>
     <string name="turn_off">Desactiva</string>
     <string name="turn_on_work_profile">activa</string>
     <string name="twohours">1 hora</string>
@@ -317,7 +352,7 @@
     <string name="wifi_assistant_wifi_no_internet">Aquesta xarxa Wi-Fi no té accés a Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Toqueu per veure els detalls</string>
     <string name="wireless_charging_notification_message1">"No s'han pogut trobar dispositius sense fil per carregar-se. La càrrega sense fil inversa ara està desactivada."</string>
-    <string name="wireless_charging_notification_message2">La bateria té menys del 30% de càrrega. La càrrega sense fils inversa ara està desactivada.</string>
+    <string name="wireless_charging_notification_message2">La bateria carrega %s La càrrega sense fils inversa està desactivada ara.</string>
     <string name="wireless_charging_notification_message3">S\'ha produït un error durant la càrrega. La càrrega sense fils inversa ara està desactivada.</string>
     <string name="wireless_charging_notification_titile">Desactivada la càrrega sense fil inversa</string>
     <string name="xiaomi">Mi</string>

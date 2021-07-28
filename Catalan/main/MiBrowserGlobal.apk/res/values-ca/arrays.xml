@@ -118,6 +118,10 @@
         <item>Cap</item>
         <item>Nou usuari</item>
     </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Cerca</item>
+        <item>Notícies</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Elimineu</item>
         <item>No, gràcies</item>

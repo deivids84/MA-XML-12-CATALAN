@@ -54,11 +54,11 @@
     <string name="boot_video_skip">Omet</string>
     <string name="calculator_introduction">Podeu utilitzar aquesta aplicació per fer càlculs, convertir unitats i monedes i estimar els pagaments de la vostra hipoteca.</string>
     <string name="camera_introduction">Podeu utilitzar la Càmera per fer fotos i enregistrar vídeos.</string>
-    <string name="carrier_introduction">"Per tal de proporcionar-vos millors serveis, el vostre dispositiu pot enviar periòdicament informació de la versió del dispositiu, dades d’identificació del dispositiu (incloses les adreces IMEI / IMSI / MSISDN / MAC, MEID / ICCID) i l'informació aproximada de la ubicació (inclòs l’identificador de l’estació base) a l'operador mitjançant la Wi-Fi, xarxa de dades mòbils o SMS gratuïts. L'operador promet analitzar la informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no revelarà informació rellevant a tercers en cap forma que l’identifiqui personalment. La declaració específica del operador prevaldrà. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
+    <string name="carrier_introduction_china">"Per tal de proporcionar-vos millors serveis, els processos que s’executen al vostre dispositiu (inclosos SystemHelper, RegService i Carrier Services) poden enviar periòdicament la informació relacionada amb el vostre dispositiu i la vostra targeta SIM (incloent-hi IMEI, IMSI, MSISDN, MEID, ICCID, adreça MAC , Versió MIUI, versió d'Android, model de dispositiu i especificacions bàsiques de maquinari), així com informació aproximada d'ubicació (inclosa la regió, les coordenades, l'identificador d'àrea i l'identificador de l'estació base) a l'operador mitjançant Wi-Fi, xarxa de dades mòbils o gratuït SMS. El transportista promet analitzar la informació rellevant només per millorar la qualitat dels serveis o proporcionar serveis o tecnologies personalitzades i no revelarà informació rellevant a tercers en cap forma que l’identifiqui personalment. La declaració específica del transportista prevaldrà. Consulteu el vostre operador sobre el cost d’utilitzar aquest servei."</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="clock_introduction">Podeu utilitzar aquesta aplicació per veure l\'hora, així com utilitzar el temporitzador, el rellotge mundial, el cronòmetre, configurar les alarmes i més.</string>
     <string name="close">Tanca</string>
-    <string name="close_location_service_setting">Podeu triar entre desactivar l’accés a la ubicació a Configuració &gt; Configuració addicional &gt; Privadesa o restringir els permisos per a aplicacions individuals a Seguretat.</string>
+    <string name="close_location_service_setting">Podeu triar desactivar l\'accés a la ubicació a Configuració &gt; Protecció de privadesa &gt; Gestioneu o restringiu els permisos per a aplicacions individuals a Seguretat.</string>
     <string name="cm_terms_content">"Per millorar els serveis que li presten, l'operador de xarxa mòbil de la vostra elecció pot carregar les seves dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades. Aquesta informació només s'utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i oferir un contingut més personalitzat. Aquesta informació no serà utilitzada per identificar-vos personalment i no serà revelada a tercers."</string>
     <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
     <string name="compass_introduction">Podeu utilitzar aquesta aplicació per la navegació, així com per veure les coordenades, la pressió atmosfèrica i l\'altitud.</string>
@@ -86,6 +86,7 @@
     <string name="disagreement_exit_app">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. En aquests casos, podeu triar tancar la sessió o restringir els permisos a la Configuració."</string>
     <string name="disagreement_function">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta funció. En aquests casos podeu optar per no utilitzar aquesta característica."</string>
     <string name="disagreement_location_service">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei."</string>
+    <string name="disagreement_terminate_miuidaemon">"Si no accepteu concedir aquests permisos ni compartir i penjar la vostra informació personal, no podreu utilitzar aquest servei. Podeu triar no utilitzar aquest servei o restringir els permisos a la configuració en aquests casos. Tingueu en compte que utilitzarem els permisos només quan comenceu a transferir dades del dispositiu quan la pantalla estigui danyada."</string>
     <string name="disagreement_terminate_service">"Si no accepteu concedir aquests permisos o compartir i penjar la vostra informació personal, no podreu utilitzar aquesta aplicació. En aquests caos, podeu triar desinstal·lar, tancar la sessió o restringir els permisos a la Configuració."</string>
     <string name="download_introduction">\"Descàrregues\" utilitza Xunlei per descarregar elements al dispositiu. Aquesta eina funciona per a GetApps, actualitzacions del sistema, temes, vídeos i descàrregues del navegador.</string>
     <string name="early_morning">Matí</string>
@@ -241,10 +242,14 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Acord de llicència d\'usuari final</string>
     <string name="other_settings_location">Ubicació</string>
     <string name="other_settings_location_summary">Permet a les aplicacions que accedeixin a la ubicació</string>
-    <string name="other_settings_upload_debug_log_summary">Les estadístiques d\'ús que ens ajuden a localitzar i resoldre problemes poden contenir informació personal</string>
-    <string name="other_settings_upload_debug_log_title">Envia automàticament les dades del diagnòstic</string>
+    <string name="other_settings_upload_debug_log_detail">"Ajudeu a millorar l’experiència del vostre dispositiu MIUI enviant automàticament dades de diagnòstic, dispositius i ús de les aplicacions a Xiaomi. Això ajudarà a millorar la durada de la bateria, l'estabilitat del sistema MIUI i de l'aplicació, etc.
+Les dades que envieu inclouran informació general sobre el vostre dispositiu i sobre com el feu servir (per exemple, nivell de bateria, activitat del sistema i de l'aplicació i errors). Les dades s’utilitzaran per millorar els dispositius MIUI.
+Desactivar aquesta funció no afecta la capacitat del dispositiu per enviar la informació necessària per a serveis essencials, com ara actualitzacions del sistema i seguretat.
+Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seguretat &gt; Privadesa &gt; Ús i diagnòstic."</string>
+    <string name="other_settings_upload_debug_log_summary">Ajudeu a millorar l’experiència del vostre dispositiu MIUI enviant automàticament dades de diagnòstic, dispositius i ús de les aplicacions a Xiaomi. Això ajudarà a millorar la durada de la bateria, l\'estabilitat del sistema MIUI i de l\'aplicació, etc.</string>
+    <string name="other_settings_upload_debug_log_title">Enviar dades d’ús i diagnòstic</string>
     <string name="other_settings_user_experience">Programa d\'Experiència d\'Usuari</string>
-    <string name="other_settings_user_experience_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús amb nosaltres. Mostra els detalls</string>
+    <string name="other_settings_user_experience_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d’ús.</string>
     <string name="other_settings_user_experience_summary_index">Mostra els detalls</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon us permet transferir dades del vostre dispositiu quan la pantalla està danyada.</string>
     <string name="permission_account">Accedir als comptes del vostre dispositiu:</string>
@@ -316,6 +321,7 @@
     <string name="provision_skip_underline">Omet</string>
     <string name="recorder_introduction">Podeu utilitzar aquesta aplicació per enregistrar àudio i fer còpies de seguretat al núvol.</string>
     <string name="require_authority_statement">Per permetre’ns proporcionar-vos serveis bàsics, heu de concedir els següents permisos per tal que puguem recopilar la vostra informació personal:</string>
+    <string name="require_miuidaemon_authority_statement">Per permetre’ns proporcionar-vos aquest servei, heu d’atorgar els permisos següents per tal que puguem recollir la vostra informació personal:</string>
     <string name="require_network_authority_statement">Per permetre’ns proporcionar-vos serveis bàsics, us heu de connectar a Internet i atorgar els permisos següents per tal que puguem recopilar la vostra informació personal:</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
@@ -410,7 +416,8 @@ Per poder utilitzar MIUI, heu d’acceptar el nostre Acord d’Usuari i la nostr
     <string name="terms_of_use_label_phrase">, Frases freqüents</string>
     <string name="terms_of_use_label_systemhelper">, Servei autoregistrat</string>
     <string name="terms_of_use_label_updater">, Actualitzador</string>
-    <string name="terms_of_use_lable_apps">Serveis Mi, Serveis d’activació de Mi SIM, Xiaomi Cloud, Troba dispositiu, Pantalla d’inici, Jocs, Dimoni MIUI, Components del sistema MSA, serveis de traducció, SDK MIUI, Aplicacions ràpides, Voltes d’aplicacions, estadístiques, Mi Enllaç</string>
+    <string name="terms_of_use_lable_apps">Serveis Mi, serveis d\'activació Mi SIM, Xiaomi Cloud, Cerca dispositiu, Pantalla inicial, Jocs, MIUI Daemon, Components del sistema MSA, Servei de traducció, MIUI SDK, Aplicacions ràpides, Volta d\'aplicacions, estadístiques, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Serveis Mi, Xiaomi Cloud, Cerca dispositiu, Pantalla d\'inici, Jocs, MIUI Daemon, Components del sistema MSA, Servei de traducció, MIUI SDK, Aplicacions ràpides, Volta d\'aplicacions, estadístiques, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Heu d’acceptar la Política de privadesa de Facemoji abans d’utilitzar aquesta funció."</string>
@@ -469,7 +476,7 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
     <string name="time_picker_dialog_title">Estableix l’hora</string>
-    <string name="title_fingerprint">Afegiu l\'empremta</string>
+    <string name="title_fingerprint">Estableix el bloqueig de pantalla</string>
     <string name="title_set_fingerprint">Bloqueig de pantalla</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
@@ -478,6 +485,7 @@ Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’ut
     <string name="tuesday_shortest">dt.</string>
     <string name="user_agreement">Condicions del servei</string>
     <string name="user_agreement_declare">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, Servei d’activació de Mi SIM, Xiaomi Cloud, Servei de còpia de seguretat, Troba el dispositiu, Pantalla d’inici, Frases freqüents, Servei de comunicacions per Internet Xiaomi, Servei de traducció, Daemon MIUI, Visualitzador HTML, SDK MIUI, Aplicació d’elements segurs, Assistent IA, Bateria i rendiment, el detector d’alimentació, Joyose, OS AI Setting i Updater es connectaran a la xarxa. Les targetes intel·ligents, el Gestor de permisos i els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
+    <string name="user_agreement_declare_wifi_device">Abans d’utilitzar MIUI, heu de llegir i acceptar el nostre Acord d’usuari i la nostra Política de privadesa. Mentre s’activa el dispositiu, Xiaomi Cloud, Servei de còpia de seguretat, Cerca dispositiu, Pantalla d’inici, Frases freqüents, Servei de comunicacions per Internet Xiaomi, Servei de traducció, Dimoni MIUI, Visualitzador HTML, MIUI SDK, Aplicació d’elements segurs, Assistent AI, Bateria i rendiment, Power Detector, Joyose, OS AI Setting i Updater es connectaran a la xarxa. Les targetes intel·ligents, el Gestor de permisos i els serveis intel·ligents es connectaran a la xarxa i accediran a la vostra ubicació.</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="voice_assist_advice">Mi AI us permet utilitzar els controls de veu, però consumeix més energia (+ 1% cada hora).</string>

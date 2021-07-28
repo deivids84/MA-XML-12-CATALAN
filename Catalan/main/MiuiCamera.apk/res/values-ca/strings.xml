@@ -427,6 +427,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="clone_start_capture">Inicia la clonació</string>
     <string name="clone_too_much_movement_stop">Heu mogut el dispositiu massa lluny. De moment s\'ha deixat de capturar.</string>
     <string name="clone_video_mode">Vídeo</string>
+    <string name="close">Tanca</string>
     <string name="close_back_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
     <string name="close_front_flash_toast">"El vostre dispositiu està massa calent. Ara no es pot fer servir el flaix."</string>
     <string name="close_night_algo_toast_low_power">Carregueu el dispositiu per poder configurar l\'exposició</string>
@@ -533,6 +534,7 @@ i optimitza les vostres fotos amb aquesta informació"</string>
     <string name="custom_watermark_words_save_success">S\'ha desat correctament</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
+    <string name="dd_frn_f_t">Plegueu el dispositiu per utilitzar la càmera frontal</string>
     <string name="dialog_button_accept">Accepta</string>
     <string name="dialog_button_back">Enrere</string>
     <string name="dialog_button_cancel">Cancel·la</string>
@@ -556,11 +558,12 @@ els documents escanejats automàticament"</string>
     <string name="document_mode_use_hint_text_title">Escaneja documents</string>
     <string name="document_origin">Original</string>
     <string name="document_strengthen">Millorat</string>
-    <string name="dolly_zoom_capture_tip1">Col·loqueu el subjecte al marc i mantingueu el dispositiu a %d metres com a mínim</string>
-    <string name="dolly_zoom_capture_tip2">Allunyeu el dispositiu del subjecte de manera constant</string>
+    <string name="dolly_zoom_capture_tip1">Col·loqueu el subjecte al marc</string>
+    <string name="dolly_zoom_capture_tip2">Mantingueu el subjecte al centre i allunyeu el dispositiu constantment</string>
     <string name="dolly_zoom_capture_tip3">S\'ha perdut la pista del subjecte. Comenceu de nou.</string>
     <string name="dolly_zoom_capture_tip4">Heu allunyat massa el dispositiu. Comenceu de nou.</string>
     <string name="dolly_zoom_capture_tip5">"No s'ha pogut desar el vídeo"</string>
+    <string name="dolly_zoom_capture_tip6">Mou el tema al centre del marc</string>
     <string name="dolly_zoom_guide_tip1">"Assegureu-vos que hi ha prou espai entre el subjecte i el fons."</string>
     <string name="dolly_zoom_guide_tip10">I més!</string>
     <string name="dolly_zoom_guide_tip2">Intenteu evitar grans àrees de color sòlid.</string>
@@ -586,11 +589,15 @@ els documents escanejats automàticament"</string>
     <string name="dual_video_record_remote">Enregistrament de telèfon dual</string>
     <string name="dual_video_record_standalone">Separats</string>
     <string name="dual_video_user_guide_main_content">Per crear vídeos multicam, seleccioneu dues càmeres al dispositiu i feu fotos simultàniament. Els enregistraments es poden emmagatzemar per separat o combinar-los en una visualització dividida o un vídeo imatge en imatge.</string>
+    <string name="dual_video_user_guide_main_content_new">"Els vídeos multicam es roden simultàniament amb diverses càmeres.
+La gravació del telèfon dual també us permet connectar-vos a un altre dispositiu proper i crear un vídeo multicàmera seleccionant \"Combinat\"."</string>
     <string name="dual_video_user_guide_main_title">Vídeo multicàmera</string>
     <string name="dual_video_user_guide_merge_content">Dispara amb dues càmeres simultàniament i combina gravacions en una vista dividida o en un vídeo imatge en imatge.</string>
-    <string name="dual_video_user_guide_remote_content">"L'enregistrament de telèfon dual permet combinar canals de dos dispositius diferents en un sol vídeo. Podreu previsualitzar els dos canals i el vídeo final en aquest dispositiu. Tingueu en compte que l’àudio només el gravarà aquest dispositiu."</string>
+    <string name="dual_video_user_guide_merge_content_new">Es poden combinar dos enregistraments en una vista dividida o un vídeo imatge en imatge.</string>
+    <string name="dual_video_user_guide_remote_content">"Combineu feeds de dos dispositius diferents en un sol vídeo. Podreu previsualitzar els dos feeds i el vídeo final en aquest dispositiu. Tingueu en compte que l’àudio només el gravarà aquest dispositiu."</string>
     <string name="dual_video_user_guide_remote_p">Telèfon %d</string>
     <string name="dual_video_user_guide_standalone_content">Dispara amb dues càmeres simultàniament i desa les dues gravacions com a vídeos independents.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Els vídeos gravats simultàniament també es poden separar i desar com a dos fitxers.</string>
     <string name="early_morning">Matí</string>
     <string name="edit_blusher">Coloret</string>
     <string name="edit_chin">Barbeta</string>
@@ -616,6 +623,7 @@ els documents escanejats automàticament"</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="error_fail_to_start_audio_capture">"No s'ha pogut iniciar el disparador per veu"</string>
+    <string name="esp_tip">Visualització prèvia de la pantalla exterior</string>
     <string name="evening">Tarda</string>
     <string name="expand_button_title">Avançat</string>
     <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
@@ -666,12 +674,14 @@ els documents escanejats automàticament"</string>
     <string name="film_video_d">Filmació a intervals nocturna</string>
     <string name="film_video_e">Món paral·lel</string>
     <string name="film_video_tip">Utilitzeu un trípode</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_year_month_day">MMMM d, aaaa</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_year_month_day">MMM d, aaaa</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_24hour">"HH \"en punt\""</string>
     <string name="fps960_toast">La captura de càmera lenta començarà a l’últim quart de l\'enregistrament</string>
     <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="friday">Divendres</string>
@@ -706,6 +716,10 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
 Imprimiu la còpia de forma sense fils en un paper A4."</string>
     <string name="id_card_mode_use_hint_text_title">Escaneja el DNI</string>
     <string name="install_confirmed">Instal·la</string>
+    <string name="invisible_mode_dialog_cancel">Cancel · lar</string>
+    <string name="invisible_mode_dialog_summary">"Ara no puc fer servir la càmera. Desactiveu el mode d'incògnit a la configuració per poder utilitzar la càmera."</string>
+    <string name="invisible_mode_dialog_title">"Ets d’incògnit"</string>
+    <string name="invisible_mode_dialog_to_close">Configuració</string>
     <string name="kaleidoscope_fragment_tab_name">Calidoscopi</string>
     <string name="lens_dirty_detected_content">"Sembla que la lent de la càmera està bruta.
 Netegeu la lent per aconseguir un millor efecte."</string>
@@ -774,7 +788,7 @@ en el mode Retrat"</string>
     <string name="live_sticker_updating">S\'està actualitzant…</string>
     <string name="live_workspace_title">Esborranys</string>
     <string name="live_workspace_title_edit">Selecciona els ítems a suprimir</string>
-    <string name="location_access_allow">Permet</string>
+    <string name="location_access_allow">Acordar</string>
     <string name="location_permission_des">Recorda les ubicacions de les fotos i vídeos</string>
     <string name="location_permission_not_ask_again">Permeteu que la càmera accedeixi a la vostra ubicació a Configuració.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permet</string>
@@ -953,6 +967,7 @@ es vegin més grans a les fotos"</string>
     <string name="module_name_panorama">Panoràmica</string>
     <string name="module_name_portrait">Retrat</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Escàner</string>
     <string name="module_name_square">Quadrat</string>
     <string name="module_name_super_moon">Supermoon</string>
     <string name="module_name_video">Vídeo</string>
@@ -1011,8 +1026,8 @@ es vegin més grans a les fotos"</string>
     <string name="network_access_user_notice_title">Connexió a Internet</string>
     <string name="network_connection_failed">"No s'ha pogut connectar"</string>
     <string name="network_connection_ongoing">S\'està connectant…</string>
-    <string name="network_connection_prerequisites">Activeu el Bluetooth i la Wi-Fi per poder utilitzar l\'enregistrament del telèfon dual.</string>
-    <string name="network_connection_prerequisites_china">Activeu el Bluetooth i la Wi-Fi per poder utilitzar l\'enregistrament del telèfon dual.</string>
+    <string name="network_connection_prerequisites">Activeu el Bluetooth i la Wi-Fi al centre de control per poder utilitzar la gravació del telèfon dual.</string>
+    <string name="network_connection_prerequisites_china">Activeu el Bluetooth i la Wi-Fi al centre de control per poder utilitzar la gravació del telèfon dual.</string>
     <string name="network_connection_rejected">Rebutjat</string>
     <string name="network_connection_timed_out">Temps de connexió esgotat</string>
     <string name="night">Vespre</string>
@@ -1185,12 +1200,13 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
     <string name="pref_camera_dual_enable_title">Activa la càmera dual</string>
     <string name="pref_camera_dual_sat_enable_title">Activa la càmera dual SAT</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">La velocitat de fotogrames es reduirà automàticament en condicions de poca llum per millorar la qualitat del vídeo</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">La velocitat de fotogrames es reduirà automàticament en condicions de poca llum o alta temperatura per millorar la qualitat del vídeo</string>
     <string name="pref_camera_dynamic_frame_rate_title">Ajusteu la velocitat del fotograma a poca llum</string>
     <string name="pref_camera_eis_entry_normal">Estabilitzador de vídeo</string>
     <string name="pref_camera_eis_entry_off">Desactivat</string>
     <string name="pref_camera_eis_entry_pro">Vídeo PRO constant</string>
     <string name="pref_camera_eis_title">EI</string>
+    <string name="pref_camera_esp">Visualització prèvia de la pantalla posterior</string>
     <string name="pref_camera_exposuretime_entry_auto">AUTOMÀTIC</string>
     <string name="pref_camera_face_info_watermark_title">Afegeix la marca d\'edat a la foto</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Detecció de cares ocultes automàticament</string>
@@ -1351,6 +1367,8 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_camera_tip_id_card">Escàner d’identificació</string>
     <string name="pref_camera_touchafaec_entry_off">Desactivat</string>
     <string name="pref_camera_touchafaec_entry_on">Activat</string>
+    <string name="pref_camera_track_focus_preferred_description">"Activeu l'opció per mantenir l'enfocament en les persones i els animals automàticament. També podreu seleccionar temes per fer-ne el seguiment manualment."</string>
+    <string name="pref_camera_track_focus_preferred_title">Seguiment d\'enfocat</string>
     <string name="pref_camera_ubifocus_title">Reenfocament</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corregeix els objectes distorsionats automàticament</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correcció de distorsió en plans ultra gran angular</string>
@@ -1508,14 +1526,18 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="pref_watermark_title">Marca d\'aigua</string>
     <string name="pref_wind_denoise_title">Filtre de vent</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
-    <string name="prek_b_j_o">Recrea l\'efecte envoltant estèreo</string>
+    <string name="prek_b_j_o">Activeu-lo per recrear l\'efecte envoltant estèreo. Canvieu al mode horitzontal o connecteu els auriculars per obtenir el millor efecte.</string>
     <string name="prek_b_j_p">Redueix l’impacte del vent sobre l\'enregistrament del so</string>
     <string name="prep_video_ai_audio_new_desc_tip">Es milloren els sons del element enfocat</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Els sons del tema enfocat es milloren en mode horitzontal</string>
     <string name="prep_video_ai_audio_single_desc_tip">Els sons de darrere de la pantalla es filtren</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Els sons de darrere de la pantalla es filtren en mode horitzontal</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"El zoom d’àudio no funciona amb el monitor intra-auricular en directe i el micròfon extern"</string>
     <string name="preparing_sd">Preparant emmagatzematge intern&#8230;</string>
     <string name="preview_back_pressed_hint">Toqueu de nou per tornar a la vista prèvia</string>
     <string name="pro_color_mode">Color Pro</string>
+    <string name="process_tips_1">"No plegueu el dispositiu fins que no es desi el vídeo"</string>
+    <string name="process_tips_2">"No desplegueu el dispositiu fins que no es desi el vídeo"</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Proveu el mode Macro</string>
     <string name="recommend_portrait">Proveu el mode Retrat</string>
@@ -1528,7 +1550,7 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="remote_online_exit_connecting">Voleu desconnectar i sortir de l\'enregistrament de telèfon dual ara?</string>
     <string name="remote_online_guide">Activeu l\'enregistrament de telèfon dual a l\'altre dispositiu mitjançant l\'interruptor del centre de control.</string>
     <string name="remote_online_interrupted">Desconnectat. Connecteu-vos de nou per continuar.</string>
-    <string name="remote_online_introduction_i">"L'enregistrament de telèfon dual permet combinar canals de dos dispositius diferents en un sol vídeo. Podreu previsualitzar els dos canals i el vídeo final en aquest dispositiu. Tingueu en compte que l’àudio només el gravarà aquest dispositiu."</string>
+    <string name="remote_online_introduction_i">"La gravació de dos telèfons permet combinar feeds de dos dispositius diferents que estan a prop l’un de l’altre en un sol vídeo. Podreu previsualitzar els dos feeds i el vídeo final en aquest dispositiu. Tingueu en compte que l’àudio només el gravarà aquest dispositiu."</string>
     <string name="remote_online_introduction_ii">Per fer funcionar aquesta funció, l’altre dispositiu Mi o Redmi ha de ser compatible amb la gravació de telèfon dual. Es pot activar mitjançant l\'interruptor del centre de control.</string>
     <string name="remote_online_permission">"Canvieu el permís d'ubicació de la càmera per \"Permet només durant l'ús de l'aplicació\" per poder utilitzar l'enregistrament de dos telèfons."</string>
     <string name="remote_online_searching">S\'estan cercant dispositius…</string>
@@ -1542,11 +1564,15 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
+    <string name="scan_install_prompt_header">Instal·leu l’escàner</string>
+    <string name="scan_install_prompt_loading">Instal·lació de l’escàner…</string>
+    <string name="scan_install_prompt_message">Instal·leu Scanner i torneu-ho a provar.</string>
     <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu Enrere i el botó de pujar volum simultàniament.</string>
     <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea dels auriculars"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_settings">Configuració de la càmera;Qualitat;Qualitat d\'imatge;Ubicació de la imatge;Ubicació de la fotografia;Detecció de cares;So de la càmera</string>
     <string name="see_qrcode_detals">Mostra els detalls del codi QR</string>
+    <string name="send">Envia</string>
     <string name="settings_camera_detect_card_description">Mostra una drecera sempre que la càmera IA detecti una targeta d\'identificació</string>
     <string name="settings_camera_detect_description_doc">Mostra una drecera sempre que la càmera IA detecti un document o una diapositiva de presentació</string>
     <string name="settings_camera_near_range_description">Elimineu la difuminació quan es concentri en superfícies planes molt a prop</string>
@@ -1691,6 +1717,10 @@ Manté el subjecte nítid mentre difumina el fons."</string>
     <string name="timbre_lady">Senyora</string>
     <string name="timbre_normal">Original</string>
     <string name="timbre_robot">Robot</string>
+    <string name="time_freeze_action_end_tip">Toqueu el botó per descongelar el fons</string>
+    <string name="time_freeze_action_start_tip">Toqueu el botó per congelar el fons</string>
+    <string name="time_freeze_adjust_button_title">Ajustar</string>
+    <string name="time_freeze_clipbox_tint">Congelar</string>
     <string name="time_lapse_error">"No es pot fer servir aquesta mida de vídeo en un enregistrament a càmera ràpida"</string>
     <string name="time_picker_dialog_title">Estableix l\'hora</string>
     <string name="time_stamp_date_format">dd/MM/yyyy</string>

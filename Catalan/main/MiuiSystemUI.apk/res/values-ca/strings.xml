@@ -284,6 +284,7 @@
     <string name="accessor_expires_text">L’arrendament caduca a les %s</string>
     <string name="accessor_info_title">Aplicacions que comparteixen dades</string>
     <string name="accessor_no_description_text">No es proporciona cap descripció de l\'aplicació.</string>
+    <string name="actionbar_button_up_description">esquena</string>
     <string name="activate_usb_message">Per activar aquesta funció, inseriu la targeta SIM.</string>
     <string name="activate_usb_title">Activar USB</string>
     <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
@@ -321,6 +322,7 @@
     <string name="adbwifi_warning_title">Vols permetre la depuració sense fils?</string>
     <string name="add_tile">Afegeix un mosaic</string>
     <string name="adjust_button_width">Ajusta l\'amplada del botó</string>
+    <string name="afternoon">Tarda</string>
     <string name="airplane_mode">Mode d\'avió</string>
     <string name="alarm_template">a %1$s</string>
     <string name="alarm_template_far">a %1$s</string>
@@ -328,6 +330,7 @@
     <string name="allow_mock_location_summary">Permet les ubicacions simulades</string>
     <string name="always_use_accessory">Sempre obriu %1$s quan hi ha %2$s connectat</string>
     <string name="always_use_device">Sempre obriu %1$s quan hi ha %2$s connectat</string>
+    <string name="am">AM</string>
     <string name="animator_duration_scale_title">Escala de la durada de l\'animació</string>
     <string name="apn_settings_not_available">"La configuració del nom del punt d'accés no està disponible per a aquest usuari"</string>
     <string name="app_accessed_mic">%1$s accedit al vostre micròfon</string>
@@ -578,6 +581,7 @@ Selecció"</string>
     <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
     <string name="clear_all_notifications_text">Neteja-ho tot</string>
     <string name="clear_text_end_icon_content_description">Neteja el text</string>
+    <string name="clearable_edittext_clear_description">Clar</string>
     <string name="click_to_enter_text">Toqueu per veure-ho</string>
     <string name="clipboard">Porta-retalls</string>
     <string name="clock">Rellotge</string>
@@ -587,6 +591,7 @@ Selecció"</string>
     <string name="clock_title_analog">Analògic</string>
     <string name="clock_title_bubble">Bombolla</string>
     <string name="clock_title_default">Per defecte</string>
+    <string name="close">Tanca</string>
     <string name="compat_mode_off">Estireu per omplir la pantalla</string>
     <string name="compat_mode_on">Zoom per omplir la pantalla</string>
     <string name="confirm">D\'acord</string>
@@ -670,6 +675,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="data_usage_ota">Actualitzacions del sistema</string>
     <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
     <string name="data_usage_uninstalled_apps_users">Aplicacions i usuaris eliminats</string>
+    <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="debug_app">Seleccioneu una aplicació de depuració</string>
     <string name="debug_app_not_set">"L'aplicació de depuració no està definida"</string>
     <string name="debug_app_set">Aplicació de depuració: %1$s</string>
@@ -703,6 +710,9 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="development_settings_not_available">"Les opcions de desenvolupador no estan disponibles per a aquest usuari"</string>
     <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
     <string name="development_settings_title">Opcions del desenvolupador</string>
+    <string name="device_locked_without_biometric">"No es pot desbloquejar aquest dispositiu amb empremtes digitals o dades de cara quan utilitzeu un bloqueig de pantalla de tercers"</string>
+    <string name="device_locked_without_biometric_face">"No es pot desbloquejar aquest dispositiu amb dades de cara quan utilitzeu un bloqueig de pantalla de tercers"</string>
+    <string name="device_locked_without_biometric_finger">"No es pot desbloquejar aquest dispositiu amb empremtes digitals quan utilitzeu un bloqueig de pantalla de tercers"</string>
     <string name="device_services">Serveis de dispositius</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: després d'un reinici, aquesta aplicació no s'iniciarà fins que no desbloquegeu el dispositiu."</string>
     <string name="disable_carrier_button_text">Desactiva l\'eSIM</string>
@@ -729,6 +739,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="drag_to_rearrange_tiles">Mantingueu premut i arrossegueu per reordenar les rajoles</string>
     <string name="drag_to_remove_disabled">Necessiteu almenys %1$d fitxes</string>
     <string name="drag_to_remove_tiles">Arrossegueu aquí per suprimir</string>
+    <string name="early_morning">Matí</string>
     <string name="emergency_call_string">Emergència</string>
     <string name="empty_shade_text">No hi ha notificacions</string>
     <string name="enable_adb">Depuració USB activada</string>
@@ -751,9 +762,12 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="enabled_by_admin">Activat per l\'administrador</string>
     <string name="enhanced_connectivity">Connectivitat millorada</string>
     <string name="enhanced_connectivity_summary">Activa la funció de connectivitat millorada.</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="error_disable_esim_msg">L\'eSIM no es pot desactivar a causa d\'un error.</string>
     <string name="error_disable_esim_title">No es pot desactivar l\'eSIM</string>
     <string name="ethernet_label">Ethernet</string>
+    <string name="evening">Tarda</string>
     <string name="expand_button_title">Avançat</string>
     <string name="expanded_header_battery_charged">Carregada</string>
     <string name="expanded_header_battery_charging">S\'està carregant</string>
@@ -778,21 +792,42 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="face_unlock_reveal_eye">Mostreu els vostres ulls</string>
     <string name="face_unlock_reveal_mouth">Feu visible els llavis</string>
     <string name="face_unlock_success">Desbloquejat correctament</string>
+    <string name="face_unlock_swipe_up_retry">Feu lliscar el dit cap amunt per tornar-ho a provar</string>
     <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració per a %1$s"</string>
     <string name="finger_error_single_mode">"No es pot utilitzar l'escàner d'empremtes en mode d'una sola mà. Sortiu del mode d'una sola mà i torneu-ho a provar."</string>
     <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremtes. Torneu a afegir l’empremta.</string>
     <string name="fingerprint_add_title">Afegeix empremta</string>
     <string name="fingerprint_again_identified_msg">La vostra empremta està activa. Feu-la servir per desbloquejar el dispositiu o per introduir la contrasenya.</string>
+    <string name="fingerprint_again_identified_msg_password">"La vostra empremta digital està activa ara.
+Utilitzeu-lo per desbloquejar el dispositiu o introduïu la vostra contrasenya."</string>
+    <string name="fingerprint_again_identified_msg_pattern">"La vostra empremta digital està activa ara.
+Utilitzeu-lo per desbloquejar el dispositiu o dibuixar el vostre patró."</string>
+    <string name="fingerprint_again_identified_msg_pin">"La vostra empremta digital està activa ara.
+Utilitzeu-lo per desbloquejar el dispositiu o introduïu el vostre PIN."</string>
     <string name="fingerprint_dialog_touch_sensor">Toqueu el sensor d’empremtes</string>
     <string name="fingerprint_enter_second_psw_msg">Introduïu la contrasenya del Segon espai després de reiniciar el dispositiu per poder utilitzar el reconeixement d’empremtes</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"No es pot entrar al Segon espai mentre es troba en mode Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduïu la contrasenya del Segon espai</string>
     <string name="fingerprint_not_identified_msg">Massa intents infructuosos. Introduïu la contrasenya ara o proveu d\'utilitzar la vostra empremta en pocs segons.</string>
     <string name="fingerprint_not_identified_msg_lock">Massa intents infructuosos. Introduïu la contrasenya.</string>
+    <string name="fingerprint_not_identified_msg_password">"Hi ha massa intents fallits.
+Introduïu la vostra contrasenya per desbloquejar-la."</string>
+    <string name="fingerprint_not_identified_msg_pattern">"Hi ha massa intents fallits.
+Dibuixa el teu patró per desbloquejar-lo."</string>
+    <string name="fingerprint_not_identified_msg_pin">"Hi ha massa intents fallits.
+Introduïu el PIN per desbloquejar."</string>
     <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
     <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
     <string name="fingerprint_try_again_text">Torneu-ho a provar</string>
+    <string name="fiveg_sa_switch_summary">Utilitzeu la xarxa SA a la SIM secundària (només per fer proves)</string>
+    <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="float_notification_snooze_strategy">Amaga les notificacions flotants temporalment</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="force_allow_on_external">Força que les aplicacions puguin escriure en emmagatzematge extern</string>
     <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
     <string name="force_msaa">Força 4x MSAA</string>
@@ -803,10 +838,14 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
     <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
     <string name="forced_resizable_secondary_display">És possible que l\'aplicació no funcioni en una pantalla secundària.</string>
     <string name="forget_password_string">Contrasenya oblidada</string>
+    <string name="friday">Divendres</string>
+    <string name="friday_short">Divendres</string>
+    <string name="friday_shortest">Divendres</string>
     <string name="fs_gesture_back_home_summary">Llisqueu des de baix ràpidament</string>
     <string name="fs_gesture_back_ready_title">Anar enrere</string>
     <string name="fs_gesture_final_over">"He acabat"</string>
     <string name="fs_gesture_final_restart">Torna a estudiar</string>
+    <string name="fs_gesture_final_see_more">Veure més demostracions a Configuració &gt; Pantalla d\'inici &gt; Navegació del sistema</string>
     <string name="fs_gesture_final_summary">Podeu tornar a utilitzar els botons a Configuració &gt; Pantalla completa</string>
     <string name="fs_gesture_final_title">"Ja podeu començar!"</string>
     <string name="fs_gesture_finish">Ben fet!</string>
@@ -929,13 +968,15 @@ Voleu continuar mostrant-los?"</string>
     <string name="input_lockscreen_password_hint_text">Introduïu la contrasenya</string>
     <string name="input_lockscreen_pattern_hint_text">Patró de dibuix</string>
     <string name="input_lockscreen_pin_hint_text">Introduïu el PIN</string>
-    <string name="input_password_after_boot_msg">Per desbloquejar el dispositiu, introduïu la vostra contrasenya</string>
+    <string name="input_password_after_boot_msg">Cal que introduïu la vostra contrasenya quan es reiniciï el dispositiu</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No es pot canviar entre els espais durant una trucada"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"No es pot canviar entre espais quan els controls parentals estan activats"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"No es pot permutar els espais mentre l'estalvi de bateria Ultra estigui activat"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Heu d\'entrar al Primer espai després del reinici del dispositiu</string>
     <string name="input_password_hint_text">Introduïu la contrasenya</string>
+    <string name="input_pattern_after_boot_msg">És necessari dibuixar el vostre patró quan es reiniciï el dispositiu</string>
     <string name="input_pattern_hint_text">Dibuixeu el patró de desbloqueig</string>
+    <string name="input_pin_after_boot_msg">Cal que introduïu el PIN quan es reiniciï el dispositiu</string>
     <string name="input_pin_code">Introduïu el PIN</string>
     <string name="input_puk_code">Introduïu el PUK</string>
     <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
@@ -1027,6 +1068,7 @@ total"</string>
     <string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Premeu Menú per desbloquejar.</string>
+    <string name="keyguard_invalid_sim_puk_hint">El codi PUK ha de contenir %1$d dígits.</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
@@ -1078,7 +1120,7 @@ total"</string>
     <string name="kg_invalid_confirm_pin_hint">Els codis PIN no coincideixen</string>
     <string name="kg_invalid_puk">Torneu a introduir el codi PUK correcte. Els intents repetits desactivaran permanentment la SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Escriviu un PIN que tingui entre 4 i 8 números.</string>
-    <string name="kg_invalid_sim_puk_hint">El codi PUK ha de tenir 8 números o més.</string>
+    <string name="kg_invalid_sim_puk_hint">El codi PUK ha de contenir %1$d dígits.</string>
     <string name="kg_login_too_many_attempts">Massa intents de patró</string>
     <string name="kg_password_instructions">Introduïu la contrasenya</string>
     <string name="kg_password_pin_failed">L\'operació amb el PIN de la SIM ha fallat!</string>
@@ -1168,6 +1210,7 @@ Torneu-ho a provar d'aquí a %2$d segons."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">"Les contrasenyes no coincideixen"</string>
     <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
     <string name="local_backup_password_toast_validation_failure">"No s'ha pogut establir la contrasenya de còpia de seguretat"</string>
+    <string name="lock_screen_access_to_5G">Accés al 5G</string>
     <string name="lock_screen_carrier_airplane_mode_on">Mode d\'avió</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
@@ -1219,6 +1262,7 @@ d MMMM"</string>
     <string name="memory_leak">Pèrdua de memòria</string>
     <string name="menu_ime">Commutador de teclat</string>
     <string name="mic_active">Micròfon actiu</string>
+    <string name="midnight">Nit</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">S\'ha desblocat per un dispositiu Bluetooth</string>
     <string name="miui_notification_menu_aggregate_feedback">Comentaris</string>
     <string name="miui_notification_menu_allow">Permet</string>
@@ -1227,9 +1271,12 @@ d MMMM"</string>
     <string name="miui_notification_menu_more_setting">Més</string>
     <string name="miui_notification_menu_msg_fold">Voleu agrupar totes les notificacions de %1$s?</string>
     <string name="miui_notification_menu_msg_not_allow">Voleu restringir totes les notificacions de %1$s?</string>
+    <string name="miui_notification_menu_msg_unfold">Vols mostrar %1$s notificacions per separat?</string>
     <string name="miui_notification_menu_setting_success">Fet</string>
     <string name="miui_notification_menu_snooze">Posposa</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
+    <string name="miui_notification_menu_unfold">Marca com a important</string>
+    <string name="miui_screen_rotation_freeze_message">Orientació de pantalla bloquejada en mode horitzontal</string>
     <string name="miui_snooze_always_float">"No ho amaguis"</string>
     <string name="miui_snooze_cancel">Cancel·la</string>
     <string name="miui_snooze_default_time">Durant %d minut</string>
@@ -1239,6 +1286,21 @@ d MMMM"</string>
     <string name="miui_snooze_until_unlock_screen">Fins el bloqueig</string>
     <string name="miui_snooze_user_set_fail">Aneu a Configuració &gt; Notificacions &amp; Centre de control per veure més opcions</string>
     <string name="miui_snooze_user_set_success">S\'ha aplicat correctament. Aneu a Configuració &gt; Notificacions &amp; Centre de control per veure més opcions.</string>
+    <string name="miui_unimportant_notifications">Notificacions sense importància</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
+    <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Més</string>
+    <string name="miuix_appcompat_cancel_description">Cancel · lar</string>
+    <string name="miuix_appcompat_confirm_description">Confirmeu</string>
+    <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Anul·leu la selecció</string>
+    <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Cancel · lar</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleccionar tot</string>
+    <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1257,6 +1319,9 @@ d MMMM"</string>
     <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
     <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
     <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
+    <string name="monday">Dilluns</string>
+    <string name="monday_short">Dilluns</string>
+    <string name="monday_shortest">Dilluns</string>
     <string name="monitoring_button_view_policies">Mostra les polítiques</string>
     <string name="monitoring_description_app">"Esteu connectats a %1$s, que pot monitorar l'activitat de la vostra xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
     <string name="monitoring_description_app_personal">"Esteu connectats a %1$s, que pot monitorar l'activitat de la xarxa personal, inclosos els correus, les aplicacions i els llocs web."</string>
@@ -1311,6 +1376,44 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="monitoring_title">Supervisió de xarxa</string>
     <string name="monitoring_title_device_owned">Administració de dispositius</string>
     <string name="monitoring_title_profile_owned">Monitoratge del perfil</string>
+    <string name="month_april">Abril</string>
+    <string name="month_april_short">Abril</string>
+    <string name="month_april_shortest">Abril</string>
+    <string name="month_august">Agost</string>
+    <string name="month_august_short">Agost</string>
+    <string name="month_august_shortest">Agost</string>
+    <string name="month_december">Desembre</string>
+    <string name="month_december_short">Des</string>
+    <string name="month_december_shortest">Des</string>
+    <string name="month_february">Febrer</string>
+    <string name="month_february_short">Febrer</string>
+    <string name="month_february_shortest">Febrer</string>
+    <string name="month_january">Gener</string>
+    <string name="month_january_short">Gener</string>
+    <string name="month_january_shortest">Gener</string>
+    <string name="month_july">Juliol</string>
+    <string name="month_july_short">Juliol</string>
+    <string name="month_july_shortest">Juliol</string>
+    <string name="month_june">juny</string>
+    <string name="month_june_short">Juny</string>
+    <string name="month_june_shortest">Juny</string>
+    <string name="month_march">Març</string>
+    <string name="month_march_short">desfigurar</string>
+    <string name="month_march_shortest">desfigurar</string>
+    <string name="month_may">Maig</string>
+    <string name="month_may_short">Maig</string>
+    <string name="month_may_shortest">Maig</string>
+    <string name="month_november">de novembre</string>
+    <string name="month_november_short">Novembre</string>
+    <string name="month_november_shortest">Novembre</string>
+    <string name="month_october">Octubre</string>
+    <string name="month_october_short">Octubre</string>
+    <string name="month_october_shortest">Octubre</string>
+    <string name="month_september">Setembre</string>
+    <string name="month_september_short">Set</string>
+    <string name="month_september_shortest">Set</string>
+    <string name="more">Més</string>
+    <string name="morning">Matí</string>
     <string name="mr_button_content_description">Botó d\'emissió</string>
     <string name="mr_cast_button_connected">Botó d\'emissió. Connectat</string>
     <string name="mr_cast_button_connecting">Botó d\'emissió. Connectant</string>
@@ -1335,6 +1438,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="mr_dialog_transferable_header">Reprodueix en grup</string>
     <string name="mr_system_route_name">Sistema</string>
     <string name="mr_user_route_category_name">Dispositius</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"No es pot configurar durant la trucada"</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="mtrl_picker_cancel">Cancel·la</string>
     <string name="mtrl_picker_confirm">Desa</string>
@@ -1346,10 +1450,12 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="nav_bar_default">(per defecte)</string>
     <string name="nav_bar_edge_panel">Tauler de la barra de navegació</string>
     <string name="nav_bar_layout">Disposició</string>
+    <string name="night">Vespre</string>
     <string name="no_application">Cap</string>
     <string name="no_auto_saver_action">No gràcies</string>
     <string name="no_shortcut">%1$s no admet les funcions de conversa</string>
     <string name="no_tiles_add">No hi ha fitxes a afegir</string>
+    <string name="noon">Migdia</string>
     <string name="not_default_data_content_description">No configurat per utilitzar les dades</string>
     <string name="not_set">Sense especificar</string>
     <string name="notification_alert_title">Per defecte</string>
@@ -1431,6 +1537,8 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
     <string name="overview">Descripció general</string>
     <string name="owner_info_settings_edit_text_hint">"Per exemple, l'Android d'en David."</string>
+    <string name="pad_zen_mode_warnings_all_time_content">Les notificacions es silenciaran</string>
+    <string name="pad_zen_mode_warnings_keyguard_content">Les notificacions es silenciaran quan el dispositiu estigui bloquejat</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="phone_hint">Llisca des de la icona del telèfon</string>
     <string name="phone_label">obre el telèfon</string>
@@ -1440,7 +1548,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="phone_locked_foget_password_method_content"><Data>Has de &lt;font color=#a5220e&gt;esborrat totes les dades &lt;/font&gt;en el dispositiu, incloent fotos i contactes, i després configurar una contrasenya nova pantalla de bloqueig.</Data></string>
     <string name="phone_locked_foget_password_method_next">Següent</string>
     <string name="phone_locked_foget_password_ok">D\'acord</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apageu el dispositiu, manteniu premut el &lt;font color=#a5220e&gt;Botó d\'encesa&lt;/font&gt; i el &lt;font color=#a5220e&gt;botó d\'apujar el volum&lt;/font&gt; simultàniament fins que aparegui el logotip de Mi.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Apagueu el dispositiu i, a continuació, manteniu premuts els &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; i &lt;font color=#e6e6e6&gt;[Volum +]&lt;/font&gt; fins que en vegeu &lt;img src=\"\"&gt;.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Seleccioneu &lt;font color=#a5220e&gt;\"Esborra &amp;amp; Restableix\"&lt;/font&gt; i espereu fins que el dispositiu es reiniciï.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
     <string name="phone_locked_string">Aquest dispositiu està bloquejat</string>
@@ -1686,6 +1794,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_user_new_user">Nou usuari</string>
     <string name="quick_settings_user_title">Usuari</string>
     <string name="quick_settings_vibrate_label">Vibració</string>
+    <string name="quick_settings_vowifi_label">Trucades per Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim1_label">SIM1 de trucades per Wi-Fi</string>
+    <string name="quick_settings_vowifi_sim2_label">SIM2 de trucades per Wi-Fi</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Augmenta la velocitat</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Cancel·la</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Confirma</string>
@@ -1724,6 +1835,9 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="running_process_item_user_label">Usuari: %1$s</string>
     <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
     <string name="runningservices_settings_title">Tasques en execució</string>
+    <string name="saturday">Dissabte</string>
+    <string name="saturday_short">Ds</string>
+    <string name="saturday_shortest">Ds</string>
     <string name="save">Desa</string>
     <string name="saved_network">Guardat per %1$s</string>
     <string name="screen_pinning_can_open_other_apps">L\'aplicació fixada pot obrir altres aplicacions.</string>
@@ -1799,6 +1913,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="select_webview_provider_dialog_title">Configura la implementació de WebView</string>
     <string name="select_webview_provider_title">Implementació de WebView</string>
     <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
+    <string name="send">Envia</string>
     <string name="sensor_privacy_mode">Sensors desactivats</string>
     <string name="shared_data_delete_failure_text">S\'ha produït un error en suprimir les dades compartides.</string>
     <string name="shared_data_no_accessors_dialog_text">No hi ha arrendaments adquirits per a aquestes dades compartides. Voleu suprimir-lo?</string>
@@ -1824,6 +1939,8 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="show_silently">Mostra les notificacions en silenci</string>
     <string name="show_touches">Mostra els tocs</string>
     <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Mantingueu premuts els &lt;font color=#e6e6e6&gt;[Power]&lt;/font&gt; i &lt;font color=#e6e6e6&gt;[Volum +]&lt;/font&gt; fins que vegeu &lt;img src=\"\"&gt;.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Seleccioneu &lt;font color=#e6e6e6&gt;[Esborrar dades]&lt;/font&gt; i toqueu &lt;font color=#e6e6e6&gt;[Reboot]&lt;/font&gt; després.</Data></string>
     <string name="sim_state_locked_dialog_title">La targeta SIM no és vàlida</string>
     <string name="sim_state_locked_puk_dialog_message">"Heu introduït un codi PUK incorrecte almenys %d vegades. La vostra targeta SIM no és vàlida ara. Substituïu aquesta targeta SIM per una altra."</string>
     <string name="simulate_color_space">Simula l\'espai de color</string>
@@ -1894,6 +2011,9 @@ d MMM"</string>
     <string name="structure_face_data_input_error_away_screen">Allunyeu una mica més el telèfon de la cara</string>
     <string name="structure_face_data_input_error_expose_features">"No puc veure algunes parts de la cara"</string>
     <string name="structure_face_data_input_error_overly_light">La llum de fons ara és massa forta</string>
+    <string name="sunday">Diumenge</string>
+    <string name="sunday_short">Sol</string>
+    <string name="sunday_shortest">Sol</string>
     <string name="switch_bar_off">Desactivat</string>
     <string name="switch_bar_on">Activat</string>
     <string name="switch_system_user">Torna al Primer espai</string>
@@ -1918,10 +2038,16 @@ d MMM"</string>
 \u0009• Utilitzeu el telèfon a temperatures altes"</string>
     <string name="thermal_shutdown_message">Ara el telèfon funciona amb normalitat</string>
     <string name="thermal_shutdown_title">El telèfon s’ha apagat a causa de la calor</string>
+    <string name="thursday">Dijous</string>
+    <string name="thursday_short">Dij</string>
+    <string name="thursday_shortest">Dij</string>
     <string name="tile_unavailable">No disponible</string>
+    <string name="time_picker_dialog_title">Estableix l’hora</string>
     <string name="time_unit_just_now">Ara mateix</string>
     <string name="title_convert_fbe">Convertint en xifrat basat en fitxers…</string>
     <string name="title_usb_accessory">Accessori USB</string>
+    <string name="today">Avui</string>
+    <string name="tomorrow">Demà</string>
     <string name="torch_high_temperature_warning">"El dispositiu està sobreescalfat. Ara no es pot utilitzar el lot."</string>
     <string name="touch_filtered_warning">Com que una aplicació oculta una sol·licitud de permís, la configuració no pot verificar la vostra resposta.</string>
     <string name="track_frame_time">Perfil de la renderització de la GPU</string>
@@ -1954,6 +2080,9 @@ d MMM"</string>
     <string name="tts_status_ok">%1$s és compatible</string>
     <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
     <string name="tts_status_title">Estat de l\'idioma per defecte</string>
+    <string name="tuesday">Dimarts</string>
+    <string name="tuesday_short">Dim</string>
+    <string name="tuesday_shortest">Dim</string>
     <string name="tuner_app">Aplicació %1$s</string>
     <string name="tuner_circle">Cercle</string>
     <string name="tuner_doze">Pantalla ambiental</string>
@@ -2108,6 +2237,9 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="wapi_psk_type">Tipus de contrasenya</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">Sí</string>
+    <string name="wednesday">Dimecres</string>
+    <string name="wednesday_short">Dm</string>
+    <string name="wednesday_shortest">Dm</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
     <string name="wifi_cant_connect">"No es pot connectar"</string>
@@ -2188,6 +2320,7 @@ Sembla que l’emmagatzematge de credencials no està habilitat."</string>
     <string name="wireless_charge_reset_device_detail">Comproveu que la posició del vostre dispositiu a la base de càrrega és correcta</string>
     <string name="wireless_charge_stop">S\'ha aturat la càrrega sense fils</string>
     <string name="wrong_password">Contrasenya incorrecta</string>
+    <string name="yesterday">Ahir</string>
     <string name="zen_alarm_warning">"No sentireu la vostra propera alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la vostra propera alarma %1$s a menys que desactiveu aquesta opció abans"</string>
     <string name="zen_alarms_introduction">"Els sons i les vibracions no us molestaran, tret de les alarmes. Encara escoltaràs tot el que triïs reproduir, inclosa música, vídeos i jocs."</string>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">Fa 1 hora</item>
+        <item quantity="other">Fa 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">d\'aquí a %d min</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Fa %d</item>
+        <item quantity="one">Fa 1 min</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">Fa %d dies</item>
         <item quantity="one">Fa %d dia</item>
@@ -15,6 +51,26 @@
     <plurals name="controls_number_of_favorites">
         <item quantity="other">S\'han afegit %s controls.</item>
         <item quantity="one">S\'ha afegit %s control.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Fa mitja hora</item>
+        <item quantity="other">Fa mitja hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Immediatament</item>
+        <item quantity="other">Immediatament</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minuts</item>
+        <item quantity="one">en 1 minut</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Codi PIN incorrecte, encara queden %d intents</item>
@@ -108,6 +164,14 @@
         <item quantity="other">Torneu-ho a provar d\'aquí a %d segons.</item>
         <item quantity="one">Torneu-ho a provar d\'aquí a 1 segon.</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Ara mateix</item>
+        <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d noves notificacions</item>
         <item quantity="one">%d nova notificació</item>
@@ -115,6 +179,10 @@
     <plurals name="notification_group_overflow_description">
         <item quantity="other">%s notificacions més dins.</item>
         <item quantity="one">%s notificació més dins.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Fa %d</item>
+        <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Torneu a provar-ho en %d minuts</item>

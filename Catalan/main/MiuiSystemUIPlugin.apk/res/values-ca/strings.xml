@@ -38,6 +38,7 @@
     <string name="afternoon">Tarda</string>
     <string name="already_in_small_freeform">Algunes aplicacions s’obren en finestres flotants</string>
     <string name="am">am</string>
+    <string name="app_name">Connector de la IU del sistema</string>
     <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="chip_text">Chip text</string>
@@ -107,8 +108,19 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Cancel · lar</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Encendre</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">El monitor intra-auricular en directe funciona quan el Bluetooth està activat. Voleu activar el Bluetooth ara?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Activeu el Bluetooth</string>
+    <string name="hearing_assist_transmission_label">Monitor intra-auricular en directe</string>
+    <string name="hearing_assist_transmission_tips_cancel">Cancel · lar</string>
+    <string name="hearing_assist_transmission_tips_continue">Encendre</string>
+    <string name="hearing_assist_transmission_tips_summary">"El monitor intra-auricular en directe transmet l’alimentació del micròfon del telèfon als auriculars Bluetooth connectats. Voleu activar-lo ara?"</string>
+    <string name="hearing_assist_transmission_tips_title">Monitor intra-auricular en directe</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="item_view_role_description">Pestanya</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">"El mode silenciós està desactivat ara. Les trucades i notificacions no es silenciaran."</string>
+    <string name="kddi_miui_toast_zen_to_standard">S\'ha canviat al mode de silenci. Les trucades i notificacions es silenciaran ara.</string>
     <string name="loading">Estat desconegut</string>
     <string name="material_slider_range_end">Final de l\'interval,</string>
     <string name="material_slider_range_start">Inici de l\'interval,</string>
@@ -127,9 +139,11 @@
     <string name="miui_ringer_total">No molestis</string>
     <string name="miui_ringer_total_description">Silencia els sons i desactiva la vibració de tots els elements, excepte el despertador</string>
     <string name="miui_toast_zen_dnd_to_off">"Les trucades i les notificacions ja no se silenciaran"</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Les notificacions ja no es silencien</string>
     <string name="miui_toast_zen_standard_to_off">El mode Silenci està desactivat</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">El mode Silenci està desactivat. Es reproduiran els tons de trucada, així com les notificacions i sons multimèdia.</string>
     <string name="miui_toast_zen_to_dnd">Les trucades i notificacions es silenciaran</string>
+    <string name="miui_toast_zen_to_dnd_T">Les notificacions es silenciaran</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Les trucades i notificacions es silenciaran quan el dispositiu estigui bloquejat</string>
     <string name="miui_toast_zen_to_standard">El mode Silenci està activat</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">S\'ha canviat al mode de silenci. Els tons de trucada, així com les notificacions i els sons multimèdia, ara es silencien.</string>
@@ -236,6 +250,7 @@
     <string name="quick_settings_pcmode_turn_off_description">"La pantalla del telèfon es mostrarà al monitor extern. Voleu desactivar el mode PC?"</string>
     <string name="quick_settings_pcmode_turn_on_description">"La pantalla de l'ordinador es mostrarà al monitor extern. Voleu activar el mode PC?"</string>
     <string name="quick_settings_scanner_label">Escàner</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
     <string name="quick_settings_wireless_label">Càrrega inversa sense fils</string>
     <string name="reboot_info_auto_boot">Propera alarma: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarma apagat: %s</string>
@@ -343,6 +358,9 @@ L'exposició llarga a sons forts pot causar problemes d'audició."</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
     <string name="wireless_charging_connected_message">"No es pot utilitzar la càrrega sense fils inversa quan el dispositiu es carrega sense fils."</string>
+    <string name="wireless_charging_fg_control_cancel">Cancel · lar</string>
+    <string name="wireless_charging_fg_control_messgae">"La càrrega inversa sense fils s'ha desactivat perquè %d%% de bateria. Podeu ajustar la configuració perquè la càrrega inversa sense fils funcioni més temps."</string>
+    <string name="wireless_charging_fg_control_ok">Ajustar</string>
     <string name="wireless_charging_low_battery_level_message">"No es pot utilitzar la càrrega sense fils inversa quan la bateria està carregada a menys de %d%%."</string>
     <string name="wireless_charging_ok">Ho tinc</string>
     <string name="wireless_charging_saver_cancel">Tanca</string>

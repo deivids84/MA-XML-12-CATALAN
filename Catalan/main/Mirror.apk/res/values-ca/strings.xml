@@ -34,6 +34,7 @@
     <string name="app_name">MIUI+ Beta</string>
     <string name="cancel">Cancel·la</string>
     <string name="clearable_edittext_clear_description">Clar</string>
+    <string name="clipboard_tip">Copiat de %1$s</string>
     <string name="close">Tanca</string>
     <string name="confirm_device_credential_password">Utilitzeu la contrasenya</string>
     <string name="copy">Copia</string>
@@ -54,8 +55,8 @@
     <string name="downloading">S\'està baixant…</string>
     <string name="early_morning">Matí</string>
     <string name="enable_wifi_alert_cancel">Cancel·la</string>
-    <string name="enable_wifi_alert_message">MIUI+ Beta connecta dispositius mitjançant la Wi-Fi. Voleu activar la Wi-Fi ara?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ Beta connecta dispositius mitjançant la Wi-Fi. Voleu activar la Wi-Fi ara?</string>
+    <string name="enable_wifi_alert_message">MIUI + connecta dispositius mitjançant Wi-Fi. Voleu activar la Wi-Fi ara?</string>
+    <string name="enable_wifi_alert_message_china">MIUI + connecta dispositius mitjançant Wi-Fi. Voleu activar la Wi-Fi ara?</string>
     <string name="enable_wifi_alert_ok">Encendre</string>
     <string name="enable_wifi_alert_title">Activeu la Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Activeu la Wi-Fi</string>
@@ -79,6 +80,7 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="fullscreen_sink_activity_label">El meu telèfon</string>
     <string name="generic_error_no_device_credential">No s\'ha definit cap PIN, patró ni contrasenya.</string>
     <string name="generic_error_no_keyguard">Aquest dispositiu no admet PIN, patrons ni contrasenyes.</string>
     <string name="generic_error_user_canceled">Autenticació cancel·lada per l\'usuari.</string>
@@ -182,6 +184,7 @@
     <string name="send">Envia</string>
     <string name="settings_connect">Com connectar-se</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
+    <string name="settings_connect_pc_group">Treballa amb l’ordinador</string>
     <string name="settings_connect_summary1">Baixeu i instal·leu MIUI+ Beta a l\'ordinador: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Escaneja el codi QR a la pantalla de l\'ordinador amb el dispositiu mòbil. Podeu utilitzar diverses aplicacions del sistema (per exemple, escàner, càmera, navegador Mi) per fer-ho.</string>
     <string name="settings_connect_title1">Pas 1</string>
@@ -196,6 +199,7 @@
     <string name="settings_feature_characteristics_title_3">Connecta\'t automàticament</string>
     <string name="settings_feature_dnd_summary">Silencia les notificacions quan el dispositiu està connectat a un ordinador</string>
     <string name="settings_feature_dnd_title">No molestis</string>
+    <string name="settings_feature_intro">Quant a aquesta funció</string>
     <string name="settings_feature_keep_screen_summary">Mantingueu el dispositiu desbloquejat per evitar desconnexions inesperades</string>
     <string name="settings_feature_keep_screen_title">"No bloquejar la pantalla"</string>
     <string name="settings_history">Historial de connexions</string>
@@ -208,12 +212,15 @@
     <string name="settings_home">MIUI+ Beta</string>
     <string name="settings_home_device_disconnect">Desconnecta</string>
     <string name="settings_home_device_group">Dispositiu connectat</string>
-    <string name="settings_home_sub_title">Combineu el telèfon i l’ordinador en una estació de treball</string>
-    <string name="settings_home_tips">"Screen Combo col·loca una còpia de la pantalla del telèfon en un ordinador connectat, cosa que us permet transferir fitxers i interactuar-hi amb el vostre dispositiu mòbil."</string>
+    <string name="settings_how_use">Mitjançant transferència</string>
     <string name="settings_log_options">Registres</string>
     <string name="settings_more_help">Ajuda</string>
+    <string name="settings_pc_history_title">Historial de connexions</string>
+    <string name="settings_pc_trusted_title">Connecteu-vos automàticament</string>
+    <string name="settings_pc_use_tile">Quant a aquesta funció</string>
     <string name="settings_privacy_policy">Política de privadesa</string>
     <string name="settings_scanner_button">Escàner</string>
+    <string name="settings_scanner_summary">Connecteu-vos a MIUI + mitjançant un codi QR</string>
     <string name="settings_trusted">Connecta\'t automàticament</string>
     <string name="settings_trusted_delete">Suprimeix</string>
     <string name="settings_trusted_delete_dialog_msg">"No podreu connectar-vos automàticament a aquest dispositiu després de suprimir-lo de la llista."</string>
@@ -221,6 +228,11 @@
     <string name="settings_trusted_device_group">Dispositius que es connecten automàticament</string>
     <string name="settings_trusted_device_none">No hi ha dispositius aquí</string>
     <string name="settings_trusted_tips">Connecteu-vos als dispositius propers seleccionats automàticament quan el Bluetooth i la Wi-Fi estan activats</string>
+    <string name="settings_trusted_tips_china">Connecteu-vos als dispositius propers seleccionats automàticament quan el Bluetooth i la Wi-Fi estan activats</string>
+    <string name="softap_notification_action">Connecteu</string>
+    <string name="softap_notification_message">No hi ha xarxes Wi-Fi disponibles. Voleu connectar-vos a aquest punt d\'accés Wi-Fi?</string>
+    <string name="softap_notification_message_china">No hi ha xarxes Wi-Fi disponibles. Voleu connectar-vos a aquest punt d\'accés Wi-Fi?</string>
+    <string name="softap_notification_title">"Connecteu-vos al punt d'accés de %1$s"</string>
     <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Dia dels Difunts</string>

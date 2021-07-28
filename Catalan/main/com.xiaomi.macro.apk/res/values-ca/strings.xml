@@ -65,6 +65,7 @@
     <string name="gb_game_macro_record_action">Toqueu per començar a enregistrar</string>
     <string name="gb_game_macro_save">Desa</string>
     <string name="gb_game_macro_save_exit">Desa</string>
+    <string name="gb_macro_floatview_noti">Permeteu que MiMacro es mostri sobre altres aplicacions</string>
     <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="multiple_times">Velocitat</string>
     <string name="name_can_not_be_renamed">Ja existeix un element amb aquest nom</string>

@@ -1217,12 +1217,12 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Mostra el menú</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimitza el contrast per a la llum disponible</item>
+        <item>Ajusteu els colors en funció del contingut mostrat</item>
         <item>Incrementa el contrast de pantalla</item>
         <item>El contrast romandrà constant</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Contrast automàtic</item>
+        <item>Vivid (recomanat)</item>
         <item>Contrast augmentat</item>
         <item>Estàndard</item>
     </string-array>
@@ -1313,6 +1313,24 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Per defecte</item>
         <item>Compacta</item>
     </string-array>
+    <string-array name="support_settings_haptic_device_list">
+        <item>apollo</item>
+        <item>cas</item>
+        <item>cmi</item>
+        <item>umi</item>
+        <item>alioth</item>
+        <item>aliothin</item>
+        <item>ares</item>
+        <item>chopin</item>
+        <item>haydn</item>
+        <item>thyme</item>
+        <item>star</item>
+        <item>mars</item>
+        <item>agate</item>
+        <item>vili</item>
+        <item>ambre</item>
+        <item>odin</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítid</item>
         <item>Base</item>
@@ -1356,12 +1374,12 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Escala d\'animació 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Ajusta els colors en funció de la il·luminació actual</item>
+        <item>Ajusteu els colors en funció del contingut mostrat</item>
         <item>Millora sempre els colors</item>
         <item>Restaura el color estàndard del contingut de la pantalla amb la calibració del color</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Auto (recomanat)</item>
+        <item>Vivid (recomanat)</item>
         <item>Saturat</item>
         <item>Color original</item>
     </string-array>

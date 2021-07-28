@@ -56,8 +56,11 @@
     <string name="adding_attachments_title">S\'estan afegint fitxers adjunts</string>
     <string name="adding_recipients">S\'estan afegint destinataris&#8230;</string>
     <string name="afternoon">Tarda</string>
+    <string name="aim_show_card">Mostra la targeta</string>
+    <string name="aim_show_original">Mostra el missatge</string>
     <string name="alert_dlg_cancel_button">Cancel·la</string>
     <string name="alert_dlg_ok_button">D\'acord</string>
+    <string name="allow">D\'acord</string>
     <string name="allow_network_hint">Activeu \"Actualitza la informació automàticament\" o comproveu la connexió de xarxa</string>
     <string name="already_updated">Actualitzat</string>
     <string name="am">am</string>
@@ -117,6 +120,7 @@
     <string name="call_sender">Truca al remitent</string>
     <string name="can_not_send_by_rcs">"No es pot utilitzar la missatgeria 5G"</string>
     <string name="can_not_view_group_chat_stranger">"No puc veure els detalls dels desconeguts."</string>
+    <string name="cancel">Cancel · lar</string>
     <string name="cannot_add_picture_and_video">"No es pot afegir vídeo i foto a una diapositiva."</string>
     <string name="cannot_add_slide_anymore">"No es poden afegir més diapositives."</string>
     <string name="cannot_forward_drm_obj">"L'objecte DRM inclòs en el missatge no es pot reenviar."</string>
@@ -200,6 +204,7 @@
     <string name="copy_verification_code_tip">S\'ha copiat correctament</string>
     <string name="current_data_version">Versió de Mi Message</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="debug_about_mms">Quant a Mms</string>
     <string name="debug_category_db">Base de dades</string>
     <string name="debug_category_others">Altres</string>
@@ -305,12 +310,14 @@
     <string name="file_size">Mida:</string>
     <string name="file_title">Nom:</string>
     <string name="file_width_height">Mida:</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_year_month_day">MMMM d, aaaa</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_year_month_day">MMM d, aaaa</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_24hour">"HH \"en punt\""</string>
     <string name="force_touch_new_message_title">Missatge nou</string>
     <string name="forward_from">Reenvia des de:</string>
     <string name="forward_message_select_title">Reenvia el missatge</string>
@@ -328,6 +335,7 @@
     <string name="from_pkg_name">Des de l\'aplicació:</string>
     <string name="ft_cfs_dialog_content">"No es poden entregar els fitxers mitjançant RCS. Voleu enviar un enllaç en un missatge de text?"</string>
     <string name="ft_cfs_dialog_title">Transferència de fitxers alternativa</string>
+    <string name="go_close">Configuració</string>
     <string name="google_message_promo_content">Xiaomi recomana actualitzar Google a Missatges. Instal·leu-la ara per compartir fotografies d’alta qualitat, xatejar per Wi-Fi i molt més. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Més informació</a></font></string>
     <string name="google_message_promo_title">Actualitzeu l\'aplicació de missatgeria</string>
     <string name="group_already_kicked_hint">"No es poden enviar els missatges. No ets membre d'aquest xat de grup."</string>
@@ -374,8 +382,14 @@
     <string name="invalid_destination">Adreça de destí no vàlida.</string>
     <string name="invalid_private_contact">Contacte invàlid</string>
     <string name="invalid_recipient_message">"Corregiu els destinataris o no rebran el missatge."</string>
+    <string name="invisible_mode_on">"Ets d’incògnit"</string>
     <string name="is_composing">Escrivint…</string>
     <string name="layout_selector_title">"Disseny de la presentació "</string>
+    <string name="leave_mms_tips_context_app">Voleu sortir de Missatgeria i obrir l\'aplicació ara?</string>
+    <string name="leave_mms_tips_context_app_name">Vols deixar la missatgeria i obrir el \"%s\" ara?</string>
+    <string name="leave_mms_tips_context_browser">Voleu deixar la missatgeria i obrir el navegador web ara?</string>
+    <string name="leave_mms_tips_context_email">Voleu deixar la missatgeria i obrir el client de correu electrònic ara?</string>
+    <string name="leave_mms_tips_context_map">Voleu deixar la missatgeria i obrir el mapa ara?</string>
     <string name="loading_all_messages">Un moment…</string>
     <string name="loading_conversations">Un moment…</string>
     <string name="loading_mms">Un moment…</string>
@@ -435,6 +449,7 @@ Comproveu la targeta SIM."</string>
     <string name="message_too_big_for_audio">Missatge massa gran</string>
     <string name="message_too_big_for_video">Missatge massa gran per inserir un vídeo.</string>
     <string name="message_type_label">"Escriviu: "</string>
+    <string name="message_unread">Sense llegir</string>
     <string name="messagelist_sender_self">Jo</string>
     <string name="messaging">Missatgeria</string>
     <string name="mi_message_title">Mi Message</string>
@@ -449,10 +464,13 @@ Comproveu la targeta SIM."</string>
     <string name="miuix_appcompat_cloud_state_syncing">S\'està sincronitzant amb el núvol…</string>
     <string name="miuix_appcompat_confirm_description">Confirmeu</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
+    <string name="miuix_appcompat_deselect_all">Anul·leu la selecció</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel · lar</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
+    <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -692,6 +710,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_summary_on_system_mms_priority">"Estableix l'aplicació de missatgeria de MIUI com l'aplicació per defecte per enviar i rebre MMS"</string>
     <string name="pref_summary_privacy_authority">Commuta aquest commutador per concedir o revocar l\'autorització</string>
     <string name="pref_summary_send_delivery_reports">Envia missatge de confirmació de lliurament al remitent quan rebi un missatge multimèdia</string>
+    <string name="pref_summary_switch_aim_card">Mostra missatges que contenen vídeos, imatges i format complex com a targetes</string>
     <string name="pref_summary_voice_report">Activa per llegir missatges en veu alta a mesura que es rebin. Premeu el botó de baixada de volum o el botó d\'engegada per detenir la reproducció.</string>
     <string name="pref_summary_wake_up_screen">Activa la pantalla cada vegada que es rep un nou missatge</string>
     <string name="pref_switch_sdk_setting">Canvia al sistema sms inteligent</string>
@@ -724,6 +743,7 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="pref_title_sms_delete">Límit de missatge de text</string>
     <string name="pref_title_sms_validity_period">Caducitat de l\'SMS</string>
     <string name="pref_title_storage_status">Estat d\'emmagatzematge de missatges</string>
+    <string name="pref_title_switch_aim_card">Converteix missatges en targetes</string>
     <string name="pref_title_system_mms_priority">Estableix com a predeterminat</string>
     <string name="pref_title_vcard">Envia via vCard</string>
     <string name="pref_title_voice_report">Llegiu els missatges en veu alta</string>
@@ -747,6 +767,9 @@ Cal enviar un missatge SMS per activar Mi Message. El vostre operador us cobrar�
     <string name="privacy_password_title3">Actualitza la contrasenya</string>
     <string name="privacy_password_title4">La contrasenya s\'ha actualitzat</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_revoke_nonetwork_msg">El vostre dispositiu ha de connectar-se a la xarxa perquè pugueu retirar el consentiment. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+    <string name="privacy_revoke_nonetwork_ok">Ho tinc</string>
+    <string name="privacy_revoke_nonetwork_title">"No es pot connectar a la xarxa"</string>
     <string name="privacy_state_revoked_cancel">Surt</string>
     <string name="privacy_state_revoked_content">En desactivar l\'interruptor, retirareu el vostre consentiment a la política de privadesa de missatgeria. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. El missatge Mi i la missatgeria intel·ligent que proporciona Messaging han de recopilar la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la Política de privadesa de missatgeria es considerarà com a denegació d’acceptar els serveis basats en la informació personal recollida proporcionada per Mi Message i Smart Messaging.</string>
     <string name="privacy_state_revoked_dialog_title">Retirada del consentiment</string>
@@ -1055,6 +1078,7 @@ Mireu els recomanats!"</string>
     <string name="slide_show_part">Part %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Feu lliscar amunt per cancel·lar</string>
     <string name="slideshow_activity">Presentació</string>
+    <string name="small_window_log_text">"La càmera no es pot utilitzar en mode multi-finestra"</string>
     <string name="smart_message_title">Missatgeria Intel·ligent</string>
     <string name="smart_message_upgrade_title">Actualització de la política de privadesa de missatgeria intel·ligent</string>
     <string name="smart_messages_network_allow_message">Mi Message necessita connectar-se a Internet per tal que els seus serveis funcionin amb normalitat. Voleu permetre-ho?</string>
@@ -1246,6 +1270,9 @@ Si no accepteu concedir aquests permisos o compartir i penjar la vostra informac
     <string name="type_to_compose_text_or_leave_blank">Escriviu el missatge o deixi\'l en blanc</string>
     <string name="type_vcard">vCard</string>
     <string name="type_video">vídeo</string>
+    <string name="unable_connect_camera">"Ets d’incògnit. Ara no puc fer servir la càmera."</string>
+    <string name="unable_get_location">"Ets d’incògnit. Ara no puc utilitzar els serveis d'ubicació."</string>
+    <string name="unable_use_microphone">"Ets d’incògnit. Ara no es pot utilitzar el micròfon."</string>
     <string name="undelivered_msg_dialog_body">"No es pot enviar aquest missatge.
 Intents realitzats: %s"</string>
     <string name="undelivered_msg_dialog_title">Missatge no lliurat</string>

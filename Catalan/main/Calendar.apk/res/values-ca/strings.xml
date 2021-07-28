@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navega a la pàgina d\'inici</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navega cap a dalt</string>
     <string name="abc_action_menu_overflow_description">Més opcions</string>
     <string name="abc_action_mode_done">Fet</string>
@@ -52,7 +50,6 @@
     <string name="agenda_tomorrow">DEMÀ, %1$s</string>
     <string name="agenda_view">Agenda</string>
     <string name="alarm_label">Descarteu</string>
-    <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Caducat</string>
     <string name="alert_title">Notificacions del calendari</string>
     <string name="all_events">Tots els esdeveniments</string>
@@ -77,8 +74,8 @@
     <string name="birthday_event_description_yesterday">Ahir va ser</string>
     <string name="birthday_notification_text_days_later">%1$s dies fins %4$s (%5$s)</string>
     <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
-    <string name="birthday_notification_title_days_later">"El %1$s de %2$s s'acosta."</string>
-    <string name="birthday_notification_title_today">"%1$s de %3$s"</string>
+    <string name="birthday_notification_title_days_later">"El %2$s de %1$s s'acosta."</string>
+    <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
     <string name="birthday_saved">Aniversari desat</string>
     <string name="birthday_term">aniversari</string>
     <string name="button_record_menstruation">Enregistra</string>
@@ -152,7 +149,6 @@ Accés des de qualsevol navegador
     <string name="date_calculate_tab">Calculeu data</string>
     <string name="date_calculate_today">%d dies</string>
     <string name="date_calculate_when">Inici</string>
-    <string name="date_format_y_m">MMM yyyy</string>
     <string name="date_interval_description">Esbrina quants dies hi ha entre dues dates</string>
     <string name="date_interval_end">A</string>
     <string name="date_interval_start">De</string>
@@ -160,7 +156,6 @@ Accés des de qualsevol navegador
     <string name="date_interval_text_to">Fins a %1$s</string>
     <string name="date_jump_hint">Salteu directament a un dia específic</string>
     <string name="date_jump_title">Vés a la data</string>
-    <string name="date_time_fmt" formatted="false">%s,%s</string>
     <string name="date_today">" (avui)"</string>
     <string name="day">Dia</string>
     <string name="day_view_new_event_hint">Esdeveniment nou</string>
@@ -205,6 +200,8 @@ Accés des de qualsevol navegador
     <string name="edit_event_tab_event">Esdeveniment</string>
     <string name="edit_event_to_label">Fins a</string>
     <string name="edit_your_long_holidays">Editeu els festius</string>
+    <string name="ee_dd_short_month">EEE, MMM dd</string>
+    <string name="eee_dd_long_month">EEEE, MMMM dd</string>
     <string name="email_guests_label">Envieu un correu als convidats</string>
     <string name="email_install_hint">S\'ha desinstal·lat el correu. Torneu a instal·lar el correu per restablir comptes de calendari o afegir un de nou.</string>
     <string name="email_picker_label">Envieu un correu amb</string>
@@ -231,10 +228,9 @@ Accés des de qualsevol navegador
     <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
     <string name="event_title">Títol</string>
     <string name="event_view">Mostreu l\'esdeveniment</string>
-    <string name="every_weekday">Entre setmana (dl.-dv.)</string>
+    <string name="every_weekday">Dies feiners (dilluns a divendres)</string>
     <string name="featured_title">Destacat</string>
     <string name="feedback">Comentaris</string>
-    <string name="festival_detail_title">Festiu</string>
     <string name="file_exception">S\'ha produït un error</string>
     <string name="fixtures">Elements</string>
     <string name="fourth_saturday_holiday">Cada segon i quart dissabte són festius</string>
@@ -244,12 +240,10 @@ Accés des de qualsevol navegador
     <string name="gadget_title">Control d\'energia</string>
     <string name="global_action_text_card_manager">Personalitzeu el vostre calendari</string>
     <string name="global_cricket_no_match">No hi han partits de criquet programats per avui. Comprova altres dies.</string>
-    <string name="global_football_final">FINAL</string>
     <string name="global_football_no_match">No hi han partits de fútbol programats per avui.</string>
     <string name="global_joke_collapse_text">Mostra\'n menys</string>
     <string name="global_joke_copy_toast_message">S\'ha copiat el text amb èxit</string>
     <string name="global_joke_expand_text">Mostra\'n més</string>
-    <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greeting_card_reminder_info_text">Rep notificacions diàries sobre salutacions i estats</string>
     <string name="greeting_success_subtext">Les notificacions estan activades</string>
     <string name="greeting_success_text">Fet</string>
@@ -295,7 +289,6 @@ Accés des de qualsevol navegador
     <string name="import_action">Importa</string>
     <string name="import_birthday">Importeu aniversari</string>
     <string name="imported">S\'ha importat</string>
-    <string name="insert_event_dialog_btn_negative">No</string>
     <string name="insert_event_dialog_btn_positive">Sí</string>
     <string name="insert_event_dialog_message">Voleu afegir aquest esdeveniment al calendari?</string>
     <string name="insert_event_dialog_title">Avís</string>
@@ -346,7 +339,6 @@ Accés des de qualsevol navegador
     <string name="menstruation_select_date">Seleccionar data</string>
     <string name="menstruation_setting">Configuració de menstruació</string>
     <string name="menstrution_auth_description">L’assistent de la Menstruació us permet enregistrar períodes, determinar les dates estimades dels propers períodes i rebre recordatoris. Totes les dades relacionades s\'emmagatzemaran localment al dispositiu.</string>
-    <string name="menu_general_preferences">General</string>
     <string name="menu_reminder_preferences">Recordatoris</string>
     <string name="mesens_card_title_stop_today">El període acaba avui</string>
     <string name="mesens_card_title_today_begin">El període pot començar avui</string>
@@ -361,25 +353,14 @@ Accés des de qualsevol navegador
     <string name="month_medium_april">Abr.</string>
     <string name="month_medium_august">Ag.</string>
     <string name="month_medium_december">Des.</string>
-    <string name="month_medium_february">Febr.</string>
     <string name="month_medium_january">Gen.</string>
-    <string name="month_medium_july">Jul.</string>
-    <string name="month_medium_june">Juny</string>
-    <string name="month_medium_march">Març</string>
-    <string name="month_medium_may">Maig</string>
-    <string name="month_medium_november">Nov.</string>
-    <string name="month_medium_october">Oct.</string>
-    <string name="month_medium_september">Set.</string>
     <string name="month_view">Mes</string>
-    <string name="month_year_format">MMMM yyyy</string>
     <string name="monthly">Mensual</string>
     <string name="monthly_on_day">Mensualment (el mateix dia)</string>
     <string name="monthly_on_day_count">Mensualment ‎(%1$s ‎)</string>
     <string name="more_details">Més informació</string>
-    <string name="more_string">+%1$s</string>
     <string name="movie_card_read_more">Segueix llegint</string>
     <string name="movie_card_title">Pel·lícules</string>
-    <string name="movie_card_trailer">Tràiler</string>
     <string name="name_title_menstruation_today_end">El període hauria d\'acabar avui</string>
     <string name="network_not_available">"No es pot connectar a la xarxa"</string>
     <string name="never">Mai</string>
@@ -416,30 +397,15 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="notes_week_name_two">%1$s i %2$s</string>
     <string name="notes_weekly">Setmanal</string>
     <string name="notification_channel_name">Recordatoris del calendari</string>
-    <string name="numbers">%d</string>
-    <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Mes Amanta:</string>
-    <string name="panchang_ayana">Ayana</string>
-    <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
     <string name="panchang_hindu_lunar_month">Mes lunar hindú</string>
     <string name="panchang_inauspicious_timings">Calendari poc propici</string>
-    <string name="panchang_karan">Karan</string>
     <string name="panchang_moon_sign">Signe lunar</string>
-    <string name="panchang_nakshatra">Nakshatra</string>
-    <string name="panchang_purnimanta">Purnimanta</string>
     <string name="panchang_purnimanta_month">Mes Purimanta:</string>
-    <string name="panchang_rahu_kalam">Rahu Kalam</string>
-    <string name="panchang_ritu">Ritu</string>
-    <string name="panchang_shaka_samvat">Shaka Samvat</string>
     <string name="panchang_sun_sign">Signe solar</string>
     <string name="panchang_till_time">Fins %1$s</string>
-    <string name="panchang_tithi">Tithi</string>
-    <string name="panchang_title">Panchang</string>
     <string name="panchang_to"> cap a </string>
     <string name="panchang_upto"> fins a </string>
-    <string name="panchang_vikram_samvat">Vikram Samvat</string>
-    <string name="panchang_yamaghanta">Yamaghanta</string>
-    <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Compatibilitat dels socis</string>
     <string name="path_calendar_settings">Aplicacions del sistema/Calendari/Configuració</string>
     <string name="picker_day">Dia seleccionat: %1$d. Feu lliscar el dit verticalment per seleccionar.</string>
@@ -452,7 +418,6 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
     <string name="pref_title_no_remind">Cap recordatori</string>
     <string name="pref_title_notification_remind">Recordatoris de notificació</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alerts_ringtone_title">So</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
     <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
@@ -465,7 +430,6 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="preferences_title">Calendari</string>
     <string name="preferences_use_home_tz_descrip">Mostreu els calendaris i les hores dels esdeveniments en el vostre propi fus horari quan viatgeu</string>
     <string name="preferences_use_home_tz_title">Utilitzeu el fus horari propi</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Inici de la setmana</string>
     <string name="preferences_week_start_day_title">Inici de la setmana</string>
     <string name="privacy_card_description">Accepta la nostra política de privadesa per accedir a totes les funcions.</string>
@@ -490,9 +454,7 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="repeat_custom_activity_label">Personalitzada</string>
     <string name="repeat_custom_prompt_daily">cada %1$s</string>
     <string name="repeat_custom_prompt_sentence">L\'esdeveniment es repetirà %1$s</string>
-    <string name="repeat_custom_prompt_splitter">", "</string>
     <string name="repeat_custom_string_prefix">Personalitzada</string>
-    <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Es deixa de repetir després de</string>
     <string name="repeat_end_times_unit">" vegades"</string>
     <string name="repeat_interval_dialog_title">Cada %1$s</string>
@@ -508,13 +470,9 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="repeat_label_frequency">Freqüència</string>
     <string name="repeat_label_interval">Cada</string>
     <string name="repeat_label_week">Setmana</string>
-    <string name="repeat_month_day_splitter">" "</string>
-    <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Repetiu</string>
     <string name="response_maybe">Potser</string>
-    <string name="response_no">No</string>
     <string name="response_yes">Sí</string>
-    <string name="rest_day_indication">: )</string>
     <string name="revoke_confirmation_dialog_confirm">Retirar</string>
     <string name="revoke_confirmation_dialog_message">En desactivar l\'interruptor, retirareu el vostre consentiment a la Política de privadesa de Calendari. Deixarem de recollir la vostra informació personal. La informació personal ja recollida i conservada se suprimirà en el termini específic que exigeix la legislació aplicable. Calendari necessita recollir la informació personal necessària per proporcionar-vos serveis bàsics. La retirada del consentiment a la seva Política de privadesa es considerarà com a denegació d’acceptar els seus serveis basats en la informació personal recollida.</string>
     <string name="revoke_confirmation_dialog_title">Retirada del consentiment</string>
@@ -536,7 +494,6 @@ Comproveu la configuració i proveu-ho de nou."</string>
     <string name="set_reminder">Establiu recordatori</string>
     <string name="setting">Configuració</string>
     <string name="setting_about_calendar_version">Versió del calendari:</string>
-    <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">Versió de MIUI:</string>
     <string name="setting_about_summary">Versió:</string>
     <string name="setting_accounts">Comptes de calendari</string>
@@ -596,6 +553,16 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="talk_back_read_date">%1$s (%2$s segons el calendari lunar).</string>
     <string name="talk_back_setting">Configuració</string>
     <string name="talk_back_tab_switch">Canvieu entre vistes</string>
+    <string name="talkback_bengali">Bengalí</string>
+    <string name="talkback_english">Anglès</string>
+    <string name="talkback_gujarati">Gujarati</string>
+    <string name="talkback_hindi">Hindi</string>
+    <string name="talkback_kannada">Kannada</string>
+    <string name="talkback_malayalam">Malayalam</string>
+    <string name="talkback_marathi">Marathi</string>
+    <string name="talkback_punjabi">Panjabi</string>
+    <string name="talkback_tamil">Tàmil</string>
+    <string name="talkback_telugu">Telugu</string>
     <string name="tb_go_back_today">Torna a avui</string>
     <string name="tb_mens_month_date_selected">%1$s seleccionat.</string>
     <string name="tb_mens_month_date_unselected">%1$s. Premeu per seleccionar la data.</string>
@@ -617,7 +584,6 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="template_announce_item_index">Esdeveniment %1$s de %2$s.</string>
     <string name="three_days_to_go">Falten %d dies</string>
     <string name="three_selected_holiday">%1$s, %2$s i %3$s són festius</string>
-    <string name="time_numbers">%02d</string>
     <string name="time_zone">Fus horari</string>
     <string name="timezone_label">Fus horari</string>
     <string name="title_click_record_menstruation">Registreu un període</string>
@@ -659,8 +625,6 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="travel_seat_number_text">Seient</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Estació de tren</string>
-    <string name="twelve_hour_time_format">hh:mm aa</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="two_selected_holiday">%1$s i %2$s són festius</string>
     <string name="unable_record_future_menstruation">"No es poden enregistrar períodes futurs"</string>
     <string name="unsubscribe_card">Donar-se de baixa</string>
@@ -687,7 +651,8 @@ També podeu afegir recordatoris perquè no perdre-us res important."</string>
     <string name="widget_get_weather_info">Obtén la informació meteorològica</string>
     <string name="widget_no_events">No hi ha esdeveniments</string>
     <string name="widget_select_style">Seleccioneu un estil</string>
-    <string name="work_day_indication">: (</string>
+    <string name="xiaomi_calendar_delete_description">Calendar és una aplicació del sistema que us permet crear i gestionar esdeveniments. Algunes de les seves funcions continuaran disponibles després d\'eliminar la drecera de la pantalla d\'inici.</string>
+    <string name="xiaomi_calendar_delete_title">Voleu eliminar \"Calendari\" de la pantalla d\'inici?</string>
     <string name="xiaomi_calendar_display_name">Calendari del Compte Mi</string>
     <string name="year">Any</string>
     <string name="yearly">Anualment ‎(cada %s‎)</string>

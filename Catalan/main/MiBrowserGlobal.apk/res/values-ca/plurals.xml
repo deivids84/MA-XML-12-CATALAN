@@ -176,41 +176,13 @@
         <item quantity="other">%d cançons populars</item>
         <item quantity="one">%d cançó popular</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Reprodueix el vídeo en %1$d segons</item>
-        <item quantity="one">Reprodueix el vídeo en %1$d segon</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d seleccionats</item>
-        <item quantity="one">%1$d seleccionat</item>
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">S\'ha seleccionat %1$d element</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"No has vist %d dels teus vídeos favorits des de fa molt de temps."</item>
         <item quantity="one">"No has vist %d vídeo favorit des de fa molt de temps."</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">S\'han suprimit %1$d vídeos correctament.</item>
-        <item quantity="one">S\'ha suprimit %1$d vídeo correctament.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Voleu esborrar %1$d vídeos?</item>
-        <item quantity="one">Voleu esborrar %1$d vídeo?</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">S\'han suprimit %1$d elements de l\'historial.</item>
-        <item quantity="one">S\'ha suprimit %1$d element de la historial.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">Voleu suprimir %1$d elements de l\'historial?</item>
-        <item quantity="one">Voleu suprimir %1$d element de l’historial?</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">Les actualizacions %1$d estan disponibles.</item>
-        <item quantity="one">La actualizació %1$d està disponible.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">Falten %d minuts</item>
-        <item quantity="one">Falta %d minut</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Comprova %1$d vídeos nous</item>

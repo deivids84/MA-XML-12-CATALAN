@@ -85,23 +85,28 @@
     <string name="bugreport_tool_log_dumping_title">S\'està creant l\'informe d\'error</string>
     <string name="catch_full_log_action_cancel">Cancel·la</string>
     <string name="catch_full_log_action_complete">Finalitza i puja</string>
+    <string name="catch_full_log_action_start">Començar</string>
     <string name="catch_full_log_add_original_photo">Afegiu una imatge original o un breu vídeo</string>
     <string name="catch_full_log_add_photo">Afegeix foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Si el problema del qual esteu informant està relacionat amb la qualitat de la imatge de la càmera, afegiu-hi una foto original de mostra (sense retallar) per ajudar-nos a localitzar el problema. Voleu afegir-la ara?"</string>
+    <string name="catch_full_log_category">Tipus de registre</string>
     <string name="catch_full_log_dialog_confirm_text">Vés a la pantalla d\'inici</string>
-    <string name="catch_full_log_dialog_content">"MIUI està generant un registre. Això pot afectar el rendiment general del dispositiu. Si no podeu reproduir el problema de què voleu informar, torneu als registres i toqueu \"Cancel·la\"."</string>
+    <string name="catch_full_log_dialog_content">"Això pot afectar el rendiment general del dispositiu. Si no podeu reproduir el problema que voleu informar, torneu als registres i toqueu \"Cancel·la\"."</string>
+    <string name="catch_full_log_dialog_title">Generació de registres…</string>
     <string name="catch_full_log_dump_hprof_failed">"No s'ha pogut generar el registre d'alentiments"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Torneu a la funció de què voleu informar i reproduir.
 2. Torneu a aquesta pàgina i toqueu \"Finalitza i puja\"."</string>
-    <string name="catch_full_log_item_content_title">Passos</string>
-    <string name="catch_full_log_item_title_audio">Àudio, enregistrament de so i àudio de trucades</string>
+    <string name="catch_full_log_item_content_catching">Generació de registres…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Toqueu \"Inici\" per començar a generar registres.
+%2$d. Reprodueix el problema que has trobat.
+%3$d. Torneu a aquesta pàgina i toqueu \"Finalitza i penja\"."</string>
+    <string name="catch_full_log_item_content_title">Com es generen registres</string>
+    <string name="catch_full_log_item_title_audio">Àudio, so de trucades i enregistrament d\'àudio</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">S\'està alentint</string>
     <string name="catch_full_log_item_title_gps">Serveis d\'ubicació</string>
     <string name="catch_full_log_item_title_sensor">Sensors</string>
     <string name="catch_full_log_item_title_signal">Telèfon, senyal i xarxes mòbils</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi i ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">Wi-Fi i ShareMe</string>
     <string name="catch_full_log_notification_content">Toqueu per tornar als registres</string>
     <string name="catch_full_log_notification_title">S\'està generant un registre…</string>
     <string name="catch_full_log_privacy_content_audio">"Esteu generant registres i els deseu al dispositiu. Els registres poden contenir informació sobre l'àudio del dispositiu, inclòs l'historial de reproducció i l'historial d'enregistraments. Tingueu cura i no divulgueu aquests registres a altres persones. Toqueu \"D'acord\" a continuació, si esteu d'acord a què recopilem les dades anteriors mentre generem els registres i, a continuació, pujarem els registres als nostres servidors per tal de localitzar i resoldre els problemes de què informeu."</string>

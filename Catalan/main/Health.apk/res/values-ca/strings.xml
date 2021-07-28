@@ -68,6 +68,8 @@
     <string name="add_data_type_datasource">Afegeix origen de dades (%1$s)</string>
     <string name="add_model_card">"Toqueu el botó situat a la cantonada superior esquerra
 per afegir targetes"</string>
+    <string name="add_model_card2">"Toqueu el botó superior per afegir cartes.
+Podreu fer un seguiment dels vostres entrenaments i activitats."</string>
     <string name="add_owned_device">Dispositius disponibles</string>
     <string name="add_record">Afegeix</string>
     <string name="added_data_source">Fonts afegides</string>
@@ -206,6 +208,7 @@ Si no voleu accedir a les classes recomanades, podeu utilitzar els entrenaments 
     <string name="collapse">Oculta</string>
     <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
     <string name="complete_preference_basic_info">Completeu el perfil</string>
+    <string name="complete_progress">Progrés, progressar</string>
     <string name="completed">"Completada "</string>
     <string name="completed_stand">Us heu aixecat</string>
     <string name="confirm_opening">Activa</string>
@@ -334,6 +337,7 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
     <string name="dialog_delete_record_confirm">Voleu eliminar aquest registre?</string>
     <string name="dialog_exercise_purpose">Us donem la benvinguda a Xiaomi Health! El \"comptador de passos\" us permet veure quants passos feu durant el dia, així com establir i gestionar els objectius de la vostra activitat. Totes les dades relacionades s’emmagatzemaran localment al dispositiu, cosa que us permet gestionar-ho fàcilment.</string>
     <string name="dialog_exit">Surt</string>
+    <string name="dialog_exit_use">Surt</string>
     <string name="dialog_feedback_content">"Si no accepteu concedir aquests permisos, no podreu utilitzar algunes funcions d'aquesta aplicació; tanmateix, la seva funcionalitat bàsica encara estarà disponible. Sempre podeu restringir els permisos o revocar l’autorització a la Configuració."</string>
     <string name="dialog_feedback_purpose">Xiaomi Health necessita accedir a l\'emmagatzematge per poder enviar comentaris.</string>
     <string name="dialog_feedback_purpose2">Per enviar comentaris</string>
@@ -365,6 +369,8 @@ Xiaomi Health només us notificarà sobre elements importants."</string>
     <string name="diastolic_pressure">Diastòlica</string>
     <string name="disable">Desactivat</string>
     <string name="discard_update">No, gràcies</string>
+    <string name="download_apk">S\'està baixant %s…</string>
+    <string name="download_background">descarregar</string>
     <string name="drag_sort">Reorganitza</string>
     <string name="dream_talk">Parlant %1$s</string>
     <string name="dream_talk_record">Se us ha gravat quan parlàveu mentre dormíeu</string>
@@ -1585,6 +1591,7 @@ les dades de son"</string>
     <string name="tb_stand_day_ring">Pauses per aixecar-se avui: %1$s. Cal fer-ne com a mínim 12 avui.</string>
     <string name="tb_stand_wm_column_chart">Pauses per aixecar-se entre %1$s i %2$s. Llisqueu horitzontalment per canviar els períodes de temps. Toqueu per veure els detalls.</string>
     <string name="tb_stand_wm_column_click">%1$s. Pauses per aixecar-se: %2$d. %3$s.</string>
+    <string name="tb_step_widget" formatted="false">Avui. %1$s. Progrés: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desselecciona-ho tot</string>
     <string name="tb_user_account_signed">Compte Mi: %1$s.</string>
     <string name="tb_user_account_unsigned">Toqueu per iniciar la sessió al Compte Mi</string>
@@ -1725,6 +1732,7 @@ Voleu actualitzar-ho ara?</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="value_error_correct">Edita el registre</string>
+    <string name="view_step_and_progress">Consulteu el recompte de passos actual</string>
     <string name="visceral_fat">Greix visceral</string>
     <string name="visceral_fat_descripe_content">El greix visceral és fonamental per estabilitzar i protegir els òrgans interns. Tot i això, un greix visceral elevat augmenta el risc de malalties cardiovasculars i metabòliques.</string>
     <string name="voice_remind">"Hem augmentat el volum perquè escolteu millor les instruccions."</string>

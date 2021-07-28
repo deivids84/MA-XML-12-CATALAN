@@ -81,6 +81,7 @@
     <string name="error_receive_user_cancel">Transferència cancel·lada</string>
     <string name="error_receive_user_interrupted">L’altra persona ha cancel·lat la transferència</string>
     <string name="error_refuse_receive">Transferència cancel·lada</string>
+    <string name="error_remote_ap_working">Demaneu a l\'altra persona que desactiveu el punt d\'accés portàtil</string>
     <string name="error_remote_busy">Sembla que l’altre dispositiu està ocupat. Espere un minut o dos i torna-ho a provar.</string>
     <string name="error_remote_mirror_working">"L'altre dispositiu no pot acceptar elements mentre comparteix la pantalla"</string>
     <string name="error_self_busy">El dispositiu està ocupat. Espere un minut o dos i torna-ho a provar.</string>
@@ -228,6 +229,7 @@ Abans d’utilitzar Mi Share, heu de concedir els següents permisos, així com 
     <string name="retry_task">Reenvia</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
+    <string name="samsung_phone">Telèfon Samsung</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>

@@ -164,6 +164,10 @@
         <item quantity="other">S\'han trobat %1$s nous vídeos</item>
         <item quantity="one">S\'ha trobat %1$s nou vídeo</item>
     </plurals>
+    <plurals name="search_head_hint_all">
+        <item quantity="other">Resultats de la cerca (%1$d elements)</item>
+        <item quantity="one">Resultats de la cerca (%1$d elements)</item>
+    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Fitxers relacionats amb l\'aplicació %1$s (%2$d elements)</item>
         <item quantity="one">Fitxer relacionat amb l\'aplicació %1$s (%2$d element)</item>

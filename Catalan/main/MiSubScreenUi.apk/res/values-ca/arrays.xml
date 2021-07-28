@@ -59,4 +59,9 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="subscreen_mode_entries">
+        <item>%d segons</item>
+        <item>%d segons</item>
+        <item>%d segons</item>
+    </string-array>
 </resources>

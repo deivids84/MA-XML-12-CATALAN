@@ -64,6 +64,18 @@
         <item quantity="other">Negat %2$d vegades a la %1$s</item>
         <item quantity="one">Se nega %2$d cops a la %1$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Es permet %3$d vegades entre %1$s i %2$s</item>
+        <item quantity="one">Es permet %3$d temps entre %1$s i %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">S\'utilitza durant %1$d minuts</item>
+        <item quantity="one">S\'utilitza durant %1$d minuts</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">S\'utilitza durant %1$d minuts fins a l\' %2$s</item>
+        <item quantity="one">S\'utilitza durant %1$d minut fins a l\' %2$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">S\'han retornat %3$d missatges en blanc entre %1$s i %2$s</item>
         <item quantity="one">S\'ha retornat %3$d missatge en blanc entre %1$s i %2$s</item>
@@ -180,6 +192,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">fa %d dies</item>
         <item quantity="one">fa %d dia</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"La puntuació de rendiment del dispositiu és inferior a %d punts. Optimitzar ara?"</item>
+        <item quantity="one">"La puntuació de rendiment del dispositiu és inferior a %d punts. Optimitzar ara?"</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Avanç ràpid %d segons</item>
         <item quantity="one">Avanç ràpid %d segon</item>
@@ -191,6 +207,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <plurals name="find_applications">
         <item quantity="other">Cerca entre %d aplicacions</item>
         <item quantity="one">Cerca entre %d aplicació</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d riscos relacionats amb la privadesa</item>
+        <item quantity="one">%d risc relacionat amb la privadesa</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemes requereixen optimització</item>
@@ -240,6 +260,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
         <item quantity="other">S\'ha registrat %d dies seguits</item>
         <item quantity="one">S\'ha registrat %d vegada</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Aconseguit (%ds)</item>
+        <item quantity="one">Aconseguit (%ds)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Proveu el canviador de veu ara
 per obtenir %d dia de prova gratuïta!"</item>
@@ -267,6 +291,14 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Aquesta funció redueix la brillantor de la pantalla després de %d minuts d’inactivitat automàticament per estalviar energia. Voleu mantenir aquesta funció activada?</item>
+        <item quantity="one">Aquesta funció redueix la brillantor de la pantalla després de %d minut d\'inactivitat automàticament per estalviar energia. Voleu mantenir aquesta funció activada?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Redueix la brillantor de la pantalla automàticament per estalviar energia després de %d minuts d’inactivitat</item>
+        <item quantity="one">Redueix la brillantor de la pantalla automàticament per estalviar energia després de %d minut d’inactivitat</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Felicitats! Heu desbloquejat %s ous de Pasqua."</item>
@@ -325,8 +357,8 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="one">S\'ha trobat %d aplicació</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">%d riscs trobats, arregleu-los</item>
-        <item quantity="one">%d risc trobat, arregleu-lo</item>
+        <item quantity="other">%d riscos detectats</item>
+        <item quantity="one">%d risc detectat</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Seguiment d\'us de dades a %d aplicacions</item>
@@ -757,8 +789,8 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="one">S\'ha trobat %d aplicació no oficial</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">S\'han trobat %d virus i aplicacions insegures</item>
-        <item quantity="one">S\'ha trobat %d aplicació maliciosa</item>
+        <item quantity="other">S\'han detectat %d</item>
+        <item quantity="one">S\'ha detectat %d</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Cerca %d aplicacions</item>
@@ -771,6 +803,18 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">S\'han suprimit %d virus</item>
         <item quantity="one">S\'ha suprimit %d virus</item>
+    </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Només us queden %d intents per verificar el PUK de la vostra SIM. Si arribeu al límit per introduir PUK incorrectes, la vostra targeta SIM es cancel·larà. Voleu continuar igualment?</item>
+        <item quantity="one">Només us queden %d intents per verificar el PUK de la vostra SIM. Si arribeu al límit per introduir PUK incorrectes, la vostra targeta SIM es cancel·larà. Voleu continuar igualment?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">El PIN que heu introduït és incorrecte. %d intents.</item>
+        <item quantity="one">El PIN que heu introduït és incorrecte. %d intent.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Introduïu SIM PUK. %d intents.</item>
+        <item quantity="one">Introduïu SIM PUK. %d intent.</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s aplicacions de pagament estan protegides</item>
@@ -845,6 +889,10 @@ Feu un descans!"</item>
     <plurals name="view_num">
         <item quantity="other">%1$d visualitzacions</item>
         <item quantity="one">%1$d visualització</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Voleu esborrar %d aplicacions seleccionades?</item>
+        <item quantity="one">Voleu esborrar %d aplicació seleccionada?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicacions perilloses: %d</item>

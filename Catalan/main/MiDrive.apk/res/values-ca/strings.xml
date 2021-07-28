@@ -56,12 +56,15 @@
     <string name="category_select">Trieu</string>
     <string name="category_video">Vídeos</string>
     <string name="category_video_title">Vídeos</string>
+    <string name="channel_client_edit">Editat al dispositiu mòbil</string>
     <string name="channel_pc_edit">Editat a l\'ordinador</string>
     <string name="channel_pc_upload">Penjat des de l\'ordinador</string>
     <string name="channel_pc_view">Visualitzat a l\'ordinador</string>
     <string name="channel_phone_edit">Editat al telèfon</string>
     <string name="channel_phone_upload">Penjat des del telèfon</string>
     <string name="channel_phone_view">Visualitzat al telèfon</string>
+    <string name="channel_tablet_upload">Penjat des de la tauleta</string>
+    <string name="channel_tablet_view">Visualitzat a la tauleta</string>
     <string name="channel_web_edit">Editat al navegador</string>
     <string name="channel_web_upload">Penjat al navegador</string>
     <string name="channel_web_view">Visualitzat al navegador</string>
@@ -208,7 +211,7 @@
     <string name="micloud_space_duokan_detail">"Obriu Duokan al telèfon i aneu a Bookshelf &gt; Cloud storage per gestionar l'espai d'emmagatzematge.
 Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."</string>
     <string name="micloud_space_duokan_title">Espai d\'emmagatzematge de Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Obriu l'aplicació Recorder al telèfon i seleccioneu la carpeta amb els elements emmagatzemats al núvol.
+    <string name="micloud_space_soundrecorder_detail">"Obriu l'aplicació Recorder al dispositiu mòbil i seleccioneu la carpeta amb els elements emmagatzemats al núvol.
 Assegureu-vos que utilitzeu el compte Mi actual com a compte del sistema MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Enregistraments d\'àudio</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
