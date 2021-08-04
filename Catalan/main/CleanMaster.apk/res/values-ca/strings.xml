@@ -960,8 +960,8 @@
     <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="whatsapp_btn_quick_cleanup">Eliminar els elements seleccionats (%s)</string>
     <string name="whatsapp_cache_clear">S\'està netejant la memòria cau…</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Mantén l\'escaneig</string>

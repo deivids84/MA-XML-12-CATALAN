@@ -292,7 +292,6 @@
     <string name="battery_info_status_full">Completa</string>
     <string name="battery_info_status_not_charging">"No s'està carregant"</string>
     <string name="battery_info_status_unknown">Desconeguda</string>
-    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="bf_news_settings">Notícies financeres i de negocis</string>
     <string name="blob_expires_text">Caduca a les %s</string>
     <string name="blob_id_text">Identificador de dades compartides: %d</string>
@@ -2524,8 +2523,8 @@ Les trucades d'emergència només són possibles a les zones amb cobertura cel·
     <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
     <string name="wapi_yes">sí</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="wfc_provisioned_switch_string">Provisió de trucades wifi</string>
     <string name="wfcmode_ims_preferred">Prefereix IMS</string>
     <string name="wfcmode_mobile_preferred">Preferència a xarxes mòbils</string>

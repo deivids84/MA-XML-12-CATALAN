@@ -112,7 +112,6 @@
     <string name="battery_info_status_full">Plena</string>
     <string name="battery_info_status_not_charging">"No s'està carregant"</string>
     <string name="battery_info_status_unknown">Desconegut</string>
-    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="blob_expires_text">Caduca a les %s</string>
     <string name="blob_id_text">Identificador de dades compartides: %d</string>
     <string name="block_button">Bloqueja</string>
@@ -514,6 +513,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="notification_channel_in_call_service_crash">Aplicacions de telèfon bloquejades</string>
     <string name="notification_channel_incoming_call">Trucades entrants</string>
     <string name="notification_channel_missed_call">Trucades perdudes</string>
+    <string name="notification_channel_missed_call_DND">DND</string>
     <string name="notification_disconnectedCall_body">S\'ha desconnectat la trucada al %s causa de la realització d\'una trucada d\'emergència.</string>
     <string name="notification_disconnectedCall_generic_body">La vostra trucada s\'ha desconnectat a causa de la realització d\'una trucada d\'emergència.</string>
     <string name="notification_disconnectedCall_title">Trucada desconnectada</string>
@@ -792,8 +792,8 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
     <string name="wapi_yes">sí</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
     <string name="wifi_cant_connect">"No es pot connectar"</string>

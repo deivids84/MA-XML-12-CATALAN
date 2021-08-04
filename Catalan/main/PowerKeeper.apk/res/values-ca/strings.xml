@@ -265,7 +265,7 @@ L'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</
     <string name="warm_configure">Configuració del control de temperatura</string>
     <string name="warm_performance_tip">El dispositiu s\'escalfarà quan estigui executant més processos.</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="yesterday">Ahir</string>
 </resources>

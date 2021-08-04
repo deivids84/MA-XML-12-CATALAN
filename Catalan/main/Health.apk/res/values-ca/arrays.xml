@@ -133,7 +133,7 @@
     </string-array>
     <string-array name="repeat_mode_mild_abnormal_array">
         <item>Dl, Dc, Dv</item>
-        <item>Dm, Dj, Ds</item>
+        <item>Dt, Dj, Ds</item>
         <item>Dc, Dv, Dg</item>
     </string-array>
     <string-array name="repeat_mode_week_array">

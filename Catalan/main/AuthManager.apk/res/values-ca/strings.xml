@@ -429,8 +429,8 @@
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
     <string name="tuesday">dimarts</string>
-    <string name="tuesday_short">dm.</string>
-    <string name="tuesday_shortest">dm.</string>
+    <string name="tuesday_short">Dt.</string>
+    <string name="tuesday_shortest">dt.</string>
     <string name="virtual_reject_notice_content">S\'ha enviat una resposta en blanc a l\'aplicació per a protegir la teva informació personal</string>
     <string name="virtual_reject_notice_title_calendar">Accés al calendari de %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Accés a l\'historial de trucades de %1$s</string>

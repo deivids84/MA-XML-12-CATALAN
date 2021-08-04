@@ -100,7 +100,7 @@
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Configuració del compte</item>
         <item>Afegiu i gestioneu comptes de tercers</item>
-        <item>Comptes;SNS;WeChat;QQ;Weibo;Compte Mi;Compte</item>
+        <item>Comptes; SNS; WeChat; QQ; Mi Compte; Compte</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Canviar la contrasenya</item>

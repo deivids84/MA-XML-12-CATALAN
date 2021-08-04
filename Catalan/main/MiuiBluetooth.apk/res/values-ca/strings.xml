@@ -349,8 +349,6 @@ Consulteu a la Configuració per obtenir més informació."</string>
 Protocol de connexió més ràpid."</string>
     <string name="fast_connect_wbs_reset">Mantingueu premut el botó superior durant %1$s segons quan l\'apagueu</string>
     <string name="feiyu_vlog_name">Feiyu VLOG de butxaca</string>
-    <string name="fiveg_sa_switch_summary">Utilitzeu la xarxa SA a la SIM secundària (només per fer proves)</string>
-    <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
     <string name="fmt_date_long_year_month_day">MMMM dd, aaaa</string>
     <string name="fmt_date_numeric_month_day">M / d</string>
@@ -849,8 +847,8 @@ Qualsevol usuari pot actualitzar aplicacions per a tots els altres usuaris."</st
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">sí</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
     <string name="wifi_cant_connect">"No es pot connectar"</string>

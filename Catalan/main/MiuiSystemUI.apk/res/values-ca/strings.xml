@@ -819,8 +819,6 @@ Introduïu el PIN per desbloquejar."</string>
     <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
     <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
     <string name="fingerprint_try_again_text">Torneu-ho a provar</string>
-    <string name="fiveg_sa_switch_summary">Utilitzeu la xarxa SA a la SIM secundària (només per fer proves)</string>
-    <string name="fiveg_sa_vice_switch_title">SA a la SIM secundària</string>
     <string name="float_notification_snooze_strategy">Amaga les notificacions flotants temporalment</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -1050,6 +1048,7 @@ total"</string>
     <string name="keyguard_carrier_default">Sense servei.</string>
     <string name="keyguard_charged">Carregat</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna a la pantalla de blocatge</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Augment de la velocitat de càrrega %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Avui a les %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir a les %s</string>
@@ -1313,7 +1312,7 @@ d MMMM"</string>
     <string name="mobile_data">Dades mòbils</string>
     <string name="mobile_data_always_on">Mantingueu sempre les dades mòbils activades</string>
     <string name="mobile_data_always_on_summary">Manté sempre actives les dades mòbils, fins i tot quan la Wi-Fi està activa (per canviar ràpidament de xarxa).</string>
-    <string name="mobile_data_disable_message">No tindreu accés a les dades ni a Internet mitjançant %s. Internet només estarà disponible a través de la Wi-Fi.</string>
+    <string name="mobile_data_disable_message">"No tindreu accés a dades ni a Internet mitjançant %s. Internet només estarà disponible mitjançant Wi-Fi."</string>
     <string name="mobile_data_disable_message_default_carrier">el vostre operador</string>
     <string name="mobile_data_disable_title">Voleu desactivar les dades mòbils?</string>
     <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
@@ -2238,8 +2237,8 @@ Qualsevol usuari pot actualitzar les aplicacions per a la resta d’usuaris."</s
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">Sí</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punt d’accés temporalment ple</string>
     <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
     <string name="wifi_cant_connect">"No es pot connectar"</string>

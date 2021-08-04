@@ -717,7 +717,7 @@ Comproveu la vostra data local i torneu a provar."</string>
     <string name="web_sso_login_message">S\'està iniciant la sessió…</string>
     <string name="webview_reload">Torna-ho a provar</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="yesterday">Ahir</string>
 </resources>

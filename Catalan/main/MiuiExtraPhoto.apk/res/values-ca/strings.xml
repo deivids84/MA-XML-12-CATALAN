@@ -254,7 +254,7 @@
     <string name="tuesday_short">Dim</string>
     <string name="tuesday_shortest">Dim</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="yesterday">Ahir</string>
 </resources>

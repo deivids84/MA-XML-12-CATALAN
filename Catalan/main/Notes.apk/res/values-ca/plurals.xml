@@ -96,6 +96,10 @@
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s notes</item>
         <item quantity="one">%1$s nota</item>

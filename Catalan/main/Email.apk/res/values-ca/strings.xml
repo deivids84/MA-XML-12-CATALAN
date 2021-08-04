@@ -1479,8 +1479,8 @@ Prem \"<b>Sincronitzar ara</b> per a sincronitzar el correu una vegada, o <b>Can
     <string name="webview_sslerror_handle_continue">Continua</string>
     <string name="webview_sslerror_handle_hitmessage">Hi ha hagut un error de certificat. Vols continuar de totes maneres?</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="weixin_info_summary">Compte de WeChat: %s. Toca per copiar.</string>
     <string name="widget_all_mail">Tot el correu</string>
     <string name="widget_other_views">Altres</string>

@@ -372,8 +372,8 @@
 "</string>
     <string name="waiting_close_airplane_mode">Un moment…</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="wifi_call">Trucada per VoWifi</string>
     <string name="yesterday">Ahir</string>
 </resources>

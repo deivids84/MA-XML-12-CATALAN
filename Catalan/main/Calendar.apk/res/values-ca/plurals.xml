@@ -30,7 +30,7 @@
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Aniversari: %2$d anys des de %1$s en %3$d dies</item>
-        <item quantity="one">Aniversari: %2$d anys des de %1$s en%3$d dies</item>
+        <item quantity="one">Aniversari: %2$d anys des de %1$s en %3$d dies</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Aniversari:%2$d anys des de %1$s</item>
@@ -99,6 +99,10 @@
     <plurals name="mesens_card_title_predict_date">
         <item quantity="other">Següent període en %1$d dies</item>
         <item quantity="one">Següent període en %1$d dia</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">dies</item>

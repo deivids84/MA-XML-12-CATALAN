@@ -1497,8 +1497,8 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="vp_upcoming_auto_play">Inici automàtic</string>
     <string name="vp_upcoming_title">Tot seguit</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Error al gestor de descàrregues de Connect, comproveu l\'estat del gestor de descàrregues al Gestió d\'aplicacions.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>

@@ -729,8 +729,8 @@
     <string name="wallpaper_settings">Fons de pantalla</string>
     <string name="wallpaper_success_message">S\'ha aplicat el fons de pantalla</string>
     <string name="wednesday">Dimecres</string>
-    <string name="wednesday_short">Dm</string>
-    <string name="wednesday_shortest">Dm</string>
+    <string name="wednesday_short">Dc</string>
+    <string name="wednesday_shortest">dc</string>
     <string name="widget_favorite_contacts_edit">Editor</string>
     <string name="widget_favorite_contacts_label">Contactes favorits</string>
     <string name="widget_favorite_contacts_style">Canvia la mida</string>
