@@ -356,6 +356,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
     <string name="failed_to_fetch_data">"No s'ha pogut carregar la informació."</string>
     <string name="failure">"No s'ha pogut descarregar"</string>
+    <string name="favor_movie">Pel·lícules</string>
     <string name="favor_online_video">Vídeos</string>
     <string name="favor_playlist">Llistes de reproducció</string>
     <string name="favorite">Afegeix als preferits</string>
@@ -459,10 +460,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="galleryplus_orientation_lock">S\'ha bloquejat l\'orientació correctament</string>
     <string name="galleryplus_orientation_unlock">L\'orientació de la pantalla està desbloquejada</string>
     <string name="galleryplus_permission_content">Doneu a Mi Video els permisos necessaris per poder utilitzar aquesta funció.</string>
-    <string name="galleryplus_permission_content2">"Per poder utilitzar aquesta funció, aneu a Configuració &gt; Aplicacions &gt; Mi Video &gt; Permisos d'aplicacions i permetre a Mi Video fer el següent:
-
-1. Accés a l'emmagatzematge
-2. Accedir a l'ID del dispositiu"</string>
+    <string name="galleryplus_permission_content_opt">Mi Video necessita permisos per funcionar amb normalitat. Esborreu totes les dades de l\'aplicació a Configuració i torneu a obrir l\'aplicació.</string>
+    <string name="galleryplus_permission_content_xms">Mi Video necessita permisos per funcionar amb normalitat. Aneu a Configuració i doneu a Mi Video els permisos necessaris.</string>
     <string name="galleryplus_permission_open_settings">Configuració</string>
     <string name="galleryplus_permission_refuse">No gràcies</string>
     <string name="galleryplus_permission_retry">Permisos</string>
@@ -567,6 +566,9 @@ Envieu aquest codi al supervisor."</string>
     <string name="logo_neverthink">Comissariat per Neverthink.tv</string>
     <string name="logout">Tanca sessió</string>
     <string name="logout_account">Tanca la sessió</string>
+    <string name="long_video_no_more_content">"Això és tot per ara"</string>
+    <string name="long_video_watch_on">Vigileu</string>
+    <string name="long_video_you_may_also_like">també et pot agradar</string>
     <string name="lp_base_folder">targeta SD</string>
     <string name="lp_play_mode_list_loop">Enllaça tot</string>
     <string name="lp_play_mode_pause">Juga a un</string>
@@ -845,6 +847,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="open_settings">Configuració</string>
     <string name="order_recently_subscribe">Subscripcions recents</string>
     <string name="order_recently_updated">Actualitzat recentment</string>
+    <string name="out_of_memory_background_playback_is_suspended">La reproducció en segon pla s\'ha aturat a causa de la memòria insuficient</string>
     <string name="ovp_alert_dialog_download_install_task">S\'està baixant el connector HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Buffering…</string>
     <string name="ovp_category">Categories</string>

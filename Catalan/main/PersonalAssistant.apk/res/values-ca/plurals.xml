@@ -166,7 +166,7 @@
     </plurals>
     <plurals name="shopping_delete_num">
         <item quantity="other">Voleu suprimir els %s elements seleccionats?</item>
-        <item quantity="one">Voleu suprimir l\'element seleccionat?</item>
+        <item quantity="one">Voleu suprimir %s element seleccionat?</item>
     </plurals>
     <plurals name="sms_day_suffix">
         <item quantity="other">En %d dies</item>

@@ -591,9 +591,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="sns_access_token_expired_warning">Sessió expirada. Inicieu la sessió de nou per tornar a connectar aquest compte.</string>
     <string name="sns_bind_limit">Massa intents. Proveu altres maneres d’iniciar la sessió.</string>
     <string name="sns_sign_in">Altres maneres d’iniciar la sessió</string>
-    <string name="solar_term_autumn_begins">Comença la tardor</string>
-    <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosades fredes</string>
     <string name="solar_term_grain_buds">Criatures plenes</string>
     <string name="solar_term_grain_in_ear">Sembra de mill</string>

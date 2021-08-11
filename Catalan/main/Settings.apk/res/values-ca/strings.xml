@@ -1048,16 +1048,16 @@ Aplicacions:
     <string name="bluetooth_ask_disablement_no_name">Una aplicació vol desactivar el Bluetooth</string>
     <string name="bluetooth_ask_discovery">%1$s vol que el vostre telèfon sigui visible per a altres dispositius Bluetooth durant %2$d segons.</string>
     <string name="bluetooth_ask_discovery_no_name">Una aplicació vol fer visible el telèfon amb altres dispositius Bluetooth durant %1$d segons.</string>
-    <string name="bluetooth_ask_enablement">Una aplicació vol activar el Bluetooth.</string>
+    <string name="bluetooth_ask_enablement">%1$s vol activar el Bluetooth</string>
     <string name="bluetooth_ask_enablement_and_discovery">%1$s vol activar el Bluetooth i fer que el telèfon sigui visible per a altres dispositius durant %2$d segons.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" vol activar el Bluetooth i fer que el vostre dispositiu sigui visible a altres dispositius durant %1$d segons."</string>
     <string name="bluetooth_ask_enablement_and_discovery_no_name">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius durant %1$d segons.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s vol activar el Bluetooth i fer que el vostre telèfon sigui visible per a altres dispositius. Podeu canviar-ho més endavant a la configuració de Bluetooth.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" vol activar el Bluetooth i fer que el dispositiu sigui visible a altres dispositius. Podeu canviar-ho més endavant en la configuració del Bluetooth."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicació vol activar el Bluetooth i fer que el telèfon estigui visible per a altres dispositius. Podeu canviar això més tard a la configuració del Bluetooth.</string>
     <string name="bluetooth_ask_enablement_detected">" vol activar el Bluetooth."</string>
     <string name="bluetooth_ask_enablement_no_name">Una aplicació vol activar el Bluetooth</string>
-    <string name="bluetooth_ask_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
+    <string name="bluetooth_ask_lasting_discovery">%1$s vol que el vostre telèfon sigui visible per a altres dispositius Bluetooth. Podeu canviar-ho més endavant a la configuració de Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicació vol fer que el telèfon estigui visible per a altres dispositius Bluetooth. Podeu canviar això més tard a la configuració del Bluetooth.</string>
     <string name="bluetooth_audio_share_feature_notice_summary">Voleu compartir àudio amb altres dispositius connectats?</string>
     <string name="bluetooth_audio_share_feature_notice_title">Comparteix àudio</string>
@@ -1075,7 +1075,7 @@ Aplicacions:
     <string name="bluetooth_connected_multiple_devices_summary">Connectat a diversos dispositius</string>
     <string name="bluetooth_connected_no_a2dp">Connectat (sense suports) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Connectat (sense suports) | Bateria %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset">S\'ha connectat (sense telèfon)</string>
+    <string name="bluetooth_connected_no_headset">Connectat (sense telèfon)%1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">Connectat (sense telèfon) | Bateria %1$s %2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Connectat (sense telèfon ni suports) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connectat (sense telèfon ni suports) | Bateria %1$s %2$s</string>
@@ -2454,9 +2454,10 @@ Si això segueix succeint, és possible que hàgiu de desinstal·lar l'aplicaci�
     <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
     <string name="disable_power_key_long_press_under_keyguard">Desactiva el menú del botó d\'engegar</string>
     <string name="disable_quick_start">Desactiveu l\'inici ràpid</string>
-    <string name="disable_service_message">Fent clic \"D\'acord\" aturarà %1$s.</string>
+    <string name="disable_service_message">Si toqueu %1$s, s’aturarà %2$s.</string>
     <string name="disable_service_title">Voleu aturar %1$s?</string>
     <string name="disable_text">Desactiva</string>
+    <string name="disable_uft">Apagueu uft</string>
     <string name="disable_wifi_hotspot_title">No utilitzeu hotspot Wi-Fi</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Compartiu només Internet mitjançant Bluetooth i Ethernet</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">Únicament compartiu Internet via Bluetooth</string>
@@ -2705,6 +2706,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="enable_local_backup">Encendre</string>
     <string name="enable_local_backup_cancel">Cancel · lar</string>
     <string name="enable_local_backup_message">Activeu aquesta funció per poder desar còpies de seguretat en aquest dispositiu i copiar-les a l\'ordinador o al dispositiu d\'emmagatzematge USB. Voleu activar-lo ara?</string>
+    <string name="enable_local_backup_message_intledition">Activeu aquesta funció per poder desar còpies de seguretat en aquest dispositiu i copiar-les a l\'ordinador. Voleu activar-lo ara?</string>
     <string name="enable_local_backup_ok">D\'acord</string>
     <string name="enable_local_backup_title">Còpies de seguretat locals</string>
     <string name="enable_mms_notification_channel_title">Missatge MMS</string>
@@ -2727,6 +2729,7 @@ Podeu veure els registres generats al Gestor de fitxers."</string>
     <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_text">Activa</string>
+    <string name="enable_uft">Activa uft</string>
     <string name="enable_verbose_vendor_logging">Activa el registre del venedor de verbose</string>
     <string name="enable_verbose_vendor_logging_summary">Incloure registres addicionals dels venedors específics del dispositiu en els informes d’errors, que poden contenir informació privada, utilitzar més bateria i / o utilitzar més emmagatzematge.</string>
     <string name="enable_wifi_display">Activa la pantalla sense fils</string>
@@ -6747,6 +6750,11 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="settings_backup">Còpia de seguretat de la configuració</string>
     <string name="settings_backup_summary">Còpia de seguretat de la configuració</string>
     <string name="settings_button">Configuració</string>
+    <string name="settings_charging_at_fast_speed">S\'està carregant ràpidament</string>
+    <string name="settings_charging_at_normal_speed">Carregant</string>
+    <string name="settings_charging_at_top_speed">Càrrega a velocitat màxima</string>
+    <string name="settings_charging_fully_charged">Completament carregat</string>
+    <string name="settings_charging_not_charging">No es carrega</string>
     <string name="settings_forbidden_message">Aquesta configuració està restringida</string>
     <string name="settings_label">Configuració</string>
     <string name="settings_label_launcher">Configuració</string>
@@ -6884,9 +6892,9 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
     <string name="sim_cards_changed_message_summary">Toca per definir les activitats</string>
     <string name="sim_cellular_data_unavailable">Les dades mòbils no estan disponibles</string>
     <string name="sim_cellular_data_unavailable_summary">Toca per seleccionar una SIM de dades</string>
-    <string name="sim_change_data_message">"Voleu utilitzar %1$s en comptes de %2$s per a les dades mòbils?"</string>
+    <string name="sim_change_data_message">"Esteu fent servir %2$s per a dades mòbils. Si canvieu a %1$s, %2$s ja no s’utilitzarà per a dades mòbils."</string>
     <string name="sim_change_data_ok">Utilitza %1$s</string>
-    <string name="sim_change_data_title">Voleu canviar la SIM de dades?</string>
+    <string name="sim_change_data_title">Voleu utilitzar %1$s per a dades mòbils?</string>
     <string name="sim_change_failed">"«No es pot canviar el PIN.
 És possible que sigui incorrecte.»"</string>
     <string name="sim_change_failed_enable_sim_lock">"No s'ha pogut canviar el PIN. Activeu el bloqueig de la SIM ara."</string>
@@ -7443,6 +7451,7 @@ Proveu d'utilitzar una versió més ràpida ^3 o utilitzeu aquest element ^4 com
     <string name="sunday_shortest">Sol</string>
     <string name="sunlight_mode">Mode de llum solar</string>
     <string name="sunlight_mode_summary">Ajusta la brillantor a la llum ambiental forta quan la brillantor automàtica estigui desactivada</string>
+    <string name="sunlight_mode_summary_new">Ajusteu la brillantor a la llum ambiental forta per evitar que la pantalla es faci massa fosca. Una petita icona de sol apareixerà a la part superior de la pantalla quan la llum ambiental sigui forta.</string>
     <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
     <string name="supplicant_state_label">Mode suplicant:</string>
     <string name="support_summary">Articles d\'ajuda, suport telefònic i xat</string>

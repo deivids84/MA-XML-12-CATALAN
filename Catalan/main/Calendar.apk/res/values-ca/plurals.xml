@@ -100,10 +100,6 @@
         <item quantity="other">Següent període en %1$d dies</item>
         <item quantity="one">Següent període en %1$d dia</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">dies</item>
         <item quantity="one">dia</item>

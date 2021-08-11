@@ -18,7 +18,6 @@
     <string name="channel_service">Servei d\'actualització en segon pla</string>
     <string name="channel_update">Nova versió disponible</string>
     <string name="check_new_version">Comprova</string>
-    <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
     <string name="dialog_3g_desc">Tingueu en compte que l\'ús de dades mòbils per baixar ROM pot tenir una quota important del vostre paquet.</string>
     <string name="dialog_3g_title">Avís!</string>
     <string name="dialog_btn_3g">Continua de totes maneres</string>

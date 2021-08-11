@@ -839,10 +839,10 @@ Les LPR d’un any i cinc anys es cotitzaran el dia 20 de cada mes (es poden pro
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_calculator_delete_description">"Calculator és una aplicació del sistema. No podreu utilitzar diversos convertidors i funcions addicionals després de desinstal·lar l'aplicació."</string>
-    <string name="xiaomi_calculator_delete_title">Voleu desinstal·lar la calculadora?</string>
-    <string name="xiaomi_calculator_remove_icon_description">"Calculator és una aplicació del sistema. No podreu utilitzar diversos convertidors i funcions addicionals després d'eliminar la drecera de la pantalla d'inici."</string>
-    <string name="xiaomi_calculator_remove_icon_title">Voleu treure \"Calculadora\" de la pantalla d\'inici?</string>
+    <string name="xiaomi_calculator_delete_description">"Calculadora és una aplicació del sistema. No podreu utilitzar diversos convertidors ni funcions addicionals després de desinstal·lar l'aplicació."</string>
+    <string name="xiaomi_calculator_delete_title">Voleu desinstal·lar la Calculadora?</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Calculadora és una aplicació del sistema. No podreu utilitzar diversos convertidors ni funcions addicionals després de desinstal·lar la drecera a la Pantalla d'Inici."</string>
+    <string name="xiaomi_calculator_remove_icon_title">Voleu eliminar \"Calculadora\" de la Pantalla d\'inici?</string>
     <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut connectar a baixades. Comproveu si si aquesta aplicació té tots els permisos necessaris a Configuració i Aplicacions instal·lades."</string>
     <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no està disponible. Comproveu la vostra targeta de SD."</string>
     <string name="xiaomi_update_dialog_message">"Versió d'introducció %1$s

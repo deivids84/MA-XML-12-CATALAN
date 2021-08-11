@@ -212,9 +212,7 @@
     <string name="opp_notification_group">Compartir amb Bluetooth</string>
     <string name="outbound_history_title">Transferències de sortida</string>
     <string name="outbound_noti_title">Bluetooth: fitxers enviats</string>
-    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">S\'ha esgotat el temps per acceptar la connexió amb %1$s</string>
-    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">S\'ha esgotat el temps per a l\'entrada de la clau de sessió amb %1$s</string>
     <string name="pbap_notification_group">Compartir contactes amb Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Es necessita la clau de sessió Bluetooth</string>

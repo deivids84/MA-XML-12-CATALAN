@@ -76,6 +76,14 @@
         <item quantity="other">%d carpetes</item>
         <item quantity="one">%d carpeta</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d temporades</item>
+        <item quantity="one">%d temporada</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Els subtítols es mostraran %.1f segons abans</item>
         <item quantity="one">Els subtítols es mostraran %.1f segons abans</item>

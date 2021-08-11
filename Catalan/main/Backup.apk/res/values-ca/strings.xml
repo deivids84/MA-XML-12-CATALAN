@@ -169,7 +169,6 @@ https://appleid.apple.com/#!ipage=signin to close"</string>
     <string name="dialog_backup_password_change_machine_tips">"No podreu transferir còpies de seguretat protegides amb contrasenya. Desactiveu la contrasenya de còpia de seguretat abans d’utilitzar Mi Mover."</string>
     <string name="dialog_backup_password_restore_tips">"No es poden restaurar elements quan la contrasenya de la còpia de seguretat estigui activada. Primer desactiveu la contrasenya de còpia de seguretat."</string>
     <string name="dialog_backup_password_to_settings">Configuració</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Sense encriptar</string>
     <string name="disable_encrypt_title">Desactiva l\'encriptatge</string>
@@ -284,7 +283,6 @@ primer heu de crear una còpia de seguretat d'iCloud."</string>
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
     <string name="lack_perm_msg">Mi Mover necessita els següents permisos: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permisos requerits</string>

@@ -152,6 +152,14 @@
         <item quantity="other">%s aplicacions estan protegides amb el bloqueig d\'aplicacions</item>
         <item quantity="one">%s aplicació està protegida amb el bloqueig d\'aplicacions</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplicacions incloses %1$s</item>
+        <item quantity="one">%2$d aplicació inclosa %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d vegades</item>
+        <item quantity="one">%d temps</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicacions poden connectar-se a la xarxa en segon pla</item>
         <item quantity="one">%d aplicació pot connectar-se a la xarxa en segon pla</item>

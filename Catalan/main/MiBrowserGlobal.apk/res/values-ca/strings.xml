@@ -405,6 +405,7 @@ Les pàgines que visitis no es veuran reflectides en l'historial\"."</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
+    <string name="debug_youtube_file">Depurar el fitxer de youtube</string>
     <string name="debug_youtube_in_release">Depuració de YouTube a la versió</string>
     <string name="delete">Suprimeix</string>
     <string name="delete_bookmark">Suprimeix</string>
@@ -560,10 +561,6 @@ Envieu aquest codi al supervisor."</string>
     <string name="enter_news_by_pull_down">Deixa anar per a obrir la font de continguts</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
-    <string name="error_console_eval_button_text">Avalua</string>
-    <string name="error_console_eval_text_hint">Avalua JavaScript</string>
-    <string name="error_console_header_text_maximized">Consola JavaScript</string>
-    <string name="error_console_header_text_minimized">Mostra la consola JavaScript</string>
     <string name="error_dup_binded_email">Aquesta adreça de correu ja està associada a un altre Compte Mi.</string>
     <string name="error_filename_too_long">El nom del fitxer que heu introduït és massa llarg.</string>
     <string name="error_folder_already_exists">Aquest fitxer ja existeix</string>
@@ -1802,9 +1799,6 @@ Alguns llocs no utilitzaran l'historial de navegació anterior per personalitzar
     <string name="sns_bind_limit">Massa intents. Proveu altres maneres d’iniciar la sessió.</string>
     <string name="sns_sign_in">Altres formes d’iniciar la sessió</string>
     <string name="soft_toast_see_view">Mostra</string>
-    <string name="solar_term_autumn_begins">Comença la tardor</string>
-    <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>
     <string name="solar_term_grain_in_ear">Sembra del mill</string>

@@ -144,6 +144,7 @@
     <string name="app_auth_setting_unbing_dialog_negative">Manté</string>
     <string name="app_bluetooth_device_type">Dispositiu Bluetooth</string>
     <string name="app_cancel">Cancel·la</string>
+    <string name="app_china_thanks_card_title">Benestar dels meus fans</string>
     <string name="app_commute_correction_button">Corregeix</string>
     <string name="app_commute_correction_text">El \"%1$s\" és la vostra %2$s adreça?</string>
     <string name="app_commute_guide_button_text">Afegeix una adreça</string>
@@ -1662,7 +1663,6 @@ Comproveu el número de seguiment."</string>
     <string name="sms_start_time">Hora</string>
     <string name="sms_ticket">Bitllet</string>
     <string name="sms_time">Hora</string>
-    <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosada freda</string>

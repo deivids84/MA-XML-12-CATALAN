@@ -1021,12 +1021,14 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fiveg_upperlayer_indication1">Estat de la indicació de la capa superior:</string>
     <string name="flash_when_ring_summary">Encén la llum del flaix en rebre trucades</string>
     <string name="flash_when_ring_title">Flaix en rebre trucada</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, aaaa</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">M / d</string>
     <string name="fmt_date_numeric_year_month_day">M / j / aaaa</string>
-    <string name="fmt_date_short_month_day">MM / dd</string>
-    <string name="fmt_date_short_year_month_day">MM / dd / aaaa</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="fold_answer_pref_summary">Plegueu el dispositiu per acceptar automàticament una trucada entrant</string>
     <string name="fold_answer_pref_title">Plega per acceptar trucades</string>
     <string name="forbidden_network">(prohibida)</string>
@@ -2619,6 +2621,8 @@ L'emmagatzematge de credencials no es pot activar"</string>
     <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
     <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
     <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
+    <string name="xcap_setting_summary">Restricció de trucades, desviament de trucades de correu de veu &amp;</string>
+    <string name="xcap_setting_title">Configuració del servei de trucades</string>
     <string name="yesterday">Ahir</string>
     <string name="zen_alarm_warning">"No sentireu la propera alarma %1$s"</string>
     <string name="zen_alarm_warning_indef">"No sentireu la propera alarma %1$s a menys que desactiveu aquesta opció abans"</string>

@@ -351,10 +351,10 @@ Protocol de connexió més ràpid."</string>
     <string name="feiyu_vlog_name">Feiyu VLOG de butxaca</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
     <string name="fmt_date_long_year_month_day">MMMM dd, aaaa</string>
-    <string name="fmt_date_numeric_month_day">M / d</string>
-    <string name="fmt_date_numeric_year_month_day">M / j / aaaa</string>
-    <string name="fmt_date_short_month_day">MM / dd</string>
-    <string name="fmt_date_short_year_month_day">MM / dd / aaaa</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="force_allow_on_external">Força que les aplicacions puguin escriure en emmagatzematge extern</string>
     <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
     <string name="force_msaa">Força 4x MSAA</string>
@@ -687,8 +687,8 @@ Protocol de connexió més ràpid."</string>
     <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
     <string name="summary_separator">" / "</string>
     <string name="sunday">Diumenge</string>
-    <string name="sunday_short">Sol</string>
-    <string name="sunday_shortest">Sol</string>
+    <string name="sunday_short">Dg.</string>
+    <string name="sunday_shortest">dg.</string>
     <string name="tap_to_renew_subscription_and_connect">Toqueu per renovar la subscripció i connectar-vos</string>
     <string name="tap_to_sign_up">Toqueu per registrar-vos</string>
     <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>

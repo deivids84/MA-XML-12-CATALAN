@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>Alarma en menys d\'1 minut</item>
-        <item>Alarma en %1$s</item>
-        <item>Alarma en %2$s</item>
-        <item>Alarma en %1$s i %2$s</item>
-        <item>Alarma en %3$s</item>
-        <item>Alarma en %1$s i %3$s</item>
-        <item>Alarma en %2$s i %3$s</item>
-        <item>Alarma en %1$s, %2$s i %3$s</item>
+        <item>L\'alarma sonarà en menys d\'un minut</item>
+        <item>L\'alarma sonarà en %1$s</item>
+        <item>L\'alarma sonarà en %2$s</item>
+        <item>L\'alarma sonarà en %1$s %2$s</item>
+        <item>L\'alarma sonarà en %3$s</item>
+        <item>L\'alarma sonarà en %1$s %3$s</item>
+        <item>L\'alarma sonarà en %2$s %3$s</item>
+        <item>L\'alarma sonarà en %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Un cop</item>
+        <item>Una vegada</item>
         <item>Diàriament</item>
-        <item>Dies laborables</item>
-        <item>Dies de descans</item>
-        <item>De dilluns a divendres</item>
+        <item>Dies de feina</item>
+        <item>Dies de festa</item>
+        <item>De Dl a Dv</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Un cop</item>
+        <item>Una vegada</item>
         <item>Diàriament</item>
-        <item>De dilluns a divendres</item>
+        <item>De dll a dv</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>L\'alarma sonarà d\'aquí a menys d\'un minut.</item>
-        <item>L\'alarma sonarà d\'aquí a %1$s.</item>
-        <item>L\'alarma sonarà d\'aquí a %2$s.</item>
-        <item>L\'alarma sonarà d\'aquí a %1$s i %2$s.</item>
-        <item>L\'alarma sonarà d\'aquí a %3$s.</item>
-        <item>L\'alarma sonarà d\'aquí a %1$s i %3$s.</item>
-        <item>L\'alarma sonarà d\'aquí a %2$s i %3$s.</item>
-        <item>L\'alarma sonarà d\'aquí a %1$s, %2$s i %3$s.</item>
+        <item>L\'alarma sonarà en menys d\'1 minut.</item>
+        <item>L\'alarma sonarà en %1$s.</item>
+        <item>L\'alarma sonarà en %2$s.</item>
+        <item>L\'alarma sonarà en %1$s i %2$s.</item>
+        <item>L\'alarma sonarà en %3$s.</item>
+        <item>L\'alarma sonarà en %1$s i %3$s.</item>
+        <item>L\'alarma sonarà en %2$s i %3$s.</item>
+        <item>L\'alarma sonarà en %1$s, %2$s, i %3$s.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -94,11 +94,11 @@
         <item>\#</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Bona</item>
-        <item>Satisfactòria</item>
-        <item>Contaminació moderada</item>
-        <item>Pobra</item>
-        <item>Molt pobra</item>
+        <item>Bo</item>
+        <item>Satisfactori</item>
+        <item>Moderadament contaminat</item>
+        <item>Pobre</item>
+        <item>Molt pobre</item>
         <item>Greu</item>
     </string-array>
     <string-array name="auto_silence_entries">
@@ -118,9 +118,9 @@
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Cada dia</item>
-        <item>De dilluns a divendres</item>
+        <item>De dilluns a Divendres</item>
         <item>Dies laborables</item>
-        <item>Personalitzat</item>
+        <item>Personalitzar</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
@@ -146,8 +146,8 @@
         <item>Maseru</item>
         <item>Mogadiscio</item>
         <item>Nairobi</item>
-        <item>São Tomé</item>
-        <item>Timbuctu</item>
+        <item>Sao Tomé</item>
+        <item>Timbuktu</item>
         <item>Trípoli</item>
         <item>Tunis</item>
         <item>Anchorage</item>
@@ -170,7 +170,7 @@
         <item>Edmonton</item>
         <item>El Salvador</item>
         <item>Fortaleza</item>
-        <item>"St. George's"</item>
+        <item>"Sant Jordi"</item>
         <item>Guatemala</item>
         <item>Georgetown</item>
         <item>Halifax</item>
@@ -178,7 +178,7 @@
         <item>Indianapolis</item>
         <item>Knox</item>
         <item>Marengo</item>
-        <item>Petersburg</item>
+        <item>St. Petersburg</item>
         <item>Tell City</item>
         <item>Vevay</item>
         <item>Vincennes</item>
@@ -194,38 +194,38 @@
         <item>Ciutat de Mèxic</item>
         <item>Monterrey</item>
         <item>Montevideo</item>
-        <item>Mont-real</item>
+        <item>Montreal</item>
         <item>Nassau</item>
         <item>Nova York</item>
         <item>Beulah</item>
-        <item>Center</item>
+        <item>Centre</item>
         <item>New Salem</item>
         <item>Panamà</item>
         <item>Phoenix</item>
-        <item>Port-of-Spain</item>
+        <item>Port d\'Espanya</item>
         <item>Port-au-Prince</item>
-        <item>Sao Paulo</item>
-        <item>St. John\'s</item>
-        <item>St. Kitts</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>Sant Cristòfol</item>
         <item>Castries</item>
-        <item>St. Thomas</item>
+        <item>Sant Tomàs</item>
         <item>Tijuana</item>
         <item>Toronto</item>
         <item>Vancouver</item>
         <item>Winnipeg</item>
         <item>Longyearbyen</item>
-        <item>Almati</item>
+        <item>Almaty</item>
         <item>Amman</item>
-        <item>Anàdir</item>
-        <item>Akhtau</item>
+        <item>Anadyr</item>
+        <item>Aktau</item>
         <item>Bagdad</item>
-        <item>Al-Manama</item>
+        <item>Manama</item>
         <item>Bakú</item>
         <item>Bangkok</item>
         <item>Beirut</item>
         <item>Calcuta</item>
         <item>Damasc</item>
-        <item>Dacca</item>
+        <item>Dhaka</item>
         <item>Dubai</item>
         <item>Gaza</item>
         <item>Hebron</item>
@@ -235,30 +235,30 @@
         <item>Jerusalem</item>
         <item>Kabul</item>
         <item>Karachi</item>
-        <item>Kàtmandu</item>
+        <item>Katmandú</item>
         <item>Kuala Lumpur</item>
         <item>Kuwait</item>
         <item>Macau</item>
         <item>Manila</item>
-        <item>Masqat</item>
+        <item>Muscat</item>
         <item>Phnom Penh</item>
         <item>Pyongyang</item>
         <item>Doha</item>
-        <item>Rangun</item>
-        <item>Riad</item>
+        <item>Rangoon</item>
+        <item>Riyadh</item>
         <item>Seül</item>
         <item>Xangai</item>
         <item>Singapur</item>
         <item>Taipei</item>
         <item>Teheran</item>
-        <item>Tel-Aviv-Yafo</item>
+        <item>Tel Aviv</item>
         <item>Tòquio</item>
-        <item>Ulan Bator</item>
+        <item>Ulaanbaatar</item>
         <item>Hamilton</item>
-        <item>Canàries</item>
+        <item>Illes Canàries</item>
         <item>Praia</item>
-        <item>Reykjavík</item>
-        <item>Port Stanley</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
         <item>Adelaida</item>
         <item>Brisbane</item>
         <item>Canberra</item>
@@ -268,8 +268,8 @@
         <item>Perth</item>
         <item>Queensland</item>
         <item>Sydney</item>
-        <item>Victòria</item>
-        <item>Terranova i Labrador</item>
+        <item>Victoria</item>
+        <item>Terranova</item>
         <item>Saskatchewan</item>
         <item>Illa de Pasqua</item>
         <item>Amsterdam</item>
@@ -293,7 +293,7 @@
         <item>Londres</item>
         <item>Luxemburg</item>
         <item>Madrid</item>
-        <item>La Valletta</item>
+        <item>Valletta</item>
         <item>Minsk</item>
         <item>Mònaco</item>
         <item>Moscou</item>
@@ -309,20 +309,20 @@
         <item>Sofia</item>
         <item>Estocolm</item>
         <item>Tallinn</item>
-        <item>El Vaticà</item>
+        <item>Vaticà</item>
         <item>Viena</item>
         <item>Vílnius</item>
         <item>Varsòvia</item>
         <item>Zagreb</item>
-        <item>Zuric</item>
+        <item>Zurich</item>
         <item>Antananarivo</item>
-        <item>Male</item>
+        <item>Malé</item>
         <item>Port Louis</item>
         <item>Auckland</item>
         <item>Suva</item>
         <item>Guam</item>
         <item>Honolulu</item>
-        <item>Nouméa</item>
+        <item>Noumea</item>
         <item>Tahití</item>
         <item>Austin</item>
         <item>Boston</item>
@@ -334,23 +334,23 @@
         <item>Miami</item>
         <item>Minneapolis</item>
         <item>Ottawa</item>
-        <item>Filadèlfia</item>
+        <item>Philadelphia</item>
         <item>Portland</item>
         <item>San Diego</item>
         <item>San Francisco</item>
-        <item>Salt Lake City</item>
+        <item>Ciutat del Llac Salat</item>
         <item>San José</item>
         <item>San Salvador</item>
         <item>Seattle</item>
         <item>St. Louis</item>
-        <item>Washington DC</item>
+        <item>Washington D.C.</item>
         <item>Houston</item>
         <item>San Antonio</item>
         <item>Jacksonville</item>
         <item>Baltimore</item>
         <item>Nashville</item>
         <item>Milwaukee</item>
-        <item>Oklahoma City</item>
+        <item>Ciutat d\'Oklahoma</item>
         <item>Las Vegas</item>
         <item>Albuquerque</item>
         <item>Tucson</item>
@@ -363,7 +363,7 @@
         <item>Cincinnati</item>
         <item>Mountain View</item>
         <item>Reno</item>
-        <item>Black Rock City</item>
+        <item>Black Rock</item>
         <item>Doha</item>
         <item>Pequín</item>
         <item>Bombai</item>
@@ -371,11 +371,11 @@
         <item>Nova Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
-        <item>"Sanà"</item>
+        <item>"Sanaà"</item>
         <item>Barcelona</item>
         <item>Munic</item>
         <item>Milà</item>
-        <item>Frankfurt del Main</item>
+        <item>Frankfurt</item>
         <item>Hanoi</item>
         <item>Ankara</item>
         <item>Bangalore</item>
@@ -388,7 +388,7 @@
         <item>Cambridge</item>
         <item>Kirkland</item>
         <item>Madison</item>
-        <item>Canton</item>
+        <item>Guangzhou</item>
         <item>Hyderabad</item>
         <item>Reston</item>
         <item>Belo Horizonte</item>
@@ -398,8 +398,8 @@
         <item>Chihuahua</item>
         <item>Gurgaon</item>
         <item>Manchester</item>
-        <item>Kíev</item>
-        <item>Sant Petersburg</item>
+        <item>Kyiv</item>
+        <item>St. Petersburg</item>
         <item>Cracòvia</item>
         <item>Breslau</item>
         <item>Hamburg</item>
@@ -413,7 +413,7 @@
     <string-array name="clock_bg_setting_entries">
         <item>Blanc</item>
         <item>Negre</item>
-        <item>Auto</item>
+        <item>Automàtic</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Costa d'Ivori"</item>
@@ -430,7 +430,7 @@
         <item>Djibouti</item>
         <item>Sierra Leone</item>
         <item>Botswana</item>
-        <item>Zimbàbue</item>
+        <item>Zimbabwe</item>
         <item>Sud-àfrica</item>
         <item>Uganda</item>
         <item>Ruanda</item>
@@ -438,8 +438,8 @@
         <item>Nigèria</item>
         <item>Lesotho</item>
         <item>Somàlia</item>
-        <item>Kenya</item>
-        <item>São Tomé i Príncipe</item>
+        <item>Kènia</item>
+        <item>Sao Tomé i Príncipe</item>
         <item>Mali</item>
         <item>Líbia</item>
         <item>Tunísia</item>
@@ -500,13 +500,13 @@
         <item>Brasil</item>
         <item>Canadà</item>
         <item>Saint Christopher i Nevis</item>
-        <item>Saint Lucia</item>
+        <item>Santa Llúcia</item>
         <item>Illes Verges Americanes</item>
         <item>Mèxic</item>
         <item>Canadà</item>
         <item>Canadà</item>
         <item>Canadà</item>
-        <item>Svalbard i Jan Mayen</item>
+        <item>Svalvard i Jan Mayen</item>
         <item>Kazakhstan</item>
         <item>Jordània</item>
         <item>Rússia</item>
@@ -535,9 +535,9 @@
         <item>Filipines</item>
         <item>Oman</item>
         <item>Cambodja</item>
-        <item>Corea del Nord</item>
+        <item>Corea del nord</item>
         <item>Qatar</item>
-        <item>Myanmar (Birmània)</item>
+        <item>Birmània</item>
         <item>Aràbia Saudita</item>
         <item>Corea del Sud</item>
         <item>Xina</item>
@@ -551,7 +551,7 @@
         <item>Espanya</item>
         <item>Cap Verd</item>
         <item>Islàndia</item>
-        <item>Illes Falkland</item>
+        <item>Illes Malvines</item>
         <item>Austràlia</item>
         <item>Austràlia</item>
         <item>Austràlia</item>
@@ -596,9 +596,9 @@
         <item>Letònia</item>
         <item>Itàlia</item>
         <item></item>
-        <item>Bòsnia i Herzegovina</item>
+        <item>Bòsnia i Hercegovina</item>
         <item></item>
-        <item>Macedònia del Nord</item>
+        <item>Macedònia</item>
         <item>Bulgària</item>
         <item>Suècia</item>
         <item>Estònia</item>
@@ -610,13 +610,13 @@
         <item>Suïssa</item>
         <item>Madagascar</item>
         <item>Maldives</item>
-        <item>Maurici</item>
+        <item>Illa Maurici</item>
         <item>Nova Zelanda</item>
-        <item>Fiji</item>
+        <item>Illes Fiji</item>
         <item>Guam</item>
         <item>Estats Units</item>
         <item>Nova Caledònia</item>
-        <item>Polinèsia francesa</item>
+        <item>Polinèsia Francesa</item>
         <item>Estats Units</item>
         <item>Estats Units</item>
         <item>Canadà</item>
@@ -714,9 +714,9 @@
     </string-array>
     <string-array name="notification_adv_time_entries">
         <item>A l\'hora establerta</item>
-        <item>Amb 15 minuts d’antelació</item>
-        <item>Amb 30 minuts d’antelació</item>
-        <item>Amb 1 hora d’antelació</item>
+        <item>15 minuts abans</item>
+        <item>30 minuts abans</item>
+        <item>1 hora abans</item>
         <item>Cap</item>
     </string-array>
     <string-array name="snooze_duration_entries">
@@ -728,14 +728,32 @@
         <item>25 minuts</item>
         <item>30 minuts</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="time">
+        <item>%1$s</item>
+        <item>%2$s</item>
+        <item>%1$s%2$s</item>
+        <item>%3$s</item>
+        <item>%1$s%3$s</item>
+        <item>%2$s%3$s</item>
+        <item>%1$s%2$s%3$s</item>
+    </string-array>
     <string-array name="timer_duration">
         <item>Total %1$s</item>
         <item>Total %2$s</item>
-        <item>Total %1$s %2$s</item>
+        <item>Total %1$s%2$s</item>
         <item>Total %3$s</item>
-        <item>Total %1$s %3$s</item>
-        <item>Total %2$s %3$s</item>
-        <item>Total %1$s %2$s %3$s</item>
+        <item>Total %1$s%3$s</item>
+        <item>Total %2$s%3$s</item>
+        <item>Total %1$s%2$s%3$s</item>
     </string-array>
     <string-array name="timezone_alphabet_table">
         <item>A</item>
@@ -766,8 +784,13 @@
         <item>Z</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>No facis res</item>
-        <item>Ajorna</item>
-        <item>Atura</item>
+        <item>No fer res</item>
+        <item>Repetiu</item>
+        <item>Rebutgeu</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

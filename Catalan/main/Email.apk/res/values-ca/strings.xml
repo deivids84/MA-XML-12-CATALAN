@@ -1314,8 +1314,8 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="subject_hint">Assumpte</string>
     <string name="successfully_obtained_authorization_code">Codi de verificació</string>
     <string name="sunday">Diumenge</string>
-    <string name="sunday_short">Sol</string>
-    <string name="sunday_shortest">Sol</string>
+    <string name="sunday_short">Dg.</string>
+    <string name="sunday_shortest">dg.</string>
     <string name="sync_calendra_fail_per_content">Toca per permetre-ho</string>
     <string name="sync_calendra_fail_per_title">"No s'han pogut sincronitzar els esdeveniments del calendari"</string>
     <string name="sync_calendra_fail_permission">"No s'han pogut sincronitzar els esdeveniments del calendari. Permet primer que el correu pugui accedir al calendari."</string>
@@ -1355,7 +1355,6 @@ Espereu fins que se sincronitzi completament o vegeu el missatge al vostre ordin
     <string name="the_lantern_festival">Festival de la Llanterna</string>
     <string name="the_mid_autumn_festival">Festival de mitjans de tardor</string>
     <string name="the_national_day">dia Nacional</string>
-    <string name="the_national_father_day">"Aniversari de Sun Yat-sen"</string>
     <string name="the_new_years_day">Any nou</string>
     <string name="the_night_of_sevens">Festival Qixi</string>
     <string name="the_partys_day">Dia del CPC</string>

@@ -150,6 +150,10 @@
     <string name="dc_light_hint_other">L\'atensió de corrent continu pot afectar la velocitat de refresc i la forma en què es visualitzen alguns elements.</string>
     <string name="dc_lignt_enable_hint">El mode anti-parpelleig ajustarà la velocitat de refrescament de la pantalla a 60 Hz. Canviar a la modalitat antitipament?</string>
     <string name="delete_first_to_add_animal">Per afegir un element nou, suprimiu-ne un primer.</string>
+    <string name="desktop_widget_authorization">Toqueu per concedir permisos per poder veure les estadístiques</string>
+    <string name="desktop_widget_not_support">"Les estadístiques de temps de pantalla
+no es generen al segon espai"</string>
+    <string name="desktop_widget_screen_use_time">Temps de pantalla</string>
     <string name="display_description">Icones més grans, text gran i menys desordre visual</string>
     <string name="display_title">Elements més grans</string>
     <string name="dynamic_ringtone_desc">"Hem explorat diferents ecosistemes i hem recreat els seus diferents sons. Comenceu a explorar els sons de la natura amb nosaltres!"</string>
@@ -216,13 +220,13 @@
     <string name="exo_track_unknown">Desconegut</string>
     <string name="expand_button_title">Avançat</string>
     <string name="first_unlock_time">"Primer desbloqueig: "</string>
-    <string name="fmt_date_long_month_day">MMMM d</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, aaaa</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
-    <string name="fmt_date_short_year_month_day">MMM d, aaaa</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH \"en punt\""</string>
     <string name="focus_mode_custom_time">Durada personalitzada</string>
     <string name="focus_mode_timer_add_limit">Podeu afegir fins a %d temporitzadors personalitzats</string>
@@ -617,6 +621,7 @@
     <string name="unlock_times_per_day">"Mitjana diària: "</string>
     <string name="unlock_times_per_hour">"Desbloquejos per hora: "</string>
     <string name="usage_agree">D\'acord</string>
+    <string name="usage_app_desktop_widget_limit">Queden %s</string>
     <string name="usage_app_get_it">Entesos</string>
     <string name="usage_app_holiday_limit">Dies de descans</string>
     <string name="usage_app_limit_alter_summary">"Sembla que aquest límit de temps és més curt que el temps que heu utilitzat aquesta aplicació avui. Voleu establir el límit de totes maneres?"</string>

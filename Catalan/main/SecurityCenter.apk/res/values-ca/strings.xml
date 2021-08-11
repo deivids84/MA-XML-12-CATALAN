@@ -801,6 +801,11 @@ No perdreu cap dada d'aplicació."</string>
     <string name="battery_status_unknown">Error desconegut</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="begin_date">Restablir data d\'ús</string>
+    <string name="behavior_widget_get_installed_apps">Aplicacions accedides</string>
+    <string name="behavior_widget_get_location">Accés a la ubicació</string>
+    <string name="behavior_widget_read_clipboard">S\'ha accedit al porta-retalls</string>
+    <string name="behavior_widget_read_contact">S\'ha accedit als contactes</string>
+    <string name="behavior_widget_read_write_external_storage">Arxius accedits</string>
     <string name="best_booster_status">La velocitat de joc és la millor disponible ara.</string>
     <string name="bg_network_exception_title">Connexió en segon pla restringida</string>
     <string name="bill_limit_notification_text_format">Fitxa: %1$s | Saldo: %2$s CNY</string>
@@ -1634,6 +1639,7 @@ voluntari"</string>
     <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
     <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
     <string name="gamebox_app_not_find">Instal·leu l\'aplicació primer.</string>
+    <string name="gamebox_brightness">Brillantor</string>
     <string name="gamebox_browser_not_find">Instal·leu primer Mi Browser</string>
     <string name="gamebox_collimator">Espiell</string>
     <string name="gamebox_display_1">Cap</string>
@@ -1659,10 +1665,13 @@ voluntari"</string>
     <string name="gamebox_immerson_open">"S'està activant el Mode Immersió, no canvieu de xarxes…"</string>
     <string name="gamebox_macro">Combos</string>
     <string name="gamebox_manual_record">Enregistra</string>
+    <string name="gamebox_mem_clean">Esborra la memòria</string>
     <string name="gamebox_milink">Emet</string>
     <string name="gamebox_positive_button_text">D\'acord (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instal·leu QQ i torneu-ho a provar.</string>
     <string name="gamebox_recent_task_expand_fail">"Les aplicacions que funcionen amb dreceres no estan instal·lades"</string>
+    <string name="gamebox_screenrecord">Registre</string>
+    <string name="gamebox_screenshot">Captura de pantalla</string>
     <string name="gamebox_simcard">Canvia les targetes SIM</string>
     <string name="gamebox_time">Temporitzador</string>
     <string name="gamebox_type_close">"No ho mostris"</string>
@@ -1782,6 +1791,11 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_new_feature">Nova característica</string>
     <string name="gb_not_support_on_device">"Aquesta aplicació no es pot utilitzar a la pantalla externa"</string>
     <string name="gb_operat_frequently">No tan ràpid!</string>
+    <string name="gb_performance_balance">Equilibrada</string>
+    <string name="gb_performance_high">Rendiment</string>
+    <string name="gb_performance_mode">Mode de joc</string>
+    <string name="gb_performance_tips">"Si utilitzeu el mode de rendiment durant molt de temps,
+pot esgotar la bateria i provocar un sobreescalfament"</string>
     <string name="gb_shortcut_pref_title">Drecera a la pantalla d\'inici</string>
     <string name="gb_shoulder_key">Botons d\'espatlla</string>
     <string name="gb_shoulder_key_add_show_btn">Mostra els botons virtuals durant els jocs</string>
@@ -1817,7 +1831,14 @@ Enregistreu seqüències i feu-les servir en qualsevol moment!"</string>
     <string name="gb_storage_game_uninstall">Desinstal·la jocs</string>
     <string name="gb_storage_summary">"No mostreu els jocs que s'han afegit a la caixa de jocs a la pantalla d'inici"</string>
     <string name="gb_storage_title">Elimineu els jocs afegits de la pantalla d\'inici</string>
+    <string name="gb_turbo_collimator_subtitle">Utilitzeu el dispositiu de punteria</string>
+    <string name="gb_turbo_macro_subtitle">Realitzar accions d’alt nivell</string>
     <string name="gb_turbo_new_flag">NOU</string>
+    <string name="gb_turbo_shoulder_subtitle">Configureu controls de joc</string>
+    <string name="gb_turbo_time_subtitle">Temps de les seves sessions</string>
+    <string name="gb_turbo_voice_subtitle">Pimenta les teves converses</string>
+    <string name="gb_turbo_wonder_subtitle">Grava moments clau</string>
+    <string name="gb_voice_change_audition_tip">Demostració</string>
     <string name="gb_voice_change_settinged">El canviador de veu està activat</string>
     <string name="gb_voice_changer_cartoon">Dibuixos animats</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Renoveu la subscripció per poder fer servir comentaris en temps real.</string>
@@ -1859,6 +1880,8 @@ i exploreu el nostre Canviador de veu."</string>
     <string name="gb_voice_changer_user_status_remain_time">Data de caducitat: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renova</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">La subscripció ha caducat. Renoveu la subscripció ara per obtenir avantatges!</string>
+    <string name="gb_voice_changer_user_vip_expired">Caducat</string>
+    <string name="gb_voice_changer_user_vip_remain_time">Data de caducitat: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Registra els moments clau
 de les teves sessions de joc"</string>
     <string name="gb_wonderful_video_cancel">Cancel·la</string>
@@ -1936,6 +1959,17 @@ de les teves sessions de joc"</string>
     <string name="gtb_dialog_title_smart_5g">Optimització de xarxa 5G</string>
     <string name="gtb_exit_game_to_gtb">Obre la caixa de jocs</string>
     <string name="gtb_exit_game_to_home">Torna a la pantalla d\'inici</string>
+    <string name="gtb_guide_finish">Omet</string>
+    <string name="gtb_guide_gtb_button_done">Fet</string>
+    <string name="gtb_guide_gtb_community_desc">Comparteix la teva experiència amb altres jugadors</string>
+    <string name="gtb_guide_gtb_community_title">Comunitat</string>
+    <string name="gtb_guide_gtb_func_desc">Intensifiqueu el joc</string>
+    <string name="gtb_guide_gtb_func_title">Joc Turbo</string>
+    <string name="gtb_guide_gtb_game_effected">Aplicat</string>
+    <string name="gtb_guide_gtb_game_new">Novetat</string>
+    <string name="gtb_guide_gtb_line_new">Intensifiqueu el joc amb el nou Game Turbo.</string>
+    <string name="gtb_guide_small_window_app_desc">"Utilitzeu altres aplicacions mentre jugueu"</string>
+    <string name="gtb_guide_small_window_app_title">Finestres flotants</string>
     <string name="gtb_setting_item_summary_smart_5g">Sempre que Game Turbo detecti una xarxa 5G, pot connectar el vostre dispositiu a la millor xarxa disponible per reduir el retard de la xarxa</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Augmenteu la velocitat de connexió entre un 10% i un 20% quan estigueu connectat a routers Mi / Redmi</string>
     <string name="gtb_setting_item_title_brightness">Redueix la brillantor de la pantalla automàticament</string>
@@ -4808,7 +4842,7 @@ Proveu una resolució més gran!"</string>
     <string name="warningcenter_policeassist_noti_send">Ha compartit la vostra ubicació amb la policia</string>
     <string name="warningcenter_policeassist_noti_title">Comparteix la ubicació durant les trucades d\'emergència</string>
     <string name="warningcenter_policeassist_open_btn">Activa</string>
-    <string name="warningcenter_policeassist_open_content">"Envia la vostra informació d'ubicació a la policia mitjançant SMS o dades mòbils automàticament mentre truqueu al 112, 120, 119, 122 o 12122."</string>
+    <string name="warningcenter_policeassist_open_content">"Envieu la informació de la vostra ubicació a la policia mitjançant SMS o dades mòbils automàticament mentre truqueu al número 110, 120, 119 o 122."</string>
     <string name="warningcenter_policeassist_open_title">Compartiu la vostra ubicació amb la policia durant les trucades d’emergència</string>
     <string name="warningcenter_policeassist_privacy"><Data>\"He llegit i he acceptat l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;\".</Data></string>
     <string name="warningcenter_policeassist_title">Ubicació d’emergència</string>

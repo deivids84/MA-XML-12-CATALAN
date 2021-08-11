@@ -80,13 +80,13 @@
     <string name="first_using_dialog_message">"La brúixola necessita utilitzar la connexió a la xarxa, la càmera i els serveis d'ubicació del dispositiu per funcionar amb normalitat."</string>
     <string name="first_using_dialog_message_no_camera">La brúixola ha de connectar-se a Internet i accedir a la informació d’ubicació per poder funcionar amb normalitat. Acordar?</string>
     <string name="first_using_dialog_title">Permís d\'accés</string>
-    <string name="fmt_date_long_month_day">MMMM d</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, aaaa</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
-    <string name="fmt_date_short_year_month_day">MMM d, aaaa</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH \"en punt\""</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
@@ -193,7 +193,6 @@
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
     <string name="shake_enter_tip">Agiteu per calibrar</string>
-    <string name="solar_term_autumn_begins">Comença la tardor</string>
     <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
     <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosades fredes</string>

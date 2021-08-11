@@ -542,15 +542,15 @@
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"No podreu restaurar els %d elements seleccionats si els suprimiu. Voleu suprimir-los de totes maneres?"</item>
-        <item quantity="one">"No podreu restaurar l'element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
+        <item quantity="one">"No podreu restaurar %d element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">"No podreu restaurar els %d elements seleccionats si els suprimiu. Voleu suprimir-los de totes maneres?"</item>
-        <item quantity="one">"No podreu restaurar l'element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
+        <item quantity="one">"No podreu restaurar %d element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
         <item quantity="other">"No podreu restaurar els %d elements seleccionats si els suprimiu. Voleu suprimir-los de totes maneres?"</item>
-        <item quantity="one">"No podreu restaurar l'element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
+        <item quantity="one">"No podreu restaurar %d element seleccionat si el suprimiu. Voleu suprimir-lo de totes maneres?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Els articles es poden emmagatzemar aquí fins a un màxim de %1$d dies (%2$s)</item>

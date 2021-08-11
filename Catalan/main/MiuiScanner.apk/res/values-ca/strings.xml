@@ -278,6 +278,7 @@
     <string name="grayscale">Escala de grisos</string>
     <string name="half_covered_mode">Desemmascarat</string>
     <string name="hand_query">Comprova la comanda</string>
+    <string name="hint_no_permissions_text">Feu clic al botó Configuració i accediu a l\'Administració de permisos per activar el permís d\'emmagatzematge de la càmera i del telèfon per utilitzar-lo amb normalitat. Escaneja</string>
     <string name="history">Historial</string>
     <string name="history_empty">Encara no hi ha elements</string>
     <string name="hold_down">Mantén premut per agafar la paraula</string>
