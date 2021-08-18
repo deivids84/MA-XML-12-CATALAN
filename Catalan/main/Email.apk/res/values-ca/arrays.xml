@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="all_month_str">
-        <item>gen.</item>
-        <item>febr.</item>
-        <item>març</item>
-        <item>Abr.</item>
-        <item>maig</item>
-        <item>juny</item>
-        <item>jul.</item>
-        <item>ag.</item>
-        <item>set.</item>
-        <item>oct.</item>
-        <item>nov.</item>
-        <item>des.</item>
+        <item>Gen</item>
+        <item>Febr</item>
+        <item>Març</item>
+        <item>Abr</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Jul</item>
+        <item>Ag</item>
+        <item>Set</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Des</item>
     </string-array>
     <string-array name="alphabet_chars">
         <item>A</item>
@@ -137,13 +137,13 @@
         <item>Demà</item>
         <item>Cap de setmana</item>
         <item>Setmana vinent</item>
-        <item>Mes següent</item>
-        <item>Tria la data</item>
+        <item>Mes vinent</item>
+        <item>Seleccionar data</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Diminut</item>
+        <item>Minúscul</item>
         <item>Petit</item>
-        <item>Normal</item>
+        <item>Text normal</item>
         <item>Gran</item>
         <item>Enorme</item>
     </string-array>
@@ -152,7 +152,7 @@
         <item>factura</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Vist recentment</item>
+        <item>Vists recentment</item>
         <item>Format</item>
         <item>Nom</item>
         <item>Remitent</item>
@@ -160,17 +160,17 @@
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sistema</item>
-        <item>Utilitzats freqüentment</item>
+        <item>D\'ús freqüent</item>
         <item>Totes les carpetes</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Més recent</item>
-        <item>Més antic</item>
+        <item>Missatge més nou</item>
+        <item>Missatge més antic</item>
         <item>Safata d\'entrada</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Tots</item>
-        <item>Només els remitents</item>
+        <item>Només remitents</item>
     </string-array>
     <string-array name="sign_in_dialog_item">
         <item>Inici de sessió del protocol Imap de l\'Outlook</item>
@@ -196,9 +196,9 @@
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adreça:</item>
-        <item>Tel:</item>
+        <item>Telèfon:</item>
         <item>Nom:</item>
-        <item>Correu:</item>
+        <item>Correu electrònic:</item>
         <item>Mòbil:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
@@ -214,15 +214,15 @@
         <item>Salutacions cordials</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>Gràcies,</item>
-        <item>Salutacions cordials</item>
+        <item>Gràcies.</item>
+        <item>Una salutació,</item>
         <item>Enviat des del meu</item>
-        <item>Correu original</item>
+        <item>Correu electrònic original</item>
         <item>Enviat des del meu</item>
         <item>Enviat des de</item>
-        <item>Des de</item>
-        <item>Aquest correu</item>
-        <item>Renúncia</item>
-        <item>Renúncia de correu</item>
+        <item>De</item>
+        <item>Aquest correu electrònic</item>
+        <item>Avís sobre responsabilitats</item>
+        <item>Avís sobre responsabilitats de correu electrònic</item>
     </string-array>
 </resources>

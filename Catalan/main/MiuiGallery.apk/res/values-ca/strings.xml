@@ -444,6 +444,9 @@
     <string name="clip_speedX_3.0x">3,0x</string>
     <string name="close">Tanca</string>
     <string name="close_dialog_desc">Tanca el quadre de diàleg</string>
+    <string name="cloud_action_open">Encendre</string>
+    <string name="cloud_action_upgrade">Actualització</string>
+    <string name="cloud_action_view">Veure</string>
     <string name="cloud_authorize_to_share_to_device">Autoritzeu la visualització d’elements als televisors associats al Compte Mi</string>
     <string name="cloud_authorizing_to_device">S\'està autoritzant…</string>
     <string name="cloud_backup_enable_title">Sincronitza</string>
@@ -854,6 +857,7 @@ estan disponible"</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_pinellia">Pinellia</string>
+    <string name="filter_popular_polaroid">Pel·lícula instantània</string>
     <string name="filter_popular_purple">Porpra</string>
     <string name="filter_popular_shallow_summer">Juny</string>
     <string name="filter_popular_summercloud">Vesper</string>
@@ -1543,6 +1547,9 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Es retalla automàticament</string>
     <string name="photo_editor_crop_reset">Restableix</string>
+    <string name="photo_editor_crop_size_free">Personalitzat</string>
+    <string name="photo_editor_crop_size_fullscreen">Pantalla completa</string>
+    <string name="photo_editor_crop_size_origin">Original</string>
     <string name="photo_editor_doodle">Gargot</string>
     <string name="photo_editor_filter">Filtre</string>
     <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
@@ -1661,6 +1668,7 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="photo_purge_dialog_message_video">"No podreu restaurar els elements si els suprimiu. Voleu suprimir-los de totes maneres?"</string>
     <string name="photo_save_to_msg">S\'ha desat a %s</string>
     <string name="photo_size_not_support">"Aquesta resolució d'imatge no s'admet"</string>
+    <string name="photo_video_count">%1$s i %2$s</string>
     <string name="photo_vlog_module_finish">S\'ha baixat l\'editor de vídeo correctament</string>
     <string name="photo_vlog_module_loading">S\'està baixant l\'editor de vídeo…</string>
     <string name="photodetail_failed_already_exist">Aquest fitxer ja existeix</string>
@@ -1826,6 +1834,21 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="screen_save_dialog_btn_cancel">Cancel·la</string>
     <string name="screen_save_dialog_btn_delete">Suprimeix la captura de pantalla</string>
     <string name="screen_save_dialog_btn_save">Desa a la Galeria</string>
+    <string name="screen_talkback_a_little_large">Gran</string>
+    <string name="screen_talkback_a_little_small">Petit</string>
+    <string name="screen_talkback_alpha_x">Opacitat %s</string>
+    <string name="screen_talkback_color_x">Color %d</string>
+    <string name="screen_talkback_eraser">Goma d\'esborrar</string>
+    <string name="screen_talkback_large">Molt gran</string>
+    <string name="screen_talkback_mark">Marcador</string>
+    <string name="screen_talkback_medium">Mitjà</string>
+    <string name="screen_talkback_mosaic">Mosaic</string>
+    <string name="screen_talkback_mosaic_size_x">Àrea del mosaic: %s</string>
+    <string name="screen_talkback_pen">Bolígraf</string>
+    <string name="screen_talkback_row_x_column_x">Fila %1$d. Posició %2$d.</string>
+    <string name="screen_talkback_shape">Forma</string>
+    <string name="screen_talkback_small">Extra petit</string>
+    <string name="screen_talkback_text">Text</string>
     <string name="search_backup_full_screen">Activeu la sincronització amb Mi Cloud per trobar més objectes i persones</string>
     <string name="search_backup_full_screen_new">Activa la sincronització amb el núvol per fer la cerca més efectiva</string>
     <string name="search_backup_now">Activa</string>
@@ -2008,9 +2031,6 @@ transcodificació pot trigar algun temps a utilitzar aquesta funció per primera
     <string name="slim_stop">Atura l\'optimització</string>
     <string name="slim_stop_v2">Atura</string>
     <string name="slim_success_tip">S\'ha alliberat %s d\'emmagatzematge</string>
-    <string name="solar_term_autumn_begins">Comença la tardor</string>
-    <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
     <string name="solar_term_cold_dews">Rosada freda</string>
     <string name="solar_term_grain_buds">Les criatures plenàries</string>
     <string name="solar_term_grain_in_ear">Sembrant mill</string>

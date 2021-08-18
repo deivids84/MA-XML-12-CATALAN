@@ -53,8 +53,8 @@
         <item quantity="one">Teniu &amp;lt;font color=#faea47&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; punt</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">Fa %1$d dies</item>
-        <item quantity="one">Fa %1$d dia</item>
+        <item quantity="other">%1$d fa uns dies</item>
+        <item quantity="one">%1$d fa un dia</item>
     </plurals>
     <plurals name="delete_files_confirm">
         <item quantity="other">Elimina %1$d fitxers</item>
@@ -65,20 +65,20 @@
         <item quantity="one">" i %1$d carpeta"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d fitxers</item>
-        <item quantity="one">%d fitxer</item>
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other">&#160;%1$d elements</item>
-        <item quantity="one">&#160;%1$d element</item>
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
     </plurals>
     <plurals name="follow_count">
         <item quantity="other">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidors</item>
         <item quantity="one">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidor</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Trobats %1$d nous fitxers</item>
-        <item quantity="one">Trobats %1$d nou fitxer</item>
+        <item quantity="other">S\'han trobat %1$d fitxers nous</item>
+        <item quantity="one">S\'ha trobat %1$d fitxer nou</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s gemes</item>
@@ -89,8 +89,8 @@
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">Fa %1$d hores</item>
-        <item quantity="one">Fa %1$d hora</item>
+        <item quantity="other">%1$d fa unes hores</item>
+        <item quantity="one">%1$d fa una hora</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">D\'aquí a 1 hora</item>
@@ -117,8 +117,8 @@
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">Fa %1$d minuts</item>
-        <item quantity="one">Fa %1$d minut</item>
+        <item quantity="other">%1$d fa uns minuts</item>
+        <item quantity="one">%1$d fa un minut</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements seleccionats</item>
@@ -133,8 +133,8 @@
         <item quantity="one">%d notificació nova</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d seleccionats</item>
-        <item quantity="one">%1$d seleccionat</item>
+        <item quantity="other">Seleccionar %1$d elements</item>
+        <item quantity="one">Seleccionar %1$d element</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">fa %d minuts</item>

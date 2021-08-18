@@ -111,10 +111,6 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Esborrar %s de memòria cau de WeChat per alliberar espai d\'emmagatzematge</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No oblideu esborrar la memòria cau"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recordeu a esborrar la memòria cau de WeChat</string>
-    <string name="appcleaner_wechat_pref_size_100_MB">100 MB</string>
-    <string name="appcleaner_wechat_pref_size_1_GB">1 GB</string>
-    <string name="appcleaner_wechat_pref_size_300_MB">300 MB</string>
-    <string name="appcleaner_wechat_pref_size_500_MB">500 MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Cada dia</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Cada 15 dies</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Cada 7 dies</string>

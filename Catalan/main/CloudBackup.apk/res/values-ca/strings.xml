@@ -64,8 +64,8 @@
     <string name="backup_warning_reason_app_usage_denied">"No s'han pogut sincronitzar les dades.
 Calen permisos."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"No es pot realitzar una còpia de seguretat"</string>
-    <string name="backup_warning_reason_disk_space_not_enough">"No hi ha prou emmagatzematge
-No es pot fer una còpia de seguretat"</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"No es pot fer una còpia de seguretat.
+No hi ha prou espai d'emmagatzematge."</string>
     <string name="backup_warning_reason_network_error">"Error de xarxa
 No es pot fer una còpia de seguretat"</string>
     <string name="backup_warning_reason_no_server_response">"S'ha interromput la connexió
@@ -97,7 +97,7 @@ Torneu-ho a provar"</string>
     <string name="cloud_app_backup_success">Còpia de seguretat d\'aplicació finalitzada</string>
     <string name="cloud_app_check_data">Connectant amb Núvol Xiaomi…</string>
     <string name="cloud_app_current_device">Dispositiu actual</string>
-    <string name="cloud_app_dont_restore">Configura\'l com a nou dispositiu</string>
+    <string name="cloud_app_dont_restore">Utilitzeu-lo com a dispositiu nou</string>
     <string name="cloud_app_no_data">No hi ha còpies</string>
     <string name="cloud_app_no_network">"No es pot connectar a la xarxa"</string>
     <string name="cloud_app_other_devices">Altres dispositius</string>
@@ -152,7 +152,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_cancel_restore_title">Voleu cancel·lar la restauració?</string>
     <string name="confirm_restore">Restaura</string>
     <string name="confirm_restore_app_data">Sobreescriu les dades d\'aplicacions</string>
-    <string name="confirm_restore_app_data_summary">En restaurar les dades de WeChat, se sobreescriurà la versió actual de les dades de l\'aplicació en aquest dispositiu. Voleu restaurar de totes maneres?</string>
+    <string name="confirm_restore_app_data_summary">Sembla que WeChat ja ha generat dades en aquest dispositiu. Voleu sobreescriure\'l amb les dades de la còpia de seguretat?</string>
     <string name="confirm_restore_summary">Es reiniciarà la vostra pantalla d\'inici. Les aplicacions de còpia de seguretat es baixaran automàticament.</string>
     <string name="confirm_restore_title">Restaura</string>
     <string name="copy">Copia</string>
@@ -167,6 +167,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="desktop_wait_network">S\'està esperant…</string>
     <string name="desktop_waiting">S\'està esperant</string>
     <string name="device_delete_prompt">Voleu esborrar la còpia de seguretat de %s?</string>
+    <string name="dialog_app_usage_consent_message">Aquesta funció ha d’accedir a les dades d’ús de l’aplicació per poder estimar la mida de les còpies de seguretat de WeChat.</string>
+    <string name="dialog_app_usage_consent_title">Permetre l\'accés a les dades d\'ús de l\'aplicació</string>
     <string name="dialog_app_usage_denied">Doneu permís \"Accés a l\'ús\" de la còpia de seguretat a la configuració per poder fer una còpia de seguretat dels elements.</string>
     <string name="dialog_backup_failed">"No s'ha pogut fer una còpia de seguretat"</string>
     <string name="dialog_btn_cancel_backup">Cancel·leu</string>
@@ -175,6 +177,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_btn_next">Següent</string>
     <string name="dialog_btn_overwrite_backup">Sobreescriure</string>
     <string name="dialog_btn_restore_skip">Restaura més tard</string>
+    <string name="dialog_button_agree">Permet</string>
+    <string name="dialog_button_disagree">"No ho permeti"</string>
     <string name="dialog_buy_cloud_space">Actualitza</string>
     <string name="dialog_cancel_backup_cancel">Cancel·leu</string>
     <string name="dialog_cancel_backup_confirm">D\'acord</string>
@@ -196,6 +200,11 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="download_meta_failed">"No s'ha pogut carregar les dades."</string>
     <string name="download_settings">S\'està descarregant la configuració de la pantalla d\'inici: %s%%</string>
     <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
+    <string name="dump_app_data_record_complete_msg">Ubicacions dels fitxers: %s</string>
+    <string name="dump_app_data_record_complete_title">Es va fer una còpia de seguretat de les dades de WeChat amb èxit</string>
+    <string name="dump_app_data_record_not_found_msg">"Sembla que no heu fet cap còpia de seguretat de les dades de WeChat abans"</string>
+    <string name="dump_app_data_record_not_found_title">"No hem pogut trobar còpies de seguretat de WeChat"</string>
+    <string name="dump_app_data_record_running_title">Còpia de seguretat de les dades de WeChat…</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
@@ -360,6 +369,8 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="restore_init_description">Inicia la restauració</string>
     <string name="restore_network_pause">En pausa per desar les dades mòbils. Toca per reprendre.</string>
     <string name="restore_network_unconnect">%s (s\'està esperant la connexió)</string>
+    <string name="restore_prepare_item_type_enable">Còpies de seguretat disponibles</string>
+    <string name="restore_prepare_item_type_other">Altres còpies de seguretat</string>
     <string name="restore_task_cancelling">S\'està cancel·lant…</string>
     <string name="restore_task_in_process">S\'està restaurant…</string>
     <string name="restore_task_unfinished">"No s'ha pogut restaurar"</string>
@@ -375,35 +386,11 @@ Comproveu la vostra configuració de xarxa i proveu-ho de nou."</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="selected">Seleccionat</string>
-    <string name="self_device_main_space">"El primer espai d'aquest telèfon"</string>
-    <string name="self_device_second_space">"El Segon espai d'aquest telèfon"</string>
+    <string name="self_device_main_space">Primer espai</string>
+    <string name="self_device_second_space">Segon espai</string>
     <string name="send">Envia</string>
     <string name="settings_backup">Configuració del sistema</string>
     <string name="size_unknown">Mida desconeguda</string>
-    <string name="solar_term_autumn_begins">Comença la tardor</string>
-    <string name="solar_term_autumn_equinox">Equinocci de tardor</string>
-    <string name="solar_term_clear_and_bright">Dia dels Difunts</string>
-    <string name="solar_term_cold_dews">Rosades fredes</string>
-    <string name="solar_term_grain_buds">Criatures plenes</string>
-    <string name="solar_term_grain_in_ear">Sembra de mill</string>
-    <string name="solar_term_grain_rain">Pluja de blat</string>
-    <string name="solar_term_great_cold">Fred intens</string>
-    <string name="solar_term_great_heat">Gran calor</string>
-    <string name="solar_term_heavy_snow">Fortes nevades</string>
-    <string name="solar_term_hoar_frost_falls">Glaçada</string>
-    <string name="solar_term_insects_awaken">Els insectes es desperten</string>
-    <string name="solar_term_light_snow">Nevada feble</string>
-    <string name="solar_term_slight_cold">Fred moderat</string>
-    <string name="solar_term_slight_heat">Calor moderada</string>
-    <string name="solar_term_spring_begins">Comença la primavera</string>
-    <string name="solar_term_stopping_the_heat">La retirada de la calor</string>
-    <string name="solar_term_summer_begins">Comença l\'estiu</string>
-    <string name="solar_term_summer_solstice">Solstici d\'estiu</string>
-    <string name="solar_term_the_rains">Pluges de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocci de primavera</string>
-    <string name="solar_term_white_dews">Rosades</string>
-    <string name="solar_term_winter_begins">Comença l\'hivern</string>
-    <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="start_backup_to_micloud">Realitza còpia de seguretat d\'aplicacions al Núvol Xiaomi</string>
     <string name="start_recover">Restaura %s</string>
     <string name="status_bar_notification_info_overflow">999+</string>

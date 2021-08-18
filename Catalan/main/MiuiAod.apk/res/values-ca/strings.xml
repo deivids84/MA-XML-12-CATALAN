@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="above_image">Amunt</string>
-    <string name="accessibility_battery_level_charging">Càrrega de la bateria: %d%.</string>
+    <string name="accessibility_battery_level_charging">S\'està carregant la bateria, %d per cent.</string>
     <string name="actionbar_button_up_description">esquena</string>
     <string name="add_custom_image">Imatge personalitzada</string>
     <string name="add_from_album">Afegeix des de la galeria</string>
@@ -161,6 +161,7 @@ MM / dd"</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Divendres</string>
     <string name="friday_shortest">Divendres</string>
+    <string name="garbage_count">Hi ha %1$s casos antics</string>
     <string name="gradient_vectorpath">ruta_vector_gradient</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="item_view_role_description">Pestanya</string>
@@ -169,6 +170,7 @@ MM / dd"</string>
     <string name="line_space">Espai entre línies</string>
     <string name="material_slider_range_end">Final del rang,</string>
     <string name="material_slider_range_start">Inici del rang,</string>
+    <string name="memory_leak">Pèrdua de memòria</string>
     <string name="midnight">Nit</string>
     <string name="mini_time">Rellotge petit</string>
     <string name="minimalist_clock">Rellotge senzill</string>
@@ -277,6 +279,7 @@ MM / dd"</string>
     <string name="notification_anim_pulse">Pols</string>
     <string name="notification_anim_rhythm">Ritme</string>
     <string name="notification_anim_star">Llum de les estrelles</string>
+    <string name="notification_channel_alerts">Alertes</string>
     <string name="notification_nothing">Cap</string>
     <string name="notification_screen_on">Il·lumina la pantalla</string>
     <string name="off">Desactivat</string>

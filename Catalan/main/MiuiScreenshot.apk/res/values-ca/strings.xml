@@ -54,6 +54,7 @@
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="garbage_count">Hi ha %1$s casos antics</string>
     <string name="long_screenshot_guide_text">"Toqueu per fer que
 sigui una captura de pantalla de desplaçament"</string>
     <string name="long_screenshot_out_of_memory_error">La imatge és massa gran</string>
@@ -61,6 +62,7 @@ sigui una captura de pantalla de desplaçament"</string>
     <string name="long_screenshot_stop">Fet</string>
     <string name="long_screenshot_top_msg">S\'està creant la captura de pantalla…</string>
     <string name="long_screenshot_top_msg_manual">Retalleu la captura de pantalla i toqueu el botó per acabar</string>
+    <string name="memory_leak">Pèrdua de memòria</string>
     <string name="midnight">Nit</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
@@ -127,6 +129,7 @@ sigui una captura de pantalla de desplaçament"</string>
     <string name="morning">Matí</string>
     <string name="night">Vespre</string>
     <string name="noon">Migdia</string>
+    <string name="notification_channel_alerts">Alertes</string>
     <string name="partial_screenshot_edit">Edita</string>
     <string name="partial_screenshot_failed_to_capture_title">"Aquesta aplicació no permet fer captures de pantalla"</string>
     <string name="partial_screenshot_failed_to_save_title">"No s'ha pogut desar. No hi ha prou espai d'emmagatzematge."</string>

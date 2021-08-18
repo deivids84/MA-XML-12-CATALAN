@@ -81,17 +81,17 @@
         <item>Massa llarg</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>És hora de moure’s!</item>
-        <item>Més informació</item>
-        <item>Beveu aigua i feu una passejada.</item>
-        <item>Més informació</item>
-        <item>Pugeu escales d\'un vol</item>
-        <item>Més informació</item>
-        <item>"No estigueu asseguts massa temps"</item>
-        <item>Més informació</item>
+        <item>Temps per moures!</item>
+        <item>Aprèn més</item>
+        <item>A beure una mica d\'aigua i passejar.</item>
+        <item>Aprèn més</item>
+        <item>Puja un tram d\'escales</item>
+        <item>Aprèn més</item>
+        <item>"No us assegueu massa temps"</item>
+        <item>Aprèn més</item>
     </string-array>
     <string-array name="arr_time_label">
-        <item>1 hora</item>
+        <item>1 hora</item>
         <item>2 hores</item>
     </string-array>
     <string-array name="contact_relation_array">
@@ -152,7 +152,7 @@
     </string-array>
     <string-array name="run_in_background_state">
         <item>Sense restriccions</item>
-        <item>Limita l\'activitat en segon pla</item>
+        <item>Limiteu la activitat en segon pla</item>
         <item>Atura després de 10 minuts</item>
         <item>Mai</item>
     </string-array>
@@ -174,31 +174,31 @@
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Diumenge</item>
-        <item>Dilluns</item>
-        <item>Dimarts</item>
-        <item>Dimecres</item>
-        <item>Dijous</item>
-        <item>Divendres</item>
-        <item>Dissabte</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
     </string-array>
     <string-array name="week_label">
-        <item>Dg.</item>
-        <item>Dl.</item>
-        <item>Dt.</item>
-        <item>Dc.</item>
-        <item>Dj.</item>
-        <item>Dv.</item>
-        <item>Ds.</item>
+        <item>Dg</item>
+        <item>Dl</item>
+        <item>Dt</item>
+        <item>Dc</item>
+        <item>Dj</item>
+        <item>Dv</item>
+        <item>Ds</item>
     </string-array>
     <string-array name="week_short">
-        <item>Dg.</item>
-        <item>Dl.</item>
-        <item>Dt.</item>
-        <item>Dc.</item>
-        <item>Dj.</item>
-        <item>Dv.</item>
-        <item>Ds.</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" g"</item>

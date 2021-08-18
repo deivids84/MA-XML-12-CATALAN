@@ -37,16 +37,16 @@
         <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="antispam_marked_count">
-        <item quantity="other">Informat per %d usuaris de MIUI</item>
-        <item quantity="one">Informat per %d usuari de MIUI</item>
+        <item quantity="other">Informat per %d usuaris MIUI</item>
+        <item quantity="one">Informat per %d usuari MIUI</item>
     </plurals>
     <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Penjant d\'aquí a %1$s segons…</item>
-        <item quantity="one">Penjant en %1$s segons…</item>
+        <item quantity="other">Penjant en %1$s s…</item>
+        <item quantity="one">Penjant en %1$s s…</item>
     </plurals>
     <plurals name="call_recording_notification_complete">
-        <item quantity="other">%d trucades enregistrades.</item>
-        <item quantity="one">%d trucada enregistrada.</item>
+        <item quantity="other">S\'han enregistrat %d trucades.</item>
+        <item quantity="one">S\'ha enregistrat %d trucada.</item>
     </plurals>
     <plurals name="call_title_redialing_with_times">
         <item quantity="other">Remarcat %d vegades</item>

@@ -4,7 +4,7 @@
     <item>Casa</item>
     <item>Feina</item>
     <item>Altres</item>
-    <item>Personalitzat</item>
+    <item>Personalitza</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Torna-ho a provar</item>
@@ -39,7 +39,7 @@
     <item>Casa</item>
     <item>Feina</item>
     <item>Altres</item>
-    <item>Personalitzat</item>
+    <item>Personalitza</item>
   </string-array>
   <string-array name="network_switch_type_name">
     <item>dades mòbils</item>
@@ -61,18 +61,18 @@
     <item>Fax de casa</item>
     <item>Cercapersones</item>
     <item>Altres</item>
-    <item>Personalitzat</item>
+    <item>Personalitza</item>
   </string-array>
   <string-array name="postalAddressTypes">
     <item>Casa</item>
     <item>Feina</item>
     <item>Altres</item>
-    <item>Personalitzat</item>
+    <item>Personalitza</item>
   </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>Per fer trucades i enviar missatges per Wi-Fi, primer demaneu al vostre operador que configurin aquest servei. A continuació, torneu a activar les trucades per Wi-Fi des de la Configuració. (Codi d\'error: %1$s)</item>
+    <item>Per fer trucades i enviar missatges per Wi-Fi, primer has de demanar a l\'operador de telefonia mòbil que configuri aquest servei. Després, torna a activar les trucades per Wi-Fi a Configuració. (Codi d\'error: %1$s)</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Problema al registrar trucades Wi-Fi amb el vostre operador: %1$s</item>
+    <item>Hi ha hagut un problema en registrar les trucades per Wi-Fi amb el teu operador de telefonia mòbil: %1$s</item>
   </string-array>
 </resources>

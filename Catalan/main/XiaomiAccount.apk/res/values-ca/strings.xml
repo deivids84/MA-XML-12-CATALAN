@@ -62,7 +62,7 @@
  El vostre ID: %s"</string>
     <string name="account_token_expired_title">"No s'ha pogut autenticar"</string>
     <string name="account_user_avatar">Foto del perfil</string>
-    <string name="account_user_avatar_from_album">Trieu una foto</string>
+    <string name="account_user_avatar_from_album">Selecciona una foto</string>
     <string name="account_user_avatar_from_camera">Fes una foto</string>
     <string name="account_user_base_info">Informació personal</string>
     <string name="account_user_birthday">Aniversari</string>
@@ -197,11 +197,11 @@ Envieu aquest codi al supervisor."</string>
     <string name="find_device_access_denied">"No es pot obtenir l'estat, s'ha denegat l'accés"</string>
     <string name="find_device_account_error">"No es pot obtenir l'estat per un error en el compte"</string>
     <string name="find_device_activate_account">Activa el compte</string>
-    <string name="find_device_bad_response_error">S\'ha produït un error en el servidor: espereu un minut o dos i torneu-ho a provar</string>
+    <string name="find_device_bad_response_error">S\'ha produït un error de servidor. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="find_device_clear_data">Esborra les dades</string>
     <string name="find_device_close">Desactivat</string>
     <string name="find_device_error_password_not_confirmed">"No es pot desactivar Troba el dispositiu. Torneu a introduir la contrasenya del compte Mi."</string>
-    <string name="find_device_error_password_recently_changed">"Heu canviat la vostra contrasenya durant els darrers 3 dies. Ara no es pot desactivar Troba el dispositiu per motius de seguretat."</string>
+    <string name="find_device_error_password_recently_changed">"Heu canviat la contrasenya en els darrers %d dies. No es pot desactivar la cerca del dispositiu ara per motius de seguretat."</string>
     <string name="find_device_interrupted">L\'acció es va interrompre, espereu un minut o dos i torneu-ho a intentar</string>
     <string name="find_device_io_error">"No es pot connectar a la xarxa"</string>
     <string name="find_device_location">Localitza</string>
@@ -220,13 +220,15 @@ Envieu aquest codi al supervisor."</string>
     <string name="find_device_request_prepare_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
     <string name="find_device_set_lost_model">Mode perdut</string>
     <string name="find_device_title">Troba el dispositiu</string>
-    <string name="find_device_unknown_error">"No es pot obtenir l'estat del dispositiu, espereu un minut o dos i torneu-ho a provar"</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="find_device_unknown_error">"No es pot obtenir l'estat del dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_24hour">"HH \"en punt\""</string>
     <string name="for_diagnosis_usage_only">S\'utilitza només per localitzar problemes.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
@@ -263,7 +265,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="loading_micloud_sync_data">Un moment…</string>
     <string name="login_check_find_device">Obtenint la informació de seguretat del dispositiu…</string>
     <string name="login_check_find_device_failed_title">"No s'ha pogut comprovar la informació de seguretat del dispositiu"</string>
-    <string name="login_find_device_bind">Aquest dispositiu està associat amb l\'ID del compte Mi existent (%s).</string>
+    <string name="login_find_device_bind">Aquest dispositiu està associat a un identificador de compte Mi (%s) existent.</string>
     <string name="logout_account">Tanca la sessió</string>
     <string name="logout_failed">"No s'ha pogut tancar la sessió"</string>
     <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>

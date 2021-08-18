@@ -13,28 +13,28 @@
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">D\'aquí a mitja hora</item>
-        <item quantity="other">D\'aquí a mitja hora</item>
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">en %d mins</item>
+        <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">%d anuncis bloquejats</item>
@@ -93,20 +93,20 @@
         <item quantity="one">%1$d fa una hora</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">D\'aquí a mitja hora</item>
-        <item quantity="other">D\'aquí a mitja hora</item>
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 minut</item>
+        <item quantity="other">en %d minuts</item>
+        <item quantity="one">en 1 minut</item>
     </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">S\'han baixat %d elements amb èxit</item>
@@ -121,12 +121,12 @@
         <item quantity="one">%1$d fa un minut</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elements seleccionats</item>
-        <item quantity="one">%d element seleccionat</item>
+        <item quantity="other">%d elements sel·leccionats</item>
+        <item quantity="one">%d element sel·leccionat</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últims %d dies</item>
-        <item quantity="one">Últims %d dies</item>
+        <item quantity="one">Últim %d dia</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
@@ -145,8 +145,8 @@
         <item quantity="one">Seleccionar %1$d element</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">fa %d minuts</item>
-        <item quantity="one">fa 1 minut</item>
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="players">
         <item quantity="other">%d jugadors</item>
@@ -177,8 +177,8 @@
         <item quantity="one">%d cançó popular</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d elements seleccionats</item>
-        <item quantity="one">S\'ha seleccionat %1$d element</item>
+        <item quantity="other">%1$d seleccionats</item>
+        <item quantity="one">%1$d seleccionat</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"No has vist %d dels teus vídeos favorits des de fa molt de temps."</item>

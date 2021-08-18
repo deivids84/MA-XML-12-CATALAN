@@ -32,6 +32,10 @@
         <item>Back up important settings, including WLAN and display</item>
         <item>"Lock your device remotely if it's lost"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sincronitzeu les vostres fotos, notes, enregistraments i molt més</item>
+        <item>"Bloqueja el dispositiu remotament si es perd"</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Sincronitzeu els vostres contactes, missatges, notes, calendari i molt més</item>
         <item>Còpia de seguretat d\'aplicacions, disseny de la Pantalla d\'inici i fons de pantalla</item>
@@ -43,6 +47,10 @@
         <item>Còpia de seguretat del disseny de la pantalla d\'inici</item>
         <item>Configuració de còpia de seguretat del sistema</item>
         <item>Troba el dispositiu</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sincronitza les dades de l\'aplicació</item>
+        <item>Cerca dispositiu</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Per identificar el teu dispositiu</item>
@@ -136,6 +144,11 @@
         <item>Restaureu contactes, fotos, missatges i molt més</item>
         <item>Brossa;Elements eliminats;Paperera;Restauració;Serveis Núvol;Núvol Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Articles suprimits a Xiaomi Cloud</item>
+        <item>Restaura fotos, notes i molt més</item>
+        <item>Paperera; Articles suprimits; Paperera; Restauració; Serveis al núvol; Xiaomi Cloud</item>
+    </string-array>
     <string-array name="settings_search_restore_device">
         <item>Restaura els elements del Núvol Xiaomi</item>
         <item>Baixeu els elements amb còpia de seguretat al dispositiu</item>
@@ -145,6 +158,11 @@
         <item>Sincronització de seguretat al núvol</item>
         <item>Activeu la sincronització</item>
         <item>Seguretat;Núvol;Núvol de Xiaomi;Sincronització;Serveis al núvol</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Sincronització de núvol de seguretat</item>
+        <item>Activa la sincronització</item>
+        <item>Seguretat; Núvol; Xiaomi Cloud; Sincronització; Serveis al núvol</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronitzeu els missatges amb Núvol Xiaomi</item>
@@ -160,6 +178,11 @@
         <item>Núvol Xiaomi. Tots els serveis Mi en un sol lloc.</item>
         <item>Accediu a les vostres fotos, contactes, missatges i dispositius des de qualsevol lloc</item>
         <item>Emmagatzematge insuficient;Afiliació;Emmagatzematge;Espai d\'emmagatzematge;Núvol;Sincronització;Serveis Núvol;Núvol Xiaomi; Paperera;Articles eliminats;Seguretat</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Núvol Xiaomi. Tots els serveis Mi en un sol lloc.</item>
+        <item>Accediu a les vostres fotos, notes i dispositius des de qualsevol lloc</item>
+        <item>Emmagatzematge insuficient; Afiliació; Emmagatzematge; Espai d\'emmagatzematge; Núvol; Sincronització; Serveis al núvol; Xiaomi Cloud; Paperera; Articles suprimits; Seguretat</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sincronitzeu la configuració de Wi-Fi amb Núvol Xiaomi</item>

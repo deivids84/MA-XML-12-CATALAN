@@ -4,20 +4,20 @@
         <item>Torna-ho a provar</item>
         <item></item>
         <item></item>
-        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
+        <item>Cobreix completament l\'escàner d\'empremtes dactilars i aplica pressió</item>
         <item></item>
-        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
-        <item>Netegeu el sensor d’empremtes digitals i torneu-ho a provar</item>
-        <item></item>
-        <item></item>
+        <item>Cobreix completament l\'escàner d\'empremtes i aplica pressió</item>
+        <item>Neteja el sensor d\'empremtes dactilars i torna-ho a provar</item>
         <item></item>
         <item></item>
-        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
-        <item>Tapeu completament l’escàner d’empremtes digitals i feu pressió</item>
-        <item>"Massa ràpid! No s'ha pogut reconèixer l'empremta digital"</item>
+        <item></item>
+        <item></item>
+        <item>Cobreix completament l\'escàner d\'empremtes i aplica pressió</item>
+        <item>Cobreix completament l\'escàner d\'empremtes i aplica pressió</item>
+        <item>"Massa ràpid! No s'ha pogut reconèixer l'empremta dactilar"</item>
         <item>Mou una mica el dit i torna-ho a provar</item>
-        <item>Aixequeu el dit i torneu-lo a col·locar a l’escàner</item>
-        <item>Mantingueu el dit a l’escàner una mica més de temps</item>
+        <item>Treu el dit i torna\'l a posar sobre l\'escàner</item>
+        <item>Mantingues el teu dit una mica més de temps sobre l\'escàner</item>
         <item></item>
         <item></item>
         <item></item>
@@ -26,7 +26,7 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>Mou el dit lleugerament</item>
-        <item>S\'ha afegit aquesta empremta digital, feu servir un dit diferent</item>
+        <item>Mou una mica el teu dit</item>
+        <item>Aquesta empremta ha estat afegida, fes servir un altre dit</item>
     </string-array>
 </resources>

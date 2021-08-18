@@ -541,6 +541,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="live_tv_title">TV en directe</string>
     <string name="loading">&lt;CDATA&gt;Un moment&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="local_play_tip">Reproducció de vídeo local</string>
+    <string name="local_push_setting_power_tag">Notificacions sobre vídeos locals</string>
     <string name="local_push_title">Popular avui en dia</string>
     <string name="local_video_create_a_new_playlist">Nova llista de reproducció</string>
     <string name="local_video_date">Data</string>
@@ -1426,6 +1427,7 @@ Incrementar la seguretat del vostre compte."</string>
     <string name="type_issue">Assumpte</string>
     <string name="type_suggestion">Suggeriment</string>
     <string name="ugc_no_net">"No s'ha pogut connectar a la xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string name="ui_common_title_back">esquena</string>
     <string name="ui_log_tip">Toqueu aquesta àrea per ocultar-la, manteniu premuda per eliminar els registres antics. Arrossegueu els registres manualment.</string>
     <string name="unknow">Desconegut</string>
     <string name="unknown_error_info">Error desconegut</string>

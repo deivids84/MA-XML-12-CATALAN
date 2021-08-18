@@ -37,12 +37,12 @@
         <item quantity="one">Fa 1 minut</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Voleu suprimir %d baixades?</item>
-        <item quantity="one">Voleu suprimir %d baixada?</item>
+        <item quantity="other">Vols eliminar %d tasques?</item>
+        <item quantity="one">Vols eliminar %d tasca?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">S\'han suprimit %s baixades correctament</item>
-        <item quantity="one">S\'ha suprimit %s baixada correctament</item>
+        <item quantity="other">%1$d baixades eliminades</item>
+        <item quantity="one">%1$d baixada eliminada</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d dies</item>
@@ -57,8 +57,8 @@
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="durationSeconds">
-        <item quantity="other">%1$d s</item>
-        <item quantity="one">%1$d s</item>
+        <item quantity="other">%1$d seg</item>
+        <item quantity="one">%1$d seg</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
