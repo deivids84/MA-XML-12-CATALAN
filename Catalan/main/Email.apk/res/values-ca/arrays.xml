@@ -173,7 +173,7 @@
         <item>Només remitents</item>
     </string-array>
     <string-array name="sign_in_dialog_item">
-        <item>Inici de sessió del protocol Imap de l\'Outlook</item>
+        <item>Outlook per a empreses (sense calendari)</item>
         <item>IMAP (sense calendari)</item>
         <item>EXCHANGE (amb calendari)</item>
     </string-array>

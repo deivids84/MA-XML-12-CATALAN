@@ -132,6 +132,7 @@
     <string name="international_livetalk_enable">S\'estan utilitzant paquets de recàrrega per a trucades internacionals</string>
     <string name="key_btn_ok">D\'acord</string>
     <string name="key_btn_space">Espai</string>
+    <string name="keyboard_connect_failed">"No s'ha pogut connectar el teclat. Torneu a adjuntar."</string>
     <string name="keyboard_identity_reject_confirm">Ho tinc</string>
     <string name="keyboard_identity_reject_message">"Sembla que el vostre teclat no és compatible amb aquest dispositiu."</string>
     <string name="keyboard_identity_transfer_error_message">"No s'ha pogut connectar el teclat. Torna-ho a provar."</string>

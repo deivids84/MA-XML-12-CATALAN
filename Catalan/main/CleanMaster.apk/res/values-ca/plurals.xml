@@ -122,6 +122,10 @@
         <item quantity="other">Eliminar %1$s fotos de tots els dispositius?</item>
         <item quantity="one">Eliminar %1$s foto de tots els dispositius?</item>
     </plurals>
+    <plurals name="every_x_day">
+        <item quantity="other">Cada %d dies</item>
+        <item quantity="one">Cada %d dia</item>
+    </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per a &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; cançons)&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Alliberat &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (suficient per a &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; cançó)&lt;/Data&gt;</item>
@@ -177,6 +181,10 @@
     <plurals name="install_find_application_num">
         <item quantity="other">S\'han trobat %d aplicacions</item>
         <item quantity="one">S\'ha trobat %d aplicació</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Els darrers %d dies</item>
+        <item quantity="one">Darrer %d dia</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>

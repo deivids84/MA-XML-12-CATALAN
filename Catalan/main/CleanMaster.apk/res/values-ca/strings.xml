@@ -89,8 +89,6 @@
     <string name="appcleaner_g_normal_summary_wechat">Elimineu permanentment fitxers de WeChat</string>
     <string name="appcleaner_g_normal_title_qq">Netejador de fitxers de QQ</string>
     <string name="appcleaner_g_normal_title_wechat">Netejador de fitxers de WeChat</string>
-    <string name="appcleaner_g_seven_day">Darrers 7 dies</string>
-    <string name="appcleaner_g_thirty_day">Darrers 30 dies</string>
     <string name="appcleaner_g_this_month">Aquest mes</string>
     <string name="appcleaner_g_video_sum_title_chat_wechat">S\'ha enviat els vídeos</string>
     <string name="appcleaner_g_video_sum_title_make_wechat">Vídeos</string>
@@ -111,10 +109,6 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Esborrar %s de memòria cau de WeChat per alliberar espai d\'emmagatzematge</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"No oblideu esborrar la memòria cau"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Recordeu a esborrar la memòria cau de WeChat</string>
-    <string name="appcleaner_wechat_pref_time_every_day">Cada dia</string>
-    <string name="appcleaner_wechat_pref_time_fifteen_day">Cada 15 dies</string>
-    <string name="appcleaner_wechat_pref_time_seven_day">Cada 7 dies</string>
-    <string name="appcleaner_wechat_pref_time_three_day">Cada 3 dies</string>
     <string name="appcleaner_wechat_pref_title_clean_alert">Recordeu a esborrar la memòria cau de WeChat</string>
     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Mida de la memòria cau</string>
     <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Recordar</string>
@@ -128,9 +122,6 @@
     <string name="auto_clean_switch_off">Apaga</string>
     <string name="auto_clean_switch_on">Encén</string>
     <string name="auto_clean_time_every_day">Cada dia</string>
-    <string name="auto_clean_time_fifteen_day">Cada 15 dies</string>
-    <string name="auto_clean_time_seven_day">Cada 7 dies</string>
-    <string name="auto_clean_time_three_day">Cada 3 dies</string>
     <string name="auto_cleaner_open">Activa</string>
     <string name="back">Enrere</string>
     <string name="btn_text_done">Fet</string>
@@ -188,11 +179,6 @@
     <string name="cd_scanning">s\'està escanejant</string>
     <string name="cd_settings">configuració</string>
     <string name="cd_sort_type">ordena per tipus</string>
-    <string name="clean_content_all">Tot</string>
-    <string name="clean_content_one">1 element</string>
-    <string name="clean_content_three">3 elements</string>
-    <string name="clean_content_two">2 elements</string>
-    <string name="clean_content_zero">Cap</string>
     <string name="clean_master_icon_recall_button_text">Afegeix</string>
     <string name="clean_master_icon_recall_dialog_button_negative">No gràcies</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Afegeix</string>
@@ -241,14 +227,12 @@
     <string name="deepclean_apk_group_hint_unchecked">Desseleccioneu-ho tot</string>
     <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APK a eliminar</string>
     <string name="deepclean_apk_version_error">Desconegut</string>
-    <string name="deepclean_app_content">Desinstal·la les aplicacions que fa 30 dies que no s\'utilitzen</string>
     <string name="deepclean_app_summary_empty">Tot pinta bé, no hi ha aplicacions a eliminar</string>
     <string name="deepclean_cache_content">Esborra les dades generades per les aplicacions</string>
     <string name="deepclean_cache_header_left">Fitxers de dades: %d</string>
     <string name="deepclean_cache_summary_empty">Tot pinta bé, no hi ha dades a eliminar</string>
     <string name="deepclean_empty">Tot sembla correcte</string>
     <string name="deepclean_install_info_desc2">Elimineu aplicacions per alliberar espai</string>
-    <string name="deepclean_large_content">Eliminar fitxers majors de 10MB</string>
     <string name="deepclean_large_summary_empty">Tot pinta bé, no hi ha fitxers a suprimir</string>
     <string name="deepclean_list_item_from_app">Botiga d\'aplicacions</string>
     <string name="deepclean_list_item_from_dcim_thumbnails">Miniatures</string>
@@ -382,14 +366,8 @@
     <string name="global_wa_setting_alert_pref_size_title">Mida de la brossa</string>
     <string name="global_wa_setting_alert_pref_switch_title">Recorda esborrar els elements</string>
     <string name="global_wa_setting_alert_pref_time_title">Freqüència</string>
-    <string name="global_wa_setting_alert_size_1_GB">1 GB</string>
-    <string name="global_wa_setting_alert_size_200_MB">200 MB</string>
-    <string name="global_wa_setting_alert_size_500_MB">500 MB</string>
     <string name="global_wa_setting_alert_size_dialog_title">Mida de les escombraries del WhatsApp</string>
     <string name="global_wa_setting_alert_time_dialog_title">Freqüència</string>
-    <string name="global_wa_setting_alert_time_every_day">Cada dia</string>
-    <string name="global_wa_setting_alert_time_seven_day">Cada setmana</string>
-    <string name="global_wa_setting_alert_time_three_day">Cada 3 dies</string>
     <string name="global_wa_setting_other_pref_category_title">Altres</string>
     <string name="global_wa_setting_other_pref_reconmmend_title">Recomanacions</string>
     <string name="global_wa_setting_other_pref_shortcut_title">Drecera a la pantalla d\'inici</string>
@@ -408,10 +386,12 @@
     <string name="goto_set">Aplica</string>
     <string name="grabage_rank_title">Netejat avui</string>
     <string name="guide_dc_dialog_message">"Queden menys de 2 GB d'espai d'emmagatzematge lliure. Això pot posar lent el teu dispositiu. Fes una neteja profunda per a alliberar espai."</string>
+    <string name="guide_dc_dialog_message_new">"Queden menys de %d GB d'espai d'emmagatzematge gratuït. Això pot frenar el dispositiu. Realitzeu una neteja profunda per alliberar espai d'emmagatzematge."</string>
     <string name="guide_dc_dialog_negative">Cancel·lar</string>
     <string name="guide_dc_dialog_positive">D\'acord</string>
     <string name="guide_dc_dialog_title">S\'està esgotant l\'espai</string>
     <string name="guide_secure_dialog_message">La puntuació d\'optimització del teu dispositiu és menor a 80 punts. Voleu optimitzar-lo ara?</string>
+    <string name="guide_secure_dialog_message_new">La puntuació d’optimització del dispositiu és inferior a %d punts. Optimitzar ara?</string>
     <string name="guide_secure_dialog_negative">Cancel·leu</string>
     <string name="guide_secure_dialog_positive">Optimitza</string>
     <string name="guide_secure_dialog_title">Optimitza el rendiment</string>
@@ -454,7 +434,6 @@
     <string name="hints_list_item_unlock">Neteja</string>
     <string name="hints_loading_text">S\'està carregant…</string>
     <string name="hints_memory_header_left">Memòria</string>
-    <string name="hints_num">0</string>
     <string name="hints_privacy_header_left">Privacitat: %d</string>
     <string name="hints_quick_cleanning">S\'està netejant…</string>
     <string name="hints_quick_cleanuping">S\'està optimitzant…</string>
@@ -494,6 +473,7 @@
     <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
     <string name="long_click_dialog_title">Nota</string>
     <string name="low_memory_clean_dialog_msg">Abans esborreu com a mínim 100MB de fitxers</string>
+    <string name="low_memory_clean_dialog_msg_new">Esborreu primer %d MB com a mínim</string>
     <string name="low_memory_clean_dialog_ok_button">D\'acord</string>
     <string name="low_memory_clean_dialog_title">Disc sense espai</string>
     <string name="low_memory_warning_dialog_cancel_button">Cancel·leu</string>
@@ -608,7 +588,6 @@
     <string name="notification_garbage_cleanup_title">Netegeu els fitxers de la brossa</string>
     <string name="notification_installed_clean_size">Allibera %2$s després d\'instal·lar %1$s</string>
     <string name="notification_low_memory_button_text">Arregla</string>
-    <string name="notification_low_memory_cache_summary">Menys d’1,5 Gb d’espai d’emmagatzematge disponible</string>
     <string name="notification_low_memory_cache_title">Neteja la memòria cau</string>
     <string name="notification_low_memory_deepclean_summary">La neteja profunda permet alliberar l’emmagatzematge del dispositiu</string>
     <string name="notification_low_memory_deepclean_title">Escàs espai d\'emmagatzament</string>
@@ -644,7 +623,6 @@
     <string name="notification_wechat_clean_middle_level_text_b">"La paperera de WeChat alenteix l'aplicació"</string>
     <string name="notification_whatsapp_clean_button_text">Neteja</string>
     <string name="notification_whatsapp_clean_size">La cache de WhatsApp arriba als %s</string>
-    <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
     <string name="ok">D\'acord</string>
     <string name="one_tap_clean_GB">%s GB</string>
     <string name="one_tap_clean_M">%d MB</string>
@@ -775,7 +753,6 @@
     <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
     <string name="start_install">Instal·la ara</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_auto_cleaner">Rep notificacions quan la mida de les escombraries arribi a 100 Mb?</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">Voleu esborrar les APK seleccionades permanentment?</string>
     <string name="summary_delete_cache">Voleu esborrar la memòria cau de les aplicacions seleccionades?</string>
@@ -833,8 +810,11 @@
     <string name="time_picker_dialog_title">Estableix l’hora</string>
     <string name="tips_low_storage_dialog_cancel">Cancel·leu</string>
     <string name="tips_low_storage_dialog_msg_qq">La mida de la memòria cau de QQ ha arribat als 3 GB. Això podria alentir el vostre dispositiu. Voleu esborrar la memòria cau de QQ?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">La mida de la memòria cau de QQ ha arribat a %d GB. Això pot frenar el dispositiu. Voleu esborrar la memòria cau de QQ ara?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Esteu utilitzant el 90% de l'espai d'emmagatzematge. Desinstal·leu aplicacions en desús."</string>
+    <string name="tips_low_storage_dialog_msg_storage_new">"Feu servir %s del vostre espai d'emmagatzematge. Desinstal·leu les aplicacions que no utilitzeu."</string>
     <string name="tips_low_storage_dialog_msg_wechat">La mida de la memòria cau de WeChat ha arribat als 3 Gb. Això podria alentir el vostre dispositiu. Voleu esborrar la memòria cau de WeChat?</string>
+    <string name="tips_low_storage_dialog_msg_wechat_new">La mida de la memòria cau de WeChat ha arribat a %d GB. Això pot frenar el dispositiu. Voleu esborrar la memòria cau de WeChat ara?</string>
     <string name="tips_low_storage_dialog_ok">Neteja</string>
     <string name="tips_low_storage_dialog_ok_storage">Allibereu espai</string>
     <string name="tips_low_storage_dialog_title">Escàs espai d\'emmagatzament</string>
@@ -994,15 +974,13 @@
     <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
     <string name="white_list_residual_header">Fitxers residuals: %d</string>
     <string name="white_list_title">Excepcions</string>
-    <string name="wq_deep_clean_filter_all">Tots</string>
-    <string name="wq_deep_clean_filter_month_ago">Fa 1 mes</string>
-    <string name="wq_deep_clean_filter_three_month_ago">Fa 3 mesos</string>
-    <string name="wq_deep_clean_filter_week_ago">Fa una setmana</string>
-    <string name="wq_deep_clean_filter_years_ago">Fa 6 mesos</string>
     <string name="wqfile_group_chat_file">Fitxers enviats a missatgers</string>
     <string name="wqfile_group_chat_pic">Imatges de missatgers</string>
     <string name="wqfile_group_chat_video">Vídeos de missatgers</string>
     <string name="wqfile_group_chat_voice">Missatges de veu</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualització</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yesterday">Ahir</string>
 </resources>

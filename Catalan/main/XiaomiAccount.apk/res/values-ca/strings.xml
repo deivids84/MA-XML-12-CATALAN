@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">El compte Weibo ha caducat</string>
     <string name="access_token_invalid_warning">El compte Weibo no és vàlid</string>
     <string name="account">Compte</string>
+    <string name="account_and_password">Contrasenya</string>
     <string name="account_bind_devices">Dispositius</string>
     <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
     <string name="account_bind_secure_phone_title">Afegeix un número de telèfon</string>
@@ -75,7 +76,11 @@
     <string name="account_user_name_dialog_title">Introduïu el nom d\'usuari</string>
     <string name="account_user_other_info">Més fonts</string>
     <string name="account_user_phone">Telèfon de recuperació</string>
+    <string name="account_user_phone_show">Telèfon: %s</string>
     <string name="account_user_region">Regió</string>
+    <string name="account_verify_guide_bind_mail_desc">Afegiu un correu electrònic de recuperació</string>
+    <string name="account_verify_guide_bind_phone_desc">Afegiu un telèfon de recuperació</string>
+    <string name="account_verify_guide_set_password_desc">Establiu una contrasenya</string>
     <string name="account_xiaomi_service">Serveis</string>
     <string name="action_add_phone">Afegeix un número de telèfon</string>
     <string name="action_retry">Torna-ho a provar</string>
@@ -193,6 +198,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="expand_button_title">Avançat</string>
     <string name="facebook_login">Inicieu la sessió amb Facebook</string>
     <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
+    <string name="family_share">Compartir en família</string>
     <string name="find_device">Troba el dispositiu</string>
     <string name="find_device_access_denied">"No es pot obtenir l'estat, s'ha denegat l'accés"</string>
     <string name="find_device_account_error">"No es pot obtenir l'estat per un error en el compte"</string>
@@ -221,6 +227,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="find_device_set_lost_model">Mode perdut</string>
     <string name="find_device_title">Troba el dispositiu</string>
     <string name="find_device_unknown_error">"No es pot obtenir l'estat del dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
+    <string name="find_equipment">Cerca dispositiu</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -233,6 +240,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
+    <string name="get_back_password">Restablir la contrasenya</string>
     <string name="get_back_pwd">Restabliment de la contrasenya</string>
     <string name="get_device_list_failed">"No es poden obtenir els dispositius"</string>
     <string name="get_identity_auth_url_failed">"No s'ha pogut verificar l'identificador"</string>
@@ -272,6 +280,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="mi_finance">Les meves finances</string>
     <string name="mi_finance_info">Bonificacions per a usuaris nous</string>
     <string name="mi_health">Xiaomi Health</string>
+    <string name="mi_member">La meva comunitat</string>
     <string name="mi_vip_info">Mostra els privilegis</string>
     <string name="midnight">Nit</string>
     <string name="mipay">Paga</string>
@@ -282,6 +291,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="mipay_indentity_done">Verificat</string>
     <string name="mipay_others">Altres</string>
     <string name="mipay_transit_card">Targeta de transport</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -296,6 +307,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -352,14 +364,18 @@ Envieu aquest codi al supervisor."</string>
     <string name="my_device_title">Dispositiu actual</string>
     <string name="need_install_wechat">Instal·leu primer WeChat</string>
     <string name="night">Vespre</string>
+    <string name="no_install">No està instal · lat</string>
     <string name="no_network_btn">Actualitza</string>
     <string name="no_network_title">"No es pot connectar a la xarxa."</string>
+    <string name="no_password_set">No configurat</string>
     <string name="no_phone">Cap número de telèfon</string>
     <string name="no_response_retry">Sense resposta, torneu-ho a provar.</string>
     <string name="no_sim_card_or_unactivated">"La targeta SIM no està instal·lada o activada"</string>
     <string name="nobind">No connectat</string>
     <string name="noon">Migdia</string>
     <string name="not_set">Sense definir</string>
+    <string name="notify_bind_security_phone">Afegiu un telèfon de recuperació</string>
+    <string name="notify_complete_security_info">Afegiu informació de recuperació</string>
     <string name="notify_network_restricted_content_bg_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
     <string name="notify_network_restricted_content_hidden_state">"L’activitat en segon pla del compte Mi està restringida. Toqueu per permetre-ho."</string>
     <string name="notify_network_restricted_content_mobile_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
@@ -619,6 +635,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="permission_group_contacts">Contactes</string>
     <string name="permission_group_phone">Telèfon</string>
     <string name="permission_group_storage">Emmagatzematge</string>
+    <string name="personal_info_desc">Foto, sobrenom i molt més</string>
     <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="pm">PM</string>
@@ -664,6 +681,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="search_user_detail_path">Configuració/Compte Mi/Informació personal</string>
     <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto del perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el sexe</string>
     <string name="select_all">Selecciona-ho tot</string>
+    <string name="self_account_info">Informació personal</string>
     <string name="send">Envia</string>
     <string name="send_diagnosis_log">Envia un registre de diagnòstic</string>
     <string name="send_email_activate_message">Correu de verificació enviat</string>
@@ -753,6 +771,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festa dels Fanalets d\'aigua</string>
+    <string name="third_party_login">Comptes de tercers</string>
     <string name="thursday">Dijous</string>
     <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>

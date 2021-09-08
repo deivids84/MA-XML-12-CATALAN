@@ -49,6 +49,13 @@ Quan calibreu, assegureu-vos que no hi hagi res entre el sensor i la mà (per ex
     <string name="cit_reverse_wireless_charge_check_tips">Si us plau, poseu el dispositiu perquè es carregui segons sigui necessari i comenceu a provar</string>
     <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt fallit, reinicieu el dispositiu per tornar-ho a provar</string>
     <string name="cit_tool_opt_fail_info_notify">L\'opció ha fallat; heu de reiniciar el dispositiu per al mode no en línia.</string>
+    <string name="cit_touch_fw_mode">Mode FW</string>
+    <string name="cit_touch_thp_mode">Mode THP</string>
+    <string name="cit_touch_work_mode_test_help">"Instruccions de funcionament 
+feu clic al botó per canviar el mode tàctil al mode THP o FW"</string>
+    <string name="cit_touch_work_mode_test_title">Prova de mode de commutació tàctil tàctil</string>
+    <string name="cit_touch_work_summary">Toca per commutar el mode THP</string>
+    <string name="cit_touch_work_switch_tips">No toqueu la pantalla i espereu a que finalitzi el canvi de mode</string>
     <string name="cit_uwb_calibrate_color_black">Negre</string>
     <string name="cit_uwb_calibrate_color_cali_tip">Seleccioneu la capa posterior de la màquina abans de realitzar el calibratge de dades</string>
     <string name="cit_uwb_calibrate_color_gray">Gris</string>

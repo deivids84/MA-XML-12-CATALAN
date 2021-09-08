@@ -133,6 +133,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Desbloqueig facial</string>
     <string name="accessibility_left_control_center_button">Drecera</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrusel de fons de pantalla</string>
+    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">Les sol·licituds d’ubicació estan actives</string>
     <string name="accessibility_long_click_tile">Obre la configuració</string>
     <string name="accessibility_manage_notification">Gestiona les notificacions</string>
@@ -1286,6 +1287,8 @@ d MMMM"</string>
     <string name="miui_snooze_user_set_fail">Aneu a Configuració &gt; Notificacions &amp; Centre de control per veure més opcions</string>
     <string name="miui_snooze_user_set_success">S\'ha aplicat correctament. Aneu a Configuració &gt; Notificacions &amp; Centre de control per veure més opcions.</string>
     <string name="miui_unimportant_notifications">Notificacions sense importància</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·leu la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu elements</string>
@@ -1300,6 +1303,7 @@ d MMMM"</string>
     <string name="miuix_appcompat_select_all">Seleccionar tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu elements</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -1519,6 +1523,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="open_lock_screen_magazine_hint_text">Llisqueu cap a la dreta per a més opcions</string>
     <string name="open_remote_center_hint_text">Llisqueu a la dreta per obrir les dreceres</string>
     <string name="open_saver_setting_action">Configuració</string>
+    <string name="open_xmyzl_hint_text">Feu lliscar el dit cap a la dreta per obrir Xiaomi Magic Control</string>
     <string name="orb_search_action">Acció de cerca</string>
     <string name="osu_completing_sign_up">S\'està completant la inscripció…</string>
     <string name="osu_connect_failed">"No es pot connectar"</string>
@@ -1772,7 +1777,7 @@ També esteu connectat a una VPN, que pot monitorar l'activitat de la vostra xar
     <string name="quick_settings_rotation_locked_landscape_label">Horitzontal</string>
     <string name="quick_settings_rotation_locked_portrait_label">Vertical</string>
     <string name="quick_settings_rotation_unlocked_label">Rotació automàtica</string>
-    <string name="quick_settings_rotationlock_label">Gireu</string>
+    <string name="quick_settings_rotationlock_label">Orientació de bloqueig</string>
     <string name="quick_settings_rssi_emergency_only">Només trucades d\'emergència</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Registre de pantalla</string>

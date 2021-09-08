@@ -595,6 +595,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="applock_add_account_setting">Compte i privadesa</string>
     <string name="applock_add_account_tips">"Amb Mi Account, podreu restaurar el bloqueig de l'aplicació si ho oblideu."</string>
     <string name="applock_add_account_title">Afegiu el vostre compte de Mi</string>
+    <string name="applock_add_account_title_part">Afegiu el vostre compte Mi per poder restablir la contrasenya</string>
     <string name="applock_already_add_account">Compte corrent: %s</string>
     <string name="applock_app_recommend_lock_title">Podeu bloquejar les aplicacions següents</string>
     <string name="applock_bind_account_dialog_content">El vostre compte Mi és l\'única manera de restaurar el bloqueig de l\'aplicació en cas que l\'oblideu. Inicieu la sessió per afegir el vostre compte de Mi.</string>
@@ -605,6 +606,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
     <string name="applock_face_unlock_summary">Desbloca aplicacions utilitzant dades facials</string>
     <string name="applock_face_unlock_title">Desbloqueig facial</string>
+    <string name="applock_fingerprint_detect">Utilitzeu l\'empremta digital</string>
+    <string name="applock_fingerprint_unlock">Utilitzeu l\'empremta digital</string>
     <string name="applock_function_base_settings">Blocador d\'aplicacions</string>
     <string name="applock_function_pwd_settings">Contrasenya</string>
     <string name="applock_go_to">Configuració</string>
@@ -623,6 +626,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="applock_guide_tip3">Amaga el contingut de les notificacions.</string>
     <string name="applock_guide_tip3_global">Amaga el contingut de les notificacions.</string>
     <string name="applock_guide_title">Protegiu la vostra privadesa amb el Bloquejador d\'aplicacions</string>
+    <string name="applock_gulide_third_part">El compte se suprimirà quan tanqueu la sessió</string>
     <string name="applock_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
     <string name="applock_lock_all">Bloqueja-ho tot</string>
     <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
@@ -630,6 +634,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="applock_mixtype_showpwd_icon">Espectacle</string>
     <string name="applock_no_account_login">"No heu iniciat la sessió al vostre compte de Mi"</string>
     <string name="applock_not_add_account"><u>Ara no</u></string>
+    <string name="applock_not_add_account_normal">"No afegiu compte"</string>
     <string name="applock_not_login_account">"No heu iniciat la sessió"</string>
     <string name="applock_numeric_pwd_type_line">Nombre total de dígits de la contrasenya: %1$d. Dígits introduïts: %2$d.</string>
     <string name="applock_operate_faceunlock_summary">Desbloquejar aplicacions simplement mirant la pantalla</string>
@@ -834,6 +839,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="boot_time_day">Activa el %1$dd a les %2$s</string>
     <string name="boot_time_day_tomorrow">Activa demà a les %1$s</string>
     <string name="bottom_func_guide_default_text">Més característiques</string>
+    <string name="bottom_notice_title">Feu lliscar el dit cap amunt per obrir la caixa d’eines</string>
     <string name="btn_back">Enrere</string>
     <string name="btn_finish_diagnostic">D\'acord</string>
     <string name="btn_start_diagnostic">Prova de xarxa</string>
@@ -973,6 +979,8 @@ No perdreu cap dada d'aplicació."</string>
     <string name="cmcc_app_check_dialog_negative">Més tard</string>
     <string name="cmcc_app_check_dialog_positive">Reinicia ara</string>
     <string name="cmcc_app_check_dialog_title">Sistema reparat</string>
+    <string name="commonly_used_func_card_title">Característiques comunes</string>
+    <string name="commonly_used_func_edit_too_many_func">"No es poden afegir més elements"</string>
     <string name="comprehensive_protection_measures">Protecció integral</string>
     <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
     <string name="confirm_allow_all_permission">Vols permetre que totes les aplicacions facin servir aquesta funció?</string>
@@ -1211,6 +1219,7 @@ d'emergències"</string>
     <string name="ew_alert_earthquake_level_title">Magnitud estimada</string>
     <string name="ew_alert_emergency_text">"Mostra la
 targeta mèdica"</string>
+    <string name="ew_alert_emergency_text_single">Mostrar targeta mèdica</string>
     <string name="ew_alert_help_earthquake_title">Ha arribat l\'onada sísmica</string>
     <string name="ew_alert_help_place_navigation">Navega</string>
     <string name="ew_alert_help_place_text">Si cal, aneu al refugi més proper per garantir la seguretat i obtenir l’assistència necessària.</string>
@@ -1952,6 +1961,8 @@ de les teves sessions de joc"</string>
     <string name="gs_slip_gamebox_detail">Utilitzeu el control lliscant o llisqueu des de la vora superior de la pantalla per fer aparèixer el tauler de dreceres</string>
     <string name="gtb_brightness_dialog_right_btn">Continua</string>
     <string name="gtb_brightness_dialog_sub_message">* Podeu activar i desactivar aquesta funció a Configuració.</string>
+    <string name="gtb_content_switch">Recomanacions de contingut</string>
+    <string name="gtb_content_switch_summary">Rebeu recomanacions de contingut relacionat amb els jocs</string>
     <string name="gtb_dialog_btn_close">Tanca</string>
     <string name="gtb_dialog_btn_open">Encendre</string>
     <string name="gtb_dialog_hint_smart_5g">Podeu activar i desactivar aquesta funció a la configuració de Game Turbo &gt;.</string>
@@ -2309,6 +2320,8 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="midrop_post_notification_contentTitle">Necessiteu transferir fitxers?</string>
     <string name="miui_optimization_close_final_tip">Desactiveu l’optimització MIUI?</string>
     <string name="miui_optimization_close_title">Aquesta funció està pensada per a desenvolupadors i és possible que no sigui convenient per a usuaris en general. Si desactiveu l\'optimització de MIUI podríeu produir els canvis següents:</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -2323,6 +2336,7 @@ Ara el dispositiu és %d%% més ràpid."</string>
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -2700,6 +2714,19 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consum total d’energia</string>
     <string name="pc_battery_history_usetime_title">Actiu</string>
+    <string name="pc_fast_charge_notifi_action_text_off">Atura</string>
+    <string name="pc_fast_charge_notifi_action_text_on">Estímul</string>
+    <string name="pc_fast_charge_notifi_power_threshold_title">Estableix el nivell de bateria dels recordatoris</string>
+    <string name="pc_fast_charge_notifi_summary">S\'està carregant fins a %s més ràpid de l\'habitual…</string>
+    <string name="pc_fast_charge_notifi_summary_on">Aquesta funció pot escalfar el dispositiu</string>
+    <string name="pc_fast_charge_notifi_switch_summary">Notifiqueu si augmenteu la velocitat de càrrega quan el %dW subministrat estigui connectat i la bateria estigui per sota del nivell establert</string>
+    <string name="pc_fast_charge_notifi_switch_title">Notifiqueu sobre la potenciació</string>
+    <string name="pc_fast_charge_notifi_title">%dW de càrrega</string>
+    <string name="pc_fast_charge_notifi_title_on">Deixa d’augmentar la velocitat de càrrega</string>
+    <string name="pc_fast_charge_switch_summary">"Activeu-lo per accelerar el procés de càrrega. MIUI prioritzarà la velocitat de càrrega i garantirà la seguretat del dispositiu. Com més baixa sigui la bateria, més ràpidament es carregarà. Aquesta funció pot escalfar el dispositiu."</string>
+    <string name="pc_fast_charge_switch_title">Augmenteu la velocitat de càrrega</string>
+    <string name="pc_fast_charge_switch_toast_message">Els canvis s\'aplicaran la propera vegada que carregueu aquest dispositiu</string>
+    <string name="pc_fast_charge_title">Augmenteu la velocitat de càrrega</string>
     <string name="pc_hidemode_normal">Equilibrada</string>
     <string name="pc_hidemode_normal_title">Equilibrada</string>
     <string name="pc_hidemode_performance">Rendiment</string>
@@ -2847,6 +2874,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="phone_manage_special_title">Característiques especials</string>
     <string name="phone_manage_system_tool_summary">Eines útils en l\'àmbit del sistema</string>
     <string name="phone_manage_system_tool_title">Eines</string>
+    <string name="phone_manager_edit_commonly_used_func_title">Editeu les funcions habituals</string>
+    <string name="phone_manager_title">Caixa d\'eines</string>
     <string name="pkg_traffic">Estableix límit d\'ús de dades</string>
     <string name="pm">pm</string>
     <string name="pm_auto_start_by_other">Inici desencadenat</string>
@@ -3178,6 +3207,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pp_private_photo_album_detail">Xifra i protegeix els elements amb un bloqueig de pantalla</string>
     <string name="pp_prohibit_use_camera_in_background">Restringeix l\'ús de la càmera en segon pla</string>
     <string name="pp_prohibit_use_camera_in_background_detail">"De manera predeterminada, les aplicacions no podran utilitzar la càmera en segon pla"</string>
+    <string name="pp_read_phone_info_summary">Accediu a la informació de la SIM</string>
     <string name="pp_record_msg">Gravació d’àudio</string>
     <string name="pp_safe_box">Espai privat</string>
     <string name="pp_safe_box_detail">"Els elements privats només es xifren i s’emmagatzemen en aquest dispositiu. Altres persones no podran accedir-hi mentre utilitzin aquest dispositiu i no es podrà accedir als elements xifrats ni utilitzar-los de cap manera."</string>
@@ -3187,6 +3217,7 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="pp_safe_save_pwd_and_account">Emmagatzemeu les contrasenyes en un entorn segur</string>
     <string name="pp_safe_share_img_detail">Comparteix fotos sense informació d’ubicació ni metadades</string>
     <string name="pp_smart_manager_pwd">Contrasenyes</string>
+    <string name="pp_sms_and_contacts">Contactes i missatgeria</string>
     <string name="pp_special_permission_settings">Permisos especials</string>
     <string name="pp_special_permission_settings_detail">Controleu com les aplicacions fan servir permisos especials</string>
     <string name="pp_storage_msg">Emmagatzematge</string>
@@ -3636,8 +3667,8 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="security_bottom_guide_to_pm_text">Versió a les utilitats obertes</string>
     <string name="security_center_slogan">Seguretat. Sempre vigilant.</string>
     <string name="security_guide_bubble_text">Obert</string>
-    <string name="security_guide_summary">Lloc únic per a eines i serveis</string>
-    <string name="security_guide_title">Kit d’utilitat MIUI</string>
+    <string name="security_guide_summary">Totes les eines en un sol lloc</string>
+    <string name="security_guide_title">Caixa d\'eines</string>
     <string name="security_protection_bottom_slogon">La seguretat en el seu millor moment</string>
     <string name="security_protection_title">Seguretat</string>
     <string name="security_scan_optimizing">S\'està optimitzant…</string>
@@ -3707,6 +3738,18 @@ Proveu d'utilitzar un altre cable Ethernet per connectar-lo. Si sospiteu que hi 
     <string name="signed_rule_one">1. Reviseu d\'aquí a 10, 20 o 28 dies seguits cada mes per obtenir un augment de velocitat Xunyou durant 1, 2 o 3 dies, respectivament.</string>
     <string name="signed_rule_three">"3. Els dies en què es realitza el registre s'anul·len al començament de cada mes. Els dies restants no es bolquen."</string>
     <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
+    <string name="sim_car_absent__tip">Confirmeu el bloqueig de pantalla per desactivar el mode Perdut</string>
+    <string name="sim_car_absent_intercept_action">Confirmeu el bloqueig de pantalla (%d)</string>
+    <string name="sim_car_absent_intercept_action_last">Confirmeu el bloqueig de pantalla</string>
+    <string name="sim_car_absent_intercept_item_summary">El dispositiu de cerca està activat. Cal que confirmeu el bloqueig de pantalla per apagar el dispositiu o eliminar la targeta SIM.</string>
+    <string name="sim_car_absent_intercept_item_summary_last">El dispositiu de cerca està activat. Cal que confirmeu el bloqueig de pantalla per apagar el dispositiu o eliminar la targeta SIM. El mode Lost s\'ha activat.</string>
+    <string name="sim_car_absent_intercept_item_title">Es van desencadenar mecanismes de protecció</string>
+    <string name="sim_car_absent_intercept_summary">S\'ha eliminat la targeta SIM. Confirmeu el bloqueig de pantalla per poder utilitzar aquest dispositiu.</string>
+    <string name="sim_car_absent_intercept_title">Confirmeu el bloqueig de pantalla</string>
+    <string name="sim_car_absent_summary">Confirmeu el bloqueig de pantalla per poder utilitzar aquest dispositiu.</string>
+    <string name="sim_car_absent_title">Aquest dispositiu s\'ha perdut</string>
+    <string name="sim_card_absent_intercept_tip">"Si no confirmeu el bloqueig de pantalla, s'activarà el mode Perdut."</string>
+    <string name="sim_card_absent_warning_voice">S\'ha eliminat la targeta SIM. Confirmeu el bloqueig de pantalla.</string>
     <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
     <string name="sim_location_error_notify_message">Toqueu per canviar la ubicació de la SIM.</string>
     <string name="sim_location_error_notify_title">Error de la targeta SIM</string>

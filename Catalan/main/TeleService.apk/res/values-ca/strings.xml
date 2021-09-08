@@ -146,6 +146,7 @@
     <string name="accessor_no_description_text">No es proporciona cap descripció de l\'aplicació.</string>
     <string name="actionbar_button_up_description">esquena</string>
     <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
+    <string name="activity_title_fakecell">Protecció contra estacions base falses</string>
     <string name="adb_device_fingerprint_title_format">Empremta digital del dispositiu: %1$s</string>
     <string name="adb_device_forget">Oblida’t</string>
     <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB de tots els ordinadors que prèviament heu autoritzat?</string>
@@ -823,6 +824,7 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="description_image_button_two">dos</string>
     <string name="description_image_button_zero">zero</string>
     <string name="description_voicemail_button">bústia de veu</string>
+    <string name="detect_fakecell">Reconeix els SMS de les estacions base falses</string>
     <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
     <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
     <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
@@ -1031,6 +1033,8 @@ Per continuar, premeu 'Esborra i converteix&#8230;'."</string>
     <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="fold_answer_pref_summary">Plegueu el dispositiu per acceptar automàticament una trucada entrant</string>
     <string name="fold_answer_pref_title">Plega per acceptar trucades</string>
+    <string name="forbidden_fakecell">"No us connecteu a estacions base falses"</string>
+    <string name="forbidden_fakecell_summary">Eviteu que el telèfon es connecti a estacions base falses</string>
     <string name="forbidden_network">(prohibida)</string>
     <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
     <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
@@ -1556,6 +1560,7 @@ Poseu-vos en contacte amb els vostres operadors"</string>
     <string name="not_a_valid_port">El número de port ha d’estar entre %1$d i %2$d.</string>
     <string name="not_allowed">"La vostra targeta SIM no permet una connexió a aquesta xarxa."</string>
     <string name="not_set">Sense especificar</string>
+    <string name="not_support_forbidden_fakecell">"El dispositiu no admet protecció a nivell de xip contra estacions base falses."</string>
     <string name="not_voice_capable">Trucada de veu no suportada</string>
     <string name="notification_channel_demo">Dispositiu de demostració</string>
     <string name="notification_demo_version_text">"No es poden fer trucades ni utilitzar les dades mòbils"</string>
@@ -1979,6 +1984,9 @@ Interfície UT: %5$s"</string>
     <string name="respond_via_sms_setting_summary">Edita respostes de text predefinides</string>
     <string name="respond_via_sms_setting_title">Respostes ràpides</string>
     <string name="response_error">Resposta de xarxa inesperada.</string>
+    <string name="restart_details">Per activar o desactivar aquesta funció, cal reiniciar el dispositiu. Reinicia ara?</string>
+    <string name="restart_later">Més tard</string>
+    <string name="restart_now">Reinicia ara</string>
     <string name="restaurants_disable">Restaurants desactivats</string>
     <string name="restaurants_enable">Restaurants activats</string>
     <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
@@ -2241,6 +2249,7 @@ Interfície UT: %5$s"</string>
     <string name="supp_service_over_ut_precautions_dual_sim">Per utilitzar %1$s, assegureu-vos que les dades mòbils estan activades per la SIM %2$d. Podeu canviar-ho a la configuració de la xarxa mòbil.</string>
     <string name="supp_service_over_ut_precautions_roaming">Per utilitzar %s, assegureu-vos que les dades mòbils i la itinerància de dades estan activades. Podeu canviar-ho a la configuració de la xarxa mòbil.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Per utilitzar %1$s, assegureu-vos que les dades mòbils i la itinerància de dades estan activades per la SIM %2$d. Podeu canviar-ho a la configuració de la xarxa mòbil.</string>
+    <string name="support_forbidden_fakecell">Nota: restringir la connexió a estacions base falses pot reduir el senyal a les zones amb una cobertura deficient.</string>
     <string name="switch_dds_to_sub_alert">Canvieu les dades mòbils a la targeta SIM</string>
     <string name="switch_dds_to_sub_alert_msg">Canvieu les dades del mòbil a SIM</string>
     <string name="switch_off">Desactivat</string>

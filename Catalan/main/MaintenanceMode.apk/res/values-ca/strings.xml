@@ -7,8 +7,8 @@
     <string name="check_protocol_msg_sub">Exempció de responsabilitat de les dades d’usuari</string>
     <string name="click_to_close">Feu clic aquí per sortir del mode de manteniment</string>
     <string name="close_maintenance_mode">Tancar el mode de manteniment</string>
-    <string name="create_fail">No s\'ha pogut crear el mode de manteniment; torneu-ho a provar més tard</string>
-    <string name="create_fail_because_max_user">S\'ha assolit el nombre màxim d\'usuaris del sistema; suprimiu les dades de l\'avatar, de l\'obertura doble o del mode infantil i torneu-ho a provar</string>
+    <string name="create_fail">No s\'ha pogut crear el mode de manteniment. Torneu-ho a provar més tard</string>
+    <string name="create_fail_because_max_user">S\'ha assolit el nombre màxim d\'usuaris del sistema. Suprimiu les dades de l\'avatar, del doble obert o del mode infantil i torneu-ho a provar</string>
     <string name="delete_maintenance_mode">esborra el mode de manteniment ...</string>
     <string name="disagree">Discrepar</string>
     <string name="forbid_create">El mode de manteniment només es pot crear a l’espai principal de l’usuari</string>

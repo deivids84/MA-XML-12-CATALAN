@@ -188,6 +188,7 @@
     <string name="error_empty_result">"No s'han pogut trobar resultats"</string>
     <string name="error_get_image">"No s'ha pogut obtenir la imatge"</string>
     <string name="error_media_storage_failure">"No s'ha pogut desar la foto"</string>
+    <string name="error_not_found_activity">No s\'ha trobat cap aplicació per obrir en format PDF</string>
     <string name="error_permissions">"Aquesta aplicació no té els permisos necessaris perquè accedeixi al Calendari. Aneu a Configuració i comproveu els permisos per continuar."</string>
     <string name="error_server_error">S\'ha produït un error en el servidor.</string>
     <string name="evening">Tarda</string>
@@ -442,6 +443,7 @@
     <string name="pdf_is_being_saved">Desament de PDF…</string>
     <string name="pdf_name">Nom de fitxer</string>
     <string name="pdf_save_sucess">Desat</string>
+    <string name="personalassistant_not_install">"Aquesta funció encara no s'admet."</string>
     <string name="phone">Telèfon:</string>
     <string name="phone_can_not_be_empty">"El número de telèfon no es pot deixar en blanc"</string>
     <string name="phone_number">Número de telèfon</string>

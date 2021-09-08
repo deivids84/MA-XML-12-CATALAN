@@ -216,6 +216,7 @@
     <string name="msim_setting_default_data">SIM de dades</string>
     <string name="msim_setting_default_voice">SIM per defecte per a trucades</string>
     <string name="multisim_settings_category">Configuració de targeta SIM</string>
+    <string name="multisim_settings_sb_title">S\'ha detectat 1 targeta SIM</string>
     <string name="multisim_settings_title">S\'han detectat 2 targetes SIM</string>
     <string name="navigation_picker_gesture_guide">Guia de gestos</string>
     <string name="navigation_picker_radio_text_full_screen">Gestos a pantalla completa</string>
@@ -367,7 +368,11 @@ Podeu controlar aquesta funció des de Configuració &gt; Contrasenyes &amp; seg
     <string name="sim_card_detecting_title">S\'està comprovant la targeta SIM…</string>
     <string name="sim_card_detection">Inseriu una targeta SIM</string>
     <string name="sim_card_detection_info">Per inserir la targeta SIM, llegiu les instruccions subministrades amb el dispositiu.</string>
+    <string name="sim_card_detection_info_sb">"Inseriu una targeta SIM abans de continuar. La funcionalitat relacionada amb el dispositiu i la sincronització no estarà totalment disponible si creeu un compte sense targeta SIM. Aquest dispositiu admet eSIM. "</string>
+    <string name="sim_card_detection_info_sb_esim">Toqueu per activar eSim.</string>
     <string name="sim_card_detection_mobile_not_available">"La targeta SIM no s'ha pogut connectar a la xarxa"</string>
+    <string name="sim_card_detection_sb_esim">Activeu eSIM&gt;</string>
+    <string name="sim_card_detection_sb_nonactivated">No activat</string>
     <string name="sim_dectection_next">Continua</string>
     <string name="sim_redetection">Torna-ho a comprovar</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"La vostra targeta SIM no s'ha pogut connectar a una xarxa vàlida de l'operador. Assegureu-vos que disposeu de fons suficients al vostre saldo i torneu a connectar-vos de nou."</string>

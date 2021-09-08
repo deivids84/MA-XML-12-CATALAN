@@ -56,6 +56,14 @@
         <item quantity="other">Podeu crear fins a %d clons alhora.</item>
         <item quantity="one">Podeu crear fins a %d clon alhora.</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data&gt;\"No es pot connectar a la càmera.&lt;br&gt;Aquesta aplicació es tancarà d\'aquí a &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segons&lt;/b&gt;&lt;/font&gt;Després d\'això, espereu un minut o dos i torneu-ho a provar.\"&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;\"No es pot connectar a la càmera.&lt;br&gt;Aquesta aplicació es tancarà d\'aquí a &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d seg&lt;/b&gt;&lt;/font&gt;Després d\'això, espereu un minut o dos i torneu-ho a provar.\"&lt;/Data&gt;</item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data&gt;Aquest dispositiu està massa calent ara.&lt;br&gt;L\'aplicació es tancarà d\'aquí a &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d segons&lt;/b&gt;&lt;/font&gt;. El progrés actual es va desar automàticament.&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Aquest dispositiu està massa calent ara.&lt;br&gt;L\'aplicació es tancarà d\'aquí a &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d seg&lt;/b&gt;&lt;/font&gt;. El progrés actual es va desar automàticament.&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>

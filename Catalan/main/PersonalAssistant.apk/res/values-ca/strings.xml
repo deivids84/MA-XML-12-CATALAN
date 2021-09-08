@@ -547,6 +547,7 @@ També podeu fer un seguiment del lliurament exprés als llocs web oficials de l
     <string name="btn_back">enrere</string>
     <string name="btn_more">Més</string>
     <string name="bus_code">Transport públic</string>
+    <string name="calc_convert">Converteix</string>
     <string name="calc_currency">Tipus de canvi</string>
     <string name="calc_name">Científica</string>
     <string name="calc_num">Símbols financers</string>

@@ -30,7 +30,7 @@
     <string name="account_or_password_incorrect">Identificador o contrasenya del compte incorrecte</string>
     <string name="actionbar_button_up_description">Enrere</string>
     <string name="afternoon">Tarda</string>
-    <string name="am">am</string>
+    <string name="am">Portàtil (no segur)</string>
     <string name="antispam">Llista de bloqueig</string>
     <string name="app_name">Mi Mover</string>
     <string name="appname_app_data_suffix">%1$s dades de l\'aplicació</string>
@@ -443,7 +443,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="notification_trans_running_title">Mi Mover treballa ara…</string>
     <string name="notification_trans_send_message">"S'estan enviant dades. No desactiveu la Wi-Fi ni canvieu entre xarxes."</string>
     <string name="notification_trans_send_title">S\'està enviant les dades…</string>
-    <string name="ok">D\'acord</string>
+    <string name="ok">&lt;Data&gt;Benvingut a ShareMe! Aquesta aplicació us permet transferir fitxers mitjançant Bluetooth i Wi-Fi sense connectar-vos a Internet. ShareMe ha de recopilar la informació personal necessària per proporcionar-li els serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra Política de privadesa. Sempre podeu retirar el vostre consentiment a la Política de privadesa de ShareMe a \"Quant a\". Llegiu i accepteu el nostre &lt;a id=agreement href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a id=privacy href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar ShareMe.&lt;/Data&gt;</string>
     <string name="old_app_name">Versió antiga</string>
     <string name="old_task_cleared">S\'han eliminat les tasques antigues correctament</string>
     <string name="old_wait_link">Seleccioneu els elements que voleu transferir al dispositiu antic</string>
@@ -590,7 +590,6 @@ Allibereu almenys %s."</string>
     <string name="solar_term_vernal_equinox">Equinocci de primavera</string>
     <string name="solar_term_white_dews">Rosada</string>
     <string name="solar_term_winter_begins">Comença l\'hivern</string>
-    <string name="solar_term_winter_solstice">Solstici d\'hivern</string>
     <string name="succ_description">Fet</string>
     <string name="summary_open_wlan">Mi Mover necessita aquest permís per garantir l\'estabilitat del procés de transferència.</string>
     <string name="summary_request_alert_window_prem">Mi Mover necessita aquest permís per garantir l\'estabilitat del procés de transferència.</string>
@@ -741,12 +740,8 @@ Baixeu i instal·leu Mi Mover."</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Ha fallat la connexió del Gestor de baixades, comproveu l\'estat del Gestor de baixades al Gestor d\'aplicacions.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
-Mida: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Presentació de la versió %1$s
-Mida de l'actualització Delta: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">Actualització de %1$s!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">L\'emmagatzematge no està disponible. Comproveu la targeta SD.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ara no</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualització</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Hi ha disponible una actualització</string>
     <string name="yesterday">Ahir</string>
 </resources>

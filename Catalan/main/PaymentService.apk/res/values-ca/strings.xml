@@ -157,6 +157,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="mibi_button_confirm">Confirma</string>
     <string name="mibi_button_count_down_finish">D\'acord(%1$s)</string>
     <string name="mibi_button_custom_service_phone">D\'acord</string>
+    <string name="mibi_button_disagree">Discrepar</string>
     <string name="mibi_button_next">Següent</string>
     <string name="mibi_button_pay">Confirma</string>
     <string name="mibi_button_reget">Reenvia</string>

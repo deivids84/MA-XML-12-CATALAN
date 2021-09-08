@@ -305,6 +305,9 @@
     <string name="notif_aqi_title">L\'IQA és avui de %1$d en %2$s</string>
     <string name="notif_weather_title">Avui %1$s en %2$s</string>
     <string name="other_settings">Altres configuracions</string>
+    <string name="pad_keyboard_add_city">Afegeix ubicació</string>
+    <string name="pad_keyboard_left_switch">Ubicació anterior</string>
+    <string name="pad_keyboard_right_switch">Propera ubicació</string>
     <string name="particulate_matter_exceeded">Alta</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Massa alta</string>

@@ -160,6 +160,10 @@
         <item quantity="other">Queden %1$d adjunts</item>
         <item quantity="one">Queda %1$d adjunt</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificacions noves</item>
+        <item quantity="one">%d notificació nova</item>
+    </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostra %1$d missatges nous.</item>
         <item quantity="one">Mostra %1$d missatge nou.</item>

@@ -192,7 +192,7 @@
     <string name="file_sort_name">Ordena per nom</string>
     <string name="file_sort_size">Ordena per mida</string>
     <string name="file_upload_dialog_cancel">Surt</string>
-    <string name="file_upload_dialog_title">Trieu una categoria</string>
+    <string name="file_upload_dialog_title">Afegeix</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
