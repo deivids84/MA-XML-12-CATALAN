@@ -37,20 +37,20 @@
         <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Mantén premut el botó de l\'estoig durant %1$d segons</item>
-        <item quantity="one">Mantén premut el botó de l\'estoig durant %1$d segon</item>
+        <item quantity="other">Premeu prolongadament el botó de la caixa de càrrega durant %1$d segons</item>
+        <item quantity="one">Premeu prolongadament el botó de la caixa de càrrega durant %1$d segon</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segons</item>
-        <item quantity="one">Mantingueu premuda qualsevol zona sensible al tacte dels auriculars durant %1$d segon</item>
+        <item quantity="other">Mantingues premuda als auriculars qualsevol zona sensible al tacte durant %1$d segons</item>
+        <item quantity="one">Mantingues premuda als auriculars qualsevol zona sensible al tacte durant %1$d segon</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Mantén premut durant %1$d segons per restablir-lo</item>
-        <item quantity="one">Mantén premut durant %1$d s per restablir</item>
+        <item quantity="other">Premeu prolongadament durant %1$d s per reiniciar</item>
+        <item quantity="one">Premeu prolongadament durant %1$d s per reiniciar</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
-        <item quantity="one">Mantingueu premut el botó durant %1$ss quan el dispositiu estigui desactivat</item>
+        <item quantity="other">Mantingues premut el botó durant %1$s segons quan el dispositiu estigui desactivat</item>
+        <item quantity="one">Mantingues premut el botó durant %1$s segon quan el dispositiu estigui apagat</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
