@@ -587,7 +587,7 @@ Espereu fins que el cercle es posi vermell."</string>
     <string name="hr_fp_detect_desc">La sang flueix als dits amb cada batec del cor. La llum brillant a l’àrea de l’escàner d’empremtes digitals sota la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca.</string>
     <string name="hr_fp_detect_principle_desc">"La sang no és del tot opaca; per tant, la llum pot passar-hi. Amb cada batec del cor, la sang flueix cap als dits, bloquejant més llum que entre els batecs del cor. La llum brillant a l’àrea de l’escàner d’empremtes digitals sota la pantalla ens permet fer un seguiment dels canvis en el flux sanguini, analitzar els patrons i convertir-los en valors de freqüència cardíaca."</string>
     <string name="hr_fp_detect_principle_desc_2">"Nota: Assegureu-vos que el dit cobreixi completament la icona d’empremta digital durant el mesurament. No apliqueu força, ja que pot bloquejar el flux sanguini a la punta dels dits i fer que els resultats siguin inexactes. Aquesta mesura només es proporciona com a referència. No pot substituir les proves mèdiques."</string>
-    <string name="hr_fp_detect_principle_desc_3">Les nostres proves demostren que aquest mètode mesura la freqüència cardíaca amb només un error de ≤%d BPM.</string>
+    <string name="hr_fp_detect_principle_desc_3">Les nostres proves demostren que aquest mètode mesura la freqüència cardíaca amb un error de només ≤3 BPM.</string>
     <string name="hr_fp_detect_start_desc">Cobriu la icona amb el dit</string>
     <string name="hr_fp_detecting">"No moveu el dit"</string>
     <string name="hr_fp_not_put_well">"El dit s'ha mogut.

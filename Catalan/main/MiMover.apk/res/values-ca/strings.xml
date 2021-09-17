@@ -443,7 +443,7 @@ Obriu WeChat i aneu a Meu &gt; Configuració &gt; General &gt; Fes una còpia de
     <string name="notification_trans_running_title">Mi Mover treballa ara…</string>
     <string name="notification_trans_send_message">"S'estan enviant dades. No desactiveu la Wi-Fi ni canvieu entre xarxes."</string>
     <string name="notification_trans_send_title">S\'està enviant les dades…</string>
-    <string name="ok">&lt;Data&gt;Benvingut a ShareMe! Aquesta aplicació us permet transferir fitxers mitjançant Bluetooth i Wi-Fi sense connectar-vos a Internet. ShareMe ha de recopilar la informació personal necessària per proporcionar-li els serveis bàsics. Podeu obtenir informació sobre com gestionem la informació que recopilem a la nostra Política de privadesa. Sempre podeu retirar el vostre consentiment a la Política de privadesa de ShareMe a \"Quant a\". Llegiu i accepteu el nostre &lt;a id=agreement href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a id=privacy href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; abans d\'utilitzar ShareMe.&lt;/Data&gt;</string>
+    <string name="ok">D’acord</string>
     <string name="old_app_name">Versió antiga</string>
     <string name="old_task_cleared">S\'han eliminat les tasques antigues correctament</string>
     <string name="old_wait_link">Seleccioneu els elements que voleu transferir al dispositiu antic</string>

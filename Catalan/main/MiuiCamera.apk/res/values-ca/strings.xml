@@ -568,7 +568,7 @@ documents escanejats automàticament"</string>
     <string name="document_mode_use_hint_text_title">Escanejar documents</string>
     <string name="document_origin">Original</string>
     <string name="document_strengthen">Millorat</string>
-    <string name="dolly_zoom_capture_tip1">Col·loqueu el subjecte al marc i mantingueu el dispositiu com a mínim %d metre de distància</string>
+    <string name="dolly_zoom_capture_tip1">Col·loqueu el subjecte al marc</string>
     <string name="dolly_zoom_capture_tip2">Allunyeu el dispositiu de la persona constantment</string>
     <string name="dolly_zoom_capture_tip3">Pista perduda de la persona. Comenceu de nou.</string>
     <string name="dolly_zoom_capture_tip4">Heu allunyat el dispositiu massa lluny. Comenceu de nou.</string>

@@ -11,7 +11,7 @@
         <item>Gris</item>
     </string-array>
     <string-array name="acc_magic_matting_background_description">
-        <item>Seleccioneu la imatge</item>
+        <item>Seleccioneu imatge</item>
         <item>Fons transparent</item>
     </string-array>
     <string-array name="activities_title">
@@ -83,8 +83,8 @@
         <item>Noia</item>
     </string-array>
     <string-array name="backup_automatically_key_words">
-        <item>Còpia de seguretat de fotos</item>
-        <item>Sincronitza les fotos amb el núvol</item>
+        <item>Còpia de seguretat de les fotos</item>
+        <item>Sincronitzeu fotos amb el núvol</item>
     </string-array>
     <string-array name="card_last_week_day">
         <item>Dilluns passat</item>
@@ -145,9 +145,9 @@
         <item>El petit</item>
     </string-array>
     <string-array name="last_weekend_title">
-        <item>Els meus caps de setmana</item>
-        <item>Fragments de la vida</item>
-        <item>Records de cap de setmana</item>
+        <item>Els meus cap de setmana</item>
+        <item>Trossets de vida</item>
+        <item>Records de cap setmana</item>
     </string-array>
     <string-array name="last_year_group_people">
         <item>Nous amics i vells amics</item>
@@ -164,34 +164,34 @@
         <item>Brots</item>
         <item>Metamorfosi</item>
         <item>Profunditat</item>
-        <item>Reflexions</item>
+        <item>Reflexos</item>
         <item>Minimalista</item>
         <item>Misteri</item>
         <item>Boira</item>
     </string-array>
     <string-array name="magic_effects_description">
         <item>Converteix els fons en esbossos</item>
-        <item>Fons d\'estil aquarel·la</item>
+        <item>Fons estil aquarel·la</item>
         <item>Cyberpunk retro</item>
-        <item>Segments verticals desplaçats</item>
-        <item>Difuminat borrós</item>
-        <item>Sensació futurista</item>
+        <item>Segments verticals fora de lloc</item>
+        <item>Bruma borrosa</item>
+        <item>Tacte futurista</item>
     </string-array>
     <string-array name="magic_effects_title">
         <item>Esbós</item>
         <item>Aquarel·la</item>
         <item>RGB</item>
         <item>Persianes</item>
-        <item>Finestra de boira</item>
+        <item>Finestra boira</item>
         <item>Tecnologia</item>
     </string-array>
     <string-array name="magic_effects_video_titles">
         <item></item>
-        <item>Contorn de colors</item>
-        <item>Contorn amb guions</item>
-        <item>Contorn fluorescent</item>
+        <item>Esquema de colors</item>
+        <item>Esbós discontinu</item>
+        <item>Esquema fluorescent</item>
         <item>Ombra de colors</item>
-        <item>Ona elèctrica</item>
+        <item>Onada elèctrica</item>
         <item>Actual</item>
         <item>Onades</item>
         <item>Partícules</item>
@@ -277,6 +277,11 @@
         <item>Brasil</item>
         <item>Islàndia</item>
         <item>Kenya</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Mou</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gener</item>
