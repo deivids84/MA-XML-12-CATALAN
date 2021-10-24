@@ -60,19 +60,19 @@
         <item>\#</item>
     </string-array>
     <string-array name="drop_down_menu">
-        <item>Ordena per hora de recepció</item>
-        <item>Ordena per nombre de notificacions</item>
+        <item>Ordeneu per hora de recepció</item>
+        <item>Ordeneu per nombre de notificacions</item>
         <item>Aplicacions que poden mostrar notificacions</item>
         <item>"Aplicacions que no poden mostrar notificacions"</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
-        <item>Mostra el contingut de la notificació</item>
-        <item>"No mostris notificacions en la pantalla de blocatge"</item>
+        <item>Mostreu el contingut de les notificacions</item>
+        <item>"No mostreu les notificacions de la pantalla de bloqueig"</item>
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
-        <item>Mostra el contingut de la notificació</item>
-        <item>Indica les notificacions però amaga els seus continguts</item>
-        <item>"No mostris notificacions a la pantalla de blocatge"</item>
+        <item>Mostreu el contingut de les notificacions</item>
+        <item>Mostreu les notificacions però amagueu el contingut</item>
+        <item>"No mostreu les notificacions de la pantalla de bloqueig"</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>

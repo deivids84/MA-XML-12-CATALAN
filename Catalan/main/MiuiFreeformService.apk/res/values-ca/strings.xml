@@ -148,8 +148,8 @@
     <string name="search_menu_title">Cerca</string>
     <string name="send">Envia</string>
     <string name="sunday">Diumenge</string>
-    <string name="sunday_short">Sol</string>
-    <string name="sunday_shortest">Sol</string>
+    <string name="sunday_short">Dg.</string>
+    <string name="sunday_shortest">dg.</string>
     <string name="the_double_ninth_festival">Doble Novè Festival</string>
     <string name="the_dragon_boat_festival">Festa del Vaixell del Drac</string>
     <string name="the_easter_day">Setmana Santa</string>

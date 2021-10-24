@@ -416,8 +416,8 @@
     <string name="spatial_audio_summary">Ajusteu el so envoltant en funció del moviment del cap</string>
     <string name="start_test_sound">Comença la prova</string>
     <string name="sunday">Diumenge</string>
-    <string name="sunday_short">Sol</string>
-    <string name="sunday_shortest">Sol</string>
+    <string name="sunday_short">Dg.</string>
+    <string name="sunday_shortest">dg.</string>
     <string name="sure_give_up_test">"Haureu de començar la propera vegada si atureu la prova ara. Voleu aturar-la de totes maneres?"</string>
     <string name="sure_to_back">Voleu descartar ara els canvis?</string>
     <string name="switch_audio_device_bt">Bluetooth</string>

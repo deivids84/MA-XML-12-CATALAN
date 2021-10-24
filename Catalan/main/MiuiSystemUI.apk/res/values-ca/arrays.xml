@@ -60,139 +60,131 @@
         <item>\#</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Sense animacions</item>
-        <item>Escala d\'animació 0,5x</item>
+        <item>Animacions desactivades</item>
+        <item>Escala d\'animació .5x</item>
         <item>Escala d\'animació 1x</item>
-        <item>Escala d\'animació 1,5x</item>
+        <item>Escala d\'animació 1.5x</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Límit estàndard</item>
-        <item>Sense processos de fons</item>
-        <item>Com a molt 1 procés</item>
-        <item>Com a molt 2 processos</item>
-        <item>Com a molt 3 processos</item>
-        <item>Com a molt 4 processos</item>
+        <item>No hi ha processos en segon pla</item>
+        <item>Com a màxim 1 procés</item>
+        <item>Com a màxim 2 processos</item>
+        <item>Com a màxim 3 processos</item>
+        <item>Com a màxim 4 processos</item>
     </string-array>
     <string-array name="battery_options">
         <item>Mostra sempre el percentatge</item>
-        <item>Mostra el percentatge mentre es carregui (per defecte)</item>
+        <item>Mostra el percentatge quan es carregui (opció predeterminada)</item>
         <item>"No mostris aquesta icona"</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitza les preferències del sistema (Per defecte)</item>
         <item>16 bits/mostra</item>
         <item>24 bits/mostra</item>
         <item>32 bits/mostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitza les preferències del sistema (Per defecte)</item>
         <item>16 bits/mostra</item>
         <item>24 bits/mostra</item>
         <item>32 bits/mostra</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitza les preferències del sistema (Per defecte)</item>
         <item>Mono</item>
         <item>Estèreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitza les preferències del sistema (Per defecte)</item>
         <item>Mono</item>
         <item>Estèreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimitzat per a una qualitat d\'àudio</item>
-        <item>Qualitat d’àudio i connexió equilibrada</item>
-        <item>Optimitzat per a la qualitat de la connexió</item>
-        <item>Millor esforç (velocitat de bits automàtica)</item>
+        <item>Optimitzada la qualitat de l\'àudio</item>
+        <item>S\'ha equilibrat la qualitat de l\'àudio i de la connexió</item>
+        <item>Optimitzada la qualitat de la connexió</item>
+        <item>Millor efecte (Bit rate automàtic)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimitzat per a una qualitat d’àudio (990kbps / 909kbps)</item>
-        <item>Qualitat d’àudio i connexió equilibrada (660kbps / 606kbps)</item>
-        <item>Optimitzada per a la qualitat de connexió (330kbps / 303kbps)</item>
-        <item>Millor esforç (velocitat de bits automàtica)</item>
+        <item>Optimitzat per la qualitat de l\'àudio (990kbps/909kbps)</item>
+        <item>S\'ha equilibrat la qualitat de l\'àudio i de la connexió (660kbps/606kbps)</item>
+        <item>Optimitzat per la qualitat de la connexió (330kbps/303kbps)</item>
+        <item>Millor efecte (Bit rate automàtic)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitza les preferències del sistema (Per defecte)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitza les preferències del sistema (Per defecte)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitzeu les preferències del sistema (Per defecte)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Qualcomm® aptX™ àudio</item>
+        <item>Qualcomm® aptX™ HD àudio</item>
         <item>LDAC</item>
-        <item>Activa els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Utilitzeu la preferència del sistema (per defecte)</item>
+        <item>Utilitzeu les preferències del sistema (Per defecte)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>Qualcomm® aptX™ àudio</item>
+        <item>Qualcomm® aptX™ HD àudio</item>
         <item>LDAC</item>
-        <item>Activa els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
-        <item>Enable Optional Codecs</item>
-        <item>Disable Optional Codecs</item>
-        <item>LHDC V1</item>
-        <item>Habilita els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>" | Actiu"</item>
-        <item>" | Actiu (multimèdia)"</item>
-        <item>" | Actiu (telèfon)"</item>
+        <item> | Actiu</item>
+        <item> | Actiu (multimèdia)</item>
+        <item> | Actiu (telèfon)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp13</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (per defecte)</item>
+        <item>AVRCP 1.4 (Per defecte)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAPA 1.2 (Predeterminat)</item>
+        <item>MAP 1.2 (Per defecte)</item>
         <item>MAPA 1.3</item>
         <item>MAPA 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Inhabilitat</item>
+        <item>Desactivat</item>
         <item>Filtrat</item>
-        <item>Habilitat</item>
-        <item>Les capçaleres filtrades</item>
-        <item>S\'han filtrat els paquets de suports</item>
+        <item>Activat</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Mostra hores, minuts i segons</item>
-        <item>Mostra hores i minuts (per defecte)</item>
+        <item>Mostra les hores, els minuts i els segons</item>
+        <item>Mostra les hores i els minuts (opció predeterminada)</item>
         <item>"No mostris aquesta icona"</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
-        <item>Colors naturals tal com els veu l\'ull humà</item>
-        <item>Colors optimitzats per contingut digital</item>
+        <item>Colors naturals vistos per l\'ull</item>
+        <item>Colors optimitzats per a continguts digitals</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (per defecte)</item>
+        <item>Brillant (per defecte)</item>
         <item>Natural</item>
         <item>Estàndard</item>
     </string-array>
@@ -211,40 +203,40 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivat</item>
-        <item>Mostra les àrees sobreposades</item>
-        <item>Mostra les àrees de deuteranomia</item>
+        <item>Mostreu les àrees sobredimensionades</item>
+        <item>Mostreu les àrees de deuteranomalia</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Cap</item>
         <item>Logcat</item>
         <item>Systrace (gràfics)</item>
-        <item>Pila de crides a glGetError</item>
+        <item>Crida la memòria en pila a glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>No utilitzis mai la comprovació HDCP</item>
-        <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
-        <item>Utilitza sempre la comprovació HDCP</item>
+        <item>No utilitzeu mai la verificació de l\'HDCP</item>
+        <item>Utilitzeu només la comprovació de l\'HDCP per al contingut DRM</item>
+        <item>Utilitzeu sempre la verificació de l\'HDCP</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>No ho comprovis mai</item>
-        <item>Només comprova si el contingut té DRM</item>
-        <item>Comprova-ho sempre</item>
+        <item>No verificar mai</item>
+        <item>Comproveu només el contingut DRM</item>
+        <item>Comproveu sempre</item>
     </string-array>
     <string-array name="miui_notification_aggregate_category">
-        <item>Es tracta de contingut recomanat.</item>
+        <item>Aquestes són les fonts recomanades.</item>
         <item>Aquest és un anunci.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Porta-retalls</item>
-        <item>Codi clau</item>
-        <item>Gireu confirmació, commutador de teclat</item>
+        <item>Codi de tecla</item>
+        <item>Confirma el gir de la pantalla, canvia de teclat</item>
         <item>Cap</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Normal</item>
-        <item>Compacta</item>
-        <item>Inclinat a l\'esquerra</item>
-        <item>Inclinat a la dreta</item>
+        <item>Compacte</item>
+        <item>Cap a l\'esquerra</item>
+        <item>Cap a la dreta</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Cap</item>
@@ -256,8 +248,8 @@
         <item>1080p (segur)</item>
         <item>4K</item>
         <item>4K (segur)</item>
-        <item>4K (ampliat)</item>
-        <item>4K (ampliat, segur)</item>
+        <item>4K (escalonat)</item>
+        <item>4K (escalonat, segur)</item>
         <item>720p, 1080p (pantalla dual)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
@@ -268,11 +260,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Desactivat</item>
-        <item>64 KB per buffer de registre</item>
-        <item>256 KB per buffer de registre</item>
-        <item>1 MB per buffer de registre</item>
-        <item>4 MB per buffer de registre</item>
-        <item>16 MB per buffer de registre</item>
+        <item>64 KB per registre de memòria intermèdia</item>
+        <item>256 KB per registre de memòria intermitja</item>
+        <item>1 MB per registre de memòria intermèdia</item>
+        <item>4 MB per registre de memòria intermèdia</item>
+        <item>16 MB per registre de memòria intermèdia</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivat</item>
@@ -284,31 +276,31 @@
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivat</item>
-        <item>Totes les memòries intermèdies de registre</item>
-        <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
-        <item>Només el buffer de registre del nucli</item>
+        <item>Tot el registre de memòria intermèdia</item>
+        <item>Tot excepte el registre de memòria intermèdia de la ràdio</item>
+        <item>Només el registre de la memòria intermèdia kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Desactivat</item>
         <item>Tots</item>
         <item>Tot excepte la ràdio</item>
-        <item>Només nucli</item>
+        <item>Només kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Desactivat</item>
-        <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
-        <item>Ressalta en color verd les ordres de dibuix verificades</item>
+        <item>Desactivada</item>
+        <item>Dibuixeu una àrea no rectangular de clip en blau</item>
+        <item>Destaqueu els comandaments de dibuix provats en verd</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desactivat</item>
-        <item>A la pantalla com barres</item>
-        <item>Volcat de sistema gfxinfo a la consola del adb</item>
+        <item>A la pantalla com a barres</item>
+        <item>A adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Sense animacions</item>
-        <item>Escala d\'animació 0,5x</item>
+        <item>Animacions desactivades</item>
+        <item>Escala d\'animació .5x</item>
         <item>Escala d\'animació 1x</item>
-        <item>Escala d\'animació 1,5x</item>
+        <item>Escala d\'animació 1.5x</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>
@@ -328,51 +320,51 @@
         <item>Ràpid</item>
         <item>Més ràpid</item>
         <item>Molt ràpid</item>
-        <item>Ràpid</item>
-        <item>Molt ràpid</item>
-        <item>El més ràpid</item>
+        <item>Veloç</item>
+        <item>Molt veloç</item>
+        <item>Velocitat màxima</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>S\'està carregant</item>
-        <item>PTP (Protocol de Transferència de Multimèdia)</item>
-        <item>PTP (Protocol de Transferència d\'imatges)</item>
+        <item>MTP (Protocol de transferència multimèdia)</item>
+        <item>PTP (Protocol de transferència d\'imatges)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Font d’àudio</item>
+        <item>Font d\'àudio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>S\'està escanejant&#8230;</item>
-        <item>S\'està connectant&#8230;</item>
-        <item>S\'està autenticant&#8230;</item>
-        <item>S\'està obtenint l\'adreça IP&#8230;</item>
+        <item>S\'està escanejant…</item>
+        <item>S\'està connectant…</item>
+        <item>S\'està autenticant…</item>
+        <item>S\'està obtenint l\'adreça IP…</item>
         <item>Connectat</item>
         <item>Suspès</item>
-        <item>S\'està desconnectant…</item>
+        <item>S\'està desconectant…</item>
         <item>Desconnectat</item>
-        <item>Ha fallat</item>
+        <item>Fallit</item>
         <item>Bloquejat</item>
         <item>S\'està evitant temporalment una mala connexió</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>S\'està escanejant&#8230;</item>
-        <item>S\'està connectant a %1$s&#8230;</item>
-        <item>S\'està autenticant amb %1$s&#8230;</item>
-        <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>
-        <item>S\'ha connectat a %1$s</item>
+        <item>S\'està escanejant…</item>
+        <item>S\'està connectant a %1$s…</item>
+        <item>S\'està autenticant amb %1$s…</item>
+        <item>S\'està obtenint l\'adreça IP de %1$s…</item>
+        <item>Està connectat a %1$s</item>
         <item>Suspès</item>
-        <item>S\'està desconnectant de %1$s&#8230;</item>
+        <item>S\'està desconnectant de %1$s…</item>
         <item>Desconnectat</item>
-        <item>Han fallat</item>
-        <item>Boquejat</item>
+        <item>Fallit</item>
+        <item>Bloquejat</item>
         <item>S\'està evitant temporalment una mala connexió</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Sense animacions</item>
-        <item>Escala d\'animació 0,5x</item>
+        <item>Animacions desactivades</item>
+        <item>Escala d\'animació .5x</item>
         <item>Escala d\'animació 1x</item>
-        <item>Escala d\'animació 1,5x</item>
+        <item>Escala d\'animació 1.5x</item>
         <item>Escala d\'animació 2x</item>
         <item>Escala d\'animació 5x</item>
         <item>Escala d\'animació 10x</item>

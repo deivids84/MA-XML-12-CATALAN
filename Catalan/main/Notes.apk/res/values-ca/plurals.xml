@@ -13,36 +13,36 @@
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">D\'aquí a mitja hora</item>
-        <item quantity="other">D\'aquí a mitja hora</item>
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 min</item>
+        <item quantity="other">en %d mins</item>
+        <item quantity="one">en 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Fa %d minuts</item>
-        <item quantity="one">Fa 1 minut</item>
+        <item quantity="other">Fa %d min</item>
+        <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Voleu suprimir %1$s elements?</item>
         <item quantity="one">Voleu suprimir %1$s element?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$s no han estat sincronitzades"</item>
-        <item quantity="one">"%1$s no ha estat sincronitzada"</item>
+        <item quantity="other">"%1$s elements no han estat sincronitzats"</item>
+        <item quantity="one">"%1$s element no ha estat sincronitzat"</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d dies després</item>
@@ -69,20 +69,20 @@
         <item quantity="other">Fa mitja hora</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">D\'aquí a 1 hora</item>
-        <item quantity="other">D\'aquí a 1 hora</item>
+        <item quantity="one">En 1 hora</item>
+        <item quantity="other">En 1 hora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">D\'aquí a mitja hora</item>
-        <item quantity="other">D\'aquí a mitja hora</item>
+        <item quantity="one">En mitja hora</item>
+        <item quantity="other">En mitja hora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="one">Immediatament</item>
         <item quantity="other">Immediatament</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">d\'aquí a %d minuts</item>
-        <item quantity="one">d\'aquí a 1 minut</item>
+        <item quantity="other">en %d minuts</item>
+        <item quantity="one">en 1 minut</item>
     </plurals>
     <plurals name="item_terms">
         <item quantity="other">%1$s elements</item>
@@ -117,16 +117,16 @@
         <item quantity="one">S\'ha trobat %1$s tasca</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">Queden %d segons</item>
-        <item quantity="one">Queda %d segon</item>
+        <item quantity="other">%d segons restants</item>
+        <item quantity="one">%d segon restant</item>
     </plurals>
     <plurals name="toast_notes_hidden_count">
-        <item quantity="other">S\'han amagat %1$s notes correctament</item>
-        <item quantity="one">S\'ha amagat %1$s nota correctament</item>
+        <item quantity="other">%1$s notes s\'han ocultat amb èxit</item>
+        <item quantity="one">%1$s nota s\'ha ocultat amb èxit</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">S\'han fet visible %1$s notes correctament</item>
-        <item quantity="one">S\'ha fet visible %1$s nota correctament</item>
+        <item quantity="other">%1$s notes s\'ha mostrat amb èxit</item>
+        <item quantity="one">%1$s nota s\'ha mostrat amb èxit</item>
     </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">En %1$d dies</item>
@@ -137,8 +137,8 @@
         <item quantity="one">Fa %1$d dia</item>
     </plurals>
     <plurals name="todo_alert_message_delete">
-        <item quantity="other">Voleu suprimir %1$s tasques?</item>
-        <item quantity="one">Voleu suprimir %1$s tasca?</item>
+        <item quantity="other">Voleu eliminar %1$s tasques?</item>
+        <item quantity="one">Voleu eliminar %1$s tasca?</item>
     </plurals>
     <plurals name="todo_event_description_days_ago">
         <item quantity="other">Fa %1$d dies</item>

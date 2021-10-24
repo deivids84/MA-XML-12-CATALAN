@@ -61,18 +61,18 @@
     </string-array>
     <string-array name="settings_search_earth">
         <item>Casa</item>
-        <item>Fons de pantalla/Súper fons de pantalla/Casa</item>
-        <item>Terra;Súper fons de pantalla;Edició Terra;Fons de pantalla</item>
+        <item>Fons/Superfons de pantalla/Casa</item>
+        <item>Terra;Superfons de pantalla;Edició Terra;Fons de pantalla</item>
     </string-array>
     <string-array name="settings_search_geometry">
         <item>Geometria</item>
-        <item>Fons de pantalla/Super fons de pantalla/Geometria</item>
-        <item>Geometria;Abstracte;Súper fons de pantalla;Fons de pantalla</item>
+        <item>Fons/Superfons de pantalla/Geometria</item>
+        <item>Geometria;Abstracte;Superfons de pantalla;Fons de pantalla</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>El planeta vermell</item>
-        <item>Fons de pantalla/Súper fons de pantalla/El planeta vermell</item>
-        <item>Mart; Edició Mart;Súper fons de pantalla;Fons de pantalla</item>
+        <item>Fons de pantalla/Superfons de pantalla/El planeta vermell</item>
+        <item>Mart;Edició Mart;Superfons de pantalla;Fons de pantalla</item>
     </string-array>
     <string-array name="settings_search_saturn">
         <item>Anells de Saturn</item>
@@ -81,17 +81,17 @@
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Cims nevats</item>
-        <item>Fons de pantalla/Super fons de pantalla/Cims nevats</item>
-        <item>Terra;Muntanyes;Súper fons de pantalla;Fons de pantalla</item>
+        <item>Fons/Superfons de pantalla/Cims nevats</item>
+        <item>Terra;Muntanyes;Superfons de pantalla;Fons</item>
     </string-array>
     <string-array name="settings_search_superwp">
-        <item>Súper fons de pantalla</item>
-        <item>Fons de pantalla/Súper fons de pantalla</item>
-        <item>Súper fons de pantlla;Fons de pantalla;Fons de pantalla dinàmic;Fons de pantalla 3D</item>
+        <item>Superfons de pantalla</item>
+        <item>Fons/Superfons de pantalla</item>
+        <item>Superfons de pantalla;Fons de pantalla;Fons de pantalla dinàmic;Fons de pantalla en 3D</item>
     </string-array>
     <string-array name="settings_search_weather">
-        <item>El temps</item>
-        <item>Fons de pantalla/Súper fons de pantalla/El temps</item>
-        <item>El Temps;Informació del temps;Súper fons de pantalla;Fons de pantalla</item>
+        <item>Temps</item>
+        <item>Fons/Superfons de pantalla/Temps</item>
+        <item>Temos;Informació del temps;Superfons de pantalla;Fons de pantalla</item>
     </string-array>
 </resources>

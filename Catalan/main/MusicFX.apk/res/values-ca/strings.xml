@@ -8,7 +8,7 @@
     <string name="eq_dialog_title">Equalitzador</string>
     <string name="flat">Pis</string>
     <string name="folk">Folk</string>
-    <string name="headset_plug">Per a aquests efectes cal connectar els auriculars.</string>
+    <string name="headset_plug">Connecta els auriculars per a aquests efectes.</string>
     <string name="heavy_metal">Metall gruixut</string>
     <string name="hip_hop">Hip Hop</string>
     <string name="jazz">Jazz</string>
@@ -17,7 +17,7 @@
     <string name="picker_title">Tauler de control dels efectes musicals</string>
     <string name="pop">Pop</string>
     <string name="rock">Rock</string>
-    <string name="setup">Configuració</string>
+    <string name="setup">Configura</string>
     <string name="user">Usuari</string>
     <string name="virtualizer_strength">So envoltant</string>
 </resources>
