@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Afegeix frases habituals</string>
+    <string name="delete_frequent_phrases">Elimina frases habituals</string>
+    <string name="delete_frequent_phrases_confirm">Voleu eliminar les frases habituals seleccionades?</string>
+    <string name="edit_frequent_phrases">Edita frases habituals</string>
+    <string name="frequent_phrases_des">Introduïu frases habituals només amb unes poques pulsacions, mentre editeu text</string>
+    <string name="frequent_phrases_size_exceeded">Només podeu afegir %1$d frases habituals. Elimineu les que no calguin per afegir-ne altres.</string>
+    <string name="input_method_clipboard_check_more_add_to_phrase">Afegeix una frase freqüent</string>
+    <string name="input_method_clipboard_check_more_copy">Copia</string>
+    <string name="input_method_clipboard_check_more_delete">Suprimeix</string>
+    <string name="input_method_clipboard_checkbox_cancle">Cancel·la</string>
+    <string name="input_method_clipboard_checkbox_confirm">Neteja</string>
+    <string name="input_method_clipboard_clear_all_button">Neteja-ho tot</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">Voleu netejar tots els elements del porta-retalls?</string>
+    <string name="input_method_clipboard_clear_all_phrase_title">S\'està netejant el porta-retalls</string>
+    <string name="input_method_clipboard_copy_success">S\'ha copiat correctament</string>
+    <string name="input_method_clipboard_delete_success">S\'ha suprimit correctament</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Manteniu premuda la zona blava per moure el cursor</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Mou el dit horitzontalment</string>
+    <string name="input_method_clipboard_participle">Paraules separades</string>
+    <string name="input_method_clipboard_settings_button">Configuració</string>
+    <string name="input_method_clipboard_tips">Els articles copiats se suprimiran del porta-retalls al cap de 48 hores</string>
+    <string name="input_method_edit_phrase_text">Edita les frases freqüents</string>
+    <string name="input_method_no_content_text">Encara no hi ha elements</string>
+    <string name="input_method_phrase_edit">Edita</string>
+    <string name="input_method_phrase_top">Fixa</string>
+    <string name="input_method_switch_settings_text">Configuració del teclat</string>
+    <string name="input_method_tab_clipboard_text">Porta-retalls</string>
+    <string name="input_method_tab_phrase_text">Frases freqüents</string>
+    <string name="menu_add_frequent_phrases">Afegeix</string>
+    <string name="menu_delete">Suprimeix</string>
+    <string name="menu_edit">Edita</string>
+    <string name="sync_phrase_label">Frases habituals</string>
+</resources>

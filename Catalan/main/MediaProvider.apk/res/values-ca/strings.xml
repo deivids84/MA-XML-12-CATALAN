@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="add_alarm_text">Afegeix una alarma</string>
+  <string name="add_notification_text">Afegeix una notificació</string>
+  <string name="add_ringtone_text">Afegeix un to</string>
+  <string name="alarm_sound_default">So de l\'alarma per defecte</string>
+  <string name="app_label">Emmagatzematge de mitjans</string>
+  <string name="artist_label">Artista</string>
+  <string name="delete_ringtone_text">Suprimeix</string>
+  <string name="grant_dialog_button_allow">Permet</string>
+  <string name="grant_dialog_button_deny">Denega</string>
+  <string name="notification_sound_default">So de notificació per defecte</string>
+  <string name="permission_audio">Voleu permetre a &lt;b&gt;^1&lt;/b&gt; modificar o suprimir aquesta música?</string>
+  <string name="permission_images">Voleu permetre a &lt;b&gt;^1&lt;/b&gt; modificar o suprimir aquesta imatge?</string>
+  <string name="permission_required">Permís necessari per modificar o suprimir aquest element.</string>
+  <string name="permission_required_action">Continua</string>
+  <string name="permission_video">Voleu permetre a &lt;b&gt;^1&lt;/b&gt; editar o suprimir aquest vídeo?</string>
+  <string name="ringtone_default">So per defecte</string>
+  <string name="root_audio">Àudio</string>
+  <string name="root_images">Imatges</string>
+  <string name="root_videos">Vídeos</string>
+  <string name="sound_name_awaken">Despertar</string>
+  <string name="sound_name_bounce">Rebot</string>
+  <string name="sound_name_drip">Degoteig</string>
+  <string name="sound_name_gallop">Galop</string>
+  <string name="sound_name_nudge">Nudge</string>
+  <string name="sound_name_orbit">Orbit</string>
+  <string name="sound_name_rise">Aixecar-se</string>
+  <string name="sound_name_sway">Balanceig</string>
+  <string name="sound_name_wag">Wag</string>
+  <string name="storage_description">Emmagatzematge local</string>
+  <string name="uid_label">Mitjans</string>
+  <string name="unable_to_add_ringtone">No es pot afegir un to personalitzat</string>
+  <string name="unable_to_delete_ringtone">No es pot eliminar el to personalitzat</string>
+</resources>

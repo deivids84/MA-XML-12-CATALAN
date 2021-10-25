@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="other_settings_auto_update_entries">
+        <item>Wi-Fi i dades mòbils</item>
+        <item>Només wifi</item>
+        <item>Desactivat</item>
+    </string-array>
+</resources>

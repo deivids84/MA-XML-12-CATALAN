@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips">
+        <item>"Vegeu totes les aplicacions.
+ Toqueu la icona del Llançador. @drawable/all_apps"</item>
+        <item>"Arrossegueu aplicacions a la Pantalla d'inici.
+ Manteniu premuda una aplicació al Llançador fins que vibri."</item>
+        <item>"Reorganitzeu la Pantalla d'inici.
+ Manteniu premut un element i, quan vibri, arrossegueu-lo al lloc que vulgueu."</item>
+        <item>"Elimineu elements.
+ Manteniu premut un element i, quan vibri, arrossegueu-lo a la icona de la Paperera. @drawable/trash"</item>
+        <item>"Diverses Pantalles d'inici.
+ Feu lliscar cap a l'esquerra o cap a la dreta per canviar de pantalla. Arrossegueu elements a altres pantalles."</item>
+        <item>"Ja no voleu aquest giny?
+ Manteniu-lo premut i, quan vibri, arrossegueu-lo a la icona de la Paperera."</item>
+    </string-array>
+    <string-array name="tips2">
+        <item>"Inici és un jardí
+Manteniu premut un punt buit
+Per fer créixer noves icones"</item>
+        <item>"El telèfon no és impermeable 
+No el submergiu en aigua 
+o en altres fluids"</item>
+        <item>"Voleu més pantalles d'inici? 
+Feu lliscar cap a l’esquerra i cap a la dreta per trobar-les 
+(No és necessari robar-les)"</item>
+        <item>"Petits punts a la Pantalla d'inici 
+Que podrien fer? 
+Manteniu premut per més informació."</item>
+        <item>"Icones de la barra d'estat 
+Per descobrir els seus secrets 
+Estireu de la persiana"</item>
+        <item>"Hi ha un truc per 
+Arrossegar els elements entre pantalles 
+aturant-se a les vores"</item>
+        <item>"Toca la botiga d'aplicacions 
+Com una capsa de bombons 
+Cadascuna una sorpresa"</item>
+        <item>"Ah, i per cert:
+Això no és un clip de paper
+Sóc un Android"</item>
+    </string-array>
+</resources>
