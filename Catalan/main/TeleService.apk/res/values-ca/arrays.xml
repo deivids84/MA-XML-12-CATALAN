@@ -72,8 +72,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Activa els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitza la selecció del sistema (per defecte)</item>
@@ -82,8 +80,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Activa els còdecs opcionals</item>
-        <item>Desactiva els còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -92,9 +88,9 @@
         <item>, actiu (telèfon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (per defecte)</item>
+        <item>AVRCP 1.5 (per defecte)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -106,8 +102,6 @@
         <item>Inhabilitat</item>
         <item>S\'ha habilitat el filtrat</item>
         <item>Habilitat</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Només a casa</item>
@@ -219,7 +213,7 @@
         <item>256K per registre de memòria</item>
         <item>1M per registre de memòria</item>
         <item>4M per registre de memòria</item>
-        <item>16M per registre de memòria</item>
+        <item>8 M per memòria intermèdia de registres</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivat</item>
@@ -227,7 +221,7 @@
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>16M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivat</item>
@@ -306,6 +300,20 @@
         <item>Han fallat</item>
         <item>Boquejat</item>
         <item>S\'està evitant temporalment una mala connexió</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>S’està escanejant…</item>
+        <item>S’està connectant…</item>
+        <item>S’està autenticant…</item>
+        <item>S’està obtenint l’adreça IP…</item>
+        <item>Connectat</item>
+        <item>Suspès</item>
+        <item>S’està desconnectant…</item>
+        <item>Desconnectat</item>
+        <item>Ha fallat</item>
+        <item>Bloquejat</item>
+        <item>S’està evitant temporalment una mala connexió</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Sense animacions</item>

@@ -51,4 +51,9 @@
         <item>A l\'esquerra</item>
         <item>A la dreta</item>
     </string-array>
+    <string-array name="widget_component_delete_way">
+        <item>shortcut删除</item>
+        <item>拖拽</item>
+        <item>desinstal·la</item>
+    </string-array>
 </resources>

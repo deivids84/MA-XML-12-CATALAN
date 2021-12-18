@@ -300,6 +300,14 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">Obteniu una prova gratuïta de %ddies</item>
         <item quantity="one">Obteniu una prova gratuïta de %ddies</item>
     </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">Afegiu fins a %d aplicacions. Arrossegueu els elements afegits per reorganitzar-los.</item>
+        <item quantity="one">Afegiu fins a %d aplicació. Arrossegueu els elements afegits per reorganitzar-los.</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Afegiu fins a %d aplicacions. Manteniu premut per reorganitzar-los.</item>
+        <item quantity="one">Afegiu fins a %d aplicació. Manteniu premut per reorganitzar-los.</item>
+    </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Aquesta funció redueix la brillantor de la pantalla després de %d minuts d’inactivitat automàticament per estalviar energia. Voleu mantenir aquesta funció activada?</item>
         <item quantity="one">Aquesta funció redueix la brillantor de la pantalla després de %d minut d\'inactivitat automàticament per estalviar energia. Voleu mantenir aquesta funció activada?</item>
@@ -724,6 +732,10 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">%s aplicacions tenen accés permanent</item>
         <item quantity="one">%s aplicació té accés permanent</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Permès per a %s aplicacions</item>
+        <item quantity="one">Permès per a %s aplicació</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s vegades</item>
         <item quantity="one">%s temps</item>
@@ -848,13 +860,29 @@ Podeu obtenir %d dia de prova gratuïta ara!"</item>
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Activa el Mode concentració durant %d minuts</item>
+        <item quantity="one">Activa el Mode concentració durant %d minut</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
         <item quantity="one">Actualització disponible per %d aplicació.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Després de la pantalla bloquejada durant %d minuts</item>
+        <item quantity="one">Després de la pantalla bloquejada durant %d minut</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">"No s'han sincronitzat les estadístiques d'ús de dades amb l'operadora des de fa %d dies"</item>
         <item quantity="one">"No s'han sincronitzat les estadístiques d'ús de dades amb l'operadora des de fa %d dia"</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Bloqueja la pantalla al cap de %d minuts</item>
+        <item quantity="one">Bloqueja la pantalla al cap de %d minut</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elements segurs</item>

@@ -118,7 +118,7 @@
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Cada dia</item>
-        <item>De dilluns a Divendres</item>
+        <item>De dilluns a divendres</item>
         <item>Dies laborables</item>
         <item>Personalitzar</item>
     </string-array>

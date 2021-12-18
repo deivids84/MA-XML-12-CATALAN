@@ -263,12 +263,12 @@
     <item>quart dissabte</item>
     <item>quart diumenge</item>
     <item>dilluns passat</item>
-    <item>dimarts passat</item>
-    <item>dimecres passat</item>
-    <item>dijous passat</item>
+    <item>l’últim dimarts</item>
+    <item>l’últim dimecres</item>
+    <item>l\'últim dijous</item>
     <item>divendres passat</item>
-    <item>el passat dissabte</item>
-    <item>diumenge passat</item>
+    <item>l\'últim dissabte</item>
+    <item>últim diumenge</item>
   </string-array>
   <string-array name="response_labels1">
     <item>Sense resposta</item>

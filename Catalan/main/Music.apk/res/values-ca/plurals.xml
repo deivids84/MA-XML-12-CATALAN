@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">%d cançons en total</item>
-        <item quantity="one">%d cançó en total</item>
+        <item quantity="other">Total %d cançons</item>
+        <item quantity="one">Total %d cançó</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">S\'està cercant portades de discos i lletres (%1$d/%2$d)</item>
-        <item quantity="one">S\'està cercant portades de discos i lletres (%1$d/%2$d)</item>
+        <item quantity="other">S\'estan cercant cobertes d\'àlbums i lletres (%1$d/%2$d)</item>
+        <item quantity="one">S\'estan cercant cobertes d\'àlbums i lletres (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"La vostra subscripció caduca en %d dies.
+        <item quantity="other">"La vostra subscripció vencerà d'aquí %d dies.
 Voleu que us ajudem a renovar-la?"</item>
-        <item quantity="one">"La vostra subscripció caduca en %d dia.
+        <item quantity="one">"La vostra subscripció vencerà d'aquí %d dia.
 Voleu que us ajudem a renovar-la?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">Podeu baixar %1$d cançons gratuïtes. Voleu baixar %2$s?</item>
-        <item quantity="one">Podeu baixar %1$d cançó gratuïta. Voleu baixar %2$s?</item>
+        <item quantity="other">Podeu baixar %1$d cançons de forma gratuïta. Voleu baixar %2$s ara?</item>
+        <item quantity="one">Podeu baixar %1$d cançó de forma gratuïta. Voleu baixar %2$s ara?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">El reproductor pararà a %d minuts</item>
-        <item quantity="one">El reproductor pararà a %d minut</item>
+        <item quantity="other">El reproductor s\'aturarà en %d minuts</item>
+        <item quantity="one">El reproductor s\'aturarà en %d minut</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Creat el %1$s 
-%2$d cançons en total"</item>
-        <item quantity="one">"Creat el %1$s 
-%2$d cançó en total"</item>
+        <item quantity="other">"Creat a %1$s 
+total %2$d cançons"</item>
+        <item quantity="one">"Creat a %1$s 
+total %2$d cançó"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">S\'han afegit %d cançons a la llista de reproducció</item>
-        <item quantity="one">S\'ha afegit %d cançó a la llista de reproducció</item>
+        <item quantity="other">%d cançons afegides a la llista de reproducció</item>
+        <item quantity="one">%d cançó afegida a la llista de reproducció</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d cançons</item>
         <item quantity="one">%d cançó</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">S\'han suprimit %d cançons de la llista de reproducció</item>
-        <item quantity="one">S\'ha suprimit %d cançó de la llista de reproducció</item>
+        <item quantity="other">%d cançons suprimides de la llista de reproducció</item>
+        <item quantity="one">%d cançó suprimida de la llista de reproducció</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d cançons similars</item>
@@ -85,42 +85,46 @@ Voleu que us ajudem a renovar-la?"</item>
         <item quantity="one">%d comentari</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">Fa %d dies</item>
-        <item quantity="one">Fa %d dia</item>
+        <item quantity="other">fa %d dies</item>
+        <item quantity="one">fa %d dia</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Voleu eliminar %d elements?</item>
-        <item quantity="one">Voleu eliminar %d element?</item>
+        <item quantity="other">Voleu suprimir %d elements?</item>
+        <item quantity="one">Voleu suprimir %d element?</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Voleu suprimir %d elements?
-Nota: Els fitxers també seran suprimits d'aquest dispositiu."</item>
-        <item quantity="one">"Voleu suprimir %d element?
-Nota: El fitxer també se suprimirà d'aquest dispositiu."</item>
+        <item quantity="other">"Suprimir els elements %d? 
+Nota: el fitxers també seran esborrats d'aquest dispositiu."</item>
+        <item quantity="one">"Suprimir l'element %d? 
+Nota: el fitxer també serà esborrat d'aquest dispositiu."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Voleu eliminar %d cançons?</item>
-        <item quantity="one">Voleu eliminar %d cançó?</item>
+        <item quantity="other">Voleu suprimir %d cançons?</item>
+        <item quantity="one">Voleu suprimir %d cançó?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Voleu treure %d cançons?</item>
-        <item quantity="one">Voleu treure %d cançó?</item>
+        <item quantity="other">Voleu suprimir %d cançons?</item>
+        <item quantity="one">Voleu suprimir %d cançó?</item>
+    </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">%d de les cançons seleccionades s’emmagatzemen en una carpeta externa. Concediu els permisos necessaris per eliminar-les.</item>
+        <item quantity="one">%d de les cançons seleccionades s’emmagatzemen en una carpeta externa. Concediu els permisos necessaris per eliminar-la.</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color==\"red\"&gt;%d cançons&lt;/font&gt; baixades</item>
+        <item quantity="other">&lt;font color=\"red\"&gt;%d cançons&lt;/font&gt; baixades</item>
         <item quantity="one">&lt;font color==\"red\"&gt;%d cançó&lt;/font&gt; baixada</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">S\'han eliminat %d baixades</item>
-        <item quantity="one">S\'ha eliminat %d baixada</item>
+        <item quantity="other">%d baixades suprimides</item>
+        <item quantity="one">%d baixada suprimida</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color==\"red\"&gt;%d cançons&lt;/font&gt; s\'estan baixant</item>
-        <item quantity="one">&lt;font color==\"red\"&gt;%d cançó&lt;/font&gt; s\'està baixant</item>
+        <item quantity="other">&lt;font color=\"red\"&gt;%d cançons&lt;/font&gt; baixades</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d cançó&lt;/font&gt; baixada</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">Resten %d baixades gratuïtes</item>
-        <item quantity="one">Resta %d baixada gratuïta</item>
+        <item quantity="other">%d baixades gratuites restants</item>
+        <item quantity="one">%d baixada gratuita restant</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
@@ -148,11 +152,15 @@ Nota: El fitxer també se suprimirà d'aquest dispositiu."</item>
     </plurals>
     <plurals name="list_header_fans_count">
         <item quantity="other">%d seguidors</item>
-        <item quantity="one">%d seguidors</item>
+        <item quantity="one">%d seguidor</item>
     </plurals>
     <plurals name="list_header_follow_count">
         <item quantity="other">Seguint %d persones</item>
-        <item quantity="one">Seguint %d persones</item>
+        <item quantity="one">Seguint %d persona</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d notificacions noves</item>
@@ -183,8 +191,8 @@ Nota: El fitxer també se suprimirà d'aquest dispositiu."</item>
         <item quantity="one">S\'enviarà %d cançó</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">S\'han omès %d cançons. Activeu els serveis en línia a la configuració per escoltar-les.</item>
-        <item quantity="one">S\'ha omès %d cançó. Activeu els serveis en línia a la configuració per escoltar-la.</item>
+        <item quantity="other">S\'han saltat les cançons %d. Activa els serveis en línia a la configuració per escoltar-les.</item>
+        <item quantity="one">S\'ha saltat la cançó %d. Activa els serveis en línia a la configuració per escoltar-la.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Cançons marcades com a favorites.</item>
@@ -195,19 +203,19 @@ Nota: El fitxer també se suprimirà d'aquest dispositiu."</item>
         <item quantity="one">%d cançó</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Encreuament entre cançons: %d segons</item>
-        <item quantity="one">Encreuament entre cançons: %d segon</item>
+        <item quantity="other">Fosa de transició entre cançons: %d segons</item>
+        <item quantity="one">Fosa de transició entre cançons: %d segon</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Vídeos</item>
         <item quantity="one">Vídeo</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s visualitzacions</item>
-        <item quantity="one">%1$s visualització</item>
+        <item quantity="other">%1$s vistes</item>
+        <item quantity="one">%1$s vista</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">Resten %d dies</item>
-        <item quantity="one">Resta %d dia</item>
+        <item quantity="other">%d dies restants</item>
+        <item quantity="one">%d dia restant</item>
     </plurals>
 </resources>

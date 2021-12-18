@@ -114,6 +114,14 @@
         <item>PIN</item>
         <item>Contrasenya</item>
     </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Extra petita</item>
+        <item>Petita</item>
+        <item>Mitjana</item>
+        <item>Gran</item>
+        <item>Extra gran</item>
+        <item>XXL</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>

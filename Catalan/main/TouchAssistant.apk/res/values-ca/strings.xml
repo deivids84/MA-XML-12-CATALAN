@@ -73,6 +73,8 @@
     <string name="mi_ai">Dreceres Mi AI</string>
     <string name="mi_wallet_summary">Targeta de transport/Mi Pay/Targeta clau</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -87,6 +89,8 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -169,6 +173,7 @@
     <string name="open_panel">Activa el menú de dreceres</string>
     <string name="pay_entry_dialog_title_select">Seleccioneu una aplicació per obrir</string>
     <string name="pay_entry_dialog_title_setting">Configura l\'aplicació</string>
+    <string name="permission_desc">Detalls dels permisos</string>
     <string name="pm">pm</string>
     <string name="pref_category_mipay">Dreceres NFC</string>
     <string name="pref_category_others">Altres</string>
@@ -176,6 +181,7 @@
     <string name="pref_category_quick_settings">Configuració ràpida</string>
     <string name="pref_category_system">Configuració del sistema</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="privacy_settings">Privadesa</string>
     <string name="restore_default">Restaura els valors per defecte</string>
     <string name="restore_intro">"Restableix els valors per defecte, incloent les dreceres i el seu ordre. No es veuran afectades les dades de les aplicacions del dispositiu."</string>
     <string name="saturday">Dissabte</string>
@@ -261,6 +267,7 @@
     <string name="tuesday_shortest">dt.</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
+    <string name="view_privacy">Mostra la Política de privadesa</string>
     <string name="wednesday">Dimecres</string>
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>

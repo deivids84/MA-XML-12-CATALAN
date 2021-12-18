@@ -141,11 +141,6 @@
         <item>Qualcomm® aptX™ àudio</item>
         <item>Qualcomm® aptX™ HD àudio</item>
         <item>LDAC</item>
-        <item>Àudio de Qualcomm® aptX™ Adaptatiu àudio</item>
-        <item>Qualcomm® aptX™ TWS+ àudio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Utilitzeu les preferències del sistema (Per defecte)</item>
@@ -154,13 +149,6 @@
         <item>Qualcomm® aptX™ àudio</item>
         <item>Qualcomm® aptX™ HD àudio</item>
         <item>LDAC</item>
-        <item>Àudio de Qualcomm® aptX™ Adaptive</item>
-        <item>Qualcomm® aptX™ TWS+ àudio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Activar còdecs opcionals</item>
-        <item>Desactivar còdecs opcionals</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -169,9 +157,9 @@
         <item>" | Actiu (telèfon)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Per defecte)</item>
+        <item>AVRCP 1.5 (per defecte)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -183,8 +171,6 @@
         <item>Desactivat</item>
         <item>Filtrat</item>
         <item>Activat</item>
-        <item>Capçaleres filtrades</item>
-        <item>Paquets multimèdia filtrats</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colors millorats</item>
@@ -243,7 +229,7 @@
         <item>256 KB per registre de memòria intermitja</item>
         <item>1 MB per registre de memòria intermèdia</item>
         <item>4 MB per registre de memòria intermèdia</item>
-        <item>16 MB per registre de memòria intermèdia</item>
+        <item>8 MB per memòria intermèdia de registre</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivat</item>
@@ -251,7 +237,7 @@
         <item>256 KB</item>
         <item>1 MB</item>
         <item>4 MB</item>
-        <item>16 MB</item>
+        <item>8 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Desactivat</item>
@@ -330,6 +316,20 @@
         <item>Fallit</item>
         <item>Bloquejat</item>
         <item>S\'està evitant temporalment una mala connexió</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>S’està escanejant…</item>
+        <item>S’està connectant…</item>
+        <item>S’està autenticant…</item>
+        <item>S’està obtenint l’adreça IP…</item>
+        <item>Connectat</item>
+        <item>Suspès</item>
+        <item>S’està desconnectant…</item>
+        <item>Desconnectat</item>
+        <item>Ha fallat</item>
+        <item>Bloquejat</item>
+        <item>S’està evitant temporalment una mala connexió</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacions desactivades</item>

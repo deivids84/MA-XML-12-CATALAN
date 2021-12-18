@@ -108,6 +108,10 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
     </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">El dispositiu està sobreescalfat. La càmera es tancarà en %d segons. Les fotos o els vídeos es desaran automàticament.</item>
+        <item quantity="one">El dispositiu està sobreescalfat. La càmera es tancarà en %d segon. Les fotos o els vídeos es desaran automàticament.</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s min.</item>
         <item quantity="one">%1$s min.</item>

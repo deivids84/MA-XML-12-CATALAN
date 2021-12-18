@@ -70,14 +70,12 @@
     <string name="cancel">Cancel·leu</string>
     <string name="cancel_running_download">Cancel·leu</string>
     <string name="cancle">Cancel·la</string>
-    <string name="character_counter_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="choose_open_picture">Tria una opció</string>
     <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
     <string name="clear_data">Esborra</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="close">Tanca</string>
     <string name="close_ad">Tanca l\'anunci</string>
-    <string name="collect_diagnosis_log">Recopila el registre de diagnòstic</string>
     <string name="complete_time">Completat:</string>
     <string name="confirm">D\'acord</string>
     <string name="confirm_delete_downloads_message">%d baixades seran eliminades.</string>
@@ -87,6 +85,7 @@
     <string name="copy_info">S\'ha copiat al porta-retalls. Podeu compartir-lo amb els amics!</string>
     <string name="creat_task_success">Afegit a cua de baixades</string>
     <string name="create_task">Crear tasca</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per baixar elements, així com per mostrar i gestionar les baixades</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="delete">Elimina</string>
@@ -96,10 +95,6 @@
     <string name="deselect_all">Desseleccioneu-ho tot</string>
     <string name="deselect_subfile_all">Desselecciona-ho tot</string>
     <string name="determine">D\'acord</string>
-    <string name="diagnosis_log_send_failed">No s\'ha pogut enviar el registre de diagnòstic.</string>
-    <string name="diagnosis_log_sent_format">"S'ha enviat el registre de diagnòstic.
-ID:%s
-Envieu aquest codi al tècnic."</string>
     <string name="dialog_btn_cancel">Cancel·leu</string>
     <string name="dialog_btn_ok">D\'acord</string>
     <string name="dialog_btn_ok_disabled_net">Configuració de xarxa</string>
@@ -120,6 +115,9 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_media_not_found">No es pot baixar. L\'emmagatzematge extern no està disponible.</string>
     <string name="dialog_msg_disabled_net">%1$s baixades restringides a la xarxa actual. Toqueu la Configuració de xarxa per anar a l\'aplicació de seguretat.</string>
     <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades després de desactivar-les. Podeu escollir \"Carrega només el contingut mitjançant Wi-Fi\" per estalviar dades mòbils."</string>
+    <string name="dialog_privacy_update_button1">Cancel·la</string>
+    <string name="dialog_privacy_update_button2">D’acord</string>
+    <string name="dialog_privacy_update_title">Política de privadesa actualitzada</string>
     <string name="dialog_queued_body">Aquest fitxer es posa en cua per baixar-lo més tard.</string>
     <string name="dialog_speed_cancel">Cancel·la</string>
     <string name="dialog_speed_msg">Es pot consumir una gran quantitat de dades mòbils mesurant la xarxa. Segur que voleu continuar?</string>
@@ -129,6 +127,10 @@ Envieu aquest codi al tècnic."</string>
     <string name="dialog_title_not_available">"Baixada fallida"</string>
     <string name="dialog_title_queued_body">El fitxer encara no està disponible</string>
     <string name="dialog_title_recommend">Desactiva les fonts recomanades</string>
+    <string name="dialog_user_know_button1">Surt</string>
+    <string name="dialog_user_know_button2">D’acord</string>
+    <string name="dialog_user_know_content"><Data>\"No podreu continuar utilitzant aquesta funció tret que accepteu la nova versió de la &lt;a href=\"%1$s\"&gt;Política de privadesa&lt;/a&gt;. Voleu acceptar ara la Política de privadesa actualitzada?\"</Data></string>
+    <string name="dialog_user_know_title">Atenció</string>
     <string name="disable">Desactivar</string>
     <string name="display_expire_netiv1">Aquest mes</string>
     <string name="do_not_support_url">"Aquest tipus d'URL no està suportat"</string>
@@ -213,7 +215,6 @@ Envieu aquest codi al tècnic."</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_24hour">"HH \"en punt\""</string>
-    <string name="for_diagnosis_usage_only">Utilitzeu aquesta informació només per al diagnòstic.</string>
     <string name="force_touch_newdownload">Nova baixada</string>
     <string name="force_touch_rank">Classificacions</string>
     <string name="force_touch_search">Cerca al web</string>
@@ -273,6 +274,8 @@ Envieu aquest codi al tècnic."</string>
     <string name="mi_money_">Crèdit Mi</string>
     <string name="midnight">Nit</string>
     <string name="missing_title">&lt;Desconegut&gt;</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -287,6 +290,8 @@ Envieu aquest codi al tècnic."</string>
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">%s seleccionat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -336,7 +341,6 @@ Envieu aquest codi al tècnic."</string>
     <string name="month_september_shortest">set.</string>
     <string name="more">Més</string>
     <string name="morning">Matí</string>
-    <string name="mtrl_chip_close_icon_content_description">Suprimeix %1$s</string>
     <string name="net_error">"Connecteu-vos a la xarxa i proveu-ho de nou"</string>
     <string name="network_error">"No es pot connectar a la xarxa"</string>
     <string name="new_add">Nova baixada</string>
@@ -362,7 +366,6 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="notify_install_guide_title">S\'ha instal·lat correctament %s</string>
     <string name="notify_not_support">"Aquestes notificacions no són compatibles, actualitzeu ara"</string>
     <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
-    <string name="ok">D\'acord</string>
     <string name="one_month">1 mes</string>
     <string name="only_support_torrent">Només estan suportats els fitxers torrent</string>
     <string name="open">Obre</string>
@@ -375,9 +378,6 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="other">Altre</string>
     <string name="other_filter">ALTRES</string>
     <string name="package_filter">PAQUETS</string>
-    <string name="passport_oauth_actionbar_title">Compte Mi</string>
-    <string name="passport_oauth_sucess_tip">Autoritzat amb èxit</string>
-    <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_no_available">"Aquest camí no està disponible"</string>
     <string name="pause_download">Pausar</string>
     <string name="paused">Pausada</string>
@@ -389,11 +389,14 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="paused_waiting_to_retry">Esperant per reintentar</string>
     <string name="percent_title">Baixat per %1$s persones</string>
     <string name="period_of_validity">Validesa:</string>
+    <string name="permission">Permisos</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">pm</string>
     <string name="pref_download_revert_default">Desa-ho a la ubicació per defecte</string>
     <string name="pref_download_settings_title">S\'ha restringit la baixada amb dades mòbils</string>
     <string name="pref_download_storage_path">Desa-ho a una ubicació personalitzada</string>
+    <string name="pref_download_storage_path_2">Ubicació dels elements baixats</string>
+    <string name="pref_permission_description">Detalls dels permisos</string>
     <string name="pref_sniff_shortcut">Crear accés directe</string>
     <string name="pref_summary_any_bytes_popup">Espera sempre la connexió Wi-Fi per baixar fitxers</string>
     <string name="pref_summary_enable_max_bytes_popup">Mostra notificació emergent quan es facin servir dades mòbils per baixar contingut</string>
@@ -402,6 +405,7 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="pref_title_enable_max_bytes_popup">Mostra advertència d\'ús de dades</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="preferences_title">Configuració</string>
+    <string name="privacy">Privadesa</string>
     <string name="privacy_policy">Política de privadesa</string>
     <string name="privacy_tip_cancel">Cancel·leu</string>
     <string name="privacy_tip_content">"Voleu utilitzar l'accelerador Xunlei per augmentar la velocitat de baixada? La URL del host de baixades es pujarà al servidor de Xunlei. Els detalls del Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>
@@ -473,8 +477,6 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="select_subfile_all">Selecciona-ho tot</string>
     <string name="selected_count">Seleccionats %1$d de %2$d</string>
     <string name="send">Envia</string>
-    <string name="send_diagnosis_log">Envia registre de diagnòstic</string>
-    <string name="sending">S\'esta enviant…</string>
     <string name="setting_close_debug">Mode debug apagat</string>
     <string name="setting_debug_fail">"No s'ha pogut entrar en mode debug"</string>
     <string name="setting_open_debug">Mode debug encès. Toca aquí 6 vegades per apagar-lo.</string>
@@ -582,7 +584,6 @@ en tots els dispositius a través de Xunlei"</string>
     <string name="task_detail">Tasques</string>
     <string name="task_detail_notfound_confirm">D\'acord</string>
     <string name="task_fail">"No s'ha pogut completar l'operació"</string>
-    <string name="temporary_not_available">temporalment no disponible</string>
     <string name="terabyteShort">TB</string>
     <string name="test_speed">Prova</string>
     <string name="test_speed_detail">Detalls</string>

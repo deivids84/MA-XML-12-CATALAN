@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="actionbar_button_up_description">Enrere</string>
+    <string name="add_remark_hint">Introduïu el vostre comentari aquí</string>
+    <string name="add_remark_tip">Toqueu per afegir un comentari</string>
     <string name="afternoon">Tarda</string>
     <string name="agree_description">Permeteu que aquesta aplicació es connecti a Internet per poder utilitzar totes les seves funcions.</string>
     <string name="alert_message_clear_records">Voleu esborrar les gravacions seleccionades?</string>
@@ -35,6 +37,7 @@
     <string name="alert_message_delete_record">En eliminar la gravació del dispositiu també s\'esborrarà de Mi Cloud. Voleu eliminar-la ara?</string>
     <string name="alert_message_delete_record_title">Voleu eliminar la gravació?</string>
     <string name="all_record">Tots els enregistraments</string>
+    <string name="allowed">Concedit</string>
     <string name="am">am</string>
     <string name="app_name">Gravadora</string>
     <string name="app_record">Enregistraments d\'aplicacions</string>
@@ -85,6 +88,7 @@
     <string name="duration_format_second">%s s</string>
     <string name="early_morning">Matí</string>
     <string name="empty_recognition_tip">Buit</string>
+    <string name="empty_tips">Toqueu el botó per començar l\'enregistrament</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="err_msg_abandon">S\'ha abandonat la comanda</string>
@@ -110,6 +114,7 @@
     <string name="error_filename_illegal_char">El nom del fitxer conté caràcters no vàlids.</string>
     <string name="error_filename_too_long">El nom del fitxer és massa llarg.</string>
     <string name="error_icon_content_description">Error</string>
+    <string name="error_remark_too_long">El vostre comentari és massa llarg</string>
     <string name="error_sdcard_access">"No es pot accedir a la targeta SD"</string>
     <string name="error_sdcard_unmounted">Inseriu una targeta SD</string>
     <string name="evening">Tarda</string>
@@ -133,6 +138,7 @@
     <string name="head_set_tip_dialog_title">Utilitza el micròfon intern</string>
     <string name="icon_content_description">Icona de diàleg</string>
     <string name="invalid_argument">Argument no vàlid</string>
+    <string name="invisible_mode_error_tip">Desactiveu el mode d\'incògnit a la configuració per poder utilitzar el micròfon</string>
     <string name="item_view_role_description">Pestanya</string>
     <string name="keywords_search_call_record">Grava trucades;Grava la trucada;Gravació de trucada;Gravacions de trucades</string>
     <string name="keywords_search_record">Nova gravació;Afegeix gravació;Gravació;Gravacions;Transcripció;Transcriu;Gravadora;Gravadora de veu;Gravadora de so;Aplicació gravadora;Aplicació de gravació;Com gravar;Com gravar so;On és la gravadora;Reordena MIUI</string>
@@ -172,6 +178,8 @@
     <string name="mi_account_ok">Inicia la sessió</string>
     <string name="mi_account_title">Inicia la sessió amb el Compte Mi</string>
     <string name="midnight">Nit</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -189,6 +197,8 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -277,8 +287,10 @@
     <string name="no_file">No hi ha gravacions</string>
     <string name="no_network">"No s'ha pogut connectar a la xarxa"</string>
     <string name="no_playback_file">Seleccioneu una gravació per veure\'n els detalls</string>
+    <string name="no_records">Encara no hi ha enregistraments aquí</string>
     <string name="noon">Migdia</string>
     <string name="normal_settings_pref_title">Configuració general</string>
+    <string name="not_allowed">No concedit</string>
     <string name="not_set">Sense definir</string>
     <string name="notification_message_all_paused">S\'està esperant el Wi-Fi.</string>
     <string name="notification_playback">S\'està reproduint&#8230;</string>
@@ -323,6 +335,15 @@
     <string name="pay_error_cancel">El pagament s\'ha cancel·lat</string>
     <string name="pay_error_null">"No s'ha pogut completar el pagament. Comproveu el vostre compte."</string>
     <string name="pay_error_unknown">Error desconegut</string>
+    <string name="permission_desc">Detalls dels permisos</string>
+    <string name="permission_dialog_cancel">Cancel·la</string>
+    <string name="permission_dialog_ok">Configuració</string>
+    <string name="permission_record">Enregistrar àudio</string>
+    <string name="permission_record_description">Per oferir serveis d\'enregistrament d\'àudio</string>
+    <string name="permission_storage">Accés a l’emmagatzematge</string>
+    <string name="permission_storage_description">Per gestionar les gravacions i baixar-les del núvol</string>
+    <string name="permission_storage_description_for_download">Per baixar enregistraments des del núvol</string>
+    <string name="permission_storage_description_for_manage_files">Per gestionar els enregistraments</string>
     <string name="play_speed">%1$.1fvelocitat X.</string>
     <string name="playback_delete_records">Elimina la gravació</string>
     <string name="playback_share_records">Comparteix la gravació</string>
@@ -344,6 +365,8 @@
     <string name="preference_status_bar_indicator_prompt">Mostra un indicador blau a la pantalla de bloqueig durant la gravació</string>
     <string name="preference_tip_rename">Mostra el diàleg de canvi de nom en acabar la gravació</string>
     <string name="privacy_policy_title">Política de privadesa</string>
+    <string name="privacy_settings">Privadesa</string>
+    <string name="progress">Barra de progrés de la reproducció</string>
     <string name="recognition_button_add_to_queue">Afegeix a la cua</string>
     <string name="recognition_button_cancel">Ara no</string>
     <string name="recognition_button_start">Transcriu</string>
@@ -396,6 +419,9 @@
     <string name="record_downloading_notification_complete">Baixada completa</string>
     <string name="record_downloading_notification_count">S\'està baixant %d</string>
     <string name="record_format_preference_title">Format de gravació</string>
+    <string name="record_item_title_multi_choice">Selecciona</string>
+    <string name="record_item_title_remark">Afegeix un comentari</string>
+    <string name="record_item_title_send">Comparteix</string>
     <string name="record_list">Gravacions</string>
     <string name="record_list_app">Enregistraments d\'aplicacions</string>
     <string name="record_list_call">Trucades enregistrades</string>
@@ -406,6 +432,7 @@
     <string name="record_list_fm">Gravacions de FM</string>
     <string name="record_list_item_recognize_text">Text</string>
     <string name="record_mark_point">Marca %s</string>
+    <string name="record_permission_dialog_title">Es requereixen permisos de micròfon</string>
     <string name="record_quliaty_preference_title">Qualitat de gravació</string>
     <string name="record_resotre">Recupera els registres</string>
     <string name="recorder_record">Àudio</string>
@@ -438,6 +465,11 @@
     <string name="rename_no_more_tip">"No ho tornis a mostrar"</string>
     <string name="retry">Torna-ho a provar</string>
     <string name="runtime_permission_ungranted">"No es pot utilitzar la gravadora per manca de permisos"</string>
+    <string name="saf_permission_dialog_content">A causa de les restriccions d\'Android, la Gravadora necessita permís per accedir als enregistraments fets per altres aplicacions. Permeteu que la Gravadora accedeixi a aquests enregistraments per poder veure\'ls.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Configuració</string>
+    <string name="saf_permission_dialog_later">No gràcies</string>
+    <string name="saf_permission_dialog_no_more_tip">"No ho tornis a mostrar"</string>
+    <string name="saf_permission_dialog_title">Permisos necessaris</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
@@ -456,6 +488,7 @@
     <string name="search_tip_rename">Anomena les gravacions manualment</string>
     <string name="send">Envia</string>
     <string name="service_instructions">Quant a iflyrec.com</string>
+    <string name="settings_saf_permission">Permisos de gestió de fitxers</string>
     <string name="share">Comparteix</string>
     <string name="share_dialog_title">Comparteix amb</string>
     <string name="shortcut_records">Enregistraments</string>
@@ -489,9 +522,14 @@
     <string name="status_bar_back">Toqueu per tornar a la gravadora</string>
     <string name="status_bar_recording">S\'està enregistrant&#8230;</string>
     <string name="status_bar_recording_pause">Gravadora en pausa</string>
+    <string name="storage_permission_dialog_title">Es necessiten permisos d\'emmagatzematge</string>
     <string name="sunday">Diumenge</string>
     <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
+    <string name="tab_all">Tot</string>
+    <string name="tab_apps">Aplicacions</string>
+    <string name="tab_call">Trucades</string>
+    <string name="tab_fm">FM</string>
     <string name="tap_to_record">Toqueu el botó per començar a gravar</string>
     <string name="text_btn_backward_3_seconds">3 segons enrere</string>
     <string name="text_btn_complete">Atura</string>
@@ -569,6 +607,7 @@
     <string name="user_feedback">Comentaris</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
+    <string name="view_privacy">Mostra la Política de privadesa</string>
     <string name="webview_check_network">Configuració de la xarxa</string>
     <string name="webview_data_error">S\'ha produït un error</string>
     <string name="webview_locating_fail">"No s'ha pogut trobar la vostra ubicació"</string>

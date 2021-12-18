@@ -38,6 +38,7 @@
     <string name="added_category">Afegit</string>
     <string name="afternoon">Tarda</string>
     <string name="aggree_desc">Permeteu a aquesta aplicació connectar-se a Internet i atorgar els permisos obligatoris enumerats anteriorment.</string>
+    <string name="agree">D’acord</string>
     <string name="am">am</string>
     <string name="app_all_purpose">Us donem la benvinguda al Gestor de fitxers! Podeu utilitzar aquesta aplicació per gestionar els fitxers emmagatzemats al dispositiu.</string>
     <string name="app_all_purpose_pad">Benvingut a File Manager. Podeu utilitzar aquesta aplicació per gestionar els fitxers emmagatzemats al dispositiu.</string>
@@ -53,6 +54,7 @@
     <string name="app_name_miuimusic">Música</string>
     <string name="app_name_miuiringtone">To de trucada</string>
     <string name="app_name_miuiwallpaper">Fons de pantalla</string>
+    <string name="app_name_recorder">Gravadora</string>
     <string name="app_name_screenshot">Captures de pantalla</string>
     <string name="available_size">Disponible: %s</string>
     <string name="big5_summary">Codificació per defecte de Xinès tradicional de Windows</string>
@@ -100,11 +102,12 @@
     <string name="category_video">Vídeos</string>
     <string name="category_wechat">WeChat</string>
     <string name="category_zip">Fitxers</string>
-    <string name="cdd_message">"A causa de les restriccions d'Android 11, no podreu veure alguns dels fitxers generats a les aplicacions de tercers al Gestor de fitxers."</string>
+    <string name="cdd_message">"A causa de les restriccions d’Android 11, no podreu veure alguns dels fitxers generats en aplicacions de tercers al Gestor de fitxers."</string>
     <string name="cdd_title">Atenció</string>
     <string name="character_counter_content_description">Caràcters introduïts %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límit de caràcters excedit %1$d de %2$d</string>
     <string name="clean_hint">Tocar per alliberar espai</string>
+    <string name="clean_hint_pad">Neteja la brossa per alliberar espai d’emmagatzematge</string>
     <string name="clear_text_end_icon_content_description">Neteja el text</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
     <string name="click_to_switch_volume">Toqueu per canviar entre emmagatzematge intern i targeta SD</string>
@@ -203,6 +206,7 @@
     <string name="error_not_support">No compatible</string>
     <string name="error_open_file_failed_no_app_found">No s\'han pogut trobar aplicacions per obrir aquest fitxer.</string>
     <string name="evening">Tarda</string>
+    <string name="exit">Surt</string>
     <string name="expand_button_title">Avançat</string>
     <string name="exposed_dropdown_menu_content_description">Mostra el menú desplegable</string>
     <string name="extended_storage_file_can_not_open">"No es pot obrir el fitxer. Copieu el fitxer a l'emmagatzematge intern."</string>
@@ -345,6 +349,8 @@
     <string name="mirror_tip_list">Llista</string>
     <string name="mirror_tip_refresh">Actualitza</string>
     <string name="mirror_tip_show_type">Ordena per</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -359,6 +365,8 @@
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Estireu cap avall per actualitzar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualitzat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">S\'està actualitzant…</string>
@@ -445,6 +453,8 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Canvia al mode d’entrada de text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toqueu per canviar a la selecció de l\'any</string>
     <string name="name_empty">Heu d\'introduir un nom.</string>
+    <string name="need_open_content">Permet que el Gestor de fitxers accedeixi a les fotos i fitxers per utilitzar aquesta funció.</string>
+    <string name="need_open_permission">Permisos necessaris</string>
     <string name="need_read_storage_permission">"El Gestor de fitxers necessita permís per accedir a l'emmagatzematge del dispositiu per funcionar correctament."</string>
     <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
     <string name="new_folder_name">Nova carpeta</string>
@@ -456,6 +466,7 @@
     <string name="no_enough_storage_indication">"L'espai d'emmagatzematge del dispositiu està ple."</string>
     <string name="no_enough_storage_title">No hi ha prou espai d\'emmagatzematge</string>
     <string name="no_file">Buit</string>
+    <string name="no_permission">Concediu els permisos necessaris per accedir a aquesta funció</string>
     <string name="no_wifi">No hi ha xarxes Wi-Fi</string>
     <string name="noon">Migdia</string>
     <string name="not_added_category">Disponible</string>
@@ -465,6 +476,7 @@
     <string name="notif_server_starting">S\'està iniciant el servidor FTP…</string>
     <string name="notif_title">El servidor FTP està funcionant</string>
     <string name="online_not_support">"No es pot veure aquest fitxer en aquest moment."</string>
+    <string name="open_or_close_wlan">Activa i desactiva la Wi-Fi</string>
     <string name="open_private_folder">Deixa anar per a veure els arxius privats</string>
     <string name="operation_add_fav">S\'està afegint als preferits…</string>
     <string name="operation_cancel">Cancel·leu</string>
@@ -516,6 +528,7 @@
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="path_name_email">Correu</string>
     <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu al Gestor de fitxers accedir als fitxers des de la Configuració."</string>
+    <string name="permission_description">Detalls dels permisos</string>
     <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu al Gestor de fitxers accedir als fitxers des de la Configuració.​"</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Emmagatzematge</string>
@@ -536,8 +549,13 @@
     <string name="pick_folder">Selecciona una carpeta</string>
     <string name="pm">pm</string>
     <string name="port_range">El número de port ha d\'estar entre 1024 i 65535</string>
+    <string name="pref_permission_allowed">Concedit</string>
+    <string name="pref_permission_manage_key_storage">Accedir a fotos i fitxers al dispositiu</string>
+    <string name="pref_permission_not_allowed">No concedit</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
     <string name="privacy_policy">Política de privadesa</string>
+    <string name="privacy_policy_renew">Política de privadesa actualitzada</string>
+    <string name="privacy_policy_renew_content"><Data>\"S\'ha actualitzat la Política de privadesa &lt;a href=\"%1$s\"&gt; del Gestor de fitxers&lt;/a&gt; Per entendre completament els vostres drets com a usuari, així com les formes en què fem servir les vostres dades, llegiu i accepteu la nova versió de la Política de privadesa abans de continuar\".</Data></string>
     <string name="private_files">Privat</string>
     <string name="private_folder">Arxius privats</string>
     <string name="private_folder_no_file_hints">Mantingues premut un arxiu o carpeta per a fer-lo privat</string>
@@ -579,7 +597,7 @@
     <string name="save_file_to_mishare">"Desat a la carpeta de Mi Share"</string>
     <string name="search_app">Font</string>
     <string name="search_app_more">Més</string>
-    <string name="search_category">Cerca per categories</string>
+    <string name="search_category">Categories</string>
     <string name="search_category_folder">Carpetes</string>
     <string name="search_description">Cerqueu tots els fitxers del dispositiu</string>
     <string name="search_empty_view_hint">"No hi ha resultats"</string>
@@ -722,6 +740,8 @@
     <string name="title_expire_video">A punt d\'expirar</string>
     <string name="title_recent">Recent</string>
     <string name="title_select_volume">Seleccioneu la carpeta</string>
+    <string name="to_open">Configuració</string>
+    <string name="to_setting">Configuració</string>
     <string name="toast_file_not_can_read">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
@@ -760,6 +780,10 @@
     <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
     <string name="wifi_state">Estat de la Wi-Fi</string>
+    <string name="withdraw">Retira</string>
+    <string name="withdraw_consent">Retirada del consentiment</string>
+    <string name="withdraw_consent_content">"Si continueu, retirareu el vostre consentiment a la Política de privadesa del Gestor de fitxers. La informació personal que ja recopilada i conservada s’eliminarà dins del període específic d’acord amb les lleis i regulacions aplicables, tret que s’exigeix el contrari. Com que el Gestor de fitxers proporciona els seus serveis basats en la recollida de la informació personal necessària, la retirada del consentiment es considerarà una negativa a acceptar els serveis del Gestor de fitxers."</string>
+    <string name="withdraw_consent_summary">Retira el consentiment a la Política de privadesa del Gestor de fitxers</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">Sí</string>
     <string name="yesterday">Ahir</string>

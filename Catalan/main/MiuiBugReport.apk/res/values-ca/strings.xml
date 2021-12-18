@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="access_denied_info">Massa intents. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="account_bind_secure_email_title">Afegir correu de recuperació</string>
     <string name="account_bind_secure_phone_title">Afegir telèfon de recuperació</string>
     <string name="account_crop_user_avatar">Escapça la foto</string>
@@ -103,19 +104,25 @@
     <string name="catch_full_log_item_content_title">Pasos</string>
     <string name="catch_full_log_item_title_audio">Àudio, enregistrament de so i àudio de trucades</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_camera">Càmera</string>
+    <string name="catch_full_log_item_title_charge">Carregant</string>
     <string name="catch_full_log_item_title_dump_heap">Ralentització</string>
     <string name="catch_full_log_item_title_gps">Serveis de localització</string>
     <string name="catch_full_log_item_title_sensor">Sensors</string>
     <string name="catch_full_log_item_title_signal">Telèfon, senyal i xarxes mòbils</string>
+    <string name="catch_full_log_item_title_trace">Retard</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi i ShareMe</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
     <string name="catch_full_log_notification_content">Premeu per tornar als registres</string>
     <string name="catch_full_log_notification_title">S\'està generant el registre…</string>
     <string name="catch_full_log_privacy_content_audio">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir la informació sobre l'àudio del dispositiu, inclòs l'historial de reproducció i l'historial d'enregistrament. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_bt">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir informació d'ús del dispositiu Bluetooth (incloent l’historial de trucades, els missatges, els fitxers transferits, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
+    <string name="catch_full_log_privacy_content_camera">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir informació sobre l'ús de la càmera (inclosa la freqüència de la CPU, la trucada al sistema, l'ús de la memòria, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D'acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per tal de localitzar i resoldre els problemes que informeu."</string>
+    <string name="catch_full_log_privacy_content_charge">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir estadístiques de la càrrega. Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D’acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_gps">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir informació personal i informació sobre la ubicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_sensor">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir la informació recollida pels sensors del dispositiu (incloent el sensor de llum ambiental, el baròmetre, el podòmetre, el magnetòmetre, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_signal">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir missatges, historial de trucades, informació de xarxa i dades de comunicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
+    <string name="catch_full_log_privacy_content_trace">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir estadístiques d'ús de l'aplicació (incloent-hi la freqüència de la CPU, la trucada al sistema, l'ús de la memòria, etc.). Aneu amb compte i no divulgueu aquests registres a altres persones. Si toqueu \"D'acord\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, després, penjarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_wifi">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir les vostres dades personals, informació de ubicació, així com les adreces IP i MAC del vostre dispositiu. Si esteu connectat a una xarxa Wi-Fi sense xifrar, també podem accedir a parts de les vostres dades de comunicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_privacy_content_wifi_china">"Esteu generant registres i desant-los al vostre dispositiu. Els registres poden contenir les vostres dades personals, informació de ubicació, així com les adreces IP i MAC del vostre dispositiu. Si esteu connectat a una xarxa WLAN sense xifrar, també podem accedir a parts de les vostres dades de comunicació. Aneu amb compte i no divulgueu aquests registres a altres persones. Al tocar \"Accepto\" a continuació, accepteu que recopilem les dades anteriors mentre generem registres i, a continuació, carregarem els registres als nostres servidors per localitzar i resoldre els problemes que informeu."</string>
     <string name="catch_full_log_start_dump_hprof">S\'està generant el registre de ralentització</string>
@@ -153,6 +160,9 @@ Envia aquest codi al supervisor."</string>
     <string name="discard_draft_dialog_button_discard">Descarta</string>
     <string name="discard_draft_dialog_content">"Qualsevol canvi que hagueu fet en aquest document es perdrà."</string>
     <string name="discard_draft_dialog_title">Voleu descartar l\'esborrany?</string>
+    <string name="doing_login">S’està iniciant la sessió…</string>
+    <string name="doing_query_account">S’està comprovant la informació del compte…</string>
+    <string name="doing_register">S’està creant el compte…</string>
     <string name="early_morning">Matí</string>
     <string name="eras_ad">EC</string>
     <string name="eras_bc">AEC</string>
@@ -291,18 +301,15 @@ Envia aquest codi al supervisor."</string>
     <string name="feedback_tracking">Segueix els problemes</string>
     <string name="feesback_list">Informes</string>
     <string name="find_psw">He oblidat la contrasenya</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">MM/dd</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">MM/dd/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="for_diagnosis_usage_only">Els registres només són per a finalitats de diagnòstic.</string>
     <string name="friday">divendres</string>
     <string name="friday_short">dv.</string>
@@ -313,11 +320,14 @@ Envia aquest codi al supervisor."</string>
     <string name="get_phone_verifycode_exceed_limit">S\'ha enviat massa codis de verificació a aquest número. Espereu 24 hores i proveu-ho de nou.</string>
     <string name="goon_feedback_main">Continua</string>
     <string name="goto_sign_up">Crea un compte</string>
+    <string name="header_help">Ajuda</string>
     <string name="hint_feedback_main">Descriviu el problema</string>
-    <string name="i_know">D\'acord</string>
+    <string name="i_get_it">Entesos</string>
+    <string name="i_know">Entesos</string>
     <string name="identity">Identificació</string>
     <string name="inconsistent_pwd">"Les contrasenyes no coincideixen"</string>
     <string name="input_email_address_notice">"Utilitzarem aquest correu per verificar el vostre compte"</string>
+    <string name="input_length_exceeds_limit">El text que heu introduït és massa llarg</string>
     <string name="input_new_pwd">Introduïu una contrasenya nova</string>
     <string name="isornot_your_mi_account">És aquest el vostre compte Mi?</string>
     <string name="issue_search">Cercar</string>
@@ -347,6 +357,11 @@ Envia aquest codi al supervisor."</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher per a Android</string>
     <string name="loading">Un segon…</string>
     <string name="loading_apps">S\'està carregant la llista…</string>
+    <string name="login_by_local_phone_long_text">Inicia la sessió</string>
+    <string name="login_by_local_phone_short_text">Inicia la sessió</string>
+    <string name="login_other">Un altre compte Mi</string>
+    <string name="login_register_by_local_phone_long_text">Crea un compte</string>
+    <string name="login_with_sns">Altres maneres d’iniciar la sessió</string>
     <string name="logo_title">Comentaris</string>
     <string name="logout_account">Tanca sessió</string>
     <string name="menu_copy">Copia</string>
@@ -356,6 +371,9 @@ Envia aquest codi al supervisor."</string>
     <string name="mi_service_dialog_content">Totes les funcions de comentaris es van traslladar a la nova aplicació \"Serveis i comentaris\". L\'aplicació de comentaris s\'eliminarà de la Pantalla d\'Inici. Toqueu \"Obre\" per provar \"Serveis i comentaris\".</string>
     <string name="mi_service_dialog_title">Presentació de \"Serveis i comentaris;\"</string>
     <string name="midnight">Nit</string>
+    <string name="mishop_login_other">Un altre compte</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d’índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anul·la la selecció</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecciona elements</string>
@@ -364,12 +382,14 @@ Envia aquest codi al supervisor."</string>
     <string name="miuix_appcompat_confirm_description">Confirma</string>
     <string name="miuix_appcompat_delete_description">Suprimeix</string>
     <string name="miuix_appcompat_deselect_all">Anul·la la selecció</string>
-    <string name="miuix_appcompat_deselect_all_description">Desseleccioneu-ho tot</string>
+    <string name="miuix_appcompat_deselect_all_description">Desselecciona-ho tot</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancel·leu</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="miuix_appcompat_select_all">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Seleccioneu-ho tot</string>
     <string name="miuix_appcompat_select_item">Selecciona elements</string>
+    <string name="miuix_indexer_collect">Col·leccions</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -404,39 +424,39 @@ Envia aquest codi al supervisor."</string>
     <string name="module_system">Sistema</string>
     <string name="module_tools">Eines del sistema</string>
     <string name="modules">Trieu un element</string>
-    <string name="monday">dilluns</string>
-    <string name="monday_short">dl.</string>
+    <string name="monday">Dilluns</string>
+    <string name="monday_short">Dl.</string>
     <string name="monday_shortest">dl.</string>
     <string name="month_april">abril</string>
     <string name="month_april_short">abr</string>
     <string name="month_april_shortest">abr</string>
     <string name="month_august">agost</string>
     <string name="month_august_short">ago</string>
-    <string name="month_august_shortest">ago</string>
+    <string name="month_august_shortest">ag.</string>
     <string name="month_december">desembre</string>
     <string name="month_december_short">des</string>
-    <string name="month_december_shortest">des</string>
+    <string name="month_december_shortest">des.</string>
     <string name="month_february">febrer</string>
     <string name="month_february_short">feb</string>
-    <string name="month_february_shortest">feb</string>
+    <string name="month_february_shortest">febr.</string>
     <string name="month_january">gener</string>
     <string name="month_january_short">gen</string>
-    <string name="month_january_shortest">gen</string>
+    <string name="month_january_shortest">gen.</string>
     <string name="month_july">juliol</string>
     <string name="month_july_short">jul</string>
-    <string name="month_july_shortest">jul</string>
+    <string name="month_july_shortest">jul.</string>
     <string name="month_june">juny</string>
     <string name="month_june_short">jun</string>
-    <string name="month_june_shortest">jun</string>
+    <string name="month_june_shortest">juny</string>
     <string name="month_march">març</string>
     <string name="month_march_short">mar</string>
-    <string name="month_march_shortest">mar</string>
+    <string name="month_march_shortest">març</string>
     <string name="month_may">maig</string>
     <string name="month_may_short">mai</string>
-    <string name="month_may_shortest">mai</string>
+    <string name="month_may_shortest">maig</string>
     <string name="month_november">novembre</string>
     <string name="month_november_short">nov</string>
-    <string name="month_november_shortest">nov</string>
+    <string name="month_november_shortest">nov.</string>
     <string name="month_october">octubre</string>
     <string name="month_october_short">oct</string>
     <string name="month_october_shortest">oct</string>
@@ -448,6 +468,8 @@ Envia aquest codi al supervisor."</string>
     <string name="mtrl_chip_close_icon_content_description">Elimina %1$s</string>
     <string name="net_error_info">No hi ha connexió de xarxa. Prem aquí per a anar als ajustaments.</string>
     <string name="network_err">"No es pot connectar a la xarxa."</string>
+    <string name="network_error_info">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+    <string name="network_timeout_info">"No s’ha pogut connectar a la xarxa. Torneu-ho a provar."</string>
     <string name="network_unavailable_dialog_button_ok">D\'acord</string>
     <string name="network_unavailable_dialog_content">S\'enviarà l\'informe quan estigueu connectat.</string>
     <string name="network_unavailable_dialog_title">"No es pot connectar a la xarxa"</string>
@@ -460,7 +482,7 @@ Envia aquest codi al supervisor."</string>
     <string name="not_set">Sense definir</string>
     <string name="ok">D\'acord</string>
     <string name="open_feedback_main">Més</string>
-    <string name="open_settings">Vés a la configuració</string>
+    <string name="open_settings">Configuració</string>
     <string name="passport_access_denied">Accés denegat</string>
     <string name="passport_account_label">Compte Mi</string>
     <string name="passport_account_name">"Compte: %1$s "</string>
@@ -557,21 +579,38 @@ Envia aquest codi al supervisor."</string>
     <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
     <string name="phone_number">Número de telèfon</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
+    <string name="please_agree_protocal">Si us plau, accepteu el protocol</string>
     <string name="pm">p. m.</string>
     <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum MIUI"</string>
     <string name="preference_copied">\"%1$s\" s\'ha copiat al porta-retalls</string>
     <string name="privacy_category_title">Privadesa</string>
     <string name="privacy_policy_title">Política de privadesa</string>
+    <string name="privacy_policy_update_hint">"%1$s La política de privadesa s’ha actualitzat:
+%2$s
+Llegiu i accepteu la nova versió de %3$s abans de continuar."</string>
+    <string name="privacy_policy_update_title">Política de privadesa actualitzada</string>
+    <string name="progressbar_title">S’està comprovant si hi ha problemes de seguretat…</string>
+    <string name="protocal_dialog_cancel">Cancel·la</string>
+    <string name="protocal_dialog_confirm">D\'acord</string>
+    <string name="protocal_dialog_title">Atenció</string>
     <string name="psw_hint">Contrasenya</string>
     <string name="psw_sign_in">Inicia la sessió amb una contrasenya</string>
     <string name="refresh">Actualitza</string>
+    <string name="register_by_local_phone_long_text">Crea un compte</string>
+    <string name="register_by_local_phone_short_text">Crea un compte</string>
     <string name="related_question_answer_details">Problema relacionat</string>
     <string name="reply_failed">"No s'ha pogut respondre"</string>
     <string name="reply_option_log_hint">Opcional</string>
     <string name="reply_select_log_hint">Seleccioneu un registre</string>
     <string name="reply_successful">S\'ha respost correctament</string>
     <string name="report_miui">Notifica un error</string>
-    <string name="request_camera_permission_message">Aquest servei ha de demanar el vostre permís a continuació, complirem estrictament les lleis pertinents per protegir la vostra informació personal: &lt;br&gt;&lt;br&gt;&lt;b&gt; Càmera d’accés: experimenteu serveis de gravació en temps real per configurar Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Si no esteu d’acord a trucar als permisos anteriors. , aquesta funció no funcionarà correctament, però no afectarà l’ús de les funcions bàsiques d’aquesta aplicació. Podeu optar per desactivar la trucada de permís anterior a la configuració del sistema per retirar el vostre consentiment.</string>
+    <string name="request_agree">Permet</string>
+    <string name="request_camera_permission_message">"Protegim la vostra informació personal d’acord amb les lleis i regulacions pertinents. Aquesta aplicació necessita els permisos següents per funcionar amb normalitat:&lt;br&gt;&lt;br&gt;&lt;b&gt;Ús de la càmera (per configurar la foto de perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no accepteu concedir aquests permisos, no podreu utilitzar algunes funcions d’aquesta aplicació; no obstant això, la seva funcionalitat bàsica encara estarà disponible per a vostè. Sempre podeu restringir els permisos o revocar la vostra autorització a la configuració."</string>
+    <string name="request_cancel">Cancel·la</string>
+    <string name="request_error_invalid_token">"No s’ha pogut verificar"</string>
+    <string name="request_error_network">S\'ha produït un error de xarxa. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+    <string name="request_error_unknown">S’ha produït un error del sistema. Torneu enrere i torneu-ho a provar.</string>
+    <string name="request_gallery_permission_message">Permet l’accés a la Galeria:&lt;br /&gt;Per configurar les fotos de perfil</string>
     <string name="resend_active_email">Reenvieu</string>
     <string name="resend_email_reach_limit_message">"Heu demanat masses cops un correu de comprovació. Assegureu-vos que aquest email de verificació no estigui a la vostra carpeta de Spam."</string>
     <string name="resend_email_reach_limit_title">Ha hagut massa intents</string>
@@ -580,8 +619,8 @@ Envia aquest codi al supervisor."</string>
     <string name="restart_phone_bind_message">Pot trigar algun temps en rebre el SMS. Comencem de nou de tota manera?</string>
     <string name="restart_phone_bind_title">Modifica el telèfon de recuperació</string>
     <string name="same_new_and_old_pwd">"No pot ser la mateixa que la contrasenya actual"</string>
-    <string name="saturday">dissabte</string>
-    <string name="saturday_short">ds.</string>
+    <string name="saturday">Dissabte</string>
+    <string name="saturday_short">Ds.</string>
     <string name="saturday_shortest">ds.</string>
     <string name="search_menu_title">Cerca</string>
     <string name="section_description">Descripció</string>
@@ -596,6 +635,7 @@ Envia aquest codi al supervisor."</string>
     <string name="sign_in">S\'està iniciant sessió</string>
     <string name="sign_in_progress">Iniciant sessió…</string>
     <string name="sign_in_title">Inicieu sessió amb el vostre Compte Mi</string>
+    <string name="skip_query_account">Omet</string>
     <string name="sms_send_success">S\'ha enviat correctament</string>
     <string name="sns_access_token_expired_warning">La sessió ha caducat. Torna a iniciar sessió per a tornar a connectar aquest compte.</string>
     <string name="sns_bind_limit">Ha hagut massa intents. Prova altres formes d\'iniciar sessió.</string>
@@ -637,10 +677,11 @@ Envia aquest codi al supervisor."</string>
     <string name="suggest_upload_log_dialog_content">"Per ajudar els nostres enginyers a localitzar i resoldre el problema que heu trobat el més aviat possible, us recomanem que pengeu els registres relacionats. Els registres només s’utilitzen per analitzar problemes i no s’utilitzaran amb altres propòsits."</string>
     <string name="suggest_upload_log_dialog_title">Pugeu registres relacionats</string>
     <string name="suggestion_description">Escriviu aquí la descripció</string>
-    <string name="sunday">diumenge</string>
-    <string name="sunday_short">dg.</string>
+    <string name="sunday">Diumenge</string>
+    <string name="sunday_short">Dg.</string>
     <string name="sunday_shortest">dg.</string>
     <string name="system_app_select">Aplicacions integrades</string>
+    <string name="system_error_info">El sistema està ocupat. Espereu un minut o dos i torneu-ho a provar.</string>
     <string name="tab_title_chat">PMF</string>
     <string name="tab_title_my_reports">Els meus informes</string>
     <string name="tab_title_preferences">Configuració</string>
@@ -686,8 +727,8 @@ Envia aquest codi al supervisor."</string>
     <string name="the_united_nations_day">Dia de les Nacions Unides</string>
     <string name="the_valentines_day">"Sant Valentí"</string>
     <string name="the_water_lantern_festival">Festival de les llanternes d\'aigua</string>
-    <string name="thursday">dijous</string>
-    <string name="thursday_short">dj.</string>
+    <string name="thursday">Dijous</string>
+    <string name="thursday_short">Dj.</string>
     <string name="thursday_shortest">dj.</string>
     <string name="ticket_hint">Codi de verificació</string>
     <string name="ticket_invalid">El codi que heu introduït és incorrecte</string>
@@ -729,10 +770,11 @@ Envia aquest codi al supervisor."</string>
     <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
     <string name="today">Avui</string>
     <string name="tomorrow">Demà</string>
-    <string name="tuesday">dimarts</string>
-    <string name="tuesday_short">dm.</string>
-    <string name="tuesday_shortest">dm.</string>
-    <string name="update_dialog_cancel">Cancel·lar</string>
+    <string name="tuesday">Dimarts</string>
+    <string name="tuesday_short">Dt.</string>
+    <string name="tuesday_shortest">dt.</string>
+    <string name="unknown_error_info">Error desconegut</string>
+    <string name="update_dialog_cancel">Cancel·la</string>
     <string name="update_dialog_confirm">Actualitzar</string>
     <string name="update_dialog_content_log">"Què hi ha de nou:
 %1$s
@@ -744,15 +786,37 @@ Mida: %2$s"</string>
     <string name="update_phone_notice">Canvia la configuració de seguretat</string>
     <string name="upload_error_log">Carregar registre</string>
     <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
+    <string name="user_agreement_hint_3rd_app"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; i l\'&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt;del compte Mi.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; i l\'&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt; dels comptes Mi, així com els &lt;a href=\"%5$s\"&gt;Termes i condicions dels serveis de verificació de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"He llegit i acceptat l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;, i l\'&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt; dels comptes Mi, així com els &lt;a href=\"%5$s\"&gt;Termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; i l\'&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%4$s\"&gt;Política de privadesa del compte Mi&lt;/a&gt;dels comptes Mi, així com els &lt;a href=\"%5$s\"&gt;Termes i condicions dels serveis de verificació de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_agreement_hint_default"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; dels comptes Mi.\"</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa.&lt;/a&gt;</Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Politica de privadesa.&lt;/a&gt; El primer inici de sessió crearà automàticament un compte Xiaomi\"</Data></string>
+    <string name="user_agreement_hint_first_login">"Crearem un compte automàticament si feu servir el vostre número de telèfon per primera vegada."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; dels comptes Mi, així com els&lt;a href=\"%3$s\"&gt;Termes i condicions dels serveis de verificació de China Mobile&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt;dels comptes Mi, així com els &lt;a href=\"%3$s\"&gt;Termes i condicions de eSurfing serveis de verificació de compte&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>\"He llegit i accepto l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; dels comptes Mi, així com els &lt;a href=\"%3$s\"&gt;Termes i condicions de la ChinaUnicom serveis de verificació&lt;/a&gt;\".</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>\"He llegit i acceptat l\'&lt;a href=\"%1$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%2$s\"&gt;Política de privadesa&lt;/a&gt; i l\'&lt;a href=\"%3$s\"&gt;Acord d\'usuari&lt;/a&gt; i la &lt;a href=\"%4$s\"&gt;Política de privadesa&lt;/a&gt; dels comptes Mi.\"</Data></string>
     <string name="user_avatar_update_title">Canvia la foto de perfil</string>
     <string name="user_avatar_uploading">Un moment…</string>
     <string name="user_id_hint">Correu electrònic/Telèfon/ID de compte Mi</string>
+    <string name="user_must_known">Atenció</string>
+    <string name="user_must_known_content">"No podreu seguir utilitzant els nostres serveis tret que accepteu la nova versió del nostre %s. Esteu d’acord amb la Política de privadesa actualitzada?"</string>
+    <string name="user_name_phone_number">Número de telèfon</string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="v_code_title">Introdueix el codi de verificació</string>
-    <string name="wednesday">dimecres</string>
-    <string name="wednesday_short">dc.</string>
+    <string name="wednesday">Dimecres</string>
+    <string name="wednesday_short">Dc.</string>
     <string name="wednesday_shortest">dc.</string>
+    <string name="withdraw">Retira</string>
+    <string name="withdraw_consent">Retirada del consentiment</string>
+    <string name="withdraw_consent_failed">"No s'ha pogut retirar el consentiment"</string>
+    <string name="withdraw_consent_failed_hint">S’ha produït un error del servidor. Espereu un o dos minuts i torneu-ho a provar.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">El vostre dispositiu s’ha de connectar a la xarxa perquè pugueu retirar el consentiment. Comproveu la configuració de la xarxa i torneu-ho a provar.</string>
+    <string name="withdraw_consent_hint">"Si continueu, retirareu el vostre consentiment a la Política de privadesa de %1$s. La informació personal que ja s’ha recopilat i conservat s’eliminarà dins del període específic d’acord amb les lleis i regulacions aplicables, tret que s’exigeix el contrari. Com que %2$s presta els seus serveis basant-se en la recollida de la informació personal necessària, la seva retirada del consentiment es considerarà com una negativa a acceptar els serveis de %3$s. Voleu retirar el consentiment?"</string>
+    <string name="withdrawing">S’està retirant el consentiment…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Error en connectar-se al Gestor de baixades. Comproveu l\'estat del Gestor de baixades al Gestor d\'aplicacions.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
