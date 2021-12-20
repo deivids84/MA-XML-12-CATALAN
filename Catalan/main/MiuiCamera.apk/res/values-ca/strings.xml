@@ -716,7 +716,7 @@ La Gravació de telèfon dual també us permet connectar-vos a l’altre disposi
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
-    <string name="fmt_time_24hour">"HH \"en punt\""</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="fps960_toast">La captura lenta començarà a l\'últim quart de l\'enregistrament</string>
     <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="friday">Divendres</string>

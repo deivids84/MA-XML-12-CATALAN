@@ -114,15 +114,7 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
-    <string name="fmt_time_24hour">"HH \"en punt\""</string>
-    <string name="fmt_weekday_date_time">W, DT</string>
-    <string name="fmt_weekday_date_time_timezone">W, DT z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">WT</string>
-    <string name="fmt_weekday_time_timezone">WT z</string>
-    <string name="fmt_weekday_timezone">W z</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="four_note">La prova trigarà uns 3 minuts a completar-se.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Divendres</string>

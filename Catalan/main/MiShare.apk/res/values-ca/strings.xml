@@ -51,6 +51,8 @@
     <string name="confirm_cancel_task_files">Voleu cancel·lar l\'enviament de fitxers a %1$s?</string>
     <string name="confirm_cancel_task_images">Voleu cancel·lar l\'enviament d\'imatges a %1$s?</string>
     <string name="copy">Copia</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Per transferir fitxers mitjançant Bluetooth i Wi-Fi</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Per enviar i rebre fitxers</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
     <string name="date_time_picker_dialog_title">Estableix la data i l’hora</string>
     <string name="default_device_name">Dispositiu desconegut</string>
@@ -109,16 +111,21 @@
     <string name="file_sending">S\'està transferint els fitxers…</string>
     <string name="file_transfer_progress">Progrés: %1$d%%</string>
     <string name="file_transfer_progress_title">Progrés</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
     <string name="functions_are_being_developed">Aquesta funció estarà disponible en breu. Estigueu atents!</string>
+    <string name="global_pad">La meva tauleta</string>
+    <string name="global_pc">El meu portàtil</string>
+    <string name="global_phone">El meu telèfon</string>
     <string name="go_to_settings">Ajustaments</string>
     <string name="guide_summary_1">L’altra persona pot tocar l\'interruptor a la Barra de notificacions</string>
     <string name="guide_summary_2">"Seleccioneu el dispositiu al qual voleu enviar articles i toqueu-ne la icona"</string>
@@ -131,6 +138,7 @@
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Entesos</string>
     <string name="location_enabled">Mi Share ha activat els serveis d\'ubicació per trobar dispositius propers</string>
+    <string name="menu_item_permission_title">Detalls dels permisos</string>
     <string name="menu_item_privacy_title">Política de privadesa</string>
     <string name="mi_drop">Mi Share</string>
     <string name="midnight">Nit</string>
@@ -142,6 +150,8 @@ Aquesta funció és compatible amb OPPO, vivo, realme i altres fabricants de tel
     <string name="mishare_state_protection_summary">Torna a activar Mi Share automàticament quan el Bluetooth o el wifi tornin a estar encesos</string>
     <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
     <string name="mishare_transefer_channel_desc">Notificacions sobre els elements enviats i rebuts per Mi Share</string>
+    <string name="miuix_access_state_desc">Seleccionat</string>
+    <string name="miuix_alphabet_indexer_name">Barra d\'índex</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desselecciona</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccioneu els elements</string>
@@ -156,6 +166,7 @@ Aquesta funció és compatible amb OPPO, vivo, realme i altres fabricants de tel
     <string name="miuix_appcompat_select_all">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_all_description">Selecciona-ho tot</string>
     <string name="miuix_appcompat_select_item">Seleccioneu els elements</string>
+    <string name="miuix_indexer_selected">Seleccionat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira cap avall per a refrescar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">S\'ha refrescat correctament</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refrescant…</string>
@@ -214,6 +225,7 @@ Aquesta funció és compatible amb OPPO, vivo, realme i altres fabricants de tel
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="operate_too_fast">Massa ràpid! Espereu fins que es completin les operacions en curs.</string>
+    <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pc_device_model_name">Ordinador</string>
     <string name="permission_denied_hint">Concediu els permisos necessaris per poder utilitzar Mi Share</string>
     <string name="pm">PM</string>
@@ -337,7 +349,7 @@ Abans d'utilitzar Mi Share, heu de concedir els permisos següents, i també per
     <string name="tomorrow">Demà</string>
     <string name="transfer_intercept_to_remote">"No s'ha pogut enviar: %1$s"</string>
     <string name="transfer_to_pc_summary">"L'última versió del software AIoT instal·lada en Mi Notebooks és compatible amb Mi Share. Pots comprovar la llista de models de portàtil compatibles al lloc web de MIUI. Si el teu portàtil és en la llista, però no tens AIoT instal·lat, actualitza la BIOS i els controladors de l'adaptador de xarxa del teu portàtil, i descarrega AIoT."</string>
-    <string name="transfer_to_pc_summary_new"><Data>\"L\'última versió de MIUI + instal·lada a Mi Notebooks és compatible amb Mi Share. Podeu consultar la llista de models de portàtils compatibles al lloc web MIUI + (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si el vostre portàtil apareix a la llista, però MIUI + no està instal·lat actualitzeu el controlador de la BIOS i l\'adaptador de xarxa del vostre portàtil i descarregueu MIUI +. \"</Data></string>
+    <string name="transfer_to_pc_summary_new"><Data>\"L\'última versió de MIUI+ instal·lada als Mi Notebooks és compatible amb Mi Share. Podeu consultar la llista de models de portàtils compatibles al lloc web de MIUI+ (&lt;a href=%1$s&gt;%2$s&lt;/a&gt;). Si el vostre ordinador portàtil és a la llista, però MIUI+ no està instal·lat en ell, actualitzeu la BIOS del vostre ordinador portàtil i el controlador de l\'adaptador de xarxa i descarregueu MIUI+\".</Data></string>
     <string name="transfer_to_pc_title">Enviar fitxers a ordinadors</string>
     <string name="transfer_to_phone_summary">"Activa Mi Share amb el botó del teló de notificacions. Després d'això, podràs veure els dispositius que hi ha a prop quan comencis a compartir una foto o un arxiu. Prem el dispositiu del destinatari per a enviar l'element que estàs compartint."</string>
     <string name="transfer_to_phone_title">Enviar fitxers a telèfons</string>

@@ -28,15 +28,29 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="back_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part posterior del dispositiu</string>
+    <string name="bottom_high_speaker_title">Prova de tweeter inferior</string>
+    <string name="bottom_low_speaker_title">Prova de woofer inferior</string>
+    <string name="bottom_right_low_speaker">Prova de woofer inferior dreta</string>
+    <string name="cit_accdata_second_sensor_check_title">Segon acceleròmetre</string>
+    <string name="cit_accelermeter_second_cali_title">Segona prova de calibratge del sensor d\'acceleració</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mou el dispositiu ràpidament en una direcció. A continuació es mostren els valors de les coordenades X ， Y ， Z. (quan el dispositiu està en moviment: X representa l'esquerra / la dreta, y representa la part davantera / posterior, la z representa cap amunt i cap avall).
 Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Prova de retroalimentació del micròfon principal al receptor.
 
 Mantingueu el dispositiu com si feu una trucada, parleu amb el micròfon principal; hauríeu d'escoltar la veu del receptor"</string>
+    <string name="cit_batterylight_rgb_all">Tots els efectes de llum</string>
     <string name="cit_calibration_finish">S\'ha completat l\'escriptura de dades de calibració</string>
     <string name="cit_camera_otp_download_title">Prova de descàrrega OTP de la càmera</string>
     <string name="cit_charger_test_tips_pd">El dispositiu actual ha de provar USB_PD</string>
-    <string name="cit_external_keyboard_test_get_sn">Feu clic per obtenir el número de sèrie SN del teclat extern (manteniu el teclat i el dispositiu connectats)</string>
+    <string name="cit_cust_img_version">Consulta la informació de la versió cust</string>
+    <string name="cit_dial_emergencycall">Marca 112</string>
+    <string name="cit_emergencycall_check_summary">Feu clic al botó Marca 112 per marcar el 112 per comprovar si es pot col·locar el 112.</string>
+    <string name="cit_emergencycall_check_title">Trucada d\'emergència</string>
+    <string name="cit_front_camera_motor_cali_fail">Ha fallat el calibratge del motor</string>
+    <string name="cit_front_camera_motor_cali_success">Èxit del calibratge del motor</string>
+    <string name="cit_front_camera_motor_cali_tips">No bloquegeu la càmera durant el procés de calibratge del motor de la càmera emergent</string>
+    <string name="cit_gyrodata_second_sensor_check_title">Segon giroscopi</string>
+    <string name="cit_gyroscope_second_cali_title">Segona prova de calibratge del sensor de giroscopi</string>
     <string name="cit_light_sensor_check_summary">El valor DAC hauria d\'aparèixer a continuació; proveu el sensor de llum</string>
     <string name="cit_nfc_check_summary">"Feu clic al botó per iniciar NFC i, a continuació, poseu la targeta a la part superior de la part posterior del dispositiu. 
 No apagueu la pantalla durant la prova"</string>
@@ -64,8 +78,22 @@ feu clic al botó per canviar el mode tàctil al mode THP o FW"</string>
     <string name="cit_uwb_calibrate_summary">Aquesta prova està dedicada als enginyers de manteniment. Utilitzeu-la amb precaució</string>
     <string name="cit_uwb_calibrate_title">Prova de calibratge UWB</string>
     <string name="cit_wifi_address_check_summary">A continuació es mostra l’adreça de la xarxa Wi-Fi a la qual el dispositiu està connectat actualment. Confirmeu que la informació ressaltada en verd és correcta.</string>
+    <string name="close_third_color_led">tanca tres colors led</string>
+    <string name="fod_check_start_error">"No es pot iniciar el programa de comprovació del sensor
+prova ha fallat!"</string>
+    <string name="fod_check_summary">"Instruccions de prova:
+prova automàtica basada en el tipus de sensor
+Base el botó passi o falli el botó de clic del resultat de la prova"</string>
     <string name="front_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part frontal del dispositiu</string>
     <string name="main_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part principal del dispositiu</string>
+    <string name="motor_calibration">Calibratge del motor</string>
+    <string name="open_third_color_led">obre tres colors led</string>
+    <string name="pop_camera">Càmera pop</string>
+    <string name="pop_push_camera_test_summary">"Feu clic al botó Pop Camera per veure si la càmera surt
+feu clic al botó premeu per veure si entra la càmera"</string>
+    <string name="pop_push_camera_test_title">Prova de càmera pop i push</string>
+    <string name="push_camera">Càmera push</string>
+    <string name="sar_sensor_collect_data_self_cali">Auto calibratge</string>
     <string name="sar_sensor_collect_test_summary">"Gireu el dispositiu i poseu-lo al dispositiu
 Feu clic al botó Inicia l'adquisició de dades
 Controleu l'aparell a prop i allunyat del dispositiu"</string>
@@ -77,5 +105,7 @@ Després de calibrar l'èxit, controleu l'aparell a prop i allunyat del disposit
     <string name="search_menu_title">Cerca</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tips_not_placed_right_angle">El dispositiu no està situat en angle recte</string>
+    <string name="top_high_speaker_title">Prova de tweeter superior</string>
+    <string name="top_low_speaker_title">Prova de woofer superior</string>
     <string name="top_mic_check_record_tip">Enregistrant, digueu alguna cosa a MIC a la part superior del dispositiu</string>
 </resources>

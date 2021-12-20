@@ -124,6 +124,8 @@
     <string name="auto_sound_quality">Automàtica</string>
     <string name="auto_update">Actualitzeu automàticament</string>
     <string name="auto_update_tip">Podeu actualitzar les aplicacions del sistema usant dades mòbils. Això podria ocasionar despeses addicionals.</string>
+    <string name="autoplay_is_off">La reproducció automàtica està desactivada</string>
+    <string name="autoplay_is_on">La reproducció automàtica està activada</string>
     <string name="available_playlist_name_format">Nova llista de reproducció %d</string>
     <string name="avoid_to_use_traffic_summary">"No utilitzis les dades mòbils per reproduir música"</string>
     <string name="avoid_to_use_traffic_title">Pregunta quan utilitzi dades mòbils per reproduir cançons</string>
@@ -861,6 +863,13 @@
     <string name="nowplaying_circle_style_wave">Ona</string>
     <string name="nowplaying_dialog_title_delete_tracks">Voleu Suprimir aquesta cançó de la llista de reproducció?</string>
     <string name="nowplaying_menu_item_delete">Suprimeix de la llista de reproducció</string>
+    <string name="offline_notification_text">Toqueu per obrir l\'anunci</string>
+    <string name="offline_notification_title">Mireu l\'anunci que heu desat sense connexió</string>
+    <string name="offline_opt_in_confirm">D\'acord</string>
+    <string name="offline_opt_in_confirmation">"Rebreu una notificació amb l'enllaç quan torneu a tenir connexió"</string>
+    <string name="offline_opt_in_decline">No gràcies</string>
+    <string name="offline_opt_in_message">"Us enviarem una notificació amb un enllaç al lloc de l'anunciant."</string>
+    <string name="offline_opt_in_title">"Obre l'anunci quan tornis a estar en línia."</string>
     <string name="ok">D\'acord</string>
     <string name="online_apk_acquired">Carregat %d%%</string>
     <string name="online_apk_acquiring">Carregant… %d%%</string>

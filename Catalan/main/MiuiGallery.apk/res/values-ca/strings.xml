@@ -185,6 +185,7 @@
     <string name="album_sort_type_name_desc">De la zeta a l\'a</string>
     <string name="album_tab_page_switch_view_style_to_grid">Vista en mosaic</string>
     <string name="album_tab_page_switch_view_style_to_linear">Vista en llista</string>
+    <string name="album_tab_tool_tips">%s MB</string>
     <string name="album_type_baby">Àlbum de nadó</string>
     <string name="album_type_share">Àlbums compartits</string>
     <string name="album_type_system">Àlbums del sistema</string>
@@ -631,6 +632,9 @@
     <string name="double_tap_for_hr_preview_108m">Toqueu de nou una altra vegada per canviar a la vista prèvia de 108MP</string>
     <string name="double_tap_to_higher_definition">Prem dues vegades un altre cop per a obrir la vista prèvia en HD</string>
     <string name="download_canceled">Baixada cancel·lada</string>
+    <string name="download_delete_error_desc">"No es pot restaurar aquest element perquè l'heu suprimit d'aquest dispositiu i del núvol. Voleu suprimir el fitxer buit?"</string>
+    <string name="download_delete_error_positive">Suprimeix</string>
+    <string name="download_delete_error_title">Falta l\'element</string>
     <string name="download_error_format">"No s'ha pogut baixar %s"</string>
     <string name="download_error_tip">. S\'han interromput les baixades.</string>
     <string name="download_retry_message">"No s'han pogut baixar els fitxers. Comproveu la connexió de xarxa i proveu-ho de nou"</string>
@@ -984,20 +988,20 @@ disponibles"</string>
     <string name="first_time_add_video_to_secret_tips">Actualitza la galeria per a poder afegir vídeos a l\'àlbum privat</string>
     <string name="flash_off">Sense flaix</string>
     <string name="flash_on">Amb flash</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd MMM</string>
-    <string name="fmt_date_short_year_month_day">dd MMM yyyy</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="frame_color_selector_talkback_hide">Amaga el selector de colors</string>
     <string name="frame_color_selector_talkback_show">Mostra el selector de colors</string>
@@ -1031,6 +1035,7 @@ disponibles"</string>
     <string name="grant_permission_unlock_and_set_2">Descobrir</string>
     <string name="grant_permission_write_clipboard">Per poder copiar elements, permeteu a aquesta aplicació que desi elements al porta-retalls.</string>
     <string name="group_header_title_immutable_album">Organitza les fotos</string>
+    <string name="group_header_title_media_group">Tipus de mitjans</string>
     <string name="group_header_title_third_album">Més àlbums</string>
     <string name="group_header_title_user_create_album">Els meus àlbums</string>
     <string name="has_invalid_recipient">Destinataris no vàlids: %1$s</string>
@@ -1046,7 +1051,7 @@ disponibles"</string>
     <string name="home_menu_cleaner">Allibera espai</string>
     <string name="home_menu_collage">Collage</string>
     <string name="home_menu_macarons">Vinyeta màgica</string>
-    <string name="home_menu_magic_matting">Màgia</string>
+    <string name="home_menu_magic_matting">Retall</string>
     <string name="home_menu_photo_movie">Clip</string>
     <string name="home_menu_print">Imprimeix fotos</string>
     <string name="home_menu_video_post">Efectes de vídeo</string>
@@ -1095,7 +1100,7 @@ disponibles"</string>
     <string name="image_with_time">Foto presa el %s</string>
     <string name="image_with_time_and_location">Foto presa el %1$s. Ubicació: %2$s.</string>
     <string name="impunity_declaration_settings">Notificació de connexió a Internet</string>
-    <string name="impunity_declaration_summary">Mostra una notificació de connexió a Internet cada vegada que s\'obre l\'aplicació Galeria</string>
+    <string name="impunity_declaration_summary">Mostra la notificació de connexió a Internet la pròxima vegada que obriu la Galeria</string>
     <string name="initializing_cloud">S\'està inicialitzant…</string>
     <string name="input_a_name">Introduïu el nom</string>
     <string name="input_baby_name">Introduïu el nom</string>
@@ -1191,7 +1196,7 @@ disponibles"</string>
     <string name="magic_eraser">Goma d\'esborrar</string>
     <string name="magic_error_adding_filter">"No s'ha pogut aplicar el filtre"</string>
     <string name="magic_exporting">S\'està desant…</string>
-    <string name="magic_filter">Màgia</string>
+    <string name="magic_filter">Retall</string>
     <string name="magic_filter_dsc">Creeu retrats amb fons impressionants</string>
     <string name="magic_galery">Galeria</string>
     <string name="magic_hight">Alçada</string>
@@ -1214,12 +1219,12 @@ disponibles"</string>
     <string name="magic_matting_download_failed_for_notwork">"No s'ha pogut baixar. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Sembla que el dispositiu no està connectat a Wi-Fi. Voleu baixar el connector mitjançant dades mòbils?"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembla que el dispositiu no està connectat a WLAN. Voleu baixar el connector mitjançant dades mòbils?"</string>
-    <string name="magic_matting_download_sdk_without_wifi_title">Baixeu el connector \"Màgic\"</string>
+    <string name="magic_matting_download_sdk_without_wifi_title">Baixa el connector \"Retall\"</string>
     <string name="magic_matting_error_px">"Aquesta mida de la imatge no és compatible"</string>
     <string name="magic_matting_face_fail">"No s'ha pogut processar la cara"</string>
     <string name="magic_matting_load_data_fail">"No s'han pogut carregar les dades"</string>
-    <string name="magic_matting_module_finish">S\'ha baixat el connector \"Màgic\" amb èxit</string>
-    <string name="magic_matting_module_loading">S\'està baixant el connector \"Màgic\"…</string>
+    <string name="magic_matting_module_finish">S\'ha baixat el connector \"Retall\" correctament</string>
+    <string name="magic_matting_module_loading">S\'està baixant el connector \"Retall\"…</string>
     <string name="magic_max_px">Aquesta imatge és massa gran</string>
     <string name="magic_mix_px">La imatge és massa petita</string>
     <string name="magic_more_fact">Sembla que hi ha diverses persones en aquesta foto</string>
@@ -1272,6 +1277,7 @@ disponibles"</string>
     <string name="map_guide_message">Mostra les fotos i els vídeos al mapa</string>
     <string name="map_location">Mou a la ubicació actual</string>
     <string name="map_positioning_failed_tip">"No es pot obtenir la informació d’ubicació a causa d’un senyal feble"</string>
+    <string name="map_privacy_dialog_content"><Data>Aquest servei us permet veure fotos i vídeos amb informació d\'ubicació en un mapa. Utilitzem Baidu Map Open SDK per oferir-vos aquest servei. Llegiu i accepteu la &lt;a href=\"%1$s\"&gt;Declaració d\'ús compartit de dades de tercers del mapa de la Galeria&lt;/a&gt; abans de continuar.</Data></string>
     <string name="map_privacy_dialog_message"><Data>Aquest servei us permet veure fotos i vídeos amb informació d’ubicació en un mapa. Utilitzem Baidu Map Open SDK per oferir-vos aquest servei. Llegiu la &lt;a href=\"%1$s\"&gt;Política de privadesa de Baidu Map per a productes i serveis de plataforma oberta&lt;/a&gt; per obtenir més informació.</Data></string>
     <string name="map_privacy_dialog_title">Mapa de la galeria</string>
     <string name="map_privacy_policy">Política de privadesa del mapa de la galeria</string>
@@ -1284,6 +1290,18 @@ per personalitzar Galeria"</string>
     <string name="mark_operation_processing">S\'està processant…</string>
     <string name="mark_operation_succeeded">Afegit correctament</string>
     <string name="mark_people_ignore_info_message">Prem i manté fotos de persones per afegir-les als grups</string>
+    <string name="media_type_burst_photo">Explosió</string>
+    <string name="media_type_clone_photo">Clons</string>
+    <string name="media_type_doc_photo">Documents</string>
+    <string name="media_type_fast_motion_video">Càmera ràpida</string>
+    <string name="media_type_front_photo">Retrats</string>
+    <string name="media_type_gif">GIF</string>
+    <string name="media_type_live_vv">Vlog</string>
+    <string name="media_type_motion_photo">Dinàmica</string>
+    <string name="media_type_pano_photo">Panoràmiques</string>
+    <string name="media_type_portrait_photo">Retrat</string>
+    <string name="media_type_raw">RAW</string>
+    <string name="media_type_slow_motion_video">Càmera lenta</string>
     <string name="member_menu_vipname_free">De franc</string>
     <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
@@ -1841,6 +1859,7 @@ per personalitzar Galeria"</string>
     <string name="privacy_map">Mapa de la galeria</string>
     <string name="privacy_map_detail"><Data>Aquest servei us permet veure fotos i vídeos amb informació d\'ubicació en un mapa. Utilitzem Baidu Map Open SDK per oferir-vos aquest servei. Llegiu i accepteu &lt;a href=\"%1$s\"&gt;la Política de privadesa de Baidu Map per als productes i serveis de la plataforma oberta&lt;/a&gt; abans de continuar.</Data></string>
     <string name="privacy_map_detail_content">Política de privadesa de Baidu Map per a productes i serveis de plataforma oberta</string>
+    <string name="privacy_map_detail_content_new">Declaració d\'ús compartit de dades de tercers del mapa de la Galeria</string>
     <string name="privacy_permission">Permisos</string>
     <string name="privacy_permission_account">Comptes</string>
     <string name="privacy_permission_account_detail">Per iniciar la sessió i sincronitzar elements amb el núvol</string>
@@ -1863,9 +1882,12 @@ per personalitzar Galeria"</string>
     <string name="privacy_permission_shotcut_detail">Per crear dreceres a la pantalla d\'inici</string>
     <string name="privacy_permission_storage">Emmagatzematge</string>
     <string name="privacy_permission_storage_detail">Per emmagatzemar fotos i vídeos</string>
+    <string name="privacy_reject_map_detail_new"><Data>\"La vostra retirada del consentiment a la &lt;a href=\"%1$s\"&gt;Declaració d\'ús compartit de dades de tercers del mapa de la Galeria&lt;/a&gt; es considerarà que no accepteu els serveis del Mapa de la Galeria. Encara podreu utilitzar altres funcions de la galeria amb normalitat. Voleu retirar el consentiment?\"</Data></string>
     <string name="privacy_rejected">Retirada del consentiment</string>
     <string name="privacy_rejected_map">Retirar el consentiment a la Política de privadesa del Mapa de la Galeria</string>
     <string name="privacy_rejected_map_detail">"La retirada del consentiment a la Política de privadesa del Mapa de la Galeria es considerarà com una negativa a acceptar els seus serveis. Altres funcions i serveis bàsics de la Galeria no es veuran afectats. Voleu retirar-lo de totes maneres?"</string>
+    <string name="privacy_rejected_map_new">Retirada del consentiment a la declaració d\'ús compartit de dades de tercers del mapa de la Galeria</string>
+    <string name="privacy_rejected_pos_btn">Retira</string>
     <string name="private_entry_lock_state_activated_text">Deixa anar per a obrir la carpeta privada</string>
     <string name="private_entry_lock_state_enterd_text">Llisqueu cap avall per a obrir la carpeta privada</string>
     <string name="problem_feedback">Comentaris</string>

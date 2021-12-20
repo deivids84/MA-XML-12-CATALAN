@@ -104,9 +104,25 @@
         <item quantity="other">%d WLAN networks</item>
         <item quantity="one">%d WLAN network</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s hores</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minuts</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s segons</item>
+        <item quantity="one">%s segon</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Torneu a provar-ho d\'aquí %d segons</item>
         <item quantity="one">Torneu a provar-ho d\'aquí %d segon</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">"No s'han pogut sincronitzar %s elements"</item>
+        <item quantity="one">"No s'ha pogut sincronitzar %s element"</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>

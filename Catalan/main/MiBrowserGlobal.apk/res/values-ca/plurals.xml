@@ -125,12 +125,12 @@
         <item quantity="one">%d element sel·leccionat</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Últims %d dies</item>
-        <item quantity="one">Últim %d dia</item>
+        <item quantity="other">%d darrers dies</item>
+        <item quantity="one">Últim dia %d</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">%d coincidència</item>
+        <item quantity="one">%d partit</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">Després de %d segons es crearà automàticament una pàgina nova</item>

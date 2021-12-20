@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Afegeix frases freqüents</string>
+    <string name="call">Cridar</string>
+    <string name="edit_frequent_phrases">Edita frases freqüents</string>
+    <string name="floating_toolbar_close_overflow_description">Tanca el desbordament</string>
+    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
+    <string name="floating_toolbar_open_overflow_description">Més opcions</string>
+    <string name="frequent_phrases">Frases freqüents</string>
+    <string name="open">Fullejar</string>
+    <string name="query">Consulta</string>
+    <string name="select">Seleccionar</string>
+    <string name="translate">Traduir</string>
+    <string name="translation_more">Més</string>
+    <string name="translation_query_error">"No s'han pogut trobar els resultats"</string>
+    <string name="translation_query_error_network">"No s'ha pogut obtenir informació, s'ha de comprovar la connexió de xarxa i torneu-ho a provar"</string>
+</resources>

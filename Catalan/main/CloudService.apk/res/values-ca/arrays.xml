@@ -56,6 +56,11 @@
         <item>Per identificar el teu dispositiu</item>
         <item>Per localitzar el dispositiu i canviar al mode perdut</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Per localitzar el dispositiu i canviar al mode perdut</item>
+        <item>"Per localitzar aquest dispositiu quan no està connectat a Internet"</item>
+        <item>"Per accedir al número de telèfon per localitzar aquest dispositiu quan no està connectat a Internet"</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Per sincronitzar esdeveniments</item>
         <item>Per sincronitzar missatges</item>
@@ -63,6 +68,14 @@
         <item>Per sincronitzar contactes</item>
         <item>Per sincronitzar contactes</item>
         <item>Per desar elements al dispositiu (per exemple, imatges, vídeos, cançons)</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Accedeix a esdeveniments del calendari</item>
+        <item>Envia SMS</item>
+        <item>Llegeix l\'MMS</item>
+        <item>Accedeix als contactes</item>
+        <item>Editar i suprimir contactes</item>
+        <item>Accedir a fotos i fitxers del dispositiu</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Còpies de seguretat</item>

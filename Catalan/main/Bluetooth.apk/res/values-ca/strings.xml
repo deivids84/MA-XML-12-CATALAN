@@ -219,10 +219,10 @@
     <string name="pbap_notification_group">Compartir contactes amb Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Es necessita la clau de sessió Bluetooth</string>
     <string name="pbap_session_key_dialog_title">Introduïu la clau de sessió per a %1$s</string>
+    <string name="permdesc_bluetoothAcceptlist">Permet que l\'aplicació accepti temporalment un dispositiu Bluetooth, permetent que aquest dispositiu enviï fitxers a aquest dispositiu sense confirmació de l\'usuari.</string>
     <string name="permdesc_bluetoothShareManager">Permet que l\'aplicació accedeixi al gestor d\'ús compartit de Bluetooth i que l\'utilitzi per transferir fitxers.</string>
-    <string name="permdesc_bluetoothWhitelist">Permet que l\'aplicació col·loqui temporalment en una llista blanca un dispositiu Bluetooth, cosa que permet que el dispositiu enviï fitxers a aquest dispositiu sense la confirmació de l\'usuari.</string>
+    <string name="permlab_bluetoothAcceptlist">Acceptació de l\'accés al dispositiu bluetooth.</string>
     <string name="permlab_bluetoothShareManager">Accediu al gestor de baixades.</string>
-    <string name="permlab_bluetoothWhitelist">Accés al dispositiu Bluetooth en llista blanca.</string>
     <string name="pm">PM</string>
     <string name="saturday">Dissabte</string>
     <string name="saturday_short">Ds.</string>
@@ -235,7 +235,7 @@
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
-    <string name="snapdragon_sound_notification_content">Aquest dispositiu admet la tecnologia Qualcomm® Snapdragon Sound™</string>
+    <string name="snapdragon_sound_notification_content">Aquest dispositiu és compatible amb la tecnologia ™ Snapdragon Sound.</string>
     <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="start_server">Inicia el servidor TCP</string>
     <string name="status_bar_notification_info_overflow">999+</string>

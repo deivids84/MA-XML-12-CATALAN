@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_call">Truca a %s</string>
-    <string name="action_text">Envia un missatge a %s</string>
+    <string name="action_call">Truca %s</string>
+    <string name="action_text">%sde text</string>
     <string name="app_name">Etiquetes</string>
     <string name="button_done">Fet</string>
-    <string name="call_phone_permission_denied">Aquesta aplicació necessita accedir al permís del Telèfon per poder realitzar trucades. Podeu gestionar el permís de l\'etiqueta a Configuració</string>
-    <string name="empty_tag_prompt">Aquesta etiqueta és buida.</string>
-    <string name="external_storage_permission_denied">Aquesta aplicació necessita accedir al permís d\'Emmagatzematge extern per poder accedir als fitxers. Podeu gestionar el permís de l\'etiqueta a Configuració</string>
+    <string name="call_phone_permission_denied">Aquesta aplicació ha d\'accedir al permís telefònic per poder fer trucades. Podeu administrar el permís d\'etiqueta a Configuració</string>
+    <string name="empty_tag_prompt">Aquesta etiqueta està buida.</string>
+    <string name="external_storage_permission_denied">Aquesta aplicació ha d\'accedir al permís d\'emmagatzematge extern per accedir als fitxers. Podeu administrar el permís d\'etiqueta a Configuració</string>
     <string name="import_vcard">Importa ^1</string>
     <string name="mime_display_name">Dades de l\'etiqueta NFC</string>
     <string name="tag_empty">Etiqueta buida</string>
     <string name="tag_unknown">Tipus d\'etiqueta desconegut</string>
     <string name="title_existing_tag">Etiqueta</string>
-    <string name="title_scanned_tag">S\'ha arreplegat una etiqueta nova</string>
-    <string name="vcard_title">Informació de contacte per a ^1</string>
+    <string name="title_scanned_tag">S\'ha recollit una etiqueta nova</string>
+    <string name="vcard_title">Informació de contacte de ^1</string>
 </resources>

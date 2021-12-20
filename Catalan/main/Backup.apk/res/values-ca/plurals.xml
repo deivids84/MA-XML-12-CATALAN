@@ -37,8 +37,8 @@
         <item quantity="one">Fa 1 min</item>
     </plurals>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d fitxers de dades d\'aplicació</item>
-        <item quantity="one">%d fitxer de dades d\'aplicació</item>
+        <item quantity="other">%d fitxers de dades de l\'aplicació</item>
+        <item quantity="one">%d fitxer de dades de l\'aplicació</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
         <item quantity="other">%d fitxers de dades del sistema</item>
@@ -89,12 +89,12 @@
         <item quantity="one">%d element seleccionat</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"Copiat correctament. No s'han pogut copiar %d elements."</item>
-        <item quantity="one">"Copiat correctament. No s'ha pogut copiar %d element."</item>
+        <item quantity="other">"S'ha fet la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d elements."</item>
+        <item quantity="one">"S'ha fet la còpia de seguretat correctament. No s'ha pogut fer la còpia de seguretat de %d element."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">"Restaurat correctament. No s'han pogut restaurar %d elements."</item>
-        <item quantity="one">"Restaurat correctament. No s'ha pogut restaurar %d element."</item>
+        <item quantity="other">"S'ha restaurat correctament. No s'han pogut restaurar %d elements."</item>
+        <item quantity="one">"S'ha restaurat correctament. No s'ha pogut restaurar %d element."</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>
@@ -129,12 +129,12 @@
         <item quantity="one">%d element,</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">"No s'han pogut transferir els elements %d. Toqueu per veure més detalls."</item>
-        <item quantity="one">"No s'ha pogut transferir l'element %d. Toqueu per veure més detalls."</item>
+        <item quantity="other">"No s'han pogut transferir %d elements. Toqueu per veure els detalls."</item>
+        <item quantity="one">"No s'ha pogut transferir %d element. Toqueu per veure els detalls."</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
-        <item quantity="other">"No s'han pogut transferir els elements %d."</item>
-        <item quantity="one">"No s'ha pogut transferir l'element %d."</item>
+        <item quantity="other">"No s'han pogut transferir %d elements."</item>
+        <item quantity="one">"No s'ha pogut transferir %d element."</item>
     </plurals>
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d hores</item>

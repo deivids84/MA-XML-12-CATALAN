@@ -24,6 +24,10 @@
         <item quantity="other">Amortització detallada (%d anys), CNY</item>
         <item quantity="one">Amortització detallada (%d any), CNY</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d \'element seleccionat</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d anys (%2$d mesos)</item>
         <item quantity="one">%1$d any (%2$d mesos)</item>

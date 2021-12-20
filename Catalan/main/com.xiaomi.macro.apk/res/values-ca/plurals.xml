@@ -2,10 +2,10 @@
 <resources>
     <plurals name="gb_game_macro_action_unit_count">
         <item quantity="other">%d vegades</item>
-        <item quantity="one">%d vegada</item>
+        <item quantity="one">%d temps</item>
     </plurals>
     <plurals name="gb_game_macro_action_unit_seconds">
-        <item quantity="other">%d seg</item>
+        <item quantity="other">%d segs</item>
         <item quantity="one">%d seg</item>
     </plurals>
 </resources>

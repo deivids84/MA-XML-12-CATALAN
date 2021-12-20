@@ -96,6 +96,7 @@
     <string name="city_exceeded_warning">"No es poden afegir més ciutats. Per afegir-ne una, elimineu primer una ciutat que ja es troba a la llista."</string>
     <string name="clear_net_mock_success">S\'ha esborrat la xarxa simulada correctament</string>
     <string name="clearable_edittext_clear_description">Neteja</string>
+    <string name="close">Tanca</string>
     <string name="common_google_play_services_enable_button">Habilita</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionarà tret que activeu els serveis de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
@@ -132,6 +133,7 @@
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="data_provided_by">Dades subministrades parcialment per</string>
     <string name="date_picker_lunar">Calendari tradicional xinès</string>
+    <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
     <string name="dialog_internet_error_title">Hi ha hagut un error</string>
     <string name="dialog_msg_score_midrop">Com et sents del clima?</string>
     <string name="dialog_msg_score_not_good">També ens podríeu proporcionar els vostres comentaris?</string>
@@ -193,12 +195,14 @@
     <string name="feedback_sandy">Sorra</string>
     <string name="feedback_sunny">Serè</string>
     <string name="firebase_database_url">https://globalmiuiweather.firebaseio.com</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_time_12hour">"h 'en punt'"</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>
     <string name="friday_shortest">dv.</string>
@@ -210,12 +214,7 @@
     <string name="indices_title_pressure">Pressió</string>
     <string name="indices_title_wind_speed">Velocitat del vent</string>
     <string name="information_settings_title">Informació meteorològica</string>
-    <string name="international_details_chance_of_rain">PROBABILITAT DE PLUJA</string>
-    <string name="international_details_humidity">HUMITAT</string>
-    <string name="international_details_pressure_title">PRESSIÓ</string>
-    <string name="international_details_real_feel_title">REAL FEEL®</string>
-    <string name="international_details_uv_index_title">ÍNDEX UV</string>
-    <string name="international_details_wind_title">VENT</string>
+    <string name="international_details_uv_index_title">Índex UV</string>
     <string name="location_provider_btn_text">Activa els serveis d’ubicació</string>
     <string name="location_tag">Ubica</string>
     <string name="manager_city_option_add_home">Afegeix a la pàgina d\'inici</string>
@@ -358,6 +357,7 @@
     <string name="save_to_gallery_icon_name">Desa a la galeria</string>
     <string name="save_to_gallery_success_message">S\'ha desat a la galeria correctament</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Envia</string>
     <string name="settings">Configuració</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfera (atm)</string>
     <string name="settings_atmospheric_pressure_default">2</string>

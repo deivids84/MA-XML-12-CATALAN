@@ -118,7 +118,7 @@ Es mantindran totes les dades d'usuari prèvies."</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">MM / dd / aaaa</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Divendres</string>
     <string name="friday_shortest">Divendres</string>

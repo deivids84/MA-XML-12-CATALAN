@@ -36,6 +36,14 @@
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="app_update_64_dialog_message">
+        <item quantity="other">%1$d aplicacions d\'aquest dispositiu es poden actualitzar d\'arquitectura de 32 bits a 64 bits. Actualitzeu aquestes aplicacions per augmentar-ne el rendiment.</item>
+        <item quantity="one">%1$d aplicació 0 d\'aquest dispositiu es pot actualitzar d\'arquitectura de 32 bits a 64 bits. Actualitza aquesta aplicació per augmentar-ne el rendiment.</item>
+    </plurals>
+    <plurals name="app_update_64_notification_title">
+        <item quantity="other">Hi ha versions de 64 bits per a %1$d aplicacions disponibles</item>
+        <item quantity="one">Hi ha disponible una versió de 64 bits per a l\' %1$d</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d articles</item>
         <item quantity="one">%d ítem</item>

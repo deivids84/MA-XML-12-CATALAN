@@ -40,6 +40,20 @@
         <item quantity="other">" %1$shores %2$s"</item>
         <item quantity="one">" %1$shora %2$s"</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Reducció de l\'espaiat de caràcters. %sd\'espaiat de caràcters .</item>
+        <item quantity="one">Reducció de l\'espaiat de caràcters. %sd\'espaiat de caràcters .</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Augment de l\'espaiat de caràcters. %sd\'espaiat de caràcters .</item>
+        <item quantity="one">Augment de l\'espaiat de caràcters. %sd\'espaiat de caràcters .</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"La durada de la reproducció de les animacions no pot excedir els %d segons.
+Les animacions més llargues s'aturaran en aquest punt."</item>
+        <item quantity="one">"La durada de la reproducció de les animacions no pot superar %d segon.
+Les animacions més llargues s'aturaran en aquest punt."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">%d elements seleccionats</item>
         <item quantity="one">%d element seleccionat</item>
@@ -67,6 +81,14 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Ara mateix</item>
         <item quantity="other">Ara mateix</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Augment de l\'espaiat de línia. %sd\'espaiat de línies .</item>
+        <item quantity="one">Augment de l\'espaiat de línia. %sd\'espaiat de línies .</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Espaiat de línia reduït. %sd\'espaiat de línies .</item>
+        <item quantity="one">Espaiat de línia reduït. %sd\'espaiat de línies .</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elements seleccionats</item>

@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segons</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>

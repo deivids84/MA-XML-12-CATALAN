@@ -187,6 +187,7 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="accessibility_shortcut_toogle_warning">Si la drecera està activada, prem els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.</string>
     <string name="accessibility_shortcut_warning_dialog_title">Vols fer servir la drecera d\'accessibilitat?</string>
     <string name="accessibility_system_action_back_label">Torna</string>
+    <string name="accessibility_system_action_dismiss_notification_shade">Ignora l\'ombra de notificació</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Drecera d\'accessibilitat</string>
     <string name="accessibility_system_action_home_label">Inici</string>
     <string name="accessibility_system_action_lock_screen_label">Pantalla de bloqueig</string>
@@ -250,6 +251,7 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="anr_process">"El procés %1$s no respon"</string>
     <string name="app_blocked_message">Ara mateix, %1$s no està disponible.</string>
     <string name="app_blocked_title">L\'aplicació no està disponible</string>
+    <string name="app_category_accessibility">Accessibilitat</string>
     <string name="app_category_audio">Música i àudio</string>
     <string name="app_category_game">Jocs</string>
     <string name="app_category_image">Fotos i imatges</string>
@@ -261,7 +263,6 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="app_info">Informació de l\'aplicació</string>
     <string name="app_not_found">No s\'ha trobat cap aplicació per processar aquesta acció</string>
     <string name="app_running_notification_text">Toca per obtenir més informació o aturar l\'aplicació.</string>
-    <string name="app_running_notification_tip_text">Això pot alentir el dispositiu i esgotar la bateria. Toqueu per sortir de l\'aplicació</string>
     <string name="app_running_notification_title">%1$s s\'està executant</string>
     <string name="app_suspended_default_message">%1$s no està disponible en aquests moments. Aquesta opció es gestiona a %2$s.</string>
     <string name="app_suspended_more_details">Més informació</string>
@@ -320,10 +321,10 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="badPin">"El PIN antic que has escrit no és correcte."</string>
     <string name="badPuk">"El PUK que has escrit no és correcte."</string>
     <string name="battery_saver_charged_notification_summary">El telèfon té prou bateria. Les funcions ja no estan restringides.</string>
-    <string name="battery_saver_description">"Per allargar la durada de la bateria, el mode Estalvi de bateria fa el següent:
+    <string name="battery_saver_description">Per allargar la durada de la bateria, el mode Estalvi de bateria fa el següent:
 
 • Activa el tema fosc.
-• Desactiva o restringeix l'activitat en segon pla, alguns efectes visuals i altres funcions com \"Ok Google\"."</string>
+• Desactiva o restringeix l\'activitat en segon pla, alguns efectes visuals i altres funcions com \"Ok Google\".</string>
     <string name="battery_saver_description_with_learn_more">\"Per allargar la durada de la bateria, el mode Estalvi de bateria fa el següent:
 
 • Activa el tema fosc.
@@ -333,12 +334,17 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="battery_saver_notification_channel_name">Estalvi de bateria</string>
     <string name="battery_saver_off_notification_title">L\'estalvi de bateria s\'ha desactivat</string>
     <string name="beforeOneMonthDurationPast">Fa més d\'1 mes</string>
+    <string name="biometric_app_setting_name">Utilitzeu la biometria</string>
+    <string name="biometric_dialog_default_subtitle">Utilitzeu la vostra biomètrica per continuar</string>
     <string name="biometric_dialog_default_title">Verifica que ets tu</string>
     <string name="biometric_error_canceled">S\'ha cancel·lat l\'autenticació</string>
     <string name="biometric_error_device_not_secured">No s\'ha establert cap PIN, patró o contrasenya</string>
+    <string name="biometric_error_generic">Error en autenticar</string>
     <string name="biometric_error_hw_unavailable">Maquinari biomètric no disponible</string>
     <string name="biometric_error_user_canceled">S\'ha cancel·lat l\'autenticació</string>
     <string name="biometric_not_recognized">No s\'ha reconegut</string>
+    <string name="biometric_or_screen_lock_app_setting_name">Utilitzeu la biometria o el bloqueig de pantalla</string>
+    <string name="biometric_or_screen_lock_dialog_default_subtitle">Utilitzeu el vostre bloqueig biomètric o de pantalla per continuar</string>
     <string name="bluetooth_a2dp_audio_route_name">Àudio per Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">El Bluetooth es mantindrà activat durant el mode d\'avió</string>
     <string name="bugreport_message">Es recopilarà informació sobre l\'estat actual del dispositiu i se t\'enviarà per correu electrònic. Passaran uns quants minuts des de l\'inici de l\'informe d\'errors fins al seu enviament, per la qual cosa et recomanem que tinguis paciència.</string>
@@ -350,6 +356,13 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="bugreport_screenshot_success_toast">S\'ha fet la captura de pantalla amb l\'informe d\'errors</string>
     <string name="bugreport_title">Informe d\'errors</string>
     <string name="byteShort">B</string>
+    <string name="call_notification_answer_action">Respon</string>
+    <string name="call_notification_answer_video_action">Vídeo</string>
+    <string name="call_notification_decline_action">Declinar</string>
+    <string name="call_notification_hang_up_action">Penjar</string>
+    <string name="call_notification_incoming_text">Trucada entrant</string>
+    <string name="call_notification_ongoing_text">Trucada en curs</string>
+    <string name="call_notification_screening_text">Filtració d\'una trucada entrant</string>
     <string name="cancel">Cancel·la</string>
     <string name="candidates_style"><u>candidats</u></string>
     <string name="capability_desc_canCaptureFingerprintGestures">"Captura gestos realitzats en el sensor d'empremtes dactilars del dispositiu."</string>
@@ -408,6 +421,7 @@ Pots canviar la funció d'aquesta drecera a Configuració &gt; Accessibilitat."<
     <string name="country_selection_title">Preferència de regió</string>
     <string name="create_contact_using">"Crea un contacte
 mitjançant %s"</string>
+    <string name="crossSimFormat_spn_cross_sim_calling">%s Trucada de còpia de seguretat</string>
     <string name="cut">Retalla</string>
     <string name="data_saver_description">Per reduir l\'ús de dades, la funció Economitzador de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estiguis fent servir podrà accedir a les dades, però menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toquis.</string>
     <string name="data_saver_enable_button">Activa</string>
@@ -425,6 +439,7 @@ mitjançant %s"</string>
     <string name="data_usage_warning_title">Advertiment de dades</string>
     <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
     <string name="data_usage_wifi_limit_title">Límit de dades Wi-Fi assolit</string>
+    <string name="date_and_time" formatted="false">%-k:%M:%S %d/%m/%Y</string>
     <string name="date_picker_decrement_day_button">Fes disminuir el dia</string>
     <string name="date_picker_decrement_month_button">Fes disminuir el mes</string>
     <string name="date_picker_decrement_year_button">Fes disminuir l\'any</string>
@@ -435,6 +450,7 @@ mitjançant %s"</string>
     <string name="date_picker_mode">calendari</string>
     <string name="date_picker_next_month_button">Mes següent</string>
     <string name="date_picker_prev_month_button">Mes anterior</string>
+    <string name="date_time">%2$s %1$s</string>
     <string name="date_time_done">Fet</string>
     <string name="date_time_set">Defineix</string>
     <string name="day">dia</string>
@@ -463,10 +479,12 @@ mitjançant %s"</string>
 mitjançant %s"</string>
     <string name="dialog_alert_title">Atenció</string>
     <string name="disable_accessibility_shortcut">Desactiva la drecera</string>
+    <string name="dismiss_action">Descartar</string>
     <string name="display_manager_built_in_display_name">Pantalla integrada</string>
     <string name="display_manager_hdmi_display_name">Pantalla HDMI</string>
     <string name="display_manager_overlay_display_name">Superposa #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, segur</string>
+    <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
     <string name="dlg_ok">D\'acord</string>
     <string name="done_accessibility_shortcut_menu_button">Fet</string>
     <string name="done_label">Fet</string>
@@ -567,13 +585,16 @@ mitjançant %s"</string>
     <string name="face_acquired_too_much_motion">Massa moviment. Subjecta bé el telèfon.</string>
     <string name="face_acquired_too_right">Mou el telèfon cap a l\'esquerra.</string>
     <string name="face_acquired_too_similar">És massa semblant; canvia de postura.</string>
+    <string name="face_app_setting_name">Utilitza el desbloqueig facial</string>
     <string name="face_authenticated_confirmation_required">Cara autenticada; prem el botó per confirmar</string>
     <string name="face_authenticated_no_confirmation_required">Cara autenticada</string>
+    <string name="face_dialog_default_subtitle">Fes servir la teva cara per continuar</string>
     <string name="face_error_canceled">S\'ha cancel·lat el reconeixement facial.</string>
     <string name="face_error_hw_not_available">No es pot verificar la cara. Maquinari no disponible.</string>
     <string name="face_error_hw_not_present">El desbloqueig facial no és compatible amb el dispositiu.</string>
     <string name="face_error_lockout">Massa intents. Torna-ho a provar més tard.</string>
     <string name="face_error_lockout_permanent">Massa intents. S\'ha desactivat el desbloqueig facial.</string>
+    <string name="face_error_lockout_screen_lock">Massa intents. Introduïu el bloqueig de pantalla.</string>
     <string name="face_error_no_space">No es poden desar dades facials noves. Suprimeix-ne d\'antigues.</string>
     <string name="face_error_not_enrolled">No has configurat el desbloqueig facial</string>
     <string name="face_error_security_update_required">El sensor està desactivat temporalment.</string>
@@ -582,9 +603,13 @@ mitjançant %s"</string>
     <string name="face_error_user_canceled">L\'usuari ha cancel·lat el desbloqueig facial.</string>
     <string name="face_icon_content_description">Icona facial</string>
     <string name="face_name_template">Cara %d</string>
+    <string name="face_or_screen_lock_app_setting_name">Utilitza el bloqueig de pantalla o de cara</string>
+    <string name="face_or_screen_lock_dialog_default_subtitle">Fes servir la teva cara o el bloqueig de pantalla per continuar</string>
     <string name="face_recalibrate_notification_content">Per millorar el reconeixement, torna a registrar la cara</string>
     <string name="face_recalibrate_notification_name">Desbloqueig facial</string>
     <string name="face_recalibrate_notification_title">Torna a registrar la cara</string>
+    <string name="face_setup_notification_content">Desbloqueja el teu telèfon mirant-lo</string>
+    <string name="face_setup_notification_title">Configura el desbloqueig facial</string>
     <string name="faceunlock_multiple_failures">S\'ha superat el nombre màxim d\'intents de desbloqueig facial</string>
     <string name="factory_reset_message">"No es pot utilitzar l'aplicació d'administració. S'esborraran les dades del dispositiu.
 
@@ -603,25 +628,39 @@ Si tens cap dubte, contacta amb l'administrador de la teva organització."</stri
     <string name="find_next">Cerca el següent</string>
     <string name="find_on_page">Troba-ho a la pàgina</string>
     <string name="find_previous">Cerca l\'anterior</string>
+    <string name="fingerprint_acquired_already_enrolled">Prova una altra empremta digital</string>
     <string name="fingerprint_acquired_imager_dirty">El sensor d\'empremtes dactilars està brut. Neteja\'l i torna-ho a provar.</string>
+    <string name="fingerprint_acquired_immobile">Canvia lleugerament la posició del dit cada vegada</string>
     <string name="fingerprint_acquired_insufficient">"No s'ha pogut processar l'empremta digital. Torna-ho a provar."</string>
     <string name="fingerprint_acquired_partial">S\'ha detectat una empremta digital parcial. Torna-ho a provar.</string>
+    <string name="fingerprint_acquired_too_bright">Massa brillant</string>
     <string name="fingerprint_acquired_too_fast">El dit s\'ha mogut massa ràpid. Torna-ho a provar.</string>
     <string name="fingerprint_acquired_too_slow">El dit s\'ha mogut massa lentament. Torna-ho a provar.</string>
+    <string name="fingerprint_acquired_try_adjusting">Intenta ajustar</string>
+    <string name="fingerprint_app_setting_name">Utilitza l\'empremta digital</string>
     <string name="fingerprint_authenticated">L\'empremta digital s\'ha autenticat</string>
+    <string name="fingerprint_dialog_default_subtitle">Utilitzeu l’empremta per continuar</string>
+    <string name="fingerprint_error_bad_calibration">No es pot utilitzar el sensor d\'empremtes digitals. Visiteu un proveïdor de reparacions</string>
     <string name="fingerprint_error_canceled">S\'ha cancel·lat l\'operació d\'empremta digital.</string>
     <string name="fingerprint_error_hw_not_available">El maquinari per a empremtes dactilars no està disponible.</string>
     <string name="fingerprint_error_hw_not_present">Aquest dispositiu no té sensor d\'empremtes dactilars.</string>
     <string name="fingerprint_error_lockout">S\'han produït massa intents. Torna-ho a provar més tard.</string>
     <string name="fingerprint_error_lockout_permanent">S\'han fet massa intents. S\'ha desactivat el sensor d\'empremtes dactilars.</string>
     <string name="fingerprint_error_no_fingerprints">No s\'ha registrat cap empremta digital.</string>
-    <string name="fingerprint_error_no_space">"L'empremta digital no es pot desar. Suprimeix-ne una."</string>
+    <string name="fingerprint_error_no_space">L\'empremta digital no es pot desar. Suprimeix-ne una.</string>
     <string name="fingerprint_error_security_update_required">El sensor està desactivat temporalment.</string>
     <string name="fingerprint_error_timeout">S\'ha esgotat el temps d\'espera per a l\'empremta digital. Torna-ho a provar.</string>
     <string name="fingerprint_error_unable_to_process">Torna-ho a provar.</string>
     <string name="fingerprint_error_user_canceled">L\'usuari ha cancel·lat l\'operació d\'empremta digital.</string>
     <string name="fingerprint_icon_content_description">Icona d\'empremta digital</string>
     <string name="fingerprint_name_template">Dit %d</string>
+    <string name="fingerprint_or_screen_lock_app_setting_name">Utilitzeu l\'empremta o el bloqueig de pantalla</string>
+    <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Utilitzeu l\'empremta o el bloqueig de pantalla per continuar</string>
+    <string name="fingerprint_recalibrate_notification_content">Visiteu un proveïdor de reparacions.</string>
+    <string name="fingerprint_recalibrate_notification_name">Empremta de desbloqueig</string>
+    <string name="fingerprint_recalibrate_notification_title">No es pot utilitzar el sensor d\'empremtes</string>
+    <string name="fingerprint_setup_notification_content">Toqueu per afegir una empremta</string>
+    <string name="fingerprint_setup_notification_title">Configureu més maneres de desbloquejar</string>
     <string name="fingerprints">Empremtes</string>
     <string name="floating_toolbar_close_overflow_description">Tanca el menú addicional</string>
     <string name="floating_toolbar_open_overflow_description">Més opcions</string>
@@ -631,7 +670,14 @@ Si tens cap dubte, contacta amb l'administrador de la teva organització."</stri
     <string name="foreground_service_tap_for_details">Toca per obtenir informació sobre l\'ús de dades i de bateria</string>
     <string name="forward_intent_to_owner">"Estàs utilitzant aquesta aplicació fora del perfil de treball."</string>
     <string name="forward_intent_to_work">"Estàs utilitzant l'aplicació al perfil de treball."</string>
+    <string name="fp_enrollment_powerbutton_intent_message">"Mentre configureu la vostra empremta, heu premut el botó d'encesa.
+
+Normalment s'apaga la pantalla."</string>
+    <string name="fp_enrollment_powerbutton_intent_negative_button">Cancel·la</string>
+    <string name="fp_enrollment_powerbutton_intent_positive_button">Apaga</string>
+    <string name="fp_enrollment_powerbutton_intent_title">Voleu apagar la pantalla?</string>
     <string name="gadget_host_error_inflating">"No s'ha pogut afegir el widget."</string>
+    <string name="geofencing_service">Servei de Geofencing</string>
     <string name="global_action_assist">Assistència</string>
     <string name="global_action_bug_report">Informe d\'error</string>
     <string name="global_action_emergency">Emergència</string>
@@ -651,9 +697,8 @@ Si tens cap dubte, contacta amb l'administrador de la teva organització."</stri
     <string name="global_actions_airplane_mode_off_status">Mode d\'avió desactivat</string>
     <string name="global_actions_airplane_mode_on_status">Mode d\'avió activat</string>
     <string name="global_actions_toggle_airplane_mode">Mode d\'avió</string>
-    <string name="gnss_nfw_notification_message_carrier">El teu operador ha accedit a la teva ubicació durant una sessió d\'emergència recent</string>
-    <string name="gnss_nfw_notification_message_oem">El fabricant del teu dispositiu ha accedit a la teva ubicació durant una sessió d\'emergència recent</string>
-    <string name="gnss_nfw_notification_title">S\'ha accedit a la ubicació per emergència</string>
+    <string name="gnss_service">Servei GNSS</string>
+    <string name="gnss_time_update_service">Servei d\'actualització de l\'hora GNSS</string>
     <string name="gpsNotifMessage">Sol·licitat per %1$s (%2$s)</string>
     <string name="gpsNotifTicker">Sol·licitud d\'ubicació de %s</string>
     <string name="gpsNotifTitle">Sol·licitud d\'ubicació</string>
@@ -693,7 +738,6 @@ Si tens cap dubte, contacta amb l'administrador de la teva organització."</stri
     <string name="httpErrorTooManyRequests">S\'estan processant massa sol·licituds. Torneu-ho a provar més tard.</string>
     <string name="httpErrorUnsupportedAuthScheme">"L'esquema d'autenticació de llocs no és compatible."</string>
     <string name="httpErrorUnsupportedScheme">"El protocol no és compatible."</string>
-    <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
     <string name="imProtocolCustom">Personalitzat</string>
     <string name="imTypeCustom">Personalitzat</string>
     <string name="imTypeHome">Casa</string>
@@ -921,7 +965,9 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="media_route_status_connecting">S\'està connectant...</string>
     <string name="media_route_status_in_use">En ús</string>
     <string name="media_route_status_not_available">No disponible</string>
-    <string name="media_route_status_scanning">S\'està cercant…</string>
+    <string name="media_route_status_scanning">S\'està escanejant...</string>
+    <string name="mediasize_iso_b7">ISO B</string>
+    <string name="mediasize_na_foolscap">Foli</string>
     <string name="mediasize_na_gvrnmt_letter">Carta governamental</string>
     <string name="mediasize_na_index_3x5">Fitxa 3 x 5</string>
     <string name="mediasize_na_index_4x6">Fitxa 4 x 6</string>
@@ -964,6 +1010,10 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="mime_type_spreadsheet_ext">Full de càlcul %1$s</string>
     <string name="mime_type_video">Vídeo</string>
     <string name="mime_type_video_ext">Vídeo %1$s</string>
+    <string name="miniresolver_open_in_personal">Obrir en %s en el perfil personal?</string>
+    <string name="miniresolver_open_in_work">Obre en %s al perfil de feina?</string>
+    <string name="miniresolver_use_personal_browser">Utilitza el navegador personal</string>
+    <string name="miniresolver_use_work_browser">Utilitza el navegador de feina</string>
     <string name="minute">min</string>
     <string name="minute_picker_description">Control circular dels minuts</string>
     <string name="minutes">min</string>
@@ -984,9 +1034,19 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="month_day_year" formatted="false">%-e %B de %Y</string>
     <string name="more_item_label">Més</string>
     <string name="move_button_text">Toqueu el botó del marc per poder moure tota la finestra</string>
+    <string name="music_recognition_manager_service">Servei de gestió de reconeixement musical</string>
     <string name="muted_by">%1$s està silenciant alguns sons</string>
+    <string name="nas_upgrade_notification_content">Les accions i les respostes suggerides ara es proporcionen mitjançant notificacions millorades. Les notificacions adaptatives d\'Android ja no són compatibles.</string>
+    <string name="nas_upgrade_notification_disable_action">Tanca</string>
+    <string name="nas_upgrade_notification_enable_action">D\'acord</string>
+    <string name="nas_upgrade_notification_learn_more_action">Aprèn més</string>
+    <string name="nas_upgrade_notification_learn_more_content">"Les notificacions millorades van substituir les notificacions adaptatives d'Android a Android 12. Aquesta funció mostra les accions i les respostes suggerides i organitza les vostres notificacions.
+
+Les notificacions millorades poden accedir al contingut de les notificacions, inclosa informació personal com els noms dels contactes i els missatges. Aquesta funció també pot descartar o respondre a notificacions, com ara respondre trucades telefòniques, i controlar No molestar."</string>
+    <string name="nas_upgrade_notification_title">Notificacions millorades</string>
     <string name="needPuk">La targeta SIM està bloquejada pel PUK. Escriviu el codi PUK per desbloquejar-la.</string>
     <string name="needPuk2">Escriviu el PUK2 per desbloquejar la targeta SIM.</string>
+    <string name="negative_duration">-%1$s</string>
     <string name="network_available_sign_in">Inicia la sessió a la xarxa</string>
     <string name="network_logging_notification_text">La teva organització gestiona aquest dispositiu i és possible que supervisi el trànsit de xarxa. Toca per obtenir més informació.</string>
     <string name="network_logging_notification_title">El dispositiu està gestionat</string>
@@ -1009,12 +1069,15 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="no_recent_tasks">No hi ha aplicacions recents</string>
     <string name="noon">migdia</string>
     <string name="not_checked">no seleccionat</string>
+    <string name="not_selected">no seleccionat</string>
     <string name="notification_alerted_content_description">S\'ha enviat una alerta</string>
     <string name="notification_app_name_settings">Configuració</string>
     <string name="notification_app_name_system">Sistema</string>
     <string name="notification_appops_camera_active">Càmera</string>
     <string name="notification_appops_microphone_active">Micròfon</string>
     <string name="notification_appops_overlay_active">es mostra sobre altres aplicacions a la pantalla</string>
+    <string name="notification_channel_accessibility_magnification">Ampliació</string>
+    <string name="notification_channel_accessibility_security_policy">Ús de l\'accessibilitat</string>
     <string name="notification_channel_account">Estat del compte</string>
     <string name="notification_channel_alerts">Alertes</string>
     <string name="notification_channel_call_forward">Desviació de trucades</string>
@@ -1045,12 +1108,19 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="notification_channel_vpn">Estat de la VPN</string>
     <string name="notification_channel_wfc">Trucades per Wi-Fi</string>
     <string name="notification_description">Estat de la trucada de veu</string>
+    <string name="notification_feedback_indicator">Proporcionar retroalimentació</string>
+    <string name="notification_feedback_indicator_alerted">Aquesta notificació s\'ha ascendit a Predeterminada. Toca per enviar comentaris.</string>
+    <string name="notification_feedback_indicator_demoted">Aquesta notificació s\'ha classificat més baix. Toca per enviar comentaris.</string>
+    <string name="notification_feedback_indicator_promoted">Aquesta notificació s\'ha classificat més alt. Toca per enviar comentaris.</string>
+    <string name="notification_feedback_indicator_silenced">Aquesta notificació s\'ha degradat a silenci. Toca per enviar comentaris.</string>
     <string name="notification_hidden_text">Notificació nova</string>
     <string name="notification_history_title_placeholder">Notificació d\'aplicació personalitzada</string>
     <string name="notification_listener_binding_label">Oient de notificacions</string>
+    <string name="notification_phishing_alert_content_description">Alerta de pesca</string>
     <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
     <string name="notification_reply_button_accessibility">Respon</string>
     <string name="notification_title">Error d\'inici de sessió per a %1$s</string>
+    <string name="notification_verified_content_description">Verificat</string>
     <string name="notification_work_profile_content_description">Perfil de treball</string>
     <string name="now_string_shortest">ara</string>
     <string name="number_picker_decrement_button">Redueix</string>
@@ -1061,6 +1131,7 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="old_app_action">Torna a %1$s</string>
     <string name="older">Més antigues</string>
     <string name="oneMonthDurationPast">Fa 1 mes</string>
+    <string name="one_handed_mode_feature_name">Mode d\'una mà</string>
     <string name="open_permission_deny">"No tens permís per obrir aquesta pàgina."</string>
     <string name="orgTypeCustom">Personalitzat</string>
     <string name="orgTypeOther">Altres</string>
@@ -1076,6 +1147,11 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="paste">Enganxa</string>
     <string name="paste_as_plain_text">Enganxa com a text sense format</string>
+    <string name="pasted_content">%1$s contingut enganxat que heu copiat</string>
+    <string name="pasted_from_app">%1$s enganxat de %2$s</string>
+    <string name="pasted_from_clipboard">%1$s enganxat des del porta-retalls</string>
+    <string name="pasted_image">%1$s enganxat una imatge que heu copiat</string>
+    <string name="pasted_text">%1$s text enganxat que heu copiat</string>
     <string name="peerTtyModeFull">L\'altre dispositiu ha sol·licitat el mode TTY COMPLET.</string>
     <string name="peerTtyModeHco">L\'altre dispositiu ha sol·licitat el mode TTY HCO.</string>
     <string name="peerTtyModeOff">L\'altre dispositiu ha sol·licitat el mode TTY DESACTIVAT.</string>
@@ -1098,6 +1174,7 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permdesc_addVoicemail">Permet que l\'aplicació afegeixi missatges a la safata d\'entrada de la bústia de veu.</string>
     <string name="permdesc_answerPhoneCalls">Permet que l\'aplicació contesti a una trucada entrant.</string>
     <string name="permdesc_audioWrite">Permet que l\'aplicació modifiqui la teva col·lecció de música.</string>
+    <string name="permdesc_backgroundCamera">Aquesta aplicació pot fer fotos i gravar vídeos amb la càmera en qualsevol moment.</string>
     <string name="permdesc_bindCarrierMessagingService">Permet que el propietari la pugui vincular a la interfície principal del servei de missatgeria d\'un operador. No s\'hauria de necessitar mai per a les aplicacions normals.</string>
     <string name="permdesc_bindCarrierServices">Permet que el propietari la vinculi a serveis de l\'operador de telefonia mòbil. No s\'hauria de necessitar mai per a les aplicacions normals.</string>
     <string name="permdesc_bindCellBroadcastService">Permet que l\'aplicació es vinculi al mòdul de difusió mòbil per poder reenviar els missatges de difusió mòbil a mesura que es reben. Les alertes de difusió mòbil s\'entreguen en algunes ubicacions per alertar de situacions d\'emergència. És possible que les aplicacions malicioses interfereixin en el rendiment o en el funcionament del dispositiu quan es rebi una difusió mòbil d\'emergència.</string>
@@ -1108,6 +1185,9 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permdesc_bind_incall_service">Permet que l\'aplicació controli quan i com l\'usuari veu la pantalla de la trucada.</string>
     <string name="permdesc_bluetooth">Permet que una aplicació visualitzi la configuració del Bluetooth del telèfon i que estableixi i accepti connexions amb els dispositius sincronitzats.</string>
     <string name="permdesc_bluetoothAdmin">Permet que l\'aplicació configuri el telèfon Bluetooth local i que detecti dispositius remots i s\'hi vinculi.</string>
+    <string name="permdesc_bluetooth_advertise">Permet que l\'aplicació anunciï als dispositius Bluetooth propers</string>
+    <string name="permdesc_bluetooth_connect">Permet que l\'aplicació es connecti a dispositius Bluetooth vinculats</string>
+    <string name="permdesc_bluetooth_scan">Permet que l\'aplicació descobreixi i sincronitzi dispositius Bluetooth propers</string>
     <string name="permdesc_bodySensors">Permet que l\'aplicació accedeixi a les dades dels sensors que supervisen el teu estat físic, com ara la freqüència cardíaca.</string>
     <string name="permdesc_broadcastSticky">Permet que l\'aplicació enviï emissions permanents, que es conserven després de finalitzar l\'emissió. L\'ús excessiu pot alentir o desestabilitzar el telèfon si li fan utilitzar massa memòria.</string>
     <string name="permdesc_callCompanionApp">Permet que l\'aplicació consulti i controli les trucades en curs al dispositiu. Inclou informació com ara l\'estat i els números de les trucades.</string>
@@ -1127,17 +1207,19 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Exclou l\'aplicació de les restriccions per gravar àudio.</string>
     <string name="permdesc_expandStatusBar">Permet que l\'aplicació desplegui o replegui la barra d\'estat.</string>
     <string name="permdesc_foregroundService">Permet que l\'aplicació utilitzi serveis en primer pla.</string>
+    <string name="permdesc_fullScreenIntent">Permet que l\'aplicació mostri notificacions com a activitats a pantalla completa en un dispositiu bloquejat</string>
     <string name="permdesc_getAccounts">Permet que l\'aplicació obtingui la llista de comptes coneguts pel telèfon. Això pot incloure tots els comptes que hagin creat les aplicacions que tens instal·lades.</string>
     <string name="permdesc_getPackageSize">Permet que l\'aplicació recuperi les mides del codi, de les dades i de la memòria cau</string>
     <string name="permdesc_getTasks">Permet que l\'aplicació recuperi informació sobre les tasques que s\'executen actualment i les que s\'han executat recentment. Aquesta acció pot permetre que l\'aplicació descobreixi informació sobre les aplicacions que s\'utilitzen al dispositiu.</string>
     <string name="permdesc_handoverStatus">Permet que aquesta aplicació rebi informació sobre les transferències d\'Android Beam actuals.</string>
+    <string name="permdesc_highSamplingRateSensors">Permet que l\'aplicació mostri les dades del sensor a una velocitat superior a 200 Hz</string>
     <string name="permdesc_imagesWrite">Permet que l\'aplicació modifiqui la teva col·lecció de fotos.</string>
     <string name="permdesc_install_shortcut">Permet que una aplicació afegeixi dreceres a la pantalla d\'inici sense la intervenció de l\'usuari.</string>
     <string name="permdesc_invokeCarrierSetup">Permet que el titular invoqui l\'aplicació de configuració proporcionada per l\'operador. No s\'hauria de necessitar mai per a les aplicacions normals.</string>
     <string name="permdesc_killBackgroundProcesses">Permet que l\'aplicació finalitzi processos d\'altres aplicacions en segon pla. Aquesta acció pot fer que altres aplicacions deixin d\'executar-se.</string>
-    <string name="permdesc_manageFace">Permet que l\'aplicació afegeixi i suprimeixi plantilles de cares que es puguin fer servir.</string>
     <string name="permdesc_manageFingerprint">Permet que l\'aplicació invoqui mètodes per afegir i suprimir plantilles d\'empremtes dactilars que es puguin fer servir.</string>
     <string name="permdesc_manageNetworkPolicy">Permet que l\'aplicació gestioni les polítiques de la xarxa i que defineixi les regles específiques d\'aplicació.</string>
+    <string name="permdesc_manageOngoingCalls">Permet que una aplicació vegi detalls sobre les trucades en curs al dispositiu i controli aquestes trucades.</string>
     <string name="permdesc_manageOwnCalls">Permet que l\'aplicació encamini les trucades a través del sistema per millorar-ne l\'experiència.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">Permet que les aplicacions defineixin els propietaris del perfil i del dispositiu.</string>
     <string name="permdesc_mediaLocation">Permet que l\'aplicació llegeixi les ubicacions de les teves col·leccions multimèdia.</string>
@@ -1147,6 +1229,7 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permdesc_persistentActivity">Permet que l\'aplicació faci que parts de la seva memòria siguin persistents. Aquesta acció pot limitar la memòria disponible per a altres aplicacions i alentir el telèfon.</string>
     <string name="permdesc_preferredPaymentInfo">Permet que l\'aplicació obtingui informació preferent sobre el servei de pagament per NFC, com ara complements registrats i destinacions de rutes.</string>
     <string name="permdesc_processOutgoingCalls">Permet que l\'aplicació vegi el número que s\'està marcant durant una trucada sortint, amb l\'opció de redirigir la trucada a un altre número o bé de cancel·lar-la completament.</string>
+    <string name="permdesc_queryAllPackages">Permet que una aplicació vegi tots els paquets instal·lats.</string>
     <string name="permdesc_readCalendar">Aquesta aplicació pot llegir tots els esdeveniments del calendari emmagatzemats al telèfon i compartir o desar les dades del teu calendari.</string>
     <string name="permdesc_readCallLog">Aquesta aplicació pot llegir el teu historial de trucades.</string>
     <string name="permdesc_readCellBroadcasts">Permet que l\'aplicació llegeixi missatges de difusió mòbil rebuts pel dispositiu. Les alertes de difusió mòbil s\'entreguen en algunes ubicacions per alertar de situacions d\'emergència. És possible que les aplicacions malicioses interfereixin en el rendiment o en el funcionament del dispositiu quan es rep una difusió mòbil d\'emergència.</string>
@@ -1164,6 +1247,7 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permdesc_receiveSms">Permet que l\'aplicació rebi i processi missatges SMS. Això vol dir que l\'aplicació pot controlar o suprimir missatges que s\'han enviat al teu dispositiu sense mostrar-te\'ls.</string>
     <string name="permdesc_receiveWapPush">Permet que l\'aplicació rebi i processi missatges WAP. Aquest permís inclou la capacitat de controlar o de suprimir missatges que s\'han enviat al teu dispositiu sense mostrar-te\'ls.</string>
     <string name="permdesc_recordAudio">Aquesta aplicació pot gravar àudio amb el micròfon en qualsevol moment.</string>
+    <string name="permdesc_recordBackgroundAudio">Aquesta aplicació pot gravar àudio mitjançant el micròfon en qualsevol moment.</string>
     <string name="permdesc_register_call_provider">Permet que l\'aplicació registri connexions de telecomunicacions noves.</string>
     <string name="permdesc_register_sim_subscription">Permet que l\'aplicació registri connexions SIM de telecomunicacions noves.</string>
     <string name="permdesc_removeDrmCertificates">Permet que una aplicació suprimeixi els certificats DRM. No ha de ser mai necessari per a aplicacions normals.</string>
@@ -1193,9 +1277,9 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permdesc_uninstall_shortcut">Permet que l\'aplicació suprimeixi les dreceres de la pantalla d\'inici sense la intervenció de l\'usuari.</string>
     <string name="permdesc_useBiometric">Permet que l\'aplicació faci servir maquinari biomètric per a l\'autenticació</string>
     <string name="permdesc_useDataInBackground">Aquesta aplicació utilitza dades en segon pla. Això incrementa l\'ús de dades.</string>
-    <string name="permdesc_useFaceAuthentication">Permet que l\'aplicació faci servir el maquinari de desbloqueig facial per a l\'autenticació</string>
     <string name="permdesc_useFingerprint">Permet que l\'aplicació faci servir maquinari d\'empremtes dactilars per a l\'autenticació</string>
     <string name="permdesc_use_sip">Permet que l\'aplicació pugui fer i rebre trucades de SIP.</string>
+    <string name="permdesc_uwb_ranging">Permet que l\'aplicació determini la posició relativa entre els dispositius de banda ultraampla propers</string>
     <string name="permdesc_vibrate">Permet que l\'aplicació controli el vibrador.</string>
     <string name="permdesc_vibrator_state">Permet que l\'aplicació accedeixi a l\'estat de vibració.</string>
     <string name="permdesc_videoWrite">Permet que l\'aplicació modifiqui la teva col·lecció de vídeos.</string>
@@ -1214,6 +1298,7 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permgroupdesc_contacts">accedir als contactes</string>
     <string name="permgroupdesc_location">"accedir a la ubicació del dispositiu"</string>
     <string name="permgroupdesc_microphone">gravar àudio</string>
+    <string name="permgroupdesc_nearby_devices">descobrir i connectar-se a dispositius propers</string>
     <string name="permgroupdesc_phone">fer i gestionar trucades</string>
     <string name="permgroupdesc_sensors">accedir a les dades del sensor sobre els signes vitals</string>
     <string name="permgroupdesc_sms">enviar i llegir missatges SMS</string>
@@ -1225,11 +1310,14 @@ Torna-ho a provar d'aquí a %2$d segons."</string>
     <string name="permgrouplab_contacts">Contactes</string>
     <string name="permgrouplab_location">Ubicació</string>
     <string name="permgrouplab_microphone">Micròfon</string>
+    <string name="permgrouplab_nearby_devices">Dispositius propers</string>
     <string name="permgrouplab_phone">Telèfon</string>
     <string name="permgrouplab_sensors">Sensors corporals</string>
     <string name="permgrouplab_storage">Fitxers i multimèdia</string>
     <string name="permission">Permisos</string>
     <string name="permission_remember_choice">Recorda-la</string>
+    <string name="permission_request_notification_for_app_with_subtitle">"Permís sol·licitat per %1$s
+per al compte %2$s."</string>
     <string name="permission_request_notification_title">Permís sol·licitat</string>
     <string name="permission_request_notification_with_subtitle">"S'ha sol·licitat permís
 per al compte %s."</string>
@@ -1250,6 +1338,7 @@ per al compte %s."</string>
     <string name="permlab_addVoicemail">afegeix bústia de veu</string>
     <string name="permlab_answerPhoneCalls">contestar a trucades</string>
     <string name="permlab_audioWrite">modificar la teva col·lecció de música</string>
+    <string name="permlab_backgroundCamera">fer fotos i vídeos en segon pla</string>
     <string name="permlab_bindCarrierMessagingService">vincular-la al servei de missatgeria d\'un operador</string>
     <string name="permlab_bindCarrierServices">vincular-la a serveis de l\'operador de telefonia mòbil</string>
     <string name="permlab_bindCellBroadcastService">Reenviar els missatges de difusió mòbil</string>
@@ -1260,6 +1349,9 @@ per al compte %s."</string>
     <string name="permlab_bind_incall_service">interaccionar amb la pantalla de la trucada</string>
     <string name="permlab_bluetooth">vincula amb dispositius Bluetooth</string>
     <string name="permlab_bluetoothAdmin">accés a la configuració del Bluetooth</string>
+    <string name="permlab_bluetooth_advertise">anunciar als dispositius Bluetooth propers</string>
+    <string name="permlab_bluetooth_connect">connectar-se a dispositius Bluetooth vinculats</string>
+    <string name="permlab_bluetooth_scan">descobrir i vincular dispositius Bluetooth propers</string>
     <string name="permlab_bodySensors">accedir a sensors corporals (p. ex., monitors de freqüència cardíaca)</string>
     <string name="permlab_broadcastSticky">enviar difusió permanent</string>
     <string name="permlab_callCompanionApp">consulta i controla les trucades a través del sistema.</string>
@@ -1279,17 +1371,19 @@ per al compte %s."</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">exclou de les restriccions per gravar àudio</string>
     <string name="permlab_expandStatusBar">desplega/contrau la barra d\'estat</string>
     <string name="permlab_foregroundService">executar serveis en primer pla</string>
+    <string name="permlab_fullScreenIntent">mostrar notificacions com a activitats a pantalla completa en un dispositiu bloquejat</string>
     <string name="permlab_getAccounts">cercar comptes al dispositiu</string>
     <string name="permlab_getPackageSize">mesura l\'espai d\'emmagatzematge d\'aplicacions</string>
     <string name="permlab_getTasks">recupera les aplicacions en execució</string>
     <string name="permlab_handoverStatus">rebre l\'estat de la transferència d\'Android Beam</string>
+    <string name="permlab_highSamplingRateSensors">accedir a les dades del sensor a una velocitat de mostreig elevada</string>
     <string name="permlab_imagesWrite">modificar la teva col·lecció de fotos</string>
     <string name="permlab_install_shortcut">instal·lar dreceres</string>
     <string name="permlab_invokeCarrierSetup">invoca l\'aplicació de configuració proporcionada per l\'operador</string>
     <string name="permlab_killBackgroundProcesses">tancament d\'altres aplicacions</string>
-    <string name="permlab_manageFace">gestiona el maquinari de desbloqueig facial</string>
     <string name="permlab_manageFingerprint">Gestionar el maquinari d\'empremtes dactilars</string>
     <string name="permlab_manageNetworkPolicy">gestió de la política de xarxa</string>
+    <string name="permlab_manageOngoingCalls">Gestioneu les trucades en curs</string>
     <string name="permlab_manageOwnCalls">encaminar trucades a través del sistema</string>
     <string name="permlab_manageProfileAndDeviceOwners">gestionar els propietaris del perfil i del dispositiu</string>
     <string name="permlab_mediaLocation">llegir les ubicacions de les teves col·leccions multimèdia</string>
@@ -1299,6 +1393,7 @@ per al compte %s."</string>
     <string name="permlab_persistentActivity">fes que l\'aplicació s\'executi sempre</string>
     <string name="permlab_preferredPaymentInfo">Informació preferent sobre el servei de pagament per NFC</string>
     <string name="permlab_processOutgoingCalls">desviació de les trucades sortints</string>
+    <string name="permlab_queryAllPackages">consultar tots els paquets</string>
     <string name="permlab_readCalendar">Aquesta aplicació pot llegir els esdeveniments i la informació del calendari</string>
     <string name="permlab_readCallLog">lectura del registre de trucades</string>
     <string name="permlab_readCellBroadcasts">llegir missatges de difusió mòbil</string>
@@ -1316,6 +1411,7 @@ per al compte %s."</string>
     <string name="permlab_receiveSms">recepció de missatges de text (SMS)</string>
     <string name="permlab_receiveWapPush">recepció de missatges de text (WAP)</string>
     <string name="permlab_recordAudio">gravar àudio</string>
+    <string name="permlab_recordBackgroundAudio">gravar àudio en segon pla</string>
     <string name="permlab_register_call_provider">registrar connexions de telecomunicacions noves</string>
     <string name="permlab_register_sim_subscription">registrar connexions SIM de telecomunicacions noves</string>
     <string name="permlab_removeDrmCertificates">suprimir els certificats DRM</string>
@@ -1345,9 +1441,9 @@ per al compte %s."</string>
     <string name="permlab_uninstall_shortcut">desinstal·la dreceres</string>
     <string name="permlab_useBiometric">utilitza maquinari biomètric</string>
     <string name="permlab_useDataInBackground">Utilitzar dades en segon pla</string>
-    <string name="permlab_useFaceAuthentication">utilitza el maquinari de desbloqueig facial</string>
     <string name="permlab_useFingerprint">Utilitzar el maquinari d\'empremtes dactilars</string>
     <string name="permlab_use_sip">Fer i rebre trucades de SIP</string>
+    <string name="permlab_uwb_ranging">determinar la posició relativa entre els dispositius de banda ultraampla propers</string>
     <string name="permlab_vibrate">controlar la vibració</string>
     <string name="permlab_videoWrite">modificar la teva col·lecció de vídeos</string>
     <string name="permlab_wakeLock">impedir que el telèfon entri en mode de repòs</string>
@@ -1441,6 +1537,7 @@ per al compte %s."</string>
     <string name="reboot_to_update_title">Actualització del sistema Android</string>
     <string name="recent_tasks_title">Recents</string>
     <string name="redo">Refés</string>
+    <string name="reduce_bright_colors_feature_name">Extra dim</string>
     <string name="region_picker_section_all">Totes les regions</string>
     <string name="relationTypeAssistant">Assistent</string>
     <string name="relationTypeBrother">Germà</string>
@@ -1460,18 +1557,13 @@ per al compte %s."</string>
     <string name="replace">Vols substituir...</string>
     <string name="report">Informe</string>
     <string name="reset">Restableix</string>
-    <string name="resolver_cant_access_personal_apps">No es pot obrir amb aplicacions personals</string>
     <string name="resolver_cant_access_personal_apps_explanation">L\'administrador de TI no et permet obrir aquest contingut amb aplicacions del teu perfil personal</string>
-    <string name="resolver_cant_access_work_apps">No es pot obrir amb aplicacions de treball</string>
     <string name="resolver_cant_access_work_apps_explanation">L\'administrador de TI no et permet obrir aquest contingut amb aplicacions del teu perfil de treball</string>
-    <string name="resolver_cant_share_with_personal_apps">No es pot compartir amb aplicacions personals</string>
     <string name="resolver_cant_share_with_personal_apps_explanation">L\'administrador de TI no et permet compartir aquest contingut amb aplicacions del teu perfil personal</string>
-    <string name="resolver_cant_share_with_work_apps">No es pot compartir amb aplicacions de treball</string>
     <string name="resolver_cant_share_with_work_apps_explanation">L\'administrador de TI no et permet compartir aquest contingut amb aplicacions del teu perfil de treball</string>
-    <string name="resolver_no_personal_apps_available_resolve">No hi ha cap aplicació personal que pugui obrir aquest contingut</string>
-    <string name="resolver_no_personal_apps_available_share">No hi ha cap aplicació personal compatible amb aquest contingut</string>
-    <string name="resolver_no_work_apps_available_resolve">No hi ha cap aplicació de treball que pugui obrir aquest contingut</string>
-    <string name="resolver_no_work_apps_available_share">No hi ha cap aplicació de treball compatible amb aquest contingut</string>
+    <string name="resolver_cross_profile_blocked">Bloquejat pel vostre administrador de TI</string>
+    <string name="resolver_no_personal_apps_available">No hi ha aplicacions personals</string>
+    <string name="resolver_no_work_apps_available">No hi ha aplicacions de treball</string>
     <string name="resolver_personal_tab">Personal</string>
     <string name="resolver_personal_tab_accessibility">Visualització personal</string>
     <string name="resolver_switch_on_work">Activa</string>
@@ -1523,6 +1615,8 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="screen_compat_mode_scale">Escala</string>
     <string name="screen_compat_mode_show">Mostra sempre</string>
     <string name="screen_lock">Bloqueig de pantalla</string>
+    <string name="screen_lock_app_setting_name">Utilitza el bloqueig de pantalla</string>
+    <string name="screen_lock_dialog_default_subtitle">Introduïu el bloqueig de pantalla per continuar</string>
     <string name="screenshot_edit">Edita</string>
     <string name="search_go">Cerca</string>
     <string name="search_hint">Cerca...</string>
@@ -1544,9 +1638,15 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="select_keyboard_layout_notification_title">Configura el teclat físic</string>
     <string name="select_minutes">Selecciona els minuts</string>
     <string name="select_year">Selecciona un any</string>
+    <string name="selected">seleccionat</string>
     <string name="sendText">Tria una acció per al text</string>
     <string name="sending">S\'està enviant…</string>
     <string name="sensor_notification_service">Servei de notificacions de sensor</string>
+    <string name="sensor_privacy_notification_channel_label">Privadesa del sensor</string>
+    <string name="sensor_privacy_start_use_camera_notification_content_title">Desbloqueja la càmera del dispositiu</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Desbloqueja</string>
+    <string name="sensor_privacy_start_use_mic_notification_content_title">Desbloqueja el micròfon del dispositiu</string>
+    <string name="sensor_privacy_start_use_notification_content_text">Per a &lt;b&gt;%s&lt;/b&gt; i totes les aplicacions i serveis</string>
     <string name="serial_number">Número de sèrie:</string>
     <string name="serviceClassData">Dades</string>
     <string name="serviceClassDataAsync">Asíncron</string>
@@ -1613,11 +1713,14 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="sms_short_code_remember_undo_instruction">Pots canviar aquesta opció més endavant a Configuració &gt; Aplicacions</string>
     <string name="smv_application">L\'aplicació %1$s(procés %2$s) ha incomplert la seva política autoimposada de mode estricte.</string>
     <string name="smv_process">El procés %1$s ha incomplert la seva política de mode estricte.</string>
+    <string name="splash_screen_view_branding_description">Imatge de marca de l\'aplicació</string>
+    <string name="splash_screen_view_icon_description">Icona de l\'aplicació</string>
     <string name="ssl_ca_cert_noti_by_administrator">Per l\'administrador del teu perfil de treball</string>
     <string name="ssl_ca_cert_noti_by_unknown">Per un tercer desconegut</string>
     <string name="ssl_ca_cert_noti_managed">Per %s</string>
     <string name="ssl_certificate">Certificat de seguretat</string>
     <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_screen_record">registre de pantalla</string>
     <string name="status_communication_speaker_summary">Una trucada en mans lliures està en curs. Si es connecten els auriculars, es continuarà reproduint l\'àudio a través dels altaveus.</string>
     <string name="status_communication_summary">Hi ha una trucada en curs. Ara només podeu ajustar el volum de les trucades.</string>
@@ -1656,6 +1759,7 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="tethered_notification_title">Enllaç o punt d\'accés actiu</string>
     <string name="textSelectionCABTitle">Selecció de text</string>
     <string name="text_copied">Text copiat al Porta-retalls.</string>
+    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
     <string name="time_picker_decrement_hour_button">Fes disminuir l\'hora</string>
     <string name="time_picker_decrement_minute_button">Fes disminuir el minut</string>
     <string name="time_picker_decrement_set_am_button">Estableix com a a. m.</string>
@@ -1674,9 +1778,12 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="toolbar_collapse_description">Replega</string>
     <string name="tooltip_popup_title">Descripció emergent</string>
     <string name="turn_off_radio">Desactiva la xarxa sense fil</string>
+    <string name="turn_on_magnification_settings_action">Activa a Configuració</string>
     <string name="turn_on_radio">Activa la xarxa sense fil</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Piqueu dos cops per controlar el zoom</string>
     <string name="twilight_service">Servei Twilight</string>
+    <string name="ui_translation_accessibility_translated_text">%1$s Traduït.</string>
+    <string name="ui_translation_accessibility_translation_finished">Missatge traduït de %1$s a %2$s.</string>
     <string name="undo">Desfés</string>
     <string name="unknownName">Desconegut</string>
     <string name="unpin_specific_target">No fixis %1$s</string>
@@ -1731,6 +1838,8 @@ Si escoltes música a un volum alt durant períodes llargs, pots danyar-te l'oï
     <string name="user_switched">Usuari actual: %1$s.</string>
     <string name="user_switching_message">S\'està canviant a %1$s…</string>
     <string name="validity_period">Validesa:</string>
+    <string name="view_and_control_notification_content">%s pot veure i controlar la teva pantalla. Toca per revisar.</string>
+    <string name="view_and_control_notification_title">Comproveu la configuració d\'accés</string>
     <string name="volume_alarm">Volum de l\'alarma</string>
     <string name="volume_bluetooth_call">Volum en trucada per Bluetooth</string>
     <string name="volume_call">Volum en trucada</string>
@@ -1811,6 +1920,8 @@ Vols tancar-la?"</string>
     <string name="wifi_calling_off_summary">Desactivat</string>
     <string name="wifi_no_internet">%1$s no té accés a Internet</string>
     <string name="wifi_no_internet_detailed">Toca per veure les opcions</string>
+    <string name="window_magnification_prompt_content">Ara podeu ampliar part de la vostra pantalla</string>
+    <string name="window_magnification_prompt_title">Noves opcions d\'ampliació</string>
     <string name="wireless_display_route_description">Pantalla sense fil</string>
     <string name="work_mode_off_message">S\'activaran les teves aplicacions de treball, les notificacions, les dades i altres funcions del perfil de treball</string>
     <string name="work_mode_off_title">Activar el perfil de treball?</string>
@@ -1834,6 +1945,7 @@ Vols tancar-la?"</string>
     <string name="zen_mode_forever">Fins que no el desactivis</string>
     <string name="zen_mode_forever_dnd">Fins que desactivis el mode No molestis</string>
     <string name="zen_mode_until">Fins a les %1$s</string>
+    <string name="zen_mode_until_next_day">Fins al %1$s</string>
     <string name="zen_upgrade_notification_content">"Toca per consultar què s'ha bloquejat."</string>
     <string name="zen_upgrade_notification_title">S\'ha canviat el mode No molestis</string>
     <string name="zen_upgrade_notification_visd_content">Toca per obtenir més informació i canviar la configuració.</string>

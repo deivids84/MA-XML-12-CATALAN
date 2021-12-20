@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Botó</item>
+        <item>Gest</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Flotant sobre altres aplicacions</item>
+        <item>Barra de navegació</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Petita</item>
+        <item>Gran</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Xarxa domèstica</item>
         <item>Totes les xarxes</item>
@@ -391,9 +403,9 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Habilita els còdecs opcionals</item>
         <item>Inhabilita els còdecs opcionals</item>
     </string-array>
@@ -406,9 +418,9 @@
         <item>LDAC</item>
         <item>Activa els còdecs opcionals</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Habilita els còdecs opcionals</item>
         <item>Inhabilita els còdecs opcionals</item>
     </string-array>
@@ -419,9 +431,9 @@
         <item>" | Actiu (telèfon)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (per defecte)</item>
+        <item>AVRCP 1.5 (per defecte)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
@@ -447,8 +459,6 @@
         <item>Inhabilitat</item>
         <item>Filtrat</item>
         <item>Habilitat</item>
-        <item>Les capçaleres filtrades</item>
-        <item>S\'han filtrat els paquets de suports</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segon</item>
@@ -884,10 +894,9 @@
         <item>30 minuts</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>No valideu</item>
+        <item>No comproveu</item>
         <item>Sol·liciteu l\'estat del certificat</item>
         <item>Requereix l’estat del certificat</item>
-        <item>Requereixen tots els estats del certificat no de confiança</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Cap</item>
@@ -985,6 +994,11 @@
         <item>Després de 5 minuts</item>
         <item>Mai</item>
     </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Curt</item>
+        <item>Mitjana</item>
+        <item>Llarg</item>
+    </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Curta</item>
         <item>Mitjana</item>
@@ -1054,7 +1068,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>La xarxa va lenta perquè hi ha molt trànsit</item>
@@ -1124,7 +1137,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>Global</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
         <item>LTE / WCDMA</item>
         <item>Només TDSCDMA</item>
@@ -1141,7 +1154,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>Global</item>
         <item>NR/LTE/WCDMA</item>
         <item>NR/LTE/TDSCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM</item>
@@ -1256,7 +1269,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>256 KB per buffer de registre</item>
         <item>1 MB per buffer de registre</item>
         <item>4 MB per buffer de registre</item>
-        <item>16 MB per buffer de registre</item>
+        <item>8 MB per memòria intermèdia de registre</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desactivat</item>
@@ -1264,7 +1277,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>256 KB</item>
         <item>1 MB</item>
         <item>4 MB</item>
-        <item>16 MB</item>
+        <item>8 MB</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Desactivat</item>
@@ -1337,8 +1350,9 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>zeus</item>
         <item>cupid</item>
         <item>psyche</item>
-        <item>evergo</item>
-        <item>evergreen</item>
+        <item>poussin</item>
+        <item>ingres</item>
+        <item>matisse</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítid</item>
@@ -1596,6 +1610,20 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>Ha fallat</item>
         <item>Bloquejat</item>
         <item>Evita temporalment la mala connexió</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Escaneig…</item>
+        <item>Connexió…</item>
+        <item>Autenticació…</item>
+        <item>Obtenció de l\'adreça IP…</item>
+        <item>Connectat</item>
+        <item>Suspès</item>
+        <item>Desconnexió…</item>
+        <item>Desconnectat</item>
+        <item>Sense èxit</item>
+        <item>Bloquejat</item>
+        <item>Evitant temporalment una mala connexió</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Sense animacions</item>

@@ -71,12 +71,20 @@
         <item>Verd</item>
         <item>Blau</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>No interessant</item>
+        <item>Repetitiva</item>
+        <item>Baixa qualitat</item>
+        <item>Foto inadequada</item>
+        <item>Informació fraudulenta</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Contingut explícit</item>
         <item>Falsetat</item>
         <item>Notícies antigues</item>
         <item>Vistes extremistes</item>
         <item>Anuncis subliminals</item>
+        <item>"No m'agrada"</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Torna o passa la pàgina</item>

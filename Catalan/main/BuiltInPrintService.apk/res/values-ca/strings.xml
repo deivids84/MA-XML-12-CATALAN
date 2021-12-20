@@ -11,6 +11,8 @@
     <string name="connections">Connexions</string>
     <string name="connects_via_network">Connecta mitjançant la xarxa actual a %1$s</string>
     <string name="connects_via_wifi_direct">Connecta a través de Wi-Fi Direct</string>
+    <string name="disable_wifi_direct">Inhabilita la Wi-Fi Direct</string>
+    <string name="enable_location">Habilita la ubicació</string>
     <string name="failed_connection">No s\'ha pogut connectar a %1$s</string>
     <string name="failed_printer_connection">No s\'ha pogut connectar la impressora</string>
     <string name="find_wifi_direct">Troba impressores amb Wi-Fi Direct</string>
@@ -51,7 +53,9 @@
     <string name="unreadable_input">No s\'ha pogut llegir el document</string>
     <string name="waiting_to_send">Esperant per enviar</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wifi_direct_location_rationale">El servei d\'impressió per defecte necessita serveis d\'ubicació habilitats per trobar dispositius propers.</string>
     <string name="wifi_direct_permission_rationale">El servei d\'impressió predeterminat necessita permisos d\'ubicació per trobar els dispositius propers.</string>
     <string name="wifi_direct_printers">Impressores amb Wi-Fi Direct</string>
     <string name="wifi_direct_printing">Impressió amb Wi-Fi Direct</string>
+    <string name="wifi_direct_problem">El servei d\'impressió per defecte no troba impressores Wi-Fi Direct</string>
 </resources>

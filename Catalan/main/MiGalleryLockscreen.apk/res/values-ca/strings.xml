@@ -282,7 +282,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
-    <string name="fmt_time_24hour">"HH \"en punt\""</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="for_diagnosis_usage_only">Els registres només s’utilitzen per als diagnòstics.</string>
     <string name="friday">Divendres</string>
     <string name="friday_short">Dv.</string>

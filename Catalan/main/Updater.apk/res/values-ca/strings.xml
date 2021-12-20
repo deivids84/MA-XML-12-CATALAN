@@ -31,6 +31,7 @@
     <string name="download_fail_desc">La suma MD5 no coincideix…</string>
     <string name="downloading">S\'està baixant:</string>
     <string name="downloading_desc">Baixada en curs, comproveu l\'estat en l\'àrea de notificació.</string>
+    <string name="fastboot_update_warning">Aquesta actualització només és per a la instal·lació d\'arrencada ràpida!</string>
     <string name="fetching_data">S\'està obtenint l\'enllaç de baixada, espereu…</string>
     <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer triat: <b>%1$s</b>\"
 Les dades no s’esborraran.\"</string>

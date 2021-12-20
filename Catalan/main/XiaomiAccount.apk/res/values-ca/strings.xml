@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
     <string name="abc_toolbar_collapse_description">Replega</string>
     <string name="about_device_info">Mostra els detalls del dispositiu</string>
+    <string name="accept">Permet</string>
     <string name="access_token_expired_warning">El compte Weibo ha caducat</string>
     <string name="access_token_invalid_warning">El compte Weibo no és vàlid</string>
     <string name="account">Compte</string>
@@ -81,6 +82,7 @@
     <string name="account_verify_guide_bind_mail_desc">Afegiu un correu electrònic de recuperació</string>
     <string name="account_verify_guide_bind_phone_desc">Afegiu un telèfon de recuperació</string>
     <string name="account_verify_guide_set_password_desc">Establiu una contrasenya</string>
+    <string name="account_verify_guide_verify_phone_desc">Confirmeu el telèfon de recuperació</string>
     <string name="account_xiaomi_service">Serveis</string>
     <string name="action_add_phone">Afegeix un número de telèfon</string>
     <string name="action_retry">Torna-ho a provar</string>
@@ -105,7 +107,11 @@
     <string name="binded">Connectat</string>
     <string name="binded_description" formatted="false">"%s s'ha connectat al vostre compte Mi.
 Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
+    <string name="button_agree">D\'acord</string>
+    <string name="button_close">Tanca</string>
+    <string name="button_refuse">"No estic d'acord"</string>
     <string name="button_unbind">Desconnecta</string>
+    <string name="cancel">Cancel·la</string>
     <string name="change_activate_email">Canvia l\'adreça de correu electrònic</string>
     <string name="change_email_address">Canvia l\'adreça de correu electrònic</string>
     <string name="change_password">Canvia la contrasenya</string>
@@ -115,6 +121,10 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="close">Tanca</string>
     <string name="cloud_description_closed">Ocupat | Sincronització desactivada</string>
     <string name="cloud_description_normal">Ocupat</string>
+    <string name="cloud_service_status_backup_not_open">La còpia de seguretat està desactivada</string>
+    <string name="cloud_service_status_cloud_not_open">Desactivat</string>
+    <string name="cloud_service_status_storage_full">L\'emmagatzematge està ple</string>
+    <string name="cloud_service_status_storage_not_enough">No hi ha prou espai</string>
     <string name="collect_diagnosis_log">Genera registre de diagnòstic</string>
     <string name="com_facebook_device_auth_instructions">Visiteu &lt;b&gt;facebook.com/device&lt;/b&gt; i introduïu el codi que es mostra més amunt.</string>
     <string name="com_facebook_image_download_unknown_error">Error inesperat en baixar una imatge.</string>
@@ -176,6 +186,7 @@ Ara podeu iniciar la sessió al vostre compte Mi mitjançant %s."</string>
     <string name="delete_device_btn">Elimina</string>
     <string name="delete_device_failed">"No es pot eliminar el dispositiu"</string>
     <string name="delete_device_notice">"Un cop eliminat el dispositiu, es traurà automàticament del compte Mi. No podreu utilitzar aquest dispositiu per accedir a les fotos, missatges o altre contingut emmagatzemat al vostre compte."</string>
+    <string name="deny">Denega</string>
     <string name="device_delete_success_message">"Si no heu iniciat la sessió en aquest dispositiu, canvieu la contrasenya immediatament."</string>
     <string name="device_delete_success_title">Sessió tancada</string>
     <string name="device_list__header">Els meus dispositius</string>
@@ -188,6 +199,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="download_file">S\'està baixant %s…</string>
     <string name="early_morning">Matí</string>
     <string name="empty_device_list_notice">No hi ha dispositius</string>
+    <string name="enable">Configuració</string>
     <string name="ep_unsupported">"No es pot iniciar la sessió al compte Mi al dispositiu"</string>
     <string name="eras_bc">a.C.</string>
     <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
@@ -247,6 +259,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="get_phone_bind_exceed_limit">"Podeu associar fins a tres comptes Mi amb un número de telèfon. No es poden afegir comptes nous."</string>
     <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
     <string name="google_login">Inicia la sessió amb Google</string>
+    <string name="goto_accept">D’acord</string>
     <string name="guest_account_label">Compte de convidat Mi</string>
     <string name="health_action_activate">Activa</string>
     <string name="health_action_install">Instal·la</string>
@@ -271,9 +284,11 @@ Envieu aquest codi al supervisor."</string>
     <string name="kr_permission_sms_desc">Per obtenir codis de verificació automàtics</string>
     <string name="kr_permission_storage_desc">Per desar diagnòstics</string>
     <string name="loading_micloud_sync_data">Un moment…</string>
+    <string name="login_3rd_app_with_system_account">Inicia la sessió a %s</string>
     <string name="login_check_find_device">Obtenint la informació de seguretat del dispositiu…</string>
     <string name="login_check_find_device_failed_title">"No s'ha pogut comprovar la informació de seguretat del dispositiu"</string>
     <string name="login_find_device_bind">Aquest dispositiu està associat a un identificador de compte Mi (%s) existent.</string>
+    <string name="login_with_other">Més opcions</string>
     <string name="logout_account">Tanca la sessió</string>
     <string name="logout_failed">"No s'ha pogut tancar la sessió"</string>
     <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>
@@ -380,6 +395,8 @@ Envieu aquest codi al supervisor."</string>
     <string name="notify_network_restricted_content_hidden_state">"L’activitat en segon pla del compte Mi està restringida. Toqueu per permetre-ho."</string>
     <string name="notify_network_restricted_content_mobile_network">"L’accés a internet del compte Mi està restringit. Toqueu per permetre-ho."</string>
     <string name="notify_network_restricted_title">"El compte Mi no s'ha pogut connectar a la xarxa"</string>
+    <string name="notify_verify_again_security_phone">Confirma</string>
+    <string name="notify_verify_security_phone">Telèfon</string>
     <string name="oauth_get_scopes_failed">"No s'ha pogut obtenir la informació del compte"</string>
     <string name="oauth_getting_scopes">S\'està verificant el compte…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtindrà els permisos següents:&lt;br&gt; &lt;br&gt; %3$s</string>
@@ -408,6 +425,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_activing_account">S\'està activant…</string>
     <string name="passport_adding_account">S\'està afegint el compte…</string>
     <string name="passport_area_code_hot">UTILITZAT FREQÜENTMENT</string>
+    <string name="passport_area_code_others">Utilitza un prefix diferent</string>
     <string name="passport_area_code_title">Codi de país</string>
     <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
     <string name="passport_back">Enrere</string>
@@ -598,6 +616,7 @@ Envieu aquest codi al supervisor."</string>
     <string name="passport_title_reg">Crea un compte</string>
     <string name="passport_trust_device">Afegeix aquest dispositiu a dispositius verificats</string>
     <string name="passport_trying_read_verify_code_sms">S\'està obtenint el codi de verificació…</string>
+    <string name="passport_tz_invalid">S\'han trobat riscos de seguretat. És possible que aquest dispositiu s\'hagi arrelat o flashejat. Proveu altres opcions d\'inici de sessió.</string>
     <string name="passport_uplink_reg">Utilitza el número de telèfon</string>
     <string name="passport_uplink_send_sms_hint">"Toca \"Envia\" després de redirigir-te a la pàgina amb un missatge compost."</string>
     <string name="passport_uplink_slot1_reg">Utilitza la SIM 1</string>
@@ -632,14 +651,24 @@ Envieu aquest codi al supervisor."</string>
     <string name="password_toggle_content_description">Mostra la contrasenya</string>
     <string name="password_view_hide_password">Amaga la contrasenya</string>
     <string name="password_view_show_password">Mostra la contrasenya</string>
+    <string name="permission_desc_read_sms">Per a codis de verificació d\'emplenament automàtic</string>
+    <string name="permission_desc_write_external_storage">Per penjar registres per rebre comentaris</string>
     <string name="permission_group_contacts">Contactes</string>
     <string name="permission_group_phone">Telèfon</string>
     <string name="permission_group_storage">Emmagatzematge</string>
+    <string name="permission_instructions">Ús de permisos</string>
+    <string name="permission_read_sms">Accés als missatges</string>
+    <string name="permission_withdraw">Retira</string>
+    <string name="permission_write_external_storage">Accedir i desar elements a l’emmagatzematge</string>
     <string name="personal_info_desc">Foto, sobrenom i molt més</string>
     <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
     <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat al porta-retalls.</string>
+    <string name="privacy_policy_reject_confirm_msg">"No podreu seguir utilitzant el Compte Mi tret que accepteu la nova versió de la seva Política de privadesa. Esteu d'acord amb la nova &lt;a href=%1$s&gt;Política de privadesa&lt;/a&gt; del Compte Mi?"</string>
+    <string name="privacy_policy_reject_confirm_title">"No es pot utilitzar el Compte Mi"</string>
+    <string name="privacy_policy_update_msg">La política de privadesa del Compte Mi s\'ha actualitzat:&lt;br/&gt;%1$s&lt;br/&gt;Llegiu i accepteu la nova versió de la &lt;a href=%2$s&gt;&lt;u&gt;Política de privadesa&lt;/u&gt;&lt;/a&gt; abans de continuar.</string>
+    <string name="privacy_policy_update_title">Política de privadesa actualitzada</string>
     <string name="provision_back">Enrere</string>
     <string name="provision_next">Següent</string>
     <string name="provision_skip_underline">Omet</string>
@@ -652,6 +681,12 @@ Envieu aquest codi al supervisor."</string>
     <string name="recycle_phone_notification_title">Risc de seguretat del Compte Mi</string>
     <string name="removing_account">S\'està tancant la sessió…</string>
     <string name="replace_binded_phone">Substitueix el telèfon</string>
+    <string name="request_open_permission">Permisos necessaris</string>
+    <string name="request_use_camera_message">"Voleu permetre que el Compte Mi accedeixi a la càmera del telèfon?"</string>
+    <string name="request_use_camera_title">Accés a la càmera</string>
+    <string name="request_use_gallery_message">Voleu permetre que el Compte Mi accedeixi a la Galeria?</string>
+    <string name="request_use_gallery_title">Accés a la Galeria</string>
+    <string name="request_use_writing_clipboard_message">Per copiar l\'identificador del Compte Mi, permeteu que el Compte Mi desi elements al porta-retalls.</string>
     <string name="resend_active_email">Reenvia</string>
     <string name="resend_email_reach_limit_message">"Heu sol·licitat massa correus electrònics de verificació. Assegureu-vos que el correu electrònic de verificació no estigui a la carpeta de correu brossa de la safata d'entrada."</string>
     <string name="resend_email_reach_limit_title">"No es pot enviar el correu"</string>
@@ -659,6 +694,9 @@ Envieu aquest codi al supervisor."</string>
     <string name="restart_action">Comença de nou</string>
     <string name="restart_phone_bind_message">Es pot trigar un temps a rebre el SMS. Voleu començar de nou de totes maneres?</string>
     <string name="restart_phone_bind_title">Canvia el telèfon de recuperació</string>
+    <string name="revoke_privacy_policy">Retirada del consentiment</string>
+    <string name="revoke_privacy_policy_instructions">"Si continueu, retirareu el vostre consentiment a la Política de privadesa del Compte Mi. Deixarem de recollir la vostra informació personal. La informació personal que ja s'ha recopilat i conservat se suprimirà dins del període específic d'acord amb les lleis i regulacions aplicables, tret que s'exigeix el contrari. Com que el Compte Mi proporciona els seus serveis basats en la recollida de la informació personal necessària, la retirada del consentiment es considerarà una negativa a acceptar els serveis del Compte Mi. Voleu retirar el consentiment?"</string>
+    <string name="revoke_privacy_policy_title">Retirada del consentiment</string>
     <string name="risky_pwd_not_allow">"La contrasenya nova no és segura. Estableix-ne una de diferent."</string>
     <string name="same_new_and_old_pwd">La contrasenya nova ha de ser diferent de l\'anterior</string>
     <string name="saturday">Dissabte</string>
@@ -802,6 +840,18 @@ Envieu aquest codi al supervisor."</string>
     <string name="used_cloud_storage_info">S\'ha utilitzat %s</string>
     <string name="user_avatar_update_title">Canvia la foto de perfil</string>
     <string name="user_avatar_uploading">Un moment…</string>
+    <string name="user_instruction_all_purpose">Us donem la benvinguda al Compte Mi! Podeu utilitzar el vostre compte per accedir als serveis que ofereix Xiaomi i les seves empreses afiliades, com ara Mi.com, Xiaomi Cloud i GetApps. Podeu obtenir Mi Coins, comprar béns virtuals i gaudir de serveis de valor afegit que inclouen jocs, temes i llibres electrònics.</string>
+    <string name="user_instruction_tip">Per poder iniciar la sessió, llegiu i accepteu els termes i condicions.</string>
+    <string name="user_license_with_3rd_app"><Data>\"En iniciar la sessió amb el meu compte Mi, confirmo que he llegit i acceptat &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de China Mobile&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa&lt;/a&gt;del compte Mi.\"</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de comptes d\'eSurfing&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>\"He llegit i accepto &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privadesa&lt;/a&gt; &lt;a href=%3$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%4$s&gt;Política de privadesa del compte Mi&lt;/a&gt;, així com &lt;a href=%5$s&gt;Termes i condicions dels serveis de verificació de China Unicom&lt;/a&gt;.\"</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;de Privacitat Política de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_app"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;de Privacitat Política de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Condicions dels serveis de verificació de la Xina Mobile&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Condicions de eSurfing serveis de verificació de compte de&lt;/a&gt;\".</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>\"He llegit i accepto de compte El meu &lt;a href=%1$s&gt;Acord d\'usuari&lt;/a&gt; i &lt;a href=%2$s&gt;Política de privacitat&lt;/a&gt;, així com &lt;a href=%3$s&gt;Condicions de la Xina Unicom serveis de verificació de&lt;/a&gt;\".</Data></string>
     <string name="v7_preference_off">DESACTIVAT</string>
     <string name="v7_preference_on">ACTIVAT</string>
     <string name="vip_account_settings">Configuració VIP</string>

@@ -214,7 +214,7 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punt'"</string>
-    <string name="fmt_time_24hour">"HH \"en punt\""</string>
+    <string name="fmt_time_24hour">"HH 'en punt'"</string>
     <string name="force_touch_newdownload">Nova baixada</string>
     <string name="force_touch_rank">Classificacions</string>
     <string name="force_touch_search">Cerca al web</string>

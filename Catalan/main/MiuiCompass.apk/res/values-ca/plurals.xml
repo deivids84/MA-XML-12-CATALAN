@@ -36,6 +36,10 @@
         <item quantity="other">Fa %d min</item>
         <item quantity="one">Fa 1 min</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">Visualització de la pàgina %d</item>
+        <item quantity="one">Visualització de la pàgina %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Fa mitja hora</item>
         <item quantity="other">Fa mitja hora</item>
@@ -67,5 +71,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Fa %d minuts</item>
         <item quantity="one">Fa 1 minut</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Total %d pàgines</item>
+        <item quantity="one">Total %d pàgina</item>
     </plurals>
 </resources>
