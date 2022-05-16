@@ -1186,7 +1186,7 @@ No perdreu cap dada d'aplicació."</string>
     <string name="deep_power_save_item_title_lock_screen_time">Posa la pantalla a dormir</string>
     <string name="deep_save_memory_clean_summary">Esborra la memòria cau quan es bloqueja el dispositiu per evitar l\'ús de la bateria de les aplicacions</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Programeu l\'hora d\'encesa i apagat del dispositiu</string>
-    <string name="default_condition_summary">Per exemple, \"La bateria és inferior a %s\"</string>
+    <string name="default_condition_summary">Per exemple, \"La bateria és inferior a 20%\"</string>
     <string name="default_condition_title">Afegeix una condició</string>
     <string name="default_condition_title_continue">Afegeix una condició</string>
     <string name="default_result_summary">Per exemple, \"Desactiva el Mode avió\"</string>
